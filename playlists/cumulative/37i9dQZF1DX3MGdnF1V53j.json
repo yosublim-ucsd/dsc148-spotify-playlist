@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Ghalta",
+        "url": "https://open.spotify.com/album/5PJ8TwqTpZlfN1D1m6mY7x"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Ghalta",
+      "url": "https://open.spotify.com/track/0xY2vzshH5d07tNf8OTdEa"
+    },
+    {
+      "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
       },

@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Fuego Sintana, G\-TECH 2bit, Tyler The Creator, and more...
+> Only the hottest Hip Hop from Fuego Sintana, Maglera Doe Boy, Tyler The Creator, and more...
 
-341 songs - 18 hr 25 min
+342 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-06-23 | 2024-08-02 |
 | [OMEGA FREESTYLE](https://open.spotify.com/track/3kZs4CPU9sP6Yxf6H9W36N) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [OMEGA FREESTYLE](https://open.spotify.com/album/5kccm8oUQI7qy3rYNZ57uS) | 2:41 | 2022-08-29 | 2022-11-04 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-10 | 2023-09-23 |
-| [On Dat Money \(with Cardi B\)](https://open.spotify.com/track/4uDc2WS8rwMUc0UfYnB3rg) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [On Dat Money \(with Cardi B\)](https://open.spotify.com/album/2ZyzkQnzmn0NvxhVz9Ntwn) | 2:31 | 2024-07-18 |  |
+| [On Dat Money \(with Cardi B\)](https://open.spotify.com/track/4uDc2WS8rwMUc0UfYnB3rg) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [On Dat Money \(with Cardi B\)](https://open.spotify.com/album/2ZyzkQnzmn0NvxhVz9Ntwn) | 2:31 | 2024-07-18 | 2024-12-13 |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-09-22 | 2024-07-19 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-06 | 2023-05-06 |
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2022-12-12 | 2023-01-24 |
@@ -277,6 +277,7 @@
 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 | 2023-06-23 | 2023-09-23 |
 | [SOULLESS](https://open.spotify.com/track/57sUoOeMObVoDOyyalnpUh) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SOULLESS](https://open.spotify.com/album/0gsirrJcV3wOGm79FzHapK) | 3:37 | 2024-10-11 |  |
 | [south](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [south](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 | 2024-10-03 |  |
+| [Speak Love \(feat\. WNDRSZN & Marcus Harvey\)](https://open.spotify.com/track/0OSFXMr8KKhkzKJJ0kH9Cv) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [ONDELIVE](https://open.spotify.com/artist/4TvfKR50RpAHjQdMKTqL8t), [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [MAGLERA TAPES](https://open.spotify.com/album/7HWGDAaDmVM4WhSNcb0Atp) | 3:26 | 2024-12-12 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-23 | 2024-08-02 |
 | [sss](https://open.spotify.com/track/5M8WGkmdlVT5eistT6gWsh) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 2:50 | 2022-11-03 | 2022-11-11 |
 | [Sta Soft](https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Sta Soft](https://open.spotify.com/album/59Vl3fXba0pHYimUkuTzqV) | 3:25 | 2022-07-21 | 2024-02-09 |

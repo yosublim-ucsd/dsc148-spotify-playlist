@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Haloo Helsinki!
 
-242 songs - 14 hr 15 min
+244 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Me ollaan niin pienii](https://open.spotify.com/track/6vwccN8uniz3l1mNwVBdzl) | [Freesia](https://open.spotify.com/artist/4st8ZRjH23jaPQrJ0gPSvh) | [Me ollaan niin pienii](https://open.spotify.com/album/4YpveFiVXnqRxgAuw8DQdH) | 3:14 | 2024-08-29 | 2024-11-29 |
 | [Me ollaan siskot](https://open.spotify.com/track/4oyeTpI7bkjkpldKOk4PU2) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Me ollaan siskot](https://open.spotify.com/album/74gp6EnHAcwSQX6PW0l50u) | 2:56 | 2024-08-29 | 2024-10-12 |
 | [Me ollaan tähtiä](https://open.spotify.com/track/7nnLA3p9y12PGoIyS079wN) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Me ollaan tähtiä](https://open.spotify.com/album/0heEiD5Zi25gTEagJuul2H) | 3:10 | 2024-07-02 | 2024-07-05 |
+| [Meitä maailma katsoo](https://open.spotify.com/track/7l43O2Kuo9crXh03K0oUX0) | [Lenni Paarma](https://open.spotify.com/artist/58pOIfSljNDWiXz9iogCGj) | [Meitä maailma katsoo](https://open.spotify.com/album/1qZyrF0ozwEsXwYls3SZ8g) | 2:56 | 2024-12-12 |  |
 | [Meri josta elän](https://open.spotify.com/track/1FGwbuI501ZwGBrncqb4lI) | [Kalle Ahola](https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds) | [Meri josta elän](https://open.spotify.com/album/76hy36Gdel0t47rj3I08EU) | 4:57 | 2024-10-17 |  |
 | [Mielenkiintona toimintaa](https://open.spotify.com/track/6P3TP4tgr3RqLGpBZZASmj) | [PIMEE](https://open.spotify.com/artist/0IDEQvvWfj2E7sPTXqBGit) | [Mielenkiintona toimintaa](https://open.spotify.com/album/3BpUyn4iL0a5zpIQiJ13ui) | 2:50 | 2024-11-28 | 2024-12-06 |
 | [Mikään ei riitä](https://open.spotify.com/track/4YNuneqO5FfotWW3OZUych) | [Nymfiparakiitti](https://open.spotify.com/artist/2AAFoWB9ytUbsjUQGg9O5v) | [Mikään ei riitä](https://open.spotify.com/album/220GKV9ZFQmJpajQNHjA9L) | 3:41 | 2024-10-24 | 2024-11-22 |
@@ -235,6 +236,7 @@
 | [Vakavaa](https://open.spotify.com/track/5JT6AkFVdJBDg6Mqufjo3x) | [Jere Valkonen](https://open.spotify.com/artist/0FtRSBfEsyAf0Wo7yOXW9A) | [Vakavaa](https://open.spotify.com/album/6OQJ4DEZbhCZY2uDFdbpJ2) | 3:36 | 2024-10-03 | 2024-11-01 |
 | [Valtatie Tuonelaan](https://open.spotify.com/track/3RrSsuJPFQBx5u11R7H0Xm) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Valtatie Tuonelaan](https://open.spotify.com/album/17NL4b2ssvOyIifGBEPBvW) | 3:27 | 2024-11-13 |  |
 | [Vapauteen](https://open.spotify.com/track/4OTlbuDEqWBdVWrAEA1Nvr) | [Varissuo](https://open.spotify.com/artist/4FbCm0KhTyrFMuKu9ykGLE) | [Vapauteen](https://open.spotify.com/album/08LDifosqmFUiqOHzf2FgY) | 4:25 | 2024-09-26 |  |
+| [Vappu](https://open.spotify.com/track/4TjajU6sG9hswzd6lcRgpo) | [Hene Jääsalo](https://open.spotify.com/artist/2rwKP6hEIirWnfvIrCTAy4) | [Vappu](https://open.spotify.com/album/0U2AXF2p9XmqvF2igxD9GW) | 3:58 | 2024-12-12 |  |
 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 | 2024-07-02 | 2024-09-13 |
 | [Vie meidät täältä pois](https://open.spotify.com/track/76QqtA3mTSyqzCJBd5tMiN) | [Likaiset Pikkarit](https://open.spotify.com/artist/2yckomJkcl94rQYu8outXS) | [Vie meidät täältä pois](https://open.spotify.com/album/2O9iQqieq0yPtLIIKzrUhV) | 2:38 | 2024-11-28 |  |
 | [Vihaa ja rakkautta](https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM) | [Freesi](https://open.spotify.com/artist/4sRObLNOtgx4bdcOmMzwad) | [Vihaa ja rakkautta](https://open.spotify.com/album/4Qz9J3ZUGhN2Dk6hIuLsao) | 3:06 | 2024-10-31 |  |

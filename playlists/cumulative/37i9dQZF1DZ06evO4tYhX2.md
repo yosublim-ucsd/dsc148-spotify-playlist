@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-101 songs - 8 hr 51 min
+102 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Regocíjate Oh Moradora De Sión](https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 2:53 | 2022-09-14 |  |
 | [Remolineando \(feat\. Fernel Monroy\)](https://open.spotify.com/track/1NmECxDikubj4Hhu1dbrhl) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Fernel Monroy](https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:35 | 2022-09-14 |  |
 | [Shekina \(En Vivo\)](https://open.spotify.com/track/08xvwy9R89yO8WS0P6DaT2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 4:41 | 2023-07-26 |  |
-| [Shekinah \- Live](https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP) | 8:30 | 2022-09-14 |  |
+| [Shekinah \- Live](https://open.spotify.com/track/2IWoa4xlbEMsQDh5xjIbTw) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/6copG6KLyeYLmwS7t1mTaG) | 8:30 | 2024-12-13 |  |
+| [Shekinah \- Live](https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP) | 8:30 | 2022-09-14 | 2024-12-13 |
 | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/album/5RudolYe3u7YMRDM3ZqHpp) | 3:53 | 2024-07-14 |  |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 | 2023-11-11 |
 | [Soy Feliz \(En Vivo\)](https://open.spotify.com/track/072T1qKRkyhNUE4plWX85R) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:02 | 2024-11-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover:  Davido",
+  "description": "Afrobeats' hottest singles. Cover:  Wande Coal , Kel P",
   "name": "Gbedu",
   "tracks": [
     {
@@ -6194,10 +6194,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 152307,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "album": {
+        "name": "Old Soldier",
+        "url": "https://open.spotify.com/album/6a9wNETrwdsuuU1DFhQyA3"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Old Soldier",
+      "url": "https://open.spotify.com/track/0cREe4pQv35ekBuzzldv0u"
     },
     {
       "album": {

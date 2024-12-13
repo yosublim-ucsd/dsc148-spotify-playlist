@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u5353\u6e90",
+          "url": "https://open.spotify.com/artist/3zVLEU7SOPy0XCmdNK8ygI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170689,
+      "name": "feathers",
+      "url": "https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA"
+    },
+    {
+      "album": {
         "name": "First Line Of The Poem (Drama \"Gold Leaf\" Interlude Song)",
         "url": "https://open.spotify.com/album/1DFsZyg7tE097RWIRnmMJK"
       },
@@ -452,6 +470,28 @@
       "duration_ms": 244474,
       "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
+    },
+    {
+      "album": {
+        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
+        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214362,
+      "name": "I LOVE US (feat. \u9b4f\u5982\u8431)",
+      "url": "https://open.spotify.com/track/5Hx70gaTOskx491BGtZoNR"
     },
     {
       "album": {
@@ -816,6 +856,28 @@
       "duration_ms": 219406,
       "name": "One Last Try",
       "url": "https://open.spotify.com/track/5EnCnLGT0nBt6tF72tYE2w"
+    },
+    {
+      "album": {
+        "name": "Packing List",
+        "url": "https://open.spotify.com/album/0SjBr6UXLEwTKtHThlRQ2J"
+      },
+      "artists": [
+        {
+          "name": "Goose \u6211\u9ce5",
+          "url": "https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN"
+        },
+        {
+          "name": "\u9ec4\u6dd1\u60e0",
+          "url": "https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Packing List",
+      "url": "https://open.spotify.com/track/2ExDOO687jyEiVdQpJbMdl"
     },
     {
       "album": {
@@ -1368,7 +1430,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 231818,
       "name": "\u4e00\u5982\u5f80\u5e38\u7684\u5584\u826f",
       "url": "https://open.spotify.com/track/3I1F6I4BJN0OxJqsLZmQF6"
@@ -2294,7 +2356,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 184607,
       "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
       "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
@@ -4112,7 +4174,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 225230,
       "name": "\u5f52\u5c5e\u611f",
       "url": "https://open.spotify.com/track/7yphV7ixTM47ONtDZgsLPm"
@@ -4202,7 +4264,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162653,
       "name": "\u5f8c\u8996\u93e1",
       "url": "https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI"
@@ -5567,6 +5629,28 @@
     },
     {
       "album": {
+        "name": "\u6700\u597d\u7684\u6642\u5149\uff08\u300a\u9078\u7269\u5bb6\u300b\u4e3b\u984c\u66f2\uff09",
+        "url": "https://open.spotify.com/album/0B52jMTboxLpVZM7Z1ICGU"
+      },
+      "artists": [
+        {
+          "name": "Tsai Yi Chun",
+          "url": "https://open.spotify.com/artist/22LnND4uhqgQmuRxZuUKcs"
+        },
+        {
+          "name": "Roro Chao",
+          "url": "https://open.spotify.com/artist/05PUzH9lurbiAwwH9c1Sar"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "\u6700\u597d\u7684\u6642\u5149\uff08\u300a\u9078\u7269\u5bb6\u300b\u4e3b\u984c\u66f2\uff09",
+      "url": "https://open.spotify.com/track/5CQX5sCrko17tUb7WI2d9B"
+    },
+    {
+      "album": {
         "name": "\u6700\u597d\u7684",
         "url": "https://open.spotify.com/album/5rdzNIfW48kmAlfLiSIZj2"
       },
@@ -6178,6 +6262,24 @@
       "duration_ms": 350117,
       "name": "\u6de1\u9ec3\u8272 - Recap",
       "url": "https://open.spotify.com/track/66EtQpP48OLRo1O79XVrzN"
+    },
+    {
+      "album": {
+        "name": "\u6df1\u85cd\u6d77",
+        "url": "https://open.spotify.com/album/5y4kXTQeXluWutxTVHUFSb"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u771f TRU",
+          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251272,
+      "name": "\u6df1\u85cd\u6d77",
+      "url": "https://open.spotify.com/track/29KqtXjfOaMuHfRfdbueZG"
     },
     {
       "album": {
@@ -7090,7 +7192,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 300000,
       "name": "\u81ea\u00b7\u4fe1",
       "url": "https://open.spotify.com/track/6I7K3bjWM7pLxLEWLeiyjz"

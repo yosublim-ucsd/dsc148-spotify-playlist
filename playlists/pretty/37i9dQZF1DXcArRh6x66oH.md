@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > i'd run across the river just to hold you tonight
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,799 likes - 127 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,115 likes - 127 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

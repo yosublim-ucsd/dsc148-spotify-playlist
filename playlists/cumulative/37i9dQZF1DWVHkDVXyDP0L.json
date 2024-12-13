@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Press Club",
+  "description": "New and local indie noise. Cover: Dear Seattle",
   "name": "Local Noise",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 257084,
       "name": "AFTERBIAS",
       "url": "https://open.spotify.com/track/3LqQOYcWauYqd7gtohdbYL"
+    },
+    {
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204031,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI"
     },
     {
       "album": {
@@ -532,7 +550,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 156620,
       "name": "Champagne & Nikes",
       "url": "https://open.spotify.com/track/7eQ9YZqwYQ5peVXUuzSoKU"
@@ -1256,6 +1274,24 @@
       "duration_ms": 76693,
       "name": "Couch Potato",
       "url": "https://open.spotify.com/track/6yLG0gsssy6C5ZDgVZVziN"
+    },
+    {
+      "album": {
+        "name": "Counting Hours",
+        "url": "https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161967,
+      "name": "Counting Hours",
+      "url": "https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT"
     },
     {
       "album": {
@@ -3617,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/4I6RfRbaphM941T4gFckct"
+      },
+      "artists": [
+        {
+          "name": "Casual Fan",
+          "url": "https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "Mercy Me",
+      "url": "https://open.spotify.com/track/6fDahIjRg7bVxkvpRauDNC"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE"
       },
@@ -3830,7 +3884,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167384,
       "name": "Munarra",
       "url": "https://open.spotify.com/track/24yO4P0dHKnG6MKklMzwaG"
@@ -4111,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Old and Grey",
+        "url": "https://open.spotify.com/album/3L9UjsYXKNhY3hSBKSpoWZ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Uglys",
+          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "Old and Grey",
+      "url": "https://open.spotify.com/track/3UxgO44rRy8iIvx0AU3XP5"
+    },
+    {
+      "album": {
         "name": "Old Or Young",
         "url": "https://open.spotify.com/album/0pSpQRPA14bq0jdJr94bF2"
       },
@@ -4266,7 +4338,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 258000,
       "name": "Only A Fool",
       "url": "https://open.spotify.com/track/4CCb9VExF2Fpwt0TWqJOO8"
@@ -4850,7 +4922,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 308288,
       "name": "Repeating Repeating",
       "url": "https://open.spotify.com/track/2gGlhtCT3htTp18SfRMOi5"
@@ -5289,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
+    },
+    {
+      "album": {
         "name": "Simply Disappear",
         "url": "https://open.spotify.com/album/1Hq8s4XtnJ63D1HdfUGwrk"
       },
@@ -5336,7 +5426,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 287813,
       "name": "Sleeping Dogs",
       "url": "https://open.spotify.com/track/7xW9JjKq1cl6ZBq8tTkeWA"

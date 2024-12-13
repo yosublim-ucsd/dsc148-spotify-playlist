@@ -2,9 +2,9 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Giulia Mei
+> La nuova scena indie italiana! Cover: Prim
 
-241 songs - 11 hr 49 min
+242 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
-| [Campari](https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw) | [Kate](https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv) | [Campari](https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp) | 2:41 | 2024-11-26 |  |
+| [Campari](https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw) | [Kate](https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv) | [Campari](https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp) | 2:41 | 2024-11-26 | 2024-12-13 |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-11-22 |
 | [Canzone poco originale sulla solitudine](https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0) | [EDEL](https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah) | [Canzone poco originale sulla solitudine](https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr) | 3:35 | 2024-11-12 |  |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
@@ -58,6 +58,7 @@
 | [Come Stai?](https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Come Stai?](https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2) | 2:34 | 2024-09-26 |  |
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
+| [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 | 2024-12-12 |  |
 | [compleanni degli altri](https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [ambiente protetto](https://open.spotify.com/album/4OsUEE4jaj1K3fQ53AgJzE) | 2:44 | 2024-06-27 | 2024-07-19 |
 | [Cosa Non Va?](https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Cosa Non Va?](https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX) | 3:04 | 2024-10-24 | 2024-11-27 |
 | [cose un po' scontate](https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [cose un po' scontate](https://open.spotify.com/album/4tdx6A1dKAEkwbmDfmYIed) | 2:47 | 2024-09-26 | 2024-10-02 |
@@ -179,7 +180,7 @@
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-11-22 |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
-| [PSICHE .𓆩♡𓆪.](https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [PSICHE .𓆩♡𓆪.](https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ) | 2:31 | 2024-11-12 |  |
+| [PSICHE .𓆩♡𓆪.](https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [PSICHE .𓆩♡𓆪.](https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ) | 2:31 | 2024-11-12 | 2024-12-13 |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Quel che eravamo](https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z) | [Alma](https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6) | [Quel che eravamo](https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k) | 2:57 | 2024-11-12 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |
@@ -198,7 +199,7 @@
 | [sconosciuti](https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [sconosciuti](https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv) | 2:50 | 2024-11-28 |  |
 | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 | 2024-11-22 |
 | [se io morissi per stanotte?](https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [se io morissi per stanotte?](https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf) | 2:41 | 2024-11-07 | 2024-11-17 |
-| [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 | 2024-12-10 |
+| [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 |  |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [Semisconosciuti](https://open.spotify.com/track/5Il2AawB6pNota6d5EdcIG) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Flegreo](https://open.spotify.com/album/0ZDTef1KRMVbq9eSrZO1x9) | 3:53 | 2024-10-10 |  |
 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 | 2024-08-29 |  |

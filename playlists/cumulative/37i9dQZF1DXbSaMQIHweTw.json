@@ -523,6 +523,32 @@
     },
     {
       "album": {
+        "name": "BHAI",
+        "url": "https://open.spotify.com/album/1suvEu9VfbAwJM7HRACaQq"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        },
+        {
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
+        },
+        {
+          "name": "CJ CHIRAG",
+          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "BHAI",
+      "url": "https://open.spotify.com/track/53hxkF0EVsn9MHZ53JKpYe"
+    },
+    {
+      "album": {
         "name": "BLACK MONEY",
         "url": "https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ"
       },
@@ -1782,7 +1808,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 156279,
       "name": "Kehne Bhi De",
       "url": "https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx"

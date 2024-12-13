@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: I\u015f\u0131l Ayman",
+  "description": "Popun sevilen isimleri. Kapak: Kendimden Hallice",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
+        "url": "https://open.spotify.com/album/55ihmwZgsoegJ0mo9q59SA"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203991,
+      "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
+      "url": "https://open.spotify.com/track/0IXPdXqSXZzYwnaNO057cY"
+    },
+    {
+      "album": {
         "name": "b\u00f6yle sevmek olmaz ki",
         "url": "https://open.spotify.com/album/5c9lfqu6XoFErv8HmlZRze"
       },
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 212785,
       "name": "gidemem",
       "url": "https://open.spotify.com/track/2SAFpooqwQ05ZMoCiml7X6"

@@ -3641,6 +3641,28 @@
     },
     {
       "album": {
+        "name": "Bleed For Glory",
+        "url": "https://open.spotify.com/album/4Emr7AoGKUEwosO8hlATsA"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190113,
+      "name": "Bleed For Glory",
+      "url": "https://open.spotify.com/track/3DHbuNQtXozl71W13S8FH2"
+    },
+    {
+      "album": {
         "name": "Bleed This Music",
         "url": "https://open.spotify.com/album/34wHv8YF4xZGKC4YTEUu6H"
       },

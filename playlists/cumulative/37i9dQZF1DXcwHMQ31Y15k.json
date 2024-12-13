@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty, Wahyu F Giri",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 289920,
       "name": "Akhire Bali",
       "url": "https://open.spotify.com/track/1npk1egEshawzhe82opVMf"
@@ -534,6 +534,28 @@
       "duration_ms": 347317,
       "name": "Apik",
       "url": "https://open.spotify.com/track/7H1j4wzIE8lpvAaLNjGHr6"
+    },
+    {
+      "album": {
+        "name": "Asmaranala",
+        "url": "https://open.spotify.com/album/4DfWwdaCEfhTxwNUsO3jqy"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Asmaranala",
+      "url": "https://open.spotify.com/track/6ncWBbSgCbCviODfnyRZC7"
     },
     {
       "album": {
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 330909,
       "name": "Demi Kowe",
       "url": "https://open.spotify.com/track/7B6qooHmqiOY7hs8TEF1hP"
@@ -2572,7 +2594,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 349016,
       "name": "Kecelik",
       "url": "https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ"
@@ -3828,7 +3850,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 348000,
       "name": "Manot",
       "url": "https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp"
@@ -3850,7 +3872,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 391963,
       "name": "Manot",
       "url": "https://open.spotify.com/track/3D8qYZcWTMp93TCimjrjwO"
@@ -4708,7 +4730,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 315693,
       "name": "Not You No In",
       "url": "https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy"
@@ -4922,7 +4944,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 276444,
       "name": "Nyonggo - Studio Session",
       "url": "https://open.spotify.com/track/4quG5IHklvxxGunJ96FLNL"
@@ -5179,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Pangarepan",
+        "url": "https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347240,
+      "name": "Pangarepan",
+      "url": "https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1"
+    },
+    {
+      "album": {
         "name": "Pangestu",
         "url": "https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL"
       },
@@ -5360,6 +5400,24 @@
       "duration_ms": 256285,
       "name": "Pengangguran Yo Lumayan - Keroncong",
       "url": "https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls"
+    },
+    {
+      "album": {
+        "name": "PENGAREPAN (Acoustic)",
+        "url": "https://open.spotify.com/album/5a7o5ybj528aaw61UrNOtw"
+      },
+      "artists": [
+        {
+          "name": "Syahiba Saufa",
+          "url": "https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291839,
+      "name": "PENGAREPAN - Acoustic",
+      "url": "https://open.spotify.com/track/7gkTAMKGIMKWNE8y1He7jU"
     },
     {
       "album": {
@@ -6304,7 +6362,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 350741,
       "name": "Saktenane",
       "url": "https://open.spotify.com/track/4o9SsLbCaxSHoAMkUoC2Iu"
@@ -6868,7 +6926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 305533,
       "name": "Sendiri",
       "url": "https://open.spotify.com/track/0W6UGr30FSAbxgDi4RK1zO"
@@ -6886,7 +6944,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 283123,
       "name": "SENENG",
       "url": "https://open.spotify.com/track/1drRDlIBhcYUOaeMssBpEr"
@@ -7678,7 +7736,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 332307,
       "name": "TRESNO NGALOR NGIDUL",
       "url": "https://open.spotify.com/track/4JKKRKsFGsz3F4lfcHRPhK"
@@ -7754,7 +7812,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 372480,
       "name": "Tutupono",
       "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"

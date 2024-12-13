@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat, DIFF",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Immune, RACK",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 149181,
       "name": "747",
       "url": "https://open.spotify.com/track/3z6pVCrBVu2ZeGHiSZ2oUi"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 184666,
       "name": "AIORA",
       "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/5kIFhI5LXJP9vrz33sXeT0"
+      },
+      "artists": [
+        {
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93648,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/6ImpMToliAD0SqtTtuVqYO"
+    },
+    {
+      "album": {
         "name": "Big Moves (Vol. 5)",
         "url": "https://open.spotify.com/album/747EY8D8c4okD7qyfWOKNt"
       },
@@ -772,6 +790,28 @@
       "duration_ms": 94999,
       "name": "BLICK",
       "url": "https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV"
+    },
+    {
+      "album": {
+        "name": "BLICK (Remix)",
+        "url": "https://open.spotify.com/album/68bkuGfJNPQgatDVC6OQ82"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "BLICK - Remix",
+      "url": "https://open.spotify.com/track/0uAzjbolMC0qmUrg2Gxoad"
     },
     {
       "album": {
@@ -1036,7 +1076,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 104489,
       "name": "City Hot",
       "url": "https://open.spotify.com/track/0eDbMy8fsF1ceP2xGjbi1l"
@@ -1114,6 +1154,40 @@
       "duration_ms": 296103,
       "name": "CREW",
       "url": "https://open.spotify.com/track/3lbghNkai2tumaspE76feA"
+    },
+    {
+      "album": {
+        "name": "CRIMI",
+        "url": "https://open.spotify.com/album/7uVQulhpPq33jXNF58vj0K"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Soume",
+          "url": "https://open.spotify.com/artist/1IK7LaSPnqANpHBR9CIqX1"
+        },
+        {
+          "name": "Massif",
+          "url": "https://open.spotify.com/artist/5O7MWQ0W3sjEbMubFhPJwQ"
+        },
+        {
+          "name": "Sp93",
+          "url": "https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK"
+        },
+        {
+          "name": "Papetas",
+          "url": "https://open.spotify.com/artist/0A1VYGL7ERtvbDs7ywQXQT"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "CRIMI",
+      "url": "https://open.spotify.com/track/4D5JhspA1FA50yCS8GMDmp"
     },
     {
       "album": {
@@ -1640,7 +1714,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 194000,
       "name": "Ergo (The Beginning)",
       "url": "https://open.spotify.com/track/1ZG8uXRoWqnfhCpZuCmyZT"
@@ -1732,7 +1806,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 214070,
       "name": "Fernw Trap",
       "url": "https://open.spotify.com/track/3fQpve3m3CpcRwRDUymqs0"
@@ -1915,6 +1989,32 @@
     },
     {
       "album": {
+        "name": "Fuck Polizei",
+        "url": "https://open.spotify.com/album/3g38F8rqHsOqZ5ik8OK6ba"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211187,
+      "name": "Fuck Polizei",
+      "url": "https://open.spotify.com/track/4jkBnmyINno5OGQe1D5PK1"
+    },
+    {
+      "album": {
         "name": "Gang Freestyle",
         "url": "https://open.spotify.com/album/1aHMZuwPyTaN4vhaAj1VWT"
       },
@@ -1948,10 +2048,36 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 145000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/4JL8nvn7OeS9P2dOiryzFI"
+    },
+    {
+      "album": {
+        "name": "Public Enemy",
+        "url": "https://open.spotify.com/album/4JnDW1MkOhOSv7VhOsMszt"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173073,
+      "name": "George Conte",
+      "url": "https://open.spotify.com/track/6n8dCTR2PnbHacXYNquNjl"
     },
     {
       "album": {
@@ -2570,7 +2696,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153750,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3Qa8rrt0bAA2VAYkbEY2pX"
@@ -3056,7 +3182,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 129522,
       "name": "Makigiaz",
       "url": "https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA"
@@ -3409,6 +3535,32 @@
     },
     {
       "album": {
+        "name": "FAST LANE",
+        "url": "https://open.spotify.com/album/4I2anWTbsIegYIwII4jlrK"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Yung Rocky",
+          "url": "https://open.spotify.com/artist/7naeVhwpAjzdKBoHrFha18"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "METRITA",
+      "url": "https://open.spotify.com/track/2QkVtveUnxkl2tgRILL66t"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/3JzLH4HjiidCIJatdl6ipU"
       },
@@ -3428,6 +3580,36 @@
       "duration_ms": 148500,
       "name": "MIA",
       "url": "https://open.spotify.com/track/0QzWunyFKz5uOqXfdhBXwm"
+    },
+    {
+      "album": {
+        "name": "Balkan Express",
+        "url": "https://open.spotify.com/album/4bDm0ffAgvsIqLzFyfBWEs"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Mef",
+          "url": "https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC"
+        },
+        {
+          "name": "Stef Tony",
+          "url": "https://open.spotify.com/artist/3JcFxZ928S8hsqkaNZhbwZ"
+        },
+        {
+          "name": "Cenobite",
+          "url": "https://open.spotify.com/artist/0t9MS2F03BZi3oLSJNSRb3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122112,
+      "name": "MPATSOI",
+      "url": "https://open.spotify.com/track/1IfseN2xCxhrorW4g3xiMU"
     },
     {
       "album": {
@@ -3916,7 +4098,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 137454,
       "name": "PASARELA",
       "url": "https://open.spotify.com/track/19zZ6CFn39KaEgwlnxEtEa"
@@ -4003,6 +4185,32 @@
     },
     {
       "album": {
+        "name": "Pes Mou Esy",
+        "url": "https://open.spotify.com/album/2TrkovCZtostIhHXnlm5gV"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Pes Mou Esy",
+      "url": "https://open.spotify.com/track/7w7ow5XrszrokxYGODFPAl"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/5kgt1ltex1gi2HOBBe4UiI"
       },
@@ -4044,7 +4252,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 124537,
       "name": "PIES MIA",
       "url": "https://open.spotify.com/track/2jcYHljAsM7bHOcPKVkJAH"
@@ -4279,6 +4487,28 @@
     },
     {
       "album": {
+        "name": "Raygun",
+        "url": "https://open.spotify.com/album/1JpHEZkMQJxc8xBE2esVW0"
+      },
+      "artists": [
+        {
+          "name": "Katohos",
+          "url": "https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Raygun",
+      "url": "https://open.spotify.com/track/63le3ZNmJpP8V5hCdqasSr"
+    },
+    {
+      "album": {
         "name": "REPORTAGE",
         "url": "https://open.spotify.com/album/36jvw8sOnb6dG6FSEcAy1y"
       },
@@ -4448,6 +4678,32 @@
       "duration_ms": 156000,
       "name": "SCARS",
       "url": "https://open.spotify.com/track/5HABP6Jx4xqp35Lnn7Mikk"
+    },
+    {
+      "album": {
+        "name": "Se Thelo Toso Poly",
+        "url": "https://open.spotify.com/album/3Kx7L4inv51DndjG2W0DX4"
+      },
+      "artists": [
+        {
+          "name": "Maverick",
+          "url": "https://open.spotify.com/artist/16HMpbHn9nhzyjYYgiaoTt"
+        },
+        {
+          "name": "Ninja Techniques",
+          "url": "https://open.spotify.com/artist/3DzeULqKmHM56pKZzB2MO0"
+        },
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Se Thelo Toso Poly",
+      "url": "https://open.spotify.com/track/2LcMwczF0sb5PAMHaFlgV8"
     },
     {
       "album": {

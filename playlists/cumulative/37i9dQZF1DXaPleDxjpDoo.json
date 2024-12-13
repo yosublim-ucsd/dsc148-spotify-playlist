@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "The Path to Solace",
+        "url": "https://open.spotify.com/album/0hA7L4eQa9nKzDisbn6mhS"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151289,
+      "name": "The Path to Solace",
+      "url": "https://open.spotify.com/track/1e334VDwSkdDZf8B6i5z4Q"
+    },
+    {
+      "album": {
         "name": "The Pensive Forest",
         "url": "https://open.spotify.com/album/678q1cHvcW9ShiU9l9JBay"
       },

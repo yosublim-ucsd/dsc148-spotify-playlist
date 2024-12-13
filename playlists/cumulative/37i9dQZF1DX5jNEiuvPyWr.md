@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : SAF
+> Le meilleur du rap français version cloud\. Photo : Jaymee
 
-462 songs - 22 hr 35 min
+466 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Corrida](https://open.spotify.com/track/20EqhjIfTYZYW0LdL1HUD1) | [Tizzy Miller](https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj) | [Corrida](https://open.spotify.com/album/0tVz8bJgm1ILiHHCMD7LLi) | 2:09 | 2024-10-17 | 2024-12-06 |
 | [COUPÉ](https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [COUPÉ](https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY) | 2:58 | 2022-10-20 | 2022-12-16 |
 | [crescendo](https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr) | [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [crescendo](https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd) | 2:53 | 2024-01-04 | 2024-02-09 |
+| [CREUX](https://open.spotify.com/track/3yOPmyso8ca1Lej0X0HSLO) | [Jaymee](https://open.spotify.com/artist/78i5YadY0dgB2Fdb9tZp6s) | [ÇA C'EST DU RUN 2](https://open.spotify.com/album/5GWi8QEaYTM0fa7OdlDPM3) | 2:18 | 2024-12-12 |  |
 | [CYCLOPE](https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [CYCLOPE](https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu) | 2:04 | 2024-02-08 | 2024-04-12 |
 | [Cômelepadre.](https://open.spotify.com/track/7ciz0C3oekfibO6zLUiZEO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ) | [APHANTASIA](https://open.spotify.com/album/1njQ4QdbKaz7d5aATknk5J) | 2:58 | 2024-06-27 |  |
 | [D'une vie à l'autre](https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Dezef](https://open.spotify.com/artist/6MAtTUpkhJRcdgGRQUotX1) | [Associés](https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v) | 3:06 | 2023-06-29 | 2023-08-25 |
@@ -252,7 +253,8 @@
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
 | [Le Nine](https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Le Nine](https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr) | 3:20 | 2023-10-12 | 2024-03-01 |
 | [LE WORLD](https://open.spotify.com/track/4hoqAQEZWXXGoBnuBfRA1y) | [KLS](https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4) | [HORION](https://open.spotify.com/album/53Yu6G1IxrB5ji7ECIHAqb) | 2:14 | 2024-06-13 | 2024-08-02 |
-| [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 | 2024-01-25 |  |
+| [Les gens normaux se déguisent](https://open.spotify.com/track/1gDJPondrtiOXIGeoNgdnw) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [HAINEPOURNOHAM](https://open.spotify.com/album/0nMBWKI3QMdzW8meVLQyZS) | 2:55 | 2024-12-12 |  |
+| [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 | 2024-01-25 | 2024-12-13 |
 | [LES VOIX DANS MA TÊTE](https://open.spotify.com/track/3LdwUrCS2gdJe4ygH41uZO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [STRATUS JOYEUX](https://open.spotify.com/album/2UhMgGhAAl1fIWgAnveYRu) | 3:20 | 2023-03-16 | 2023-04-28 |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 | 2023-02-10 |
 | [LIBRE \- Dysphoria](https://open.spotify.com/track/50gMceCjKprl6DUYnFrWSE) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/0P0fYHITU1W4DMmLw2XtRu) | 2:40 | 2023-01-26 | 2023-05-12 |
@@ -264,6 +266,7 @@
 | [Love moi](https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs) | [Dibson](https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk) | [Love moi](https://open.spotify.com/album/7716TsCXcpGPPB4kwttjtN) | 2:55 | 2022-07-28 | 2022-11-04 |
 | [Loyal](https://open.spotify.com/track/45OP9T9rtIJgZ0uMUcsls3) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Loyal](https://open.spotify.com/album/4JJjFloAUBVKIZioxd8b2V) | 3:36 | 2023-03-16 | 2023-04-21 |
 | [Lui ou rien](https://open.spotify.com/track/1trsW3AHnYWeq94DVByGy6) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [Mieux vaut guérir](https://open.spotify.com/album/3E8m2R411i7XvgOffgCjNU) | 2:54 | 2024-03-14 | 2024-05-17 |
+| [LUNATIQUE](https://open.spotify.com/track/4Nfl36IoJkYkINq5mr7t7G) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [LUNATIQUE](https://open.spotify.com/album/3Lp71oXRlr4vZAIyuFLAVq) | 2:03 | 2024-12-12 |  |
 | [LUNE](https://open.spotify.com/track/7zRFGTlOBar8S7kK5vnZm5) | [8ruki](https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2), [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LUNE](https://open.spotify.com/album/0UX8fkJ5agBevn1A4Zu1g3) | 3:22 | 2023-01-19 | 2023-04-07 |
 | [LUNE](https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [AKUMA](https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh) | 2:36 | 2022-07-14 | 2022-12-16 |
 | [M'attends pas.](https://open.spotify.com/track/3w2b7sp3Y4Kcn23dv1ZoiU) | [Allebou](https://open.spotify.com/artist/6Npr7HPBAbALoXm4Mf1frM), [Susanoô](https://open.spotify.com/artist/3IPF34odrFxmKBZUciuUyE) | [M'attends pas.](https://open.spotify.com/album/1o2dl5PB7ddRxg25p4N4uU) | 3:17 | 2023-04-13 | 2023-05-12 |
@@ -288,6 +291,7 @@
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |
 | [MEILLEUR](https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b) | 3:03 | 2023-10-12 | 2023-11-30 |
 | [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 | 2023-11-23 | 2023-12-15 |
+| [Merci Pour Les Épines](https://open.spotify.com/track/14YnAPyArFjivQBIE7DU3y) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Merci Pour Les Roses](https://open.spotify.com/album/6FcL7OFYzTu3ALj3Lgge52) | 2:32 | 2024-12-12 |  |
 | [Miami Vice](https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Bel Air](https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa) | 2:56 | 2023-04-27 | 2023-06-09 |
 | [MILLA](https://open.spotify.com/track/04vzFIKxbPInvQOgYoIrYS) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [MILLA](https://open.spotify.com/album/6vvpkQr7hE8qbgyPEgx226) | 2:55 | 2024-06-27 | 2024-11-08 |
 | [Minimum](https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb) | [Hofmann](https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [Minimum](https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO) | 3:10 | 2024-07-11 | 2024-08-16 |
@@ -329,7 +333,7 @@
 | [Para](https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l) | [VERSIONBETA7](https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR) | [Erreurs](https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc) | 2:39 | 2024-02-08 | 2024-04-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 | 2022-12-24 |
 | [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 | 2024-07-18 | 2024-08-30 |
-| [Paradis](https://open.spotify.com/track/3eegA0ExCU0DojAv1S6zfZ) | [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Paradis](https://open.spotify.com/album/3o4OTeK8xiFLdltBwjjgu1) | 2:53 | 2024-10-17 |  |
+| [Paradis](https://open.spotify.com/track/3eegA0ExCU0DojAv1S6zfZ) | [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Paradis](https://open.spotify.com/album/3o4OTeK8xiFLdltBwjjgu1) | 2:53 | 2024-10-17 | 2024-12-13 |
 | [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 | 2023-04-07 |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 | 2022-12-16 |
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 | 2023-05-19 |
@@ -353,7 +357,7 @@
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
 | [PILULE](https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV) | [TH](https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC) | [E\-TRAP](https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c) | 3:44 | 2024-11-07 |  |
 | [Pièces manquantes](https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [High & Fines Herbes – Édition 420](https://open.spotify.com/album/6qu28HganG8uPu79hCSrle) | 3:15 | 2023-07-27 | 2023-10-06 |
-| [PLEURE PLEURE PLEURE](https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex) | [PLEURE PLEURE PLEURE](https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp) | 3:31 | 2024-05-16 |  |
+| [PLEURE PLEURE PLEURE](https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex) | [PLEURE PLEURE PLEURE](https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp) | 3:31 | 2024-05-16 | 2024-12-13 |
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
 | [Plus jeune](https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 3:25 | 2022-07-28 | 2022-12-02 |
 | [Porcelaine](https://open.spotify.com/track/54Ccfm19OqocBDEhYaFhto) | [Tydi S](https://open.spotify.com/artist/0ObRlKClJBnDmiEfxbiGBn) | [Fait Divers](https://open.spotify.com/album/1fCSgLUqKNHy18g1qp9ceC) | 3:01 | 2024-11-28 |  |
@@ -369,7 +373,7 @@
 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-03-23 | 2023-05-19 |
 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 | 2023-12-20 | 2024-02-16 |
 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-13 | 2024-07-05 |
-| [RADIO](https://open.spotify.com/track/5vuQDHV1Athh4u9h8IMEG1) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2) | [RADIO](https://open.spotify.com/album/7JDIVb7zX3qYslaNUGK9wY) | 2:45 | 2024-11-14 |  |
+| [RADIO](https://open.spotify.com/track/5vuQDHV1Athh4u9h8IMEG1) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2) | [RADIO](https://open.spotify.com/album/7JDIVb7zX3qYslaNUGK9wY) | 2:45 | 2024-11-14 | 2024-12-13 |
 | [Range \(feat\. Roni0Block\) \- bonus](https://open.spotify.com/track/3aTtUOarHyF3J1BUxecF4U) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw), [Roni0block](https://open.spotify.com/artist/6JZrCsUM6Ap5jKgQ7rRVsV) | [Personne n'est spécial](https://open.spotify.com/album/1rYGnzaG7WLMcyX0KOCuqS) | 4:12 | 2024-12-05 |  |
 | [RDG](https://open.spotify.com/track/4EcWgj3UoQ7BhUcJElXzUz) | [Yanoh](https://open.spotify.com/artist/0F8lhYdZVtpMYMrLbaMZvr), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [BARA Réédition](https://open.spotify.com/album/5togZyuaoY6jvY3ubdWhLp) | 3:16 | 2024-02-01 | 2024-02-23 |
 | [REFLET](https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu) | [LETS GO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 2:47 | 2023-05-18 | 2023-06-30 |

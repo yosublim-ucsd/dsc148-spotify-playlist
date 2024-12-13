@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Your future favourite pop stars, fresh for the UK\. Cover: Issey Cross
+> Your future favourite pop stars, fresh for the UK\. Cover: Sebastian Schub
 
-149 songs - 7 hr 34 min
+151 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-08 | 2024-10-11 |
 | [angie](https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [angie](https://open.spotify.com/album/3MpGkxdtN037VpIKirfrUp) | 2:55 | 2024-10-04 |  |
 | [Antibiotics](https://open.spotify.com/track/5to5yd13LPNIkXdr3xzubk) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Antibiotics](https://open.spotify.com/album/4GIoGUiikdaWcNZw3cUdpN) | 2:01 | 2024-12-06 |  |
+| [Archangel](https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Archangel](https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw) | 3:22 | 2024-12-13 |  |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 |  |
 | [Are You Waiting?](https://open.spotify.com/track/0zTpfz7u6BQ7RUnP0ZbgSu) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Are You Waiting?](https://open.spotify.com/album/79JrreaG0pEXLKBswpxaLt) | 2:32 | 2024-10-04 |  |
 | [August](https://open.spotify.com/track/0bMcyfjZK0Ohpshoy2QXp2) | [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [August](https://open.spotify.com/album/5xgTyiYj6SKB2taNZn4p3r) | 2:50 | 2024-08-16 | 2024-11-09 |
@@ -78,6 +79,7 @@
 | [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-06-04 | 2024-08-17 |
 | [Hey Arthur!](https://open.spotify.com/track/1eAL6SURJYr5yko6FClNDO) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Hey Arthur!](https://open.spotify.com/album/4bHgCso2O62quFXiyydKWr) | 2:46 | 2024-10-24 |  |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-06-04 | 2024-08-31 |
+| [Holding You](https://open.spotify.com/track/4KRgeJYNTtXS4tqzZdVGYR) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [Can We Stop Just For A Second](https://open.spotify.com/album/5xg5q1u59wi9ut0JC5nCKB) | 3:36 | 2024-12-13 |  |
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-10 |  |
 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 | 2024-12-06 |  |
 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-09-05 | 2024-11-22 |
@@ -126,7 +128,7 @@
 | [Renaissance](https://open.spotify.com/track/4QiSg946Nqt4J745prLpz4) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Renaissance](https://open.spotify.com/album/3OET72XzRHo2zYl7off9cG) | 2:37 | 2024-10-17 |  |
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-04 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-16 | 2024-10-25 |
-| [Room Service](https://open.spotify.com/track/3n3z00AYYXA9PpKjesESux) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Life Of The Party](https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW) | 2:08 | 2024-09-12 |  |
+| [Room Service](https://open.spotify.com/track/3n3z00AYYXA9PpKjesESux) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Life Of The Party](https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW) | 2:08 | 2024-09-12 | 2024-12-13 |
 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 | 2024-08-08 | 2024-12-06 |
 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2024-11-15 |  |
 | [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-17 |  |

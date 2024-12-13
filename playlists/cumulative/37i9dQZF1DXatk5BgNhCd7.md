@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Tiago PZK, Grupo Frontera
 
-3,225 songs - 7 day 19 hr 16 min
+3,226 songs - 7 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,6 +1382,7 @@
 | [La Luna](https://open.spotify.com/track/0HI0sNILJr8YawFrjTK0u6) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [La Luna](https://open.spotify.com/album/4LIOp0KnsVWjN9r9aIpV1n) | 4:20 | 2022-05-27 | 2022-08-06 |
 | [La Luna y el Sol](https://open.spotify.com/track/52lNQdyUq2lRiS7GIlKLZ2) | [El Russo](https://open.spotify.com/artist/4qoVW3ISZuftlFNxSTBq8e), [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [La Luna y el Sol](https://open.spotify.com/album/4ziiHyfYiO1Szfsq5dWq3C) | 3:12 | 2023-04-07 | 2023-04-15 |
 | [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 | 2024-04-13 |
+| [La Luna y Tú / Una Ráfaga de Amor](https://open.spotify.com/track/6WVDma2LMzIwf0F4Drf5yu) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Messirve Mix 9](https://open.spotify.com/album/0MlAYAKBYG6kpROpqOAXQg) | 4:08 | 2024-12-06 |  |
 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 | 2023-03-17 | 2023-04-09 |
 | [La Mala](https://open.spotify.com/track/0gBLJTyGe9jDxc7llwaloj) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [La Mala](https://open.spotify.com/album/3dcBHvCBaCpIVXt4pbhLAS) | 2:06 | 2024-07-12 | 2024-08-03 |
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-06-01 |

@@ -699,4 +699,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 689 | [Poison](https://open.spotify.com/track/38tlYIflJRqAB5PxNWDtp2) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Vibe Responsibly, Vol\. 1](https://open.spotify.com/album/5DpoVZ2KXkg4Xh39B0wQuF) | 1:55 |
 | 690 | [Vex](https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 1:24 |
 
-Snapshot ID: `Abj4tgAAAAAZJki6/iBmD5zlceSOxzdz`
+Snapshot ID: `Abj+kgAAAACWGjpwbCG2j0FW3CzAAj4A`

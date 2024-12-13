@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-642 songs - 1 day 8 hr 33 min
+643 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Howling \- Andromedik Remix](https://open.spotify.com/track/3cvr7I6DJxIq3GL4UAU8p4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling \(Andromedik Remix\)](https://open.spotify.com/album/2xbLxzB4Dh0O5vx1sEiV7D) | 3:40 | 2023-08-08 | 2023-12-14 |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |
+| [I Can Feel](https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Can Feel](https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn) | 2:28 | 2024-12-12 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [I Don't Wanna Know](https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp) | 2:45 | 2023-06-27 | 2023-08-10 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
 | [I Like It With You](https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [I Like It With You](https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV) | 2:55 | 2024-01-12 | 2024-07-19 |

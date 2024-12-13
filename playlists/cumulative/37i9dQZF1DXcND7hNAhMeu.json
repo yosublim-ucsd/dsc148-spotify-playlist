@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: <a href=\"spotify:artist:07eEGn8bSAJF9sUqeTtAmN\">Baran Meng\u00fc\u00e7</a>, <a href=\"spotify:artist:4F85cxjAmlT0r7DZKu3ABX\">Ceren Sagu</a>, <a href=\"spotify:artist:0nllPfFG95RzZnqdWLLDCD\">Lotusx</a>, <a href=\"spotify:artist:2FkaZzzDTwnz1l1mK9DoT6\">TUANA</a>, <a href=\"spotify:artist:71B1UV4HrPQk6TdNHM3h9h\">Rana T\u00fcrky\u0131lmaz</a>",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: <ahref=\"spotify:artist:2FkaZzzDTwnz1l1mK9DoT6\">TUANA</a>",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 271058,
       "name": "Beni Anla",
       "url": "https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS"
@@ -618,6 +618,24 @@
       "duration_ms": 208886,
       "name": "\u0130HYA",
       "url": "https://open.spotify.com/track/45my9isZJ6wUxDnUWUL8WL"
+    },
+    {
+      "album": {
+        "name": "\u0130lkler Kal\u0131r",
+        "url": "https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC"
+      },
+      "artists": [
+        {
+          "name": "Rana T\u00fcrky\u0131lmaz",
+          "url": "https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "\u0130lkler Kal\u0131r",
+      "url": "https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ"
     },
     {
       "album": {

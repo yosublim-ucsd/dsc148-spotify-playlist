@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 47597,
+  "num_followers": 47618,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1eEgAAAAAAa2bLEvIycVU18x2GoXn7W",
+  "snapshot_id": "Z1jWAAAAAABukvnuTjzGzLErPo8goDcm",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Forma de Sentir",
         "url": "https://open.spotify.com/album/7BzCbdO0xf2gkg6Q2CEufK"
       },
@@ -331,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
+        "name": "Cuando Te Am\u00e9",
+        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
       },
       "artists": [
         {
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
+      "duration_ms": 242606,
+      "name": "Cuando Te Am\u00e9",
+      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
       "duration_ms": 166272,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Te Am\u00e9",
-        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Cuando Te Am\u00e9",
-      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Sale Bien",
+        "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 167509,
+      "name": "Te Sale Bien",
+      "url": "https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldita Soledad",
         "url": "https://open.spotify.com/album/3dfrrFrNOoHfX9V2aCK79k"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Sale Bien",
-        "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 167509,
-      "name": "Te Sale Bien",
-      "url": "https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7.2",
         "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
       },
@@ -683,38 +683,6 @@
       "duration_ms": 160235,
       "name": "Si Llegan a Enterarse",
       "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edselo Con Sax",
-        "url": "https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 175210,
-      "name": "Qui\u00e9n Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calientita",
-        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Calientita",
-      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
     },
     {
       "added_at": null,
@@ -735,6 +703,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calientita",
+        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Calientita",
+      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edselo Con Sax",
+        "url": "https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 175210,
+      "name": "Qui\u00e9n Mejor Que T\u00fa",
+      "url": "https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 170408,
       "name": "Ya No Te Quiero Querer",
       "url": "https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tus Historias Mienten",
-        "url": "https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Tus Historias Mienten",
-      "url": "https://open.spotify.com/track/6M3fUO8he626evmaoYay1a"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empezar Desde Cero",
-        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
+        "name": "Tus Historias Mienten",
+        "url": "https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 164364,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq"
+      "duration_ms": 146360,
+      "name": "Tus Historias Mienten",
+      "url": "https://open.spotify.com/track/6M3fUO8he626evmaoYay1a"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 192520,
       "name": "No Mata Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164364,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq"
     },
     {
       "added_at": null,

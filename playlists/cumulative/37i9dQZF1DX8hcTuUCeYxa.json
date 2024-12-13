@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: M. Byrd",
+  "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Beach Weather",
   "name": "Indie Brandneu",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 152209,
       "name": "1010",
       "url": "https://open.spotify.com/track/5YDccHnqG3jdBbLBydJi0D"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/5zznpNL6GMkUwFEAd4e4Kt"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204269,
+      "name": "18",
+      "url": "https://open.spotify.com/track/6MaTJ8MpJU7RO99PcYyvkm"
     },
     {
       "album": {
@@ -991,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "As Soon As You Can",
+        "url": "https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "As Soon As You Can",
+      "url": "https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc"
+    },
+    {
+      "album": {
         "name": "Ash (feat. Deb Never)",
         "url": "https://open.spotify.com/album/3m2kDWdLz7Yp3VW7EW9ErO"
       },
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 218099,
       "name": "Ash (feat. Deb Never)",
       "url": "https://open.spotify.com/track/0txPmhnFeaK0KlTZGRrYGE"
@@ -2282,7 +2318,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 238874,
       "name": "Caspian Tiger",
       "url": "https://open.spotify.com/track/2EBzn3R5tDPiYY9F77jYlm"
@@ -2354,7 +2390,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178493,
       "name": "Champ",
       "url": "https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz"
@@ -2668,7 +2704,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125750,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/457Q0aJnIiWQNJ2SHMWO6t"
@@ -2722,7 +2758,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 272214,
       "name": "Confession",
       "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
@@ -3014,6 +3050,24 @@
       "duration_ms": 208626,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+    },
+    {
+      "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/3k4CF66i21U9yYOZB3S5UT"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133313,
+      "name": "day by day",
+      "url": "https://open.spotify.com/track/6AHVa7t3XI73eK3S9cTi98"
     },
     {
       "album": {
@@ -3840,6 +3894,24 @@
       "duration_ms": 253882,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX"
+    },
+    {
+      "album": {
+        "name": "Enjoy the Pain",
+        "url": "https://open.spotify.com/album/74RZKifRkJGBJJ96XJkENH"
+      },
+      "artists": [
+        {
+          "name": "Markus Nikolaus",
+          "url": "https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Enjoy the Pain",
+      "url": "https://open.spotify.com/track/71wCIchayU36hTlZ5WuPUT"
     },
     {
       "album": {
@@ -5036,6 +5108,24 @@
       "duration_ms": 311067,
       "name": "Great. The Ocean",
       "url": "https://open.spotify.com/track/0khlyUvosP9W5ApC4kFDoB"
+    },
+    {
+      "album": {
+        "name": "Green Bedsheet Gown",
+        "url": "https://open.spotify.com/album/4Dqhpi7mwpCJ930uQAVvVx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Harres",
+          "url": "https://open.spotify.com/artist/6HHLb9HeGAK64JXTMok0CC"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Green Bedsheet Gown",
+      "url": "https://open.spotify.com/track/0cAxhrYz005Ie2CwxOaqYK"
     },
     {
       "album": {
@@ -6284,7 +6374,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166322,
       "name": "IGNORED",
       "url": "https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN"
@@ -6472,6 +6562,28 @@
       "duration_ms": 213191,
       "name": "Innocent Money - Edit",
       "url": "https://open.spotify.com/track/2vjqlZE7rVhHL6m1psgJRV"
+    },
+    {
+      "album": {
+        "name": "The Wagner Brothers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4XW4sdAiVdBQKCDFl8mvXJ"
+      },
+      "artists": [
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        },
+        {
+          "name": "Studio Bonaparte",
+          "url": "https://open.spotify.com/artist/3HSuzK6pXDR71ihXANrRMJ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/0mIhvJQw8y4rwuhOxz3RXt"
     },
     {
       "album": {
@@ -6710,6 +6822,24 @@
       "duration_ms": 312326,
       "name": "Josh Tillman and the Accidental Dose",
       "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+    },
+    {
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277199,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f"
     },
     {
       "album": {
@@ -7120,7 +7250,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 222320,
       "name": "Know How It Hurts",
       "url": "https://open.spotify.com/track/120sSK66JfcBPb9mqPmd6G"
@@ -7340,7 +7470,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 261306,
       "name": "Leash (Babygirl Original Soundtrack)",
       "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
@@ -7538,7 +7668,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
@@ -7762,7 +7892,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 230520,
       "name": "Losing it Again",
       "url": "https://open.spotify.com/track/22umtrbIjEZuSL5EU1SbWo"
@@ -7802,7 +7932,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 239769,
       "name": "Love at First Sight - Spotify Singles",
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
@@ -9320,7 +9450,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183881,
       "name": "Occasional Stoner",
       "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
@@ -9760,7 +9890,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
@@ -9876,6 +10006,24 @@
       "duration_ms": 141399,
       "name": "Plus One",
       "url": "https://open.spotify.com/track/2SxUIKMDtPWB3af3P8zHnl"
+    },
+    {
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
     },
     {
       "album": {
@@ -10216,6 +10364,24 @@
       "duration_ms": 189869,
       "name": "Real High",
       "url": "https://open.spotify.com/track/0x5tSRPdeSquCs8F7Y5sPD"
+    },
+    {
+      "album": {
+        "name": "If Only I Knew, Pt. 1",
+        "url": "https://open.spotify.com/album/6ysHDsq5wXeI4zCC93tRrI"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250273,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/5DXmEcaXQFVofJg7Wv0zGi"
     },
     {
       "album": {
@@ -10811,6 +10977,24 @@
     },
     {
       "album": {
+        "name": "Seth Cohen",
+        "url": "https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130043,
+      "name": "Seth Cohen",
+      "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
+    },
+    {
+      "album": {
         "name": "Epiphanies",
         "url": "https://open.spotify.com/album/1hHBRP5l1Uer7F5wATEuAT"
       },
@@ -10826,6 +11010,24 @@
       "duration_ms": 268960,
       "name": "Severe",
       "url": "https://open.spotify.com/track/2a6wQWlEBDjUmwrmg2Yn1l"
+    },
+    {
+      "album": {
+        "name": "Shalalala Etc.",
+        "url": "https://open.spotify.com/album/1BIgadam6ETP0tneZi62NQ"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Shalalala Etc.",
+      "url": "https://open.spotify.com/track/1KyvvmF148TtCaA7CISlNt"
     },
     {
       "album": {
@@ -11204,7 +11406,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
@@ -12710,7 +12912,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 152483,
       "name": "The Real Deal",
       "url": "https://open.spotify.com/track/34I22dxFMvZqFBMh83EHl6"
@@ -12880,6 +13082,24 @@
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+    },
+    {
+      "album": {
+        "name": "The Windmills of Your Mind (Reprise by La Blogoth\u00e8que)",
+        "url": "https://open.spotify.com/album/1Jc7jh4WyfxQOmNSVklwWB"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "The Windmills of Your Mind - Reprise by La Blogoth\u00e8que",
+      "url": "https://open.spotify.com/track/3MFePVBsQdz9pN8J7rjoUk"
     },
     {
       "album": {
@@ -14238,6 +14458,24 @@
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "album": {
+        "name": "Yours Truly, Solace (EP)",
+        "url": "https://open.spotify.com/album/1XQYKlWvfuDIIPRJL9wdSI"
+      },
+      "artists": [
+        {
+          "name": "Matija",
+          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212846,
+      "name": "Would It Be Ok?",
+      "url": "https://open.spotify.com/track/1WecqypSFOlXpWi0ksE1Mb"
     },
     {
       "album": {

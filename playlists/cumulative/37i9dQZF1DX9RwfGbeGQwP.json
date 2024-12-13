@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 144750,
       "name": "alone again",
       "url": "https://open.spotify.com/track/7uWXc1inErOSLrxDDbN33C"
@@ -970,6 +970,28 @@
       "duration_ms": 151996,
       "name": "Amoureux",
       "url": "https://open.spotify.com/track/1FWmUX9E61ETa7qUgsSBgq"
+    },
+    {
+      "album": {
+        "name": "and sleep.",
+        "url": "https://open.spotify.com/album/3rjnPBQyCgaRP8EKFP5j0T"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239178,
+      "name": "and sleep.",
+      "url": "https://open.spotify.com/track/0YRJFUpukTWMsUFBY2neaP"
     },
     {
       "album": {
@@ -6322,7 +6344,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 140862,
       "name": "downtime",
       "url": "https://open.spotify.com/track/4350h6v6CUgKVh9YWnvMjw"
@@ -11897,6 +11919,24 @@
     },
     {
       "album": {
+        "name": "Intersection",
+        "url": "https://open.spotify.com/album/5S9HcS8aD1HZ4Ph4zVUVsx"
+      },
+      "artists": [
+        {
+          "name": "cloudsonmymind",
+          "url": "https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132804,
+      "name": "Intersection",
+      "url": "https://open.spotify.com/track/4qzr1CC42G0kfeaCKTWKRA"
+    },
+    {
+      "album": {
         "name": "Into the Crystal Air",
         "url": "https://open.spotify.com/album/44cHMcE2OOf7tvSRiIl4zP"
       },
@@ -12042,7 +12082,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142800,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/3yLfbmMJxFHDDfC8nuZcoC"
@@ -17770,7 +17810,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 117566,
       "name": "Objective Perspective",
       "url": "https://open.spotify.com/track/6dP5N3IG0dSl7DNzYebeso"
@@ -19542,7 +19582,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 154838,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4vAz4u1ThUJULhu7wySGrs"
@@ -21372,7 +21412,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 140833,
       "name": "Scientific Magic",
       "url": "https://open.spotify.com/track/1YCfWvnF8t7yubtjAdO7LN"
@@ -22674,7 +22714,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 139058,
       "name": "Soft Touch",
       "url": "https://open.spotify.com/track/6EEjOtoTfQRcwiUwqlBSnu"
@@ -24050,6 +24090,24 @@
       "duration_ms": 118398,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3DWaQ3sAN07fwrEhHuKF1n"
+    },
+    {
+      "album": {
+        "name": "sunny garden",
+        "url": "https://open.spotify.com/album/4elYCTqIIE0S9s6e1igiK3"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121610,
+      "name": "sunny garden",
+      "url": "https://open.spotify.com/track/5Vjbl9TfEvLGzr6OpQQoyS"
     },
     {
       "album": {

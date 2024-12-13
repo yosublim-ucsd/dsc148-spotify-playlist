@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169500,
       "name": "Happy Happy Birds",
       "url": "https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY"
@@ -514,6 +514,24 @@
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "album": {
+        "name": "Noise Of The Forest",
+        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
+      },
+      "artists": [
+        {
+          "name": "Mind & Body",
+          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Noise Of The Forest",
+      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
     },
     {
       "album": {

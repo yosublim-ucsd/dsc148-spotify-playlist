@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=2i2vs-pVTA6Ml5TKzPimnQ\">Inkos'yamagcokama</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"hhttps://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=i-AaKtieQqGI3VTVFe2bsw\">Mthandeni SK</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 275331,
       "name": "ELAWINI LIKAMAGUMEDE",
       "url": "https://open.spotify.com/track/2wdIlufkUPuHHDzslnWfVF"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 290690,
       "name": "Imali ye-Carvela",
       "url": "https://open.spotify.com/track/5OEeyPHat8WHykSrBDtp8p"
@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "MUNHU WUN'WE TSENA",
+        "url": "https://open.spotify.com/album/6IhLHOsNgQWjmNKOB3drP2"
+      },
+      "artists": [
+        {
+          "name": "MR POST",
+          "url": "https://open.spotify.com/artist/3Opg7lHePdQNELBye7dkwN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292714,
+      "name": "MUNHU WUN'WE TSENA",
+      "url": "https://open.spotify.com/track/2zbjp5Ye9hvSevr6xP4hic"
+    },
+    {
+      "album": {
         "name": "My Dululu",
         "url": "https://open.spotify.com/album/6xIXv9IaFF5tPXwWCukLZ7"
       },
@@ -3264,6 +3282,24 @@
       "duration_ms": 436920,
       "name": "Shintsh' Umshovo",
       "url": "https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9"
+    },
+    {
+      "album": {
+        "name": "Impisi Iyalaya",
+        "url": "https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205512,
+      "name": "Sigade Umzila",
+      "url": "https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kubi Producent, Szpaku, Young Multi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: PRO8L3M",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 187000,
       "name": "1 na 100",
       "url": "https://open.spotify.com/track/7q2axmQBSD88VaASEJ9oX4"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 132960,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/5kuOMU68UxcXaTIUaUdE8N"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125217,
       "name": "Clown",
       "url": "https://open.spotify.com/track/3vur868mFUc4nMXpfvCDM7"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207887,
       "name": "CO Z NAMI B\u0118DZIE?",
       "url": "https://open.spotify.com/track/51ZuDrNM6JVu7XXTq3YGE1"
@@ -2928,6 +2928,36 @@
       "duration_ms": 265740,
       "name": "DNI LEPSZE NI\u017b TEN",
       "url": "https://open.spotify.com/track/5NrALgHxMvITkF7RF9KjJ6"
+    },
+    {
+      "album": {
+        "name": "JACKIE",
+        "url": "https://open.spotify.com/album/4DJWONgSlfuKLno5kEjrfB"
+      },
+      "artists": [
+        {
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "DOBRY ZNAK",
+      "url": "https://open.spotify.com/track/44b7ekJoPu7Zr43epBwBBh"
     },
     {
       "album": {
@@ -5263,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "koto",
+        "url": "https://open.spotify.com/album/69cDLgZcgkVRTR5SvUa166"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "koto",
+      "url": "https://open.spotify.com/track/70e4YH5gnT9rawbo4L1Ifh"
+    },
+    {
+      "album": {
         "name": "STYXXX",
         "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
       },
@@ -7443,6 +7495,28 @@
     },
     {
       "album": {
+        "name": "Nie boj\u0119 si\u0119 jutra",
+        "url": "https://open.spotify.com/album/1D8Nmaagv8C5GQROzsRicm"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145049,
+      "name": "Nie boj\u0119 si\u0119 jutra",
+      "url": "https://open.spotify.com/track/5Bkm7m8Dp3Kwlx62P7EZVA"
+    },
+    {
+      "album": {
         "name": "nie chc\u0119 przesta\u0107 si\u0119 bawi\u0107",
         "url": "https://open.spotify.com/album/1GmMlRvdySREHx6gXZC1E0"
       },
@@ -9400,6 +9474,28 @@
       "duration_ms": 156387,
       "name": "RAP",
       "url": "https://open.spotify.com/track/7iKwOfZC2rAVOYfaUfmzHS"
+    },
+    {
+      "album": {
+        "name": "Raz, drugi, trzeci",
+        "url": "https://open.spotify.com/album/0nOO31BBC6aBKfWfbeWLEy"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Philthy Rich",
+          "url": "https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Raz, drugi, trzeci",
+      "url": "https://open.spotify.com/track/7i4xcndCyKecS3ydgoA9FE"
     },
     {
       "album": {
@@ -11612,7 +11708,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 173011,
       "name": "Wszyscy To My",
       "url": "https://open.spotify.com/track/3NDFp3qsPg1ADXSk8r12aB"
@@ -11668,6 +11764,32 @@
       "duration_ms": 142360,
       "name": "WSZYSTKO GUCCI",
       "url": "https://open.spotify.com/track/2rBmOHorZGGzgIw9iLX9k2"
+    },
+    {
+      "album": {
+        "name": "WSZYSTKO MIJA",
+        "url": "https://open.spotify.com/album/14zjan9MfMAAyNfQhf09Z6"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Lonzo",
+          "url": "https://open.spotify.com/artist/23a4GHE8SXM3a5sX6oDQNM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199069,
+      "name": "WSZYSTKO MIJA",
+      "url": "https://open.spotify.com/track/6XK2NHIhrIaS7rexbiiiq7"
     },
     {
       "album": {

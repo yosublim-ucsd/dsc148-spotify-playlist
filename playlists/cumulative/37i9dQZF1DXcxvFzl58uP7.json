@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
         "name": "&SCENE",
         "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
       },
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 221120,
       "name": "gum v6.4",
       "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
@@ -17600,7 +17618,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 188474,
       "name": "Way to You",
       "url": "https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao"
@@ -17950,6 +17968,24 @@
       "duration_ms": 179908,
       "name": "Wiggle",
       "url": "https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ"
+    },
+    {
+      "album": {
+        "name": "wildflower",
+        "url": "https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175243,
+      "name": "wildflower",
+      "url": "https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX"
     },
     {
       "album": {

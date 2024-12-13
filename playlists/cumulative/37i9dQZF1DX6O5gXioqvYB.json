@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Giulia Mei",
+  "description": "La nuova scena indie italiana! Cover: Prim",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 161500,
       "name": "Campari",
       "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
@@ -926,6 +926,24 @@
       "duration_ms": 221353,
       "name": "Comfort zone",
       "url": "https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho"
+    },
+    {
+      "album": {
+        "name": "Luna in acquario ascendente sagittario",
+        "url": "https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134625,
+      "name": "Coming back from Marte",
+      "url": "https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9"
     },
     {
       "album": {
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 151636,
       "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
       "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 202793,
       "name": "Se non passasse aria",
       "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"

@@ -1,13 +1,49 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty, Wahyu F Giri",
-  "num_followers": 204238,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
+  "num_followers": 204303,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1HcEAAAAAAsfZBSQ1aGyaNwjFOlDVcY",
+  "snapshot_id": "Z1uaCQAAAADRgEOPb7hmFNpLe0hmz0KI",
   "tracks": [
+    {
+      "added_at": "2024-12-13 02:20:57",
+      "album": {
+        "name": "Pangarepan",
+        "url": "https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 347240,
+      "name": "Pangarepan",
+      "url": "https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1"
+    },
+    {
+      "added_at": "2024-12-13 02:20:57",
+      "album": {
+        "name": "Asmaranala",
+        "url": "https://open.spotify.com/album/4DfWwdaCEfhTxwNUsO3jqy"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Asmaranala",
+      "url": "https://open.spotify.com/track/6ncWBbSgCbCviODfnyRZC7"
+    },
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
@@ -63,6 +99,22 @@
       "duration_ms": 305493,
       "name": "Bajirut",
       "url": "https://open.spotify.com/track/2d7MsxaYJC0NSNw0u0WrWv"
+    },
+    {
+      "added_at": "2024-12-13 02:20:57",
+      "album": {
+        "name": "PENGAREPAN (Acoustic)",
+        "url": "https://open.spotify.com/album/5a7o5ybj528aaw61UrNOtw"
+      },
+      "artists": [
+        {
+          "name": "Syahiba Saufa",
+          "url": "https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz"
+        }
+      ],
+      "duration_ms": 291839,
+      "name": "PENGAREPAN - Acoustic",
+      "url": "https://open.spotify.com/track/7gkTAMKGIMKWNE8y1He7jU"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -663,22 +715,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Sendiri",
-        "url": "https://open.spotify.com/album/1vrauGsTjgZmwBZyiyAsTb"
-      },
-      "artists": [
-        {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Sendiri",
-      "url": "https://open.spotify.com/track/0W6UGr30FSAbxgDi4RK1zO"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Lestari",
         "url": "https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv"
       },
@@ -767,22 +803,6 @@
       "duration_ms": 317419,
       "name": "Macak Kelaran",
       "url": "https://open.spotify.com/track/7sgv1XJLRqYNl4ss02o93d"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Kecelik",
-        "url": "https://open.spotify.com/album/2Ts1yFQxdRcpf1BD8OqG1I"
-      },
-      "artists": [
-        {
-          "name": "Evan Loss",
-          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
-        }
-      ],
-      "duration_ms": 349016,
-      "name": "Kecelik",
-      "url": "https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -915,26 +935,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "TRESNO NGALOR NGIDUL",
-        "url": "https://open.spotify.com/album/7vwsRJ8NZAiAzPz29aDJBO"
-      },
-      "artists": [
-        {
-          "name": "Nabila Maharani",
-          "url": "https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW"
-        },
-        {
-          "name": "Tri Suaka",
-          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
-        }
-      ],
-      "duration_ms": 332307,
-      "name": "TRESNO NGALOR NGIDUL",
-      "url": "https://open.spotify.com/track/4JKKRKsFGsz3F4lfcHRPhK"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Sigar",
         "url": "https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Nyonggo (Studio Session)",
-        "url": "https://open.spotify.com/album/764cYrlCfzeDed5XxCmDIf"
-      },
-      "artists": [
-        {
-          "name": "OMWAWES",
-          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
-        }
-      ],
-      "duration_ms": 276444,
-      "name": "Nyonggo - Studio Session",
-      "url": "https://open.spotify.com/track/4quG5IHklvxxGunJ96FLNL"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Sigar",
         "url": "https://open.spotify.com/album/6iZIQvcfuZkOMG9Js2mWqM"
       },
@@ -999,26 +983,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Not You No In",
-        "url": "https://open.spotify.com/album/0ttLzRa1gRqg3ROQD19Iwn"
-      },
-      "artists": [
-        {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
-        },
-        {
-          "name": "Kristin D",
-          "url": "https://open.spotify.com/artist/2DwMeXS8DhOF0fPRRsSZJJ"
-        }
-      ],
-      "duration_ms": 315693,
-      "name": "Not You No In",
-      "url": "https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "SIGAR",
         "url": "https://open.spotify.com/album/2IzepynkbkvI97V9TK1tTi"
       },
@@ -1031,26 +995,6 @@
       "duration_ms": 434174,
       "name": "SIGAR",
       "url": "https://open.spotify.com/track/4YJBdnd2ZF5JeGVNQUnGrO"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Saktenane",
-        "url": "https://open.spotify.com/album/5UIUBFgEEBdc70lgSH38ko"
-      },
-      "artists": [
-        {
-          "name": "Safira Inema",
-          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
-        },
-        {
-          "name": "Radit Fasolla",
-          "url": "https://open.spotify.com/artist/135t3ftsP9hvglGlUtsElh"
-        }
-      ],
-      "duration_ms": 350741,
-      "name": "Saktenane",
-      "url": "https://open.spotify.com/track/4o9SsLbCaxSHoAMkUoC2Iu"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -1163,22 +1107,6 @@
       "duration_ms": 318411,
       "name": "Kisinan",
       "url": "https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "SENENG",
-        "url": "https://open.spotify.com/album/37HenmohqDXnQzohspijBA"
-      },
-      "artists": [
-        {
-          "name": "Gildcoustic",
-          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
-        }
-      ],
-      "duration_ms": 283123,
-      "name": "SENENG",
-      "url": "https://open.spotify.com/track/1drRDlIBhcYUOaeMssBpEr"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -1379,26 +1307,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Demi Kowe",
-        "url": "https://open.spotify.com/album/3SdhoZAu633dAP6IXFIUPO"
-      },
-      "artists": [
-        {
-          "name": "Happy Asmara",
-          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
-        },
-        {
-          "name": "Gilga Sahid",
-          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
-        }
-      ],
-      "duration_ms": 330909,
-      "name": "Demi Kowe",
-      "url": "https://open.spotify.com/track/7B6qooHmqiOY7hs8TEF1hP"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "LESTARI",
         "url": "https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H"
       },
@@ -1467,22 +1375,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Akhire Bali",
-        "url": "https://open.spotify.com/album/4V61bFywMcCXHqy31ljAzr"
-      },
-      "artists": [
-        {
-          "name": "Lavora",
-          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Akhire Bali",
-      "url": "https://open.spotify.com/track/1npk1egEshawzhe82opVMf"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Piwales Tresno",
         "url": "https://open.spotify.com/album/7A3KCg9TnljGE3VywQRuix"
       },
@@ -1511,42 +1403,6 @@
       "duration_ms": 310153,
       "name": "Kalah 2",
       "url": "https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Manot",
-        "url": "https://open.spotify.com/album/0HXJWLhewQ46fsmG2XbZrS"
-      },
-      "artists": [
-        {
-          "name": "Happy Asmara",
-          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
-        },
-        {
-          "name": "Gilga Sahid",
-          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
-        }
-      ],
-      "duration_ms": 391963,
-      "name": "Manot",
-      "url": "https://open.spotify.com/track/3D8qYZcWTMp93TCimjrjwO"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Tutupono",
-        "url": "https://open.spotify.com/album/4jabGpRwf88fAgVkDxoPbd"
-      },
-      "artists": [
-        {
-          "name": "Aftershine",
-          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "Tutupono",
-      "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -1679,22 +1535,6 @@
       "duration_ms": 318242,
       "name": "Wirang",
       "url": "https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Manot",
-        "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
-      },
-      "artists": [
-        {
-          "name": "Gildcoustic",
-          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Manot",
-      "url": "https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp"
     },
     {
       "added_at": "2024-12-05 17:00:00",

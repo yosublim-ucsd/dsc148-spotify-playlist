@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas
 
-89 songs - 4 hr 29 min
+91 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mouse and a Kingdom](https://open.spotify.com/track/7FDGKgY1LALDcBqgcuFpbD) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:21 | 2022-11-18 | 2022-11-23 |
 | [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 | 2024-12-06 |  |
 | [A Story About Letters](https://open.spotify.com/track/5ajzF3VX52mCkBupgteij1) | [Alfonso G\. Aguilar](https://open.spotify.com/artist/0zPsPfHcjbQzlb6gVAa0QM) | [Klaus \(Music from the Netflix film\)](https://open.spotify.com/album/3pxQp1SCC1fUggunoo2Kb5) | 1:38 | 2022-11-18 | 2023-11-07 |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2024-12-12 |  |
 | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/track/06brLYLA4DVwITVbbRuvm9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/album/6pJJt55QFmYnoFkKUGSiUj) | 3:13 | 2023-12-27 |  |
 | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/track/5QB64gwD8o0JKMLKPKSp2c) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/album/4Lr5JXPMnBd2gqWBBLmNcS) | 3:13 | 2022-11-18 | 2024-04-19 |
 | [Aunt Carlotta](https://open.spotify.com/track/033EoRbl6GguOYwX0sRjh0) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:19 | 2022-11-18 | 2022-11-23 |
@@ -75,6 +76,7 @@
 | [Santa Knows Your Secrets](https://open.spotify.com/track/14WUlHavhcV5P5vzO6RgvP) | [Nightheart](https://open.spotify.com/artist/5sDp3kjXQBm84x86UcbHzd) | [Horselake Road](https://open.spotify.com/album/27dn8hCj3yiiqC1m7qOsrG) | 4:33 | 2022-11-18 | 2023-11-07 |
 | [Silent Night](https://open.spotify.com/track/5MZIf575KHLmkjKaJUhN7B) | [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN), [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B) | [Happy Holidays](https://open.spotify.com/album/1bHJvO5ykiqCiDUNlvOoZM) | 1:53 | 2022-11-18 | 2022-12-02 |
 | [Silent Night](https://open.spotify.com/track/59Je1JnCLGs6PvdvDxZ6ln) | [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B), [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN) | [Happy Holidays](https://open.spotify.com/album/3ReUiVwo63hIrpuayiGyhe) | 1:53 | 2022-11-18 | 2023-11-07 |
+| [Silent Night \(feat\. Beyoncé Knowles\)](https://open.spotify.com/track/4MeYZ3jpjtDlHKZtVVUYqW) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [8 Days of Christmas \(Deluxe Version\)](https://open.spotify.com/album/6B3Ad63nboSVgrnuFTwoo9) | 3:41 | 2024-12-12 |  |
 | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/track/6uLogps4678Egq6OMwPsLS) | [Dan Finnerty](https://open.spotify.com/artist/0TvxNJPCKcZnKn6WZ1xrEG) | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/album/0hSvbqN5brZqlQ0EO6n2ty) | 2:46 | 2022-11-18 | 2024-04-19 |
 | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/track/7sQ8B9tLi6dGYWLQBQZqEQ) | [Dan Finnerty](https://open.spotify.com/artist/0TvxNJPCKcZnKn6WZ1xrEG) | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/album/57es9n5EOQYBWRcfkOzJt6) | 2:46 | 2023-12-27 |  |
 | [Square Root of Possible](https://open.spotify.com/track/3CtWaE1HvafkhAdau5Nuez) | [Madalen Mills](https://open.spotify.com/artist/2WZwUfbQPLXMSKy71YcTsh) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 4:04 | 2022-11-18 |  |

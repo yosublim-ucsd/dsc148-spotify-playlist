@@ -7303,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "as the mist clears",
+        "url": "https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174158,
+      "name": "as the mist clears",
+      "url": "https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h"
       },
@@ -10896,7 +10914,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 137571,
       "name": "Beam Me Up",
       "url": "https://open.spotify.com/track/4u6Ei0dLyo7AQtYZKtiWxH"
@@ -43934,7 +43952,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -50188,7 +50206,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 118013,
       "name": "hand in hand",
       "url": "https://open.spotify.com/track/2kUifLR2g3YpXJbIpq2tVE"
@@ -129352,7 +129370,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153365,
       "name": "Vices & Love",
       "url": "https://open.spotify.com/track/0DSkQqN1u53q7Luqw2fQah"
@@ -133036,6 +133054,24 @@
       "duration_ms": 161797,
       "name": "Whatnot",
       "url": "https://open.spotify.com/track/22C2VHNuZVvPegO22pMoEf"
+    },
+    {
+      "album": {
+        "name": "what\u00b4s my name",
+        "url": "https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG"
+      },
+      "artists": [
+        {
+          "name": "yellofish",
+          "url": "https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "what\u00b4s my name",
+      "url": "https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P"
     },
     {
       "album": {

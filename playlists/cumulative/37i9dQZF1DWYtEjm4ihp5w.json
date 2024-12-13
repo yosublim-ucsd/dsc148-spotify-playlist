@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162461,
       "name": "CADABRA",
       "url": "https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 226627,
       "name": "Charchabil",
       "url": "https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C"
@@ -1162,6 +1162,24 @@
       "duration_ms": 188000,
       "name": "CHICHI",
       "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+    },
+    {
+      "album": {
+        "name": "CHIFA",
+        "url": "https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "CHIFA",
+      "url": "https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0"
     },
     {
       "album": {
@@ -3165,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "LOIN DE TOI",
+      "url": "https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT"
+    },
+    {
+      "album": {
         "name": "Lost Chapter - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1"
       },
@@ -3252,6 +3288,24 @@
       "duration_ms": 181301,
       "name": "L\u2019allemagne - Bonus",
       "url": "https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288949,
+      "name": "L\u2019Bayda Mon Amour",
+      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
     },
     {
       "album": {
@@ -3590,7 +3644,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 113592,
       "name": "Metapsy",
       "url": "https://open.spotify.com/track/3fgiLAfOwmf99Nz1ym2Udo"

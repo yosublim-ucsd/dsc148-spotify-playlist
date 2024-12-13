@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166500,
       "name": "Ashanti",
       "url": "https://open.spotify.com/track/2JsCWEV3SFrnwSCmorOzIl"
@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Danje (Golden Guest Edit)",
+        "url": "https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg"
+      },
+      "artists": [
+        {
+          "name": "Lycina\u00efs Jean",
+          "url": "https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN"
+        },
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Danje - Golden Guest Edit",
+      "url": "https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh"
+    },
+    {
+      "album": {
         "name": "Dehors il fait froid",
         "url": "https://open.spotify.com/album/2WI9NoVkIVvyRikSin6Csx"
       },
@@ -698,7 +720,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 213796,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/3uqATgtHuKkVA3BXCOdloN"
@@ -844,6 +866,28 @@
       "duration_ms": 210143,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ"
+    },
+    {
+      "album": {
+        "name": "Doudou",
+        "url": "https://open.spotify.com/album/3O6aKwK7VwfOplNM9athV7"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        },
+        {
+          "name": "T Kimp Gee",
+          "url": "https://open.spotify.com/artist/1NxMxZ8dG0JJbg02CXtw2D"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/7vuIiqyxVwbJFLRY3IaQVa"
     },
     {
       "album": {
@@ -1718,7 +1762,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 210750,
       "name": "Ma Moiti\u00e9",
       "url": "https://open.spotify.com/track/36Ed4SQiiWmMLRxiiX1Df7"
@@ -3654,6 +3698,28 @@
       "duration_ms": 174000,
       "name": "Two m\u00e9fian",
       "url": "https://open.spotify.com/track/1rCtW0Td7JwoQOfTLoICUq"
+    },
+    {
+      "album": {
+        "name": "Ultimatum",
+        "url": "https://open.spotify.com/album/7AtBWftdgOV33vRseNCqtY"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        },
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158780,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2vkvc4IiMTVUdmrMampZGU"
     },
     {
       "album": {

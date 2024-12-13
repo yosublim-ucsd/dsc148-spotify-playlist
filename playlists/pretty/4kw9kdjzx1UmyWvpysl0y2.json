@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125647,
+  "num_followers": 125646,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATbhcsC/ldJ/dbLEDPBkmuYamSQ7cE",
+  "snapshot_id": "AAATcL/ieO9BDuZF/uU1iSyA/fxV/XX+",
   "tracks": [
+    {
+      "added_at": "2024-12-12 15:48:49",
+      "album": {
+        "name": "Therapy (VIP)",
+        "url": "https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Therapy - VIP",
+      "url": "https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H"
+    },
     {
       "added_at": "2024-12-10 17:15:54",
       "album": {
@@ -1123,26 +1139,6 @@
       "duration_ms": 180089,
       "name": "POWER",
       "url": "https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF"
-    },
-    {
-      "added_at": "2024-09-19 15:00:12",
-      "album": {
-        "name": "Divergence",
-        "url": "https://open.spotify.com/album/2wl5XUluXxVwhBhfZEOwVL"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/527oJMrzPR6PhTWNPclNah"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

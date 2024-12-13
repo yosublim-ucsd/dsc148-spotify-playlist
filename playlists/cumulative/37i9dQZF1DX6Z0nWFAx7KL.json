@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169427,
       "name": "(Still) Kung Fu Fighting",
       "url": "https://open.spotify.com/track/0gYYwfH23VdHlv6f7Snbjm"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 161254,
       "name": "At The Beach",
       "url": "https://open.spotify.com/track/0cLH0OHubBbIB5XeiSN1qh"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 147839,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 197278,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4FN4WUBeUuxV5EvTiUMhSy"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 234049,
       "name": "Come alive",
       "url": "https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu"
@@ -1323,6 +1323,32 @@
     },
     {
       "album": {
+        "name": "Deny",
+        "url": "https://open.spotify.com/album/2VBHSnjSj54AuJ6t6Aw9bB"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Deny",
+      "url": "https://open.spotify.com/track/3fXJI9pYmu81lQ2SKTASF5"
+    },
+    {
+      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1ZmBx4iCxOfrTXPmpF222q"
       },
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/5a7g0ku1G4EET2ni5iindx"
@@ -1546,7 +1572,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 165853,
       "name": "Drown",
       "url": "https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA"
@@ -1890,7 +1916,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 193790,
       "name": "Eyesight",
       "url": "https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5"
@@ -2348,7 +2374,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 161335,
       "name": "High Life",
       "url": "https://open.spotify.com/track/11gK0X635BKiS9qN7ExWlw"
@@ -2374,7 +2400,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 133353,
       "name": "Highest Mountain",
       "url": "https://open.spotify.com/track/5VLqDY4sPCbVMrjw4f1Y5w"
@@ -2426,7 +2452,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 206384,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
@@ -2500,7 +2526,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 158608,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc"
@@ -2756,7 +2782,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 148015,
       "name": "Inside My Love",
       "url": "https://open.spotify.com/track/47yLW6AY0mHHVMKlTGssZj"
@@ -2800,7 +2826,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175609,
       "name": "Is It All",
       "url": "https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH"
@@ -3240,7 +3266,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166991,
       "name": "Like The River",
       "url": "https://open.spotify.com/track/1Q2lYPkPWLYkPkUY413lQl"
@@ -3534,7 +3560,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 141714,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6G4pd6akfqMpv1PkGD2wCK"
@@ -3830,7 +3856,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
@@ -4042,7 +4068,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 158600,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
@@ -4082,7 +4108,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 255483,
       "name": "One Step",
       "url": "https://open.spotify.com/track/7LwW3ZHlFv7UPjlZ242qsq"
@@ -4104,7 +4130,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169007,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0ei50p0SSBAYwNszmq0WNv"
@@ -4228,7 +4254,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 224262,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3esLmDNmNFBOQo4XaBxs9n"
@@ -4298,7 +4324,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142372,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/5pMTesGx0EpEiMDZ8UngQd"
@@ -4364,7 +4390,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 139010,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
@@ -4844,7 +4870,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn"
@@ -4950,7 +4976,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136250,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u"
@@ -5630,7 +5656,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 338066,
       "name": "Turning Blind",
       "url": "https://open.spotify.com/track/1mPqkPH49x4jSGa4pIvqvr"
@@ -5652,7 +5678,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 171696,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
@@ -5820,7 +5846,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 164388,
       "name": "What You Do to Me",
       "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
@@ -5900,7 +5926,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 205325,
       "name": "Who You",
       "url": "https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb"
@@ -6032,7 +6058,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192000,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm"

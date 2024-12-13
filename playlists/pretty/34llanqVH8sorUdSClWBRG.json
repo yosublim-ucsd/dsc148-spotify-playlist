@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAOi8KWUJ/usuQqx+kU1ixlueTNeSk",
+  "snapshot_id": "AAAAPDF8NjJR4r1PZmY1RdjC4acxJ/Zw",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -875,6 +875,38 @@
       "duration_ms": 240491,
       "name": "I'll Make Cereal",
       "url": "https://open.spotify.com/track/7cZhrCKZRUPsDEK8PWR727"
+    },
+    {
+      "added_at": "2024-12-12 07:31:47",
+      "album": {
+        "name": "7 O'Clock",
+        "url": "https://open.spotify.com/album/5Trjk7CuYJO5muXqXPB7xl"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "7 O'Clock",
+      "url": "https://open.spotify.com/track/2Eh6bvihTFDwAjHBEYnbgH"
+    },
+    {
+      "added_at": "2024-12-12 11:29:17",
+      "album": {
+        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6NK9g64i0EOGhXCfx27jTE"
     }
   ],
   "unique_name": "Diseased",

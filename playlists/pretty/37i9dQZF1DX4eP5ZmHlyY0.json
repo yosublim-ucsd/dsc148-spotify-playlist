@@ -495,6 +495,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "VIIsual",
+        "url": "https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "BO$$Y",
+      "url": "https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "Re:ERA",
         "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 299606,
       "name": "DEAR MY LOVER",
       "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "VIIsual",
-        "url": "https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "BO$$Y",
-      "url": "https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Sweetest Tune",
-        "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 205757,
-      "name": "Sweetest Tune",
-      "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
         "url": "https://open.spotify.com/album/052jurik7u7naYKyLCL8n0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 197480,
       "name": "\u30df\u30c1\u30b7\u30eb\u30d9",
       "url": "https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Sweetest Tune",
+        "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "duration_ms": 205757,
+      "name": "Sweetest Tune",
+      "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "BAM-BOO",
+        "url": "https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "duration_ms": 154718,
+      "name": "BAM-BOO",
+      "url": "https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "+Alpha\uff08Special Edition\uff09",
         "url": "https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 190453,
       "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
       "url": "https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa"
-      },
-      "artists": [
-        {
-          "name": "STARTO for you",
-          "url": "https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz"
-        }
-      ],
-      "duration_ms": 321383,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7"
     }
   ],
   "unique_name": "Boys Group Japan",

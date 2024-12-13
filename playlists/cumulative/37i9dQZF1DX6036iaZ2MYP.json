@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Davido",
+  "description": "Tracks popping off in the Afro scene. Cover: Highlyy",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/0vxxTax1YejZrG3nk6J6v4"
+      },
+      "artists": [
+        {
+          "name": "Sonik",
+          "url": "https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/1g3OanQHWCwucjS3wVnIKN"
+    },
+    {
+      "album": {
         "name": "Badman Love",
         "url": "https://open.spotify.com/album/4IWeBBTpKqsnjdoccWmpbL"
       },
@@ -1757,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Cadeau",
+        "url": "https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126991,
+      "name": "Cadeau",
+      "url": "https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL"
+    },
+    {
+      "album": {
         "name": "CALENDAR (with Moliy)",
         "url": "https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc"
       },
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 176106,
       "name": "Changer les choses (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
       "url": "https://open.spotify.com/track/73A1WdVIFE6Zk8EMEw0j9H"
@@ -2138,7 +2174,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 156831,
       "name": "Close To Me (feat. Bnxn)",
       "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
@@ -2826,6 +2862,28 @@
       "duration_ms": 143505,
       "name": "Desire (feat. Tayc)",
       "url": "https://open.spotify.com/track/1VQo0tmPiBdeZ2sZ8iFEmP"
+    },
+    {
+      "album": {
+        "name": "Devant le Maire",
+        "url": "https://open.spotify.com/album/5KvaziGstBw2iPi4IoqSMQ"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        },
+        {
+          "name": "iambillies",
+          "url": "https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Devant le Maire",
+      "url": "https://open.spotify.com/track/0MdL8IyxvCK0ykNavMXXii"
     },
     {
       "album": {
@@ -3555,6 +3613,28 @@
     },
     {
       "album": {
+        "name": "MAL ENTOUR\u00c9",
+        "url": "https://open.spotify.com/album/2z7IV3GTwWgkI2MZ3Xyw26"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        },
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Elle aime",
+      "url": "https://open.spotify.com/track/1SNLjbIqwq0FieMd0zMKVX"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/651oHJ0RhcjPfJQY1hjsz8"
       },
@@ -3606,7 +3686,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 141474,
       "name": "Emma",
       "url": "https://open.spotify.com/track/7BL2OpC3THBsHNaNoDLHAS"
@@ -3828,6 +3908,28 @@
       "duration_ms": 165000,
       "name": "Fakosi",
       "url": "https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn"
+    },
+    {
+      "album": {
+        "name": "Fall In Love (feat. Ayo Jay)",
+        "url": "https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205238,
+      "name": "Fall In Love (feat. Ayo Jay)",
+      "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
     },
     {
       "album": {
@@ -4539,6 +4641,28 @@
     },
     {
       "album": {
+        "name": "Mixtape Ouenz\u00e9",
+        "url": "https://open.spotify.com/album/6IrtQvKelurPOX14jel04E"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116866,
+      "name": "Gatement",
+      "url": "https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A"
+    },
+    {
+      "album": {
         "name": "Gbadun",
         "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
       },
@@ -4790,7 +4914,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166720,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
@@ -4852,7 +4976,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 118938,
       "name": "Guyane",
       "url": "https://open.spotify.com/track/1VcPh4XVRiJoeqZ1B0Il8p"
@@ -5866,7 +5990,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 134754,
       "name": "J\u2019men fous de tout",
       "url": "https://open.spotify.com/track/2FKtjWw8fLN2T3gmmdfjlF"
@@ -7414,7 +7538,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142306,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5xrZngLg030qda7Qd7MvST"
@@ -7735,6 +7859,24 @@
     },
     {
       "album": {
+        "name": "More Parties",
+        "url": "https://open.spotify.com/album/3RmekoWXTtkdMx1qqRdS3l"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "More Parties",
+      "url": "https://open.spotify.com/track/031YGG6CRHmGlDJ50UWcpQ"
+    },
+    {
+      "album": {
         "name": "More Vibes More Money",
         "url": "https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7"
       },
@@ -7844,7 +7986,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192110,
       "name": "My Baby Oh",
       "url": "https://open.spotify.com/track/3OIw6EMvFbZTEDqegbIU7f"
@@ -10297,6 +10439,28 @@
     },
     {
       "album": {
+        "name": "Sensibility",
+        "url": "https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143186,
+      "name": "Sensibility",
+      "url": "https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx"
+    },
+    {
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/3TEirPqPvZbqbYFL3sCSmP"
       },
@@ -11434,6 +11598,24 @@
       "duration_ms": 145979,
       "name": "toronto",
       "url": "https://open.spotify.com/track/2MOQ05zcFoGSQsXAir8FxT"
+    },
+    {
+      "album": {
+        "name": "TOUJOURS DEDANS",
+        "url": "https://open.spotify.com/album/5nQmEPpf1GYD7LtY5dxVhN"
+      },
+      "artists": [
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "TOUJOURS DEDANS",
+      "url": "https://open.spotify.com/track/13SqtCMyxtwpEHHTxkOXWX"
     },
     {
       "album": {

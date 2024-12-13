@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 8 songs - 28 min 42 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 31 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,5 +16,6 @@ pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain]
 | 6 | [Guys on Every Corner](https://open.spotify.com/track/281eKOTcD0lOhFEUKuDcqT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 3:13 |
 | 7 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 8 | [Bombs Over Brooklyn](https://open.spotify.com/track/2x3H0vsi0k3JFcl60JeNQH) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 3:42 |
+| 9 | [Everyone Speaks Russian](https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz), [Flo Mega](https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j) | [17 Deutsche Tänze](https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH) | 3:08 |
 
-Snapshot ID: `AAAADc3aqMQXHRkwF8rVzKtTs/xLjslr`
+Snapshot ID: `AAAADk99sjsdReqzDn2x9gGyh+5oDBik`

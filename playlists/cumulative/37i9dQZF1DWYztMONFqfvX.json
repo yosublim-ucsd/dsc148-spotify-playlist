@@ -1131,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Fateh Kar Fateh (From \"Fateh\")",
+        "url": "https://open.spotify.com/album/1pfSFaAHYKFcJ0RKpQDv1U"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Haroon-Gavin",
+          "url": "https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce"
+        },
+        {
+          "name": "Mandeep Khurana",
+          "url": "https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220411,
+      "name": "Fateh Kar Fateh - From \"Fateh\"",
+      "url": "https://open.spotify.com/track/5aYbIAA0ws4fsyl67LQDNN"
+    },
+    {
+      "album": {
         "name": "Shamshera",
         "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
       },
@@ -3808,7 +3834,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 336000,
       "name": "Zaroorat Se Zyada - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/7sZ8Bb32XksNUci79dA7RI"

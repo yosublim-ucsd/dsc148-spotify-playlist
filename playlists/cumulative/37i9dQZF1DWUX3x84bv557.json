@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover:  Luna",
+  "description": "De nieuwste Nederlandse pop! Cover:  Danique",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 145190,
       "name": "2017",
       "url": "https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX"
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178434,
+      "name": "Als Je Gaat",
+      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
+    },
+    {
+      "album": {
         "name": "Als Je Haar Ziet",
         "url": "https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 138679,
       "name": "Alsjeblieft",
       "url": "https://open.spotify.com/track/7MIJkY9YV5B9YkqrVtumay"
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Bang Om Te Slapen",
+        "url": "https://open.spotify.com/album/1IpGgzwE6xkQur1Ed75vuK"
+      },
+      "artists": [
+        {
+          "name": "Yris",
+          "url": "https://open.spotify.com/artist/5CG6KhdlPDnF2WzXHYHt34"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133241,
+      "name": "Bang Om Te Slapen",
+      "url": "https://open.spotify.com/track/6U0RL3f5OC23TYrtt8O9vD"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166363,
       "name": "beiden gebroken",
       "url": "https://open.spotify.com/track/48DV9IJN747mdOMkYAr8ZA"
@@ -3372,7 +3408,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125038,
       "name": "Dilara",
       "url": "https://open.spotify.com/track/3N2cxA2874Unb9GY7jLK0F"
@@ -5328,7 +5364,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 161160,
       "name": "Het Midden",
       "url": "https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL"
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 202866,
       "name": "Ik heb je zo gemist",
       "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
@@ -6624,7 +6660,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153831,
       "name": "Je Geeft Me Niets",
       "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
@@ -6678,7 +6714,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 132809,
       "name": "Je Mist Me",
       "url": "https://open.spotify.com/track/2liJ6GzvDXU07NBz3EnLII"
@@ -6776,6 +6812,28 @@
       "duration_ms": 162437,
       "name": "Jij voelt als de lente",
       "url": "https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk"
+    },
+    {
+      "album": {
+        "name": "Jij Voelt Goed",
+        "url": "https://open.spotify.com/album/6cW9uhkpek4NZRIcM19vHN"
+      },
+      "artists": [
+        {
+          "name": "Melo",
+          "url": "https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg"
+        },
+        {
+          "name": "Emma Luca",
+          "url": "https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174570,
+      "name": "Jij Voelt Goed",
+      "url": "https://open.spotify.com/track/5PN65C8wGpD5D2Dcm2YMtP"
     },
     {
       "album": {
@@ -7042,7 +7100,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 146785,
       "name": "Kleine Dingen",
       "url": "https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo"
@@ -7292,7 +7350,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167395,
       "name": "Koud",
       "url": "https://open.spotify.com/track/0vl2hrlSE7NKRfTYnX3HPo"
@@ -8660,7 +8718,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162694,
       "name": "Mijn Haren Ruiken Naar Vuur",
       "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
@@ -9890,7 +9948,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207500,
       "name": "Ongevraagde Vragen",
       "url": "https://open.spotify.com/track/2nlLX6pgUHvu9esjEbDFcx"
@@ -10252,6 +10310,24 @@
       "duration_ms": 182189,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5II9sxBAPumEcpYQ3azCcT"
+    },
+    {
+      "album": {
+        "name": "Perfect Voor Mij",
+        "url": "https://open.spotify.com/album/0jUWx66cMwXl4l7gDDgZIS"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "Perfect Voor Mij",
+      "url": "https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6"
     },
     {
       "album": {
@@ -11126,7 +11202,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 134318,
       "name": "Slaap Lekker",
       "url": "https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1"
@@ -12184,7 +12260,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 216320,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI"
@@ -14170,7 +14246,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 237672,
       "name": "Zaklamp",
       "url": "https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN"
@@ -14570,6 +14646,28 @@
       "duration_ms": 144886,
       "name": "Zolang ik geef",
       "url": "https://open.spotify.com/track/76eD9ClF3KI9nmpduI1eKm"
+    },
+    {
+      "album": {
+        "name": "Zolang morgen maar beter is",
+        "url": "https://open.spotify.com/album/6ikHtlGlLogICtPH12KwVn"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Zolang morgen maar beter is",
+      "url": "https://open.spotify.com/track/7naoVtjM7o7pUJpMBhlecM"
     },
     {
       "album": {

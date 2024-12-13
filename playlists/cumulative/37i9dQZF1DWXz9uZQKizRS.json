@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ofelia",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Reni Jusis",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -2419,6 +2419,32 @@
     },
     {
       "album": {
+        "name": "Re Trans Misja",
+        "url": "https://open.spotify.com/album/0YADQXmSqepRZFJBsrOBkD"
+      },
+      "artists": [
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        },
+        {
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
+        },
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189177,
+      "name": "It's not enough",
+      "url": "https://open.spotify.com/track/1DCbgEa1py6V8P1JRvSTnL"
+    },
+    {
+      "album": {
         "name": "jak mam",
         "url": "https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ"
       },
@@ -3873,6 +3899,28 @@
     },
     {
       "album": {
+        "name": "Miasto Nad Morzem",
+        "url": "https://open.spotify.com/album/2j7TWQ8jr86nff2T2xlYuH"
+      },
+      "artists": [
+        {
+          "name": "BAZGRO\u0141KI",
+          "url": "https://open.spotify.com/artist/6009MUTEkGCSforjgcoolT"
+        },
+        {
+          "name": "Grzegorz Krajewski",
+          "url": "https://open.spotify.com/artist/2K9qbth3NwT2qwTKmpVRk6"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247530,
+      "name": "Miasto Nad Morzem",
+      "url": "https://open.spotify.com/track/5AEbkHK8uqzzvL81agR3S6"
+    },
+    {
+      "album": {
         "name": "Proste Piosenki",
         "url": "https://open.spotify.com/album/2nRZUBxgdwxCs2aFiucWrg"
       },
@@ -4410,6 +4458,24 @@
       "duration_ms": 219989,
       "name": "motyl",
       "url": "https://open.spotify.com/track/2xhBFXSW3YxnIcME3gDkGM"
+    },
+    {
+      "album": {
+        "name": "mo\u017ce jutro",
+        "url": "https://open.spotify.com/album/5XljoD2PB55bc5EertXoMP"
+      },
+      "artists": [
+        {
+          "name": "Senny",
+          "url": "https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "mo\u017ce jutro",
+      "url": "https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp"
     },
     {
       "album": {
@@ -5304,7 +5370,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 217782,
       "name": "Odkrywanie",
       "url": "https://open.spotify.com/track/2bGupEfDvXCfNtHkFmo1GX"
@@ -5832,7 +5898,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 349685,
       "name": "Philip",
       "url": "https://open.spotify.com/track/0ORppj9PP9tmgXkyKJkfPg"
@@ -8512,7 +8578,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207687,
       "name": "What Is Static and What's Flowing",
       "url": "https://open.spotify.com/track/2icKV2IiIDcHMyA210s3zE"
@@ -9441,6 +9507,28 @@
     },
     {
       "album": {
+        "name": "Zostaw mnie",
+        "url": "https://open.spotify.com/album/6z6colw8hgc5fUyvR0sx4y"
+      },
+      "artists": [
+        {
+          "name": "Powaby",
+          "url": "https://open.spotify.com/artist/251hX9AIf9vHOcswUOvA1j"
+        },
+        {
+          "name": "Karolina Prasa\u0142",
+          "url": "https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190634,
+      "name": "Zostaw mnie",
+      "url": "https://open.spotify.com/track/0aWKAPivZtQKElyMIqrIRL"
+    },
+    {
+      "album": {
         "name": "Zosta\u0107 Tu",
         "url": "https://open.spotify.com/album/1tukBpUmCGFT2ZHQOpyirS"
       },
@@ -9452,7 +9540,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192025,
       "name": "Zosta\u0107 Tu",
       "url": "https://open.spotify.com/track/2Rkl2ZhuVs7sVWnPo8Luve"

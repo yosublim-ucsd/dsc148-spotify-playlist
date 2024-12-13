@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Lovely Bukhaar",
+        "url": "https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189863,
+      "name": "Dil (Awakening)",
+      "url": "https://open.spotify.com/track/09oZ81iNamqMbobbJ9y4u9"
+    },
+    {
+      "album": {
         "name": "Dil da Taar",
         "url": "https://open.spotify.com/album/2dEGRpd7uwmD3ATjm633lp"
       },
@@ -826,6 +844,28 @@
       "duration_ms": 150595,
       "name": "Guzara",
       "url": "https://open.spotify.com/track/0KM62RV76ROu2Yo8ptZXHN"
+    },
+    {
+      "album": {
+        "name": "Hass Kay Bol",
+        "url": "https://open.spotify.com/album/0pvqT9O9x5In8SGeix2Ekc"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Umer Iftikhar",
+          "url": "https://open.spotify.com/artist/06RMgxB7LpQetBFLKJayjn"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Hass Kay Bol",
+      "url": "https://open.spotify.com/track/3GO2TTGnH4O6c8WwDJoGoq"
     },
     {
       "album": {
@@ -1550,6 +1590,32 @@
       "duration_ms": 219337,
       "name": "moon",
       "url": "https://open.spotify.com/track/0dzEAbC8W01T1uJb1BDRtA"
+    },
+    {
+      "album": {
+        "name": "Musafir Khano",
+        "url": "https://open.spotify.com/album/3tZByv2hyjF4zYuLY2ubQN"
+      },
+      "artists": [
+        {
+          "name": "Amjad Mirani",
+          "url": "https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu"
+        },
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Kaashi Haider",
+          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207964,
+      "name": "Musafir Khano",
+      "url": "https://open.spotify.com/track/5VHj1Z4ccCPoyufzqrNjfK"
     },
     {
       "album": {

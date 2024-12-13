@@ -2,7 +2,7 @@
 
 ### [Latin Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX8qhRpXsdDY5)
 
-> Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
+> Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
 243 songs - 14 hr 24 min
 

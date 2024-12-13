@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "17 Deutsche T\u00e4nze",
+        "url": "https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH"
+      },
+      "artists": [
+        {
+          "name": "Rotfront",
+          "url": "https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz"
+        },
+        {
+          "name": "Flo Mega",
+          "url": "https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188219,
+      "name": "Everyone Speaks Russian",
+      "url": "https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw"
+    },
+    {
+      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg"
       },

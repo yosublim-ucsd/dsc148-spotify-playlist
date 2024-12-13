@@ -12558,7 +12558,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 206666,
       "name": "November",
       "url": "https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m"
@@ -14300,6 +14300,24 @@
       "duration_ms": 206495,
       "name": "Ranga Wargi",
       "url": "https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60"
+    },
+    {
+      "album": {
+        "name": "Rangeen",
+        "url": "https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Rangeen",
+      "url": "https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8"
     },
     {
       "album": {

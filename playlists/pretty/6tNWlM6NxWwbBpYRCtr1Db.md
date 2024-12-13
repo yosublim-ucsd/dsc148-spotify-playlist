@@ -35,6 +35,6 @@ pretty - [cumulative](/playlists/cumulative/6tNWlM6NxWwbBpYRCtr1Db.md) - [plain]
 | 25 | [Y Ahora](https://open.spotify.com/track/15BhfwZAJVDPufb6O9lMxB) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Y Ahora](https://open.spotify.com/album/5uchDW3E2EugxwLK2Oh755) | 3:12 |
 | 26 | [Tu cuerpo y el mío](https://open.spotify.com/track/46eD4OgC1KyrMylWo6Ja0m) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3PPPsH0YlYCVx9XF8VagL9) | 3:01 |
 | 27 | [Menéate pa' mí](https://open.spotify.com/track/7DOQXkBA7kXF2LDn6XqK3r) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3PPPsH0YlYCVx9XF8VagL9) | 2:53 |
-| 28 | [Rave Na Praia](https://open.spotify.com/track/50YsV2XFugoMrqJK9Ttdly) | [MC Teteu](https://open.spotify.com/artist/2pV4eqEWsHrgwSbuAg2fmi) | [Rave Na Praia](https://open.spotify.com/album/0Pbqxx1sYY2Tbqe8eLoB2R) | 3:23 |
+| 28 | [Rave Na Praia](https://open.spotify.com/track/50YsV2XFugoMrqJK9Ttdly) | [Menor Teteu](https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb) | [Rave Na Praia](https://open.spotify.com/album/0Pbqxx1sYY2Tbqe8eLoB2R) | 3:23 |
 
 Snapshot ID: `AAAAbNGDU+OrFSXbFoAR9ngfz8bEg7XV`

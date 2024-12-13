@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "Neotheater",
+        "url": "https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223947,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry"
+    },
+    {
+      "album": {
         "name": "Born2Run",
         "url": "https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 209160,
       "name": "Only a Pawn in Their Game",
       "url": "https://open.spotify.com/track/6lib77q4koq52srysevRfT"
+    },
+    {
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-136 songs - 9 hr 28 min
+139 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Emotional Work](https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:55 | 2022-01-06 | 2024-03-01 |
 | [Endlessness \(Sound Bath\)](https://open.spotify.com/track/7c4dedcfqPn7w8Wddd0a7w) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness \(Sound Bath\)](https://open.spotify.com/album/4HXIfQejhqF9pwZZZJDuQN) | 2:43 | 2022-04-26 |  |
 | [Enlightenment](https://open.spotify.com/track/79OFwdUL8Lx097qQYbCjTu) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Enlightenment](https://open.spotify.com/album/1WXDF12jqCEHlAO68ugSI7) | 2:56 | 2024-08-02 |  |
+| [Everlasting](https://open.spotify.com/track/0qpZCuuBjyXa5tFgHp1uTb) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Everlasting](https://open.spotify.com/album/7wy199GErD91BVSnEvZklN) | 3:13 | 2024-12-12 |  |
 | [Expanded mind](https://open.spotify.com/track/1RBgF51R8C0yEGZwxowFEX) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Expanded mind](https://open.spotify.com/album/5Av1l8FbtRh45pFbS3FwyU) | 3:07 | 2022-12-13 |  |
 | [Expanding Earth Gong](https://open.spotify.com/track/0vCDI2Idh2jSYqtkRshMsC) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:11 | 2022-01-06 |  |
 | [Find A Path](https://open.spotify.com/track/7uLo6eo2ILMyZ2diKv9iMj) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Find A Path](https://open.spotify.com/album/0zPocc1WiMM4kyPXEF1Wq2) | 4:00 | 2022-07-14 |  |
@@ -89,6 +90,7 @@
 | [Muladhara: Root \(Live\)](https://open.spotify.com/track/6qwYSWuBQa6sKMoJyaQBiq) | [Sukhmandir & Friends](https://open.spotify.com/artist/0MHhA2kXFGWTZlVYcCI9FT) | [Healing Gong Baths \(Live\)](https://open.spotify.com/album/3tu17NcM3MqKO22cqccpFU) | 10:13 | 2022-01-06 | 2022-12-14 |
 | [New Breaths \(Sound Bath\)](https://open.spotify.com/track/2YppGyFYPKYX0CCMW12rc0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [New Breaths](https://open.spotify.com/album/27pz7Vd94C8OPfUS8VoRz8) | 2:56 | 2022-01-06 |  |
 | [Next Moment \- 432 Hz](https://open.spotify.com/track/3j6bdU5gjL8BwOel976Ntg) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Next Moment \- 432 Hz](https://open.spotify.com/album/3blhjHGTCpNVl4D5umEpKo) | 3:21 | 2024-01-22 |  |
+| [Noctilucent](https://open.spotify.com/track/3m8aAgxiL7SMOTPym9s5Gx) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Noctilucent](https://open.spotify.com/album/0GueoJsCl18CjDpVSCUTi4) | 2:20 | 2024-12-12 |  |
 | [Optimistic Outlook \(Sound Bath\)](https://open.spotify.com/track/0UK7EvfHhwPH5nboxoH9BO) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 3:04 | 2022-01-06 |  |
 | [Pacifiquement](https://open.spotify.com/track/3ODp59g4fuL0KsTvKB1atC) | [Maiken Jokum](https://open.spotify.com/artist/3k6qLcyKmWGoOQfK8Uskvy) | [Pacifiquement](https://open.spotify.com/album/430ttSN75LpAVHMszOujl6) | 3:24 | 2022-04-26 | 2024-11-29 |
 | [Peaceful Escape](https://open.spotify.com/track/2k62YuxP6pG6cLoCfMdbFP) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 2:54 | 2022-03-25 | 2024-03-01 |
@@ -104,6 +106,7 @@
 | [Releasing](https://open.spotify.com/track/2jydV80zHw1umw5QbDnCLf) | [Light Halls](https://open.spotify.com/artist/4u9H7zp0tzvIyaxEM48kAv) | [Sound Bath for Meditation](https://open.spotify.com/album/3BWwC2wAx207aXa4wi3Jr7) | 5:20 | 2022-01-06 |  |
 | [Repose Toi](https://open.spotify.com/track/6TJ1gmfooHOwVXF3yHQyQZ) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Repose Toi](https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp) | 2:58 | 2022-04-26 |  |
 | [Restore the Flow \(Meditation\)](https://open.spotify.com/track/5qS02tokBMbvk4ybXD4jlQ) | [Lauri Poldre](https://open.spotify.com/artist/0ANW2NaM4xL8vlFB8jSPXB) | [Restore the Flow \(Meditation\)](https://open.spotify.com/album/0brFN2XrPZHyU1kBERIwiy) | 6:00 | 2022-01-06 |  |
+| [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 |  |
 | [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 | 2022-05-13 |
 | [Root Chakra \- Singing Bowl Only](https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2022-01-06 | 2024-03-01 |
 | [Selva nocturna](https://open.spotify.com/track/5f1PPtMvE0uXPSOOgFwnzW) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Selva nocturna](https://open.spotify.com/album/4f4vh8OJYWqFjjoqFwyN1z) | 6:10 | 2022-07-14 | 2024-11-29 |

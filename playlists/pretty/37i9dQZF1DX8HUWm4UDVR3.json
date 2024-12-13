@@ -1,35 +1,35 @@
 {
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Vernis Rouge & Zaoui",
-  "num_followers": 39083,
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louane et Ad\u00e8le Castillon",
+  "num_followers": 39092,
   "original_name": "Couleur Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1IwcAAAAAAUDnMWkiY1hTj9ckyfFdjl",
+  "snapshot_id": "Z1tq9wAAAADE07bU4qn4xtjaw+uKCsv7",
   "tracks": [
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
-        "name": "Comme des loups (feat. Zaoui)",
-        "url": "https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC"
+        "name": "Je me demande (feat. Louane)",
+        "url": "https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ"
       },
       "artists": [
         {
-          "name": "Vernis Rouge",
-          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
         },
         {
-          "name": "Zaoui",
-          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Comme des loups (feat. Zaoui)",
-      "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
+      "duration_ms": 195545,
+      "name": "Je me demande (feat. Louane)",
+      "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -53,39 +53,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "L'id\u00e9e de toi",
-        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
-      },
-      "artists": [
-        {
-          "name": "Satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
-        }
-      ],
-      "duration_ms": 122117,
-      "name": "L'id\u00e9e de toi",
-      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "CIN\u00c9MA",
-        "url": "https://open.spotify.com/album/061OG1SIHggUfdf2TBq98A"
-      },
-      "artists": [
-        {
-          "name": "Pierre Gu\u00e9nard",
-          "url": "https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "CIN\u00c9MA",
-      "url": "https://open.spotify.com/track/3v6nKVjIZ3fdFNvBStLfRQ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Mauvais gar\u00e7on",
         "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
@@ -101,75 +69,43 @@
       "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
-        "name": "Je me demande (feat. Louane)",
-        "url": "https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ"
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "Comme des loups (feat. Zaoui)",
+        "url": "https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC"
+      },
+      "artists": [
+        {
+          "name": "Vernis Rouge",
+          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
         },
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
         }
       ],
-      "duration_ms": 195545,
-      "name": "Je me demande (feat. Louane)",
-      "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
+      "duration_ms": 202280,
+      "name": "Comme des loups (feat. Zaoui)",
+      "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "J'assume",
-        "url": "https://open.spotify.com/album/0DcCpwaaGTwPhKZTdiZp7u"
-      },
-      "artists": [
-        {
-          "name": "Elephanz",
-          "url": "https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO"
-        }
-      ],
-      "duration_ms": 173643,
-      "name": "J'assume",
-      "url": "https://open.spotify.com/track/3sEOZuQzFqsXGDY9Oh6AF3"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "H\u00e9ro\u00efne",
-        "url": "https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On"
-      },
-      "artists": [
-        {
-          "name": "Tessa B. ",
-          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "La f\u00eate",
-      "url": "https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "CRASH C\u0152UR+",
-        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "petite musique",
-      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Tout dire",
         "url": "https://open.spotify.com/album/2FG5FGaUuRsXNzriuvwcVE"
@@ -185,23 +121,87 @@
       "url": "https://open.spotify.com/track/6AXBToazqR7JtVtGpA6A85"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
-        "name": "ptn de bpm",
-        "url": "https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq"
+        "name": "CIN\u00c9MA",
+        "url": "https://open.spotify.com/album/061OG1SIHggUfdf2TBq98A"
       },
       "artists": [
         {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+          "name": "Pierre Gu\u00e9nard",
+          "url": "https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX"
         }
       ],
-      "duration_ms": 159173,
-      "name": "ptn de bpm",
-      "url": "https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv"
+      "duration_ms": 175680,
+      "name": "CIN\u00c9MA",
+      "url": "https://open.spotify.com/track/3v6nKVjIZ3fdFNvBStLfRQ"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/0DcCpwaaGTwPhKZTdiZp7u"
+      },
+      "artists": [
+        {
+          "name": "Elephanz",
+          "url": "https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO"
+        }
+      ],
+      "duration_ms": 173643,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/3sEOZuQzFqsXGDY9Oh6AF3"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "H\u00e9ro\u00efne",
+        "url": "https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On"
+      },
+      "artists": [
+        {
+          "name": "Tessa B. ",
+          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "La f\u00eate",
+      "url": "https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "CRASH C\u0152UR+",
+        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "petite musique",
+      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "le fou dans la voiture",
+        "url": "https://open.spotify.com/album/59WkRQu423vEroErMVws4h"
+      },
+      "artists": [
+        {
+          "name": "Terrenoire",
+          "url": "https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "le fou dans la voiture",
+      "url": "https://open.spotify.com/track/3k9cQZ3IX3uUbtaScug3t5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Jalousie",
         "url": "https://open.spotify.com/album/66edblwvSbM907hRkXBXxO"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "ptn de bpm",
+        "url": "https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "ptn de bpm",
+      "url": "https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Les Extraordinaires Histoires d'Amour de St Graal",
         "url": "https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/6yM7BqM060fqEvVN6ukugK"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Cr\u00e8vecoeur (EP.I)",
         "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Les bonbons",
         "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Mille morceaux",
         "url": "https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "H24",
         "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Le collectionneur",
         "url": "https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Bad boy malheureux",
         "url": "https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Hyperactive",
         "url": "https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Nique le champagne",
         "url": "https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Contre-c\u0153ur",
         "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Les histoires tristes me collent au corps",
         "url": "https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Comme au cin\u00e9ma",
         "url": "https://open.spotify.com/album/6mNPjjdJ80ktgX3Ef5kSdO"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/7y56DoO0KggFFXE8WMU0ua"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/3kF6Rpu6DSBzk26TTHG3U2"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/7xIXUDJ1NCJHSytNF2neR9"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Rater une rupture pour les nuls",
         "url": "https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Personne n'\u00e9coute ceux qui pleurent",
         "url": "https://open.spotify.com/album/5iWQvnso6R53XtzKe0LzwP"
@@ -505,55 +521,7 @@
       "url": "https://open.spotify.com/track/68AR1kPPiSjBQgJ5zjc7lS"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Pas de week-end \u00e0 Rome",
-        "url": "https://open.spotify.com/album/3hVIRArhc4PV0hU5nD0J2p"
-      },
-      "artists": [
-        {
-          "name": "And\u00e9ol",
-          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
-        }
-      ],
-      "duration_ms": 210503,
-      "name": "Pas de week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/5aiyAEJ2vvBI7mXw911glG"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "je vais bien.",
-        "url": "https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "je vais bien.",
-      "url": "https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "99 Nights (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 154535,
-      "name": "Un peu trop",
-      "url": "https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Avant la fin de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0"
@@ -569,7 +537,55 @@
       "url": "https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "je vais bien.",
+        "url": "https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "je vais bien.",
+      "url": "https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 154535,
+      "name": "Un peu trop",
+      "url": "https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
+      "album": {
+        "name": "Pas de week-end \u00e0 Rome",
+        "url": "https://open.spotify.com/album/3hVIRArhc4PV0hU5nD0J2p"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "duration_ms": 210503,
+      "name": "Pas de week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/5aiyAEJ2vvBI7mXw911glG"
+    },
+    {
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "TOUT PERDU / MIRAGE NOCTURNE",
         "url": "https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "30 ans",
         "url": "https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "T'es pas sexy",
         "url": "https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Pulsations tendres et violentes",
         "url": "https://open.spotify.com/album/4o9lDSTNgHl7awjtrJ2ocu"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/5R7dHttk73af39FRw0o9Vd"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Rem\u00e8de",
         "url": "https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "adr\u00e9naline",
         "url": "https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Dos \u00e0 dos",
         "url": "https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Tu me plais",
         "url": "https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "La Bonne",
         "url": "https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "CIN\u00c9MA",
         "url": "https://open.spotify.com/album/1haJVnTC4CrfC6WZMtpRjh"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/4BFNzsg8KIL0quoCNU4kFE"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "JSR",
         "url": "https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "L'hiver sur tes l\u00e8vres",
         "url": "https://open.spotify.com/album/1LIMvjkva2o23ZLESOGn04"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/7JO6qzrdKcydC5rPHhbeXH"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Amertume",
         "url": "https://open.spotify.com/album/7q3XF5A9rc8IzGBSb6JUlX"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/5gq6AxT0hDXKkfjsupliAz"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "TANT MIEUX",
         "url": "https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU"
     },
     {
-      "added_at": "2024-12-05 23:00:00",
+      "added_at": "2024-12-12 23:00:07",
       "album": {
         "name": "Haut les coeurs",
         "url": "https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN"
@@ -819,22 +835,6 @@
       "duration_ms": 197560,
       "name": "Toute seule",
       "url": "https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Gratte-ciel",
-        "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
-      },
-      "artists": [
-        {
-          "name": "Shaga",
-          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
-        }
-      ],
-      "duration_ms": 192547,
-      "name": "Gratte-ciel",
-      "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
     }
   ],
   "unique_name": "Couleur Pop",

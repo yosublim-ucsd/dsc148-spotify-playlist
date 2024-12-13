@@ -4,10 +4,11 @@
 
 > Mental illness
 
-54 songs - 2 hr 59 min
+56 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [7 O'Clock](https://open.spotify.com/track/2Eh6bvihTFDwAjHBEYnbgH) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [7 O'Clock](https://open.spotify.com/album/5Trjk7CuYJO5muXqXPB7xl) | 2:48 | 2024-12-12 |  |
 | [Aaa](https://open.spotify.com/track/6ZaHZR8trkaELFMwbH6wbF) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:59 | 2023-07-21 |  |
 | [aftershocks](https://open.spotify.com/track/17RUojqXdeBFDF1TlrNOsg) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Winter](https://open.spotify.com/album/22eqt3R2kQcQ2g3xzl8sDm) | 4:15 | 2023-07-09 |  |
 | [All Up the Seething Coast](https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:45 | 2024-12-08 |  |
@@ -47,6 +48,7 @@
 | [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 | 2024-11-14 |  |
 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 | 2023-12-05 |  |
 | [Skeleton Appreciation Day in Vestal, NY \(Bones\)](https://open.spotify.com/track/0YP2c4aqvZehpngSGScVkn) | [Will Wood and the Tapeworms](https://open.spotify.com/artist/13pwqHspIhcy1IcAooefso) | [Everything Is a Lot](https://open.spotify.com/album/3mXf3xH8ODKxWUOsSe7joK) | 4:04 | 2023-03-31 |  |
+| [Sleep](https://open.spotify.com/track/6NK9g64i0EOGhXCfx27jTE) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:43 | 2024-12-12 |  |
 | [Spite](https://open.spotify.com/track/3bidCIZWpP17uKbpnsuEAs) | [Vandaveer](https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A) | [Dig Down Deep](https://open.spotify.com/album/6jKZVWF3GLgh7nnWg5jpYE) | 2:39 | 2023-04-02 |  |
 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/4xx6gNZiyz0R2E64pzgZ3T) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/5CooX2xg5YibepSfjbRFNT) | 2:13 | 2023-03-21 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2024-09-16 |  |

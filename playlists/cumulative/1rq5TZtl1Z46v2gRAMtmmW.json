@@ -491,6 +491,40 @@
     },
     {
       "album": {
+        "name": "Backwards Remix",
+        "url": "https://open.spotify.com/album/3fYMgfLeNJ1VDi9iKlJa0d"
+      },
+      "artists": [
+        {
+          "name": "H31R",
+          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
+        },
+        {
+          "name": "Goya Gumbani",
+          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
+        },
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        },
+        {
+          "name": "Fatboi Sharif",
+          "url": "https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj"
+        },
+        {
+          "name": "Desde",
+          "url": "https://open.spotify.com/artist/7y51W2VzenSdG12s8AetIN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239232,
+      "name": "Backwards Remix",
+      "url": "https://open.spotify.com/track/31WzhknzUzUGWyHgDI3lFb"
+    },
+    {
+      "album": {
         "name": "Bad Dad",
         "url": "https://open.spotify.com/album/5NzdoZVEY284kNxlR2HblZ"
       },
@@ -900,7 +934,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 208280,
       "name": "Bul Bul Bul",
       "url": "https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE"

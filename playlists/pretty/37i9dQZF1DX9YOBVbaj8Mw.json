@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14772,
+  "num_followers": 14774,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -95,30 +95,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
-        },
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        },
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 195701,
-      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
+      "duration_ms": 194826,
+      "name": "mori",
+      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -155,18 +143,30 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 194826,
-      "name": "mori",
-      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+      "duration_ms": 195701,
+      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "ID.Entity",
         "url": "https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 448639,
       "name": "Friend or Foe?",
       "url": "https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Kryzys",
-        "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
-      },
-      "artists": [
-        {
-          "name": "Ha\u0144ba!",
-          "url": "https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk"
-        }
-      ],
-      "duration_ms": 159205,
-      "name": "Wiersz wigilijny",
-      "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Moje serce w Warszawie",
         "url": "https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 329773,
       "name": "Moje serce w Warszawie",
       "url": "https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Kryzys",
+        "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
+      },
+      "artists": [
+        {
+          "name": "Ha\u0144ba!",
+          "url": "https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk"
+        }
+      ],
+      "duration_ms": 159205,
+      "name": "Wiersz wigilijny",
+      "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "W Ogniu \u015awiat",
-        "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
-      },
-      "artists": [
-        {
-          "name": "\u0141ysa G\u00f3ra",
-          "url": "https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb"
-        }
-      ],
-      "duration_ms": 471480,
-      "name": "W Ogniu \u015awiat",
-      "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
         "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 175680,
       "name": "Most",
       "url": "https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "W Ogniu \u015awiat",
+        "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
+      },
+      "artists": [
+        {
+          "name": "\u0141ysa G\u00f3ra",
+          "url": "https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb"
+        }
+      ],
+      "duration_ms": 471480,
+      "name": "W Ogniu \u015awiat",
+      "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
     },
     {
       "added_at": "2024-03-25 08:52:09",

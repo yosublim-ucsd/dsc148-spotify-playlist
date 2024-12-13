@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Skepta",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Strandz",
   "name": "Who We Be",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 341896,
       "name": "100mph Freestyle x3",
       "url": "https://open.spotify.com/track/3oNREEStm4dUTV5dSIbmIZ"
+    },
+    {
+      "album": {
+        "name": "10:54",
+        "url": "https://open.spotify.com/album/1RrigyX1OH8vxGDKBQ9VaP"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109167,
+      "name": "10:54",
+      "url": "https://open.spotify.com/track/6MwzGwKtxt9OrQOn704hHG"
     },
     {
       "album": {
@@ -368,7 +386,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 180000,
       "name": "25",
       "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 174545,
       "name": "Charlie Sloth",
       "url": "https://open.spotify.com/track/4HKhE9L4dY6Y9LfKRr2ISn"
@@ -4808,7 +4826,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 113571,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
@@ -9917,6 +9935,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Shift",
+        "url": "https://open.spotify.com/album/0q4jJbZpRt0o8DQWsZKNos"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "Graveyard Shift",
+      "url": "https://open.spotify.com/track/5u6ZjXWDINOuvMmBQTKtgy"
+    },
+    {
+      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/7gibSSIiQtHeqSW8hbaBKx"
       },
@@ -10216,6 +10252,28 @@
       "duration_ms": 229339,
       "name": "Hallelujah (feat. Lojay)",
       "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
+    },
+    {
+      "album": {
+        "name": "HANG MY BOOTS",
+        "url": "https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187110,
+      "name": "HANG MY BOOTS (feat. King Promise)",
+      "url": "https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637"
     },
     {
       "album": {
@@ -12870,7 +12928,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
@@ -16046,7 +16104,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -16236,7 +16294,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 144746,
       "name": "Monitoring Me",
       "url": "https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d"
@@ -16753,6 +16811,24 @@
     },
     {
       "album": {
+        "name": "Nala's Song (Krept Solo)",
+        "url": "https://open.spotify.com/album/4ItWooknDKdXkfIcrsO6I4"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253282,
+      "name": "Nala's Song - Krept Solo",
+      "url": "https://open.spotify.com/track/6bL9wuzmtVvzPIdHULLFv2"
+    },
+    {
+      "album": {
         "name": "NASTII",
         "url": "https://open.spotify.com/album/5VHkKFuCJAp7JtTl5OK2VP"
       },
@@ -17060,7 +17136,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 300451,
       "name": "New Snap City (feat. Chip)",
       "url": "https://open.spotify.com/track/5xx5ct5qOIkj6B1BXbilFr"
@@ -18204,7 +18280,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162422,
       "name": "On Me",
       "url": "https://open.spotify.com/track/03mUFhkMeM8j5YlsxBYXUT"
@@ -19699,6 +19775,24 @@
     },
     {
       "album": {
+        "name": "Platonic",
+        "url": "https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu"
+      },
+      "artists": [
+        {
+          "name": "kadiata",
+          "url": "https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Platonic",
+      "url": "https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF"
+    },
+    {
+      "album": {
         "name": "Fresh Prince Of Tottenham 2",
         "url": "https://open.spotify.com/album/5UzIJ3huksR84RAgLsNYwM"
       },
@@ -19848,6 +19942,24 @@
       "duration_ms": 160781,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz"
+    },
+    {
+      "album": {
+        "name": "POUNDS AND DOLLARS",
+        "url": "https://open.spotify.com/album/6J1fw9ZjeEgrMkKhUVY2Kp"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "POUNDS AND DOLLARS",
+      "url": "https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM"
     },
     {
       "album": {
@@ -20422,7 +20534,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -20660,6 +20772,24 @@
       "duration_ms": 192680,
       "name": "R U Tired?",
       "url": "https://open.spotify.com/track/7zjq3jcemzahrxnDXugrTk"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4FbUZTEYGMGup4HwYUyl9P"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4aP39ZfU094VjJf8UEMcnW"
     },
     {
       "album": {
@@ -21665,6 +21795,24 @@
     },
     {
       "album": {
+        "name": "Same Sh*t",
+        "url": "https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148452,
+      "name": "Same Sh*t",
+      "url": "https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy"
+    },
+    {
+      "album": {
         "name": "Legitimate Cause",
         "url": "https://open.spotify.com/album/1LPZpvN2QMnfZugwz5rP3r"
       },
@@ -22492,7 +22640,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
@@ -26227,6 +26375,24 @@
     },
     {
       "album": {
+        "name": "Us vs Them",
+        "url": "https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Us vs Them",
+      "url": "https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Xj3O3MpWoFpakC5qbqUsD"
       },
@@ -26974,6 +27140,28 @@
       "duration_ms": 120000,
       "name": "Welcome to E9",
       "url": "https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ"
+    },
+    {
+      "album": {
+        "name": "Wesh (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/7oZJjss1yfY89KcMnnux6w"
+      },
+      "artists": [
+        {
+          "name": "TeeboFG",
+          "url": "https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139692,
+      "name": "Wesh (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/2dt9ds35KPCpDuihBrEpBj"
     },
     {
       "album": {

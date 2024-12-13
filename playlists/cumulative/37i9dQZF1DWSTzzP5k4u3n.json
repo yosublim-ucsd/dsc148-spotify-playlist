@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Meit\u00e4 maailma katsoo",
+        "url": "https://open.spotify.com/album/1qZyrF0ozwEsXwYls3SZ8g"
+      },
+      "artists": [
+        {
+          "name": "Lenni Paarma",
+          "url": "https://open.spotify.com/artist/58pOIfSljNDWiXz9iogCGj"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176637,
+      "name": "Meit\u00e4 maailma katsoo",
+      "url": "https://open.spotify.com/track/7l43O2Kuo9crXh03K0oUX0"
+    },
+    {
+      "album": {
         "name": "Meri josta el\u00e4n",
         "url": "https://open.spotify.com/album/76hy36Gdel0t47rj3I08EU"
       },
@@ -4144,6 +4162,24 @@
       "duration_ms": 265392,
       "name": "Vapauteen",
       "url": "https://open.spotify.com/track/4OTlbuDEqWBdVWrAEA1Nvr"
+    },
+    {
+      "album": {
+        "name": "Vappu",
+        "url": "https://open.spotify.com/album/0U2AXF2p9XmqvF2igxD9GW"
+      },
+      "artists": [
+        {
+          "name": "Hene J\u00e4\u00e4salo",
+          "url": "https://open.spotify.com/artist/2rwKP6hEIirWnfvIrCTAy4"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Vappu",
+      "url": "https://open.spotify.com/track/4TjajU6sG9hswzd6lcRgpo"
     },
     {
       "album": {

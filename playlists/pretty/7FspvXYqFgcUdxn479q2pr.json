@@ -1,13 +1,33 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Wax Motif",
-  "num_followers": 32542,
+  "num_followers": 32539,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAArqwnMq+W9mhlnecXshyBfvE4ZcnSP",
+  "snapshot_id": "AAArsaB7UsoH3tlzH8t0icQULcbrqjOp",
   "tracks": [
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 155606,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
     {
       "added_at": "2024-12-05 13:26:28",
       "album": {
@@ -41,6 +61,150 @@
       "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
     },
     {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Infinity (Dubdogz Remix)",
+        "url": "https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Infinity (Dubdogz Remix)",
+      "url": "https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Just Dance (With Chacel)",
+        "url": "https://open.spotify.com/album/1RZZnPzor5uMPyqrmV7Seb"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 157317,
+      "name": "Just Dance (With Chacel)",
+      "url": "https://open.spotify.com/track/58404MHSQ1tJ4NJpPZ61Y3"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Give To Me",
+        "url": "https://open.spotify.com/album/66saaaONECfathKY0zXiuE"
+      },
+      "artists": [
+        {
+          "name": "LEFSOUL",
+          "url": "https://open.spotify.com/artist/5ViPbfJBoNJmd8GZPQBc1Z"
+        }
+      ],
+      "duration_ms": 269055,
+      "name": "Give To Me",
+      "url": "https://open.spotify.com/track/1yekHtpDBr4YTSqyWwOOv4"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3U4Z9exHVml37IlSS8hrE0"
+      },
+      "artists": [
+        {
+          "name": "Dinotek",
+          "url": "https://open.spotify.com/artist/6Crh4t2BkATj7VIdDEs62X"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6CbIPjGM6kGdksZjexDtQG"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "For",
+        "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        },
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "For",
+      "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Fantasie (feat. Nicko)",
+        "url": "https://open.spotify.com/album/6WiCWRXxkg9D2HFXGYDsFk"
+      },
+      "artists": [
+        {
+          "name": "Sielo",
+          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+        },
+        {
+          "name": "SAM (KOR)",
+          "url": "https://open.spotify.com/artist/4WYz8W0ewq1Gdv3EtGURBj"
+        },
+        {
+          "name": "Nicko",
+          "url": "https://open.spotify.com/artist/4XyScEwwBFYAVzUqqR3nXI"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "Fantasie (feat. Nicko)",
+      "url": "https://open.spotify.com/track/5riUHk405V2mPAxWjFbpd3"
+    },
+    {
+      "added_at": "2024-12-12 14:18:44",
+      "album": {
+        "name": "Put Me Up (feat. Cristian Barra)",
+        "url": "https://open.spotify.com/album/6EuJi0vY17dQ6jBf8oqrOL"
+      },
+      "artists": [
+        {
+          "name": "JUDICI",
+          "url": "https://open.spotify.com/artist/23fUEUs0jPTjutYWuj6CRA"
+        },
+        {
+          "name": "Tetri",
+          "url": "https://open.spotify.com/artist/6jrv0mqYyZmn6WaBUTto32"
+        },
+        {
+          "name": "Benix",
+          "url": "https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr"
+        },
+        {
+          "name": "Cristian Barra",
+          "url": "https://open.spotify.com/artist/36r56ALFNIUVH4C3HWjytS"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Put Me Up (feat. Cristian Barra)",
+      "url": "https://open.spotify.com/track/4aUK8l46cLpwWSYKSwCFSv"
+    },
+    {
       "added_at": "2024-12-05 13:26:28",
       "album": {
         "name": "Interstellar",
@@ -55,6 +219,22 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2024-12-05 13:38:13",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2024-12-05 13:26:28",
@@ -227,62 +407,6 @@
       "duration_ms": 147401,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN"
-    },
-    {
-      "added_at": "2024-12-05 13:26:28",
-      "album": {
-        "name": "Master P",
-        "url": "https://open.spotify.com/album/3Gm31BJJXCVMiUG70ebDwp"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Master P",
-      "url": "https://open.spotify.com/track/20xMYx228flEmECumwOB3f"
-    },
-    {
-      "added_at": "2024-12-05 13:26:28",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "MSPUIYI",
-          "url": "https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul"
-        },
-        {
-          "name": "Kevu",
-          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
-        }
-      ],
-      "duration_ms": 115324,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf"
-    },
-    {
-      "added_at": "2024-12-05 13:38:13",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     }
   ],
   "unique_name": "New Dance Music Friday",

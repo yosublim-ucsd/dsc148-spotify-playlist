@@ -5799,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen x Bamby",
+  "description": "Les hits dancehall du moment. Photo : Maureen ",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192000,
       "name": "Bay Li",
       "url": "https://open.spotify.com/track/0kiZ2yPXAuR9VXQQBdRd6m"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175065,
       "name": "Dembow Martinica",
       "url": "https://open.spotify.com/track/54AVydEuJjKSsE0VPUmQWq"
@@ -3384,6 +3384,24 @@
       "duration_ms": 154993,
       "name": "F\u00e8 to choix",
       "url": "https://open.spotify.com/track/4uTUPgwlmnXJ25m5aJjMLh"
+    },
+    {
+      "album": {
+        "name": "F\u00f4wf\u00e8",
+        "url": "https://open.spotify.com/album/0CGwFVLvdWoAnX2iLd6KwL"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164558,
+      "name": "F\u00f4wf\u00e8",
+      "url": "https://open.spotify.com/track/1f7l8jgNRV8wBxJNuR8OYc"
     },
     {
       "album": {
@@ -4971,6 +4989,28 @@
     },
     {
       "album": {
+        "name": "La Boue",
+        "url": "https://open.spotify.com/album/5ZDl4s02rWdKkzoWIm6QbC"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "LESTEF KJF BOYZ",
+          "url": "https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "La Boue",
+      "url": "https://open.spotify.com/track/30UAp6vwkZsKsDSYUZdYXf"
+    },
+    {
+      "album": {
         "name": "Pile ou face",
         "url": "https://open.spotify.com/album/30uK7YfItZMEmgs9rLUQYf"
       },
@@ -5136,6 +5176,24 @@
       "duration_ms": 167600,
       "name": "Laptop",
       "url": "https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ"
+    },
+    {
+      "album": {
+        "name": "Lass Pal\u00e9",
+        "url": "https://open.spotify.com/album/5sjXX8wgkcrxb0Lx1kXw1b"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124266,
+      "name": "Lass Pal\u00e9",
+      "url": "https://open.spotify.com/track/0nUZ0FDUJ7nxhXben9a9pR"
     },
     {
       "album": {
@@ -5748,7 +5806,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 150071,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
@@ -6472,6 +6530,28 @@
       "duration_ms": 123539,
       "name": "None a Dem",
       "url": "https://open.spotify.com/track/5Nm1vuwlq9VTaEOM7q3sCg"
+    },
+    {
+      "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3kUyrlwcTQFIAw3ytzk3YD"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99797,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/17owRt4iXNGOwqGTdoZXLN"
     },
     {
       "album": {
@@ -7516,7 +7596,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136462,
       "name": "Qualit\u00e9",
       "url": "https://open.spotify.com/track/7r8dcIJooLJbDtr38makB2"
@@ -8839,6 +8919,28 @@
     },
     {
       "album": {
+        "name": "CHORD",
+        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158894,
+      "name": "Tcheck Pou Tcheck",
+      "url": "https://open.spotify.com/track/7tDNoWXXVQo5vs5cJFtVSr"
+    },
+    {
+      "album": {
         "name": "Tek Jam",
         "url": "https://open.spotify.com/album/4Zk6hph7AuXjcf189rcWXx"
       },
@@ -8932,7 +9034,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 129795,
       "name": "TELL THEM",
       "url": "https://open.spotify.com/track/3agLmniykQtjB9LNet7dTc"

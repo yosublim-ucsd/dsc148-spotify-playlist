@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Esm\u00e9e",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Julien Lieb",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       },
       "artists": [
         {
-          "name": "Titouan",
+          "name": "Titouan Hervo",
           "url": "https://open.spotify.com/artist/0AeksgbnADq50qtuuXsQik"
         }
       ],
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167273,
       "name": "Comment on s'aime",
       "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
@@ -522,6 +522,24 @@
       "duration_ms": 174586,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv"
+    },
+    {
+      "album": {
+        "name": "Demi-mot",
+        "url": "https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188034,
+      "name": "Demi-mot",
+      "url": "https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp"
     },
     {
       "album": {
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183626,
       "name": "Last in Line - 2024 Edit",
       "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
@@ -1360,10 +1378,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 168693,
       "name": "Le choix",
       "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+    },
+    {
+      "album": {
+        "name": "Le c\u0153ur qui bat",
+        "url": "https://open.spotify.com/album/0L70I8WtiuypVhElYgOxSf"
+      },
+      "artists": [
+        {
+          "name": "Margot Abate",
+          "url": "https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187330,
+      "name": "Le c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/6xsNibDlnk1HLFTMHPnPNn"
     },
     {
       "album": {
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 201761,
       "name": "Le jeu",
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
@@ -2004,10 +2040,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169018,
       "name": "Plus rien",
       "url": "https://open.spotify.com/track/65bsljUmUwY2n7PPFDXp7N"
+    },
+    {
+      "album": {
+        "name": "Pour de bon",
+        "url": "https://open.spotify.com/album/15u1xo6nKkDazmuaiR9k1I"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Des Longchamps",
+          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Pour de bon",
+      "url": "https://open.spotify.com/track/2kmIpQXsWwIpvZJ8qr7pGJ"
     },
     {
       "album": {
@@ -2116,6 +2170,24 @@
       "duration_ms": 187000,
       "name": "Recommence-moi (Version hymne de la promo 2024)",
       "url": "https://open.spotify.com/track/2pmouGx109C0GKJ8hb39B4"
+    },
+    {
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/7sdaJif7blg8yw12wtnKd6"
+      },
+      "artists": [
+        {
+          "name": "Petit K",
+          "url": "https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212021,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0I8x14WQm5qZIuePdd4JRX"
     },
     {
       "album": {
@@ -2242,7 +2314,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
@@ -2372,7 +2444,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 191655,
       "name": "T'en aller",
       "url": "https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY"
@@ -2502,6 +2574,24 @@
       "duration_ms": 151973,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
+    },
+    {
+      "album": {
+        "name": "Tourner sous la pluie",
+        "url": "https://open.spotify.com/album/73ZdGxzyocIdXVst4anPgQ"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158331,
+      "name": "Tourner sous la pluie",
+      "url": "https://open.spotify.com/track/4TxDNMIF4z0kZigtnWnLUC"
     },
     {
       "album": {

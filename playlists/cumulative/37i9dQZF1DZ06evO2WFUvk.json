@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "SPACE BLANK - TECH HOUSE",
+        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        },
+        {
+          "name": "Mad Math",
+          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Crazy Heat - Original Mix",
+      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
+    },
+    {
+      "album": {
         "name": "Aventuras En El Defe",
         "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
       },

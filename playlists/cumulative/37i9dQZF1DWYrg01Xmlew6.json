@@ -307,6 +307,28 @@
     },
     {
       "album": {
+        "name": "Affiliati (feat. Rasty Kilo)",
+        "url": "https://open.spotify.com/album/4JzxvHWYOflxXvZ5BMxKIr"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137419,
+      "name": "Affiliati (feat. Rasty Kilo)",
+      "url": "https://open.spotify.com/track/4icmvVTnDoMY1Vq4UrDci5"
+    },
+    {
+      "album": {
         "name": "Aggio Perzo 'o Suonno (feat. Coez, prod. TY1)",
         "url": "https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY"
       },
@@ -896,6 +918,28 @@
       "duration_ms": 144631,
       "name": "CAGN MARCIA",
       "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
+    },
+    {
+      "album": {
+        "name": "Calma Fragile",
+        "url": "https://open.spotify.com/album/65ZEY38PN0B5D662b9D7aG"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198952,
+      "name": "Calma Fragile",
+      "url": "https://open.spotify.com/track/5Brck6pOzlfyQf3CN64uuT"
     },
     {
       "album": {
@@ -2358,7 +2402,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 111115,
       "name": "FULL FULL",
       "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
@@ -2728,6 +2772,24 @@
       "duration_ms": 128315,
       "name": "Hablan De Mi - Italian Remix",
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
+    },
+    {
+      "album": {
+        "name": "HASTA LA MUERTE",
+        "url": "https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "HASTA LA MUERTE",
+      "url": "https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk"
     },
     {
       "album": {
@@ -4838,7 +4900,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177233,
       "name": "Non Siamo Uguali (feat. CoCo)",
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
@@ -8266,7 +8328,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 112026,
       "name": "Vendetta Freestyle",
       "url": "https://open.spotify.com/track/7LfcI5izfeDK5wFSSpbgtz"

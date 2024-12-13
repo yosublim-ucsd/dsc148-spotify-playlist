@@ -1,6 +1,6 @@
 {
   "description": "Highlighting the best of EQUAL GSA 2024. Cover: Esther Graf",
-  "num_followers": 36148,
+  "num_followers": 36289,
   "original_name": "Best of EQUAL GSA 2024",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Liebesbriefe",
-        "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
-      },
-      "artists": [
-        {
-          "name": "fyne",
-          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Liebesbriefe",
-      "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Bigroom Sensual",
         "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 294866,
       "name": "Siente (el Ritmo)",
       "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Liebesbriefe",
+        "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Liebesbriefe",
+      "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "I Forget (I\u2019m So Young)",
-        "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 259475,
-      "name": "I Forget (I\u2019m So Young)",
-      "url": "https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 157647,
       "name": "Candy Crush",
       "url": "https://open.spotify.com/track/30J3diVI4ybFgrOI2sXyst"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "I Forget (I\u2019m So Young)",
+        "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 259475,
+      "name": "I Forget (I\u2019m So Young)",
+      "url": "https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "It Happens Either Way",
-        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 212522,
-      "name": "It Happens Either Way",
-      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "It Happens Either Way",
+        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 212522,
+      "name": "It Happens Either Way",
+      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "FC Chaya",
-        "url": "https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L"
+        "name": "Heron II",
+        "url": "https://open.spotify.com/album/1A2gkTi9kGet1na5o3IWTZ"
       },
       "artists": [
         {
-          "name": "Ebow",
-          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Lesbisch",
-      "url": "https://open.spotify.com/track/0D06S3nyednNqqrh2eclGB"
+      "duration_ms": 230653,
+      "name": "run away girl",
+      "url": "https://open.spotify.com/track/40u9iNseTtvSRyex9Ahifo"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -539,18 +539,34 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Heron II",
-        "url": "https://open.spotify.com/album/1A2gkTi9kGet1na5o3IWTZ"
+        "name": "FC Chaya",
+        "url": "https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
         }
       ],
-      "duration_ms": 230653,
-      "name": "run away girl",
-      "url": "https://open.spotify.com/track/40u9iNseTtvSRyex9Ahifo"
+      "duration_ms": 203333,
+      "name": "Lesbisch",
+      "url": "https://open.spotify.com/track/0D06S3nyednNqqrh2eclGB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Frag f\u00fcr ne Freundin",
+        "url": "https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 150819,
+      "name": "Frag f\u00fcr ne Freundin",
+      "url": "https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -583,22 +599,6 @@
       "duration_ms": 158280,
       "name": "6 Foot",
       "url": "https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Frag f\u00fcr ne Freundin",
-        "url": "https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh"
-      },
-      "artists": [
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 150819,
-      "name": "Frag f\u00fcr ne Freundin",
-      "url": "https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG"
+        "name": "Schlaf Dich Hoch",
+        "url": "https://open.spotify.com/album/284GShxfTNaLbX2omcs5L9"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
         }
       ],
-      "duration_ms": 159562,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1"
+      "duration_ms": 120869,
+      "name": "Schlaf Dich Hoch",
+      "url": "https://open.spotify.com/track/3YvzJlNZfaTU0F4lVDmfkT"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Schlaf Dich Hoch",
-        "url": "https://open.spotify.com/album/284GShxfTNaLbX2omcs5L9"
-      },
-      "artists": [
-        {
-          "name": "futurebae",
-          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
-        }
-      ],
-      "duration_ms": 120869,
-      "name": "Schlaf Dich Hoch",
-      "url": "https://open.spotify.com/track/3YvzJlNZfaTU0F4lVDmfkT"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "nie vorbei",
         "url": "https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 156798,
       "name": "nie vorbei",
       "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Rebel Heart",
-        "url": "https://open.spotify.com/album/59u6purXetU1GYY2IUV0B6"
+        "name": "extras",
+        "url": "https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK"
       },
       "artists": [
         {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
         }
       ],
-      "duration_ms": 350083,
-      "name": "Rebel Heart",
-      "url": "https://open.spotify.com/track/6IaKW0IDdGtaUNf3NfgObi"
+      "duration_ms": 179384,
+      "name": "ANGST>LIEBE",
+      "url": "https://open.spotify.com/track/6vhjpd045qgJWTwAXINxit"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "extras",
-        "url": "https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK"
+        "name": "Rebel Heart",
+        "url": "https://open.spotify.com/album/59u6purXetU1GYY2IUV0B6"
       },
       "artists": [
         {
-          "name": "Ellice",
-          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
         }
       ],
-      "duration_ms": 179384,
-      "name": "ANGST>LIEBE",
-      "url": "https://open.spotify.com/track/6vhjpd045qgJWTwAXINxit"
+      "duration_ms": 350083,
+      "name": "Rebel Heart",
+      "url": "https://open.spotify.com/track/6IaKW0IDdGtaUNf3NfgObi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "say yes",
-        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 114603,
-      "name": "say yes",
-      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Wasting My Nights",
         "url": "https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 179960,
       "name": "STEPHEN KING",
       "url": "https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "say yes",
+        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 114603,
+      "name": "say yes",
+      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 426867,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "entschuldigung",
         "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 151108,
       "name": "entschuldigung",
       "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 426867,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Pt. 4: The Witch",
-        "url": "https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF"
-      },
-      "artists": [
-        {
-          "name": "Y'akoto",
-          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
-        }
-      ],
-      "duration_ms": 173603,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/76abq9vlklPrWx9ywFWlQw"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 111946,
       "name": "Club",
       "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Pt. 4: The Witch",
+        "url": "https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "duration_ms": 173603,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/76abq9vlklPrWx9ywFWlQw"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Just Us Going",
-        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Just Us Going",
-      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Eine Frau ein Wort",
         "url": "https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 147143,
       "name": "Wuz poppin",
       "url": "https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Just Us Going",
+        "url": "https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Just Us Going",
+      "url": "https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym"
     },
     {
       "added_at": "2024-12-04 12:15:00",

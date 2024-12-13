@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16290,
+  "num_followers": 16295,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-12-06 17:28:15",
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/0T0ypGd1eq9npIDWMMTt7J"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "added_at": "2024-12-06 17:28:15",
+      "album": {
         "name": "NADA QUE TEMER",
         "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 166829,
       "name": "NADA QUE TEMER",
       "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
-    },
-    {
-      "added_at": "2024-12-06 17:28:15",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia",
-          "url": "https://open.spotify.com/artist/0T0ypGd1eq9npIDWMMTt7J"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
     },
     {
       "added_at": "2024-12-06 17:28:15",

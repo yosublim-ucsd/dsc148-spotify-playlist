@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160876,
+  "num_followers": 160884,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
         "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 169655,
       "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
       "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        },
+        {
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 240344,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -851,30 +875,6 @@
       "duration_ms": 189176,
       "name": "Jungle Diva",
       "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
-      },
-      "artists": [
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        },
-        {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 240344,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "You Want Me (VIP)",
+        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "You Want Me - VIP",
+      "url": "https://open.spotify.com/track/0y2jMpPZQgoqnlmxhYuebT"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "You Want Me (VIP)",
-        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "You Want Me - VIP",
-      "url": "https://open.spotify.com/track/0y2jMpPZQgoqnlmxhYuebT"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "A Little More (Friendly Foe Remix)",
-        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
-      },
-      "artists": [
-        {
-          "name": "JUSTDEE",
-          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
-        },
-        {
-          "name": "Friendly Foe",
-          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
-        }
-      ],
-      "duration_ms": 188275,
-      "name": "A Little More - Friendly Foe Remix",
-      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/3nz5qqVIVZvOSdyfyTire1"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "A Little More (Friendly Foe Remix)",
+        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
+      },
+      "artists": [
+        {
+          "name": "JUSTDEE",
+          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
+        },
+        {
+          "name": "Friendly Foe",
+          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
+        }
+      ],
+      "duration_ms": 188275,
+      "name": "A Little More - Friendly Foe Remix",
+      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Wasted Youth (feat. Cat Burns) [[IVY] Remix]",
         "url": "https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE"
       },
@@ -1527,6 +1507,46 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Police",
+        "url": "https://open.spotify.com/album/7HJFSknucNLw743BrBWtqr"
+      },
+      "artists": [
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "duration_ms": 207257,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/3FrQeLwZ7A7AvzPGbk4v7E"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 227555,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Killamanjaro",
-        "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Killamanjaro",
-      "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
     }
   ],
   "unique_name": "Proper Naughty ",

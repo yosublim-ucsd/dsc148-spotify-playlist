@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: jasmine.4.t",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Dayo Bello",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 182386,
       "name": "Anyone But Me",
       "url": "https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7"
+    },
+    {
+      "album": {
+        "name": "eureka!",
+        "url": "https://open.spotify.com/album/7lVjaEWLbbuTuF9Mwsroe0"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "apricot danish",
+      "url": "https://open.spotify.com/track/1eoafnb9SUWhsVrV9wZU6Q"
     },
     {
       "album": {

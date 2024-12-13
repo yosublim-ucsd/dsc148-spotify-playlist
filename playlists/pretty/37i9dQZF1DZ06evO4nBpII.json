@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1080280,
+  "num_followers": 1080412,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1eEgAAAAABiKmqFnum/h+yguRDwW2nW",
+  "snapshot_id": "Z1jWAAAAAABgvdsnXOeKH2nVzhtjpMqF",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 135293,
-      "name": "Geek Stink Breath",
-      "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 151173,
-      "name": "Walking Contradiction",
-      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
+      "duration_ms": 135293,
+      "name": "Geek Stink Breath",
+      "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
     }
   ],
   "unique_name": "This Is Green Day",

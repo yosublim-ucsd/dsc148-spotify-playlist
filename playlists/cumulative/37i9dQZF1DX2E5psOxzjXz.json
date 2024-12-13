@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Taha G",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153234,
       "name": "Alag Sa Andaaz",
       "url": "https://open.spotify.com/track/5X9k9lKxDcqFZ3mrxrPjlI"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 127058,
       "name": "Gulaab",
       "url": "https://open.spotify.com/track/5MLckXKxjkRHdVsg0pIet1"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166530,
       "name": "Kat\u00e9 Na",
       "url": "https://open.spotify.com/track/1qtTCasqKlVKVG1DkMEEcg"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 186985,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 155789,
       "name": "Khushnaseebi",
       "url": "https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5"
@@ -3399,6 +3399,32 @@
     },
     {
       "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Maand",
+      "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
+    },
+    {
+      "album": {
         "name": "MAHI // AVAY",
         "url": "https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0"
       },
@@ -3432,6 +3458,24 @@
       "duration_ms": 173217,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL"
+    },
+    {
+      "album": {
+        "name": "Mahiya Ve",
+        "url": "https://open.spotify.com/album/2eiFZKw3zwlR8sldBlClZo"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204392,
+      "name": "Mahiya Ve",
+      "url": "https://open.spotify.com/track/5AS71BCAZHEcPN7NN4X5KR"
     },
     {
       "album": {
@@ -4503,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Rangreza",
+        "url": "https://open.spotify.com/album/3o8cx006sJPagfwo9cgaum"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Rangreza",
+      "url": "https://open.spotify.com/track/2NICbQnXcC0jmeZeP1x1SL"
+    },
+    {
+      "album": {
         "name": "Rasheed Beopari",
         "url": "https://open.spotify.com/album/6LwRhn1sOchzGGkcrxOpKb"
       },
@@ -4996,7 +5058,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 186407,
       "name": "Scam",
       "url": "https://open.spotify.com/track/3uMilcK226NiUFi88XQsOd"
@@ -5680,7 +5742,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 228000,
       "name": "Tamasha",
       "url": "https://open.spotify.com/track/4nX0hE5O7O5ssZ0RBnBRUf"
@@ -5840,7 +5902,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 298905,
       "name": "Teri Tasveer",
       "url": "https://open.spotify.com/track/4iBIFGEGJ0I5ezZZ6VXYp7"
@@ -6216,7 +6278,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 144001,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD"

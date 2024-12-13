@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. BUBZ",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. carolesdaughter",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162064,
       "name": "ALLIGATOR",
       "url": "https://open.spotify.com/track/65UWHk2wQf6hjZeeNOwqsP"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175306,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/13sYq1DRwEvWqfimRKRUAC"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178765,
       "name": "Come On Outside",
       "url": "https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162222,
       "name": "DARK 2.0 (feat. TWISTED)",
       "url": "https://open.spotify.com/track/3HV6iBGoFsUbVwJzdMJ8ZU"
@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 252743,
       "name": "DENY",
       "url": "https://open.spotify.com/track/1Czzn6hCraLAIkxOqvGlXI"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192676,
       "name": "DESERT RAP",
       "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
@@ -4672,6 +4672,24 @@
       "duration_ms": 130322,
       "name": "DIRTBAG",
       "url": "https://open.spotify.com/track/50E0Pl2yc4rycFqTH1cGRD"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159155,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
     },
     {
       "album": {
@@ -5824,7 +5842,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 198288,
       "name": "FATAL",
       "url": "https://open.spotify.com/track/1n9aWX9W7kbM9czknPMjlE"
@@ -8391,6 +8409,24 @@
     },
     {
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
+    },
+    {
+      "album": {
         "name": "HURRICANE",
         "url": "https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT"
       },
@@ -8402,7 +8438,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 159969,
       "name": "HURRICANE",
       "url": "https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI"
@@ -9136,6 +9172,28 @@
       "duration_ms": 157466,
       "name": "IDC",
       "url": "https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t"
+    },
+    {
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/0ZKbOWW2Z0WF3lF7xB3Sbk"
+      },
+      "artists": [
+        {
+          "name": "DeadWax",
+          "url": "https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP"
+        },
+        {
+          "name": "Benji Wild",
+          "url": "https://open.spotify.com/artist/1M61nTzND2oNO6HdPr4uYl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241112,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/5LVQIUFYOCQo6xm4jEggIf"
     },
     {
       "album": {
@@ -10210,6 +10268,24 @@
       "duration_ms": 123145,
       "name": "KILLIN",
       "url": "https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl"
+    },
+    {
+      "album": {
+        "name": "King Baby",
+        "url": "https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192287,
+      "name": "King Baby",
+      "url": "https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu"
     },
     {
       "album": {
@@ -12386,7 +12462,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 154065,
       "name": "My Drummer's Girlfriend (feat. Wheatus)",
       "url": "https://open.spotify.com/track/4jX0GaZfGE9H8QmMBT5XhR"
@@ -12624,7 +12700,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
@@ -13868,7 +13944,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 194925,
       "name": "POISONOUS",
       "url": "https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0"
@@ -14240,7 +14316,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 232519,
       "name": "PURSUE",
       "url": "https://open.spotify.com/track/58Q3MgtSnrsdUanPYH37Iu"
@@ -15286,7 +15362,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 65519,
       "name": "Sex Metal",
       "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
@@ -16084,7 +16160,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 289773,
       "name": "Spoils Of War",
       "url": "https://open.spotify.com/track/7lPYsLXUUZMhWACOLi9U86"
@@ -16882,7 +16958,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 197849,
       "name": "the cost of giving up",
       "url": "https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme"

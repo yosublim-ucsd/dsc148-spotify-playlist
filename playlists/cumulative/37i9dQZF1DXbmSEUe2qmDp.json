@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Amor Daqueles (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qNLibF76DlJMcrRTNPwz8"
+      },
+      "artists": [
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173561,
+      "name": "Amor Daqueles - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CYhQlbkRo8hemyBRJ561P"
+    },
+    {
+      "album": {
         "name": "Amor do Meu Cachorro",
         "url": "https://open.spotify.com/album/3Udr83epOI6oWtxcALxFE9"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 164074,
       "name": "Aquela Boca",
       "url": "https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh"
@@ -294,6 +312,28 @@
       "duration_ms": 156437,
       "name": "Balde de Choro - Ao Vivo",
       "url": "https://open.spotify.com/track/1tli2rmcy8woZTohS6rNG3"
+    },
+    {
+      "album": {
+        "name": "Beijando 30",
+        "url": "https://open.spotify.com/album/6J65W8ynMIM2aGG8jRZHCJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Manenti",
+          "url": "https://open.spotify.com/artist/0EV5yE2WYUfACE0xDRHADZ"
+        },
+        {
+          "name": "Allana Macedo",
+          "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150792,
+      "name": "Beijando 30",
+      "url": "https://open.spotify.com/track/3FWI4L8sU6lIPonfnvPCLz"
     },
     {
       "album": {
@@ -920,7 +960,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178235,
       "name": "Deixa Eu Sofrer De Boa",
       "url": "https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU"
@@ -1048,6 +1088,24 @@
       "duration_ms": 166888,
       "name": "Dor Passageira - Ao Vivo",
       "url": "https://open.spotify.com/track/7rkfEGSA19aPkmeVBVi091"
+    },
+    {
+      "album": {
+        "name": "Duvido",
+        "url": "https://open.spotify.com/album/6V9L47asdZ7y0BaYeixIPp"
+      },
+      "artists": [
+        {
+          "name": "Augusto e Rafael",
+          "url": "https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140844,
+      "name": "Duvido",
+      "url": "https://open.spotify.com/track/3FJtad4gAhjoGqd1SlWZwU"
     },
     {
       "album": {
@@ -1514,7 +1572,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 145397,
       "name": "Gemidinho de Transa",
       "url": "https://open.spotify.com/track/6KUU7ruDJ1KDBSfoHa6xX2"
@@ -1678,6 +1736,42 @@
       "duration_ms": 171707,
       "name": "Haja Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/3nlnQoON0vqQki5nB4kHTM"
+    },
+    {
+      "album": {
+        "name": "Hoje \u00e0s 10",
+        "url": "https://open.spotify.com/album/5rqIbKV9muOMiMZGKCNv8J"
+      },
+      "artists": [
+        {
+          "name": "Paula Guilherme",
+          "url": "https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215064,
+      "name": "Hoje \u00e0s 10",
+      "url": "https://open.spotify.com/track/5Bee1YksnGTK0U1hieypcD"
+    },
+    {
+      "album": {
+        "name": "Idioma (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75sndnPnSplj1YevOLPfSG"
+      },
+      "artists": [
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178191,
+      "name": "Idioma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5s6A9Gjaonvr56qaeOcaLD"
     },
     {
       "album": {
@@ -3000,7 +3094,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 186694,
       "name": "Saudade Em Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/4EVOE4wwk4Rhxn0IPUmvzF"
@@ -3168,7 +3262,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 164011,
       "name": "Sete Vidas - Ao Vivo",
       "url": "https://open.spotify.com/track/37Wyl0UhTWcRwbf4RKHZMb"
@@ -3748,7 +3842,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 180520,
       "name": "Vestidinho",
       "url": "https://open.spotify.com/track/1wzG9CS0wqQyk5mcQa5sfk"
@@ -3770,6 +3864,24 @@
       "duration_ms": 140058,
       "name": "Vida Bagun\u00e7ada",
       "url": "https://open.spotify.com/track/29RWcQ5sabWjNimHtf7gY7"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Sabe Amar / Saudade / Volta Pro Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/57UYjIKPp9mkJyzrwj154J"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo e Matheus",
+          "url": "https://open.spotify.com/artist/7rbuF7c1Jti9JcSJEtoXv0"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224088,
+      "name": "Voc\u00ea N\u00e3o Sabe Amar / Saudade / Volta Pro Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7wSqL8mSL232ryC2ZOkArf"
     },
     {
       "album": {

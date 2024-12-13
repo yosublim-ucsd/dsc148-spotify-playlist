@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,749 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,950 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 | 79 | [I Wonder as I Wander \(arr\. S\. Pilkington for voice and choir\)](https://open.spotify.com/track/5l8F71WY0kXRwBvx8J9ysa) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Steve Pilkington](https://open.spotify.com/artist/7ho80ABePjM5kMLrfRsBHE), [Megan Gallagher](https://open.spotify.com/artist/0GDI71xrtmsjvGgTxsipCq), [Westminster Williamson Voices](https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr), [James Jordan](https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26) | [Whitbourn: Carolae – Music for Christmas](https://open.spotify.com/album/5FQaP3lkpARGMlSZ3oRuPD) | 3:58 |
 | 80 | [In the Bleak Midwinter \- Arr\. for vocal ensemble by Francis Bevan](https://open.spotify.com/track/65AM0aOUyUfoSylXqmFJPw) | [Harold Darke](https://open.spotify.com/artist/0w5R8w5n1DiEnqt6C36ugm), [The Bevan Family Consort](https://open.spotify.com/artist/2QpjUvG1PCJpZxj8vxVtcP), [Graham Ross](https://open.spotify.com/artist/5ALngZTunHWltWc3XsQZFZ) | [Christmas with The Bevan Family Consort](https://open.spotify.com/album/77qAaXBKD42r1iMOZStFhQ) | 4:39 |
 
-Snapshot ID: `Z0cbpgAAAACV0G4QOH4wV+Fv30LnKHqy`
+Snapshot ID: `Z1taewAAAABpvZMojofTOHFGJ6tRWXwq`

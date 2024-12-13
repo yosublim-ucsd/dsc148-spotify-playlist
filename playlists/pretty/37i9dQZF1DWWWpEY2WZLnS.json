@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 571916,
+  "num_followers": 572245,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz/RUwAAAAD9XXOttqYnGCBZ3XtzBhog",
+  "snapshot_id": "Z1t6ZQAAAABgzIRMangumQUUqWDGf5Pg",
   "tracks": [
     {
       "added_at": "2024-11-14 20:36:26",
@@ -151,6 +151,26 @@
       "duration_ms": 131272,
       "name": "Te la Parto - Remix",
       "url": "https://open.spotify.com/track/1SwgbVS16zRVJTsMW3RHUR"
+    },
+    {
+      "added_at": "2024-12-13 00:05:57",
+      "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -327,30 +347,6 @@
       "duration_ms": 105441,
       "name": "Ni un Ki Ki",
       "url": "https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9"
-    },
-    {
-      "added_at": "2024-11-21 16:18:19",
-      "album": {
-        "name": "Bombon",
-        "url": "https://open.spotify.com/album/6ozhw89PnfdkAI1dIMkemr"
-      },
-      "artists": [
-        {
-          "name": "Karina y Marina",
-          "url": "https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe"
-        },
-        {
-          "name": "Hugo23",
-          "url": "https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ"
-        },
-        {
-          "name": "Sennior",
-          "url": "https://open.spotify.com/artist/7CJhPRV8canYfr5Ua9EqbQ"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Bombon",
-      "url": "https://open.spotify.com/track/5mevdrlo64Lm6RGRa5VCFq"
     },
     {
       "added_at": "2024-08-23 04:00:00",

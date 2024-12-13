@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,872 likes - 262 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,954 likes - 262 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 119 | [Blue](https://open.spotify.com/track/0q0hJXoCLJqZeTbvO6vWfd) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Blue](https://open.spotify.com/album/5oWdaRTvtReOreIboeHFDq) | 3:14 |
 | 120 | [FADE](https://open.spotify.com/track/0r0MdpaQW7iLmD0OojRK8p) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [xotic](https://open.spotify.com/album/2Qt7L9YosoZEQjgmb1Mmrv) | 3:00 |
 | 121 | [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 |
-| 122 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Safa](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 |
+| 122 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [SAFA](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 |
 | 123 | [Why Do I](https://open.spotify.com/track/4IQTGlu5rKpy0HPonMivCH) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Why Do I](https://open.spotify.com/album/6GZ4WY1Xs5iW9ZQ4ZOtwUB) | 2:10 |
 | 124 | [EVEN WHEN YOU’RE silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
 | 125 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 |

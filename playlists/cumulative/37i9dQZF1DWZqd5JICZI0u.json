@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 157714,
       "name": "Four Months",
       "url": "https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY"
@@ -4863,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/2L6fcQCRot1pmHlgf4wcMM"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/2qxi0JJm5FDeorTHSBjCQ8"
+    },
+    {
+      "album": {
         "name": "Light As A Feather",
         "url": "https://open.spotify.com/album/1jkFINHdYVrEeIQEWEQrk3"
       },
@@ -5054,7 +5072,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 252918,
       "name": "Lowering Mind",
       "url": "https://open.spotify.com/track/5tfnG31hpSaIGTFLVUdlEx"
@@ -5166,6 +5184,24 @@
       "duration_ms": 194333,
       "name": "Luna Tone",
       "url": "https://open.spotify.com/track/2BwpDyUVC4oRDZ4U1zZGj7"
+    },
+    {
+      "album": {
+        "name": "Lunar Pines",
+        "url": "https://open.spotify.com/album/6wDIzJ86vYWgmZc6njDkRI"
+      },
+      "artists": [
+        {
+          "name": "R Skye",
+          "url": "https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lunar Pines",
+      "url": "https://open.spotify.com/track/3x3vfNdjCA7LIM1S3pnbx5"
     },
     {
       "album": {
@@ -5630,7 +5666,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177124,
       "name": "Mirno",
       "url": "https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD"
@@ -6296,7 +6332,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 129836,
       "name": "Northern Sirenes",
       "url": "https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011"
@@ -9814,7 +9850,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153600,
       "name": "Uspavan",
       "url": "https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO"

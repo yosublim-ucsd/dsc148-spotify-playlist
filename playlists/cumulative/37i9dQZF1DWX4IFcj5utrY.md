@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"> Nitefreak </a>
 
-1,132 songs - 4 day 5 hr 28 min
+1,133 songs - 4 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,6 +973,7 @@
 | [The Right Place \- Themba's Modern Africa Re\-imagination](https://open.spotify.com/track/05EbEf9oadmBRUYV2gWW6z) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [MIRRORS \(REMIXED\)](https://open.spotify.com/album/4bbJOBvkzLVgTN51zpWDt4) | 8:11 | 2022-04-14 | 2022-06-10 |
 | [The Sauce](https://open.spotify.com/track/4fjSHfrney9J0DTxlovIUm) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt) | [The Sauce](https://open.spotify.com/album/3V9HD6vwzcjziqSozwZK14) | 3:26 | 2022-06-02 | 2022-06-24 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2023-01-19 | 2023-02-18 |
+| [The Thing \- MANQO Remix](https://open.spotify.com/track/5LHfDzjTDVzLSqZEZWExzP) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [MANQO](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [The Thing \(MANQO Remix\)](https://open.spotify.com/album/6iaGxiNkzisJGD1wktLJ4X) | 5:24 | 2024-12-05 |  |
 | [The Warrior](https://open.spotify.com/track/3nt93Flj7FBSaEKJWbWJ18) | [McK](https://open.spotify.com/artist/7Hq2IxP42MAzk8X0C1j6z4), [Yaw Appiah](https://open.spotify.com/artist/2EpwVoTYiRy4LqGFvW7URr) | [The Warrior](https://open.spotify.com/album/3QdCZ7kmJUZschpKqbDLCJ) | 6:26 | 2022-05-05 | 2022-06-03 |
 | [The Warrior's Prayer](https://open.spotify.com/track/09auDbVAaLsdgVEG8hytyB) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [The Warrior's Prayer](https://open.spotify.com/album/0d1IQ98wnxi0itD2TI8wZR) | 7:04 | 2021-12-23 | 2022-03-18 |
 | [The Way We Are](https://open.spotify.com/track/1cxbu45614VsARNJijxHBK) | [Tekniq](https://open.spotify.com/artist/7l95bNnc7Bmtk7AAF6T6aD), [Mici](https://open.spotify.com/artist/4n9KsFSip7Mrx8sYEIhoWx) | [Transitions 5th Chapter](https://open.spotify.com/album/5jfw2zNfq7ewods5gJRY8u) | 8:01 | 2022-03-24 | 2022-04-08 |

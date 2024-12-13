@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "House of Wolves",
+      "url": "https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r"
+    },
+    {
+      "album": {
         "name": "Twenty One Pilots",
         "url": "https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM"
       },

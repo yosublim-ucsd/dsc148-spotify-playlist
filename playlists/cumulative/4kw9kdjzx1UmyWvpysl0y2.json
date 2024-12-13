@@ -8526,7 +8526,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 216000,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/527oJMrzPR6PhTWNPclNah"
@@ -16008,6 +16008,24 @@
       "duration_ms": 260428,
       "name": "The Warehouse - Justin Hawkes Remix",
       "url": "https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe"
+    },
+    {
+      "album": {
+        "name": "Therapy (VIP)",
+        "url": "https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Therapy - VIP",
+      "url": "https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H"
     },
     {
       "album": {

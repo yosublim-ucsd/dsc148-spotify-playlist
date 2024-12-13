@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,403 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,470 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 11 | [The Church](https://open.spotify.com/track/6r71GI3mbJzpoUFqbGTOC6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Broken Home](https://open.spotify.com/album/31JnE8pI4B5Wjg7m6u7Ft9) | 3:39 |
 | 12 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
 | 13 | [Time And Time Again](https://open.spotify.com/track/42PFZkVtgmqj3u3481ZY2L) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Time And Time Again](https://open.spotify.com/album/5XNspQit6bgYqM7o4khgLC) | 3:17 |
-| 14 | [He Has Done Great Things \- Live](https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI) | [He Has Done Great Things \(Live\)](https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d) | 5:55 |
+| 14 | [He Has Done Great Things \- Live](https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [He Has Done Great Things \(Live\)](https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d) | 5:55 |
 | 15 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |
 | 16 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 |
 | 17 | [Stay \(Gonna Be Okay\)](https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay \(Gonna Be Okay\)](https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd) | 3:25 |

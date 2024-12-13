@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35126,
+  "num_followers": 35123,
   "original_name": "Top Country Hits 2024",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAaxRZrxdyAhMR+uxW28C6B/G3VxdHm",
+  "snapshot_id": "AAAaxk9ycYmSsyrH75SAEXB4wQ4jWCyU",
   "tracks": [
     {
       "added_at": "2024-12-10 14:51:50",
@@ -1379,6 +1379,22 @@
       "duration_ms": 163053,
       "name": "lose you again (feat. parmalee)",
       "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
+    },
+    {
+      "added_at": "2024-12-12 17:04:43",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
     }
   ],
   "unique_name": "Top Country Hits 2024",

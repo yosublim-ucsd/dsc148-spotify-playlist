@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 59 songs - 3 hr 16 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 57 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
 | 58 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 |
 | 59 | [Orange Ball Of Peace](https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 1:25 |
+| 60 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
 
-Snapshot ID: `AAAARpO5NLVq6oASfGVSRkcSUjt6FZMR`
+Snapshot ID: `AAAAR46kLcHbHhgKEEUk5kSkD2Udgfe1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Cala Vento.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: El Buen Hijo.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 240031,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 210117,
       "name": "Amor de oficina",
       "url": "https://open.spotify.com/track/3TspMHDZMLMuzUSolTzX15"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 128524,
       "name": "Barrezka",
       "url": "https://open.spotify.com/track/79kqUW02FtA3m3iU5qPVB0"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 163280,
       "name": "El Campe\u00f3n en tus ojos",
       "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
@@ -1222,6 +1222,24 @@
       "duration_ms": 155592,
       "name": "Entre las nubes",
       "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
+    },
+    {
+      "album": {
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
     },
     {
       "album": {
@@ -1457,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "F\u00fatbol",
+        "url": "https://open.spotify.com/album/0pCijFVzEi6Ke9fOdFrRro"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271750,
+      "name": "F\u00fatbol",
+      "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
+    },
+    {
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1512,6 +1548,24 @@
       "duration_ms": 184631,
       "name": "Hamburguesas",
       "url": "https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ"
+    },
+    {
+      "album": {
+        "name": "Ham\u00b4a\u00b4cuckoo (Un Tributo a Lori Meyers)",
+        "url": "https://open.spotify.com/album/1qpoC7TXuoiaC87OXtZbD6"
+      },
+      "artists": [
+        {
+          "name": "Nadie Pat\u00edn",
+          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165143,
+      "name": "Ham\u00b4a\u00b4cuckoo - Un Tributo a Lori Meyers",
+      "url": "https://open.spotify.com/track/0hGFXZrmSUiu7XcKAsN3J4"
     },
     {
       "album": {
@@ -1790,7 +1844,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 174153,
       "name": "La edad que tengo",
       "url": "https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5"
@@ -2076,6 +2130,24 @@
       "duration_ms": 170005,
       "name": "Los Muertos",
       "url": "https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc"
+    },
+    {
+      "album": {
+        "name": "L\u00ednea 11",
+        "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231283,
+      "name": "L\u00ednea 11",
+      "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
     },
     {
       "album": {
@@ -2694,7 +2766,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183049,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/0Hw91lN7fNSJpJDcXYWDf6"
@@ -2806,7 +2878,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 213308,
       "name": "p0pper",
       "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
@@ -2896,7 +2968,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 174449,
       "name": "patito",
       "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
@@ -3030,7 +3102,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175859,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT"
@@ -3160,7 +3232,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
@@ -3218,6 +3290,24 @@
       "duration_ms": 169453,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
+    },
+    {
+      "album": {
+        "name": "Quiero t\u00fa coraz\u00f3n y nada m\u00e1s",
+        "url": "https://open.spotify.com/album/445XsImxE704YSAT24kDI3"
+      },
+      "artists": [
+        {
+          "name": "The Killer Barbies",
+          "url": "https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203569,
+      "name": "Quiero t\u00fa coraz\u00f3n y nada m\u00e1s",
+      "url": "https://open.spotify.com/track/3RQf0uPtwGJ6HJB6dmGnvH"
     },
     {
       "album": {
@@ -3520,7 +3610,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 205957,
       "name": "Sin Hablar",
       "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
@@ -3538,7 +3628,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 198958,
       "name": "Sin M\u00e1s",
       "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
@@ -3850,7 +3940,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 147579,
       "name": "Travieso",
       "url": "https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY"
@@ -3966,6 +4056,24 @@
       "duration_ms": 186014,
       "name": "Un final ideal",
       "url": "https://open.spotify.com/track/3TXeQIDsMrjHHn7zre2EHZ"
+    },
+    {
+      "album": {
+        "name": "un momento",
+        "url": "https://open.spotify.com/album/3gyNZ6E7AcQlFmkm62qR3c"
+      },
+      "artists": [
+        {
+          "name": "El Buen Hijo",
+          "url": "https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158865,
+      "name": "un momento",
+      "url": "https://open.spotify.com/track/1azSsvyjl1oSejhztB4cvO"
     },
     {
       "album": {
@@ -4096,6 +4204,24 @@
       "duration_ms": 224507,
       "name": "Ventajas",
       "url": "https://open.spotify.com/track/5aOZz1pmVGf7l4HoOYk7RS"
+    },
+    {
+      "album": {
+        "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
+        "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188682,
+      "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
+      "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
     },
     {
       "album": {
@@ -4302,6 +4428,24 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+    },
+    {
+      "album": {
+        "name": "yo s\u00ed te quer\u00eda",
+        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152282,
+      "name": "yo s\u00ed te quer\u00eda",
+      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
     },
     {
       "album": {

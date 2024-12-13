@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Insomniacks
 
-591 songs - 1 day 13 hr 11 min
+592 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Menjaga Cintamu \- Original Soundtrack From Anwar, The Untold Story](https://open.spotify.com/track/24iGu5nS2Cxa0Y3E2IehzJ) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Menjaga Cintamu \(Original Soundtrack From Anwar, The Untold Story\)](https://open.spotify.com/album/2M4JbauEhpLEdVBi98d5BH) | 4:06 | 2023-05-24 | 2023-06-29 |
 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 | 2024-08-07 | 2024-10-10 |
 | [Mentari Setia](https://open.spotify.com/track/42dYCk7kipouktkw71v011) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Mentari Setia](https://open.spotify.com/album/6glgFwyGwbMz3uaJq5y3Hb) | 3:18 | 2022-12-21 | 2023-02-02 |
-| [Menyala](https://open.spotify.com/track/3jW9BV1LqhddkaYrFA2MCy) | [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Menyala](https://open.spotify.com/album/6XTZRKGyQEXUdboMDCMOE1) | 3:45 | 2024-11-12 |  |
+| [Menyala](https://open.spotify.com/track/3jW9BV1LqhddkaYrFA2MCy) | [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Menyala](https://open.spotify.com/album/6XTZRKGyQEXUdboMDCMOE1) | 3:45 | 2024-11-12 | 2024-12-13 |
 | [Menyendiri](https://open.spotify.com/track/7b0SApXENfKS1hio1j2rz4) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Menyendiri](https://open.spotify.com/album/1zM8FqFBAV45IUnuhOB4ok) | 3:57 | 2023-05-17 | 2023-06-08 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-03-08 | 2023-08-03 |
 | [merah atau biru](https://open.spotify.com/track/5ZPkDCUGjcMiVHw2lU31F2) | [ChronicalZ](https://open.spotify.com/artist/3OvM4PgW1240WvfbIi9hDh) | [merah atau biru](https://open.spotify.com/album/33B0gEWaWJgD9IO31QceM1) | 2:29 | 2024-06-26 | 2024-07-25 |
@@ -386,6 +386,7 @@
 | [Nelangsa](https://open.spotify.com/track/0FqbrObTZcICnGO4zTWT3s) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [Nelangsa](https://open.spotify.com/album/5GJDWuQRphjqZwFq048ukk) | 3:59 | 2022-05-25 | 2022-06-01 |
 | [No Skibidi](https://open.spotify.com/track/29fTQ2g0s1b9h1KZvwi2IF) | [Caprice](https://open.spotify.com/artist/08kchik08wcyQ6UQCn9R0w), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [B\-Heart](https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK), [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe) | [No Skibidi](https://open.spotify.com/album/6jGGuwBQsqrMGi2GqOuIY6) | 3:08 | 2024-10-30 | 2024-11-21 |
 | [Noktah Rindu](https://open.spotify.com/track/6nhxpQAcKbdQlcLqEnwvP0) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Noktah Rindu](https://open.spotify.com/album/4wvmiHIFdhbwrUh2v98nEf) | 3:45 | 2024-08-28 | 2024-10-03 |
+| [Nurcinta](https://open.spotify.com/track/6EmumYQrYQYDhsFnsZUeWv) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [AM:PM \(Side AM\)](https://open.spotify.com/album/6NHFNvHJRvl8NRyjGGOauu) | 3:59 | 2024-12-12 |  |
 | [OK](https://open.spotify.com/track/3RzM4wq71b3zHQCQCQQq9m) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [OK](https://open.spotify.com/album/188iY0reiV70ZCUs79GdxE) | 3:12 | 2023-08-16 | 2023-09-21 |
 | [OMK](https://open.spotify.com/track/63VSYAxNF3tHP6D0N9uQXm) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Zubir Khan](https://open.spotify.com/artist/1PCuqpInYSxQue3sDDM1Q5) | [OMK](https://open.spotify.com/album/4Zlt3S1NUaTrDdT8ZwT2ju) | 3:47 | 2024-05-22 | 2024-08-22 |
 | [Omong Kosong](https://open.spotify.com/track/1vQB8awWbfjqwpEyCLqzkE) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Omong Kosong](https://open.spotify.com/album/6wuLEc9FuLzt3CvznciCgJ) | 3:20 | 2022-12-14 | 2023-01-26 |

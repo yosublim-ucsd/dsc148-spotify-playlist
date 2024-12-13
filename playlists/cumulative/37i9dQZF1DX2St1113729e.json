@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 87557,
       "name": "23B 53B Pntv Night-Time",
       "url": "https://open.spotify.com/track/5CrADmQoF7noEM9lAfcHzQ"
@@ -1284,10 +1284,36 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
+    },
+    {
+      "album": {
+        "name": "Casado Con el Trap",
+        "url": "https://open.spotify.com/album/6GNXsCo7R9iT3Ni8o6DmND"
+      },
+      "artists": [
+        {
+          "name": "Durango",
+          "url": "https://open.spotify.com/artist/0cJIsoqSZaMNSFZkbG8erM"
+        },
+        {
+          "name": "Molina Beatz",
+          "url": "https://open.spotify.com/artist/30a8Vp8yoh7bvZZ559XhnU"
+        },
+        {
+          "name": "nosoycantante",
+          "url": "https://open.spotify.com/artist/5qy6Re14U4mCFOaxjmniQD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Casado Con el Trap",
+      "url": "https://open.spotify.com/track/6fSDP66qTYZhpksJc74MS0"
     },
     {
       "album": {
@@ -1444,7 +1470,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 220169,
       "name": "Clavao en visto",
       "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
@@ -4047,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/6LmciVjXzElTi9IAhW3kPK"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216714,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/3mIffUSaxSQy7EpITwl1N5"
+    },
+    {
+      "album": {
         "name": "irl.angel",
         "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
       },
@@ -4400,7 +4444,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166285,
       "name": "LA \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
@@ -5220,6 +5264,28 @@
       "duration_ms": 126030,
       "name": "MET\u00c1LICA",
       "url": "https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa"
+    },
+    {
+      "album": {
+        "name": "Mewtwo",
+        "url": "https://open.spotify.com/album/0RCVFsmwGNPPVxZNjATriQ"
+      },
+      "artists": [
+        {
+          "name": "Cma",
+          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+        },
+        {
+          "name": "Danisan47",
+          "url": "https://open.spotify.com/artist/1yTlZQrJjObA2BxIjdyp4Z"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132938,
+      "name": "Mewtwo",
+      "url": "https://open.spotify.com/track/67KfwbStkmIXhUF4Zbw6aS"
     },
     {
       "album": {
@@ -7354,7 +7420,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 138352,
       "name": "Quiero estar solo",
       "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
@@ -9092,7 +9158,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 109322,
       "name": "un lugar en m\u00ed",
       "url": "https://open.spotify.com/track/1TzNUQFB5UXQJgEKiVdD4v"
@@ -9244,7 +9310,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 149957,
       "name": "UuU jajajj",
       "url": "https://open.spotify.com/track/276R1wVI5Ub8gi8L72cbua"
@@ -9579,6 +9645,32 @@
     },
     {
       "album": {
+        "name": "YALLAH SAFI",
+        "url": "https://open.spotify.com/album/6SbGAqs0AJwNrCFjs9pzCg"
+      },
+      "artists": [
+        {
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        },
+        {
+          "name": "Rotea",
+          "url": "https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "YALLAH SAFI",
+      "url": "https://open.spotify.com/track/0fqHkjPLCr8bCBafTSszoa"
+    },
+    {
+      "album": {
         "name": "Yerba Maligna",
         "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
       },
@@ -9590,7 +9682,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 118578,
       "name": "Yerba Maligna",
       "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"

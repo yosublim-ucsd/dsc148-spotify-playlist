@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Michael Kaneko",
-  "num_followers": 59766,
+  "num_followers": 59788,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Genie",
-        "url": "https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU"
-      },
-      "artists": [
-        {
-          "name": "quicksand bed",
-          "url": "https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym"
-        },
-        {
-          "name": "aint lindy",
-          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
-        }
-      ],
-      "duration_ms": 193570,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "Magic Powers",
         "url": "https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 157297,
       "name": "Magic Powers",
       "url": "https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Genie",
+        "url": "https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU"
+      },
+      "artists": [
+        {
+          "name": "quicksand bed",
+          "url": "https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym"
+        },
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "duration_ms": 193570,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -819,6 +819,38 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "Fine Love",
+        "url": "https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "duration_ms": 285755,
+      "name": "Fine Love",
+      "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Wan!",
+        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Wan!",
+      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "Summer Days",
         "url": "https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu"
       },
@@ -855,22 +887,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Wan!",
-        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
-      },
-      "artists": [
-        {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Wan!",
-      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "\u82b1\u5439\u96ea",
         "url": "https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 235763,
       "name": "\u82b1\u5439\u96ea",
       "url": "https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "Fine Love",
-        "url": "https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh"
-      },
-      "artists": [
-        {
-          "name": "brkfstblend",
-          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
-        }
-      ],
-      "duration_ms": 285755,
-      "name": "Fine Love",
-      "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "see you, frail angel. sea adore you.",
-        "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
-      },
-      "artists": [
-        {
-          "name": "Homecomings",
-          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "slowboat",
-      "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157889,
       "name": "Ebi Fry",
       "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "slowboat",
+      "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "\u3075\u3057\u304e",
+      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "SUKIYAKI",
         "url": "https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 149271,
       "name": "SUKIYAKI",
       "url": "https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "\u3075\u3057\u304e",
-      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "\u7f8e\u5316",
+        "url": "https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6d77\u7950\u4eba",
+          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+        }
+      ],
+      "duration_ms": 276841,
+      "name": "\u7f8e\u5316",
+      "url": "https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3"
       },
@@ -1251,34 +1267,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
-        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
+        "name": "MEBAE",
+        "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
       },
       "artists": [
         {
-          "name": "Lovely Summer Chan",
-          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
-        }
-      ],
-      "duration_ms": 436349,
-      "name": "Garden of Remembrance",
-      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "\u7f8e\u5316",
-        "url": "https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR"
-      },
-      "artists": [
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        },
         {
-          "name": "\u78a7\u6d77\u7950\u4eba",
-          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+          "name": "YONCE",
+          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
         }
       ],
-      "duration_ms": 276841,
-      "name": "\u7f8e\u5316",
-      "url": "https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF"
+      "duration_ms": 245274,
+      "name": "MEBAE",
+      "url": "https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk"
     }
   ],
   "unique_name": "Edge!",

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-965 songs - 2 day 4 hr 3 min
+966 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 | 2024-08-02 |  |
 | [Not Fair](https://open.spotify.com/track/3D7eyLcGALXoSk1SZOYX6V) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Not Fair](https://open.spotify.com/album/55RLvQn1Wk2LaOP4KpsQYi) | 3:05 | 2022-02-03 | 2022-03-11 |
 | [Notorious](https://open.spotify.com/track/0f823mn1k1w8QQb3dMiHOK) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Notorious](https://open.spotify.com/album/5tRIYgiPOH6Pr4z2ctV47O) | 2:18 | 2022-08-05 | 2022-08-18 |
-| [November](https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [November](https://open.spotify.com/album/2x0UIFBhpw66dD4JcH7Q8p) | 3:26 | 2024-11-18 |  |
+| [November](https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [November](https://open.spotify.com/album/2x0UIFBhpw66dD4JcH7Q8p) | 3:26 | 2024-11-18 | 2024-12-13 |
 | [Number](https://open.spotify.com/track/3lQVy4ONHjiNFuThbQMwUd) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Number](https://open.spotify.com/album/4RbK4DvD3RgOgs3ff3Pjtc) | 3:11 | 2022-11-15 | 2023-02-02 |
 | [Oda Vyah](https://open.spotify.com/track/3HNS3MnORTpGwF2AzyAZ8G) | [Jashan Singh](https://open.spotify.com/artist/76Ae8xQK47gr8nrKDRW9Mj), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Oda Vyah](https://open.spotify.com/album/430x6Mrp0yrtzhEc46Ob6g) | 3:42 | 2022-10-25 | 2022-12-16 |
 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 | 2022-09-21 | 2023-02-04 |
@@ -691,6 +691,7 @@
 | [Rang Chadheya](https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG) | [Rang Chadheya](https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR) | 3:35 | 2024-03-26 | 2024-05-24 |
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |
 | [Ranga Wargi](https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Sikander](https://open.spotify.com/artist/04vyYm9kJkl2YjCP9qcv3g) | [Ranga Wargi](https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT) | 3:26 | 2022-02-04 | 2022-02-12 |
+| [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 | 2024-12-12 |  |
 | [Rangreza \(from Lover\)](https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Rangreza \(from Lover\)](https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU) | 3:02 | 2022-06-28 | 2022-07-06 |
 | [Rani Haar](https://open.spotify.com/track/1mWvTGvCfvaw8UVLlPjFAb) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rani Haar](https://open.spotify.com/album/76dpB9VA6Uoa07CrW3bidi) | 2:16 | 2024-11-19 | 2024-11-27 |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-12-02 | 2022-04-06 |

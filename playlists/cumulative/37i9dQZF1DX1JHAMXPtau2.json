@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 188487,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/6sYxBsgSJMOJMVdyRDxa2h"
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Rockin Around the Christmas Tree (Cover)",
+        "url": "https://open.spotify.com/album/047Jsj8cPsf6bwDQzG42QY"
+      },
+      "artists": [
+        {
+          "name": "Markus Palm",
+          "url": "https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Rockin Around the Christmas Tree - Cover",
+      "url": "https://open.spotify.com/track/6Cx34TJ6sWuyaCMbdTtHZc"
+    },
+    {
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp"
       },
@@ -776,6 +794,24 @@
       "duration_ms": 130134,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6B0B31rzHq9nESGo2FOA2o"
+    },
+    {
+      "album": {
+        "name": "Wonderful Christmastime (Cover)",
+        "url": "https://open.spotify.com/album/3BhemyGbhENo7QQwk6Mf8A"
+      },
+      "artists": [
+        {
+          "name": "Henri La Mer",
+          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "Wonderful Christmastime - Cover",
+      "url": "https://open.spotify.com/track/0G6XzAzphUDLsdmm89LgAk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1JHAMXPtau2"

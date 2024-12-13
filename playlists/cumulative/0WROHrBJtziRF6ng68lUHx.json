@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Phone Power",
+        "url": "https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101598,
+      "name": "Got Getting up so Down",
+      "url": "https://open.spotify.com/track/06zGtm8OvBntApXIq2IugR"
+    },
+    {
+      "album": {
         "name": "The Essential \"Weird Al\" Yankovic",
         "url": "https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4"
       },

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAADc3aqMQXHRkwF8rVzKtTs/xLjslr",
+  "snapshot_id": "AAAADk99sjsdReqzDn2x9gGyh+5oDBik",
   "tracks": [
     {
       "added_at": "2022-05-07 03:35:10",
@@ -143,6 +143,26 @@
       "duration_ms": 222360,
       "name": "Bombs Over Brooklyn",
       "url": "https://open.spotify.com/track/2x3H0vsi0k3JFcl60JeNQH"
+    },
+    {
+      "added_at": "2024-12-12 09:31:05",
+      "album": {
+        "name": "17 Deutsche T\u00e4nze",
+        "url": "https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH"
+      },
+      "artists": [
+        {
+          "name": "Rotfront",
+          "url": "https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz"
+        },
+        {
+          "name": "Flo Mega",
+          "url": "https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j"
+        }
+      ],
+      "duration_ms": 188219,
+      "name": "Everyone Speaks Russian",
+      "url": "https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw"
     }
   ],
   "unique_name": "Cold War Era",

@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 166873,
+  "num_followers": 166937,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1eEgAAAAABJIyY7FttiMyPkiH0jCwCa",
+  "snapshot_id": "Z1jWAAAAAAAOVndLwnmURVQMz6HfEGhq",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 227429,
       "name": "Polvo De Estrellas",
       "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Explorando El Universo",
+      "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
     },
     {
       "added_at": null,

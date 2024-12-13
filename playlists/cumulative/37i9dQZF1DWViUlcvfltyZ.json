@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Les Votives in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 I Patagarri in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183703,
       "name": "Boost",
       "url": "https://open.spotify.com/track/1Qvqz99HxxXn34AFd6gTc0"
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 180904,
       "name": "Eric - Che fai?",
       "url": "https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ"
@@ -9441,6 +9441,24 @@
     },
     {
       "album": {
+        "name": "In Memoria Di",
+        "url": "https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161183,
+      "name": "Il mio risveglio",
+      "url": "https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju"
+    },
+    {
+      "album": {
         "name": "il mondo va veloce",
         "url": "https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ"
       },
@@ -10754,7 +10772,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 154838,
       "name": "LA FINE",
       "url": "https://open.spotify.com/track/4Ku4hyAVPbS1uDuISpcIvr"
@@ -12899,6 +12917,24 @@
     },
     {
       "album": {
+        "name": "Mille Piani",
+        "url": "https://open.spotify.com/album/6C1ZrVKAngW23paIN6bqJ6"
+      },
+      "artists": [
+        {
+          "name": "loucani",
+          "url": "https://open.spotify.com/artist/6pAFgV8euIo2uZ6RC8K3Gf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231789,
+      "name": "Mille Piani",
+      "url": "https://open.spotify.com/track/3o7EdyXqPAZPx36deUBCfd"
+    },
+    {
+      "album": {
         "name": "Minotauro",
         "url": "https://open.spotify.com/album/0aTMRpWfh5BswfjfwqLDIz"
       },
@@ -13880,7 +13916,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142390,
       "name": "Non chiamarmi bella",
       "url": "https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY"
@@ -16673,6 +16709,24 @@
     },
     {
       "album": {
+        "name": "QUARTO MIGLIO (ROMA)",
+        "url": "https://open.spotify.com/album/6kJm5gzWsApbL3RJDgBi2D"
+      },
+      "artists": [
+        {
+          "name": "PITONI",
+          "url": "https://open.spotify.com/artist/47FmploiTJhA9BABtpnpAI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "QUARTO MIGLIO (ROMA)",
+      "url": "https://open.spotify.com/track/5wl5XD8xtzIiu1FXtc5cf2"
+    },
+    {
+      "album": {
         "name": "Quattro Mani",
         "url": "https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI"
       },
@@ -17662,7 +17716,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 183225,
       "name": "Satelliti",
       "url": "https://open.spotify.com/track/416FdhPecfjpDTAEexLWkq"
@@ -17962,6 +18016,24 @@
       "duration_ms": 183085,
       "name": "Se non ti bagni con me",
       "url": "https://open.spotify.com/track/1hBsb8qLEKTBJoHzsO12fK"
+    },
+    {
+      "album": {
+        "name": "Se un Guru",
+        "url": "https://open.spotify.com/album/0ZjtF1vM5y4Jknb6VqyqTD"
+      },
+      "artists": [
+        {
+          "name": "Monte Mai",
+          "url": "https://open.spotify.com/artist/08vx62TptvD5VvAymkBx1i"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Se un Guru",
+      "url": "https://open.spotify.com/track/0DjaT6JFMuJAcRkfJnNzz9"
     },
     {
       "album": {
@@ -21872,6 +21944,24 @@
       "duration_ms": 187826,
       "name": "Verdena",
       "url": "https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU"
+    },
+    {
+      "album": {
+        "name": "Lascio Fuori La Realt\u00e0",
+        "url": "https://open.spotify.com/album/1XAtawxKkwuLXESBpEICvC"
+      },
+      "artists": [
+        {
+          "name": "Heaven or Las Vegas",
+          "url": "https://open.spotify.com/artist/5ozL9iHS3LgG1tH7FfErqQ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/7hP2x2qReiPgyQLdNLEsO9"
     },
     {
       "album": {

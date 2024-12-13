@@ -1,31 +1,47 @@
 {
   "description": "Listen to the soundtracks of Face Me. (\ud398\uc774\uc2a4 \ubbf8\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 222,
+  "num_followers": 235,
   "original_name": "\ud398\uc774\uc2a4 \ubbf8 (Face Me)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0FV1QAAAABCc7tGf69vGNGsauqhhzES",
+  "snapshot_id": "Z1qhwAAAAABRfGOQ9wjkAQx/LnRxV0M5",
   "tracks": [
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
-        "name": "FACE ME OST Part.1 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1CpGsxPcJlPTZr1sqZdHFm"
+        "name": "FACE ME OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0ih3fD16UVZ8J0dAFPkXPC"
       },
       "artists": [
         {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+          "name": "Fil",
+          "url": "https://open.spotify.com/artist/7m8uiaaNYL1PY7zRCfnLgU"
         }
       ],
-      "duration_ms": 206970,
-      "name": "I Want U Back",
-      "url": "https://open.spotify.com/track/2cYI310u2wILe2dZYJCEX9"
+      "duration_ms": 245414,
+      "name": "hold my hand",
+      "url": "https://open.spotify.com/track/6PHw2FIrt7NeAcOXZwPJHM"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/2AKABlRCooiatptfamkypR"
+      },
+      "artists": [
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Do You Feel Like Me",
+      "url": "https://open.spotify.com/track/2nrg2gvr3DOzgIpiIihpq3"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "FACE ME OST Part.2 (Soundtrack)",
         "url": "https://open.spotify.com/album/4EvEIwXEdeuAmrwcW2BsyF"
@@ -41,7 +57,87 @@
       "url": "https://open.spotify.com/track/5O6uKIPg6bMxYgotvAtOWo"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1CpGsxPcJlPTZr1sqZdHFm"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "duration_ms": 206970,
+      "name": "I Want U Back",
+      "url": "https://open.spotify.com/track/2cYI310u2wILe2dZYJCEX9"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0ih3fD16UVZ8J0dAFPkXPC"
+      },
+      "artists": [
+        {
+          "name": "Fil",
+          "url": "https://open.spotify.com/artist/7m8uiaaNYL1PY7zRCfnLgU"
+        }
+      ],
+      "duration_ms": 245414,
+      "name": "hold my hand (inst.)",
+      "url": "https://open.spotify.com/track/3Y9eECL2gYsEsRvCf1632z"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/2AKABlRCooiatptfamkypR"
+      },
+      "artists": [
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Do You Feel Like Me (inst.)",
+      "url": "https://open.spotify.com/track/4WantdvbWkSS8Ooy7fvTqt"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4EvEIwXEdeuAmrwcW2BsyF"
+      },
+      "artists": [
+        {
+          "name": "\uc7a5\ud55c\ubcc4",
+          "url": "https://open.spotify.com/artist/4zA2RZAlqEHkvTLe78PwUu"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "Inner Side (inst.)",
+      "url": "https://open.spotify.com/track/4XRJTOT18SFxbRAZLFrdjP"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
+      "album": {
+        "name": "FACE ME OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1CpGsxPcJlPTZr1sqZdHFm"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "duration_ms": 206970,
+      "name": "I Want U Back (inst.)",
+      "url": "https://open.spotify.com/track/2afQh1paxczo07kwpnbpLR"
+    },
+    {
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "yours",
         "url": "https://open.spotify.com/album/0qtekNG39nfP3Os1iKpDLH"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/24ISyrkOgpc0IodIEUokog"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "With All My Heart",
         "url": "https://open.spotify.com/album/1MFN0JrE64TkeRjxMIntg3"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/42Nb6Fbkcl5HutwdoE7IJF"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "My Voice - The 1st Album",
         "url": "https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Please Stay",
         "url": "https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "#HUMANKIND",
         "url": "https://open.spotify.com/album/2UfyzyVsoBPO6ZQSvJDpd6"
@@ -121,7 +217,7 @@
       "url": "https://open.spotify.com/track/0EyGwBhyEn8ImnJJqJJLPe"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "UNI-VERSE",
         "url": "https://open.spotify.com/album/0SNOqvn9SdGUWASF1sCEhS"
@@ -137,7 +233,7 @@
       "url": "https://open.spotify.com/track/48qnvkmIAsYtrjP89hbCCy"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/7nrWTUo1GD97Tst9cDMkbN"
@@ -153,7 +249,7 @@
       "url": "https://open.spotify.com/track/5LufxEnryLKW633hVDbcT0"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Doona! (Music from The Netflix Series)",
         "url": "https://open.spotify.com/album/351LvQJsNt4fvYdnvhzF9D"
@@ -169,7 +265,7 @@
       "url": "https://open.spotify.com/track/47IR3M0E9QwPoYsdIKwVpr"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
@@ -185,7 +281,7 @@
       "url": "https://open.spotify.com/track/6YWS7t8KUTKVRPOpt2VRkd"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/14hErRGlTxu0HC90Grk160"
@@ -201,7 +297,7 @@
       "url": "https://open.spotify.com/track/2LQNZCZNMAUSrRys7cD5EY"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -217,7 +313,7 @@
       "url": "https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Making Steak",
         "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
@@ -233,7 +329,7 @@
       "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Empty Syndrome",
         "url": "https://open.spotify.com/album/4HHxrzlj0LZ9B3wpFWUC3c"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/1LO0w5SRoUHeGnbpL29SMr"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/0vpemSo6U9XITuxXKA7lSj"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/5Sjy8Jt9eNRUYazvizrU1G"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "NO PAIN",
         "url": "https://open.spotify.com/album/63Z0hWI9rtD9tCik8Snh0k"
@@ -281,7 +377,7 @@
       "url": "https://open.spotify.com/track/4N5PLI3puPr62sGcJbkiFL"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ"
@@ -297,7 +393,7 @@
       "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "In the end we\u2019re just",
         "url": "https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl"
@@ -313,7 +409,7 @@
       "url": "https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "relationshit",
         "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
@@ -329,7 +425,7 @@
       "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "DIFFERENT",
         "url": "https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V"
     },
     {
-      "added_at": "2024-11-23 04:11:01",
+      "added_at": "2024-12-12 08:41:36",
       "album": {
         "name": "Sewer",
         "url": "https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL"

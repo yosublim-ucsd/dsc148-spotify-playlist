@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Palmaria",
+  "description": "Il meglio dell'R&B italiano. Cover: TOMMY DALI",
   "name": "anima R&B",
   "tracks": [
+    {
+      "album": {
+        "name": "'A Passion",
+        "url": "https://open.spotify.com/album/1TfcZ8uJZ9nZXiLBXknhBx"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "'A Passion",
+      "url": "https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA"
+    },
     {
       "album": {
         "name": "1 secondo",
@@ -186,7 +204,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 173600,
       "name": "6%",
       "url": "https://open.spotify.com/track/5MRI3BGhqnb00pRLiVPGS6"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 151333,
       "name": "basta",
       "url": "https://open.spotify.com/track/6kaIWnv5YDXbsRb5w69Euv"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 164911,
       "name": "FAI L'UOMO (feat. Mondo Marcio)",
       "url": "https://open.spotify.com/track/5TjFfUhKdmUVGUfKUq4FIs"
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 195483,
       "name": "Fotoricordo",
       "url": "https://open.spotify.com/track/4awSy4eb4hEu8RnSWOJWIP"
@@ -5008,6 +5026,24 @@
       "duration_ms": 155181,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM"
+    },
+    {
+      "album": {
+        "name": "Il giorno della mia laurea",
+        "url": "https://open.spotify.com/album/13GyAsS2RubpynoiO8ByIg"
+      },
+      "artists": [
+        {
+          "name": "Pink Wine",
+          "url": "https://open.spotify.com/artist/03XI8tHchP5z1IIxhTDZrU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Il giorno della mia laurea",
+      "url": "https://open.spotify.com/track/1OZepJHelQdG9BNMFRdjaC"
     },
     {
       "album": {
@@ -7096,7 +7132,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 146415,
       "name": "Mezzo Amore",
       "url": "https://open.spotify.com/track/12IBHgQmBdIv0fXREEeURt"
@@ -7826,7 +7862,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 153018,
       "name": "Non c'\u00e8 mai un per sempre",
       "url": "https://open.spotify.com/track/1SVRjIVG0yb7AEBW7TV149"
@@ -8078,6 +8114,24 @@
       "duration_ms": 187588,
       "name": "Non oggi",
       "url": "https://open.spotify.com/track/544DE6Qyylu3TJsNxRTe5w"
+    },
+    {
+      "album": {
+        "name": "non partir\u00f2",
+        "url": "https://open.spotify.com/album/3dMWNxtf4TSGvGc4nIrMHc"
+      },
+      "artists": [
+        {
+          "name": "Lil Markiese",
+          "url": "https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "non partir\u00f2",
+      "url": "https://open.spotify.com/track/1tcquxL4R79iUjQtUiMnhq"
     },
     {
       "album": {
@@ -10124,7 +10178,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169148,
       "name": "Ros\u00e9 Gold",
       "url": "https://open.spotify.com/track/7kXoxdK0EHw10Q3T3ol37N"
@@ -10544,6 +10598,24 @@
       "duration_ms": 218691,
       "name": "Sei come il mare",
       "url": "https://open.spotify.com/track/1kHDTbfeX2dD9WqRX8Ft6I"
+    },
+    {
+      "album": {
+        "name": "Tony",
+        "url": "https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb"
+      },
+      "artists": [
+        {
+          "name": "Yasmina",
+          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Sei Dappertutto",
+      "url": "https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ"
     },
     {
       "album": {
@@ -12196,7 +12268,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 165600,
       "name": "TOP GYAL",
       "url": "https://open.spotify.com/track/5DKYhoSd9ORUFLIlc7yi04"
@@ -12422,7 +12494,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 200929,
       "name": "Tu Me Faje Mur\u00ed",
       "url": "https://open.spotify.com/track/0KjwK1p3zAWiyrN2M3x1gb"
@@ -13173,6 +13245,28 @@
     },
     {
       "album": {
+        "name": "Voglia Malinconia",
+        "url": "https://open.spotify.com/album/3VeTfVKsw1RR1gUJrmDgj9"
+      },
+      "artists": [
+        {
+          "name": "ram\u00e9",
+          "url": "https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U"
+        },
+        {
+          "name": "Kabvki",
+          "url": "https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Voglia Malinconia",
+      "url": "https://open.spotify.com/track/6mxNu4CCgwjxzp7UXr1IqK"
+    },
+    {
+      "album": {
         "name": "Voglio di pi\u00f9",
         "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
       },
@@ -13318,7 +13412,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 193097,
       "name": "Whitman (feat. Ghemon)",
       "url": "https://open.spotify.com/track/4buNjqz4lvWhM0vXyTyRAk"

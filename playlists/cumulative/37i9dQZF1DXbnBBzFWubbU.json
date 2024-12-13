@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "AANKH",
+        "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "AANKH",
+      "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
+    },
+    {
+      "album": {
         "name": "Aayati",
         "url": "https://open.spotify.com/album/24JdrtJs3tRUuHbQb71CWU"
       },
@@ -990,6 +1012,32 @@
       "duration_ms": 216000,
       "name": "Heer",
       "url": "https://open.spotify.com/track/1jREKnMWRUAxZiISw5nyDB"
+    },
+    {
+      "album": {
+        "name": "Heer (Afro Edit)",
+        "url": "https://open.spotify.com/album/7usTsIphCRb3CsGUObz7MV"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287213,
+      "name": "Heer - Afro Extended Edit",
+      "url": "https://open.spotify.com/track/4NpvOftfwWoMqAnlzEcird"
     },
     {
       "album": {
@@ -2595,6 +2643,36 @@
     },
     {
       "album": {
+        "name": "Samundar",
+        "url": "https://open.spotify.com/album/6xRCzQVWnwYsiXhoMdyIG8"
+      },
+      "artists": [
+        {
+          "name": "Saqib",
+          "url": "https://open.spotify.com/artist/7CTBM6iKzwhDMswUHw10n9"
+        },
+        {
+          "name": "AREUBLUE",
+          "url": "https://open.spotify.com/artist/1e2o0A9eanHHp7KL02Ug45"
+        },
+        {
+          "name": "Naayaab",
+          "url": "https://open.spotify.com/artist/5QNBRBAOHhi4IB3Eu3pCxN"
+        },
+        {
+          "name": "Indo Warehouse",
+          "url": "https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312195,
+      "name": "Samundar",
+      "url": "https://open.spotify.com/track/6oTuTvSi4a2dHXiEZDGrrz"
+    },
+    {
+      "album": {
         "name": "Sanson Ki Mala (RxB Edit)",
         "url": "https://open.spotify.com/album/6kG4Q8xGqvwiXt9z6lJDpm"
       },
@@ -2768,7 +2846,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 172870,
       "name": "Sutha Sutha",
       "url": "https://open.spotify.com/track/2aLMZgLWz7771F8t7zqPhG"

@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Emiway Bantai
 
-168 songs - 8 hr 59 min
+169 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 | 2024-07-29 |  |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-04-24 | 2023-10-23 |
 | [Believe](https://open.spotify.com/track/1vl7lZC2uYzBitMWappXFR) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Malum Hai Na](https://open.spotify.com/album/4dtVDWCVbRNrkfzJizw3Kz) | 3:06 | 2023-03-17 | 2023-12-14 |
+| [BHAI](https://open.spotify.com/track/53hxkF0EVsn9MHZ53JKpYe) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [BHAI](https://open.spotify.com/album/1suvEu9VfbAwJM7HRACaQq) | 3:08 | 2024-12-12 |  |
 | [BLACK MONEY](https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [BLACK MONEY](https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ) | 3:48 | 2024-11-22 |  |
 | [Blessings](https://open.spotify.com/track/7J0CxEcl1dUxX9IG6R5Xfb) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:44 | 2023-04-24 |  |
 | [Blew up](https://open.spotify.com/track/3QP9yuBbDgy9tmTeG6aIaz) | [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Placidchills](https://open.spotify.com/artist/4DOiFiwOoLhBQOniziQ7V6) | [Blew up](https://open.spotify.com/album/5yyAPCWjdJmJxI3HVLbPdb) | 3:05 | 2023-03-17 | 2023-04-25 |
@@ -93,7 +94,7 @@
 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 | 2023-03-17 | 2024-10-24 |
 | [KAHA PAR HUN](https://open.spotify.com/track/2IQ9BhK3MTBlt22BmK71gH) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KAHA PAR HUN](https://open.spotify.com/album/0mIhlf6fjxtrMtwZwnuPH4) | 2:23 | 2023-03-17 | 2023-04-25 |
 | [Kahan Par Hai](https://open.spotify.com/track/6YtlaPxgVWZHO7OB1atIEf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Kahan Par Hai](https://open.spotify.com/album/6OSxozR5eG53NUvHBy2PsZ) | 3:39 | 2023-03-17 | 2024-04-13 |
-| [Kehne Bhi De](https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Kehne Bhi De](https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN) | 2:36 | 2023-12-06 |  |
+| [Kehne Bhi De](https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Kehne Bhi De](https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN) | 2:36 | 2023-12-06 | 2024-12-13 |
 | [KHNH](https://open.spotify.com/track/1KZlhXZE6gWwJCmTuzSHKi) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [KHNH](https://open.spotify.com/album/13h3mevVvSUab377hSoBjp) | 2:17 | 2023-03-17 | 2023-04-25 |
 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 | 2023-03-17 | 2024-09-20 |
 | [Koi Nahin](https://open.spotify.com/track/20JqSDFpB87KZUQyQOXz1i) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP) | [Koi Nahin](https://open.spotify.com/album/25isPCfIzXkzXFbWATN2Nn) | 2:57 | 2023-03-17 | 2024-04-13 |

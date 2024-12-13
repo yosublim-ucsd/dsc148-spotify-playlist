@@ -4,7 +4,7 @@
 
 > 
 
-1,889 songs - 4 day 4 hr 51 min
+1,890 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Blaster](https://open.spotify.com/track/0RFhF0qa6CmqLclFgReLz5) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Blaster](https://open.spotify.com/album/5UBAS6R9nm1ipiTEYm1ccq) | 2:34 | 2024-08-16 |  |
 | [Blaster On Repeat](https://open.spotify.com/track/7fp4e2ZfM5TtpX9Kxvs2vc) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Blaster On Repeat](https://open.spotify.com/album/79n6452HzG9hXiFUgw6XCc) | 2:58 | 2024-08-13 |  |
 | [Blaze](https://open.spotify.com/track/3QgAz3qujZoMGSCk1zKpcf) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Blaze](https://open.spotify.com/album/0pr0XepqcZjgj1v6Nacpb6) | 2:27 | 2023-10-03 |  |
+| [Bleed For Glory](https://open.spotify.com/track/3DHbuNQtXozl71W13S8FH2) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Bleed For Glory](https://open.spotify.com/album/4Emr7AoGKUEwosO8hlATsA) | 3:10 | 2024-12-12 |  |
 | [Bleed This Music](https://open.spotify.com/track/3tjNiW58XN50r7xs5nKz46) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Bleed This Music](https://open.spotify.com/album/34wHv8YF4xZGKC4YTEUu6H) | 3:56 | 2023-03-21 |  |
 | [Blinding Lights](https://open.spotify.com/track/05CUBHbxzt2T80aKashOaL) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Blinding Lights](https://open.spotify.com/album/71Z3vJtSdxkcv4mZDpd9yU) | 2:56 | 2022-08-23 |  |
 | [Blood Eagle](https://open.spotify.com/track/4lTu5wQWPC0cCpPivfcBkK) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Blood Eagle](https://open.spotify.com/album/6BA5hHKXDDOWN9TjRG3SHb) | 3:03 | 2024-02-01 |  |

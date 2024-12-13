@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,663 songs - 3 day 15 hr 56 min
+1,664 songs - 3 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,7 @@
 | [Grotti](https://open.spotify.com/track/67BhbehOwDIda5vsLLalZC) | [Bandzoos](https://open.spotify.com/artist/1YD9AYA0G7uZRKf4d1FR2P) | [Grotti](https://open.spotify.com/album/2o9VwiHvAMqR901xeWL1un) | 2:17 | 2023-06-14 | 2023-06-18 |
 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 | 2022-06-20 | 2022-06-22 |
 | [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-25 | 2023-02-27 |
-| [GUERRA](https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GUERRA](https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b) | 2:16 | 2024-12-10 |  |
+| [GUERRA](https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GUERRA](https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b) | 2:16 | 2024-12-10 | 2024-12-13 |
 | [Guerrero](https://open.spotify.com/track/1aLMuy142vA5gMq1OxQxUQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:56 | 2021-07-04 | 2021-07-12 |
 | [Gugle](https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Gugle](https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH) | 3:14 | 2023-07-08 | 2023-07-11 |
 | [Hablarte Claro](https://open.spotify.com/track/53CiBLUrTQXihsxwT3amvj) | [Jeshy](https://open.spotify.com/artist/0Olr118WlMjUJq1VFly7Nq) | [Hablarte Claro](https://open.spotify.com/album/0aEMfwzX6tSFMYYrTqhPlK) | 2:56 | 2024-06-13 | 2024-06-15 |
@@ -1293,6 +1293,7 @@
 | [Running Wild](https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:31 | 2024-11-23 | 2024-11-25 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-11-21 | 2024-12-12 |
 | [RUTA](https://open.spotify.com/track/0lNjgODRkskk8UpLukk1iy) | [Lowkey M30](https://open.spotify.com/artist/4utWGMbIvfbTmJrG7A1og1) | [RUTA](https://open.spotify.com/album/2qYXLaXaeruejwxOEROhHQ) | 2:22 | 2023-07-01 | 2023-07-07 |
+| [Ruta \- Remix](https://open.spotify.com/track/0ZXLBHgq8CR5m0EMq8ZMSA) | [Lowkey M30](https://open.spotify.com/artist/4utWGMbIvfbTmJrG7A1og1), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD) | [Ruta \(Remix\)](https://open.spotify.com/album/0TAcJdKSOkbAvSztEZZPDj) | 3:10 | 2024-12-12 |  |
 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 | 2023-04-29 | 2023-05-01 |
 | [S.E.X.O](https://open.spotify.com/track/48UX3JH23V6syy4kAkGfhn) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [S.E.X.O](https://open.spotify.com/album/61iRLkyYf1DdGkGkNvqd2K) | 3:33 | 2023-02-11 | 2023-02-15 |
 | [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-12 | 2024-03-19 |

@@ -315,6 +315,36 @@
     },
     {
       "album": {
+        "name": "AM2TERDAM",
+        "url": "https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206464,
+      "name": "AM2TERDAM",
+      "url": "https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j"
+    },
+    {
+      "album": {
         "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
         "url": "https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP"
       },
@@ -472,7 +502,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 181224,
       "name": "Anlat Maria",
       "url": "https://open.spotify.com/track/3R9zmhVbaCtRhHaUC7MVVV"
@@ -614,7 +644,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 206896,
       "name": "Aram\u0131zda Kals\u0131n",
       "url": "https://open.spotify.com/track/2zU66nMSjEwk3kPSzPQQLV"
@@ -1072,7 +1102,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 195000,
       "name": "BANA NE",
       "url": "https://open.spotify.com/track/6YnoKIC8l4K9epOR9GvgwQ"
@@ -1476,7 +1506,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 151826,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/22LVc4hZVIIEi0z3oB5IIA"
@@ -4001,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "H\u00fcsran Hepsi",
+        "url": "https://open.spotify.com/album/5Py36nVFgslvqkTdhO9EBJ"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213139,
+      "name": "H\u00fcsran Hepsi",
+      "url": "https://open.spotify.com/track/1cLGvuG1AQYxIHhto1XJda"
+    },
+    {
+      "album": {
         "name": "I WANNA DANCE",
         "url": "https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d"
       },
@@ -4374,6 +4422,28 @@
     {
       "album": {
         "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/0U5lnIDiNLHAgF5MtXB7BQ"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Piyanc\u0131",
+          "url": "https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae"
+        },
+        {
+          "name": "PAGE",
+          "url": "https://open.spotify.com/artist/3k80flpfCSGhpLBtUsm2pN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/1XbcUEDgr6PARv1nqCGSjR"
+    },
+    {
+      "album": {
+        "name": "\u0130stanbul",
         "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
       },
       "artists": [
@@ -4570,6 +4640,32 @@
       "duration_ms": 165227,
       "name": "KAFAMA G\u00d6RE",
       "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
+    },
+    {
+      "album": {
+        "name": "Kalamam Aran\u0131zda",
+        "url": "https://open.spotify.com/album/3BOmZi4PCH4xvJC39MWdhe"
+      },
+      "artists": [
+        {
+          "name": "Da Poet",
+          "url": "https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk"
+        },
+        {
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
+        },
+        {
+          "name": "Deniz Tekin",
+          "url": "https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232087,
+      "name": "Kalamam Aran\u0131zda",
+      "url": "https://open.spotify.com/track/2GAH1NtbMOQkf0zfHVIt2u"
     },
     {
       "album": {
@@ -4906,7 +5002,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 110459,
       "name": "KASA ORIJINAL",
       "url": "https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft"
@@ -5252,7 +5348,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 254734,
       "name": "Korkum",
       "url": "https://open.spotify.com/track/7bRBnEbBruzgkgLOIYVk0x"
@@ -5590,6 +5686,48 @@
       "duration_ms": 270462,
       "name": "Lab Cypher",
       "url": "https://open.spotify.com/track/1zY2T7z0ODzjtcDkYzmAIJ"
+    },
+    {
+      "album": {
+        "name": "Lab Cypher 2 (feat. Zizzy, Harim, Vesca, aspi, Spade427 & Helios)",
+        "url": "https://open.spotify.com/album/6D3biyKHK0iow4ggE0qZcS"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1"
+        },
+        {
+          "name": "Harim",
+          "url": "https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ"
+        },
+        {
+          "name": "Vesca",
+          "url": "https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv"
+        },
+        {
+          "name": "aspi",
+          "url": "https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw"
+        },
+        {
+          "name": "Spade427",
+          "url": "https://open.spotify.com/artist/7GREWMFJ4IGk3I9Sco4uDM"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/0GDroCN5GF2h2cqOjyg8DA"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294428,
+      "name": "Lab Cypher 2 (feat. Zizzy, Harim, Vesca, aspi, Spade427 & Helios)",
+      "url": "https://open.spotify.com/track/4T4s8JjJRWzVZ9f3RFJr6G"
     },
     {
       "album": {
@@ -8072,7 +8210,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 122671,
       "name": "Senden \u00c7ok Var",
       "url": "https://open.spotify.com/track/3HK1WOG1DMiMdzs0mBkhGf"
@@ -8492,6 +8630,28 @@
       "duration_ms": 318967,
       "name": "spacetusu",
       "url": "https://open.spotify.com/track/04G66YxLhD9xLQJRzHHHpn"
+    },
+    {
+      "album": {
+        "name": "starlight",
+        "url": "https://open.spotify.com/album/36yjGxmEKn8vcGRcz7atA7"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243939,
+      "name": "starlight",
+      "url": "https://open.spotify.com/track/5XjpVXZ7YGNsuDPf3skmPA"
     },
     {
       "album": {
@@ -9710,6 +9870,24 @@
       "duration_ms": 150909,
       "name": "Yolunda \"pavyon\"",
       "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
+    },
+    {
+      "album": {
+        "name": "YSIVII",
+        "url": "https://open.spotify.com/album/7c9vw13t8XozdjvLfOjeJF"
+      },
+      "artists": [
+        {
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "YSIVII",
+      "url": "https://open.spotify.com/track/67FJONzR4S8nS535Op1HK5"
     },
     {
       "album": {

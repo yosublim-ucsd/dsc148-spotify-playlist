@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Get your bassface on with these classic Dubstep tracks: celebrating 30 years of Rinse with a Geeneus takeover!",
+  "description": "Get your bassface on with these classic Dubstep tracks.",
   "name": "Dubstep Classics",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 220173,
       "name": "9 Samurai",
       "url": "https://open.spotify.com/track/1vCxcujPNqejejW5xz0NrE"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 305103,
       "name": "Abattoir",
       "url": "https://open.spotify.com/track/2j9Cp0VqtlDOTFZDLryZys"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 246770,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 410973,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4QeJJXqKtMDFYMWhcvwdMU"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 396213,
       "name": "Crack Bong",
       "url": "https://open.spotify.com/track/09t9oPdlbztfqHPTgnFbBq"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 318586,
       "name": "Disco Rekah",
       "url": "https://open.spotify.com/track/4KTzgdfAbC09eZBrMJ585J"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 251653,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/2C8YrzMqdi6HgijBREcFAk"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 250880,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6WZ5EMzMDchO374npQHpp5"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 239773,
       "name": "Forefather",
       "url": "https://open.spotify.com/track/0UZvF6KJhjpUawO1ifNvF4"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 347786,
       "name": "Geddeon",
       "url": "https://open.spotify.com/track/1EVsMmzoibA0VeejPmc4e0"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 344146,
       "name": "Girl from Codeine City",
       "url": "https://open.spotify.com/track/5htke1OQszCuQekmRzMwAs"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 253714,
       "name": "Gully Brook Lane - Original Mix",
       "url": "https://open.spotify.com/track/5Y3lnBmHzfl6aOYKw5RLVV"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 248933,
       "name": "Japan - Original Mix",
       "url": "https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 316826,
       "name": "Kalawanji",
       "url": "https://open.spotify.com/track/1BdbNjrKq2sgcz69eWwOns"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Midnight - Bassnectar Remix",
       "url": "https://open.spotify.com/track/6FOW4afZzzl8eqNKnvNTsV"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 308523,
       "name": "Miracles - Commodo Remix",
       "url": "https://open.spotify.com/track/3107UbUHtWMSNSZQqhq6Ad"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 369360,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/3q9d18SYJ0JDfvFCZAtBow"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 357293,
       "name": "Perfect Stranger (feat. Katy B)",
       "url": "https://open.spotify.com/track/45pKLqudtUxyytI3xPBap7"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 264426,
       "name": "Punisher",
       "url": "https://open.spotify.com/track/7qVGSVC8gXA8boXAvHePQS"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 319416,
       "name": "Qawwali",
       "url": "https://open.spotify.com/track/36tSNnMctCGaxQp0JVGBLC"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 391866,
       "name": "Rutten",
       "url": "https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 243852,
       "name": "Scary Monsters and Nice Sprites",
       "url": "https://open.spotify.com/track/5q8oybjZelukF4h0CzSUN9"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 337570,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/0pmWk0ydV1DiN1XGNMFlw8"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 306026,
       "name": "The Knowledge",
       "url": "https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 200678,
       "name": "Topper Top (feat Teddy Bruckshot Lady Chann & Killa P)",
       "url": "https://open.spotify.com/track/28LaoRYd7v0EpChEzj7z3O"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 338560,
       "name": "Under The Sheets - Jakwob Remix",
       "url": "https://open.spotify.com/track/1KAg5YTwECiXmYeySVEpDS"

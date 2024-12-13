@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 187474,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/6PWInaX3jHRXhrqdji0Bgz"
@@ -5825,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/0g2d58nz0FQr8ZfLILpfb4"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145007,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/4JzVjv7Sx2suKR6S2zx1uJ"
+    },
+    {
+      "album": {
         "name": "Slow Retrieve",
         "url": "https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl"
       },
@@ -6020,6 +6038,24 @@
       "duration_ms": 155880,
       "name": "Sol\u00ear",
       "url": "https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY"
+    },
+    {
+      "album": {
+        "name": "somber dusk",
+        "url": "https://open.spotify.com/album/5uLbdC7K5LWBGk2Oqz3v9W"
+      },
+      "artists": [
+        {
+          "name": "pure & rare",
+          "url": "https://open.spotify.com/artist/4jk2C9pTr1UqRcJjRBzfgr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "somber dusk",
+      "url": "https://open.spotify.com/track/3fY9q9akklD3dMjftf91xp"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
-  "num_followers": 189897,
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah, Alyssa Dezek",
+  "num_followers": 189915,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ihkAAAAAAZDyANGu1v0GcLGMeFtd8X",
+  "snapshot_id": "Z1sXOAAAAACsiia3JqAx2EAgCTyw812Z",
   "tracks": [
+    {
+      "added_at": "2024-12-12 17:02:48",
+      "album": {
+        "name": "HALU (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Alyssa Dezek",
+          "url": "https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3"
+        }
+      ],
+      "duration_ms": 185654,
+      "name": "HALU - Acoustic Version",
+      "url": "https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk"
+    },
     {
       "added_at": "2024-11-28 17:00:00",
       "album": {
@@ -215,26 +235,6 @@
     {
       "added_at": "2024-11-28 17:00:00",
       "album": {
-        "name": "Rindu Tapi Jauh (Live Ska Reggae)",
-        "url": "https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S"
-      },
-      "artists": [
-        {
-          "name": "Maulana Ardiansyah",
-          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
-        },
-        {
-          "name": "Ochi Alvira",
-          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
-        }
-      ],
-      "duration_ms": 287979,
-      "name": "Rindu Tapi Jauh - Live Ska Reggae",
-      "url": "https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj"
-    },
-    {
-      "added_at": "2024-11-28 17:00:00",
-      "album": {
         "name": "Orang Yang Salah",
         "url": "https://open.spotify.com/album/0zi9EK30OsfcYzJXtwSg24"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 364158,
       "name": "Awal Yang Manis Akhir Yang Indah",
       "url": "https://open.spotify.com/track/0kZZ0MtKjVzP8yVZkcuIsc"
-    },
-    {
-      "added_at": "2024-11-28 17:00:00",
-      "album": {
-        "name": "Tidak Semua Laki-Laki",
-        "url": "https://open.spotify.com/album/6q2iWphcTRGqOKe4JPrLVD"
-      },
-      "artists": [
-        {
-          "name": "Maulana Ardiansyah",
-          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
-        }
-      ],
-      "duration_ms": 356826,
-      "name": "Tidak Semua Laki-Laki",
-      "url": "https://open.spotify.com/track/602t4lNXRIhEjpjW7N1jCe"
     },
     {
       "added_at": "2024-11-28 17:00:00",

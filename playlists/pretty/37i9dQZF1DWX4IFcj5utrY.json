@@ -1,6 +1,6 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ\"> Nitefreak </a>",
-  "num_followers": 74838,
+  "num_followers": 74842,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,30 @@
       "duration_ms": 190819,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
+    },
+    {
+      "added_at": "2024-12-05 22:38:57",
+      "album": {
+        "name": "The Thing (MANQO Remix)",
+        "url": "https://open.spotify.com/album/6iaGxiNkzisJGD1wktLJ4X"
+      },
+      "artists": [
+        {
+          "name": "Da Mike",
+          "url": "https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "MANQO",
+          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
+        }
+      ],
+      "duration_ms": 324080,
+      "name": "The Thing - MANQO Remix",
+      "url": "https://open.spotify.com/track/5LHfDzjTDVzLSqZEZWExzP"
     },
     {
       "added_at": "2024-12-05 22:38:57",

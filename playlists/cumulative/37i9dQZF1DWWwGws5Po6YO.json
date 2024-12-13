@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212432,
+      "name": "Air / Fire",
+      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
+    },
+    {
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 281202,
       "name": "Blue Shit",
       "url": "https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d"
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Impossible Light",
+        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
+      },
+      "artists": [
+        {
+          "name": "Uboa",
+          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350968,
+      "name": "Endocrine Disruptor",
+      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "album": {
         "name": "Epistasis",
         "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
       },
@@ -1291,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Gentle Hum",
+      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+    },
+    {
+      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -1392,7 +1450,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 231622,
       "name": "How to Build an Automaton",
       "url": "https://open.spotify.com/track/3PcZITm7RiD01NIAPJcSza"
@@ -2610,7 +2668,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7"

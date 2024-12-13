@@ -1,63 +1,15 @@
 {
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Issey Cross",
-  "num_followers": 44479,
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Sebastian Schub",
+  "num_followers": 44481,
   "original_name": "New Pop UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+vAAAAAAXveCCQYVOXEoW8A6HlIjx",
+  "snapshot_id": "Z1t5SwAAAAA423ZUOJFJ2nHyv+xwVXFq",
   "tracks": [
     {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Rhetorical Questions",
-        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Rhetorical Questions",
-      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Different Planets",
-        "url": "https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 190123,
-      "name": "Different Planets",
-      "url": "https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
@@ -73,103 +25,7 @@
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "pretty world",
-        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 221470,
-      "name": "pretty world",
-      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "If U Leave Me",
-        "url": "https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "If U Leave Me",
-      "url": "https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "You Go Your Way",
-        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 234886,
-      "name": "You Go Your Way",
-      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "I Can\u2019t Believe We Never Went Out Dancing",
         "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
@@ -185,7 +41,167 @@
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Rhetorical Questions",
+        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Rhetorical Questions",
+      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Can We Stop Just For A Second",
+        "url": "https://open.spotify.com/album/5xg5q1u59wi9ut0JC5nCKB"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/4KRgeJYNTtXS4tqzZdVGYR"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Different Planets",
+        "url": "https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 190123,
+      "name": "Different Planets",
+      "url": "https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "pretty world",
+        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 221470,
+      "name": "pretty world",
+      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "If U Leave Me",
+        "url": "https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "If U Leave Me",
+      "url": "https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "You Go Your Way",
+        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 234886,
+      "name": "You Go Your Way",
+      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "good old days",
         "url": "https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "imsochillandcool",
         "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
@@ -217,7 +233,23 @@
       "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
+    },
+    {
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "One Eye Open",
         "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/0fl2hYmuzhRRWjkxaoNsJQ"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/47MvHHZhOpAMMVjqQnnPmw"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Wet & Wild",
         "url": "https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Still The Same",
         "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Back To Then",
         "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Antibiotics",
         "url": "https://open.spotify.com/album/4GIoGUiikdaWcNZw3cUdpN"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/5to5yd13LPNIkXdr3xzubk"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Know How It Hurts",
         "url": "https://open.spotify.com/album/6q5b2ooIGg1oPlxD969M9l"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/120sSK66JfcBPb9mqPmd6G"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Sexy Goodbye",
         "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "need dat boy",
         "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Makeup Sex",
         "url": "https://open.spotify.com/album/69Of4FT2cUGxJXTe8hZmsp"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/6F4s7LAs3jZKo2Rn7TpIhf"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "oh my",
         "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "how could u love somebody like me?",
         "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Call Me Yours",
         "url": "https://open.spotify.com/album/09GPpMZWZmIlRbkqBwacGU"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/4gYMxKrpuByButZYbjf03d"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Polari",
         "url": "https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Dirty Laundry",
         "url": "https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Poppy",
         "url": "https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "I just don't think I'll make it over you.",
         "url": "https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "i don't mind floating",
         "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
@@ -557,7 +589,7 @@
       "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "in for the kill",
         "url": "https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18"
@@ -573,7 +605,7 @@
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "THE FINE ART OF DISASSOCIATION",
         "url": "https://open.spotify.com/album/6Y7nLLK0BvFqTEhsln77o0"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/0Q6V8TeNSSSj8uQ9Bjvex9"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/0pmbFZq9Fkm4f26uyaWxSO"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/4nvg5uqQ1uGAZVxnPTkwEX"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "To Whoever Loves You Next",
         "url": "https://open.spotify.com/album/4XLPyX3AlRGmuBjCHqoiTm"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/4qysFqC3uGGtyLQNPdBO6C"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Midnight Cowboy",
         "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "You Got The Thing",
         "url": "https://open.spotify.com/album/76pzyDWIjY8NoQpUH3EeSP"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/5grSq7F9QB6u2rtXgUbvuT"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Mountain Music",
         "url": "https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "ache in my tooth",
         "url": "https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Hey Arthur!",
         "url": "https://open.spotify.com/album/4bHgCso2O62quFXiyydKWr"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/1eAL6SURJYr5yko6FClNDO"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "The Other Side of Falling",
         "url": "https://open.spotify.com/album/3e31HZk9Dg7nwQfL6CArPl"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/1Fjgkrf83KjXwgaHZdkIS0"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/3OET72XzRHo2zYl7off9cG"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/4QiSg946Nqt4J745prLpz4"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Before The Kiss",
         "url": "https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "I've Got Feelings",
         "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/1Kpa2QiC6MLVqE05XhfKYE"
@@ -833,7 +865,7 @@
       "url": "https://open.spotify.com/track/2vtsEWuho6vO6iZziJEpaV"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs"
@@ -849,7 +881,7 @@
       "url": "https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "angie",
         "url": "https://open.spotify.com/album/3MpGkxdtN037VpIKirfrUp"
@@ -865,7 +897,7 @@
       "url": "https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Late to the World",
         "url": "https://open.spotify.com/album/4i6RhvT0tM0B5hRTbBJTwJ"
@@ -881,7 +913,7 @@
       "url": "https://open.spotify.com/track/3duHt1lSXBP7OnyWnVbhJG"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Can't Stop Dancing",
         "url": "https://open.spotify.com/album/1Ga9CoMnNzbKgtGu8Ru6pB"
@@ -897,7 +929,7 @@
       "url": "https://open.spotify.com/track/0PC6k3GIU8YHzgFIk70byC"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/3Hw4tkwnvxONCSNMRJIYJe"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/1p08Vwv8Xk7nn9xhSPXwUC"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Are You Waiting?",
         "url": "https://open.spotify.com/album/79JrreaG0pEXLKBswpxaLt"
@@ -929,23 +961,7 @@
       "url": "https://open.spotify.com/track/0zTpfz7u6BQ7RUnP0ZbgSu"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW"
-      },
-      "artists": [
-        {
-          "name": "Glowe",
-          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
-        }
-      ],
-      "duration_ms": 128315,
-      "name": "Room Service",
-      "url": "https://open.spotify.com/track/3n3z00AYYXA9PpKjesESux"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
+      "added_at": "2024-12-13 00:01:15",
       "album": {
         "name": "Caravan",
         "url": "https://open.spotify.com/album/3GRnxf36SwDQH5BkM4veLE"

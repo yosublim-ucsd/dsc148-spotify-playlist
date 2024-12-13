@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,495 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,552 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 53 | [Walk It Off](https://open.spotify.com/track/6ZLoHmR3b5H6KJx21K7eWe) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:32 |
 | 54 | [Together Forever \(Big Sean & The Alchemist\)](https://open.spotify.com/track/38W7Dc1FqHiYgqWpoxrBd1) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Together Forever](https://open.spotify.com/album/0DpxvSIe0g2ccOTo6Poiu0) | 3:01 |
 | 55 | [Legend Freestyle](https://open.spotify.com/track/2WmNuJNylypvWXbO6vEkUq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Legend Freestyle](https://open.spotify.com/album/20CLrzjMW8RxPjp7n0sqf0) | 2:10 |
-| 56 | [Jill Scott \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/2MKGgh3tAB58wylg2J8CWc) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [P Got Game](https://open.spotify.com/album/7MpbP40TTUA6ZSysevS9AV) | 3:52 |
+| 56 | [Jill Scott \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/2MKGgh3tAB58wylg2J8CWc) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [P Got Game](https://open.spotify.com/album/7MpbP40TTUA6ZSysevS9AV) | 3:52 |
 | 57 | [Break The Cycle \(feat\. Charlie Wilson\)](https://open.spotify.com/track/6hZBgGGkBdYHpjj6MZeJtG) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:41 |
 | 58 | [Consequences](https://open.spotify.com/track/3INtLhPBhvpoH9BQtpzBTe) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Consequences](https://open.spotify.com/album/7tqRVA7szzPnBJIxFJ7KtQ) | 2:36 |
 | 59 | [BLAH](https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [BLAH](https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM) | 2:27 |

@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Quamina MP
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-451 songs - 23 hr 32 min
+452 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [I Am Aware](https://open.spotify.com/track/1ccMiMKN9IuomcCgoq1awJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [I Am Aware](https://open.spotify.com/album/2bop6myDfaClJxDnisq1xM) | 2:29 | 2024-11-08 | 2024-11-22 |
 | [I Don't Care](https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0) | [Kixx Alphah](https://open.spotify.com/artist/4QETJXRJe1ngdzifCC9D4a), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [I Don't Care](https://open.spotify.com/album/1HqSh0DlOiG2Sn9i5Hgdj2) | 3:01 | 2023-09-14 | 2023-10-13 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 | 2024-06-28 |
+| [I Want](https://open.spotify.com/track/3D2zP0zJA2GbpMlxBPfQWy) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [I Want](https://open.spotify.com/album/2Ij6kBFCbkv5u0U9xDqoNg) | 3:28 | 2024-12-13 |  |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 | 2024-10-05 |
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2023-11-24 |
@@ -234,7 +235,7 @@
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-11-04 | 2024-03-01 |
 | [Kyelensa](https://open.spotify.com/track/2I8sAeOtAAOHgM0nhmPYY1) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Kyelensa](https://open.spotify.com/album/2N9DdwbIf0xdXhIcEFc6HY) | 2:08 | 2024-06-28 | 2024-08-26 |
 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 | 2022-11-04 | 2024-03-01 |
-| [Lambo](https://open.spotify.com/track/5duYgMBVG34lli5y7bAgZ2) | [Rebo Tribe](https://open.spotify.com/artist/1aic2QokzI6fzud0UK1sso), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [McRay](https://open.spotify.com/artist/5YTdkwe6YuNmbQRccJjTPZ) | [Lambo](https://open.spotify.com/album/4SUPePY1YwAtvBryD3M8ce) | 2:48 | 2024-11-22 |  |
+| [Lambo](https://open.spotify.com/track/5duYgMBVG34lli5y7bAgZ2) | [Rebo Tribe](https://open.spotify.com/artist/1aic2QokzI6fzud0UK1sso), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [McRay](https://open.spotify.com/artist/5YTdkwe6YuNmbQRccJjTPZ) | [Lambo](https://open.spotify.com/album/4SUPePY1YwAtvBryD3M8ce) | 2:48 | 2024-11-22 | 2024-12-13 |
 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 | 2023-03-24 | 2023-04-21 |
 | [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 | 2023-05-12 | 2023-05-27 |
 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 |  |

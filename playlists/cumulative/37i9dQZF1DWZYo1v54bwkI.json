@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136000,
       "name": "Cherry Sky",
       "url": "https://open.spotify.com/track/1gtKcnTX5ZUcsekewgRTd4"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 184250,
       "name": "Diem Vesper Commendat",
       "url": "https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 181181,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162500,
       "name": "Leuchten",
       "url": "https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ"
@@ -3012,6 +3012,24 @@
       "duration_ms": 202285,
       "name": "Luminus Circle",
       "url": "https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq"
+    },
+    {
+      "album": {
+        "name": "Lunar Pines",
+        "url": "https://open.spotify.com/album/6wDIzJ86vYWgmZc6njDkRI"
+      },
+      "artists": [
+        {
+          "name": "R Skye",
+          "url": "https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lunar Pines",
+      "url": "https://open.spotify.com/track/3x3vfNdjCA7LIM1S3pnbx5"
     },
     {
       "album": {
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 195951,
       "name": "Numfashi",
       "url": "https://open.spotify.com/track/5IaczaQu93vHKEnrS1WVyo"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 197500,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p"
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 193076,
       "name": "Our Sky",
       "url": "https://open.spotify.com/track/1yncwCa1tcGKxaHAZuNdRL"
@@ -3854,7 +3872,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 179934,
       "name": "Perfecta paz",
       "url": "https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK"
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 226666,
       "name": "The Last Raindrop",
       "url": "https://open.spotify.com/track/122nfGTV3hCL0xchNbtbgH"
@@ -5424,7 +5442,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"

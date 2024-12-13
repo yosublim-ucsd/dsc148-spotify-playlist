@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > MUSTAAAAAAAAAAAAARRRRDDDDDD
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,781 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,175 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 37 | [Brandão](https://open.spotify.com/track/32H73VKBuvZbhVXPUZ1W9g) | [Dexter HMC](https://open.spotify.com/artist/68OXIn3MVQ2RMIhQRpBzuB) | [Brandão](https://open.spotify.com/album/63uzDRvQXrevcmSvccAL1Z) | 2:32 |
 | 38 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |
 | 39 | [BB](https://open.spotify.com/track/4DpyGhHSEcum0tJzkqiIxJ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 2:49 |
-| 40 | [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime \(bonus\)](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 |
+| 40 | [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 |
 | 41 | [Bella](https://open.spotify.com/track/1vELwZM3uBYWd8HrtddD4l) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 3:46 |
 | 42 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 |
 | 43 | [Laptop](https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 2:47 |

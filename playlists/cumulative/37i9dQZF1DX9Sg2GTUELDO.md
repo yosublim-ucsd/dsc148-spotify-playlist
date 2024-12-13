@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Cloud雲浩影
+> 感受超級女聲力量。Cover: GDJYB 雞蛋蒸肉餅
 
-424 songs - 1 day 1 hr 20 min
+428 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,12 +59,14 @@
 | [eyes on me.](https://open.spotify.com/track/5AVSje7hjvmKjxJEN3s26m) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [eyes on me.](https://open.spotify.com/album/20NvVPIJJkNPeXUR6Xcf1Q) | 3:30 | 2024-08-01 |  |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-06-27 |  |
 | [Feel You](https://open.spotify.com/track/7mDTBkgCx2TljaxYgiltbm) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Feel You](https://open.spotify.com/album/78AYWzkoCZArQ8HtlQqsQh) | 2:30 | 2024-06-27 |  |
+| [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 | 2024-12-12 |  |
 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 | 2024-06-27 |  |
 | [Girls Talk](https://open.spotify.com/track/1YSMKti9APTruhAFfzMf83) | [施匡翹](https://open.spotify.com/artist/7mvlTsqZNPZNN7i25IlgKF), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Girls Talk](https://open.spotify.com/album/5RCg2LNJkk4RvdqYGpNrds) | 3:00 | 2024-06-27 |  |
 | [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 | 2024-11-21 |  |
 | [Hallucinate](https://open.spotify.com/track/6oQgnzgchqKYcuRbSoVfIW) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [Hallucinate](https://open.spotify.com/album/3nCFfkMcJDOvNwIOUDOf8f) | 3:07 | 2024-06-27 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2024-06-27 |  |
 | [heng fa chuen.](https://open.spotify.com/track/5QuTmL5jwXsWmQ1EspO2rN) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [heng fa chuen.](https://open.spotify.com/album/1nBxVB6eQbJv7KxUTXoIgI) | 3:21 | 2024-06-27 |  |
+| [Hey Darling Darling](https://open.spotify.com/track/3Youu6DpYa0DtPSyKIj6JA) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [Hey Darling Darling](https://open.spotify.com/album/5uFueMQyVSmHDCP4HU8V2M) | 3:29 | 2024-12-12 |  |
 | [Hush](https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Blue Hour](https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG) | 3:32 | 2024-06-27 |  |
 | [I am All Alone](https://open.spotify.com/track/2Uw9M5MT2xXOxmPsXd8xvK) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [I am All Alone](https://open.spotify.com/album/5YMJ4zEgtRCyeUmDq6pSwS) | 4:04 | 2024-06-27 |  |
 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-05 |  |
@@ -319,6 +321,7 @@
 | [晚安](https://open.spotify.com/track/5B0dpesJPb574EQ1IZRaZI) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [晚安](https://open.spotify.com/album/1rLxg9V4iarogkTTVirOHy) | 2:21 | 2024-06-27 |  |
 | [暫時沒有名字](https://open.spotify.com/track/4btQWswfWNAYZGewc7Pcvp) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [WHAT'S INSIDE THE ROOM?](https://open.spotify.com/album/2NjR7iPutuICxDC92jZOog) | 3:04 | 2024-06-27 |  |
 | [最佳女團友](https://open.spotify.com/track/4mLb60a5HNxElBf7DmGzgL) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [最佳女團友](https://open.spotify.com/album/7z5DvPbUPAQ2cuDG63XF42) | 3:56 | 2024-06-27 |  |
+| [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 | 2024-12-12 |  |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 |  |
@@ -348,6 +351,7 @@
 | [灰夠](https://open.spotify.com/track/5DZhpdN5UGpNwRkBsltNfp) | [Stephanie Ho](https://open.spotify.com/artist/0eXGbuvMWBpHQ5GE56OCq2) | [灰夠](https://open.spotify.com/album/5GNLhJitwKeYaaptjTxFOP) | 3:31 | 2024-06-27 |  |
 | [灰燼](https://open.spotify.com/track/6FegPNbxnNF8j9SgKBI107) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [灰燼](https://open.spotify.com/album/0mxgFfOwmOL122cwdqe9dh) | 4:10 | 2024-06-27 |  |
 | [烈愛成灰](https://open.spotify.com/track/5rlgBe3jmze9lEV57WJOZH) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [烈愛成灰](https://open.spotify.com/album/4fpaEH9kOHaUrkxz2uiuww) | 3:50 | 2024-06-27 |  |
+| [無人陪我也很快樂](https://open.spotify.com/track/5fD3xG6FXsnVtSX2UogFpj) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [無人陪我也很快樂](https://open.spotify.com/album/1iZPj2lv7MBn7lGOz6doEA) | 3:07 | 2024-12-12 |  |
 | [無以名狀的痛](https://open.spotify.com/track/0fSR1kMoKPsMaPx75L0BUj) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [無以名狀的痛](https://open.spotify.com/album/0uW745gJbxn40xTd4fNHLm) | 3:54 | 2024-06-27 |  |
 | [無去無來](https://open.spotify.com/track/4rEpPzuIbNbvsqMiCG3HBF) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [無去無來](https://open.spotify.com/album/2B5tkTkmvfD1bynpwZCKSS) | 4:39 | 2024-06-27 |  |
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2024-06-27 |  |

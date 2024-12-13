@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: SCH
 
-3,002 songs - 6 day 15 hr 38 min
+3,003 songs - 6 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1217,6 +1217,7 @@
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2022-04-22 | 2022-05-07 |
 | [Je M'appelle \(feat\. Mig\) \- Remix](https://open.spotify.com/track/1XLYtsmgjWs2VdB6ElW4Cz) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Je M'appelle \(Remix\)](https://open.spotify.com/album/4T0ll8J58Uk8jH7hk0dkeH) | 2:19 | 2022-07-01 | 2022-07-16 |
 | [Je m'en vais](https://open.spotify.com/track/0pCZfLPMK4nOUix1GHM6X6) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Exode](https://open.spotify.com/album/5zF9PuO6n4vhwvgqhmcA4w) | 2:09 | 2023-03-03 | 2023-03-18 |
+| [Je me demande \(feat\. Louane\)](https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Je me demande \(feat\. Louane\)](https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ) | 3:15 | 2024-12-06 |  |
 | [Je me posais cette question](https://open.spotify.com/track/6vkAfdMweeC0KM2Kd4X1zX) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Je me posais cette question](https://open.spotify.com/album/1QfLjjst5n56CmDUuf1YsK) | 3:06 | 2022-06-10 | 2022-06-18 |
 | [Je me posais cette question \(Misstress Barbara remix\) \- edit version](https://open.spotify.com/track/6MxQWyyfiMlxQat5vTBrRV) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3), [misstress barbara](https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk) | [Je me posais cette question \(Misstress Barbara remix\)](https://open.spotify.com/album/1fJsXRqGsvQr8OhoazC5WS) | 3:27 | 2022-07-29 | 2022-08-27 |
 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 | 2022-03-11 | 2022-03-26 |
@@ -2498,7 +2499,7 @@
 | [SNATCH \(feat\. Koba LaD\)](https://open.spotify.com/track/088JreDbYFJB3aGgOqzSVV) | [Mac Tyer](https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [LA VIE DU TRIPLE OG](https://open.spotify.com/album/5pPNBUeFdgmVQGVYFU89oM) | 3:08 | 2024-05-03 | 2024-05-05 |
 | [Sobre](https://open.spotify.com/track/0aRsawP9pAtoSVkhDa5mH2) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Sobre / Une main lave l'autre](https://open.spotify.com/album/44fuePoU9if0aWrnIzY58A) | 3:06 | 2024-08-16 | 2024-08-24 |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-04-01 | 2022-04-09 |
-| [soleil](https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [P3GASE](https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe) | [soleil](https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x) | 2:39 | 2024-10-25 |  |
+| [soleil](https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [P3GASE](https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe) | [soleil](https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x) | 2:39 | 2024-10-25 | 2024-12-13 |
 | [Soleil](https://open.spotify.com/track/56bIoCRznztKCfrldIPcSR) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Soleil](https://open.spotify.com/album/0eRJixh4mMTzs4rTZklt2o) | 6:29 | 2024-03-22 | 2024-03-30 |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-02-04 | 2022-02-12 |
 | [Soleil des loups](https://open.spotify.com/track/6gkRmf7ppfbNNTXpXSYhwp) | [Beau Nectar](https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH), [Marie\-Clo](https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7), [éemi](https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P) | [Soleil des loups](https://open.spotify.com/album/2FwQG8y5MlKSTWayPmqTzG) | 3:22 | 2023-02-10 | 2023-02-25 |

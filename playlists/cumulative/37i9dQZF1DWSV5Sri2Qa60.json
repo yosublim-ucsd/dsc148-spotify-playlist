@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Getdown Services",
+  "description": "Where your new favourite bands are discovered. Cover: Witch Post",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 197027,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 172738,
       "name": "Cherish Me",
       "url": "https://open.spotify.com/track/2H9nygQI4OK0jsIlLkdhLS"
@@ -290,6 +290,24 @@
       "duration_ms": 240189,
       "name": "Chill For The Summer",
       "url": "https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd"
+    },
+    {
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168551,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
     },
     {
       "album": {
@@ -347,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Codroy",
+        "url": "https://open.spotify.com/album/1mnUShf1cPg9ol1TKHKmxc"
+      },
+      "artists": [
+        {
+          "name": "My Mercury",
+          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176454,
+      "name": "Codroy",
+      "url": "https://open.spotify.com/track/4Ico5UBpM7AnBpoq2XG9Bf"
+    },
+    {
+      "album": {
         "name": "colour photo",
         "url": "https://open.spotify.com/album/68q75hsPYIehvIar3lI9E0"
       },
@@ -358,7 +394,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 173173,
       "name": "colour photo",
       "url": "https://open.spotify.com/track/3lSarTYqSK7A9bnNwz1P61"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 160560,
       "name": "DIRTY COWBOY",
       "url": "https://open.spotify.com/track/1QqErLNmKBcxPubANPKKDu"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 227744,
       "name": "Heartbreak Town",
       "url": "https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S"
@@ -880,7 +916,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 186131,
       "name": "How I Wish I Was Cool",
       "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 213520,
       "name": "Innocence of Youth",
       "url": "https://open.spotify.com/track/4Gms5mWx5dWNjgCTzBFyRN"
@@ -1248,6 +1284,24 @@
       "duration_ms": 248906,
       "name": "MEASURE ME",
       "url": "https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF"
+    },
+    {
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216803,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I"
     },
     {
       "album": {
@@ -1550,7 +1604,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 262517,
       "name": "Selling Shovels",
       "url": "https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc"
@@ -1586,7 +1640,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 234962,
       "name": "Sick Of Your Face",
       "url": "https://open.spotify.com/track/3IvB0KPG48VZ6m410fSKhX"
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 172212,
       "name": "Situations",
       "url": "https://open.spotify.com/track/2FqWxImxyiH1i8cEvQEtXG"
@@ -1640,7 +1694,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 215483,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4"
@@ -1734,6 +1788,24 @@
       "duration_ms": 223173,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/0YkKuwaK92DxPooB3ZZviN"
+      },
+      "artists": [
+        {
+          "name": "Monobloc",
+          "url": "https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161549,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/2JekaBnRtjGOjyHWVBNbcZ"
     },
     {
       "album": {

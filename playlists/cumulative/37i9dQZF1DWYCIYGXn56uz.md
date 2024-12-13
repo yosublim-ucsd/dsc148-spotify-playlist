@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: centomilacarie
+> ✨giovane✨pop✨z✨ Cover: Vybes
 
-569 songs - 1 day 2 hr 25 min
+573 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-11-16 | 2024-01-04 |
 | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/track/3Uc05rNI4HSR8QAQo6cBdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/album/2rwmpOwFQGucSfJi7KZLrp) | 2:57 | 2024-01-18 | 2024-02-07 |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 | 2024-03-15 |
+| [Chiuso a chiave](https://open.spotify.com/track/6pb1BaU0sq7uNItXKLlDRH) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Chiuso a chiave](https://open.spotify.com/album/3mhEPFKqz11vRzge21yKEj) | 3:16 | 2024-12-12 |  |
 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 | 2023-06-15 | 2023-07-07 |
 | [Ci pensi mai?](https://open.spotify.com/track/4vir2LGu3hdVNbzJqdEago) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Ci pensi mai?](https://open.spotify.com/album/5ee4xYz1FK0VDC4bTARTiD) | 1:44 | 2023-10-19 | 2023-11-17 |
 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-05-15 | 2023-11-17 |
@@ -173,10 +174,11 @@
 | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K) | 2:57 | 2024-06-06 | 2024-07-05 |
 | [Fermarmi](https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH), [Natasha](https://open.spotify.com/artist/2pxZIannUq9lCH9ZEQoZZy) | [Fermarmi](https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ) | 2:26 | 2023-11-16 | 2023-12-08 |
 | [FIGHT CLUB](https://open.spotify.com/track/6EDyIAfRKxJTs4a8ROuRZd) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [FIGHT CLUB](https://open.spotify.com/album/66HO7R2mEK0QLCe93HCP1L) | 2:30 | 2024-03-06 | 2024-06-14 |
-| [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 |  |
+| [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 |  |
 | [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 | 2024-01-26 | 2024-04-19 |
 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2023-11-30 | 2024-07-05 |
 | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/track/5rPGJdfVxKCcVCjhZYeWQb) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/album/19bX6D0fiIYm01QxeNPehJ) | 3:01 | 2024-01-04 | 2024-01-19 |
+| [FINALMENTE](https://open.spotify.com/track/6bhLObRoJeIAp3s0QPGmlp) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [FINALMENTE](https://open.spotify.com/album/0VZ156wg0MKf6BUE3Q2a4f) | 2:34 | 2024-12-12 |  |
 | [Fine Settembre](https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [finiscimi](https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [finiscimi](https://open.spotify.com/album/0KPFdlJaeqxhaiif2mcXP3) | 3:11 | 2024-02-07 | 2024-04-05 |
 | [FINO ALLE 6](https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [FINO ALLE 6](https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX) | 2:50 | 2023-12-15 | 2024-02-02 |
@@ -193,6 +195,7 @@
 | [GABBIA](https://open.spotify.com/track/770BhoCEPO3hYMcPimc7gd) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [GABBIA](https://open.spotify.com/album/24VYr9FE4euZE49DmNaYRu) | 2:33 | 2024-10-10 |  |
 | [GENERAZIONE Z](https://open.spotify.com/track/2eIZENRFcJPL14ScPKwYO1) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [GENERAZIONE Z](https://open.spotify.com/album/4XQV30eFDzbjRgEjBHIEWL) | 2:51 | 2023-04-13 | 2023-04-28 |
 | [GENNAIO 24](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [GENNAIO 24](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 | 2024-01-11 | 2024-02-07 |
+| [GIGANTI](https://open.spotify.com/track/7BjIXg2QGwi2q9yPL6wiaI) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [GIGANTI](https://open.spotify.com/album/59Q4t9oZdSQkyGBZ7gSBU1) | 2:23 | 2024-12-12 |  |
 | [Giocattolo](https://open.spotify.com/track/4jsAmpTOebHF7aw9LK6I3z) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Giocattolo](https://open.spotify.com/album/1IGfJgpVrcUgQZa1zaC7HC) | 2:50 | 2023-04-13 | 2023-05-19 |
 | [GIORNATA DI MERDA](https://open.spotify.com/track/3ZSIiyETN5pxzicLQLROvd) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [GIORNATA DI MERDA](https://open.spotify.com/album/1EOmLJZ06IsRymHUr03qfv) | 2:32 | 2023-05-04 | 2023-05-16 |
 | [Giorni sbagliati \(Lividi\)](https://open.spotify.com/track/4ROdpHWguTl6K0gsBj5340) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giorni sbagliati \(Lividi\)](https://open.spotify.com/album/4b1fwv3O2lpC7fJcudIRDV) | 2:44 | 2023-06-15 | 2023-07-07 |
@@ -480,6 +483,7 @@
 | [SOLO STANOTTE](https://open.spotify.com/track/3w7U6hoes2QzFZB10DSp0h) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [SOLO STANOTTE](https://open.spotify.com/album/5nCdwVW2ylZVW9NhPET9pu) | 3:42 | 2024-03-06 | 2024-07-05 |
 | [Soraya](https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Soraya](https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo) | 3:00 | 2023-11-09 | 2024-02-02 |
 | [Sorprendente](https://open.spotify.com/track/1wv9Chm0IsQrIXX8ZF1wWJ) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Sorprendente](https://open.spotify.com/album/1oO2S8sc0hsaRHrZSdY0lq) | 3:05 | 2024-10-17 | 2024-11-29 |
+| [SORRIDI](https://open.spotify.com/track/2BJaqUsL1o6iTQ9hdE47Gt) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [SORRIDI](https://open.spotify.com/album/4Kp4ZIviktMIGIOK2eyfs8) | 2:38 | 2024-12-12 |  |
 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 | 2024-10-03 |  |
 | [Sottoterra](https://open.spotify.com/track/5DxNp6C2ft0DA8bqcIgDeB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Sottoterra](https://open.spotify.com/album/7pP33aj7Qqqp5CoDTcbokd) | 2:32 | 2023-03-23 | 2023-03-31 |
 | [SPAZZATURA](https://open.spotify.com/track/3aXhGOFc8XRsUoxdlftnsj) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH), [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [SPAZZATURA](https://open.spotify.com/album/70wjp9z48HRgGssIKlrmzC) | 3:03 | 2024-05-31 | 2024-06-14 |

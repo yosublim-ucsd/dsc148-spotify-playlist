@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Dylan Scott",
+  "description": "The cream of today's Country crop. Cover: Bayker Blankenship",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 222906,
       "name": "3 Feet Tall",
       "url": "https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2"
+    },
+    {
+      "album": {
+        "name": "300 Miles",
+        "url": "https://open.spotify.com/album/3tvtNfnAeN5u2dl7OR0SwY"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220794,
+      "name": "300 Miles",
+      "url": "https://open.spotify.com/track/3M182uK7kIAXnztrBiZETu"
     },
     {
       "album": {
@@ -3751,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Door's Unlocked",
+        "url": "https://open.spotify.com/album/7DGkM3PNJk7kJEmT7kDwJD"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160785,
+      "name": "Door's Unlocked",
+      "url": "https://open.spotify.com/track/0PkGSfdP0NgvTnYZQ04ZC6"
+    },
+    {
+      "album": {
         "name": "Down In Boots",
         "url": "https://open.spotify.com/album/6pa9tFzCCn7FQdobQ2Rdyk"
       },
@@ -4674,12 +4710,12 @@
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
           "name": "Luke Bryan",
           "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
       "date_added": "2024-12-05",
@@ -7736,7 +7772,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 204755,
       "name": "Let the Song Take You Home",
       "url": "https://open.spotify.com/track/4zH9yoqI7g5s2M2MSYglcI"
@@ -8242,7 +8278,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177320,
       "name": "Love a Little",
       "url": "https://open.spotify.com/track/3DubvXXA2SWGU2ovLYzLcy"
@@ -14250,7 +14286,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 195893,
       "name": "WASTED (with LECADE)",
       "url": "https://open.spotify.com/track/77qx5ktXohwk10nBVcTWLh"
@@ -14362,6 +14398,24 @@
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+    },
+    {
+      "album": {
+        "name": "Weekend Vibes",
+        "url": "https://open.spotify.com/album/2CFonaFpw4ls6nvX6VCppU"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Trio",
+          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159949,
+      "name": "Weekend Vibes",
+      "url": "https://open.spotify.com/track/5AZVEFn6jXfqIS02HZjdTy"
     },
     {
       "album": {

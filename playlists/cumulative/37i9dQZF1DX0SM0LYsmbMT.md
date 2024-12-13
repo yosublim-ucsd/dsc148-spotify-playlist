@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,293 songs - 6 day 19 hr 41 min
+4,295 songs - 6 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Atemporal](https://open.spotify.com/track/23rhkE21NH49osB34dQb5h) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Sixcube](https://open.spotify.com/artist/5HWrBwfAPQmLpIucF3OJZm) | [EXPEDITion 100 Vol.1: Figub Hadzi\-Jusuf](https://open.spotify.com/album/1HCbphtsXnuXwngrfKg7ow) | 2:24 | 2020-07-03 | 2021-02-01 |
 | [Atlantic Tides](https://open.spotify.com/track/3oTX7GJfo8wji3VitVYgTR) | [Tree60](https://open.spotify.com/artist/4NEA8zkFgdVHYWZXANEHA7), [Bastelbande](https://open.spotify.com/artist/3HeK9UOFPkzVoPWtkpvTKN) | [Winter Days](https://open.spotify.com/album/0LbFVIIblnRxuNUumxoob2) | 2:33 | 2021-02-20 | 2021-08-06 |
 | [Atlas](https://open.spotify.com/track/5oLivAilVwA2ajiJ5tREcG) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Atlas](https://open.spotify.com/album/73MhQfeeReJ3Ub94Z8fMx6) | 2:13 | 2024-08-22 | 2024-10-25 |
+| [Atmos](https://open.spotify.com/track/1WHENUmA1NGaeI0oRQAJkR) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Atmos](https://open.spotify.com/album/1s4Ev71OZWeZyFkHpFT8p3) | 2:17 | 2024-12-09 |  |
 | [Atrebor](https://open.spotify.com/track/6LoeOsb4PfpP0ph9iMsvUf) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Atrebor](https://open.spotify.com/album/0Kkj075WxX8LUr1WZahm4p) | 2:16 | 2020-01-07 | 2020-05-12 |
 | [atrovirens](https://open.spotify.com/track/2Tco4gCIfilRaIDDWeXRWC) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [atrovirens](https://open.spotify.com/album/0ubCSsu76zWSlDTWwop5Fi) | 1:42 | 2023-11-13 |  |
 | [Attitude](https://open.spotify.com/track/1n4uRWoIiZtCCHnJcEfcZb) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Attitude](https://open.spotify.com/album/35GBwSBxPbzHq6rMYzoIlk) | 2:13 | 2021-02-26 | 2021-06-04 |
@@ -1160,7 +1161,7 @@
 | [Eyes](https://open.spotify.com/track/29rJT5oRiP3R16IIMUPmEa) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Eyes](https://open.spotify.com/album/2F32FDxd65yRtig1SnDxDW) | 1:15 | 2019-10-11 | 2020-03-04 |
 | [Eyes Closed](https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Eyes Closed](https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui) | 2:10 | 2024-02-08 |  |
 | [Fab](https://open.spotify.com/track/4vCh3UHqSLo3anWjTAL6Sk) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Fab](https://open.spotify.com/album/1pF74NZhEcY20WPdmnYpvx) | 1:56 | 2022-12-22 | 2023-02-10 |
-| [Fable](https://open.spotify.com/track/2hsTchN3E8IIepsCdoszaE) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fable](https://open.spotify.com/album/2HLZ1WUOHUXfZczO2YUmQm) | 1:48 | 2024-10-24 |  |
+| [Fable](https://open.spotify.com/track/2hsTchN3E8IIepsCdoszaE) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fable](https://open.spotify.com/album/2HLZ1WUOHUXfZczO2YUmQm) | 1:48 | 2024-10-24 | 2024-12-13 |
 | [Fables Of Tales](https://open.spotify.com/track/4dS7fR0EjiwkUyO8WiPXt5) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Fables Of Tales](https://open.spotify.com/album/2eY5eQsQEB8K18S4NuwPcq) | 1:56 | 2022-11-17 | 2023-10-20 |
 | [Fables Of Tales](https://open.spotify.com/track/5763XSbc9rVp3N9l6O2Nu9) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Fables Of Tales](https://open.spotify.com/album/236Cesg6xaHoN4NP24cbi2) | 1:56 | 2021-05-21 | 2022-11-20 |
 | [Faces](https://open.spotify.com/track/5n16dEoZ1OwdpqOIK13m1X) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Faces](https://open.spotify.com/album/67qmIPe1qBlLUS4jSvm4nC) | 2:13 | 2019-05-26\* | 2019-06-15 |
@@ -1311,6 +1312,7 @@
 | [Fountain](https://open.spotify.com/track/0xpTusMpdpSDrbiOIUJasg) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Fountain](https://open.spotify.com/album/79XG9u55ANh05aekpsjavL) | 2:08 | 2019-07-26 | 2020-01-10 |
 | [Fountain](https://open.spotify.com/track/38yUUWoQefXRvMnEZnFoOE) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Fountain](https://open.spotify.com/album/04fginEuNswZlvc6qCx3JJ) | 2:27 | 2020-11-03 | 2021-02-20 |
 | [Fountains](https://open.spotify.com/track/20G4CO3TFsJEW6IsQE8tbS) | [Mølto](https://open.spotify.com/artist/3TdZze66L3TYfwEcsnsOkn) | [Fountains](https://open.spotify.com/album/1o9ElIsBlbLWvrE1QxL4k9) | 2:45 | 2020-05-25 | 2020-08-04 |
+| [Fragments](https://open.spotify.com/track/3BvyotmsH79tsYMTi1866L) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fragments](https://open.spotify.com/album/6Bqr1RCqqU6lagfTtBmBFG) | 2:10 | 2024-12-09 |  |
 | [Frames](https://open.spotify.com/track/0BfoavJtmsvPAF6kAJjCmc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [When I’m Gone](https://open.spotify.com/album/6LagCCZOhUIcnIOromUW6H) | 2:11 | 2021-10-01 | 2021-10-02 |
 | [frames](https://open.spotify.com/track/6ZOESqdBek9ODFJBx9GS6D) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [frames](https://open.spotify.com/album/6jBC0FUay41qtuo4XPo253) | 1:57 | 2019-06-22 | 2019-11-29 |
 | [Frank's Tune](https://open.spotify.com/track/6ATGPaFs4mMNemqPxyGteB) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Frank's Tune](https://open.spotify.com/album/5j3BQApLCKTlaFjsslOdlq) | 3:37 | 2021-11-19 | 2021-11-20 |
@@ -2518,7 +2520,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-12-13 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |

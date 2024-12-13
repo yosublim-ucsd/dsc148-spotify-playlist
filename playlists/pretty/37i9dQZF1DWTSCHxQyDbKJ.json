@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32374,
+  "num_followers": 32380,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 172879,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 290001,
       "name": "Ever New - Single Version",
       "url": "https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 172879,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Jennifer's Body",
-        "url": "https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 117430,
-      "name": "Jennifer's Body",
-      "url": "https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "GROWING UP ON THE INTERNET",
         "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Jennifer's Body",
+        "url": "https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 117430,
+      "name": "Jennifer's Body",
+      "url": "https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Bite The Hand / Kind of Love",
-        "url": "https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T"
+        "name": "Gelatinous Man",
+        "url": "https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy"
       },
       "artists": [
         {
-          "name": "Harry Strange",
-          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
         }
       ],
-      "duration_ms": 158969,
-      "name": "Bite The Hand",
-      "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
+      "duration_ms": 119706,
+      "name": "STRAP!",
+      "url": "https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Gelatinous Man",
-        "url": "https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy"
+        "name": "Bite The Hand / Kind of Love",
+        "url": "https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
         }
       ],
-      "duration_ms": 119706,
-      "name": "STRAP!",
-      "url": "https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x"
+      "duration_ms": 158969,
+      "name": "Bite The Hand",
+      "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7MNewcNr3iFbdlS9GC5e7L"
-      },
-      "artists": [
-        {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
-        }
-      ],
-      "duration_ms": 162011,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5TEmq0GBkDQEoJPKEyCudq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "HENRY'S REVENGE",
         "url": "https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264446,
       "name": "HENRY'S REVENGE",
       "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7MNewcNr3iFbdlS9GC5e7L"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "duration_ms": 162011,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5TEmq0GBkDQEoJPKEyCudq"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -943,6 +943,38 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Peanuts",
+        "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
       },
@@ -975,38 +1007,6 @@
       "duration_ms": 156151,
       "name": "BUMPED IN THE HEAD",
       "url": "https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Peanuts",
-        "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2024-12-04 12:15:00",

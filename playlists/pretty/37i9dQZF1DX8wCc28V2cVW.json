@@ -1,6 +1,6 @@
 {
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 197142,
+  "num_followers": 197180,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "KOKIA",
-          "url": "https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Noel's Theme - Final Journey -",
-      "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
         "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 135186,
       "name": "Why (CCFFVII Mix)",
       "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "KOKIA",
+          "url": "https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Noel's Theme - Final Journey -",
+      "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
         }
       ],
-      "duration_ms": 146946,
-      "name": "Mystic Ruins",
-      "url": "https://open.spotify.com/track/5dhvioIm30bVnirUaPSYHd"
+      "duration_ms": 165613,
+      "name": "Once more Dance?",
+      "url": "https://open.spotify.com/track/0bWkl7zJp2CLvE7BSPb71x"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "David Whitaker",
+          "url": "https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -1035,6 +1051,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u677e\u7bc4\u5eb7",
+          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+        }
+      ],
+      "duration_ms": 146946,
+      "name": "Mystic Ruins",
+      "url": "https://open.spotify.com/track/5dhvioIm30bVnirUaPSYHd"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
@@ -1047,38 +1079,6 @@
       "duration_ms": 405293,
       "name": "Yeul's Theme",
       "url": "https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u677e\u7bc4\u5eb7",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "Once more Dance?",
-      "url": "https://open.spotify.com/track/0bWkl7zJp2CLvE7BSPb71x"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "David Whitaker",
-          "url": "https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
-      },
-      "artists": [
-        {
-          "name": "\u9234\u6728 \u5149\u4eba",
-          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
-        },
-        {
-          "name": "Nobuo Uematsu",
-          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
-        }
-      ],
-      "duration_ms": 309786,
-      "name": "FFVII REMAKE: \u30af\u30ec\u30a4\u30b8\u30fc\u30e2\u30fc\u30bf\u30fc\u30b5\u30a4\u30af\u30eb -\u884c\u304f\u305c\u91ce\u90ce\u3069\u3082- (Lay Down Some Rubber - Let's Ride)",
-      "url": "https://open.spotify.com/track/6RPvYRSqPIxamuBFN8iJ8s"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY XIV Duality \uff5e Arrangement Album \uff5e",
         "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
       },
@@ -1187,6 +1167,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        }
+      ],
+      "duration_ms": 119586,
+      "name": "FFVII REMAKE: \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b9\u30d1\u30a4\u30e9\u30eb (Midnight Spiral)",
+      "url": "https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
         "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
@@ -1219,18 +1215,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
       "artists": [
         {
-          "name": "\u9234\u6728 \u5149\u4eba",
-          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+          "name": "ORIGA",
+          "url": "https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M"
         }
       ],
-      "duration_ms": 119586,
-      "name": "FFVII REMAKE: \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30b9\u30d1\u30a4\u30e9\u30eb (Midnight Spiral)",
-      "url": "https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS"
+      "duration_ms": 339200,
+      "name": "New Bodhum",
+      "url": "https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz"
     }
   ],
   "unique_name": "FINAL FANTASY",

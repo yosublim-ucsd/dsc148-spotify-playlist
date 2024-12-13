@@ -563,6 +563,32 @@
     },
     {
       "album": {
+        "name": "De nuevo en esto",
+        "url": "https://open.spotify.com/album/2JoL0e92xRfRw4nF3YVpqY"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Afromak",
+          "url": "https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "De nuevo en esto",
+      "url": "https://open.spotify.com/track/33iRwpRjqxK2vTSZ8zVx7m"
+    },
+    {
+      "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC"
       },
@@ -636,7 +662,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 144173,
       "name": "Disc\u00falpame",
       "url": "https://open.spotify.com/track/2F2gdhLf83hIJzyr7k45VD"
@@ -840,7 +866,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 234056,
       "name": "Emancipaci\u00f3n",
       "url": "https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK"
@@ -1668,7 +1694,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 217333,
       "name": "Mi Vida Es una Fiesta",
       "url": "https://open.spotify.com/track/4jTE7kXyAlVdIEJwp4Z421"
@@ -2571,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Solo Es Una",
+        "url": "https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210189,
+      "name": "Solo Es Una",
+      "url": "https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf"
+    },
+    {
+      "album": {
         "name": "Sosa",
         "url": "https://open.spotify.com/album/4T8OD9FrYA6EqJJqqfB77K"
       },
@@ -2732,6 +2776,28 @@
       "duration_ms": 195443,
       "name": "Tickete$",
       "url": "https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0"
+    },
+    {
+      "album": {
+        "name": "Til' I Die",
+        "url": "https://open.spotify.com/album/2HJ6jIrU5iLR3wPyVUGzuE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Noiseferatu",
+          "url": "https://open.spotify.com/artist/2Y3XKZXXGA7qPFrOjJqWgV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211199,
+      "name": "Til' I Die",
+      "url": "https://open.spotify.com/track/3qIbuE2eWFz5TJaahCnWBd"
     },
     {
       "album": {

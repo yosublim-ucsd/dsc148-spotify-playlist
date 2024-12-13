@@ -193,17 +193,13 @@
     },
     {
       "album": {
-        "name": "Super ego",
+        "name": "Super Ego",
         "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
       },
       "artists": [
         {
           "name": "Ego le cachalot",
           "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
-        },
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
         }
       ],
       "date_added": "2023-08-08",
@@ -414,7 +410,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 45266,
       "name": "F\u00e9touskitepl\u00e9",
       "url": "https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu"
@@ -504,7 +500,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 127840,
       "name": "Je suis d\u00e9go\u00fbt\u00e9(e)",
       "url": "https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf"
@@ -638,7 +634,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 143906,
       "name": "La p\u00e2te \u00e0 cr\u00eapes",
       "url": "https://open.spotify.com/track/26SFwCnNaToGJqiHFRfCsT"
@@ -656,7 +652,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192080,
       "name": "La r\u00e9volution des doudous",
       "url": "https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M"
@@ -1093,17 +1089,13 @@
     },
     {
       "album": {
-        "name": "Super ego",
+        "name": "Super Ego",
         "url": "https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2"
       },
       "artists": [
         {
           "name": "Ego le cachalot",
           "url": "https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX"
-        },
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
         }
       ],
       "date_added": "2023-08-08",

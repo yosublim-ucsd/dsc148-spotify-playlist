@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,286 likes - 588 songs - 1 day 10 hr 57 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,286 likes - 589 songs - 1 day 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -596,5 +596,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 586 | [Lo and Behold](https://open.spotify.com/track/3uUVSE3eycp19CyhHsqVFf) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:23 |
 | 587 | [Losin' End](https://open.spotify.com/track/6PpnHZnOOfekyIPDyNdBd3) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:45 |
 | 588 | [Small Faces](https://open.spotify.com/track/0gPGUvxqociR4KqWYUiJTB) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:42 |
+| 589 | [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 |
 
-Snapshot ID: `AAALxSvPeo2Sjs6FO6ZYRapW9wGe8qJz`
+Snapshot ID: `AAALxr1iCEU0C0nhXC2YnRwVEoxUbTmb`

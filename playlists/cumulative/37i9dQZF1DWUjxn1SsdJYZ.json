@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/54Bi619M9xPiUXfet1uGWM"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258191,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7DG8pcC5vSmElPX9H0vmuK"
+    },
+    {
+      "album": {
         "name": "All Three Eyes",
         "url": "https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi"
       },
@@ -1821,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "BIG BITCH",
+        "url": "https://open.spotify.com/album/4KeKKmQhLKvCAswnKwG75J"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "BIG BITCH",
+      "url": "https://open.spotify.com/track/3WIDie5Dn1c1eLDtEWOVmQ"
+    },
+    {
+      "album": {
         "name": "BIG BOP",
         "url": "https://open.spotify.com/album/7zD5a8hZ03r6cRSN3bVymJ"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 160000,
       "name": "Big Hoofa",
       "url": "https://open.spotify.com/track/51zUnfBUxOsnGNzrQ1ZW4z"
@@ -3061,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Catch 5 Freestyle",
+        "url": "https://open.spotify.com/album/0YV4kHPRoUkv8ZRVdNIkjq"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95195,
+      "name": "Catch 5 Freestyle",
+      "url": "https://open.spotify.com/track/6FuG6KNeiVFwBYLvkwtJaL"
+    },
+    {
+      "album": {
         "name": "CAUGHT IN THE MIX",
         "url": "https://open.spotify.com/album/7D4ECUIHlj6fq5wjaPKGSB"
       },
@@ -4236,6 +4290,32 @@
       "duration_ms": 174625,
       "name": "Designer Love",
       "url": "https://open.spotify.com/track/7HxMnQqgokBq8ORg7AKHRa"
+    },
+    {
+      "album": {
+        "name": "ISSUE ZERO",
+        "url": "https://open.spotify.com/album/7Dofl4Sln8r5OX2WmfNU22"
+      },
+      "artists": [
+        {
+          "name": "FLY BOY JACK",
+          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        },
+        {
+          "name": "JUJO",
+          "url": "https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "DESTINY - GOLD EDITION",
+      "url": "https://open.spotify.com/track/7riuOnxENwnjd8IAvmS8kq"
     },
     {
       "album": {
@@ -5843,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "Flip The Switch x Dibz",
+        "url": "https://open.spotify.com/album/37qtikYIdiSoWqzcsIPCCf"
+      },
+      "artists": [
+        {
+          "name": "Take Flight",
+          "url": "https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG"
+        },
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151613,
+      "name": "Flip The Switch x Dibz",
+      "url": "https://open.spotify.com/track/4zdwClUmo0zo20dX1SHX8Q"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/29QurwuGqYFvdW83Gy612J"
       },
@@ -6178,7 +6280,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 162523,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/7eDNvlCRvcrFnXJI1WaiSE"
@@ -6732,7 +6834,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166666,
       "name": "Give Me My Heart Back",
       "url": "https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr"
@@ -6750,7 +6852,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 123750,
       "name": "GLOBE HOPPER",
       "url": "https://open.spotify.com/track/2YNWB3AP8oNZI0uUbIAwYf"
@@ -8746,7 +8848,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 174315,
       "name": "IDK",
       "url": "https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR"
@@ -9902,7 +10004,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 218482,
       "name": "Life Of Mine",
       "url": "https://open.spotify.com/track/6blrGxyl11H4V2DDUdLIu8"
@@ -11782,7 +11884,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177782,
       "name": "my way (w/ Rico Nasty & Kanii)",
       "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
@@ -11804,6 +11906,28 @@
       "duration_ms": 128000,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/5O7ScVQ8HlIolMlyuahZSp"
+    },
+    {
+      "album": {
+        "name": "NA, NA, NA",
+        "url": "https://open.spotify.com/album/0gpFQtVMiIR6MGTS2WtcXS"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "NA, NA, NA",
+      "url": "https://open.spotify.com/track/4pS0TsM5VF8gccL04YVtiT"
     },
     {
       "album": {
@@ -14126,7 +14250,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 248252,
       "name": "PROVE 'EM WRONG",
       "url": "https://open.spotify.com/track/4Xu0UEjeBxVYPAlauEriqb"
@@ -15426,7 +15550,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 168947,
       "name": "Same Old 10",
       "url": "https://open.spotify.com/track/4tHafMwRTDNdwHFxbEPSB7"
@@ -16061,6 +16185,28 @@
     },
     {
       "album": {
+        "name": "Give Me That Feeling",
+        "url": "https://open.spotify.com/album/7LtmFcrr5y1mRbaNurcrai"
+      },
+      "artists": [
+        {
+          "name": "Sg. Nik",
+          "url": "https://open.spotify.com/artist/1kEtbhjtG8HAlLbGST9McW"
+        },
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134166,
+      "name": "Slide In My Dms",
+      "url": "https://open.spotify.com/track/44wX8t3Fjkm4O2BEyuYKu9"
+    },
+    {
+      "album": {
         "name": "SLIPPIN",
         "url": "https://open.spotify.com/album/0qMn6sRTvNXLk4IhtQ0Q0O"
       },
@@ -16146,7 +16292,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 192000,
       "name": "Smoke Sum",
       "url": "https://open.spotify.com/track/6UO2gUmNfbR4nZCg5eEQXz"
@@ -19704,7 +19850,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 119999,
       "name": "WHEN I",
       "url": "https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG"
@@ -19980,7 +20126,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 124255,
       "name": "WHO'S BACK?",
       "url": "https://open.spotify.com/track/2MpOA7dCkVgMtAFmMkAdyi"
@@ -20446,6 +20592,24 @@
       "duration_ms": 129729,
       "name": "you did it",
       "url": "https://open.spotify.com/track/6KyH0zFqNvPS4pH8znFODs"
+    },
+    {
+      "album": {
+        "name": "You Don't Know My Gang",
+        "url": "https://open.spotify.com/album/3R2wlY1QwZGWV5kcq2jX06"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150455,
+      "name": "You Don't Know My Gang",
+      "url": "https://open.spotify.com/track/1fPUEFUqA8aJkOlyZcXrlM"
     },
     {
       "album": {

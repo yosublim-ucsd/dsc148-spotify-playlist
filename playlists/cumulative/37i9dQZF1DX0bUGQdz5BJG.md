@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: The Castellows
 
-2,638 songs - 5 day 21 hr 51 min
+2,639 songs - 5 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,6 +1085,7 @@
 | [I Don't Wanna Dance](https://open.spotify.com/track/3syD5U9rWbZEc6UjnmY1eS) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Wanna Dance](https://open.spotify.com/album/61PJPSTcrgTDTJsHXKgJLq) | 3:17 | 2024-06-01 | 2024-08-10 |
 | [I Don't Wanna Hear About It \(feat\. Brendan Walter\)](https://open.spotify.com/track/1GNtxMHyg3mOcFfjQ5wzNu) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp), [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [I Don't Wanna Hear About It \(feat\. Brendan Walter\)](https://open.spotify.com/album/02iC7ALKCzSTqEi6Z5gSSu) | 4:42 | 2024-02-16 | 2024-06-15 |
 | [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 | 2022-07-23 |
+| [I Got A New One](https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922) | 2:25 | 2024-12-12 |  |
 | [I Got A Problem](https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK) | 2:27 | 2023-10-27 | 2023-11-18 |
 | [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 | 2023-09-08 | 2023-11-03 |
 | [I Got Friends That Do \(feat\. Blake Shelton\)](https://open.spotify.com/track/1s2Vi3OgIbUJMUogVPx61p) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Good Day for Living](https://open.spotify.com/album/4lAQ4LkRAI0sFFEO3YGN6e) | 3:15 | 2022-02-11 | 2022-04-09 |

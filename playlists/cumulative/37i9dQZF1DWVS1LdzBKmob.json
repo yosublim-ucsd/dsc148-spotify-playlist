@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/7wy199GErD91BVSnEvZklN"
+      },
+      "artists": [
+        {
+          "name": "Ephermal Nights",
+          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193326,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/0qpZCuuBjyXa5tFgHp1uTb"
+    },
+    {
+      "album": {
         "name": "Expanded mind",
         "url": "https://open.spotify.com/album/5Av1l8FbtRh45pFbS3FwyU"
       },
@@ -1475,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Noctilucent",
+        "url": "https://open.spotify.com/album/0GueoJsCl18CjDpVSCUTi4"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140833,
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/3m8aAgxiL7SMOTPym9s5Gx"
+    },
+    {
+      "album": {
         "name": "Optimistic Outlook",
         "url": "https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1"
       },
@@ -1742,6 +1778,24 @@
       "duration_ms": 360045,
       "name": "Restore the Flow (Meditation)",
       "url": "https://open.spotify.com/track/5qS02tokBMbvk4ybXD4jlQ"
+    },
+    {
+      "album": {
+        "name": "River Breath",
+        "url": "https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "River Breath",
+      "url": "https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55"
     },
     {
       "album": {

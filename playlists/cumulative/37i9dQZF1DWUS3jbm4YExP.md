@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-740 songs - 2 day 4 hr 55 min
+741 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-06-27 |  |
 | [Good Blood](https://open.spotify.com/track/0IhKRPBbC5vm3XIXT6bOtW) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Good Blood](https://open.spotify.com/album/3m0uBQjlAC1dFyFmuYtKXd) | 5:15 | 2024-01-11 | 2024-03-06 |
 | [Gotoku Lemon](https://open.spotify.com/track/77b6MAvDeH0NILyuFgcQw7) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 3:48 | 2024-01-03 | 2024-05-03 |
+| [Granturismo](https://open.spotify.com/track/3eAcrPW8owYHJ7oAw9bDgf) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Granturismo](https://open.spotify.com/album/2TzbuUeYWupjLK7OYdGOqk) | 2:43 | 2024-12-12 |  |
 | [Gravity](https://open.spotify.com/track/10sPG1ooEf3tBsFeDAmv7K) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Roy Ayers JID002](https://open.spotify.com/album/7e1tZm29M23DLNgPtzFUvr) | 3:26 | 2021-10-06 | 2022-07-29 |
 | [Gringofire In Ethiopia](https://open.spotify.com/track/14pNRBawPwR34gawYSX5tb) | [Eugene Toale](https://open.spotify.com/artist/7GKSBdcXE1BHkRYoTjrIdH) | [Gringofire In Ethiopia](https://open.spotify.com/album/1AQ3PIkaxvB94OX2cUHqHl) | 4:46 | 2021-10-06 | 2022-04-15 |
 | [Guajirando](https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Guajirando](https://open.spotify.com/album/18wajZarjucF8FNEExQdGY) | 3:58 | 2024-01-05 | 2024-06-24 |
@@ -670,7 +671,7 @@
 | [Too Many Kicks](https://open.spotify.com/track/3G1xg3Ak9AAoLtf19hd5SZ) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Moving Forward](https://open.spotify.com/album/5HFOwW2XFKuvxBAygK7pBE) | 5:25 | 2021-10-06 | 2022-04-17 |
 | [Too Many Kicks](https://open.spotify.com/track/3xEhK82PZD2xqdeUN9heH5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Moving Forward](https://open.spotify.com/album/3YCmrfPI8U7cW56Dhv9PDJ) | 5:25 | 2021-10-06 | 2022-08-06 |
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |
-| [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 |  |
+| [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2024-12-13 |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
 | [Tropical Man](https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Tropical Man](https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW) | 3:46 | 2024-05-10 |  |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-23 |  |

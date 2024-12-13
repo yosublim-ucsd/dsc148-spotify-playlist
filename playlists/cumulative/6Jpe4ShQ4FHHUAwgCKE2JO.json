@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Neotheater",
+        "url": "https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223947,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry"
+    },
+    {
+      "album": {
         "name": "The Builders and the Butchers",
         "url": "https://open.spotify.com/album/6SS996f1ts4ue2txHeDGyq"
       },

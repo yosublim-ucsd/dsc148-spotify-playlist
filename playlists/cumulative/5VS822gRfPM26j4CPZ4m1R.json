@@ -6537,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "Nothing Changes",
+        "url": "https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ"
+      },
+      "artists": [
+        {
+          "name": "Soft Crystals",
+          "url": "https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8"
+    },
+    {
+      "album": {
         "name": "Aperana",
         "url": "https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ"
       },

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAxjNo8nRvTFZVmZ/pXA1X4oGVqdEo",
+  "snapshot_id": "AAAAzONPPFcK7YTidrpMgaY1Pn6xybWd",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -2419,6 +2419,106 @@
       "duration_ms": 219186,
       "name": "Child's Play",
       "url": "https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP"
+    },
+    {
+      "added_at": "2024-12-12 05:38:01",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
+    },
+    {
+      "added_at": "2024-12-12 05:45:09",
+      "album": {
+        "name": "RAZZMATAZZ",
+        "url": "https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 182811,
+      "name": "Mad IQs",
+      "url": "https://open.spotify.com/track/4dTM35eH5nmPRZcQ2ltlKr"
+    },
+    {
+      "added_at": "2024-12-12 05:47:33",
+      "album": {
+        "name": "RAZZMATAZZ",
+        "url": "https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 187212,
+      "name": "Sugar Pills",
+      "url": "https://open.spotify.com/track/6aAW8QdserZUNAXlaoZup0"
+    },
+    {
+      "added_at": "2024-12-12 05:51:20",
+      "album": {
+        "name": "Lights Go Down",
+        "url": "https://open.spotify.com/album/3icLv2hzjjyuN64Da4eqft"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 204331,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6cHqkwciknLxCjCipwQRGy"
+    },
+    {
+      "added_at": "2024-12-12 05:54:23",
+      "album": {
+        "name": "1981 Extended Play",
+        "url": "https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Social Climb",
+      "url": "https://open.spotify.com/track/3xUsaaH6oCG1w8kD1oGhGW"
+    },
+    {
+      "added_at": "2024-12-12 09:31:05",
+      "album": {
+        "name": "17 Deutsche T\u00e4nze",
+        "url": "https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH"
+      },
+      "artists": [
+        {
+          "name": "Rotfront",
+          "url": "https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz"
+        },
+        {
+          "name": "Flo Mega",
+          "url": "https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j"
+        }
+      ],
+      "duration_ms": 188219,
+      "name": "Everyone Speaks Russian",
+      "url": "https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw"
     }
   ],
   "unique_name": "Questionable Bops",

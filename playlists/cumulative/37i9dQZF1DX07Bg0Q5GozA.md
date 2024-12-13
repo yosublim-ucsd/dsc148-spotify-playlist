@@ -2,9 +2,9 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Moscoman, COMA
+> New music off the beaten track\. Cover: Elodie Gervaise
 
-967 songs - 2 day 17 hr 4 min
+969 songs - 2 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Both Of Us](https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 5:53 | 2022-12-30 | 2023-01-02 |
 | [Bourgie', Bourgie'](https://open.spotify.com/track/3nyKkvzqkPJHqBBELbDHQD) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:39 | 2022-12-30 | 2023-01-02 |
 | [Boxing In Slow Motion \- Mixed](https://open.spotify.com/track/60wdi829jDtJ0bLfL35fut) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [fabric presents The Streets \(Mixed\)](https://open.spotify.com/album/1XbB5VkjQlPMsSXKPnzahY) | 3:07 | 2024-07-04 | 2024-07-27 |
-| [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 |  |
+| [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 | 2024-12-13 |
 | [Brain Pills](https://open.spotify.com/track/51BmnvazYmY5Tu3fJdFeSY) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Brain Pills](https://open.spotify.com/album/1CM1RQpEYTQjr5LGkGvgq4) | 3:10 | 2024-01-11 | 2024-02-09 |
 | [Breathe In, Breathe Out](https://open.spotify.com/track/2tf69mAQzbEupQygqyO0a2) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4bTmFYuvM6UeFiyT12aSww) | 4:26 | 2024-01-11 | 2024-02-09 |
 | [Bright Sunny Day](https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [The Darker The Shadow The Brighter The Light](https://open.spotify.com/album/1RH7DhJJ0kUDm5zjv7KOzd) | 3:20 | 2023-10-12 | 2023-11-10 |
@@ -186,12 +186,13 @@
 | [Deep Scene](https://open.spotify.com/track/3hbLGYn8bCeOMhFoknul7k) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Deep Scene](https://open.spotify.com/album/0nJr15igzbLH7s1AsAa2pn) | 4:19 | 2024-07-18 | 2024-08-09 |
 | [Destiny](https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Findia](https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz) | [Harmonics](https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00) | 4:12 | 2024-07-11 | 2024-07-19 |
 | [Deuteronomy \- Original Mix](https://open.spotify.com/track/0OFg9XrBTDowg4VCffFJjm) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs) | [TP Traxx 1st Edition](https://open.spotify.com/album/0a3V1HjkCEmSgTsmbEt7QC) | 6:57 | 2022-12-30 | 2023-01-02 |
-| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-01 |  |
+| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-01 | 2024-12-13 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-06 | 2024-07-19 |
 | [DEVOTION \- Flaurese Remix](https://open.spotify.com/track/1dP7yOoPiuBYTTu9ZLZetj) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [DEVOTION \(Flaurese Remix\)](https://open.spotify.com/album/0lcvCbKH3MQJtn00aPw7Zc) | 4:21 | 2023-03-09 | 2023-04-14 |
 | [Diary](https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Diary](https://open.spotify.com/album/1s89nUu7cpFopQ2KCkhe5m) | 2:59 | 2023-06-22 | 2023-07-07 |
 | [Did I \- Peaches Remix](https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Did I \(Peaches Remix\)](https://open.spotify.com/album/3BqnPyBlh9nYZDwtJ0EMel) | 3:34 | 2024-04-02 | 2024-04-26 |
 | [Die Maschine](https://open.spotify.com/track/1Q2uov0aJcwzcGbDr1aDT0) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Die Maschine](https://open.spotify.com/album/6a0AmCr0hnHYZp9FzQMw2i) | 8:47 | 2024-09-05 |  |
+| [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 | 2024-12-12 |  |
 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 | 2023-01-19 | 2023-03-03 |
 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-28 | 2024-04-26 |
 | [Disappear](https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law) | [Solmai](https://open.spotify.com/artist/7s4j2Ibf6aF6SxugL4iCMq), [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Disappear](https://open.spotify.com/album/1XlpzFMMJZuYrkgi6u8yZ4) | 3:03 | 2023-03-09 | 2023-05-12 |
@@ -741,6 +742,7 @@
 | [should sleep](https://open.spotify.com/track/0YLbaLQBJJoikptNFupLTZ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/5eCz5c5lblaQjaH0lhrang) | 4:27 | 2024-03-14 | 2024-03-22 |
 | [should sleep](https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI) | 4:29 | 2023-09-14 | 2023-09-24 |
 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 | 2023-09-21 | 2024-03-17 |
+| [Sickening You Are Divine](https://open.spotify.com/track/1xxpNzDwh2uY2imcb1IwNS) | [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB) | [Exosoul \[of Anaïnja\]](https://open.spotify.com/album/79AFgPV8mpa1WVlwLPowb4) | 3:12 | 2024-12-12 |  |
 | [Signs](https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Signs](https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq) | 3:19 | 2024-10-24 |  |
 | [Silhouette](https://open.spotify.com/track/38e50yunt7UDHHjCO2Pk2y) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Silhouette](https://open.spotify.com/album/0RevyVYNVfrV19T055kbyU) | 4:09 | 2023-10-26 | 2024-04-26 |
 | [Silly Walk](https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Silly Walk](https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr) | 3:21 | 2023-07-20 | 2023-08-18 |

@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/6tdMCe7lkHVunZNiWhf3Ir"
+      },
+      "artists": [
+        {
+          "name": "Loe Vida",
+          "url": "https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182122,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/6KLiC9xdmpnmAnymiHjHyW"
+    },
+    {
+      "album": {
         "name": "Claridade",
         "url": "https://open.spotify.com/album/0MgNA8u768eZPlDk1fCN4f"
       },
@@ -1550,6 +1568,24 @@
       "duration_ms": 209274,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE"
+    },
+    {
+      "album": {
+        "name": "Equations",
+        "url": "https://open.spotify.com/album/4Tq84vWrMXIw3UVaMIbvWW"
+      },
+      "artists": [
+        {
+          "name": "Aitne",
+          "url": "https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Equations",
+      "url": "https://open.spotify.com/track/7tYAhctWvmEg5d12ZALVDu"
     },
     {
       "album": {
@@ -2472,6 +2508,24 @@
       "duration_ms": 157014,
       "name": "Kip",
       "url": "https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t"
+    },
+    {
+      "album": {
+        "name": "Koan",
+        "url": "https://open.spotify.com/album/0d3F6UI4I1QMoRMsa853ah"
+      },
+      "artists": [
+        {
+          "name": "Photoautotroph",
+          "url": "https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142981,
+      "name": "Koan",
+      "url": "https://open.spotify.com/track/6CISHs00uQXeYxJIYFFIwR"
     },
     {
       "album": {
@@ -4438,6 +4492,24 @@
       "duration_ms": 160000,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/5dpp88KSMqGw1uO0L1cWn6"
+    },
+    {
+      "album": {
+        "name": "Somnielle",
+        "url": "https://open.spotify.com/album/30fXWdLu5Hgo8FHzx3K16M"
+      },
+      "artists": [
+        {
+          "name": "Joudinoire",
+          "url": "https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Somnielle",
+      "url": "https://open.spotify.com/track/2qptIMekh0RwJonUXWBgXO"
     },
     {
       "album": {

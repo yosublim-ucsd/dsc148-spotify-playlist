@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 145141,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 155733,
       "name": "Atlav\u00edk",
       "url": "https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh"
@@ -330,6 +330,24 @@
       "duration_ms": 95328,
       "name": "breath II",
       "url": "https://open.spotify.com/track/4CrIobpPe0rRk9vw4IhxbR"
+    },
+    {
+      "album": {
+        "name": "breath V - f\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/4Cvtk2xvjx3Nh26hjoEzQa"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "breath V - f\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU"
     },
     {
       "album": {
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207168,
       "name": "Gentle Serenity",
       "url": "https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 149000,
       "name": "Infinite Sustain",
       "url": "https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5"
@@ -2919,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "St. Bavo 3",
+        "url": "https://open.spotify.com/album/2Iv2GFqeCmZmYJjkUbpD3z"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "St. Bavo 3",
+      "url": "https://open.spotify.com/track/3YoghQ0AW7TTsitOJ2VOEw"
+    },
+    {
+      "album": {
         "name": "Staying Safe",
         "url": "https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ"
       },
@@ -3038,7 +3074,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167921,
       "name": "Summer Memories",
       "url": "https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167740,
       "name": "The Day After Tomorrow",
       "url": "https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP"
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 121839,
       "name": "The Shores",
       "url": "https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw"
@@ -3857,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "White Pine Walk",
+        "url": "https://open.spotify.com/album/6iJ81bctWngX1dka5Wmj1x"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64620,
+      "name": "White Pine Walk",
+      "url": "https://open.spotify.com/track/3ufE58IyU7sQ3eVgeO0xu2"
+    },
+    {
+      "album": {
         "name": "White Waves",
         "url": "https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk"
       },
@@ -3922,10 +3976,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177937,
       "name": "Wondermoon",
       "url": "https://open.spotify.com/track/2HkggkwifZ4BstTMCN7i6T"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "You Name It (Paris)",
+      "url": "https://open.spotify.com/track/10m6I0dBFWiIrIC1ucVhic"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXrDQedVqw6q"

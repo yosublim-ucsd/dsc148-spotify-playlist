@@ -21783,6 +21783,32 @@
     },
     {
       "album": {
+        "name": "The Thing (MANQO Remix)",
+        "url": "https://open.spotify.com/album/6iaGxiNkzisJGD1wktLJ4X"
+      },
+      "artists": [
+        {
+          "name": "Da Mike",
+          "url": "https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "MANQO",
+          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324080,
+      "name": "The Thing - MANQO Remix",
+      "url": "https://open.spotify.com/track/5LHfDzjTDVzLSqZEZWExzP"
+    },
+    {
+      "album": {
         "name": "The Warrior",
         "url": "https://open.spotify.com/album/3QdCZ7kmJUZschpKqbDLCJ"
       },

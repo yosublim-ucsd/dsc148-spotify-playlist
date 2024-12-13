@@ -3835,6 +3835,36 @@
     },
     {
       "album": {
+        "name": "Saigon By Night",
+        "url": "https://open.spotify.com/album/1uSrDsNPyoUmXUyMjWpB0u"
+      },
+      "artists": [
+        {
+          "name": "RLS DASWALLO",
+          "url": "https://open.spotify.com/artist/19KDYfXcvqPvFN4oDfP1Hl"
+        },
+        {
+          "name": "Rtee",
+          "url": "https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7"
+        },
+        {
+          "name": "AIGHT D",
+          "url": "https://open.spotify.com/artist/3fRoQYJ4BuVmWw3FjrkWjG"
+        },
+        {
+          "name": "MinhLai",
+          "url": "https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "OUTTAMOVE",
+      "url": "https://open.spotify.com/track/14Mh7VUXNukK5LQn5WzOKt"
+    },
+    {
+      "album": {
         "name": "Phi H\u00e0nh Gia",
         "url": "https://open.spotify.com/album/1a90Y8qFysuGSbj1q5N4Ox"
       },
@@ -5520,7 +5550,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 252892,
       "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
       "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"

@@ -1135,6 +1135,32 @@
     },
     {
       "album": {
+        "name": "Genoeg Is Genoeg",
+        "url": "https://open.spotify.com/album/4GIfSQ5xj6BSyKamxZ91PL"
+      },
+      "artists": [
+        {
+          "name": "YB Benzy",
+          "url": "https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm"
+        },
+        {
+          "name": "Kerwie G",
+          "url": "https://open.spotify.com/artist/5OMLXAxriARKKRScLhAfaM"
+        },
+        {
+          "name": "Tersia",
+          "url": "https://open.spotify.com/artist/5skhlAsCzFameqcg6uYtRl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217443,
+      "name": "Genoeg Is Genoeg",
+      "url": "https://open.spotify.com/track/7pEGggMm0gKzeDgpeuXPru"
+    },
+    {
+      "album": {
         "name": "Get This Bag (feat. Shouldbeyuang)",
         "url": "https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH"
       },
@@ -1176,6 +1202,24 @@
       "duration_ms": 123402,
       "name": "Ghetto Boi",
       "url": "https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK"
+    },
+    {
+      "album": {
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
+      },
+      "artists": [
+        {
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131813,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
     },
     {
       "album": {
@@ -1776,7 +1820,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 181812,
       "name": "Laaste Hond",
       "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
@@ -2184,7 +2228,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 196216,
       "name": "Nigel Hulle",
       "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"

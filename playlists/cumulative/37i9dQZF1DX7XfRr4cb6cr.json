@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Impossible Light",
+        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
+      },
+      "artists": [
+        {
+          "name": "Uboa",
+          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350968,
+      "name": "Endocrine Disruptor",
+      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1504,6 +1522,28 @@
       "duration_ms": 236692,
       "name": "Genesis (Version)",
       "url": "https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he"
+    },
+    {
+      "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Gentle Hum",
+      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
     },
     {
       "album": {
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 368970,
       "name": "In Time You Will",
       "url": "https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63"
@@ -4375,6 +4415,28 @@
     },
     {
       "album": {
+        "name": "Mirror Variations",
+        "url": "https://open.spotify.com/album/7B0oJoL6l1rpITEmKBJNVt"
+      },
+      "artists": [
+        {
+          "name": "Trio Ramberget",
+          "url": "https://open.spotify.com/artist/6OvGm5sTZ04mRQu9eZ3yOJ"
+        },
+        {
+          "name": "Matti Bye",
+          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641493,
+      "name": "Tempera/Tempera Convex",
+      "url": "https://open.spotify.com/track/30tLD0h5LswvKoZCbdABsP"
+    },
+    {
+      "album": {
         "name": "Sleeping Sculptures",
         "url": "https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq"
       },
@@ -5002,7 +5064,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 457639,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi"
@@ -5288,7 +5350,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 236750,
       "name": "Vow",
       "url": "https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX"
@@ -5368,7 +5430,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 156879,
       "name": "Where Shadows Cross",
       "url": "https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK"
@@ -5470,6 +5532,24 @@
       "duration_ms": 309461,
       "name": "Woods of Admittance",
       "url": "https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B"
+    },
+    {
+      "album": {
+        "name": "Xerrox, Vol.5",
+        "url": "https://open.spotify.com/album/0nXbVpD63ylK8ZfrdELwlb"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Xerrox Ascent II",
+      "url": "https://open.spotify.com/track/0CxJ9rx38Ie7NGO3YEEPgw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Fuego Sintana, G-TECH 2bit, Tyler The Creator, and more...",
+  "description": "Only the hottest Hip Hop from Fuego Sintana, Maglera Doe Boy, Tyler The Creator, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 151250,
       "name": "On Dat Money (with Cardi B)",
       "url": "https://open.spotify.com/track/4uDc2WS8rwMUc0UfYnB3rg"
@@ -5728,6 +5728,36 @@
       "duration_ms": 189023,
       "name": "south",
       "url": "https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS"
+    },
+    {
+      "album": {
+        "name": "MAGLERA TAPES",
+        "url": "https://open.spotify.com/album/7HWGDAaDmVM4WhSNcb0Atp"
+      },
+      "artists": [
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "ONDELIVE",
+          "url": "https://open.spotify.com/artist/4TvfKR50RpAHjQdMKTqL8t"
+        },
+        {
+          "name": "WNDRSZN",
+          "url": "https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Speak Love (feat. WNDRSZN & Marcus Harvey)",
+      "url": "https://open.spotify.com/track/0OSFXMr8KKhkzKJJ0kH9Cv"
     },
     {
       "album": {

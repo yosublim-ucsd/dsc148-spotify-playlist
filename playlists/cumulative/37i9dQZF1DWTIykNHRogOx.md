@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Solann
+> Le meilleur de la chanson française actuelle\. Photo : Noé Preszow
 
 111 songs - 6 hr 4 min
 

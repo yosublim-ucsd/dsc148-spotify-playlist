@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 168186,
       "name": "Come Thou Fount of Every Blessing",
       "url": "https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo"
@@ -632,6 +632,24 @@
       "duration_ms": 145048,
       "name": "Embraced by White",
       "url": "https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4"
+    },
+    {
+      "album": {
+        "name": "Frosty Evening Waltz",
+        "url": "https://open.spotify.com/album/4noS1xNy3Na50wjuEMKZti"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Frost",
+          "url": "https://open.spotify.com/artist/0PVSPOYn9HjFfLG1f75rgS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Frosty Evening Waltz",
+      "url": "https://open.spotify.com/track/7g8u89R9JiAPZtOOKlRgmg"
     },
     {
       "album": {
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 365906,
       "name": "In Dulce Jubilo",
       "url": "https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn"
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142029,
       "name": "Misteltoe",
       "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
@@ -1939,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Snow Painting the View",
+        "url": "https://open.spotify.com/album/4mpxUFtEUKOG3m1BPcpTXy"
+      },
+      "artists": [
+        {
+          "name": "Brilliant Supervision",
+          "url": "https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167294,
+      "name": "Snow Painting the View",
+      "url": "https://open.spotify.com/track/6GShrBUWZ30exiGCVVoWo2"
+    },
+    {
+      "album": {
         "name": "Somewhere In My Memory",
         "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
       },
@@ -2484,6 +2520,24 @@
       "duration_ms": 130263,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
+    },
+    {
+      "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/0gIaPB4dF1Oxfxpm6DbvzS"
+      },
+      "artists": [
+        {
+          "name": "Voluntary Dreamers",
+          "url": "https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145363,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1L6GnWMSzeNRQWQYmeITQV"
     },
     {
       "album": {

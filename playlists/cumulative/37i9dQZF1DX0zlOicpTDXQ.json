@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
         "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
         "url": "https://open.spotify.com/album/6pJJt55QFmYnoFkKUGSiUj"
       },
@@ -1244,6 +1262,28 @@
       "duration_ms": 113431,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/59Je1JnCLGs6PvdvDxZ6ln"
+    },
+    {
+      "album": {
+        "name": "8 Days of Christmas (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6B3Ad63nboSVgrnuFTwoo9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Silent Night (feat. Beyonc\u00e9 Knowles)",
+      "url": "https://open.spotify.com/track/4MeYZ3jpjtDlHKZtVVUYqW"
     },
     {
       "album": {

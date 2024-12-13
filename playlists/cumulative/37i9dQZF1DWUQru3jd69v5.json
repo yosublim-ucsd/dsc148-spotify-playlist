@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Gheba in cover della playlist con la nuova generazione del rap italiano. ",
+  "description": "Ele A in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 185760,
       "name": "24/7",
       "url": "https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 89670,
       "name": "900",
       "url": "https://open.spotify.com/track/70YXyETWAHkZYsiUbMchNp"
@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/2JBeITbHiwTPWAi5Pofqjl"
+      },
+      "artists": [
+        {
+          "name": "Malsho",
+          "url": "https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132565,
+      "name": "BADMAN",
+      "url": "https://open.spotify.com/track/0vtdvW8tXcuLHFk7sGfJZx"
+    },
+    {
+      "album": {
         "name": "BAG VUITTON",
         "url": "https://open.spotify.com/album/2eoMLNSTUfQpOS9mthYgd6"
       },
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125490,
       "name": "Bananane",
       "url": "https://open.spotify.com/track/6iWfKI8rJ8XEPYArYkanMr"
@@ -3425,6 +3443,32 @@
     },
     {
       "album": {
+        "name": "SOLO RUMORS",
+        "url": "https://open.spotify.com/album/1YT6wWpV2KZXE6EjWahVCb"
+      },
+      "artists": [
+        {
+          "name": "GASP",
+          "url": "https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V"
+        },
+        {
+          "name": "Kevin Miho",
+          "url": "https://open.spotify.com/artist/46dCrgmscLcaEhlrEc8NiN"
+        },
+        {
+          "name": "Young Ned",
+          "url": "https://open.spotify.com/artist/5If74jYE6YIOyFveWJaRh7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158981,
+      "name": "BIG MOVES",
+      "url": "https://open.spotify.com/track/3qj6iWP9CQE84PL1a5UDk6"
+    },
+    {
+      "album": {
         "name": "BIG RACKS",
         "url": "https://open.spotify.com/album/3EturMiDzGitBMidXTpU1k"
       },
@@ -3714,7 +3758,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 133000,
       "name": "BISMILLAH",
       "url": "https://open.spotify.com/track/34wOtsmoa9jkdy5khFlZzV"
@@ -4852,6 +4896,28 @@
       "duration_ms": 132923,
       "name": "CALLE",
       "url": "https://open.spotify.com/track/73exMIxbdIQW9ciJuYj3Rw"
+    },
+    {
+      "album": {
+        "name": "Calma Fragile",
+        "url": "https://open.spotify.com/album/65ZEY38PN0B5D662b9D7aG"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198952,
+      "name": "Calma Fragile",
+      "url": "https://open.spotify.com/track/5Brck6pOzlfyQf3CN64uuT"
     },
     {
       "album": {
@@ -6522,7 +6588,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 150802,
       "name": "CONDANNATI",
       "url": "https://open.spotify.com/track/4JlAhEiVdZ2iFPjmtaAR4i"
@@ -6774,7 +6840,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 185142,
       "name": "CORALINE",
       "url": "https://open.spotify.com/track/5IQsl2M6AlRtRKgo6FbAsX"
@@ -7370,7 +7436,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 199518,
       "name": "DA DIO",
       "url": "https://open.spotify.com/track/5jYA5gaPi0ASutVzTfrTzU"
@@ -7622,6 +7688,24 @@
       "duration_ms": 108509,
       "name": "Deal",
       "url": "https://open.spotify.com/track/1rzD244826f8nH8vHA9I7v"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO LA FINE DELLA GUERRA (Strettamente)",
+        "url": "https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO"
+      },
+      "artists": [
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103511,
+      "name": "DECOY",
+      "url": "https://open.spotify.com/track/4T9DLxHMGqvc04CjR5HIub"
     },
     {
       "album": {
@@ -8054,6 +8138,28 @@
       "duration_ms": 167272,
       "name": "Dissennatori (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5qV4HuHG5pJYrIIvfAuo55"
+    },
+    {
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc"
+      },
+      "artists": [
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "DIVIETO DI SOSTA (feat. Ele A)",
+      "url": "https://open.spotify.com/track/3fWKLQjEIB78RMiAtOQaDR"
     },
     {
       "album": {
@@ -10555,6 +10661,28 @@
     },
     {
       "album": {
+        "name": "FUORI CLASSE",
+        "url": "https://open.spotify.com/album/7DTkiSzEYmbhSsiMsGCSyo"
+      },
+      "artists": [
+        {
+          "name": "Coco93",
+          "url": "https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf"
+        },
+        {
+          "name": "Keyone",
+          "url": "https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139005,
+      "name": "FUORI CLASSE",
+      "url": "https://open.spotify.com/track/43KvLsYMVVr1Vzke83TgHw"
+    },
+    {
+      "album": {
         "name": "Northside Melodies",
         "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
       },
@@ -11276,7 +11404,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 139396,
       "name": "Giusy & Wendy",
       "url": "https://open.spotify.com/track/6fy1CcZMf7HR1KZMbRTVuN"
@@ -11390,6 +11518,28 @@
       "duration_ms": 230697,
       "name": "Goblin Mode",
       "url": "https://open.spotify.com/track/1sY3ohjjIhLs5nj0rugO83"
+    },
+    {
+      "album": {
+        "name": "Gocce",
+        "url": "https://open.spotify.com/album/1VkVXuWFJpyA1ca6PCeADl"
+      },
+      "artists": [
+        {
+          "name": "Taizal",
+          "url": "https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT"
+        },
+        {
+          "name": "Exynos",
+          "url": "https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160387,
+      "name": "Gocce",
+      "url": "https://open.spotify.com/track/5jGkjpmZrcZGdoNuXvgt5p"
     },
     {
       "album": {
@@ -12455,6 +12605,24 @@
     },
     {
       "album": {
+        "name": "ICONICA",
+        "url": "https://open.spotify.com/album/6e0w7kkYJeaGM3oIfYOjfL"
+      },
+      "artists": [
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157439,
+      "name": "ICONICA",
+      "url": "https://open.spotify.com/track/03fTnWr9Q5x0gDzct27Bmw"
+    },
+    {
+      "album": {
         "name": "Il ballo dei soldi",
         "url": "https://open.spotify.com/album/1E0UP75s2950CegI1dgSwg"
       },
@@ -12474,6 +12642,28 @@
       "duration_ms": 139354,
       "name": "Il ballo dei soldi",
       "url": "https://open.spotify.com/track/2797B0k7KNQNfsv8yS3LWr"
+    },
+    {
+      "album": {
+        "name": "IL BALLO DEL MORTO (feat. Young Hash)",
+        "url": "https://open.spotify.com/album/1EDy49E2ZEYMp0oCZjJlF8"
+      },
+      "artists": [
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142879,
+      "name": "IL BALLO DEL MORTO (feat. Young Hash)",
+      "url": "https://open.spotify.com/track/0JTZtSNrGECzFUxNFbxZ77"
     },
     {
       "album": {
@@ -12782,7 +12972,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 159677,
       "name": "in punta di piedi #124",
       "url": "https://open.spotify.com/track/2egPprb2OJCB6YITWh2iU8"
@@ -13146,7 +13336,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 165111,
       "name": "J (feat. Nayt)",
       "url": "https://open.spotify.com/track/2JwXWydDD5ASONulGVLzHJ"
@@ -16480,7 +16670,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 115555,
       "name": "MASSA",
       "url": "https://open.spotify.com/track/3gQqUQwoF9t1TpCFNNSgx2"
@@ -17292,6 +17482,28 @@
       "duration_ms": 136478,
       "name": "MILKA",
       "url": "https://open.spotify.com/track/0SuASbFf1CcYDASZ16XEFR"
+    },
+    {
+      "album": {
+        "name": "mille domande #126 (feat. Suspect CB)",
+        "url": "https://open.spotify.com/album/2pQYrgc078fw676IecUMH2"
+      },
+      "artists": [
+        {
+          "name": "dedde",
+          "url": "https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN"
+        },
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "mille domande #126 (feat. Suspect CB)",
+      "url": "https://open.spotify.com/track/4aLBB9wpmWvbXX0y8kCy3I"
     },
     {
       "album": {
@@ -18730,7 +18942,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 157460,
       "name": "NIENTE DA PERDERE",
       "url": "https://open.spotify.com/track/3kLEe1So31KhGXxoJBUXll"
@@ -19607,6 +19819,24 @@
     },
     {
       "album": {
+        "name": "NON \u00e8 TUTTO OK",
+        "url": "https://open.spotify.com/album/36ZWzlqm4D7PeC9RNXPmVz"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111828,
+      "name": "NON \u00e8 TUTTO OK",
+      "url": "https://open.spotify.com/track/2ZtRsJXJGWf9C5abENCSuh"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 un caso",
         "url": "https://open.spotify.com/album/533HzYskt0aKDlyAbCiuxf"
       },
@@ -20208,7 +20438,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142000,
       "name": "ON & ON",
       "url": "https://open.spotify.com/track/6nPcgZggQ2MnRRtJVv56Uk"
@@ -21527,6 +21757,24 @@
     },
     {
       "album": {
+        "name": "Piani",
+        "url": "https://open.spotify.com/album/2xxn8LbFhS6mNdVdl3Nq8h"
+      },
+      "artists": [
+        {
+          "name": "Blocage",
+          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145102,
+      "name": "Piani",
+      "url": "https://open.spotify.com/track/7vW0AJr24dhKscPD4tQsQP"
+    },
+    {
+      "album": {
         "name": "Piazzale Europa 2",
         "url": "https://open.spotify.com/album/5YOilIdNL5np8G1K3GNalY"
       },
@@ -22099,6 +22347,24 @@
     },
     {
       "album": {
+        "name": "ASPETTANDO LA FINE DELLA GUERRA (Strettamente)",
+        "url": "https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO"
+      },
+      "artists": [
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Porto Droghe All\u2019isola In Motoscafo",
+      "url": "https://open.spotify.com/track/1YkqAYF0f0qTbmZ3iFy0KA"
+    },
+    {
+      "album": {
         "name": "Porto Milano",
         "url": "https://open.spotify.com/album/6M2wTpJqAVnWgn5SDRT75v"
       },
@@ -22238,7 +22504,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 155044,
       "name": "Pregio",
       "url": "https://open.spotify.com/track/2Yt6UiKVQgjdtgDF3oMGr1"
@@ -24040,7 +24306,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 119548,
       "name": "Rover",
       "url": "https://open.spotify.com/track/3HgLWAdARZD6nLjI2SdvKL"
@@ -24298,6 +24564,28 @@
       "duration_ms": 192727,
       "name": "Salam Alaykum",
       "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
+    },
+    {
+      "album": {
+        "name": "SALENTINI STEPPAS",
+        "url": "https://open.spotify.com/album/2TT9PEEPd5QoMtto11mekN"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Dave Flux",
+          "url": "https://open.spotify.com/artist/0OwKa3p0LQGgoh1KFlSgkN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155772,
+      "name": "SALENTINI STEPPAS",
+      "url": "https://open.spotify.com/track/5nAZ4l2afk6ABcaKDLrjVW"
     },
     {
       "album": {
@@ -25580,7 +25868,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 197323,
       "name": "Skyline (feat. Glocky)",
       "url": "https://open.spotify.com/track/5Fmim1aIr2EkrnTUkYRtwa"
@@ -25806,6 +26094,28 @@
       "duration_ms": 157720,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/1hT8hHa7R5xh7xdz1E0rEO"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/1s7vbQPZFHT3gU79nDkDft"
+      },
+      "artists": [
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163654,
+      "name": "Solo (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/31xwjwV6xHIRTUQt1ensEN"
     },
     {
       "album": {
@@ -27603,6 +27913,24 @@
     },
     {
       "album": {
+        "name": "A LORENZZA",
+        "url": "https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL"
+      },
+      "artists": [
+        {
+          "name": "Lorenzza",
+          "url": "https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161664,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/5CN6lHResDbAWjV8x37vKv"
+    },
+    {
+      "album": {
         "name": "TOGASHI (SAGA 3)",
         "url": "https://open.spotify.com/album/3Y7FfJz9Bf5YSADn7ZqOBK"
       },
@@ -28717,6 +29045,28 @@
     },
     {
       "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4EnjASp41ESEc5913TpRfm"
+      },
+      "artists": [
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        },
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/2pVWmYWUjLBhZrvrGIdVEG"
+    },
+    {
+      "album": {
         "name": "ULTIMO PASSO",
         "url": "https://open.spotify.com/album/1Xxt9gUmZFYNyQ3QG7yugw"
       },
@@ -29176,7 +29526,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 130854,
       "name": "VERO HUSTLA",
       "url": "https://open.spotify.com/track/1mFF01eXfnQQb2gkjg4wvw"

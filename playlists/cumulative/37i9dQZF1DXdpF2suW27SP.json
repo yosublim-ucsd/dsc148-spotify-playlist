@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Paulelson entra na zona. ",
+  "description": "Arag\u00e3o entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 84855,
       "name": "+ 1 Noite",
       "url": "https://open.spotify.com/track/2XuNJBlaYJF7HLgBzfAJEm"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 135282,
       "name": "Bunda no Ch\u00e3o - Afrohits",
       "url": "https://open.spotify.com/track/1hLDxafsjACqqbaGKSR1oA"
@@ -4541,6 +4541,32 @@
     },
     {
       "album": {
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/5vrE1nT3s1PnMxjchbBh4h"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yuri G",
+          "url": "https://open.spotify.com/artist/3A1lh61WJ3NL1fG1dO6E5w"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/5hD00U6LXG5U0ap1QsVtnT"
+    },
+    {
+      "album": {
         "name": "Iluminado",
         "url": "https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq"
       },
@@ -6213,6 +6239,28 @@
     },
     {
       "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5X1yAyscxsCL8m8KFnBXTE"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/2qglrKlaXiTCwpOLAhsENj"
+    },
+    {
+      "album": {
         "name": "iMPACIENTE",
         "url": "https://open.spotify.com/album/0KGcbCNj4ybhXUwFFBUaFO"
       },
@@ -7566,7 +7614,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 128576,
       "name": "Mais Que Ouro",
       "url": "https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E"
@@ -8692,7 +8740,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 236043,
       "name": "NAMORADA, PATROA & MULHER",
       "url": "https://open.spotify.com/track/19ehlVCtjMlquQmVlzuQzm"
@@ -10733,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/6HNIeKgNIfAMNo9Vy5v0HT"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/6YfyyE6hkWe2avbhFPDY0a"
+    },
+    {
+      "album": {
         "name": "Pronto",
         "url": "https://open.spotify.com/album/1Mdv5MYHQg347u6V8HUb1m"
       },
@@ -10978,6 +11044,28 @@
       "duration_ms": 201290,
       "name": "Quem \u00e9 Que?",
       "url": "https://open.spotify.com/track/1nMboVwLRXO35cTE4z5het"
+    },
+    {
+      "album": {
+        "name": "Quem \u00c9s Tu?",
+        "url": "https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160601,
+      "name": "Quem \u00c9s Tu?",
+      "url": "https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl"
     },
     {
       "album": {

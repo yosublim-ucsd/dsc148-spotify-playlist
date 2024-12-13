@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-446 songs - 1 day 3 hr 54 min
+447 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/2XPZo7qF5lQY7wnbqtmkG8) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/2Z4WYBmQ21S7rvsyzQWdCu) | 5:16 | 2021-12-24 | 2024-10-27 |
 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 | 2024-11-29 |  |
 | [Go Tell It \(On the Mountain\)](https://open.spotify.com/track/4bBfk0TeyTeCLwfk1PaTVY) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Go Tell It \(On the Mountain\)](https://open.spotify.com/album/05mgCjzlzLqFq46Iu049AG) | 4:03 | 2024-11-17 | 2024-11-22 |
+| [Go Tell It On The Mountain](https://open.spotify.com/track/3waRYV2v3AVY0UQhstmXP0) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Go Tell It On The Mountain](https://open.spotify.com/album/4muIzM1fQLkbHqp0WrKSM5) | 2:50 | 2024-12-08 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-24 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/0cvJyg1sNVNwZlSzV0NTd8) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Go Tell It On The Mountain](https://open.spotify.com/album/5sG5B0zUzWDNf9WepSGntM) | 2:47 | 2021-12-24 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/28w1ZQX25tnDIaHdMR9kbu) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Go Tell It on the Mountain](https://open.spotify.com/album/2WCkmIbCNpo4ulg7BeyfvU) | 3:13 | 2021-12-24 | 2022-11-17 |
@@ -278,7 +279,7 @@
 | [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2023-12-15 |  |
 | [Merry Christmas, Happy Holidays \- Radio Version](https://open.spotify.com/track/6G0t7FGJKJOVcAT2gfX0xE) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Merry Christmas, Happy Holidays](https://open.spotify.com/album/3muVVR6oXz7pepxadc2wGy) | 3:44 | 2024-11-17 | 2024-11-30 |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
-| [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 |  |
+| [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 | 2024-12-13 |
 | [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 | 2024-11-30 |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2024-12-03 |
 | [Mistletoe Meltdown](https://open.spotify.com/track/6VYcqmoh8PqlsHQdvV4zAW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Irwin's Christmas Collection](https://open.spotify.com/album/317Rb3ssDv1clHRsHvEuYZ) | 3:30 | 2021-12-24 | 2022-07-29 |

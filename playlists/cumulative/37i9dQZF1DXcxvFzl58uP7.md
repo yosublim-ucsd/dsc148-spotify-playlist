@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,006 songs - 2 day 4 hr 12 min
+1,008 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 | 2023-11-11 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 | 2023-09-27 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/4WGoMHtZq6u4af9EBCQ2IE) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Indigo Jack](https://open.spotify.com/album/3wdYd1iZDlAH4wXNz9VPoK) | 2:25 | 2023-09-29 | 2024-01-13 |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-12 |  |
 | [blue salvia](https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:17 | 2024-11-25 |  |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-08-13 | 2022-12-01 |
@@ -373,7 +374,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
 | [Gravity](https://open.spotify.com/track/2bCAgbpt22GjAYlO2PggAj) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Gravity](https://open.spotify.com/album/299IQB4kbejJwVROtq0jBK) | 2:48 | 2021-08-13 | 2022-04-20 |
-| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 |  |
+| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 | 2024-12-13 |
 | [Gummi Bear](https://open.spotify.com/track/7gKgu4EJwLTuYZXIzA23vO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/4aLMhlTE9KUz6L2MMYs1xw) | 4:18 | 2021-04-03 | 2021-08-20 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-21 | 2021-08-28 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-07-31 | 2021-08-28 |
@@ -956,7 +957,7 @@
 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 | 2022-09-14 | 2023-08-26 |
 | [Watered Down](https://open.spotify.com/track/0W8o8QKoO01LiiSLbGhI21) | [SODAPOP](https://open.spotify.com/artist/20SsjJW9QONCMZQ8Sik2d9) | [Watered Down](https://open.spotify.com/album/4ZhzwEQgxxtFmU4fEbks9J) | 3:20 | 2020-06-29 | 2021-05-26 |
 | [Watering the Garden](https://open.spotify.com/track/2PNOtO2fD3HtUt9t0Heppf) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Watering the Garden](https://open.spotify.com/album/1rcXE9zUFpVOJKMnVOicEu) | 3:21 | 2019-07-31 | 2020-04-07 |
-| [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 | 2024-01-12 |  |
+| [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 | 2024-01-12 | 2024-12-13 |
 | [Ways](https://open.spotify.com/track/46YMi4OGLJ0ZSFIrbpCO45) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Ways](https://open.spotify.com/album/7J2x5SADnGa23j1hFcuxhx) | 4:28 | 2020-05-02 | 2021-05-27 |
 | [we should have never kissed in the back seat of your car](https://open.spotify.com/track/3CKCYIr1xtNFiZQlDkQjuE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [we should have never kissed in the back seat of your car](https://open.spotify.com/album/2yWZcLMkisbuFmtlY3Uxun) | 1:48 | 2019-07-31 | 2020-01-07 |
 | [Weather](https://open.spotify.com/track/2e2sjg5Na8ATIgwb1T7zWJ) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Weather](https://open.spotify.com/album/3paS9rIxYJJrpx3eO5Dw0C) | 3:42 | 2019-07-31 | 2021-05-25 |
@@ -976,6 +977,7 @@
 | [Where is the night flame](https://open.spotify.com/track/7pepl08YPjjhGxDIJUJ5rg) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Where is the night flame](https://open.spotify.com/album/7mjKUw3RcjJgjiA5N4KzvL) | 3:39 | 2021-03-20 | 2021-05-20 |
 | [Why Do You Want Anything To Do With Me?](https://open.spotify.com/track/1WPXdnwx8OS5bRqysVMrS9) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Red Herring](https://open.spotify.com/album/45Vu1IeIky2HL6w7R2UsRv) | 2:48 | 2021-02-24 | 2021-05-23 |
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-09-03 | 2021-08-24 |
+| [wildflower](https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower](https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9) | 2:55 | 2024-12-12 |  |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-14 | 2022-06-23 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-10-08 | 2022-07-18 |
 | [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 | 2024-04-24 |

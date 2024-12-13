@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 2024년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요! \(Cover: 엘루이, 리치보이하디\) \(Listen the highlight tracks in Fresh Finds Korea playlist this year!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,604 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,634 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 |
+| 1 | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 |
 | 2 | [No Jam](https://open.spotify.com/track/5Kgh23ZniNDKwOf2VTS42l) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/65gXWbb1Yqsx95JYMva2ZN) | 2:47 |
 | 3 | [Really Like You \- Spring Version](https://open.spotify.com/track/2DFudW1pZSLY739UrsPDTV) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You \(Spring Version\)](https://open.spotify.com/album/6FY4ksL8ycUIQYeaGO0HHM) | 3:13 |
 | 4 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 32 | [Stupid](https://open.spotify.com/track/6Mp6OHHzY2qmTqUhMF8thZ) | [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Stupid](https://open.spotify.com/album/0fxrQ4ogS9IxUE4h5aCN0P) | 2:49 |
 | 33 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 |
 | 34 | [Premiere](https://open.spotify.com/track/2VMyWdnTZ4PgGxa4qKnfzu) | [XP ROVXE](https://open.spotify.com/artist/1hXIdyYEO5b3bTsyRGNNBF) | [Premiere](https://open.spotify.com/album/4f8vG7tuBMHVEp48EhY3gX) | 3:11 |
-| 35 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 |
+| 35 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 |
 | 36 | [Bouquet](https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p) | [Tia](https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Bouquet](https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK) | 3:29 |
 | 37 | [in my mind](https://open.spotify.com/track/3hjMAyinL6BTYxv9aHHY9a) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [in my mind](https://open.spotify.com/album/10dhRjh3u1DR61VOz0bOQs) | 3:35 |
 | 38 | [Following you once again](https://open.spotify.com/track/13n3nLE2lAyVribeYEzGS4) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Following you once again](https://open.spotify.com/album/1OZbs8Nomo3rFMSf5PM3bx) | 3:07 |

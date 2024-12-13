@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Knucks, K-Trap",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Asco",
   "name": "Rap UK",
   "tracks": [
     {
@@ -25649,6 +25649,24 @@
     },
     {
       "album": {
+        "name": "No Go",
+        "url": "https://open.spotify.com/album/144R825W85NPcnirG79AAg"
+      },
+      "artists": [
+        {
+          "name": "Nito NB",
+          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "No Go",
+      "url": "https://open.spotify.com/track/0ghd6sDXDYUlOzKhs0zdfJ"
+    },
+    {
+      "album": {
         "name": "Snakes & Ladders",
         "url": "https://open.spotify.com/album/61KrONcgww3TKrlX2qJKzV"
       },
@@ -29292,7 +29310,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177730,
       "name": "Prettier",
       "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
@@ -29931,6 +29949,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4FbUZTEYGMGup4HwYUyl9P"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4aP39ZfU094VjJf8UEMcnW"
+    },
+    {
+      "album": {
         "name": "Ramsay",
         "url": "https://open.spotify.com/album/7zE39TJUMjtm683u3j051b"
       },
@@ -30044,7 +30080,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 226902,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT"
@@ -38465,6 +38501,24 @@
     },
     {
       "album": {
+        "name": "Us vs Them",
+        "url": "https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Us vs Them",
+      "url": "https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Xj3O3MpWoFpakC5qbqUsD"
       },
@@ -39408,7 +39462,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166314,
       "name": "We Won",
       "url": "https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief"

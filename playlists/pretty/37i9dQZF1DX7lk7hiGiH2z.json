@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 48688,
+  "num_followers": 48723,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
+        "name": "Meine 24 sch\u00f6nsten Weihnachtslieder",
+        "url": "https://open.spotify.com/album/3sua28ilsMuPVoGPlWuRsq"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Advent",
+      "url": "https://open.spotify.com/track/02wFNl5sVJGCB7NwAhyWCj"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
         "name": "Giraffenaffen 4 - Winterzeit",
         "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 205226,
       "name": "Leise rieselt der Schnee",
       "url": "https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
-        "name": "Meine 24 sch\u00f6nsten Weihnachtslieder",
-        "url": "https://open.spotify.com/album/3sua28ilsMuPVoGPlWuRsq"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/02wFNl5sVJGCB7NwAhyWCj"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -820,22 +820,6 @@
       },
       "artists": [
         {
-          "name": "Die Liga der gew\u00f6hnlichen Gentlemen",
-          "url": "https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Winter ist wie Sommer nur in kalt",
-      "url": "https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
-      },
-      "artists": [
-        {
           "name": "Deniz & Ove",
           "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
         },
@@ -847,6 +831,22 @@
       "duration_ms": 191866,
       "name": "Ich will Schnee",
       "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Die Liga der gew\u00f6hnlichen Gentlemen",
+          "url": "https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Winter ist wie Sommer nur in kalt",
+      "url": "https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Winterzeit",
-      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
         "name": "Wir sind die Wichtel",
         "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "eneMene Kinderlieder - die Gr\u00fcne",
-        "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
       },
       "artists": [
         {
-          "name": "eneMene",
-          "url": "https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB"
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
         }
       ],
-      "duration_ms": 88160,
-      "name": "Schneefl\u00f6ckchen",
-      "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1023,6 +1007,22 @@
       "duration_ms": 92146,
       "name": "KiKANiNCHEN-Weihnachtslied",
       "url": "https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
+        "name": "eneMene Kinderlieder - die Gr\u00fcne",
+        "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
+      },
+      "artists": [
+        {
+          "name": "eneMene",
+          "url": "https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB"
+        }
+      ],
+      "duration_ms": 88160,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
-      },
-      "artists": [
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        },
-        {
-          "name": "Moritz Kr\u00e4mer",
-          "url": "https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Carla, die Weihnachtsfrau",
-      "url": "https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
         "name": "Oh Du Schlumpfige!",
         "url": "https://open.spotify.com/album/7GvN6zyNhoiM5u5UfOWRh5"
       },
@@ -1192,6 +1172,26 @@
       },
       "artists": [
         {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        },
+        {
+          "name": "Moritz Kr\u00e4mer",
+          "url": "https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Carla, die Weihnachtsfrau",
+      "url": "https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
           "name": "Andreas Dorau",
           "url": "https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK"
         }
@@ -1199,6 +1199,22 @@
       "duration_ms": 184626,
       "name": "Der Weihnachtsmann ist eine Frau",
       "url": "https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
+        "name": "Weckt den Weihnachtsmann",
+        "url": "https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Wundersch\u00f6ne Weihnachtszeit",
+      "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Weckt den Weihnachtsmann",
-        "url": "https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Wundersch\u00f6ne Weihnachtszeit",
-      "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
         "name": "Das Weihnachtsalbum Deluxe",
         "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Eule und Lerche",
+          "url": "https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Schneeengel",
-      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+      "duration_ms": 189520,
+      "name": "Die Weihnachtskinder",
+      "url": "https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
       },
       "artists": [
         {
-          "name": "Eule und Lerche",
-          "url": "https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Die Weihnachtskinder",
-      "url": "https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj"
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
     },
     {
       "added_at": "2024-12-09 10:01:19",

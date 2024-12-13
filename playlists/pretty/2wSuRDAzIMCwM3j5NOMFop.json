@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAANoAOMxFSa7K0eA20iyHAX8XwKrBe",
+  "snapshot_id": "AAAAOu02SYJz7IRJMmPZJkCchAyo49NN",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -807,6 +807,70 @@
       "duration_ms": 98400,
       "name": "Welcome Back, Misery",
       "url": "https://open.spotify.com/track/7oER11s45z5je7hHu7HZC7"
+    },
+    {
+      "added_at": "2024-12-12 05:41:10",
+      "album": {
+        "name": "Violent Things",
+        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
+      },
+      "artists": [
+        {
+          "name": "The Brobecks",
+          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "If You Like It Or Not",
+      "url": "https://open.spotify.com/track/7eN56jd24acGjea5YRBCS6"
+    },
+    {
+      "added_at": "2024-12-12 05:54:23",
+      "album": {
+        "name": "1981 Extended Play",
+        "url": "https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Social Climb",
+      "url": "https://open.spotify.com/track/3xUsaaH6oCG1w8kD1oGhGW"
+    },
+    {
+      "added_at": "2024-12-12 07:28:35",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2024-12-12 07:43:26",
+      "album": {
+        "name": "Neotheater",
+        "url": "https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 223947,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry"
     }
   ],
   "unique_name": "From the Mouth of Evil",

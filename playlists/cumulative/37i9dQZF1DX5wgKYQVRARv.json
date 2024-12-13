@@ -11531,6 +11531,24 @@
     },
     {
       "album": {
+        "name": "Prodigy",
+        "url": "https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq"
+      },
+      "artists": [
+        {
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253416,
+      "name": "The Faustian Spirit",
+      "url": "https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5"
+    },
+    {
+      "album": {
         "name": "Colors II",
         "url": "https://open.spotify.com/album/6vC3CeC5FprLHnTZobbdee"
       },

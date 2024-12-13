@@ -5053,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Granturismo",
+        "url": "https://open.spotify.com/album/2TzbuUeYWupjLK7OYdGOqk"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163016,
+      "name": "Granturismo",
+      "url": "https://open.spotify.com/track/3eAcrPW8owYHJ7oAw9bDgf"
+    },
+    {
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/7e1tZm29M23DLNgPtzFUvr"
       },
@@ -13136,7 +13154,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"

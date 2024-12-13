@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Despilfarro",
+        "url": "https://open.spotify.com/album/5NDYhskqIYn0EEblCeKRxf"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120644,
+      "name": "Despilfarro",
+      "url": "https://open.spotify.com/track/7LtzkqD9qcVPFM7vsRIKTN"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/7xyExasxLlGYVceDILxbEG"
       },
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 64999,
       "name": "Narco",
       "url": "https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 88386,
       "name": "No Komas Keso en Exzeso",
       "url": "https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74"
@@ -3752,6 +3770,32 @@
       "duration_ms": 212785,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
+    },
+    {
+      "album": {
+        "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
+      },
+      "artists": [
+        {
+          "name": "Debruces",
+          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
+        },
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        },
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220942,
+      "name": "Una y Nos Vamos - Versi\u00f3n 2024",
+      "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
     },
     {
       "album": {

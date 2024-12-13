@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 234147,
+  "num_followers": 234181,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "The Best Of Dion & The Belmonts",
+        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 138960,
+      "name": "I Wonder Why - Remastered",
+      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "The Best Of Dion & The Belmonts",
-        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 138960,
-      "name": "I Wonder Why - Remastered",
-      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Hollywood Flames",
         "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 136333,
       "name": "Buzz, Buzz, Buzz",
       "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Dirty Dancing: Anniversary Edition",
+        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
     },
     {
       "added_at": "2024-07-14 11:36:52",

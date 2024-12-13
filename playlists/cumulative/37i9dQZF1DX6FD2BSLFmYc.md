@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-161 songs - 10 hr 11 min
+163 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-08-10 | 2024-02-04 |
 | [Lilac Dreams](https://open.spotify.com/track/5bdxHbc288MBWc2tOjfaxe) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0ZGHDo3OIhjU40AwHByJRy) | 4:29 | 2023-04-26 | 2024-04-19 |
 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 | 2022-07-18 | 2023-04-27 |
-| [Luminous Depths](https://open.spotify.com/track/1iEM7p2gfVBNv7hLQTUl6t) | [Evenfall](https://open.spotify.com/artist/1ujz71O1avTM6auwv9aDdE) | [Luminous Depths](https://open.spotify.com/album/2xYVos6PVbNySOz7RkNk7s) | 5:06 | 2022-08-10 |  |
+| [Luminous Depths](https://open.spotify.com/track/1iEM7p2gfVBNv7hLQTUl6t) | [Evenfall](https://open.spotify.com/artist/1ujz71O1avTM6auwv9aDdE) | [Luminous Depths](https://open.spotify.com/album/2xYVos6PVbNySOz7RkNk7s) | 5:06 | 2022-08-10 | 2024-12-13 |
 | [Majestic Forests](https://open.spotify.com/track/6USq62ePHETvvtOBQQZ75e) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Majestic Forests](https://open.spotify.com/album/6uTuZsHJWqMu0xKCuJfdWL) | 3:49 | 2023-03-08 |  |
 | [Marvel Statues](https://open.spotify.com/track/1tIHEoAZldLDgtUzSv3hcC) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Marvel Statues](https://open.spotify.com/album/0ZhLeDoEoVgYZP5YzDaOyz) | 3:01 | 2024-10-24 |  |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-07-18 |  |
@@ -111,6 +111,7 @@
 | [Outlier](https://open.spotify.com/track/4x0zQ2bEosSxqnXFFHaJgj) | [Twinsleep](https://open.spotify.com/artist/2aazoAGOaOkD1grRMVYVBh), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Outlier](https://open.spotify.com/album/10zKVXiYZ7u9lE5p0hYMAb) | 5:33 | 2023-02-10 |  |
 | [Pathways](https://open.spotify.com/track/0gC2mtPpH6neEY5OdF88ul) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Pathways](https://open.spotify.com/album/5jQOBLq9Oq2XLxyaruJCrI) | 4:18 | 2023-08-10 |  |
 | [Perceive](https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET) | [Julianne Pascal](https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO) | [Perceive](https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO) | 2:53 | 2023-08-10 |  |
+| [Polaris](https://open.spotify.com/track/07iyw5Yg9aGkfxdy87Ijkf) | [Égide Affré](https://open.spotify.com/artist/4DHXiT1f9bWlO3NIZuhSTN) | [Polaris](https://open.spotify.com/album/2wmudQTcCyFXvAm2WAxtkA) | 2:46 | 2024-12-12 |  |
 | [Pratityasamutpada](https://open.spotify.com/track/4THOrb3uODy21CmF6WK4oz) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 4:08 | 2022-07-18 | 2023-04-27 |
 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 | 2022-07-18 |  |
 | [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2023-01-13 |  |
@@ -129,6 +130,7 @@
 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 | 2022-07-18 |  |
 | [Sound of Sarvastivada](https://open.spotify.com/track/6U6vGLAjQBWeU4vmiujSaF) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4) | 2:32 | 2022-07-18 | 2023-04-27 |
 | [Spirit of Bliss](https://open.spotify.com/track/3KIDYgSYHgmfuCT6e6ehqw) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Spirit of Bliss](https://open.spotify.com/album/5DqieuzzAKjnVdTeTC3jN6) | 5:00 | 2022-07-18 | 2023-04-27 |
+| [Spiritual Morning](https://open.spotify.com/track/4Rez6ejp3uLedEgbQwqcWC) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Spiritual Morning](https://open.spotify.com/album/3eZKRMcTitWjPm02bL3LW1) | 2:40 | 2024-12-12 |  |
 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2022-07-18 |  |
 | [Spiritual Reinforcement \- 432 Hz](https://open.spotify.com/track/48tPeqcyGPRv8WgRMQucpU) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [4 the 3 of us 2](https://open.spotify.com/album/3IHe1DrH3nAMf15eVuuRvM) | 2:55 | 2023-01-13 |  |
 | [Stillhetens hav II](https://open.spotify.com/track/2JHYYYcHp8g5nt3DRqNo2v) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Stillhetens hav II](https://open.spotify.com/album/1e70Aiy0CIOMlLUlvHPSAs) | 5:33 | 2023-08-10 |  |

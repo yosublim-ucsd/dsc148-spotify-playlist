@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > ✨ meet the army, the navy 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,100 likes - 130 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,144 likes - 130 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

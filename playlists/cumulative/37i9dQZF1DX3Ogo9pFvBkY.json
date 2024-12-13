@@ -6238,7 +6238,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 184000,
       "name": "Halcyon Eyes",
       "url": "https://open.spotify.com/track/3XD6Fvynp5JlGHjj46xbXU"
@@ -8207,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "Lunar Pines",
+        "url": "https://open.spotify.com/album/6wDIzJ86vYWgmZc6njDkRI"
+      },
+      "artists": [
+        {
+          "name": "R Skye",
+          "url": "https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lunar Pines",
+      "url": "https://open.spotify.com/track/3x3vfNdjCA7LIM1S3pnbx5"
+    },
+    {
+      "album": {
         "name": "Lunar Waves",
         "url": "https://open.spotify.com/album/2qvPTn1MjnyvdMChzShb0k"
       },
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 207857,
       "name": "Miraculous",
       "url": "https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh"
@@ -12578,6 +12596,24 @@
       "duration_ms": 186559,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+    },
+    {
+      "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/2CGaRfO1xKwKEXE657fTBV"
+      },
+      "artists": [
+        {
+          "name": "Anas discors",
+          "url": "https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196988,
+      "name": "Steam",
+      "url": "https://open.spotify.com/track/6KxVP7rd6sKv3wcFLxAjtM"
     },
     {
       "album": {

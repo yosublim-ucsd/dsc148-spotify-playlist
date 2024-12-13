@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: jasmine.4.t
+> Discover your new favourite artists from UK&IE\. Cover: Dayo Bello
 
-291 songs - 15 hr 38 min
+292 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Angelica](https://open.spotify.com/track/5vp4cm13NJZr5qcQIngWyK) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:52 | 2022-11-11 | 2022-11-13 |
 | [Anseo](https://open.spotify.com/track/2VxCFajDagmquFM9gH5qbJ) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 2:35 | 2022-02-18 |  |
 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 | 2022-02-18 |  |
+| [apricot danish](https://open.spotify.com/track/1eoafnb9SUWhsVrV9wZU6Q) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [eureka!](https://open.spotify.com/album/7lVjaEWLbbuTuF9Mwsroe0) | 2:50 | 2024-12-13 |  |
 | [attraction](https://open.spotify.com/track/4MrNdvDEin8XChCHaCzrlR) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [attraction](https://open.spotify.com/album/6ezHoGVMib7VLW1gJJRIjB) | 3:42 | 2023-08-10 |  |
 | [Back In The Day](https://open.spotify.com/track/1SgUfsEz18JLCIlnvIhmFE) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/4yh7uIniR1c3v3QQ1PcduJ) | 3:35 | 2022-02-18 |  |
 | [Back In The Day](https://open.spotify.com/track/2RzuBCRT8HfBbG7YCjLcEP) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Autumn Playlist](https://open.spotify.com/album/2WkLSByy5oHXHTTR9HeeJB) | 3:35 | 2022-11-11 | 2022-11-13 |

@@ -21270,7 +21270,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 198988,
       "name": "Quiet At Dawn",
       "url": "https://open.spotify.com/track/5UOhiSuywxh22VLsnTieUW"
@@ -28359,6 +28359,24 @@
     },
     {
       "album": {
+        "name": "Torrero",
+        "url": "https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Torrero",
+      "url": "https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn"
+    },
+    {
+      "album": {
         "name": "Toujours",
         "url": "https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs"
       },
@@ -30876,7 +30894,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 139874,
       "name": "Where the Rivers Run",
       "url": "https://open.spotify.com/track/68xDhjQhGVfq7dGhfC1XhZ"

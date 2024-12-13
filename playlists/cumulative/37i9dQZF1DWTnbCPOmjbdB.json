@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: LUNA",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: WERSOW",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -492,6 +492,32 @@
       "duration_ms": 207169,
       "name": "by\u0142o, min\u0119\u0142o",
       "url": "https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1"
+    },
+    {
+      "album": {
+        "name": "B\u0119dzie ja\u015bniej",
+        "url": "https://open.spotify.com/album/5eDqn2pvDB5RXJ8qd1UhC5"
+      },
+      "artists": [
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165368,
+      "name": "B\u0119dzie ja\u015bniej",
+      "url": "https://open.spotify.com/track/5dlSal73zNRaMgbaO10xu1"
     },
     {
       "album": {
@@ -1344,7 +1370,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 146896,
       "name": "GAJA",
       "url": "https://open.spotify.com/track/6ByYFelThczY8YSbUpA4gV"
@@ -1908,7 +1934,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 210711,
       "name": "Kwiaty",
       "url": "https://open.spotify.com/track/0ppPlaEg7IM8qOfIZ6pOHR"
@@ -2500,10 +2526,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 328853,
       "name": "Moja i Twoja nadzieja",
       "url": "https://open.spotify.com/track/0RTVDJtAC04Hzx52c0B1gU"
+    },
+    {
+      "album": {
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/6moIpmNAGkA74XdJvxTPPG"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138064,
+      "name": "Momenty",
+      "url": "https://open.spotify.com/track/1V308vfYwSw9QqY1kL0Toz"
     },
     {
       "album": {
@@ -3028,6 +3072,24 @@
       "duration_ms": 143428,
       "name": "Niebezpieczni",
       "url": "https://open.spotify.com/track/51asGNbLAImt58HLJJZBVg"
+    },
+    {
+      "album": {
+        "name": "nieoczywiste",
+        "url": "https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "nieoczywiste",
+      "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
     },
     {
       "album": {

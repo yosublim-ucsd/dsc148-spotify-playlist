@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Topi Saha.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa emma & matilda.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 411230,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/3bQSAAH2vtU8nVieTLDOge"
+    },
+    {
+      "album": {
+        "name": "Addiction (Run)",
+        "url": "https://open.spotify.com/album/74pHrRIvHiTSFrPOEqcIjp"
+      },
+      "artists": [
+        {
+          "name": "Cecil Opia",
+          "url": "https://open.spotify.com/artist/6gDK3tImweSZYhav1QdaYn"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203778,
+      "name": "Addiction (Run)",
+      "url": "https://open.spotify.com/track/4disxIVSA5hT9V9hdei7Em"
     },
     {
       "album": {
@@ -312,7 +330,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 145346,
       "name": "Aloittelijan virhe",
       "url": "https://open.spotify.com/track/1sv3nfLkuPYRofmblnlD6a"
@@ -499,6 +517,24 @@
     },
     {
       "album": {
+        "name": "s\u00e4tkynukkekoti (live)",
+        "url": "https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253301,
+      "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
+      "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
+    },
+    {
+      "album": {
         "name": "Anteeksi, Tuulia",
         "url": "https://open.spotify.com/album/3TPUOnw8D2H9ShZkTcz4kR"
       },
@@ -510,7 +546,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 216568,
       "name": "Anteeksi, Tuulia",
       "url": "https://open.spotify.com/track/4sv9FUIdCsHBAX9oxXInzx"
@@ -1284,6 +1320,24 @@
       "duration_ms": 156197,
       "name": "El\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/5m0k08yKvP86Es3VB6Eglc"
+    },
+    {
+      "album": {
+        "name": "Tallessa minussa",
+        "url": "https://open.spotify.com/album/4Y9ey8UW9VLbJc1IwefH8K"
+      },
+      "artists": [
+        {
+          "name": "Jussi H",
+          "url": "https://open.spotify.com/artist/5wSgEg5ancO8CmPWkHh2HU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/3e7AKLCVNm1jdoXuNAaamH"
     },
     {
       "album": {
@@ -2342,7 +2396,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 304697,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/6YLrY2GuMbinOsQEdBYx9I"
@@ -3255,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Kiltti tytt\u00f6",
+        "url": "https://open.spotify.com/album/70D8AdO8YZMTueHyVKvgi5"
+      },
+      "artists": [
+        {
+          "name": "Ullalintulampi",
+          "url": "https://open.spotify.com/artist/2TNzRO3MpKoFBA0DrPTbdY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133851,
+      "name": "Kiltti tytt\u00f6",
+      "url": "https://open.spotify.com/track/5jJjiAWtaSE8CPqeAmD2Hv"
+    },
+    {
+      "album": {
         "name": "Kirjasto",
         "url": "https://open.spotify.com/album/6XZ91rTKpFWkXdi9vf3qp4"
       },
@@ -4054,6 +4126,24 @@
       "duration_ms": 214113,
       "name": "L\u00e4hteet laaksojen",
       "url": "https://open.spotify.com/track/0azALGAVCFjEjdbBsP0XPV"
+    },
+    {
+      "album": {
+        "name": "Maailmaan luotu",
+        "url": "https://open.spotify.com/album/5GklZ79BYPg6Fnu90RAkps"
+      },
+      "artists": [
+        {
+          "name": "Tomi Nordlund & Syv\u00e4 Joki",
+          "url": "https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "Maailmaan luotu",
+      "url": "https://open.spotify.com/track/3XhbzSxA6CuerrtFtQuFbI"
     },
     {
       "album": {
@@ -5070,7 +5160,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 236266,
       "name": "Oh, Sorrow",
       "url": "https://open.spotify.com/track/2RFvmlXtS1NPqo2tGk5I7I"
@@ -5114,6 +5204,24 @@
       "duration_ms": 276724,
       "name": "Old School Love",
       "url": "https://open.spotify.com/track/4jCMtUq6VT0QLbBUkFVEEX"
+    },
+    {
+      "album": {
+        "name": "Olet kaunis ja min\u00e4 vain / Aamulla",
+        "url": "https://open.spotify.com/album/0VDPLwLmTkrdr67oKnUm0f"
+      },
+      "artists": [
+        {
+          "name": "Hopeasiivet",
+          "url": "https://open.spotify.com/artist/6zisCzs51KHat4Y2B9JVEO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125152,
+      "name": "Olet kaunis ja min\u00e4 vain",
+      "url": "https://open.spotify.com/track/4h1p8nql7cnEhEnO7yi1QI"
     },
     {
       "album": {
@@ -5334,7 +5442,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 230503,
       "name": "Palok\u00e4rki",
       "url": "https://open.spotify.com/track/1goz5d8k5Rga73n5dby3Mt"
@@ -5716,7 +5824,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 319020,
       "name": "Poseidon",
       "url": "https://open.spotify.com/track/0zIlq366VBZMwMZk3FfEpG"
@@ -6026,6 +6134,24 @@
       "duration_ms": 279426,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5o1VFI9pkftoG25k2M8j0Q"
+    },
+    {
+      "album": {
+        "name": "Riippuvaisia Toisistaan",
+        "url": "https://open.spotify.com/album/5dXTWPGqzDSdBbXQYZeDSV"
+      },
+      "artists": [
+        {
+          "name": "Harjula",
+          "url": "https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227584,
+      "name": "Riippuvaisia Toisistaan",
+      "url": "https://open.spotify.com/track/5KhK5vI86yXi0kOpqkE6os"
     },
     {
       "album": {
@@ -6496,7 +6622,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 313859,
       "name": "Something's Got to Change",
       "url": "https://open.spotify.com/track/2VRX76oc5v8mHNk3aLwyHs"
@@ -6720,10 +6846,28 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 170893,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/3Jge8tOZS1lbpaHRWeO7X3"
+    },
+    {
+      "album": {
+        "name": "Sunshine Honey",
+        "url": "https://open.spotify.com/album/3bGdevJRs8nGGb3vb4XVMP"
+      },
+      "artists": [
+        {
+          "name": "Pink Chameleons",
+          "url": "https://open.spotify.com/artist/4mf1CKt5WYMqprqnvdnsNW"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Sunshine Honey",
+      "url": "https://open.spotify.com/track/0k7tJangTOrxe2vRD3VOp8"
     },
     {
       "album": {
@@ -6929,6 +7073,42 @@
     },
     {
       "album": {
+        "name": "The Beast In Me",
+        "url": "https://open.spotify.com/album/2eUWAJr2cMha8M1HeboLPh"
+      },
+      "artists": [
+        {
+          "name": "LEONHEART",
+          "url": "https://open.spotify.com/artist/0tKEoknPTfTqKily01A8Zp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177657,
+      "name": "The Beast In Me",
+      "url": "https://open.spotify.com/track/2u5zlkN9ysoR0kMpxKXRkh"
+    },
+    {
+      "album": {
+        "name": "The Blue Cafe",
+        "url": "https://open.spotify.com/album/0OIIeN56QmSh2tmuPPXW4k"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dad",
+          "url": "https://open.spotify.com/artist/2fOBIIJjLrqWQQmoEUoZPp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188475,
+      "name": "The Blue Cafe",
+      "url": "https://open.spotify.com/track/2XAjxqJavmn3CGzUEnN5Hh"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5jsA5tFQJKDqpimcW38qSF"
       },
@@ -6983,6 +7163,24 @@
     },
     {
       "album": {
+        "name": "Love Collection: By the Ashes That Used to Be the Everlasting Fire",
+        "url": "https://open.spotify.com/album/5mOj1aHnLIvDBKw9xYTo7u"
+      },
+      "artists": [
+        {
+          "name": "UTU",
+          "url": "https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169146,
+      "name": "The Woman of My Dreams",
+      "url": "https://open.spotify.com/track/7oc0Rj7zrMUOD373g77VJQ"
+    },
+    {
+      "album": {
         "name": "through",
         "url": "https://open.spotify.com/album/1P6oUHB0sVcvuDM7Ppxbpy"
       },
@@ -6994,7 +7192,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 263042,
       "name": "through",
       "url": "https://open.spotify.com/track/4Z7D5wBPuOWlNwgcdOx7W1"
@@ -7236,7 +7434,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 108679,
       "name": "Tuu tuu tuonelahan",
       "url": "https://open.spotify.com/track/2IIRq8e6apN2qYgx0yPDcW"
@@ -7565,6 +7763,24 @@
     },
     {
       "album": {
+        "name": "Uutiset",
+        "url": "https://open.spotify.com/album/53Eur7P9HvAgr9xrJnIOTn"
+      },
+      "artists": [
+        {
+          "name": "Eskapismi",
+          "url": "https://open.spotify.com/artist/2kfwn43BFYm4T8TVMkoNec"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Uutiset",
+      "url": "https://open.spotify.com/track/7HqUO4Dl1CkxfTXtbKR1uZ"
+    },
+    {
+      "album": {
         "name": "Riitt\u00e4v\u00e4n hyv\u00e4",
         "url": "https://open.spotify.com/album/2uJ1Ui0YLAgfTwEjWZ9KIq"
       },
@@ -7625,7 +7841,7 @@
       "artists": [
         {
           "name": "Reetta",
-          "url": "https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB"
+          "url": "https://open.spotify.com/artist/10VTGeDjRRN2DL0d38wLo7"
         }
       ],
       "date_added": "2024-12-05",
@@ -7934,7 +8150,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 219348,
       "name": "Walk Through the Shadows",
       "url": "https://open.spotify.com/track/2amFbex2Xbcfk9uEuuzwNb"
@@ -8172,7 +8388,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 202333,
       "name": "You Put The Sun Into My Heart",
       "url": "https://open.spotify.com/track/3LFpGmG6TVFlA6s2WOPSHH"

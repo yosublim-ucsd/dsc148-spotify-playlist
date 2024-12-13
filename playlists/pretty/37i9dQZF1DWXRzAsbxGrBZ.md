@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,360 likes - 50 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,422 likes - 50 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 27 | [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 |
 | 28 | [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 |
 | 29 | [For You \- Radio Edit](https://open.spotify.com/track/4GXU7T8VbLPMPB1vSmDqfV) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [For You](https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU) | 4:49 |
-| 30 | [Some Lovin'](https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 3:56 |
-| 31 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 |
+| 30 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 |
+| 31 | [Some Lovin'](https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 3:56 |
 | 32 | [Little Me \- Extended Mix](https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn) | 7:17 |
 | 33 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
 | 34 | [Happy Ending \- Main Mix](https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Donald Sheffey](https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo) | [Happy Ending](https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC) | 7:15 |

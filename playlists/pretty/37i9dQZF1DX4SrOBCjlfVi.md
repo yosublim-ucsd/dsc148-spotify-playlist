@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby,  Rich Amiri, Smino and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,351 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,498 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 46 | [Star Racer](https://open.spotify.com/track/0ivTkJFsZedg1BjQLttK8k) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Star Racer](https://open.spotify.com/album/6C6hehv4X1lw0RMuTx7SFw) | 2:13 |
 | 47 | [MATTHEW](https://open.spotify.com/track/0xSNFXf3E6U8C7JcrckLdi) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [IN LOVING MEMORY+](https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy) | 2:11 |
 | 48 | [Had To Do](https://open.spotify.com/track/7cc00xwJ8sindITvVyzCVQ) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Biirthplace](https://open.spotify.com/artist/0EsYJwTQMt0GLdy1FsPiav) | [TMK 2.0](https://open.spotify.com/album/3CYj55Z0keQhPWHxtx1J3c) | 2:16 |
-| 49 | [WHY NOT](https://open.spotify.com/track/5a9w6BphC485vuCEJ0QnHY) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [WHY NOT](https://open.spotify.com/album/2udX5eHjad1nfJfTBrpeE5) | 1:39 |
+| 49 | [Why Not](https://open.spotify.com/track/5a9w6BphC485vuCEJ0QnHY) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Why Not](https://open.spotify.com/album/2udX5eHjad1nfJfTBrpeE5) | 1:39 |
 | 50 | [Simone Biles \(feat\. LouGotCash\)](https://open.spotify.com/track/1sAswL8NGPFG4DHRnyTmGq) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Dreamgirl Deluxe](https://open.spotify.com/album/7JSMM5TyVzf3EMIBAGyCbK) | 2:19 |
 
 Snapshot ID: `Z1KE0AAAAAAUWh30XAbUgldg0cX/kAOQ`

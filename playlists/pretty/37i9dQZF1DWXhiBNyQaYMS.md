@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhiBNyQaYMS.md) - [plain]
 
 > Top of this years RADAR class\. Cover: BINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,097 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,226 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhiBNyQaYMS.md) - [plain]
 | 40 | [4BULLDOG](https://open.spotify.com/track/28yU238mbNuvyRxWHCVNSL) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [+99XP](https://open.spotify.com/album/29t2X8bZK7I6MbpXV6BDX9) | 2:31 |
 | 41 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
 | 42 | [在一切終將消逝以前\(誠品信義2023年創作主題曲\)](https://open.spotify.com/track/4rfhG4R0rcLTQ129FeNjvf) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [在一切終將消逝以前\(誠品信義2023年創作主題曲\)](https://open.spotify.com/album/4l90f8WXgy65YjiykhM1E7) | 4:58 |
-| 43 | [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime \(bonus\)](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 |
+| 43 | [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 |
 | 44 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 |
 | 45 | [Rusuk \(Timur\)](https://open.spotify.com/track/1TvPO9D5gvudxC8PUJGM6s) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk \(Timur\)](https://open.spotify.com/album/5VR7PcZByG7x0AaljFd1mm) | 4:31 |
 | 46 | [Sen ve Ben](https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Sen ve Ben](https://open.spotify.com/album/35XqaJeYU2F3dVg2GgP04e) | 2:21 |

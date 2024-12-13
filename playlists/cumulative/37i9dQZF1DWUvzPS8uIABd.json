@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Jenni Vartiainen.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Mirella ja Lauri Haav.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -336,6 +336,24 @@
       "duration_ms": 223617,
       "name": "Anteeks - Vain el\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a"
+    },
+    {
+      "album": {
+        "name": "s\u00e4tkynukkekoti (live)",
+        "url": "https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253301,
+      "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
+      "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
     },
     {
       "album": {
@@ -1289,6 +1307,28 @@
     },
     {
       "album": {
+        "name": "Haloo",
+        "url": "https://open.spotify.com/album/6yUjFKMT9jwzsq59fMfwcZ"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        },
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163330,
+      "name": "Haloo",
+      "url": "https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi"
+    },
+    {
+      "album": {
         "name": "HARLEY QUINN (feat. Sara Bee)",
         "url": "https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl"
       },
@@ -1886,6 +1926,28 @@
       "duration_ms": 173400,
       "name": "Jos tuut viel\u00e4 vastaan",
       "url": "https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu"
+    },
+    {
+      "album": {
+        "name": "Jouluks kotiin",
+        "url": "https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164590,
+      "name": "Jouluks kotiin",
+      "url": "https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex"
     },
     {
       "album": {
@@ -2958,7 +3020,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 200536,
       "name": "Luotathan",
       "url": "https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu"
@@ -3064,6 +3126,28 @@
       "duration_ms": 169329,
       "name": "L\u00f6yt\u00e4\u00e4 mut",
       "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
+    },
+    {
+      "album": {
+        "name": "Maa ilman vett\u00e4",
+        "url": "https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139171,
+      "name": "Maa ilman vett\u00e4",
+      "url": "https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m"
     },
     {
       "album": {
@@ -4629,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "rakastetuks",
+        "url": "https://open.spotify.com/album/290UH7vRSjEj0jIP2CVr6d"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141448,
+      "name": "rakastetuks",
+      "url": "https://open.spotify.com/track/5hyeTEEoJq7V7B9SHr2NIc"
+    },
+    {
+      "album": {
         "name": "Rakastut muihin tytt\u00f6ihin",
         "url": "https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc"
       },
@@ -4658,7 +4760,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 181000,
       "name": "RANDOM",
       "url": "https://open.spotify.com/track/05e4kdlalqyXn9FhpYJQ9F"
@@ -5068,6 +5170,24 @@
       "duration_ms": 152967,
       "name": "Se kes\u00e4",
       "url": "https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm"
+    },
+    {
+      "album": {
+        "name": "Se Mit\u00e4 S\u00e4 Oot",
+        "url": "https://open.spotify.com/album/5zR3zSZCAKtKh3xILB7Kwo"
+      },
+      "artists": [
+        {
+          "name": "Reino Nordin",
+          "url": "https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Se Mit\u00e4 S\u00e4 Oot",
+      "url": "https://open.spotify.com/track/4NvEbMve0zfhiOcGWQS4hA"
     },
     {
       "album": {
@@ -6250,7 +6370,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 161138,
       "name": "V!ttu",
       "url": "https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e"

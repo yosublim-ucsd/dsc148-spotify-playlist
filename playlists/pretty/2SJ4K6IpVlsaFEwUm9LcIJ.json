@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22407,
+  "num_followers": 22417,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALjjhCliv4q9aeus1iDC/D8IYSmOrc",
+  "snapshot_id": "AAALkEcdRAyiuLxnwrN1ArLiOpb63li2",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -827,6 +827,38 @@
       "duration_ms": 209733,
       "name": "Our Dust",
       "url": "https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm"
+    },
+    {
+      "added_at": "2024-12-12 15:53:14",
+      "album": {
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+    },
+    {
+      "added_at": "2024-12-12 22:52:49",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J"
+      },
+      "artists": [
+        {
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi"
     }
   ],
   "unique_name": "thoughts never said aloud",

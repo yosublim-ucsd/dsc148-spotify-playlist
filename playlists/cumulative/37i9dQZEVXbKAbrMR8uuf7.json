@@ -12470,7 +12470,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136000,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
@@ -27036,6 +27036,32 @@
       "duration_ms": 142320,
       "name": "RUTA",
       "url": "https://open.spotify.com/track/0lNjgODRkskk8UpLukk1iy"
+    },
+    {
+      "album": {
+        "name": "Ruta (Remix)",
+        "url": "https://open.spotify.com/album/0TAcJdKSOkbAvSztEZZPDj"
+      },
+      "artists": [
+        {
+          "name": "Lowkey M30",
+          "url": "https://open.spotify.com/artist/4utWGMbIvfbTmJrG7A1og1"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190824,
+      "name": "Ruta - Remix",
+      "url": "https://open.spotify.com/track/0ZXLBHgq8CR5m0EMq8ZMSA"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Best of Fresh Finds Latin 2024](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The top 75 tracks from Fresh Finds Latin in 2024\. Cover: PARDOPARDO
+> The top 75 tracks from Fresh Finds Latin in 2024\. Cover: RYAN
 
 2,425 songs - 5 day 10 hr 21 min
 

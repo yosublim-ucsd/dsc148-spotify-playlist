@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Christmas Wish (Deluxe)",
+        "url": "https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236751,
+      "name": "Christmas Will Really Be Christmas",
+      "url": "https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL"
+    },
+    {
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 305666,
       "name": "The Last Day of the Year",
       "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"

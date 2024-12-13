@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Miel De Montagne",
+  "description": "The best French indie tracks right now. Cover : Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5HHo3qAB3gfUGScbvB6iXr"
+      },
+      "artists": [
+        {
+          "name": "H-Burns",
+          "url": "https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171482,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6oHCMqfwWEs5Vr8Y3gQVbT"
     },
     {
       "album": {
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 181150,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe"
@@ -3623,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/6yf7kGg3x04Uuc58Gf3fGX"
+      },
+      "artists": [
+        {
+          "name": "Nina Versyp",
+          "url": "https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151679,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6h8m26fQBiLT0XYabhyyDf"
+    },
+    {
+      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -4553,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "J\u2019aimerais tant (que tu sois l\u00e0)",
+        "url": "https://open.spotify.com/album/13ib8S0IYmTKtrg8FF3Tvb"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166900,
+      "name": "J\u2019aimerais tant (que tu sois l\u00e0)",
+      "url": "https://open.spotify.com/track/0qFplmpilzltTn3wR6SQSi"
+    },
+    {
+      "album": {
         "name": "Shake the Disease",
         "url": "https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A"
       },
@@ -5010,7 +5064,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 169794,
       "name": "La nuit dehors",
       "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
@@ -7961,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl"
       },
@@ -8414,7 +8486,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178875,
       "name": "SIXTEEN WONDERS",
       "url": "https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX"
@@ -10570,7 +10642,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178893,
       "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
       "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"

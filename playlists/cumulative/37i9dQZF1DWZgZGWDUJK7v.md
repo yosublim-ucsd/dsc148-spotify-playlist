@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZgZGWDUJK7v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZgZGWDUJK7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZgZGWDUJK7v)
 
-### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
+### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
 > Meet the popular webtoon OSTs now! \(Cover: The Great\(더 그레이트\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 

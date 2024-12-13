@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 ### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Lo más pegado, lo más trendy, o sea LIT killah & Paulo Londra
+> Lo más pegado, lo más trendy, o sea TINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,513 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,530 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 100 | [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 |
 | 101 | [Si Un Día Estás Sola \- En Vivo](https://open.spotify.com/track/6fDaFPRELEJY6yZXK9Jwn8) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \(En Vivo\)](https://open.spotify.com/album/6Jya79PDNtDzDiCKQ5dI3V) | 3:28 |
 
-Snapshot ID: `Z1hcGQAAAAALvhUf8YJyf7CTpEJWypN6`
+Snapshot ID: `Z1s8UQAAAABCfvN9DnQuue5vSNN7Jmrk`

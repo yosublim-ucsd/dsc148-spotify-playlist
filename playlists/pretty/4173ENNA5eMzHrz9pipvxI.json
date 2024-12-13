@@ -1,13 +1,53 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KSHMR",
-  "num_followers": 120433,
+  "num_followers": 120443,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAegr2HY6AJpFjRBHt3mbkvOrrmo2KL",
+  "snapshot_id": "AAAeiwK1bhBhzgc7PlFc3LrjVO5MjxVe",
   "tracks": [
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 155606,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Infinity (Dubdogz Remix)",
+        "url": "https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Infinity (Dubdogz Remix)",
+      "url": "https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba"
+    },
     {
       "added_at": "2024-12-05 13:25:36",
       "album": {
@@ -39,6 +79,130 @@
       "duration_ms": 153670,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Just Dance (With Chacel)",
+        "url": "https://open.spotify.com/album/1RZZnPzor5uMPyqrmV7Seb"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 157317,
+      "name": "Just Dance (With Chacel)",
+      "url": "https://open.spotify.com/track/58404MHSQ1tJ4NJpPZ61Y3"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Give To Me",
+        "url": "https://open.spotify.com/album/66saaaONECfathKY0zXiuE"
+      },
+      "artists": [
+        {
+          "name": "LEFSOUL",
+          "url": "https://open.spotify.com/artist/5ViPbfJBoNJmd8GZPQBc1Z"
+        }
+      ],
+      "duration_ms": 269055,
+      "name": "Give To Me",
+      "url": "https://open.spotify.com/track/1yekHtpDBr4YTSqyWwOOv4"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3U4Z9exHVml37IlSS8hrE0"
+      },
+      "artists": [
+        {
+          "name": "Dinotek",
+          "url": "https://open.spotify.com/artist/6Crh4t2BkATj7VIdDEs62X"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6CbIPjGM6kGdksZjexDtQG"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "For",
+        "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        },
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "For",
+      "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Fantasie (feat. Nicko)",
+        "url": "https://open.spotify.com/album/6WiCWRXxkg9D2HFXGYDsFk"
+      },
+      "artists": [
+        {
+          "name": "Sielo",
+          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+        },
+        {
+          "name": "SAM (KOR)",
+          "url": "https://open.spotify.com/artist/4WYz8W0ewq1Gdv3EtGURBj"
+        },
+        {
+          "name": "Nicko",
+          "url": "https://open.spotify.com/artist/4XyScEwwBFYAVzUqqR3nXI"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "Fantasie (feat. Nicko)",
+      "url": "https://open.spotify.com/track/5riUHk405V2mPAxWjFbpd3"
+    },
+    {
+      "added_at": "2024-12-12 14:17:17",
+      "album": {
+        "name": "Put Me Up (feat. Cristian Barra)",
+        "url": "https://open.spotify.com/album/6EuJi0vY17dQ6jBf8oqrOL"
+      },
+      "artists": [
+        {
+          "name": "JUDICI",
+          "url": "https://open.spotify.com/artist/23fUEUs0jPTjutYWuj6CRA"
+        },
+        {
+          "name": "Tetri",
+          "url": "https://open.spotify.com/artist/6jrv0mqYyZmn6WaBUTto32"
+        },
+        {
+          "name": "Benix",
+          "url": "https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr"
+        },
+        {
+          "name": "Cristian Barra",
+          "url": "https://open.spotify.com/artist/36r56ALFNIUVH4C3HWjytS"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Put Me Up (feat. Cristian Barra)",
+      "url": "https://open.spotify.com/track/4aUK8l46cLpwWSYKSwCFSv"
     },
     {
       "added_at": "2024-11-28 14:07:49",
@@ -179,206 +343,6 @@
       "duration_ms": 172000,
       "name": "Wake Up In The Sky (feat. Bianca Tilici)",
       "url": "https://open.spotify.com/track/7167afkupEZnmCAtMeizWv"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Heart First (feat. Jordan Shaw)",
-        "url": "https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "Heart First (feat. Jordan Shaw)",
-      "url": "https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Kassidy",
-          "url": "https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6"
-    },
-    {
-      "added_at": "2024-11-28 14:07:49",
-      "album": {
-        "name": "Looking At You",
-        "url": "https://open.spotify.com/album/0997uyDvSQwcJWwcENwPM7"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Esox",
-          "url": "https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7"
-        },
-        {
-          "name": "Tara Mcdonald",
-          "url": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Looking At You",
-      "url": "https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN"
-    },
-    {
-      "added_at": "2024-11-28 14:07:49",
-      "album": {
-        "name": "Master P",
-        "url": "https://open.spotify.com/album/3Gm31BJJXCVMiUG70ebDwp"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Master P",
-      "url": "https://open.spotify.com/track/20xMYx228flEmECumwOB3f"
-    },
-    {
-      "added_at": "2024-11-28 14:07:49",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "MSPUIYI",
-          "url": "https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul"
-        },
-        {
-          "name": "Kevu",
-          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
-        }
-      ],
-      "duration_ms": 115324,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/6LqbfWlQIHjNNOV59qTGfA"
-      },
-      "artists": [
-        {
-          "name": "Sara Phillips",
-          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/5D9hrfUtgFetORbaIKhFRy"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Boadicea",
-        "url": "https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Boadicea",
-      "url": "https://open.spotify.com/track/1lszxhcrquGtnledjcRHwb"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Imagine (feat. Carbonne) [Timmy Trumpet Remix]",
-        "url": "https://open.spotify.com/album/0phsWfE0jsPYtAkQHp6eAE"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Imagine (feat. Carbonne) [Timmy Trumpet Remix]",
-      "url": "https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Famous (Dub Mix)",
-        "url": "https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl"
-      },
-      "artists": [
-        {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/7iJYMHJo0DricxqurDXAYR"
-        },
-        {
-          "name": "JusSke",
-          "url": "https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu"
-        }
-      ],
-      "duration_ms": 162976,
-      "name": "Famous (Dub Mix)",
-      "url": "https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Sant'allegria (Jack Sani Remix)",
-        "url": "https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        },
-        {
-          "name": "Jack Sani",
-          "url": "https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN"
-        }
-      ],
-      "duration_ms": 147361,
-      "name": "Sant'allegria - Jack Sani Remix",
-      "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

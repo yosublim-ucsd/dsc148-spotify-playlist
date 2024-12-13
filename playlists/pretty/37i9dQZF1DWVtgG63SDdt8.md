@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,525 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,603 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 9 | [Cleft of the Rock](https://open.spotify.com/track/1txnM7ULI6knvHHeRbfrd4) | [The Kramers](https://open.spotify.com/artist/4YQIgHKADGuqRbq7NvSQiV) | [Cleft of the Rock](https://open.spotify.com/album/2IC7n2AWu30lEoWWmxDh3Q) | 4:14 |
 | 10 | [Hard Fought Hallelujah \(Live\)](https://open.spotify.com/track/1XaWHE3oLynmIVdr0Za1XT) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah: Heavyweight Edition](https://open.spotify.com/album/4eHLnBJidoQTVsreVhE5TX) | 5:43 |
 | 11 | [That We Might Overcome](https://open.spotify.com/track/3UbjooXOOlnYqLtOCkio9P) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [The Kingdom of Jesus](https://open.spotify.com/album/1Bp2MioZNIJBEJGfQnuWNo) | 5:45 |
-| 12 | [He Has Done Great Things \- Live](https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI) | [He Has Done Great Things \(Live\)](https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d) | 5:55 |
+| 12 | [He Has Done Great Things \- Live](https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [He Has Done Great Things \(Live\)](https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d) | 5:55 |
 | 13 | [Come To Jesus](https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe) | 3:48 |
 | 14 | [Yes and Amen \(Hallelujah\)](https://open.spotify.com/track/1GwTkgtlPo92ZD2phuM7aS) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Yes and Amen \(Hallelujah\)](https://open.spotify.com/album/6J4IzMLYaV7CMYbMKQv0W2) | 5:16 |
 | 15 | [Hold On 2 Your Faith \(feat\. Damita & Tasha Page\-Lockhart\)](https://open.spotify.com/track/5iYDOdfENd1e77SjBQxVbF) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I), [Damita](https://open.spotify.com/artist/5nTFisYoiNTWOivN573vsg), [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w) | [Hold On 2 Your Faith \(feat\. Damita & Tasha Page\-Lockhart\)](https://open.spotify.com/album/6mKQxLoCgTx2Vj6F215n9e) | 3:28 |

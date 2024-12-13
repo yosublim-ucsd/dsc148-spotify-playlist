@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Jackie Hollander, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,898 likes - 198 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,849 likes - 198 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 43 | [Stress Test](https://open.spotify.com/track/0UehMLxaN4JAEhldH8VUFY) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 5:07 |
 | 44 | [Anima \(Think of You\)](https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Anima \(Think of You\)](https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC) | 3:17 |
 | 45 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 |
-| 46 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Safa](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 |
+| 46 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [SAFA](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 |
 | 47 | [Weakness\(is\)](https://open.spotify.com/track/5TT88dUcFBv1Y8bM9mQDEF) | [Courtney Courtney](https://open.spotify.com/artist/4C8ud3kCsv4Fce3hfSyTrj) | [Weakness\(is\)](https://open.spotify.com/album/447zutXkIMwPTj5csHd7a6) | 3:10 |
 | 48 | [Yellow Light](https://open.spotify.com/track/4q7tGoPa8TTFpMOLnu0Lwj) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Yellow Light](https://open.spotify.com/album/1SsMu9ZW0HpuM8KuKxf4KQ) | 3:04 |
 | 49 | [Over For Now](https://open.spotify.com/track/52Wa3XXAZ2w0kznGyBsS6R) | [Aeris Roves](https://open.spotify.com/artist/1O5IeYqvtwnWzlNq3Ux3jd) | [Over For Now](https://open.spotify.com/album/30c5s9KqnBRP865PsSTnAC) | 1:45 |

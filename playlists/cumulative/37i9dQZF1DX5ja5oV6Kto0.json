@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: 95ANTNY",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Deto Black ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -7803,6 +7803,24 @@
     },
     {
       "album": {
+        "name": "Nollypop",
+        "url": "https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129557,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7"
+    },
+    {
+      "album": {
         "name": "LAGOS",
         "url": "https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef"
       },
@@ -11726,7 +11744,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 143000,
       "name": "Replica (The Greatest)",
       "url": "https://open.spotify.com/track/14ptimZIzywSLwUrM178ls"
@@ -12324,6 +12342,28 @@
       "duration_ms": 114315,
       "name": "SAYSHEDO",
       "url": "https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq"
+    },
+    {
+      "album": {
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117707,
+      "name": "Scenez",
+      "url": "https://open.spotify.com/track/7lhdnFvmWRpE9ggxqc5pWZ"
     },
     {
       "album": {
@@ -14218,7 +14258,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175235,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1"

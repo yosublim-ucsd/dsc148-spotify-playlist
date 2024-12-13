@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Veil",
+        "url": "https://open.spotify.com/album/0MINdZcaPXxL9hsmu2vRfC"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "Beyond the Veil",
+      "url": "https://open.spotify.com/track/2SIynhU6gdHXWYDfBRVNtV"
+    },
+    {
+      "album": {
         "name": "Birds at the Beach",
         "url": "https://open.spotify.com/album/2FfQM1xUCrRVJj4zuGlPgJ"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 95328,
       "name": "breath II",
       "url": "https://open.spotify.com/track/4CrIobpPe0rRk9vw4IhxbR"
+    },
+    {
+      "album": {
+        "name": "breath V - f\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/4Cvtk2xvjx3Nh26hjoEzQa"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "breath V - f\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU"
     },
     {
       "album": {
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166946,
       "name": "Delicate Silence",
       "url": "https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC"
@@ -1601,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/1rs6ljyVPYgdJpINDCm5MS"
+      },
+      "artists": [
+        {
+          "name": "pkwy.",
+          "url": "https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/05HqjPoKx7quO5saF51oDe"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi"
       },
@@ -1638,6 +1692,24 @@
       "duration_ms": 151500,
       "name": "Fading out",
       "url": "https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3"
+    },
+    {
+      "album": {
+        "name": "Faithful and True",
+        "url": "https://open.spotify.com/album/49GkdKLiFVPHUveIlyePcy"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186044,
+      "name": "Faithful and True",
+      "url": "https://open.spotify.com/track/78aKorfsSpBK3KRaLD1RPN"
     },
     {
       "album": {
@@ -3816,7 +3888,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 138629,
       "name": "Progress",
       "url": "https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z"
@@ -4839,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6KRWvXlt75reg17bUY6jco"
+      },
+      "artists": [
+        {
+          "name": "luminique Revox",
+          "url": "https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4a6RCTU29fS03shsB8pCuJ"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob"
       },
@@ -5030,7 +5120,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 191000,
       "name": "Sue\u00f1o (nos vemos ma\u00f1ana)",
       "url": "https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF"
@@ -5390,7 +5480,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 175355,
       "name": "The Inner Landscape",
       "url": "https://open.spotify.com/track/1jb2tLUKTYvgMmwixWgNhz"
@@ -5592,6 +5682,24 @@
       "duration_ms": 151571,
       "name": "Ujjayi",
       "url": "https://open.spotify.com/track/5O2NkxIBlzW6KaxfcPkroz"
+    },
+    {
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/4Yq6hrWBcuHN9O6de19s5i"
+      },
+      "artists": [
+        {
+          "name": "Madna E\u00fara",
+          "url": "https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157582,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/7iyE4FcjRnAkeSlrfNUpIN"
     },
     {
       "album": {

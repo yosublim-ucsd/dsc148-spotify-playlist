@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 180320,
       "name": "1970",
       "url": "https://open.spotify.com/track/4tYKzP1Gri9mglvLn1oPk0"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 131803,
       "name": "BA DA BING",
       "url": "https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 204031,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/38vUVTdH7kwrSjClH1X6z1"
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9\u05da \u05d1\u05e1\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/108HbmqbTrY6YcVx67FuWr"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05dc\u05d9\u05d0\u05d1 \u05d6\u05d5\u05d4\u05e8",
+          "url": "https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230988,
+      "name": "\u05d0\u05d9\u05da \u05d1\u05e1\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/65H1TsXpVBiBaxgsjmtlqe"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d9\u05df \u05dc\u05d0\u05df \u05dc\u05dc\u05db\u05ea",
         "url": "https://open.spotify.com/album/5b7bOHl6nOoUrY9FRIEtfG"
       },
@@ -801,6 +819,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e0\u05d9",
         "url": "https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn"
       },
@@ -837,6 +873,32 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05e0\u05d9 \u05dc\u05d0 \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/12RtFJxOoJ0PLPd6sUhQx1"
+      },
+      "artists": [
+        {
+          "name": "Dan Zeitune",
+          "url": "https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8"
+        },
+        {
+          "name": "\u05e7\u05d9\u05e0\u05e6\u05d5\u05d2\u05d9",
+          "url": "https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9"
+        },
+        {
+          "name": "Guy & Yahel",
+          "url": "https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273587,
+      "name": "\u05d0\u05e0\u05d9 \u05dc\u05d0 \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/3P8aOoAF0yvw0CgoV3WVH4"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e8\u05e5 \u05d4\u05e4\u05d5\u05db\u05d4",
         "url": "https://open.spotify.com/album/1jfg16cce9q2Qz4VtZkeW2"
       },
@@ -870,6 +932,24 @@
       "duration_ms": 133411,
       "name": "\u05d0\u05ea\u05d4",
       "url": "https://open.spotify.com/track/5IedRcrhITrSS6bHhHyo9B"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05ea\u05d4 \u05d0\u05e0\u05d9 \u05d0\u05d5\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "\u05d0\u05ea\u05d4 \u05d0\u05e0\u05d9 \u05d0\u05d5\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U"
     },
     {
       "album": {
@@ -1984,7 +2064,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 209995,
       "name": "\u05db\u05dc \u05e2\u05d5\u05d3 \u05d0\u05ea\u05d4 \u05d5\u05d0\u05e0\u05d9 \u05e0\u05e9\u05d0\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3qph0X3lFL0S0fphYa3gcg"
@@ -2046,7 +2126,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 144000,
       "name": "\u05db\u05e4\u05e8\u05d4 \u05dc\u05e0\u05d3",
       "url": "https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N"
@@ -2260,6 +2340,28 @@
       "duration_ms": 177899,
       "name": "\u05dc\u05d1\u05d3 \u05d1\u05e8\u05d9\u05d1\u05d5\u05e2 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/5UKO1yIfMVkqHl9tyNkEYQ"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d1\u05df \u05d8\u05d4\u05d5\u05e8 (\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05d5\u05e8)",
+        "url": "https://open.spotify.com/album/2B1i6jvc9EkPys6unRS8lq"
+      },
+      "artists": [
+        {
+          "name": "Amir Dadon",
+          "url": "https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq"
+        },
+        {
+          "name": "May Sfadia",
+          "url": "https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "\u05dc\u05d1\u05df \u05d8\u05d4\u05d5\u05e8 (\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05d5\u05e8)",
+      "url": "https://open.spotify.com/track/2yNi0KfqttYyLPgETAx2o6"
     },
     {
       "album": {
@@ -2788,7 +2890,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 172900,
       "name": "\u05de\u05e9\u05d7\u05e7\u05d9 \u05de\u05dc\u05d7\u05de\u05d4",
       "url": "https://open.spotify.com/track/4JCz3us4cIPUYRMuFWipJr"
@@ -3220,6 +3322,28 @@
       "duration_ms": 221000,
       "name": "\u05e4\u05d5\u05e7\u05d7 \u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5veiCdquuriJk8S1SKs8zx"
+    },
+    {
+      "album": {
+        "name": "\u05e4\u05d5\u05e7\u05d9\u05de\u05d5\u05df",
+        "url": "https://open.spotify.com/album/3IX0rctw1IwKBOJ2PLl2rx"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        },
+        {
+          "name": "Adi Bity",
+          "url": "https://open.spotify.com/artist/6wmkSxRAKlQl86DzjXRUMh"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109195,
+      "name": "\u05e4\u05d5\u05e7\u05d9\u05de\u05d5\u05df",
+      "url": "https://open.spotify.com/track/2w0dBO8rRlo5ET6dRsd2d3"
     },
     {
       "album": {

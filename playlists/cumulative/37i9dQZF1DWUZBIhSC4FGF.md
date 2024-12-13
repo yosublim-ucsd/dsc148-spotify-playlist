@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-110 songs - 6 hr 54 min
+112 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ant Sandwich](https://open.spotify.com/track/48MaeYhgUAN64sHd9EIkPP) | [Hang Playing Hedge Monkeys](https://open.spotify.com/artist/6QWb6pd3MJQbm9jJXUPw2C) | [Vesica Piscis](https://open.spotify.com/album/7KnDYwanU8QUe8HpzDYLfM) | 3:31 | 2022-05-19 |  |
 | [Araku Valley](https://open.spotify.com/track/5erKX4F9d9htRJv7laq2K5) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Araku Valley](https://open.spotify.com/album/69rrgyRD4PYbPIcA7RdL7V) | 2:30 | 2024-08-22 |  |
 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 | 2022-05-19 |  |
+| [Bahtī Layen](https://open.spotify.com/track/6rXAM353LPkcV8VRDBFZrb) | [Shaanti Tren](https://open.spotify.com/artist/4aHTZItm3O85A6SxROHVc4) | [Bahtī Layen](https://open.spotify.com/album/6qJz9HG58CYbktdFNEZtQT) | 3:44 | 2024-12-12 |  |
 | [Being in Trance](https://open.spotify.com/track/2uHnWZRjPrjmKg5UKu3h1H) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 2:59 | 2022-05-19 |  |
 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 | 2022-05-19 | 2024-03-06 |
 | [Bodhisattva Tales](https://open.spotify.com/track/5U6BgGSQFGkYFOjacaim2F) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Bodhisattva Tales](https://open.spotify.com/album/2xkHet3w3CSH56EP3FIR78) | 2:39 | 2024-01-31 | 2024-03-06 |
@@ -112,6 +113,7 @@
 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:57 | 2022-05-19 | 2023-12-21 |
 | [Three Preludes for Marimba \- N.1 E minor](https://open.spotify.com/track/7lp1HBbTLbLrLGUINqJqwO) | [Ney Rosauro](https://open.spotify.com/artist/0flSAgCmKV5vgWQeaWpzvS) | [Ney Rosauro In Concert](https://open.spotify.com/album/0H78Dn3TILtGQZI0V8INNz) | 4:05 | 2022-05-19 |  |
 | [Tribal Drums Music](https://open.spotify.com/track/4HzvPSVGo7HsPLYCM8Q7kE) | [Sound Effects Zone](https://open.spotify.com/artist/5B2GckJHi7dvLV5zXSgaav) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:17 | 2022-05-19 |  |
+| [When Souls Dream](https://open.spotify.com/track/34xhPeRHcdA2cdhYnk7XyU) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [When Souls Dream](https://open.spotify.com/album/1QNjDtHpFWDmYVCp3FIRub) | 2:12 | 2024-12-12 |  |
 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 | 2022-05-26 |  |
 | [Whispering Creek](https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 8:01 | 2022-05-19 | 2024-03-06 |
 | [With You](https://open.spotify.com/track/4taZntAqRIdQN8qVjGWwhL) | [African Tribal Drums](https://open.spotify.com/artist/3cSnpfpHB2vhGNOL72D9BK) | [African Drums of Passion: Tribal Chants, Drumming and Celebration Music](https://open.spotify.com/album/37V6pH05tvsHXwJRlpue8P) | 5:33 | 2022-05-19 |  |

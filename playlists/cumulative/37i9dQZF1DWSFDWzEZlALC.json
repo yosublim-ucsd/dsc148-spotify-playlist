@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Nina Chuba",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Edwin Rosen",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 167368,
       "name": "Altbau",
       "url": "https://open.spotify.com/track/5LmYjkAaboDhhNhDxAfMvM"
@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "aus dem nichts tape",
+        "url": "https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "Aus dem Nichts",
+      "url": "https://open.spotify.com/track/233zgukbOI7quzjK124SfJ"
+    },
+    {
+      "album": {
         "name": "CRAZY HORSE CLUB MIXTAPE, VOL. 1",
         "url": "https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ"
       },
@@ -1736,6 +1754,24 @@
       "duration_ms": 185277,
       "name": "backseat bromance",
       "url": "https://open.spotify.com/track/6JiYhXnhJVCTlWkUpEFWor"
+    },
+    {
+      "album": {
+        "name": "Balancieren",
+        "url": "https://open.spotify.com/album/64R5uhq54bMnKC5cEw45B8"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Balancieren",
+      "url": "https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8"
     },
     {
       "album": {
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 141500,
       "name": "copyshop",
       "url": "https://open.spotify.com/track/6oZ5yazbBudOJyeY5uMcrc"
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125217,
       "name": "drunk (feat. Lucry & Suena)",
       "url": "https://open.spotify.com/track/1oEotSHO1qqvgxLwtrA9u5"
@@ -4271,6 +4307,28 @@
     },
     {
       "album": {
+        "name": "absolute gewinner",
+        "url": "https://open.spotify.com/album/3YRGfiSB87g3w0GbXcSIf2"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        },
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "ehrlich sein tut weh",
+      "url": "https://open.spotify.com/track/5L3aEUAgvlI9WUfQEVnQgg"
+    },
+    {
+      "album": {
         "name": "Ein Anruf entfernt",
         "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
       },
@@ -4570,7 +4628,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 184530,
       "name": "Enten & Schweine",
       "url": "https://open.spotify.com/track/6BuJNZ1yxmHUSuQKiSp8RG"
@@ -4812,7 +4870,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 250526,
       "name": "es tut mir leid_demo",
       "url": "https://open.spotify.com/track/3aCeFqO6LEtYXGRXQ9tohZ"
@@ -5552,7 +5610,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125192,
       "name": "Freispiel",
       "url": "https://open.spotify.com/track/1pBSWR9cfofvXT8ZJgGq65"
@@ -7377,6 +7435,46 @@
     },
     {
       "album": {
+        "name": "Ich hasse dich Silvester",
+        "url": "https://open.spotify.com/album/04i1Lse5qOSuLDQEtNIi2V"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        },
+        {
+          "name": "wavvyboi",
+          "url": "https://open.spotify.com/artist/2ke2MNKxAZ9y4wUCZEGV4D"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Ich hasse dich Silvester",
+      "url": "https://open.spotify.com/track/5GkgV8ayLlMjsXDsBDruuX"
+    },
+    {
+      "album": {
+        "name": "Ich liebe dich evtl. f\u00fcr immer",
+        "url": "https://open.spotify.com/album/3Dt4bErKiNZjRvYexYp7z7"
+      },
+      "artists": [
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214185,
+      "name": "Ich liebe dich evtl. f\u00fcr immer - Single Edit",
+      "url": "https://open.spotify.com/track/1ygR7zkMJhzxedI0ZBK9W3"
+    },
+    {
+      "album": {
         "name": "Ich liebe dich f\u00fcr immer",
         "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
       },
@@ -7726,7 +7824,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142762,
       "name": "Indiepopper",
       "url": "https://open.spotify.com/track/4pCjMnO046CQky9tooaX3M"
@@ -8767,6 +8865,28 @@
     },
     {
       "album": {
+        "name": "Klippe",
+        "url": "https://open.spotify.com/album/3JtC5f6C9dqbCjRcM0UQnC"
+      },
+      "artists": [
+        {
+          "name": "Satero",
+          "url": "https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ"
+        },
+        {
+          "name": "PAVLO",
+          "url": "https://open.spotify.com/artist/1bS16AfHx66Yys34XXjwD2"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Klippe",
+      "url": "https://open.spotify.com/track/19oeuoABlMypVTxWKx5OXN"
+    },
+    {
+      "album": {
         "name": "Koffer",
         "url": "https://open.spotify.com/album/1GaRHGGzkqxaeUfEX77ZIg"
       },
@@ -8782,6 +8902,24 @@
       "duration_ms": 212690,
       "name": "Koffer",
       "url": "https://open.spotify.com/track/4LGysr2kp2s1kMdqmN9pNt"
+    },
+    {
+      "album": {
+        "name": "Kolibri",
+        "url": "https://open.spotify.com/album/5evJt1F5zeDgizZP7YRTOy"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149168,
+      "name": "Kolibri",
+      "url": "https://open.spotify.com/track/2dB2B5tGXEYKsaUO1TpoOE"
     },
     {
       "album": {
@@ -10262,7 +10400,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 103262,
       "name": "mein herz setzt aus_v2",
       "url": "https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR"
@@ -10972,7 +11110,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 209090,
       "name": "Navigator",
       "url": "https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D"
@@ -13065,6 +13203,24 @@
     },
     {
       "album": {
+        "name": "vorgestern",
+        "url": "https://open.spotify.com/album/5daSP3RsdrEdH2IdTUdRD1"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "Salz",
+      "url": "https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3"
+    },
+    {
+      "album": {
         "name": "Sch**\u00df Stadt",
         "url": "https://open.spotify.com/album/6TEsZ0v9ETwAFSDPLHoKDs"
       },
@@ -13116,7 +13272,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136587,
       "name": "Schei\u00df auf dich",
       "url": "https://open.spotify.com/track/5j2zBTSOX4ujO3iEHCfrne"
@@ -16171,6 +16327,24 @@
     },
     {
       "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211956,
+      "name": "Waldbrand",
+      "url": "https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD"
+    },
+    {
+      "album": {
         "name": "Walzer",
         "url": "https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk"
       },
@@ -16655,6 +16829,28 @@
     },
     {
       "album": {
+        "name": "Wenn du mich l\u00e4sst",
+        "url": "https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        },
+        {
+          "name": "Tjark",
+          "url": "https://open.spotify.com/artist/09xwzKoBF03jsDKJexUWcY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212023,
+      "name": "Wenn du mich l\u00e4sst",
+      "url": "https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6"
+    },
+    {
+      "album": {
         "name": "Schnee Im Sommer",
         "url": "https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH"
       },
@@ -17094,7 +17290,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 163422,
       "name": "Wieso jetzt?",
       "url": "https://open.spotify.com/track/75psKd58yXGEHArBFpMLgm"
@@ -17772,6 +17968,28 @@
       "duration_ms": 184941,
       "name": "\u00d6lgem\u00e4lde",
       "url": "https://open.spotify.com/track/56yiPTwmaA4UzYVaIrsD2y"
+    },
+    {
+      "album": {
+        "name": "\u00fcber rot",
+        "url": "https://open.spotify.com/album/1bzfK4SRN5lZnYvkDDvKrR"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        },
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "\u00fcber rot",
+      "url": "https://open.spotify.com/track/1ulrYt2UofgDztMYaFAqUV"
     },
     {
       "album": {

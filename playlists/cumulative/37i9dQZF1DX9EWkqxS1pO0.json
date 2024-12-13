@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 264874,
       "name": "Laleler Beyaz",
       "url": "https://open.spotify.com/track/2QTpa3t9Jl913GbfiTJxjQ"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Normalde",
       "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 155346,
       "name": "Yine A\u015f\u0131k Oldum Sana",
       "url": "https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk"
@@ -2818,6 +2818,24 @@
       "duration_ms": 202702,
       "name": "Yoksa",
       "url": "https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695"
+    },
+    {
+      "album": {
+        "name": "\u0130ki Oda Bir Salon",
+        "url": "https://open.spotify.com/album/7hWrtRdnlNh24VZVG1lzku"
+      },
+      "artists": [
+        {
+          "name": "Mavi Huydur Bende",
+          "url": "https://open.spotify.com/artist/6YKosyBfvwFSuNMXlG0I7G"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245285,
+      "name": "Yollar Boyunca",
+      "url": "https://open.spotify.com/track/4jNcu2S7xwt8A8ErWtft3q"
     },
     {
       "album": {

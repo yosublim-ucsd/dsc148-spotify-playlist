@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166316,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/777i3gdjJMVlWvVJvErZeu"
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Home for the Holidays (A Garland of Holiday Songs)",
+        "url": "https://open.spotify.com/album/6uzVixcsP87Odj0hzST8Ph"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211357,
+      "name": "Home for the Holidays (A Garland of Holiday Songs)",
+      "url": "https://open.spotify.com/track/1Lajkdicj9LmALu20ukupJ"
+    },
+    {
+      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 125076,
       "name": "It Is Well With My Soul",
       "url": "https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 225596,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"

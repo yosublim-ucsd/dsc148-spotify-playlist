@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 73360,
+  "num_followers": 73422,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Electro Candi 5, Pt. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA"
+      },
+      "artists": [
+        {
+          "name": "Avi Subban",
+          "url": "https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s"
+        }
+      ],
+      "duration_ms": 302562,
+      "name": "For Just A Moment - Mixed",
+      "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Some Lovin'",
         "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 236659,
       "name": "Some Lovin'",
       "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Electro Candi 5, Pt. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA"
-      },
-      "artists": [
-        {
-          "name": "Avi Subban",
-          "url": "https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s"
-        }
-      ],
-      "duration_ms": 302562,
-      "name": "For Just A Moment - Mixed",
-      "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
     },
     {
       "added_at": "2024-10-31 23:00:00",

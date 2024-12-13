@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Mauvais gar\u00e7on\" d'Helena est le Grand Hit de la semaine.",
+  "description": "\"Ma Meilleure Ennemie\" de Stromae et Pomme est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "C'est l'heure",
+        "url": "https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "C'est l'heure",
+      "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
+    },
+    {
+      "album": {
         "name": "\u00c9quilibre",
         "url": "https://open.spotify.com/album/1KAqfN196NXDeuYjaNnv8V"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 176467,
       "name": "Comment tu vas ?",
       "url": "https://open.spotify.com/track/0pE2J5ZvVckFsTQGqZZDdt"
@@ -1603,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Jalousie",
+        "url": "https://open.spotify.com/album/66edblwvSbM907hRkXBXxO"
+      },
+      "artists": [
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170772,
+      "name": "Jalousie",
+      "url": "https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW"
+    },
+    {
+      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 217386,
       "name": "Le chant des cygnes - Single Version",
       "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
@@ -3127,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "[pr\u00e8chof]",
+        "url": "https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Pri\u00e8re de n'pas d\u00e9ranger",
+      "url": "https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y"
+    },
+    {
+      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -3322,7 +3376,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 136185,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"

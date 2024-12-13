@@ -1,15 +1,51 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 243334,
+  "num_followers": 243530,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtBe1gAAAAAoiTYNHDuhRkD55M4G/CHF",
+  "snapshot_id": "Z1sk2AAAAAAFMNImNVqWWSjHSj7Qsckl",
   "tracks": [
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Forever Held",
+        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 158651,
+      "name": "Forever Held",
+      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
@@ -25,23 +61,27 @@
       "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+        "name": "cry",
+        "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
       "artists": [
         {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
         }
       ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+      "duration_ms": 146133,
+      "name": "cry - Slowed",
+      "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
@@ -61,7 +101,7 @@
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ"
@@ -77,23 +117,167 @@
       "url": "https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "stardust",
-        "url": "https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3"
+        "name": "limerence",
+        "url": "https://open.spotify.com/album/2wIU0SrVGZMN49izRWloUh"
       },
       "artists": [
         {
-          "name": "x\u00f3jira",
-          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         }
       ],
-      "duration_ms": 190250,
-      "name": "stardust",
-      "url": "https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p"
+      "duration_ms": 116990,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/7LuSRILK7hHMk6bUX2gcfF"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Birth Marks",
+      "url": "https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
+      },
+      "artists": [
+        {
+          "name": "Solkaida",
+          "url": "https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "You Are Here / Ataraxia",
+        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Minecraft",
+      "url": "https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 472695,
+      "name": "A Quick One Before the Eternal Worm Devours Connecticut",
+      "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+      },
+      "artists": [
+        {
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
+        "url": "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 270519,
+      "name": "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
+      "url": "https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
@@ -113,167 +297,7 @@
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Fa\u00e7ade",
-        "url": "https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU"
-      },
-      "artists": [
-        {
-          "name": "Petrichor",
-          "url": "https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3"
-        }
-      ],
-      "duration_ms": 228101,
-      "name": "Thought of You",
-      "url": "https://open.spotify.com/track/7GOGLPdwOkhLvHkYx6yA2r"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Birth Marks",
-      "url": "https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
-      },
-      "artists": [
-        {
-          "name": "Solkaida",
-          "url": "https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "You Are Here / Ataraxia",
-        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Minecraft",
-      "url": "https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 472695,
-      "name": "A Quick One Before the Eternal Worm Devours Connecticut",
-      "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Dagger",
-      "url": "https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
-        "url": "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 270519,
-      "name": "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
-      "url": "https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Fallen Down",
         "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
@@ -305,7 +329,7 @@
       "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
@@ -337,7 +361,7 @@
       "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Deathconsciousness",
         "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
@@ -353,7 +377,7 @@
       "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "F\u266f A\u266f \u221e",
         "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Songs About Leaving",
         "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
@@ -401,7 +425,7 @@
       "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
@@ -417,55 +441,7 @@
       "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 364293,
-      "name": "The Eternal - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'm Going to Do It",
-      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
@@ -481,39 +457,23 @@
       "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
       "artists": [
         {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+      "duration_ms": 364293,
+      "name": "The Eternal - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Soundtracks for the Blind",
-        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 947666,
-      "name": "Helpless Child",
-      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "a mother's daughter",
         "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
@@ -529,7 +489,103 @@
       "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Soundtracks for the Blind",
+        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 947666,
+      "name": "Helpless Child",
+      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'm Going to Do It",
+      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
@@ -549,7 +605,7 @@
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
@@ -569,7 +625,7 @@
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
@@ -585,23 +641,7 @@
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
@@ -617,55 +657,7 @@
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
@@ -685,7 +677,55 @@
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
@@ -701,7 +741,7 @@
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Moments.",
         "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Bardo Landscape",
         "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
@@ -789,7 +829,7 @@
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Earthbound Transmissions",
         "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
@@ -805,7 +845,7 @@
       "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
@@ -825,7 +865,7 @@
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
@@ -857,7 +897,7 @@
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
@@ -873,7 +913,7 @@
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "...Is Doomed",
         "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
@@ -889,7 +929,7 @@
       "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -913,7 +953,7 @@
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
@@ -945,7 +985,7 @@
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
@@ -961,7 +1001,7 @@
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
@@ -977,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Together Is The New Alone (2021 Remaster)",
         "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
@@ -993,87 +1033,7 @@
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Dreams of a Wake",
-        "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
-      },
-      "artists": [
-        {
-          "name": "thin air",
-          "url": "https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "Chlorine Gargoyle",
-      "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
-      },
-      "artists": [
-        {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
-        }
-      ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
@@ -1089,7 +1049,71 @@
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Dreams of a Wake",
+        "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
+      },
+      "artists": [
+        {
+          "name": "thin air",
+          "url": "https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "Chlorine Gargoyle",
+      "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "duration_ms": 291553,
+      "name": "Animism",
+      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Snowa",
         "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
@@ -1105,7 +1129,23 @@
       "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
-      "added_at": "2024-08-29 11:43:18",
+      "added_at": "2024-12-12 18:00:56",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
+    },
+    {
+      "added_at": "2024-12-12 18:00:56",
       "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
@@ -1119,38 +1159,6 @@
       "duration_ms": 405946,
       "name": "T\u00f3mi\u00f0 Titrar",
       "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Kaiten",
-        "url": "https://open.spotify.com/album/2witCrY38mr4JAfMSDKkty"
-      },
-      "artists": [
-        {
-          "name": "Genfukei",
-          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
-        }
-      ],
-      "duration_ms": 168327,
-      "name": "Kaiten",
-      "url": "https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm"
     }
   ],
   "unique_name": "gloomcore",

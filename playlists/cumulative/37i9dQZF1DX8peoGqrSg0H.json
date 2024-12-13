@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Diamond Narakorn",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1020,6 +1020,24 @@
       "duration_ms": 243000,
       "name": "FORGET ME NOT",
       "url": "https://open.spotify.com/track/0VSqxk67oPYJAhiIXzW3KP"
+    },
+    {
+      "album": {
+        "name": "Freaking Pop (\u0e42\u0e04\u0e15\u0e23\u0e1b\u0e4a\u0e2d\u0e1b)",
+        "url": "https://open.spotify.com/album/4VhZMYVO98cMiFdVTP8BVv"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178117,
+      "name": "Freaking Pop (\u0e42\u0e04\u0e15\u0e23\u0e1b\u0e4a\u0e2d\u0e1b)",
+      "url": "https://open.spotify.com/track/2ldniLhrfrOfq13Kqdcjga"
     },
     {
       "album": {
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 213130,
       "name": "Sugar-coated",
       "url": "https://open.spotify.com/track/2Pjt9CfQyjFHHM92OOAnO9"
@@ -3352,6 +3370,24 @@
       "duration_ms": 213230,
       "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) [From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series]",
+        "url": "https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI"
+      },
+      "artists": [
+        {
+          "name": "MARCKRIS BUS",
+          "url": "https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) - From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series",
+      "url": "https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj"
     },
     {
       "album": {
@@ -4285,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e49\u0e32\u0e07 (STILL) - Single",
+        "url": "https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "\u0e04\u0e49\u0e32\u0e07 (STILL)",
+      "url": "https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ"
+    },
+    {
+      "album": {
         "name": "\u0e07\u0e2d\u0e19\u0e15\u0e25\u0e2d\u0e14 (Tell Me What You Want)",
         "url": "https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru"
       },
@@ -4698,7 +4752,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 240000,
       "name": "\u0e09\u0e31\u0e19\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32 (Let Me Try Again)",
       "url": "https://open.spotify.com/track/695OTeJR2N7eaOCN9mdCou"
@@ -5788,6 +5842,24 @@
       "duration_ms": 191500,
       "name": "\u0e17\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e32\u0e19\u0e42\u0e17\u0e29 (\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19) (Bored Game) - Single",
+        "url": "https://open.spotify.com/album/2biFmVDIOGBXvKYDsmUEA9"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237076,
+      "name": "\u0e17\u0e32\u0e19\u0e42\u0e17\u0e29 (\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19) (Bored Game)",
+      "url": "https://open.spotify.com/track/2ZtLeaMjTeMitKA4ppxRax"
     },
     {
       "album": {
@@ -6943,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e14\u0e38\u0e22\u0e34\u0e48\u0e07\u0e0a\u0e2d\u0e1a",
+        "url": "https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e14\u0e38\u0e22\u0e34\u0e48\u0e07\u0e0a\u0e2d\u0e1a",
+      "url": "https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS"
       },
@@ -7290,7 +7380,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 232000,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (one more chance)",
       "url": "https://open.spotify.com/track/1YLPPIsDfcmmJU92uYmtRU"
@@ -8927,6 +9017,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (Over) - Single",
+        "url": "https://open.spotify.com/album/0cl0LcmdL8593HF21XwhJH"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227171,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (Over)",
+      "url": "https://open.spotify.com/track/50kRcZqaEbUPjTRIg2kkNr"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e48\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
         "url": "https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK"
       },
@@ -8956,7 +9064,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 251379,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e25\u0e22\u0e40\u0e18\u0e2d (Someone Who Cares)",
       "url": "https://open.spotify.com/track/7aODosiDkZoJdgny6F38Xs"
@@ -9190,7 +9298,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 271800,
       "name": "\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/6MzhHnoFxlfEvGM7XR80DH"
@@ -9796,7 +9904,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 178043,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e08\u0e23\u0e34\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/4hY513HTxKewfjrtTME3Re"

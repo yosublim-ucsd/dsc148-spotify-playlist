@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-626 songs - 1 day 7 hr 46 min
+627 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-23 | 2023-03-02 |
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2024-09-19 |  |
 | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/track/1450zwvqtMB5fPk8Jhgcwq) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/album/4se8SlxveYTBAAjjWRDrUK) | 2:36 | 2023-11-09 | 2023-12-30 |
+| [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-12 |  |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-19 | 2024-11-12 |
 | [Intro](https://open.spotify.com/track/5XCdD3ctuEP5PcirLvhvVN) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn) | [R.A.P.](https://open.spotify.com/album/0rCJcTS4ROCxbkO5N4RvOJ) | 2:07 | 2024-04-08 | 2024-04-17 |
 | [Investeren In De Liefde](https://open.spotify.com/track/4gNUmFwSGsZNjzxsjcE0aM) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/6yNagpRsQLiEsNts3ft9Ow) | 2:57 | 2024-07-10 | 2024-11-28 |

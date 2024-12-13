@@ -5084,7 +5084,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 319816,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/707uBmJIwKPCpuUxyOmdNv"
@@ -30141,6 +30141,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0EVPQwfqUhmckN7w6T4BON"
+      },
+      "artists": [
+        {
+          "name": "Tessa Rae",
+          "url": "https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/43obKV4FQuoDnahJA7M6V2"
+    },
+    {
+      "album": {
         "name": "Hearts Glow",
         "url": "https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd"
       },
@@ -31061,6 +31079,24 @@
     },
     {
       "album": {
+        "name": "Hit It To The Beat",
+        "url": "https://open.spotify.com/album/2xkUGyQWOvOHU3oHOqHkuT"
+      },
+      "artists": [
+        {
+          "name": "Kimora Nicole",
+          "url": "https://open.spotify.com/artist/2UATatXyOc8y4eJv5iYVoe"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141010,
+      "name": "Hit It To The Beat",
+      "url": "https://open.spotify.com/track/0iEWyzpjQGntvW2HzM2quM"
+    },
+    {
+      "album": {
         "name": "Hit That Low",
         "url": "https://open.spotify.com/album/6AuZcFXTwXv7shg3FMBQYg"
       },
@@ -31372,6 +31408,24 @@
       "duration_ms": 154343,
       "name": "Home",
       "url": "https://open.spotify.com/track/1N2YAgIdcYGk8AnxHkr3ML"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2MQjcOl7CJ95iCtMCx5mIU"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9n with the Mane",
+          "url": "https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200722,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1hFyt9kVIKt4HHfYMVDslT"
     },
     {
       "album": {
@@ -44097,6 +44151,24 @@
     },
     {
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/6BLhEsPGI0mkKo1Upumcew"
+      },
+      "artists": [
+        {
+          "name": "T billion",
+          "url": "https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169898,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP"
+    },
+    {
+      "album": {
         "name": "Get Real",
         "url": "https://open.spotify.com/album/3Ty4Kx8fc1rcRRKytMVtEK"
       },
@@ -46180,6 +46252,24 @@
       "duration_ms": 126014,
       "name": "MISTAKES",
       "url": "https://open.spotify.com/track/2oW2fHVySMw0qfqbXmsq6f"
+    },
+    {
+      "album": {
+        "name": "MISTLETOE",
+        "url": "https://open.spotify.com/album/2obQlk8qHhYzlM49ModkRp"
+      },
+      "artists": [
+        {
+          "name": "SPIKY",
+          "url": "https://open.spotify.com/artist/5XVlvlIGLB8sHvzYXrm9Xo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "MISTLETOE",
+      "url": "https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI"
     },
     {
       "album": {
@@ -58254,6 +58344,24 @@
       "duration_ms": 137389,
       "name": "Right Back Around",
       "url": "https://open.spotify.com/track/6YVnpHHjg4Ukgk58yS9Fbi"
+    },
+    {
+      "album": {
+        "name": "Right Here, Right Now",
+        "url": "https://open.spotify.com/album/5tMa11evRIkQfaar6vrkqQ"
+      },
+      "artists": [
+        {
+          "name": "BEET",
+          "url": "https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286939,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/0VgrD6wa10IDOYT4ThHrNA"
     },
     {
       "album": {

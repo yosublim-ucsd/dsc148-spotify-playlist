@@ -2,9 +2,9 @@
 
 ### [Local Noise](https://open.spotify.com/playlist/37i9dQZF1DWVHkDVXyDP0L)
 
-> New and local indie noise\. Cover: Press Club
+> New and local indie noise\. Cover: Dear Seattle
 
-371 songs - 20 hr 38 min
+376 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [a hypothetical exit](https://open.spotify.com/track/1CFqQAUqfI7opxQOYeY3RU) | [Belle Haven](https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh) | [something new](https://open.spotify.com/album/5EFpw3SE9AxjyEOc2KGmcX) | 2:43 | 2024-10-03 | 2024-11-08 |
 | [ADELINE](https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [ADELINE](https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L) | 2:48 | 2024-06-20 | 2024-09-10 |
 | [AFTERBIAS](https://open.spotify.com/track/3LqQOYcWauYqd7gtohdbYL) | [Cairo Knife Fight](https://open.spotify.com/artist/2jniexauU4FSbzH7PKeaDs) | [AFTERBIAS](https://open.spotify.com/album/5wKQUn06SIFDsVejNow9Ex) | 4:17 | 2024-06-27 | 2024-07-27 |
+| [Afterthought](https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Afterthought](https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2) | 3:24 | 2024-12-12 |  |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-10-04 |
 | [all you ever wanted](https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [all you ever wanted](https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db) | 3:42 | 2024-08-15 | 2024-10-25 |
 | [Already Offline](https://open.spotify.com/track/4WubJzxLtpPhcpR6dGZSjy) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Colours of My Daydream](https://open.spotify.com/album/4E9plP04VFwVhL4wPJLcr9) | 3:26 | 2024-09-12 | 2024-11-08 |
@@ -36,7 +37,7 @@
 | [Beast Of You](https://open.spotify.com/track/2uflCDlWs8f4BsdeZbW44K) | [Civic Video](https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY) | [Beast Of You](https://open.spotify.com/album/2HEdIKK7hSCwn3lFWxZzAe) | 4:12 | 2024-11-07 |  |
 | [Best Bits](https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Best Bits](https://open.spotify.com/album/1xAopNlyW4Q4Cr59b5owFT) | 4:03 | 2024-05-30 | 2024-07-27 |
 | [Best Friend](https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Best Friend](https://open.spotify.com/album/6csQlZICNTmde0WxiGny3r) | 3:09 | 2024-05-24 | 2024-07-27 |
-| [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 |  |
+| [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 | 2024-12-13 |
 | [Black And Blue](https://open.spotify.com/track/0l8Hl8nBG5YjVZqrl4A0QV) | [High Tropics](https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC) | [Keep The Faith](https://open.spotify.com/album/5w8bTiMgsEUfvzHC1aqi25) | 3:18 | 2024-10-24 |  |
 | [Bleed But Never Die](https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Bleed But Never Die](https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6) | 2:52 | 2024-08-08 | 2024-10-11 |
 | [Blood](https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/5m1PFNZ4wQOqJrMVsSyGn4) | 3:34 | 2024-08-01 | 2024-11-08 |
@@ -57,7 +58,7 @@
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-22 | 2024-11-15 |
 | [Catacombs](https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Catacombs](https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H) | 2:55 | 2024-08-22 | 2024-10-25 |
 | [CELLPHONE](https://open.spotify.com/track/6JR09Bqla348Q30W34Vh5n) | [CHEAP\-SKATE](https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC) | [CELLPHONE](https://open.spotify.com/album/3izuE4jY445gczp76aNJQn) | 2:40 | 2024-05-24 | 2024-07-05 |
-| [Champagne & Nikes](https://open.spotify.com/track/7eQ9YZqwYQ5peVXUuzSoKU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Champagne & Nikes](https://open.spotify.com/album/7BsLSkCYzbScXI4BFReb5d) | 2:36 | 2024-10-11 |  |
+| [Champagne & Nikes](https://open.spotify.com/track/7eQ9YZqwYQ5peVXUuzSoKU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Champagne & Nikes](https://open.spotify.com/album/7BsLSkCYzbScXI4BFReb5d) | 2:36 | 2024-10-11 | 2024-12-13 |
 | [Change Enough](https://open.spotify.com/track/0uPnZNkvgQdR1xjEwMWWNP) | [CLAMM](https://open.spotify.com/artist/2QYx4UUKqLe1OUWFkjclqH) | [Change Enough](https://open.spotify.com/album/34QoPL2bDXG5l3fKzxzY0P) | 2:29 | 2024-05-24 | 2024-07-19 |
 | [Changing The Weather](https://open.spotify.com/track/1c62eQmGuCbpNCffeOyqE9) | [Sophian](https://open.spotify.com/artist/2wO1VSNDNjlMlJzH7vUQsQ) | [Changing The Weather](https://open.spotify.com/album/3QK9CCxBUuZhKsglbhmIAy) | 3:35 | 2024-09-09 | 2024-10-18 |
 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 | 2024-11-28 |  |
@@ -77,6 +78,7 @@
 | [Cool Moderator](https://open.spotify.com/track/43kHYRjXpqgaq2e8F6skLf) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Cool Moderator](https://open.spotify.com/album/4K3htxHouNm3YG8jLEF6OR) | 2:19 | 2024-07-25 | 2024-09-13 |
 | [Cost Of Living](https://open.spotify.com/track/5VbctGkSDXiM3PxHe3RrU2) | [Last Quokka](https://open.spotify.com/artist/4jDXnvhe26sEkChNipL3YV) | [Cost Of Living](https://open.spotify.com/album/1hzesLwWWraYhyJTSHZJGD) | 2:11 | 2024-08-08 | 2024-09-20 |
 | [Couch Potato](https://open.spotify.com/track/6yLG0gsssy6C5ZDgVZVziN) | [Gee Tee](https://open.spotify.com/artist/3zCsNaZ3eFQ6I8MjmHJuTk) | [Prehistoric Chrome](https://open.spotify.com/album/2pxO2g1foNVw2NgV6yHemC) | 1:16 | 2024-05-24 | 2024-07-05 |
+| [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 | 2024-12-12 |  |
 | [Coup De Gronk](https://open.spotify.com/track/1Hkh2KATWq19TXg9b0TQ9o) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Coup De Gronk](https://open.spotify.com/album/3hD5HtmgNR8qDmw51vN42Z) | 4:03 | 2024-09-09 | 2024-11-08 |
 | [DASHCAM](https://open.spotify.com/track/0Gx36lcDcYj74kGk5yZLDy) | [dogworld](https://open.spotify.com/artist/705EfRTwmRqmocyAbjp3BR) | [DASHCAM](https://open.spotify.com/album/5N5vD4TfyBR3H2BjlebNmH) | 2:52 | 2024-08-01 | 2024-10-04 |
 | [de facto](https://open.spotify.com/track/2uYInarDGrbZ2oarZwHsmx) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [fainter](https://open.spotify.com/album/05qFLnsjeBAwHtBHM6a8yc) | 3:34 | 2024-11-21 |  |
@@ -206,6 +208,7 @@
 | [Manila](https://open.spotify.com/track/2OtUyvATrWPXSVxwMNMfqX) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [Manila](https://open.spotify.com/album/6NiBBxcWeaBPx58J3jkVHt) | 3:27 | 2024-05-24 | 2024-07-12 |
 | [Marlborough's Gold](https://open.spotify.com/track/6ce2CI55jsFuw0NJW0mJTJ) | [Blonded](https://open.spotify.com/artist/2E5LHnySArxs2lCP59s40J) | [Marlborough's Gold](https://open.spotify.com/album/0v31kn9oQZ0ptSmom9jLkR) | 2:41 | 2024-05-24 | 2024-07-27 |
 | [Masquerade](https://open.spotify.com/track/2Q0ZhEGwLcjxKlfbMiXcMU) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Midnight Zoo](https://open.spotify.com/album/1EX2bcWQID2JFOTbfGSqSR) | 3:38 | 2024-08-08 | 2024-09-27 |
+| [Mercy Me](https://open.spotify.com/track/6fDahIjRg7bVxkvpRauDNC) | [Casual Fan](https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa) | [Mercy Me](https://open.spotify.com/album/4I6RfRbaphM941T4gFckct) | 3:41 | 2024-12-12 |  |
 | [Metamorphosis](https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Metamorphosis](https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE) | 3:23 | 2024-06-20 | 2024-07-19 |
 | [mid century](https://open.spotify.com/track/1YanfLkHoNKNmtOeNEsGdL) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [real or staged](https://open.spotify.com/album/5jV0ye5lXFSUTGfkvgLZXa) | 3:24 | 2024-09-09 | 2024-11-08 |
 | [Midas](https://open.spotify.com/track/5zNHSTHM4r7Kic1ZuIM2iC) | [Humble Armada](https://open.spotify.com/artist/7kJtVdGDj2fmVyxPZ2aczQ) | [Midas](https://open.spotify.com/album/0Df45ziHkXe9fdJyrAB1ce) | 5:00 | 2024-09-19 |  |
@@ -217,7 +220,7 @@
 | [Morningside](https://open.spotify.com/track/43FlUzL0K5A27mJcemLx7r) | [blue diner.](https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E) | [Morningside](https://open.spotify.com/album/5qkwIJmmMlPxsbt5xeVPfW) | 3:52 | 2024-06-27 | 2024-08-09 |
 | [Move On](https://open.spotify.com/track/3usPMzPwvPJfP5PzX5IeRr) | [Scatter Light](https://open.spotify.com/artist/0Xm0TXqKzbyZVDLZgJFgbD) | [Move On](https://open.spotify.com/album/4iYWpXw3b8gsAV0oTbivb7) | 3:33 | 2024-10-17 |  |
 | [Moving Out](https://open.spotify.com/track/3fZ3IDsdGkND5OJR0WACmN) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Moving Out](https://open.spotify.com/album/7djWr41uB6oGxWJNLgkPhn) | 2:22 | 2024-05-30 | 2024-08-02 |
-| [Munarra](https://open.spotify.com/track/24yO4P0dHKnG6MKklMzwaG) | [Briggs](https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu) | [Munarra](https://open.spotify.com/album/2IMBC6hkbxh91dvQyhr4GI) | 2:47 | 2024-11-21 |  |
+| [Munarra](https://open.spotify.com/track/24yO4P0dHKnG6MKklMzwaG) | [Briggs](https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu) | [Munarra](https://open.spotify.com/album/2IMBC6hkbxh91dvQyhr4GI) | 2:47 | 2024-11-21 | 2024-12-13 |
 | [MY DISASTER](https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [MY DISASTER](https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w) | 2:41 | 2024-07-25 | 2024-08-23 |
 | [Nectarine Fuzz](https://open.spotify.com/track/4slpmI7PQm7pZwabFYPLii) | [Loose Goose](https://open.spotify.com/artist/0jlsQc8b4f7De8oxPxFtG8) | [Nectarine Fuzz](https://open.spotify.com/album/2J00JQTIgdXIitOoiDGmze) | 4:23 | 2024-05-30 | 2024-07-19 |
 | [Never Be Lonely](https://open.spotify.com/track/5sQnS7HSMDgIs74Vp2WbcU) | [Quivers](https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55) | [Oyster Cuts](https://open.spotify.com/album/2fPGjCMtDIdcsje6DtNWf9) | 3:57 | 2024-08-08 | 2024-09-20 |
@@ -233,6 +236,7 @@
 | [not ur bitch](https://open.spotify.com/track/4iINdMihS8BH7OW2XDBx7J) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [not ur bitch](https://open.spotify.com/album/1LBpCcJeY72WC4O1uuozAm) | 2:18 | 2024-09-19 |  |
 | [Oh Boy](https://open.spotify.com/track/6R7RYIpagtAYuv7SVkzn0B) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [Oh Boy](https://open.spotify.com/album/4PuzirjypjLimJ2ozWwVSF) | 3:57 | 2024-11-28 |  |
 | [Oh Boy](https://open.spotify.com/track/0xhjLlekKpHwiVuhoLPEzb) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Oh Boy](https://open.spotify.com/album/2oYOEFgUFZbic7TyJ2gbyv) | 3:40 | 2024-10-03 |  |
+| [Old and Grey](https://open.spotify.com/track/3UxgO44rRy8iIvx0AU3XP5) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [Old and Grey](https://open.spotify.com/album/3L9UjsYXKNhY3hSBKSpoWZ) | 3:06 | 2024-12-12 |  |
 | [Old Or Young](https://open.spotify.com/track/7ovbdej62p6yKcefzwLQCE) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [Old Or Young](https://open.spotify.com/album/0pSpQRPA14bq0jdJr94bF2) | 3:47 | 2024-08-22 | 2024-11-08 |
 | [Old Town](https://open.spotify.com/track/342QGFD36OfWqGhjCCA66V) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Old Town](https://open.spotify.com/album/6D1rQlmBGsfleGHkZVGLfx) | 3:35 | 2024-05-24 | 2024-08-09 |
 | [On Notice](https://open.spotify.com/track/55RrgQiFR0C7Gjx3dzI6RT) | [Kitschen Boy](https://open.spotify.com/artist/3us25I84azA5CwbzFMB8vC) | [On Notice](https://open.spotify.com/album/01Q0sOjaBqwEMvldAGD6rE) | 3:16 | 2024-08-01 | 2024-09-27 |
@@ -241,7 +245,7 @@
 | [One Day](https://open.spotify.com/track/26OECDLRQBGRf4c7QDUdso) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Space Between](https://open.spotify.com/album/2qAuT4NBNUKsxC6rwVMIPp) | 3:17 | 2024-08-22 | 2024-09-27 |
 | [One Metaphor](https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN) | [Arbes](https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu) | [One Metaphor](https://open.spotify.com/album/2LPd8kbzqnhQy3Hm3lEpD5) | 5:06 | 2024-10-17 | 2024-11-15 |
 | [One on One](https://open.spotify.com/track/06gPKlZOd0kvQmxLB4yXnW) | [Program](https://open.spotify.com/artist/5feuD3OclZgbRrUdau2wL3) | [One on One](https://open.spotify.com/album/0GQQvjMDFqSINU7pG2X4oV) | 3:40 | 2024-06-06 | 2024-08-02 |
-| [Only A Fool](https://open.spotify.com/track/4CCb9VExF2Fpwt0TWqJOO8) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Only A Fool](https://open.spotify.com/album/1zzRplgwH1g2FX4QDfuRLU) | 4:18 | 2024-11-07 |  |
+| [Only A Fool](https://open.spotify.com/track/4CCb9VExF2Fpwt0TWqJOO8) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Only A Fool](https://open.spotify.com/album/1zzRplgwH1g2FX4QDfuRLU) | 4:18 | 2024-11-07 | 2024-12-13 |
 | [Operating At A Loss](https://open.spotify.com/track/1OfGJzpLDSnRbcJr4EYwLf) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Operating At A Loss](https://open.spotify.com/album/3Phgx51HyP7OWFjbPCEkL6) | 3:21 | 2024-09-26 |  |
 | [Ottoway](https://open.spotify.com/track/4tRkdz8e9M32RSK82CveHH) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Ottoway](https://open.spotify.com/album/3ttnYrKFL9uqGXmPBeHWue) | 3:15 | 2024-06-27 | 2024-10-18 |
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-15 | 2024-10-25 |
@@ -273,7 +277,7 @@
 | [Really Means Forever](https://open.spotify.com/track/6Ir1utSTc2FZ5HDlq5ENcs) | [Loretta](https://open.spotify.com/artist/59D3Q3GPUKTirID5bOxnzR) | [Really Means Forever](https://open.spotify.com/album/0Ss80P1lJHOcKH8brLrfNf) | 2:41 | 2024-08-22 | 2024-09-20 |
 | [Remember](https://open.spotify.com/track/7zaZKLmMiZrmNb8TslHSU5) | [TILE](https://open.spotify.com/artist/2vdwOGSZIjnvIgXm22BcPB) | [Remember](https://open.spotify.com/album/7B17yq2tj1zK6nnovJv8k5) | 3:09 | 2024-06-20 | 2024-08-02 |
 | [Rental Girlfriend](https://open.spotify.com/track/6SDT43k16uUxMUqvug3zeY) | [1\-800\-Mikey](https://open.spotify.com/artist/4FsaaJrgOdlftovTmc6fKN) | [Digital Pet](https://open.spotify.com/album/1C97iUJ0sJPyevPzLF6ZVA) | 1:56 | 2024-10-17 |  |
-| [Repeating Repeating](https://open.spotify.com/track/2gGlhtCT3htTp18SfRMOi5) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [Heavy Weight Heart](https://open.spotify.com/album/6mH9asZNJIotnXY0aDRWFY) | 5:08 | 2024-09-12 |  |
+| [Repeating Repeating](https://open.spotify.com/track/2gGlhtCT3htTp18SfRMOi5) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [Heavy Weight Heart](https://open.spotify.com/album/6mH9asZNJIotnXY0aDRWFY) | 5:08 | 2024-09-12 | 2024-12-13 |
 | [Restless](https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Stiletto](https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq) | 3:43 | 2024-10-11 | 2024-11-15 |
 | [Rich Boy](https://open.spotify.com/track/2f52g2azBDFDjurfBew533) | [Lipstereo](https://open.spotify.com/artist/3f3RUPvDMW6bI9fQW5ICMx) | [Rich Boy](https://open.spotify.com/album/1eG1yqQFodLjqUkCGE21hg) | 2:17 | 2024-06-27 | 2024-08-23 |
 | [Ricochet](https://open.spotify.com/track/0bAVFTQjDZ1ZOKiqTS4LRq) | [Scream Mountain](https://open.spotify.com/artist/66ynecUWT8zCAzZ1GnbfUN) | [Ricochet](https://open.spotify.com/album/4Nmz7HLOy8PPU25q5ofj0J) | 3:19 | 2024-07-04 | 2024-08-16 |
@@ -298,9 +302,10 @@
 | [Sick Kinda WRLD](https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Let's Live a Life Better Than This](https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe) | 3:38 | 2024-10-24 |  |
 | [Silicone Booby Trap](https://open.spotify.com/track/1WQEhFY3hhl62gRz9VfLIf) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [Silicone Booby Trap](https://open.spotify.com/album/67s6MzyFnNgjf9u1ZmVeJW) | 4:10 | 2024-06-27 | 2024-08-09 |
 | [Silverline](https://open.spotify.com/track/4xZquoRZVEDlyPZ1qEpyPz) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Silverline](https://open.spotify.com/album/4aAgl7KIiMyyimM85ulBS8) | 2:22 | 2024-05-24 | 2024-07-05 |
+| [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 | 2024-12-12 |  |
 | [Simply Disappear](https://open.spotify.com/track/4xB1qJcGJyNmjwlKuloCGF) | [Sorry, Dave](https://open.spotify.com/artist/02vwoLzsku4br5HjfVnUBB) | [Simply Disappear](https://open.spotify.com/album/1Hq8s4XtnJ63D1HdfUGwrk) | 3:49 | 2024-07-18 | 2024-08-30 |
 | [Skinwalk](https://open.spotify.com/track/36noVZ9t81h21IRNsh5Cm8) | [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [Skinwalk](https://open.spotify.com/album/145sQ9zNrPRiM4PNDQDtme) | 2:59 | 2024-06-27 | 2024-08-02 |
-| [Sleeping Dogs](https://open.spotify.com/track/7xW9JjKq1cl6ZBq8tTkeWA) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Sleeping Dogs](https://open.spotify.com/album/6pwByNKOnvpOvzNrUg242D) | 4:47 | 2024-10-11 |  |
+| [Sleeping Dogs](https://open.spotify.com/track/7xW9JjKq1cl6ZBq8tTkeWA) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Sleeping Dogs](https://open.spotify.com/album/6pwByNKOnvpOvzNrUg242D) | 4:47 | 2024-10-11 | 2024-12-13 |
 | [slut era](https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [slut era](https://open.spotify.com/album/26Aap3VdSgDzBzxvY38Us7) | 2:35 | 2024-07-11 | 2024-09-10 |
 | [Social Nightmare](https://open.spotify.com/track/40paoObiYMx0aKj7V2w5fU) | [Pasiflorez](https://open.spotify.com/artist/1AoUutm6HXbWfMIvdF9QIm) | [Hibiscus Radio](https://open.spotify.com/album/5j1IhvkzvrXTlhjkY4hdNN) | 4:27 | 2024-06-27 | 2024-08-30 |
 | [Softness](https://open.spotify.com/track/7rwmhP8cWi0lPLvxcGcaN1) | [Jess Day](https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk) | [Softness](https://open.spotify.com/album/6KzHzOndRVMEx7M7gUsFcL) | 2:58 | 2024-08-08 | 2024-08-30 |

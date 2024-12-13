@@ -6265,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "Torrero",
+        "url": "https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Torrero",
+      "url": "https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn"
+    },
+    {
+      "album": {
         "name": "Tra Di Noi",
         "url": "https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa"
       },

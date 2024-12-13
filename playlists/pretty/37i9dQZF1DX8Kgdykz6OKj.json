@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1384326,
+  "num_followers": 1384860,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "You're the Only One Watching",
+        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "You're the Only One Watching",
+      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Simple Days",
         "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 125720,
       "name": "Simple Days",
       "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "You're the Only One Watching",
-        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "You're the Only One Watching",
-      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Quaranta (Deluxe)",
-        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 130895,
-      "name": "Cheaters",
-      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Quaranta (Deluxe)",
+        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 130895,
+      "name": "Cheaters",
+      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Perdu in Peru",
         "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 178604,
       "name": "More Than a Lova",
       "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "The FEEL",
+        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
+      },
+      "artists": [
+        {
+          "name": "RC & The Gritz",
+          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
+        }
+      ],
+      "duration_ms": 141220,
+      "name": "The Feel",
+      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "They Ain't Want Us",
         "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 222027,
       "name": "PARADIGM",
       "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The FEEL",
-        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
-      },
-      "artists": [
-        {
-          "name": "RC & The Gritz",
-          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
-        }
-      ],
-      "duration_ms": 141220,
-      "name": "The Feel",
-      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "The New Groove: The Blue Note Remix Project Vol. 1",
+        "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         },
         {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Easy Mo Bee",
+          "url": "https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 413560,
+      "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
+      "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
     }
   ],
   "unique_name": "Jazz Rap",

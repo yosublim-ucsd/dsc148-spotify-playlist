@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-253 songs - 14 hr 46 min
+254 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Nụ hôn Bisou](https://open.spotify.com/track/4TMdpMJNQdcawl8JjZEwLk) | [Lãng](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Nụ hôn Bisou](https://open.spotify.com/album/1oMX4OfwGJgQj7KCBETcll) | 2:36 | 2023-10-19 | 2024-07-09 |
 | [nữ siêu anh hùng](https://open.spotify.com/track/5FFVQGnZuJt9iAYpasTeq4) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 3:31 | 2023-10-19 | 2024-04-27 |
 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 | 2023-10-19 | 2024-04-19 |
+| [OUTTAMOVE](https://open.spotify.com/track/14Mh7VUXNukK5LQn5WzOKt) | [RLS DASWALLO](https://open.spotify.com/artist/19KDYfXcvqPvFN4oDfP1Hl), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7), [AIGHT D](https://open.spotify.com/artist/3fRoQYJ4BuVmWw3FjrkWjG), [MinhLai](https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ) | [Saigon By Night](https://open.spotify.com/album/1uSrDsNPyoUmXUyMjWpB0u) | 3:25 | 2024-12-12 |  |
 | [Phi Hành Gia](https://open.spotify.com/track/4vGEfBrpiM4zfYzSyPpysX) | [Renja](https://open.spotify.com/artist/2cKAEkWBpi8mNbjaL4361s), [Slow T](https://open.spotify.com/artist/5QOqH8BG0InIySjZEKSdBO), [Sugar Cane](https://open.spotify.com/artist/0dxoTPoa0aXYlevHgpROKE), [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [Kain](https://open.spotify.com/artist/47kdZyg5G978v7kSnvr7sb) | [Phi Hành Gia](https://open.spotify.com/album/1a90Y8qFysuGSbj1q5N4Ox) | 5:45 | 2024-09-12 | 2024-09-18 |
 | [PHI TIÊU](https://open.spotify.com/track/7xQgNShMxGfs2fxNiBzevP) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [PHI TIÊU](https://open.spotify.com/album/000WXONnBIeHS0wGFARHcJ) | 3:18 | 2024-02-18 | 2024-03-01 |
 | [pho real](https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [pho real](https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD) | 2:46 | 2024-02-29 | 2024-06-13 |
@@ -244,7 +245,7 @@
 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 | 2023-10-19 | 2024-04-04 |
 | [Xuất Phát Điểm](https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:09 | 2024-06-25 | 2024-06-29 |
 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 | 2023-10-19 |  |
-| [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 | 2023-10-19 |  |
+| [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 | 2023-10-19 | 2024-12-13 |
 | [Zai Phố \(Đống Đa\)](https://open.spotify.com/track/43fvkrizvocHYASUbUXfVo) | [gung0cay](https://open.spotify.com/artist/1Z3xp9Er70GeoUjeB77vJc), [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh) | [Zai Phố \(Đống Đa\)](https://open.spotify.com/album/0I1KD4gVRgGbk0Vho44NTI) | 2:37 | 2023-10-19 | 2023-11-03 |
 | [À Lôi](https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV) | [Double2T](https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [À Lôi](https://open.spotify.com/album/5DUBKdrQ7CsTblmHQXh4ae) | 3:17 | 2023-10-19 | 2023-12-06 |
 | [Đau Đầu](https://open.spotify.com/track/1HSig0QkU1mbUhnZ6vdivA) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Đau Đầu](https://open.spotify.com/album/149LLahGt5lMfHxA1JTmR3) | 3:43 | 2024-11-16 | 2024-11-25 |

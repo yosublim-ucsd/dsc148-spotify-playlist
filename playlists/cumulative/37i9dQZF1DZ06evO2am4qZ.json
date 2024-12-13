@@ -1876,6 +1876,36 @@
     {
       "album": {
         "name": "Poof Be Gone",
+        "url": "https://open.spotify.com/album/1kEnpnUrgqxiCJGVSu3QbW"
+      },
+      "artists": [
+        {
+          "name": "KyleYouMadeThat",
+          "url": "https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Yvette",
+          "url": "https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV"
+        },
+        {
+          "name": "Cheerlebridee",
+          "url": "https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112931,
+      "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
+      "url": "https://open.spotify.com/track/4zMBOUb8jSBMZoYW6VlCfO"
+    },
+    {
+      "album": {
+        "name": "Poof Be Gone",
         "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
       },
       "artists": [
@@ -1898,7 +1928,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 112931,
       "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
       "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"

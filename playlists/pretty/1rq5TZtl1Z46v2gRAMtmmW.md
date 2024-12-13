@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,543 likes - 40 songs - 2 hr 34 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,554 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 32 | [Ocotillo](https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ocotillo](https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH) | 8:43 |
 | 33 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 34 | [Mutations \- Edit](https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Mutations](https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z) | 2:44 |
-| 35 | [Bul Bul Bul](https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Bul Bul Bul](https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8) | 3:28 |
+| 35 | [Backwards Remix](https://open.spotify.com/track/31WzhknzUzUGWyHgDI3lFb) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Fatboi Sharif](https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj), [Desde](https://open.spotify.com/artist/7y51W2VzenSdG12s8AetIN) | [Backwards Remix](https://open.spotify.com/album/3fYMgfLeNJ1VDi9iKlJa0d) | 3:59 |
 | 36 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 |
 | 37 | [Feeling Alive](https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/3lWtwOXZx0JW7y9ynpcVQ2) | 3:49 |
 | 38 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 |
 | 39 | [I Have Nothing More To Tell You](https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 2:57 |
 | 40 | [Wonderful Christmastime](https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Wonderful Christmastime](https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI) | 2:57 |
 
-Snapshot ID: `AAAPvawrs6xLr1bjOgMmmsx/ksQyY589`
+Snapshot ID: `AAAPwVu7/g8dNGXC0byTAHSIJWtVREo9`

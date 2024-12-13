@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Milhanas",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Parcels, MARO",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 268613,
       "name": "Fetiche Fon\u00e9tico",
       "url": "https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 256980,
       "name": "N\u00e3o Me Dou a Ningu\u00e9m (feat. A Sul)",
       "url": "https://open.spotify.com/track/0n6JKQ4C4sVNbqyY4OpQTU"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 199259,
       "name": "tenho de pensar",
       "url": "https://open.spotify.com/track/0T3LrejHadSdzJmh7ZLpbX"
@@ -3190,6 +3190,42 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Wild Dreams",
+        "url": "https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3vam",
+          "url": "https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203575,
+      "name": "Wild Dreams",
+      "url": "https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr"
+    },
+    {
+      "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
     },
     {
       "album": {

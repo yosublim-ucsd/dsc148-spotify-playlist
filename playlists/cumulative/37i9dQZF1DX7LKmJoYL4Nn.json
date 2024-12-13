@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Songs from \u201cENSEMBLE STARS!!\u201d\u300c\u3042\u3093\u30b9\u30bf\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2014-2019 Happy Elements K.K",
-  "name": "ENSEMBLE STARS!! \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+  "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
+  "name": "ENSEMBLE STARS!!",
   "tracks": [
     {
       "album": {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 224546,
       "name": "Artistic Partisan",
       "url": "https://open.spotify.com/track/1vtgrIX32P8co81ow0gBd8"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5 Ra*bits \u300cJUMPIN' LUCK BEAT\u300d",
+        "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
+      },
+      "artists": [
+        {
+          "name": "Ra*bits",
+          "url": "https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227734,
+      "name": "JUMPIN' LUCK BEAT",
+      "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
         "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 288373,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 224500,
       "name": "Romantic Xday!",
       "url": "https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo"
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Valkyrie \uff06 \u7d05\u6708\u300c\u52c7\u4fa0\u9752\u6625\u8b33\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 04",
+        "url": "https://open.spotify.com/album/6jO2cWUC0274MSeo1yCQql"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie & \u7d05\u6708/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5f71\u7247 \u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)\u3001\u84ee\u5df3 \u656c\u4eba(CV.\u6885\u539f \u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d \u7d05\u90ce (CV.\u795e\u5c3e \u664b\u4e00\u90ce)\u3001\u795e\u5d0e \u98af\u99ac(CV.\u795e\u6c38 \u572d\u4f51)",
+          "url": "https://open.spotify.com/artist/7vbRrVS90KcQJxoi5YwIGM"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263161,
+      "name": "\u52c7\u4fa0\u9752\u6625\u8b33",
+      "url": "https://open.spotify.com/track/6f2lqCBtPtJ5XHGtrLZpWi"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 M\u2200N\u2200\u300c\u55aa\u5931\u5bd3\u610f -LOST BALLADE-\u300d",
         "url": "https://open.spotify.com/album/5zux0yQaIObjz2e8HHbflS"
       },
@@ -1986,7 +2022,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 267186,
       "name": "\u5929\u4e0b\u7121\u6575\u2606\u30e1\u30c6\u30aa\u30ec\u30f3\u30b8\u30e3\u30fc!",
       "url": "https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD"
@@ -2112,7 +2148,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 248053,
       "name": "\u8056\u5c11\u5e74\u904a\u622f",
       "url": "https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY"

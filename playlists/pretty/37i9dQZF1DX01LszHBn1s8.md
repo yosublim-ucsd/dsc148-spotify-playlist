@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > the olive oil story .......
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,186 likes - 1,006 songs - 2 day 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,171 likes - 1,006 songs - 2 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

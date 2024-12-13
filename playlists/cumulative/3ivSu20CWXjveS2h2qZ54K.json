@@ -2837,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Antimateria",
+        "url": "https://open.spotify.com/album/4JaBXZC1HKitfLG5s4ZJyw"
+      },
+      "artists": [
+        {
+          "name": "Adela Valeriana",
+          "url": "https://open.spotify.com/artist/2GuHdvcCQ9MLBn2Qa3nOvr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220981,
+      "name": "Antimateria",
+      "url": "https://open.spotify.com/track/3ZVGgG6MZwhmnpnKi9yM7X"
+    },
+    {
+      "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
       },
@@ -3362,6 +3380,24 @@
       "duration_ms": 335984,
       "name": "As Sick As The Secrets Within",
       "url": "https://open.spotify.com/track/7hK0aTf0wyxRkYqWAabUwG"
+    },
+    {
+      "album": {
+        "name": "As Soon As You Can",
+        "url": "https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "As Soon As You Can",
+      "url": "https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc"
     },
     {
       "album": {
@@ -7434,6 +7470,28 @@
       "duration_ms": 192892,
       "name": "Catch My Breath",
       "url": "https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL"
+    },
+    {
+      "album": {
+        "name": "Catro Cousas",
+        "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
+      },
+      "artists": [
+        {
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+        },
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265046,
+      "name": "Catro Cousas",
+      "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
     },
     {
       "album": {
@@ -12627,6 +12685,24 @@
     },
     {
       "album": {
+        "name": "El Tamborilero",
+        "url": "https://open.spotify.com/album/7CtEi20TfIAFu137Wq7R80"
+      },
+      "artists": [
+        {
+          "name": "Ramper",
+          "url": "https://open.spotify.com/artist/11YtbzYuNDQ4pvzfZpOmuO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372684,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/2mgXpFteU5RPuGyIXT6Vwx"
+    },
+    {
+      "album": {
         "name": "El Tiempo Que Paso Contigo",
         "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
       },
@@ -13850,6 +13926,32 @@
       "duration_ms": 154225,
       "name": "Ezin Dut Sinetsi",
       "url": "https://open.spotify.com/track/6HDOgBfHZnSNpx8hTzRxPW"
+    },
+    {
+      "album": {
+        "name": "F*Me",
+        "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188348,
+      "name": "F*Me",
+      "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
     },
     {
       "album": {
@@ -15804,12 +15906,12 @@
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
           "name": "Luke Bryan",
           "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
       "date_added": "2024-12-06",
@@ -21226,6 +21328,24 @@
       "duration_ms": 211310,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643"
+    },
+    {
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277199,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f"
     },
     {
       "album": {
@@ -28565,6 +28685,24 @@
     },
     {
       "album": {
+        "name": "no estoy - biEN!",
+        "url": "https://open.spotify.com/album/6J5PNdMemNTO0Tvm94wmXs"
+      },
+      "artists": [
+        {
+          "name": "Mecki",
+          "url": "https://open.spotify.com/artist/22tGs0QCoxp4vrP8W2daSH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101429,
+      "name": "no estoy - biEN!",
+      "url": "https://open.spotify.com/track/3YJPDWFOuBAzOmesB3eBMF"
+    },
+    {
+      "album": {
         "name": "No est\u00e1s",
         "url": "https://open.spotify.com/album/3tA6xsVubWPBVrmjoCEHhz"
       },
@@ -29886,6 +30024,24 @@
       "duration_ms": 283789,
       "name": "On It and Around It",
       "url": "https://open.spotify.com/track/3fwqNfXf0FofurFJCsGkKX"
+    },
+    {
+      "album": {
+        "name": "A Jaguar II Christmas: The Orchestral Arrangements",
+        "url": "https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223032,
+      "name": "On My Mama (Christmas Medley)",
+      "url": "https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz"
     },
     {
       "album": {
@@ -35330,6 +35486,24 @@
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
+    },
+    {
+      "album": {
+        "name": "Sea of Men",
+        "url": "https://open.spotify.com/album/41XJwflAPIRdrXw2oGzNSy"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246019,
+      "name": "Sea of Men",
+      "url": "https://open.spotify.com/track/0WJA4fZINN1uj2HagMuZ1V"
     },
     {
       "album": {
@@ -43126,6 +43300,24 @@
       "duration_ms": 186014,
       "name": "Un final ideal",
       "url": "https://open.spotify.com/track/3TXeQIDsMrjHHn7zre2EHZ"
+    },
+    {
+      "album": {
+        "name": "un momento",
+        "url": "https://open.spotify.com/album/3gyNZ6E7AcQlFmkm62qR3c"
+      },
+      "artists": [
+        {
+          "name": "El Buen Hijo",
+          "url": "https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158865,
+      "name": "un momento",
+      "url": "https://open.spotify.com/track/1azSsvyjl1oSejhztB4cvO"
     },
     {
       "album": {

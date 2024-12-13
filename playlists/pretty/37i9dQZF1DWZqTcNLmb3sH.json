@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 61469,
+  "num_followers": 61494,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1fjSAAAAAAVJVM65YsIG+a0gKDnEMD9",
+  "snapshot_id": "Z1qMJgAAAADfbi8c0O4PliGkjRjk0c9Z",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -95,6 +95,30 @@
       "duration_ms": 214077,
       "name": "Parichayavade (From \"Bagheera\")",
       "url": "https://open.spotify.com/track/5vjjIo4GyFAIMUChWcUaSl"
+    },
+    {
+      "added_at": "2024-12-12 07:09:26",
+      "album": {
+        "name": "Rudhra Garuda Purana - Title Track (From \"Rudhra Garuda Purana\")",
+        "url": "https://open.spotify.com/album/5OcRUe2sX8sWiTeX3k2nGI"
+      },
+      "artists": [
+        {
+          "name": "K.P.",
+          "url": "https://open.spotify.com/artist/5WRI9ZXZYvXG4hPvln546A"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Rudhra Garuda Purana - Title Track (From \"Rudhra Garuda Purana\")",
+      "url": "https://open.spotify.com/track/7ogJxH5PLQ7ETRsGVbgCSE"
     },
     {
       "added_at": "2024-11-25 06:02:14",
@@ -1731,30 +1755,6 @@
       "duration_ms": 227026,
       "name": "Jaanamari (From \"Yello Jogappa Ninnaramane\")",
       "url": "https://open.spotify.com/track/3pztj7QvhWaPzpqz7gPzsC"
-    },
-    {
-      "added_at": "2024-10-10 10:36:57",
-      "album": {
-        "name": "Samarame (From \"Sandhya Uppalapati\")",
-        "url": "https://open.spotify.com/album/39z5zEt5ZdHoltn82bT2Dw"
-      },
-      "artists": [
-        {
-          "name": "CNU beats",
-          "url": "https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Vishnu Yerravula",
-          "url": "https://open.spotify.com/artist/2WKD4GEQYKqJrqKYdtB1ei"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Samarame - From \"Sandhya Uppalapati\"",
-      "url": "https://open.spotify.com/track/5w6kQtbmPtqO556Va57yJH"
     },
     {
       "added_at": "2024-10-11 11:06:29",

@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 180292,
+  "num_followers": 180316,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 176006,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "The Lily",
         "url": "https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 370760,
       "name": "Gemini Heart",
       "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 176006,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Ain't Gonna Hush!",
         "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 138066,
       "name": "Ain't Gonna Hush",
       "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "duration_ms": 268923,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "That's All Right",
         "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
+        "name": "Moon Goes Missing",
+        "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
       "artists": [
         {
-          "name": "Wiyaala",
-          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
         }
       ],
-      "duration_ms": 268923,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
+      "duration_ms": 321494,
+      "name": "Open Eyes",
+      "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -531,38 +547,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Moon Goes Missing",
-        "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
-        }
-      ],
-      "duration_ms": 321494,
-      "name": "Open Eyes",
-      "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
-      },
-      "artists": [
-        {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
-        }
-      ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
         "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Letters from a Black Widow",
         "url": "https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 255084,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/7eslw47vXY57xEdehPU8RO"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
-      },
-      "artists": [
-        {
-          "name": "TORA DAA",
-          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1rIAWT1iUY0gSYi9zC0S8G"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -643,6 +627,22 @@
       "duration_ms": 210395,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1rIAWT1iUY0gSYi9zC0S8G"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Bitter Sweet Blues",
-        "url": "https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY"
-      },
-      "artists": [
-        {
-          "name": "Gaye Adegbalola",
-          "url": "https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "She Just Wants To Dance",
-      "url": "https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "10,000 Feet Below",
         "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 264521,
       "name": "You Ain't My Dog No More",
       "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Bitter Sweet Blues",
+        "url": "https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY"
+      },
+      "artists": [
+        {
+          "name": "Gaye Adegbalola",
+          "url": "https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "She Just Wants To Dance",
+      "url": "https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R"
     },
     {
       "added_at": "2024-08-13 17:16:13",

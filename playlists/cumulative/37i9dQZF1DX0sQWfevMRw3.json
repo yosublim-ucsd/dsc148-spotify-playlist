@@ -8397,6 +8397,28 @@
     },
     {
       "album": {
+        "name": "FYLLESVIN",
+        "url": "https://open.spotify.com/album/19jO8qfChBzU3h31KZ8iAh"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "NORDB\u00d8YZ",
+          "url": "https://open.spotify.com/artist/2H9dd8N0kNRa2vp3BathAV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "FYLLESVIN",
+      "url": "https://open.spotify.com/track/3bKSXxafwbeSPKqaRKVcbQ"
+    },
+    {
+      "album": {
         "name": "FYLLESVIN 2",
         "url": "https://open.spotify.com/album/4sOfbCTq7kZvHFlNMTFx8n"
       },
@@ -12663,6 +12685,28 @@
     },
     {
       "album": {
+        "name": "JULBORD",
+        "url": "https://open.spotify.com/album/6Ctqx6U2XpHGATkq4HWMOJ"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148290,
+      "name": "JULBORD",
+      "url": "https://open.spotify.com/track/5KVjKI013oMlFU5plcSe0Z"
+    },
+    {
+      "album": {
         "name": "JULETID",
         "url": "https://open.spotify.com/album/0lMQlqYIYsNVzP6XmG7oAm"
       },
@@ -14689,6 +14733,32 @@
     },
     {
       "album": {
+        "name": "L\u00e4ngtan till landet (Vintern rasat)",
+        "url": "https://open.spotify.com/album/033WPiku5oSIManSRTJqeW"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        },
+        {
+          "name": "LUREBUS",
+          "url": "https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103888,
+      "name": "L\u00e4ngtan till landet (Vintern rasat)",
+      "url": "https://open.spotify.com/track/0hJLWZoQuxeEQD3PXuJ0DN"
+    },
+    {
+      "album": {
         "name": "L\u00c4PPGLANS FR\u00c5N DIOR",
         "url": "https://open.spotify.com/album/3jRXUkNegdStJM17jm6MlI"
       },
@@ -15718,6 +15788,28 @@
       "duration_ms": 158898,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/7Jyj9yjlmCjxH1IwQ0LY0a"
+    },
+    {
+      "album": {
+        "name": "M\u00f6ssens julafton",
+        "url": "https://open.spotify.com/album/4iERReTkBLFBluK2dPXsB3"
+      },
+      "artists": [
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        },
+        {
+          "name": "Emma Blyfors",
+          "url": "https://open.spotify.com/artist/5V364OVjvwYxKrPKjyrxp3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "M\u00f6ssens julafton",
+      "url": "https://open.spotify.com/track/6H5zZZvuLHqVCJHfFCbmBz"
     },
     {
       "album": {
@@ -19869,6 +19961,24 @@
     },
     {
       "album": {
+        "name": "SEGERT\u00c5GET",
+        "url": "https://open.spotify.com/album/7ClyfjSwTjBbs6EMpRIoUd"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141723,
+      "name": "SEGERT\u00c5GET",
+      "url": "https://open.spotify.com/track/23kMSMjpZelNQXrD3z9lZo"
+    },
+    {
+      "album": {
         "name": "Selskabet 2021",
         "url": "https://open.spotify.com/album/7srzHmDeMNX1HIgGB5ne58"
       },
@@ -22014,6 +22124,24 @@
       "duration_ms": 112409,
       "name": "STRIPPA I DITT VARDAGSRUM",
       "url": "https://open.spotify.com/track/4xIvjr1p5yzXJoDU6vCal3"
+    },
+    {
+      "album": {
+        "name": "Str\u00e5lande Jul",
+        "url": "https://open.spotify.com/album/3y9J4klsumKc7HDXSHI003"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Str\u00e5lande Jul",
+      "url": "https://open.spotify.com/track/77moY0pMGZP8zFfzwSy9Io"
     },
     {
       "album": {
@@ -24773,6 +24901,28 @@
     },
     {
       "album": {
+        "name": "VA VA DE JA SA",
+        "url": "https://open.spotify.com/album/2CeD9PmrnGAj0EEcmkxn5h"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119612,
+      "name": "VA VA DE JA SA",
+      "url": "https://open.spotify.com/track/2Yb5IzERXCkEWygOKRDPsN"
+    },
+    {
+      "album": {
         "name": "Vad b\u00e4nkar du?",
         "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
       },
@@ -26764,6 +26914,24 @@
       "duration_ms": 157666,
       "name": "\u00c5gren",
       "url": "https://open.spotify.com/track/2SWvR0SZ0KyUJLDNitwDBC"
+    },
+    {
+      "album": {
+        "name": "\u00d6L",
+        "url": "https://open.spotify.com/album/2RgHP6D1dTMdb8jjqe2pML"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "\u00d6L",
+      "url": "https://open.spotify.com/track/1Gq5yYrIbbhzlBUmcqdjtI"
     },
     {
       "album": {

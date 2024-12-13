@@ -4,7 +4,7 @@
 
 > Playlist
 
-584 songs - 1 day 10 hr 41 min
+585 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [No Rush](https://open.spotify.com/track/2LtiO0h0TzdN74yXNjDgZj) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11) | 4:24 | 2024-11-14 |  |
 | [Nobody's Perfect](https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Nobody's Perfect](https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK) | 2:40 | 2024-11-14 |  |
 | [Noche En Vela](https://open.spotify.com/track/3nOxl7EstQkH9UJr0FFHkt) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [El Año del Syncro](https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf) | 3:29 | 2024-11-15 |  |
+| [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 | 2024-12-12 |  |
 | [Nublado](https://open.spotify.com/track/4H6Nq1nMoqPpjoH2eKEJfo) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:23 | 2023-10-25 |  |
 | [NWO](https://open.spotify.com/track/3KfiI3V6V1RAkrPThLFEj0) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:51 | 2024-11-14 |  |
 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 | 2023-10-25 |  |

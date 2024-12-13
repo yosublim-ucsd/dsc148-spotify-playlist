@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Anxious
+> The best new music from the wide world of punk\. Cover: Death By Unga Bunga
 
-2,193 songs - 4 day 13 hr 30 min
+2,199 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [1983 \(A Merman I Should Turn To Be\)](https://open.spotify.com/track/0Fpio7ULDx8hthmi8wW6bk) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [Dan Kelly](https://open.spotify.com/artist/4u1itNxyjNwTblvBVZCqFC) | [Submersive Behaviour](https://open.spotify.com/album/2aXfRoTSsPNYdDCd60G1qf) | 17:52 | 2023-02-03 | 2023-03-31 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-13 | 2023-04-20 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-06-16 |
+| [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2024-12-13 |  |
 | [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 | 2023-02-17 | 2023-04-09 |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-04 | 2022-04-01 |
 | [2011 Caravan](https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/7D4WeXPKCyZFnh8Fm4pC7x) | 2:40 | 2024-12-06 |  |
@@ -133,6 +134,7 @@
 | [Anything Goes](https://open.spotify.com/track/7HiUxhv8kfKJ3c5CWDm02K) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Anything Goes](https://open.spotify.com/album/08TiSpHuYW6BIWcZhGess3) | 3:19 | 2022-09-22 | 2022-11-11 |
 | [Anything Was Better](https://open.spotify.com/track/6k94bJDkpIpB5ixbNedsul) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Anything Was Better](https://open.spotify.com/album/3lOL6wkd772WZMcBRnAZKm) | 2:57 | 2022-05-26 | 2022-07-22 |
 | [apathy](https://open.spotify.com/track/4OadM4JTmSLwhzlfIl0cAS) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [apathy](https://open.spotify.com/album/7zak3u9fO8Qp5gGo4aPN0n) | 2:43 | 2024-02-16 | 2024-03-29 |
+| [Apocalypse Days](https://open.spotify.com/track/6TZIlT2hus2kPiVkGEt7CO) | [the Yummy Mouths](https://open.spotify.com/artist/0dSZNf3zkQQUOINo4qhbfU), [STEVE](https://open.spotify.com/artist/2fhPYrlUQuITJIkUOTPEdR) | [Apocalypse Days](https://open.spotify.com/album/070m14VO2WzrYgY0GlwvLZ) | 3:05 | 2024-12-13 |  |
 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 | 2024-04-12 | 2024-06-14 |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-06 | 2024-07-12 |
 | [april's](https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [something4now](https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj) | 3:23 | 2023-11-17 | 2024-01-26 |
@@ -187,6 +189,7 @@
 | [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 | 2022-11-25 | 2023-01-13 |
 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-13 | 2022-12-04 |
 | [Becoming A Ghost](https://open.spotify.com/track/4W9bH1GERv0fXc5RsY0NLH) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Becoming A Ghost](https://open.spotify.com/album/5feKJhHcEDOwg6jFYKef1O) | 2:04 | 2024-07-11 | 2024-08-24 |
+| [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2024-12-13 |  |
 | [Been Better](https://open.spotify.com/track/6Q959ampDmPu40NTGLC02p) | [Coal Bed](https://open.spotify.com/artist/2rEzca2bMYnIxSyQQRvT3D) | [Been Better](https://open.spotify.com/album/1GyCWCRk6Gq06dQlPJ2J9E) | 2:17 | 2023-08-17 | 2023-09-29 |
 | [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-20 | 2024-07-27 |
 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 | 2024-06-20 | 2024-07-27 |
@@ -1561,6 +1564,7 @@
 | [Riddley Scott Walker](https://open.spotify.com/track/3Gt4U6B3TcaR93j7IE844s) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Riddley Scott Walker](https://open.spotify.com/album/7AHvFHz9RhgaLVAGJZbdlB) | 3:31 | 2023-08-24 | 2023-09-22 |
 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 | 2023-10-18 |
 | [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 | 2023-10-13 | 2023-12-01 |
+| [Ring meg hvis du trenger en venn](https://open.spotify.com/track/0l1iA5tnB6ZJyDqMAMk8n4) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [Ring meg hvis du trenger en venn](https://open.spotify.com/album/6OC2sf7CYPltnpz4dHPwOP) | 2:55 | 2024-12-13 |  |
 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 | 2023-06-22 | 2023-09-02 |
 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 | 2023-07-14 |
 | [Rise](https://open.spotify.com/track/4tHLpL9O5fxa2scH2yXNvb) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [Machine Like Me](https://open.spotify.com/album/4x2GpmhAYeqG0kQ6mkHt76) | 5:39 | 2023-03-17 | 2023-05-05 |
@@ -1831,6 +1835,7 @@
 | [Swerve \- Rockzilla Remix](https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swerve \(Rockzilla Remix\)](https://open.spotify.com/album/0EXIrUBZVRPGOxPY43AUfA) | 2:47 | 2023-03-17 | 2023-05-05 |
 | [Swing \(In A Dream\)](https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Swing \(In A Dream\)](https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT) | 4:29 | 2023-02-10 | 2023-04-09 |
 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 | 2024-01-12 | 2024-02-23 |
+| [Swing Life Away](https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Swing Life Away](https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY) | 3:47 | 2024-12-13 |  |
 | [switchblade](https://open.spotify.com/track/5f5HlAWAgkfAJA1wK2IkCp) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [switchblade](https://open.spotify.com/album/2VZoxuBGO4qt4r5dgKZi4V) | 2:38 | 2022-04-14 | 2022-05-27 |
 | [Sylvie's A Mess](https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP) | [Walter Etc.](https://open.spotify.com/artist/6oosocT7xXnTK2ehoe28mJ) | [Sylvie's A Mess](https://open.spotify.com/album/3xfSCABLEqZznsq4j9NvEK) | 1:40 | 2023-08-10 | 2023-09-15 |
 | [Sympathy](https://open.spotify.com/track/7nTkVM3uOBt2j7X4IMHUax) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 2:26 | 2024-03-15 | 2024-05-10 |
@@ -1856,6 +1861,7 @@
 | [Talking To Ourselves \- IDLES Inner Monologue Remix](https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Talking To Ourselves \(IDLES Inner Monologue Remix\)](https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe) | 4:52 | 2022-03-04 | 2022-04-08 |
 | [Talking To Ourselves \- Nowhere Sessions](https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Talking To Ourselves \(Nowhere Sessions\)](https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L) | 3:25 | 2021-12-17 | 2022-01-21 |
 | [Tanners arms](https://open.spotify.com/track/39FBGLNnrbQLjB2sQPBM9j) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Tanners arms](https://open.spotify.com/album/6cH9szQvHQ0w7tFk07xz1z) | 3:04 | 2022-09-01 | 2022-10-14 |
+| [tastes like candlesticks](https://open.spotify.com/track/4il4S9LB3E399dMkJ4CqaI) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [tastes like candlesticks](https://open.spotify.com/album/5m1C1hfFPPhD9XgZFNDZrn) | 2:20 | 2024-12-13 |  |
 | [Tastes Like Sarah](https://open.spotify.com/track/2lMALY8dtMsGl3vTrhISaz) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Now When We Talk It's Violence](https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O) | 1:57 | 2024-02-09 | 2024-03-22 |
 | [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2024-11-15 |  |
 | [Tea Leaves \- Acoustic](https://open.spotify.com/track/5CPIwc9xpbvXaSqMft8Yx8) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall \(Deluxe\)](https://open.spotify.com/album/0YCIIG3Q3vcabdfkajqcZE) | 3:28 | 2022-09-22 | 2022-11-11 |

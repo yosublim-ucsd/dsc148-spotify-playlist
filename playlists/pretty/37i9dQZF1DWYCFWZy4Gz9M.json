@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 63494,
+  "num_followers": 63517,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,22 @@
     {
       "added_at": "2024-12-10 11:29:42",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+        "name": "L'Bnat",
+        "url": "https://open.spotify.com/album/03FYE0qWs3UeMdBqZDlH25"
       },
       "artists": [
         {
-          "name": "Hassan Boussou",
-          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
         }
       ],
-      "duration_ms": 44986,
-      "name": "Katib Allah",
-      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
+      "duration_ms": 414173,
+      "name": "Lalla Aicha 2 & 3",
+      "url": "https://open.spotify.com/track/6p29DD4MpzdbsC1WUDD62C"
     },
     {
       "added_at": "2024-12-10 11:29:42",
@@ -111,22 +115,18 @@
     {
       "added_at": "2024-12-10 11:29:42",
       "album": {
-        "name": "L'Bnat",
-        "url": "https://open.spotify.com/album/03FYE0qWs3UeMdBqZDlH25"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Asmaa Hamzaoui",
-          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
-        },
-        {
-          "name": "Bnat Timbouktou",
-          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
         }
       ],
-      "duration_ms": 414173,
-      "name": "Lalla Aicha 2 & 3",
-      "url": "https://open.spotify.com/track/6p29DD4MpzdbsC1WUDD62C"
+      "duration_ms": 44986,
+      "name": "Katib Allah",
+      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
     },
     {
       "added_at": "2024-12-10 11:29:42",

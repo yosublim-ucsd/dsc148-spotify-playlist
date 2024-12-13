@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 25765,
+  "num_followers": 25774,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1eEgAAAAADo5BQMUkrDrM78JvzN+cyd",
+  "snapshot_id": "Z1jWAAAAAABVpBhm0lhZws1iBjhljU5K",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 224253,
-      "name": "Destroy the Dancefloor",
-      "url": "https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X"
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
+      "duration_ms": 224253,
+      "name": "Destroy the Dancefloor",
+      "url": "https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X"
     },
     {
       "added_at": null,

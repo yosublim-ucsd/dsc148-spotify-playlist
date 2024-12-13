@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Milhanas
+> Música independente\. A tua alternativa ao mainstream\. Foto: Parcels, MARO
 
-171 songs - 9 hr 54 min
+173 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [ESTA SENSAÇÃO](https://open.spotify.com/track/6tF8V6cyGqFLj3FCBzHQ3O) | [Nuno Cabral](https://open.spotify.com/artist/0fINFcQpW4fdYSTBY0e0gq) | [ESTA SENSAÇÃO](https://open.spotify.com/album/1um57RBofYomD9BF9jGslL) | 2:23 | 2024-09-05 | 2024-10-04 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-11-22 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-24 |  |
-| [Fetiche Fonético](https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV) | [Ganso](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Fetiche Fonético](https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy) | 4:28 | 2024-10-03 |  |
+| [Fetiche Fonético](https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV) | [Ganso](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Fetiche Fonético](https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy) | 4:28 | 2024-10-03 | 2024-12-13 |
 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:35 | 2024-06-20 |  |
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-08 |  |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-09-21 |
@@ -115,7 +115,7 @@
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 |  |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-08-09 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-06-20 |  |
-| [Não Me Dou a Ninguém \(feat\. A Sul\)](https://open.spotify.com/track/0n6JKQ4C4sVNbqyY4OpQTU) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE), [A Sul](https://open.spotify.com/artist/4NvLQBWEqobucggCo6zIEC) | [Ritmo da Procura](https://open.spotify.com/album/554A8QAqM83b3eCluFg2vc) | 4:16 | 2024-11-08 |  |
+| [Não Me Dou a Ninguém \(feat\. A Sul\)](https://open.spotify.com/track/0n6JKQ4C4sVNbqyY4OpQTU) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE), [A Sul](https://open.spotify.com/artist/4NvLQBWEqobucggCo6zIEC) | [Ritmo da Procura](https://open.spotify.com/album/554A8QAqM83b3eCluFg2vc) | 4:16 | 2024-11-08 | 2024-12-13 |
 | [não mereço ✧](https://open.spotify.com/track/2wGhoRL3kTFlaI4UdARiWc) | [Rita Onofre](https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z) | [não mereço ✧](https://open.spotify.com/album/4iKa1lewB9APc3LmOZlgVQ) | 2:49 | 2024-06-20 | 2024-07-05 |
 | [Off Guard](https://open.spotify.com/track/4vXbgOoOD7svV1A7f8Levf) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Off Guard](https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX) | 2:51 | 2024-10-03 | 2024-11-15 |
 | [Oji é Oji](https://open.spotify.com/track/0PzceIWCT1ybZTkrn67E4N) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Oji é Oji](https://open.spotify.com/album/0DKT9xaRe0hniEsTX1nDlV) | 3:03 | 2024-06-20 | 2024-07-05 |
@@ -145,7 +145,7 @@
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2024-06-20 |  |
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-06-20 |  |
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-06-20 | 2024-07-22 |
-| [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-20 | 2024-11-29 |
+| [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-20 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-20 |  |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-20 |  |
@@ -153,7 +153,7 @@
 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-06-20 | 2024-07-27 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-06-20 | 2024-12-11 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2024-06-20 |  |
-| [tenho de pensar](https://open.spotify.com/track/0T3LrejHadSdzJmh7ZLpbX) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [tenho de pensar](https://open.spotify.com/album/7BEACxxMRKVayHcjgyBpOY) | 3:19 | 2024-06-20 |  |
+| [tenho de pensar](https://open.spotify.com/track/0T3LrejHadSdzJmh7ZLpbX) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [tenho de pensar](https://open.spotify.com/album/7BEACxxMRKVayHcjgyBpOY) | 3:19 | 2024-06-20 | 2024-12-13 |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-06-20 | 2024-07-05 |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2024-06-20 | 2024-07-27 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 |  |
@@ -176,6 +176,8 @@
 | [we can be our own ruin](https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [we can be our own ruin](https://open.spotify.com/album/11Z7Oi55Nd8EeKbM5S99Gw) | 2:49 | 2024-11-29 |  |
 | [WE COULD BE](https://open.spotify.com/track/6JntRmlslnLYjbgGbrngkG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/0P6GQcT3XIPg4ZWyA45n3V) | 3:15 | 2024-06-20 | 2024-07-19 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-06-20 |  |
+| [Wild Dreams](https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Wild Dreams](https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI) | 3:23 | 2024-12-13 |  |
+| [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-13 |  |
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-07-04 | 2024-07-27 |
 | [É da Cabeça](https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s) | [Zarco](https://open.spotify.com/artist/4HRBWg3xfeRpTQoA8QzUcZ) | [É da Cabeça](https://open.spotify.com/album/3guaxLXnYqUupZCgdDlvSS) | 3:18 | 2024-08-29 | 2024-10-04 |
 | [É Duro Ser Velho](https://open.spotify.com/track/2U3N54MwGyF8u6Qrd35w1F) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [É Duro Ser Velho](https://open.spotify.com/album/6KvebaBVTJPbK5GEVfmYYC) | 4:46 | 2024-11-29 |  |

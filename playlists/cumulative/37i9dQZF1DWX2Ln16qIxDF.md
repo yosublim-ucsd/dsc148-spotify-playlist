@@ -2,7 +2,7 @@
 
 ### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Lo más pegado, lo más trendy, o sea LIT killah & Paulo Londra
+> Lo más pegado, lo más trendy, o sea TINI.
 
 652 songs - 1 day 9 hr 8 min
 

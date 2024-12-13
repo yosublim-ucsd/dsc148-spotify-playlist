@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Biura
 
-442 songs - 1 day 1 hr 58 min
+443 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ar que eu Respiro](https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Ar que eu Respiro](https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX) | 3:08 | 2022-07-07 | 2022-07-25 |
 | [Arrepios](https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:22 | 2023-12-08 | 2024-04-19 |
 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2023-12-08 |
+| [Até Quando](https://open.spotify.com/track/7slbyYPHe4LvQwySBudRLP) | [Jay Kim](https://open.spotify.com/artist/5r1obpa97ZZhp3QsgRtV9u), [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [10 Anos Depois](https://open.spotify.com/album/4TM2NJkDBuPKDQVb2v53n0) | 2:46 | 2024-12-13 |  |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 | 2024-09-03 |
@@ -199,7 +200,7 @@
 | [Kua Buaru](https://open.spotify.com/track/4CleTVckv87HCeEpj05X52) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Manecas Costa](https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc) | [Kua Buaru](https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS) | 3:01 | 2021-12-10 | 2024-09-20 |
 | [Kuyar Assim](https://open.spotify.com/track/4UZNXdjwzKLk6NC5Iq8E8v) | [Biura](https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Kuyar Assim](https://open.spotify.com/album/4ua52jcTMzkvFS6CQz2Yzk) | 3:13 | 2024-10-17 | 2024-11-22 |
 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 | 2021-12-10 | 2023-01-27 |
-| [La na Céu](https://open.spotify.com/track/5M2iveQFjabtB3rG8vOefd) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [La na Céu](https://open.spotify.com/album/0Vol7XufXczi49koXPaGr0) | 3:41 | 2024-12-06 |  |
+| [La na Céu](https://open.spotify.com/track/5M2iveQFjabtB3rG8vOefd) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [La na Céu](https://open.spotify.com/album/0Vol7XufXczi49koXPaGr0) | 3:41 | 2024-12-06 | 2024-12-13 |
 | [Lambuxa na Bo](https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Lambuxa na Bo](https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k) | 3:03 | 2022-09-22 | 2022-12-02 |
 | [Largam](https://open.spotify.com/track/6nWb98Zi1cfP70C5wdNEIk) | [Mister Nino](https://open.spotify.com/artist/5PJgbCjdHH32IKslVSIeJW) | [Largam](https://open.spotify.com/album/6QiEyG8ZZ6U6qSfgsOBEcE) | 4:15 | 2021-12-10 | 2022-07-17 |
 | [Lavender Tulips](https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Lavender Tulips](https://open.spotify.com/album/74UuzmDeji6pyS3e0ifZ70) | 4:21 | 2022-01-21 | 2022-02-19 |

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3 Step Wave",
+        "url": "https://open.spotify.com/album/6fu83gyM0FsZh2QJIIBEAV"
+      },
+      "artists": [
+        {
+          "name": "Cyburmusiq",
+          "url": "https://open.spotify.com/artist/7DzuVDXUwx91BwWs1fgX13"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414915,
+      "name": "3 Step Wave",
+      "url": "https://open.spotify.com/track/4p1wrZsv3SLMgqaD6s1RdU"
+    },
+    {
+      "album": {
         "name": "33 Years Later",
         "url": "https://open.spotify.com/album/7dSbwQgZx8GIRqRx5hsF5I"
       },
@@ -64,6 +82,24 @@
       "duration_ms": 232000,
       "name": "33 Years Later",
       "url": "https://open.spotify.com/track/4x1ixMGSCcqdSJXiheOeAe"
+    },
+    {
+      "album": {
+        "name": "4 Days EP",
+        "url": "https://open.spotify.com/album/4XGIWTu4JHhqhAkV4YtCR2"
+      },
+      "artists": [
+        {
+          "name": "Zakente",
+          "url": "https://open.spotify.com/artist/5onJRnzNCch9amHkNIr8Bd"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386000,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/5m3XROK1vtXjoBXkoth62o"
     },
     {
       "album": {
@@ -402,6 +438,36 @@
       "duration_ms": 386052,
       "name": "AIYE",
       "url": "https://open.spotify.com/track/5IYCGJP9AjEJiPomAoCQKw"
+    },
+    {
+      "album": {
+        "name": "Akanamali",
+        "url": "https://open.spotify.com/album/6JDUfP14iienoKDPySdS87"
+      },
+      "artists": [
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Bongi Silinda",
+          "url": "https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r"
+        },
+        {
+          "name": "LevyM",
+          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
+        },
+        {
+          "name": "Levy Mensink",
+          "url": "https://open.spotify.com/artist/1wIwHxNH9LuYmmGH3yf6Xp"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256836,
+      "name": "Akanamali - LevyM Remix",
+      "url": "https://open.spotify.com/track/77l36sXSrpIsWxcTTerVQB"
     },
     {
       "album": {
@@ -1216,6 +1282,24 @@
       "duration_ms": 399901,
       "name": "Beautiful - Phila De Giant Remix",
       "url": "https://open.spotify.com/track/0fyy8qYfmfsXwEVJh9xeMZ"
+    },
+    {
+      "album": {
+        "name": "Beautiful Game",
+        "url": "https://open.spotify.com/album/2VAGl5hostIRZoxRh5sBmf"
+      },
+      "artists": [
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163548,
+      "name": "Beautiful Game",
+      "url": "https://open.spotify.com/track/1ZfMJttzv9V4PxhGiMdUqy"
     },
     {
       "album": {
@@ -5331,6 +5415,32 @@
     },
     {
       "album": {
+        "name": "iMvula",
+        "url": "https://open.spotify.com/album/0oXi1qFAXJAg6xQlf8gF8R"
+      },
+      "artists": [
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "NAAK",
+          "url": "https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC"
+        },
+        {
+          "name": "Essential i",
+          "url": "https://open.spotify.com/artist/1Ue9SrGQVy9kw92MnlZuEh"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227899,
+      "name": "iMvula",
+      "url": "https://open.spotify.com/track/1lOB9lImRtmyyBoNLeZiYp"
+    },
+    {
+      "album": {
         "name": "In The Crowd",
         "url": "https://open.spotify.com/album/0cADXU271uQ0uezv0etR7N"
       },
@@ -6084,6 +6194,24 @@
       "duration_ms": 456000,
       "name": "Jenifa",
       "url": "https://open.spotify.com/track/5dEzH5AV2LaW7S0Oqv5Mqu"
+    },
+    {
+      "album": {
+        "name": "Jenifa (Chapter 2)",
+        "url": "https://open.spotify.com/album/5NlSUYWIwy0szweq4gW41T"
+      },
+      "artists": [
+        {
+          "name": "Atamu",
+          "url": "https://open.spotify.com/artist/7BgiiPIqegqRbaDPKN6h8G"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388292,
+      "name": "Jenifa (Chapter 2)",
+      "url": "https://open.spotify.com/track/5Dgt79MvsLgaaTZ56S8rkt"
     },
     {
       "album": {
@@ -7428,6 +7556,24 @@
       "duration_ms": 408829,
       "name": "Luxury - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta"
+    },
+    {
+      "album": {
+        "name": "Mad Neighbour",
+        "url": "https://open.spotify.com/album/3RCphgADyjgA8oXlPSMQ2e"
+      },
+      "artists": [
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210020,
+      "name": "Mad Neighbour",
+      "url": "https://open.spotify.com/track/1ClC2DjlpsvmU5WOUEzQCw"
     },
     {
       "album": {
@@ -9264,6 +9410,40 @@
       "duration_ms": 365572,
       "name": "Not Control",
       "url": "https://open.spotify.com/track/3RaF9EkoeLFnVlitqNAcE2"
+    },
+    {
+      "album": {
+        "name": "Not The Same (Black Coffee feat. Shoba Remix)",
+        "url": "https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Shoba",
+          "url": "https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Not The Same - Black Coffee feat. Shoba Remix",
+      "url": "https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD"
     },
     {
       "album": {
@@ -11671,6 +11851,32 @@
     },
     {
       "album": {
+        "name": "Songa Songa",
+        "url": "https://open.spotify.com/album/4hiWoWjU84qVDcoERuRRzW"
+      },
+      "artists": [
+        {
+          "name": "Suraj",
+          "url": "https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql"
+        },
+        {
+          "name": "Tefo Foxx",
+          "url": "https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh"
+        },
+        {
+          "name": "Fadhilee",
+          "url": "https://open.spotify.com/artist/0jrOqe6KcVhhuUl3BsdAZJ"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217083,
+      "name": "Songa Songa",
+      "url": "https://open.spotify.com/track/6Fkmp0WvgM0KWFodJQXg7y"
+    },
+    {
+      "album": {
         "name": "Soso (Joseph Remix)",
         "url": "https://open.spotify.com/album/5kWitphsx6mnB1JEsoQBKB"
       },
@@ -12250,6 +12456,32 @@
       "duration_ms": 429695,
       "name": "Teardrops (Don't stop The Music) - Nick Morgan Remix",
       "url": "https://open.spotify.com/track/4TymjSPrVbEYBzhKChkeQJ"
+    },
+    {
+      "album": {
+        "name": "Tele Remix by Raul Bryan",
+        "url": "https://open.spotify.com/album/4VTDZS0RwN7ie0bKPuhqJG"
+      },
+      "artists": [
+        {
+          "name": "Westvil",
+          "url": "https://open.spotify.com/artist/71tOlZmU7OlakviixCguhG"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Raul Bryan",
+          "url": "https://open.spotify.com/artist/1Td8QMtRLZdQDXFJ5nQHpT"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421478,
+      "name": "Tele - Raul Bryan s Dub",
+      "url": "https://open.spotify.com/track/12DengrteZVIA7EbzLxBbp"
     },
     {
       "album": {
@@ -13286,6 +13518,24 @@
       "duration_ms": 393305,
       "name": "Ulele",
       "url": "https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE"
+    },
+    {
+      "album": {
+        "name": "Umhlaba",
+        "url": "https://open.spotify.com/album/1XHeV6TdWwvMh9NZ613C5g"
+      },
+      "artists": [
+        {
+          "name": "Holly Rey",
+          "url": "https://open.spotify.com/artist/2teot2ghPZBwv4qpVBpE0B"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290500,
+      "name": "Umhlaba",
+      "url": "https://open.spotify.com/track/3SDZsMVKcZNjALo76VYAti"
     },
     {
       "album": {

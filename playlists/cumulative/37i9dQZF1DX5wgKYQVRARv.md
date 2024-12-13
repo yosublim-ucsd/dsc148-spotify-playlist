@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-774 songs - 2 day 18 hr 21 min
+775 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [THE DISTANCE BETWEEN US](https://open.spotify.com/track/1327ylveW5WzibGwMdKtUB) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [THE DISTANCE BETWEEN US](https://open.spotify.com/album/6sulTXiaSFxa0AydXQJb6e) | 4:30 | 2024-05-17 | 2024-11-23 |
 | [The Divide](https://open.spotify.com/track/0XJo8I5v3Unn157OX0goKd) | [Last Chance To Reason](https://open.spotify.com/artist/2yipEy4OI8E6ppgifCkKKS) | [The Divide](https://open.spotify.com/album/4dVPRQL6mvBhUXsHHaeTz6) | 5:58 | 2024-11-22 |  |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-04-22 |  |
+| [The Faustian Spirit](https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Prodigy](https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq) | 4:13 | 2024-11-22 |  |
 | [The Future Is Behind Us](https://open.spotify.com/track/2Cpyz1bkEG4enDElaoxAfX) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/6vC3CeC5FprLHnTZobbdee) | 5:22 | 2022-10-28 | 2023-01-21 |
 | [The Future Is Behind Us](https://open.spotify.com/track/6MbEg5jNahQ4pMcMM0ClQ6) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ) | 5:22 | 2021-12-17 | 2022-11-06 |
 | [The Gates Wide Open](https://open.spotify.com/track/3BYwOh9FOnSvWJlI1U1yxD) | [Mercury Circle](https://open.spotify.com/artist/4eoKVJpON0h27e6bPLcoM8) | [The Gates Wide Open](https://open.spotify.com/album/0u9vnyKeIKq6BV2O6D51Y0) | 7:42 | 2021-12-17 | 2022-07-29 |

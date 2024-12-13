@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 177000,
       "name": "Arnofio",
       "url": "https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 142702,
       "name": "Bothain",
       "url": "https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 198461,
       "name": "Calming Measures",
       "url": "https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ"
@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Distant Glow",
+        "url": "https://open.spotify.com/album/6HJplsneaUtzWByUn5dWoz"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Distant Glow",
+      "url": "https://open.spotify.com/track/2CLDw6uUIRpDkjGfbgVPI4"
+    },
+    {
+      "album": {
         "name": "Distant Hills",
         "url": "https://open.spotify.com/album/1bQEEmjPp7C31sK8zvWUyo"
       },
@@ -1752,6 +1770,24 @@
       "duration_ms": 150209,
       "name": "Distant Hills",
       "url": "https://open.spotify.com/track/0k0JHg06A2MpzIGxUZZRyW"
+    },
+    {
+      "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/21h81jpRZzDE6MjVpSrHyz"
+      },
+      "artists": [
+        {
+          "name": "Restful Minds",
+          "url": "https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160029,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/4JqUCpRwTTaF3iHHzPE5Z0"
     },
     {
       "album": {
@@ -1860,6 +1896,24 @@
       "duration_ms": 173871,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/0Sf8GNcackTfQtLavA7IHY"
+    },
+    {
+      "album": {
+        "name": "Drifting Off",
+        "url": "https://open.spotify.com/album/5OW729RZszrzN0gVtXvhaw"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/5TiVjzOby6jQLly9ijfyqs"
     },
     {
       "album": {
@@ -2040,6 +2094,24 @@
       "duration_ms": 161888,
       "name": "Endless Hope",
       "url": "https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU"
+    },
+    {
+      "album": {
+        "name": "Endless Veil",
+        "url": "https://open.spotify.com/album/7tahva3atN5vFRpFPbroq3"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Endless Veil",
+      "url": "https://open.spotify.com/track/5czOCRTuiXbTJYQHbkPaaB"
     },
     {
       "album": {
@@ -2781,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Harmonious Drift",
+        "url": "https://open.spotify.com/album/5Z9Hvhu7EPdDSD07wFgAwn"
+      },
+      "artists": [
+        {
+          "name": "Lilac Lanterna",
+          "url": "https://open.spotify.com/artist/2dzXbrl4onEgsoaDrjCbVA"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192980,
+      "name": "Harmonious Drift",
+      "url": "https://open.spotify.com/track/0GRTMyAtQp0VaVARbxDGtZ"
+    },
+    {
+      "album": {
         "name": "Healing Waves",
         "url": "https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD"
       },
@@ -2904,6 +2994,24 @@
       "duration_ms": 212000,
       "name": "How Blessed",
       "url": "https://open.spotify.com/track/2GhiwmAm0SehnbzvfQhIjN"
+    },
+    {
+      "album": {
+        "name": "Hypnox",
+        "url": "https://open.spotify.com/album/3afTQuMf3Fkayi8yCqHIb3"
+      },
+      "artists": [
+        {
+          "name": "Nidra Momentous",
+          "url": "https://open.spotify.com/artist/7qZgKzibIue1lBTlmL3Vt3"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Hypnox",
+      "url": "https://open.spotify.com/track/2O65gUz0LdwjCnUvGBYu6f"
     },
     {
       "album": {
@@ -3152,7 +3260,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 166000,
       "name": "Intimate 432Hz",
       "url": "https://open.spotify.com/track/64KngKKcOhtuiR7BdAxs78"
@@ -3584,7 +3692,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 213978,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG"
@@ -4160,7 +4268,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 200000,
       "name": "Opposite Corners",
       "url": "https://open.spotify.com/track/3PgIwEucvwrY3bMeYP6cS5"
@@ -4344,6 +4452,24 @@
       "duration_ms": 153346,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg"
+    },
+    {
+      "album": {
+        "name": "Path Of Orion",
+        "url": "https://open.spotify.com/album/4z7lTQygOXD6whX7f7NAD7"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Path Of Orion",
+      "url": "https://open.spotify.com/track/4JHGFKGqER3PO5Q4hl6u2h"
     },
     {
       "album": {
@@ -4949,6 +5075,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5ldR9U5iLHpdwekHbyofB1"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2RiQMgWZCc5Zv4MsLQF5Mc"
+    },
+    {
+      "album": {
         "name": "Hall in Bonn",
         "url": "https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u"
       },
@@ -5338,7 +5482,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 168000,
       "name": "Sleep Drone In C",
       "url": "https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ"
@@ -6224,6 +6368,24 @@
       "duration_ms": 178228,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P"
+    },
+    {
+      "album": {
+        "name": "Vectors",
+        "url": "https://open.spotify.com/album/340D9rpqBmwlduaCdnZkZQ"
+      },
+      "artists": [
+        {
+          "name": "Abundance",
+          "url": "https://open.spotify.com/artist/785T5QvYWEMaWjrKp5cjhe"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207041,
+      "name": "Vectors",
+      "url": "https://open.spotify.com/track/0FjAG9mIy6iqAzQMcGIKj4"
     },
     {
       "album": {

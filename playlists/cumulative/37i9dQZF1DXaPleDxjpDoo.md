@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-173 songs - 9 hr 17 min
+174 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [The flowering of Viennese](https://open.spotify.com/track/7CjXUmmXcOtjHm7nBczysF) | [Dark Forest Effects](https://open.spotify.com/artist/3rmOazBvpUirImT8h4UiHq) | [The flowering of Viennese](https://open.spotify.com/album/0aoL6SDtHjU9IagdIhZrnW) | 2:32 | 2024-06-03 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-16 |  |
 | [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-10 | 2023-07-15 |
+| [The Path to Solace](https://open.spotify.com/track/1e334VDwSkdDZf8B6i5z4Q) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [The Path to Solace](https://open.spotify.com/album/0hA7L4eQa9nKzDisbn6mhS) | 2:31 | 2024-12-12 |  |
 | [The Pensive Forest](https://open.spotify.com/track/6lOlWHWw9ao9rS6PVNFl62) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [The Pensive Forest](https://open.spotify.com/album/678q1cHvcW9ShiU9l9JBay) | 3:01 | 2023-08-18 | 2024-06-04 |
 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 | 2022-12-02 | 2024-05-02 |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |

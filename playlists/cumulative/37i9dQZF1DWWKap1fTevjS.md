@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-647 songs - 1 day 7 hr 50 min
+650 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 |  |
 | [Ella](https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ella](https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7) | 2:32 | 2024-05-20 |  |
 | [Elphine](https://open.spotify.com/track/7q0inA86Z78g6BIY06xwoz) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Elphine](https://open.spotify.com/album/4jl6RTcFr236YEhqs4s7EH) | 2:22 | 2023-10-20 | 2024-02-28 |
+| [Ember](https://open.spotify.com/track/6WnTT10Nv3U2rgNwQND5xD) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Ember](https://open.spotify.com/album/3X4qsb6axSILhKVYUcp30F) | 2:21 | 2024-12-12 |  |
 | [Embodied Awareness](https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Embodied Awareness](https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG) | 3:15 | 2024-02-27 | 2024-09-14 |
 | [Embrace](https://open.spotify.com/track/3RYIdSIZeNZMqCZznqOTO7) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Embrace](https://open.spotify.com/album/02JGBZ587xZoEGRkttOfM4) | 2:37 | 2024-07-09 |  |
 | [Emotional privilege](https://open.spotify.com/track/0T6MlMNUB10hPTou6NaMRL) | [Jody R](https://open.spotify.com/artist/0PRbFVcIjvJfd4NaHLBxjJ) | [Emotional privilege](https://open.spotify.com/album/2zLe2Cg7gGiBJIuqzIIOLO) | 2:56 | 2024-01-17 | 2024-07-16 |
@@ -236,6 +237,7 @@
 | [Forget Time](https://open.spotify.com/track/5Wg5I5BNr6TZaf2RMEjMgg) | [Pius Sylla](https://open.spotify.com/artist/7cD2wGIWLgv5oxmmgS1EY5) | [Forget Time](https://open.spotify.com/album/1Vk4JRjTY9PGgzE3PbqKx0) | 3:14 | 2024-02-08 | 2024-10-15 |
 | [Four Leaves](https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Four Leaves](https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ) | 2:54 | 2024-05-20 | 2024-07-16 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-05 |  |
+| [Fragments of Time](https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Fragments of Time](https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm) | 2:12 | 2024-12-12 |  |
 | [Free Vigour](https://open.spotify.com/track/4DQDWPoBqNUhFJlY5gUQN7) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Free Vigour](https://open.spotify.com/album/2Rmeg8XQW7eXdMGaEhFIAm) | 3:20 | 2024-02-27 | 2024-03-07 |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2023-10-20 | 2023-11-25 |
 | [Frozen waves](https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Frozen waves](https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4) | 2:41 | 2024-03-06 | 2024-03-21 |
@@ -570,6 +572,7 @@
 | [Sueño](https://open.spotify.com/track/4PmZSLWRuKyMgAJuAgZ1T6) | [Abril Obrero](https://open.spotify.com/artist/2rQaa1vDzMh5dQOLdEiuVP) | [Sueño](https://open.spotify.com/album/6FkeiM3GYh142s7lbLX3bS) | 2:39 | 2023-10-20 | 2024-02-28 |
 | [Sun Descending](https://open.spotify.com/track/2C67c8x43LXzoX71FdCUdd) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Sun Descending](https://open.spotify.com/album/7mtktubpUj4RsaMaokQamH) | 3:11 | 2024-02-08 | 2024-07-16 |
 | [Sunset](https://open.spotify.com/track/1ssAidCfPvNyhjMcafsfFN) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [Sunset](https://open.spotify.com/album/3Tumtq751SJWnULeDqtBC3) | 2:57 | 2024-02-08 | 2024-03-07 |
+| [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 |  |
 | [Surfaces](https://open.spotify.com/track/1qgo8w6bPGx5cgr6vgukvT) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Surfaces](https://open.spotify.com/album/0NnT7xfHm7007MH0pbR9Bz) | 2:54 | 2024-02-27 |  |
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2023-10-20 | 2024-03-21 |
 | [Taevas](https://open.spotify.com/track/19LSPAt5axaI12c1zsdObU) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Taevas](https://open.spotify.com/album/4Rhb89zVBw3FxlaDGFGrxp) | 3:25 | 2024-02-08 | 2024-07-16 |

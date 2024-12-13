@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Kidd Keo",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Kaze",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/52KvJVPJ6nj9OQGN04WDTr"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1grimas De Sangre",
+          "url": "https://open.spotify.com/artist/5Qvyfq1Nfeju9R8prt8M7a"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344710,
+      "name": "Buibul\u00e0",
+      "url": "https://open.spotify.com/track/7xeIB5nRbuuhjIJjwgPXmi"
+    },
+    {
+      "album": {
         "name": "Bukowski",
         "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
       },
@@ -1726,6 +1744,24 @@
       "duration_ms": 198235,
       "name": "Calle Pero Fino",
       "url": "https://open.spotify.com/track/0LXWLqWkxAnvdJllVfA2VP"
+    },
+    {
+      "album": {
+        "name": "CALLE PROGRESO",
+        "url": "https://open.spotify.com/album/7yryPDzh5S4yAS2moNQfLP"
+      },
+      "artists": [
+        {
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183808,
+      "name": "CALLE PROGRESO",
+      "url": "https://open.spotify.com/track/2KBs9HaB6mY0thgXSTi8nP"
     },
     {
       "album": {
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 196105,
       "name": "Colgando en tus manos",
       "url": "https://open.spotify.com/track/6jb3lPU86ysOAtaNDuKILd"
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 333333,
       "name": "DEMASIADO TEXTO",
       "url": "https://open.spotify.com/track/1HT7xka5PiHYuH4p99vdVl"
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 317922,
       "name": "FIFA Street",
       "url": "https://open.spotify.com/track/36gTI2PpMvM4j81c1NLiii"
@@ -4262,6 +4298,28 @@
       "duration_ms": 215795,
       "name": "H\u00c9ROE",
       "url": "https://open.spotify.com/track/7nqsHeFyt3sKMelaE2Itfe"
+    },
+    {
+      "album": {
+        "name": "Idrisi",
+        "url": "https://open.spotify.com/album/4BpWJU5HamEgmS6p1EuHDe"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "DistrictBeats",
+          "url": "https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161256,
+      "name": "Idrisi",
+      "url": "https://open.spotify.com/track/12YyJJPcYJQYOy9XjMHuez"
     },
     {
       "album": {
@@ -5118,7 +5176,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 126066,
       "name": "Libre",
       "url": "https://open.spotify.com/track/2FNfjickrps120O9KB7vJr"
@@ -6106,6 +6164,28 @@
       "duration_ms": 183211,
       "name": "Mir\u00e1 de gitano",
       "url": "https://open.spotify.com/track/2iokKPxwFFQZzmPYBdFpWp"
+    },
+    {
+      "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/0gIFLFvmrYjCd9m5ZYkS1N"
+      },
+      "artists": [
+        {
+          "name": "K1ZA",
+          "url": "https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Mis Clavos (Culpa)",
+      "url": "https://open.spotify.com/track/7x9C2yqSW9lEas5vF6ziPP"
     },
     {
       "album": {
@@ -7410,6 +7490,28 @@
       "duration_ms": 181831,
       "name": "Prefiero no pensarlo",
       "url": "https://open.spotify.com/track/2B1NHncfObu77oLouGac1P"
+    },
+    {
+      "album": {
+        "name": "Preg\u00fantale a Siri",
+        "url": "https://open.spotify.com/album/6uhZZ1PbTndmL15fwPNqyy"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        },
+        {
+          "name": "3dnan",
+          "url": "https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Preg\u00fantale a Siri",
+      "url": "https://open.spotify.com/track/5Yye4qGLtUx3w3T4Kr2CCB"
     },
     {
       "album": {
@@ -9006,7 +9108,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-13",
       "duration_ms": 152938,
       "name": "SUPER SAIYAN",
       "url": "https://open.spotify.com/track/6uqdHGzu5QRzybEoPXEvz9"
