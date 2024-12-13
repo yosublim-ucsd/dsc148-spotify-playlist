@@ -1,4 +1,4 @@
-## Playlists \(8288\)
+## Playlists \(8289\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7323,6 +7323,7 @@
 - [Westside Story](/playlists/pretty/37i9dQZF1DWSvKsRPPnv5o.md)
 - [Whale Sounds](/playlists/pretty/37i9dQZF1DX60xkhEfNtud.md)
 - [When We Were Young Radio](/playlists/pretty/37i9dQZF1E8LEwyPvT2AXf.md)
+- [When depression hits hard](/playlists/pretty/3V8LF8CaRSAiDkt1yjMlyS.md)
 - [White Noise 10 Hours](/playlists/pretty/37i9dQZF1DWUZ5bk6qqDSy.md)
 - [White Noise Baby Sleep](/playlists/pretty/37i9dQZF1DXby8tlLbzqaH.md)
 - [White Waves](/playlists/pretty/37i9dQZF1DWU3Y0rhKV60l.md)
