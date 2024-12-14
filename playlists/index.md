@@ -1,4 +1,4 @@
-## Playlists \(8289\)
+## Playlists \(8290\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -6231,6 +6231,7 @@
 - [This Is King Sunny Ade](/playlists/pretty/37i9dQZF1DZ06evO043912.md)
 - [This Is Kirk Franklin](/playlists/pretty/37i9dQZF1DZ06evO2qXTri.md)
 - [This Is Kittie](/playlists/pretty/37i9dQZF1DZ06evO0mdCc3.md)
+- [This Is Kittydog](/playlists/pretty/37i9dQZF1DZ06evO4iepuF.md)
 - [This Is Kodak Black](/playlists/pretty/37i9dQZF1DZ06evO2oTcyc.md)
 - [This Is Koe Wetzel](/playlists/pretty/37i9dQZF1DZ06evO146luW.md)
 - [This Is Korn](/playlists/pretty/37i9dQZF1DZ06evO2fOjra.md)
