@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 123246,
+  "num_followers": 123286,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAABqkBIj6/hFonedm9xaIx5F",
+  "snapshot_id": "Z1u/dAAAAAAVPNyCW0pBxvyTQQ6b7MIO",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -43,6 +43,38 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "OH MAMA",
+        "url": "https://open.spotify.com/album/47SIgHk6bU2i6xFQGSat9O"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "FIVE7",
+          "url": "https://open.spotify.com/artist/0tZkM9CaXRdzEgHWBwm02a"
+        },
+        {
+          "name": "BONUCHI",
+          "url": "https://open.spotify.com/artist/1946vEFs3B1Dq9B7tZc8bw"
+        },
+        {
+          "name": "Bvlgarich",
+          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
+        }
+      ],
+      "duration_ms": 316786,
+      "name": "OH MAMA",
+      "url": "https://open.spotify.com/track/4REKuXiu7bBDSGJYgjP7fn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -277,28 +309,24 @@
       "url": "https://open.spotify.com/track/7oDB9DnJZYwGFA61RHj97X"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-13 05:00:36",
       "album": {
-        "name": "ONE LOVE",
-        "url": "https://open.spotify.com/album/6DXWKZbS37XABhIGdSvYBt"
+        "name": "FOR SALE",
+        "url": "https://open.spotify.com/album/7Gtflizi1RD3ZYevATeJrK"
       },
       "artists": [
         {
-          "name": "DJ Kendo",
-          "url": "https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ"
+          "name": "Dairo On The Track",
+          "url": "https://open.spotify.com/artist/1VEwoZBkrrPNAYRzt11SGk"
         },
         {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "DEEIKEL",
-          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
         }
       ],
-      "duration_ms": 159130,
-      "name": "ONE LOVE",
-      "url": "https://open.spotify.com/track/3xTerzNBHBMuZNhmwVAQm9"
+      "duration_ms": 202838,
+      "name": "FOR SALE",
+      "url": "https://open.spotify.com/track/3CK2YWuEzn4TmlEhCBPtSM"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -353,6 +381,26 @@
       "url": "https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd"
     },
     {
+      "added_at": "2024-12-13 05:00:36",
+      "album": {
+        "name": "Polvo Permanente",
+        "url": "https://open.spotify.com/album/6uACmXxaVldEul1N5OFI6H"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Anyuri",
+          "url": "https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE"
+        }
+      ],
+      "duration_ms": 204943,
+      "name": "Polvo Permanente",
+      "url": "https://open.spotify.com/track/4EiIY5OHJt8DLQJ4VGO46w"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Puto Rock Star",
@@ -393,30 +441,6 @@
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/5qyt6zmn3WiCEYAtwveMju"
-      },
-      "artists": [
-        {
-          "name": "EL BEWI",
-          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
-        },
-        {
-          "name": "Emba On The Track",
-          "url": "https://open.spotify.com/artist/5CgrHUGYAHxRqywgI437HO"
-        },
-        {
-          "name": "El Codigo Kirkao",
-          "url": "https://open.spotify.com/artist/6kA65euBMiB9byVyLbfVDq"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mi Historia",
-      "url": "https://open.spotify.com/track/4mFwQaGAJoeChQx8HfUqu6"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "S\u00edgueme (Remix)",
@@ -437,6 +461,26 @@
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
     },
     {
+      "added_at": "2024-12-13 05:00:36",
+      "album": {
+        "name": "Ready To Die",
+        "url": "https://open.spotify.com/album/2W6V1wMXJ7pojmSZprZvzv"
+      },
+      "artists": [
+        {
+          "name": "Elty",
+          "url": "https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf"
+        },
+        {
+          "name": "Junior On The Track",
+          "url": "https://open.spotify.com/artist/7JUAOIb51tNXDRSNFHAGzz"
+        }
+      ],
+      "duration_ms": 165312,
+      "name": "Ready To Die",
+      "url": "https://open.spotify.com/track/10x4pK4DVtCsgvSLfmKUKl"
+    },
+    {
       "added_at": "2024-07-19 06:00:00",
       "album": {
         "name": "Veneno",
@@ -455,38 +499,6 @@
       "duration_ms": 211983,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "OH MAMA",
-        "url": "https://open.spotify.com/album/47SIgHk6bU2i6xFQGSat9O"
-      },
-      "artists": [
-        {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
-        },
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "FIVE7",
-          "url": "https://open.spotify.com/artist/0tZkM9CaXRdzEgHWBwm02a"
-        },
-        {
-          "name": "BONUCHI",
-          "url": "https://open.spotify.com/artist/1946vEFs3B1Dq9B7tZc8bw"
-        },
-        {
-          "name": "Bvlgarich",
-          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
-        }
-      ],
-      "duration_ms": 316786,
-      "name": "OH MAMA",
-      "url": "https://open.spotify.com/track/4REKuXiu7bBDSGJYgjP7fn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -543,6 +555,26 @@
       "duration_ms": 301276,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:36",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/1nPK7EYz85bD6q6Zt2x0jZ"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "One Time Music",
+          "url": "https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h"
+        }
+      ],
+      "duration_ms": 178515,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/62WkFthjfMwM9JYtLeNvK8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -801,26 +833,6 @@
       "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5q5pIKukcpTh0Qj5TSMPrN"
-      },
-      "artists": [
-        {
-          "name": "Kapo Beats",
-          "url": "https://open.spotify.com/artist/4zGx6KpwUSVaYjiuyCciVK"
-        },
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/65fGwbwTYUvCvuPrWbreyT"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "H\u00e1blame de Ti",
@@ -899,30 +911,6 @@
       "duration_ms": 185968,
       "name": "Sin Waze",
       "url": "https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Fkn Trunky",
-        "url": "https://open.spotify.com/album/60XUNBfhNysuoRk2Bh8xzz"
-      },
-      "artists": [
-        {
-          "name": "T.O.T",
-          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
-        },
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "Italian Somali",
-          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fkn Trunky",
-      "url": "https://open.spotify.com/track/2FWWoMFrP4wW0kzrNLSCIi"
     },
     {
       "added_at": "2024-02-02 05:00:00",

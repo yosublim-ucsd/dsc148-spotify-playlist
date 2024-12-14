@@ -1,13 +1,29 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23807,
+  "num_followers": 23808,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAl1WsTiYlJiqZ9KuuBkXrTRlNGPjEm",
+  "snapshot_id": "AAAl1+TFBTFbSvhn1jNDDqj4bm1+V7pg",
   "tracks": [
+    {
+      "added_at": "2024-12-13 23:19:22",
+      "album": {
+        "name": "RIO FREE",
+        "url": "https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 200393,
+      "name": "RIO FREE",
+      "url": "https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU"
+    },
     {
       "added_at": "2024-12-09 19:29:22",
       "album": {

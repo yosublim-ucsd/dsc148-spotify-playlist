@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Dolly Parton & Family
 
-619 songs - 1 day 12 hr 45 min
+620 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Round Rock \(feat\. Michael Cleveland & Jerry Douglas\)](https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [My Bluegrass Heart](https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR) | 6:09 | 2021-12-17 | 2023-02-14 |
 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 | 2021-12-17 | 2023-10-30 |
 | [Runaway Train](https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Runaway Train](https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT) | 4:20 | 2024-07-13 |  |
+| [Runnin' from the Weather](https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8) | [Larry & Joe](https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj), [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Runnin' from the Weather](https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk) | 4:21 | 2024-11-29 |  |
 | [Running Out Of Hope, Arkansas](https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Ain’t Through Honky Tonkin’ Yet](https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop) | 2:45 | 2023-06-16 | 2024-04-19 |
 | [Running Out Of Hope, Arkansas](https://open.spotify.com/track/4hiyo1umaqmmLoYGNgCu5G) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Running Out Of Hope, Arkansas](https://open.spotify.com/album/0ghZEAFSRuww3NpuZvJOph) | 2:45 | 2023-04-21 | 2023-05-01 |
 | [Running Out Of Hope, Arkansas](https://open.spotify.com/track/59kBYH6TTPxx1XwZrreVbK) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Running Out Of Hope, Arkansas](https://open.spotify.com/album/4MG23uYULtitNrtIQLl0n6) | 2:45 | 2023-04-28 | 2023-06-19 |
@@ -475,7 +476,7 @@
 | [Smokin' Strings \(feat\. Billy Strings\)](https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU) | 7:09 | 2021-12-17 | 2022-07-29 |
 | [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-11-15 |  |
 | [Smoky Mountain Girl](https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN) | 3:45 | 2023-08-25 | 2024-04-19 |
-| [Snake Charmer](https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Snake Charmer](https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc) | 2:59 | 2023-08-18 |  |
+| [Snake Charmer](https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Snake Charmer](https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc) | 2:59 | 2023-08-18 | 2024-12-14 |
 | [Something You Didn't Count On](https://open.spotify.com/track/5NzonieLQTc1e7rVkC8TkX) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Something You Didn't Count On](https://open.spotify.com/album/3LWFw8G4gG0YXEedvEB2km) | 2:53 | 2021-12-17 | 2022-07-15 |
 | [Something You Didn’t Count On](https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Something You Didn't Count On](https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd) | 2:53 | 2022-05-27 | 2024-11-16 |
 | [Squareneck Soul](https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Squareneck Soul](https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY) | 2:29 | 2023-09-01 |  |

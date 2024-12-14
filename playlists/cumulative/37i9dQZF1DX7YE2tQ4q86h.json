@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Rebecca Black",
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: AD\u00c9LA",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 172033,
       "name": "B Somebody",
       "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 190695,
       "name": "can u send me that??",
       "url": "https://open.spotify.com/track/1Usa6cB2gKlOEghLIPF4V8"
@@ -6663,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Fruit Punch",
+        "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Fruit Punch",
+      "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
+      "album": {
         "name": "Fuck Boy",
         "url": "https://open.spotify.com/album/7fjtP6kHOwQWLTSwBqyF5w"
       },
@@ -9089,6 +9107,24 @@
     },
     {
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
@@ -9574,7 +9610,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 188546,
       "name": "I Wanna Be Loved (Just A Little Better)",
       "url": "https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA"
@@ -9962,7 +9998,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 185697,
       "name": "ICE",
       "url": "https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV"
@@ -12978,7 +13014,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199379,
       "name": "Mercy Me",
       "url": "https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK"
@@ -14417,6 +14453,28 @@
     },
     {
       "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "album": {
         "name": "OL\u00c8",
         "url": "https://open.spotify.com/album/5aQWW05Xu1jDxEc8cb0WqL"
       },
@@ -15298,7 +15356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 164988,
       "name": "POOL",
       "url": "https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM"
@@ -17204,7 +17262,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 154706,
       "name": "Someone For Me",
       "url": "https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B"
@@ -18204,7 +18262,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 151800,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc"
@@ -19554,6 +19612,28 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw"
+    },
+    {
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175428,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
     },
     {
       "album": {
@@ -21496,7 +21576,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 234886,
       "name": "You Go Your Way",
       "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"

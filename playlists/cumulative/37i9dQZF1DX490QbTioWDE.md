@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno & La K´onga.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Yami Safdie & Q´ Lokura.
 
-502 songs - 1 day 7 hr 6 min
+504 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adiós](https://open.spotify.com/track/0XVsiJUIo8kvErfwsNJQwH) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Adiós](https://open.spotify.com/album/0HzyU2gL1sMMkkkJwiE5YH) | 2:39 | 2024-03-22 | 2024-08-13 |
 | [Adiós, Me Voy](https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Adiós, Me Voy](https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq) | 3:57 | 2023-09-29 | 2024-01-25 |
 | [Agua Sucia](https://open.spotify.com/track/1R3i3CSZ1daF3X3bDhai0T) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM), [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Agua Sucia](https://open.spotify.com/album/2h8fdFG0TAOJLm8S4MXTYL) | 4:01 | 2024-01-26 | 2024-03-12 |
-| [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 | 2023-08-25 |  |
+| [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 | 2023-08-25 | 2024-12-14 |
 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 |  |
 | [Ahora mírame](https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:34 | 2023-09-15 | 2024-04-19 |
 | [Ahora Mírame](https://open.spotify.com/track/4EOTkRt48d1Eu31V2o4mNw) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:34 | 2021-12-24 | 2023-09-21 |
@@ -104,7 +104,7 @@
 | [Cuento Breve](https://open.spotify.com/track/06tzhAN6FRlL4HbR1X0ODE) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Cuento Breve](https://open.spotify.com/album/5mrJl1caIWSIpwLHXzeSX7) | 3:20 | 2022-02-11 | 2022-04-29 |
 | [Cuidado Que Te Supero](https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Cuidado Que Te Supero](https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd) | 2:48 | 2024-01-26 | 2024-08-31 |
 | [Cómo Lo Hizo \- No Podrás \- En Vivo](https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cómo Lo Hizo \- No Podrás \(En Vivo\)](https://open.spotify.com/album/1x5XZIoKDX8imxr09pCewy) | 8:36 | 2024-12-06 |  |
-| [Dame](https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Dame](https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH) | 2:38 | 2024-09-13 |  |
+| [Dame](https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Dame](https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH) | 2:38 | 2024-09-13 | 2024-12-14 |
 | [Dame el Aire](https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Al Máximo Late](https://open.spotify.com/album/5BoaBnzIipQvH6vHYQPlii) | 3:24 | 2021-12-24 | 2022-06-03 |
 | [Dame un Poco Mas](https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/7v1XJK0ehRER8L2PezbOzH) | 3:47 | 2021-12-24 | 2022-07-26 |
 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 | 2022-07-22 | 2024-04-19 |
@@ -147,6 +147,7 @@
 | [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \(En Vivo\)](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 | 2024-09-13 |  |
 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 | 2024-08-20 |  |
 | [En Mi Cama una Cualquiera](https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 3:43 | 2021-12-24 | 2022-07-29 |
+| [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA) | 2:28 | 2024-12-13 |  |
 | [Enfrentados](https://open.spotify.com/track/4bp6aza2gUPrIKJzIXij3s) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Enfrentados](https://open.spotify.com/album/7F6CpxCSP813AHoBml1pGl) | 3:24 | 2022-02-04 | 2022-05-23 |
 | [Enganchados En Vivo 2: Mi Razón de Ser / Broche de Oro / Fuego y Pasión \(Vol\. 2\)](https://open.spotify.com/track/7iD8JczSU2JHrMNYPAEuaI) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Enganchados En Vivo 2: Mi Razón de Ser / Broche de Oro / Fuego y Pasión \(Vol\. 2\)](https://open.spotify.com/album/2kxQp8qwDxTlzKcNuRUGuC) | 7:06 | 2022-07-15 | 2022-07-29 |
 | [Enganchados: Botella Tras Botella / La Mejor Versión de Mí / Dueles \(En Vivo\)](https://open.spotify.com/track/67gtUEsB6aTYbh6jjmMYHM) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Enganchados: Botella Tras Botella / La Mejor Versión de Mí / Dueles \(En Vivo\)](https://open.spotify.com/album/2nHN7g0WFsxvjK2Uh3HXqo) | 6:57 | 2022-06-24 | 2022-09-20 |
@@ -175,6 +176,7 @@
 | [GPS de AMOR](https://open.spotify.com/track/12ymbhRD4PpQ8qVqJV27MQ) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [GPS de AMOR](https://open.spotify.com/album/5FP7ZxFJqqtKZ9PzGdC23s) | 2:36 | 2024-09-13 | 2024-09-28 |
 | [Gracias por Todo](https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Gracias por Todo](https://open.spotify.com/album/7bGURqaTiFKXpgO7eQt4fX) | 3:18 | 2022-08-12 | 2022-08-27 |
 | [Hasta la Madre](https://open.spotify.com/track/1HBZMNyfxINzHjfkqSPmDx) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Hasta La Madre](https://open.spotify.com/album/0hCZHDeQmBVinTPuWd6vba) | 2:02 | 2024-05-24 | 2024-06-08 |
+| [Hasta Que Te Conoci](https://open.spotify.com/track/47Jer41va3Qk9gDQHTCtns) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Hasta Que Te Conoci](https://open.spotify.com/album/5Y9VVWPYWobRe8eDtD7II1) | 2:47 | 2024-12-13 |  |
 | [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 | 2024-08-30 |  |
 | [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 | 2023-01-21 |
 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-01-05 |  |

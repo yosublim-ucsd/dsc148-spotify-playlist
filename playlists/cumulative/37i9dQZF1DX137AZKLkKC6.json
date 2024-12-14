@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 174069,
       "name": "Mi Cama",
       "url": "https://open.spotify.com/track/3KxwWaHiSEb3USL3mW6J5F"
@@ -3875,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Otra Mentira",
+        "url": "https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258303,
+      "name": "Otra Mentira",
+      "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
+    },
+    {
+      "album": {
         "name": "Pa Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T"
       },
@@ -4094,6 +4112,24 @@
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
+    },
+    {
+      "album": {
+        "name": "Por retenerte",
+        "url": "https://open.spotify.com/album/5seID5rmta30Fje5oLdnYj"
+      },
+      "artists": [
+        {
+          "name": "Alan Ramirez",
+          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196486,
+      "name": "Por retenerte",
+      "url": "https://open.spotify.com/track/4Os2ZQZSEXVmUo0dmTDyBe"
     },
     {
       "album": {
@@ -4810,7 +4846,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 165505,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823"

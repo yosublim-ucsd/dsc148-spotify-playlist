@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Barbie Lets All Party 2011",
+        "url": "https://open.spotify.com/album/4MBKfkni8hJGbZbtWCEoKY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235960,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/267PdOKSJ1CbfO9Uvr4IZN"
+    },
+    {
+      "album": {
         "name": "Alexis Jordan",
         "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 236400,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7spFEoLxDv20MEg9paKaQ5"
@@ -498,10 +516,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 243666,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq"
+    },
+    {
+      "album": {
+        "name": "Essential R&B - The Clubmix",
+        "url": "https://open.spotify.com/album/1ZlofBdVJvmavcAl7mX7wD"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        },
+        {
+          "name": "The Wideboys (E. Craig/J. Sullivan)",
+          "url": "https://open.spotify.com/artist/6cVuiXTphf2oLXxxKOUxZp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248693,
+      "name": "Happiness - Wideboys Radio Edit",
+      "url": "https://open.spotify.com/track/2NoqQBbDYCZ0L9RcgtlPsU"
     },
     {
       "album": {
@@ -592,10 +632,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 222440,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/752wMzkVSWytdnSelJtzHK"
+    },
+    {
+      "album": {
+        "name": "Party Hits 2",
+        "url": "https://open.spotify.com/album/1FKn2Ip89a2XbQQYWbXzuM"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/7bHbeVr1NXf8m4BUpVn6Dn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle?si=4jEtK6CUR\_umf\-kD8wUblw">Mr Thela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,882 likes - 79 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,945 likes - 79 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,465 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,502 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
-| 2 | [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 |
-| 3 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 |
-| 4 | [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 |
+| 1 | [Palisade](https://open.spotify.com/track/41NMIeXVq8UTFx9S8FZdSN) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Palisade](https://open.spotify.com/album/7FWb13yiqDAf96ueX5Tlzy) | 4:38 |
+| 2 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
+| 3 | [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 |
+| 4 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 |
 | 5 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 |
 | 6 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 |
 | 7 | [The Boy From Beckenham](https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [The Boy From Beckenham](https://open.spotify.com/album/66kcU4aFyNz43AK71YbRBT) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `Ztp+QAAAAAB6E2xjTwEEDt1xKOnIeoMk`
+Snapshot ID: `Z1u/VAAAAADUu8VyzG3I8g2VR748rC6+`

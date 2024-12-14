@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Nsqk.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cardellino.",
   "name": "Mixto",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 145479,
       "name": "1000 cartas",
       "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
+    },
+    {
+      "album": {
+        "name": "nostalgia EP",
+        "url": "https://open.spotify.com/album/1fhc3XX8W5Z4fMZrEW4DzO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192439,
+      "name": "1000 Millones",
+      "url": "https://open.spotify.com/track/3VJx2G4tmT8RhHVtAqUkXS"
     },
     {
       "album": {
@@ -2801,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "SUKHA",
+        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "nelick",
+          "url": "https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187468,
+      "name": "CONFUNDIDO",
+      "url": "https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD"
+    },
+    {
+      "album": {
         "name": "CONF\u00cdO",
         "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
       },
@@ -5414,7 +5454,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 189900,
       "name": "Frenos",
       "url": "https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh"
@@ -9048,7 +9088,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 126133,
       "name": "Medallo-Madrid-Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI"
@@ -12139,6 +12179,24 @@
     },
     {
       "album": {
+        "name": "QUIERO TODA MI VIDA DE VUELTA",
+        "url": "https://open.spotify.com/album/1wjnHmhlzHYQtO4bM54dMp"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256323,
+      "name": "QUIERO TODA MI VIDA DE VUELTA",
+      "url": "https://open.spotify.com/track/4uTP7thtTSQrNotminsgu9"
+    },
+    {
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
       },
@@ -14848,7 +14906,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 202093,
       "name": "Top",
       "url": "https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF"

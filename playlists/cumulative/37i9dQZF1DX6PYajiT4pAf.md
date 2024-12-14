@@ -4,7 +4,7 @@
 
 > Rels B y el resto de novedades más importantes de la semana.
 
-650 songs - 1 day 9 hr 22 min
+652 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Awita](https://open.spotify.com/track/5gXKsWDHn6D3aXy5aSPjpE) | [Carmen Xía](https://open.spotify.com/artist/5Y7MbqiDeTSwBPozXw9DXH), [Suzio Tarik](https://open.spotify.com/artist/2Lr8f6MgHgTmH9pnmPeVRa) | [El Cuerpo](https://open.spotify.com/album/61IN3XDUb7dXL0DUSGMK7k) | 4:11 | 2024-11-08 | 2024-11-15 |
 | [Ay de Mi\. Cap 9](https://open.spotify.com/track/3Hatx7RfAYLjTplgPNCsBL) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Ay de Mi\. Cap 9](https://open.spotify.com/album/04irYIlKO0sGlZaAo4gbj7) | 3:22 | 2024-10-17 | 2024-10-25 |
 | [AZALEA](https://open.spotify.com/track/5MfbKVJ7iyH8dbid2WiQHo) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [AZALEA](https://open.spotify.com/album/6O4JYkI9I3D00AaqO5Rq8K) | 2:43 | 2024-11-28 | 2024-12-06 |
+| [BABAYAGA](https://open.spotify.com/track/4wBMyE9c1m77FlOJxoARR2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [BABAYAGA](https://open.spotify.com/album/767KMD9aZADO3xSEqZLNd4) | 3:05 | 2024-12-13 |  |
 | [Baby Love](https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO) | [Anthony](https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [Baby Love](https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV) | 3:10 | 2024-10-24 | 2024-11-01 |
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-24 | 2024-11-01 |
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2024-12-06 | 2024-12-13 |
@@ -457,6 +458,7 @@
 | [Por Ti Por Mi](https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Por Ti Por Mi](https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2) | 3:00 | 2024-11-28 | 2024-12-06 |
 | [Prefiero no pensarlo](https://open.spotify.com/track/2B1NHncfObu77oLouGac1P) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Prefiero no pensarlo](https://open.spotify.com/album/6NB1SrHfFnValcfXnFjhVU) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [Pregúntale a Siri](https://open.spotify.com/track/5Yye4qGLtUx3w3T4Kr2CCB) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz) | [Pregúntale a Siri](https://open.spotify.com/album/6uhZZ1PbTndmL15fwPNqyy) | 3:28 | 2024-12-13 |  |
+| [Prende un Bate](https://open.spotify.com/track/1WNzhMxKhuRmIXn6fdbBBB) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Prende un Bate](https://open.spotify.com/album/4jTqZltw1gVMxCStny811Y) | 2:24 | 2024-12-13 |  |
 | [Presente y Pasado](https://open.spotify.com/track/33DmAL1fZrpP44qo23oMPr) | [Samuel SLZR](https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Presente y Pasado](https://open.spotify.com/album/3iDHbBlutOl1AxQ9LzIL3o) | 2:49 | 2024-10-11 | 2024-10-18 |
 | [Principiante](https://open.spotify.com/track/6Vs5umd73G973XlLn29mIg) | [Omar Samba](https://open.spotify.com/artist/5BQhLajSgf15XAosIWsR1k) | [Principiante](https://open.spotify.com/album/1IYn7ZN8YFgNUESleWHS7m) | 3:06 | 2024-12-13 |  |
 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 | 2024-10-24 | 2024-11-01 |

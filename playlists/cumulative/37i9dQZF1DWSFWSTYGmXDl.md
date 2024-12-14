@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-232 songs - 12 hr 38 min
+233 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-12 | 2022-11-11 |
 | [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 | 2021-12-12 | 2022-12-03 |
 | [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 | 2021-12-12 | 2022-09-12 |
-| [Let It Snow](https://open.spotify.com/track/1RxNjmDI7SKo1g2SWTaADo) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let It Snow](https://open.spotify.com/album/7EA6UqU5i8V4D1097xbLNz) | 2:38 | 2021-12-12 |  |
+| [Let It Snow](https://open.spotify.com/track/1RxNjmDI7SKo1g2SWTaADo) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let It Snow](https://open.spotify.com/album/7EA6UqU5i8V4D1097xbLNz) | 2:38 | 2021-12-12 | 2024-12-14 |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/13pKT5tXxW9M1xIC9sqF3t) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/7EW2xtDxs1h5H2tvPdBUBY) | 1:53 | 2024-12-13 |  |
 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 | 2021-12-12 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-12 |  |
 | [Lonely on Christmas](https://open.spotify.com/track/1ymYAFOzqMPDffrFq40jnR) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/6qwyxxLw94FSOPCY2wG5da) | 3:03 | 2021-12-12 |  |

@@ -815,6 +815,22 @@
     {
       "added_at": "2024-12-13 00:00:35",
       "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 224303,
+      "name": "The Path Less Travelled",
+      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
+    },
+    {
+      "added_at": "2024-12-13 00:00:35",
+      "album": {
         "name": "RB3",
         "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 239890,
       "name": "RB3",
       "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
-    },
-    {
-      "added_at": "2024-12-13 00:00:35",
-      "album": {
-        "name": "The Path Less Travelled",
-        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 224303,
-      "name": "The Path Less Travelled",
-      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
     },
     {
       "added_at": "2024-12-13 00:00:35",

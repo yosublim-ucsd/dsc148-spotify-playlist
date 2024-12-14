@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168619,
+      "name": "Keep Going (Aaaaahhhhh)",
+      "url": "https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp"
+    },
+    {
+      "album": {
         "name": "213",
         "url": "https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG"
       },
@@ -3472,7 +3490,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 213327,
       "name": "SEX",
       "url": "https://open.spotify.com/track/2LyK3Px8C8pUJ4kpqfGNp5"

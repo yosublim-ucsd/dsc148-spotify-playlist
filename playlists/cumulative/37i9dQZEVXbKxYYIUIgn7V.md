@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-1,167 songs - 2 day 9 hr 17 min
+1,168 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,7 @@
 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 | 2024-10-03 | 2024-10-10 |
 | [maria mag nur kaviar](https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [maria mag nur kaviar](https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL) | 2:21 | 2024-03-19 | 2024-03-28 |
 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-04-30 | 2024-06-19 |
-| [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO), [FUNK DEMON](https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v), [EVO](https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY) | [EVOLUTION FUNK VOL\. I](https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp) | 2:24 | 2024-12-11 |  |
+| [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO), [FUNK DEMON](https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v), [EVO](https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY) | [EVOLUTION FUNK VOL\. I](https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp) | 2:24 | 2024-12-11 | 2024-12-14 |
 | [Maxxx \- Radio Edit](https://open.spotify.com/track/3W2yAtMkxXVmLCJAZLsqTZ) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu), [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [Maxxx \(Radio Edit\)](https://open.spotify.com/album/2tZrs1JuliuF7KGbMl6QUr) | 2:13 | 2024-02-07 | 2024-02-23 |
 | [MAYBE.](https://open.spotify.com/track/2SirJ3tf8AIjX8zBEKAGfe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BACK TO BLONDE](https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl) | 3:55 | 2024-11-21 | 2024-11-24 |
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-11-23 | 2024-11-29 |
@@ -683,6 +683,7 @@
 | [meinen die uns](https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [meinen die uns](https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU) | 2:48 | 2024-06-02 | 2024-06-05 |
 | [Memleketim](https://open.spotify.com/track/6BszTUA0tsKW5vuHoHQMVA) | [Ayten Alpman](https://open.spotify.com/artist/3ABivHBm6ULD624ig1lgOg) | [Ayten Alpman Klasikleri \(Türk Pop Tarihi\)](https://open.spotify.com/album/0EDstyzxyDRYvlCH10poKk) | 2:47 | 2024-07-07 | 2024-07-12 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-05 |  |
+| [Menina do Job X Viciada em Sentar](https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ) | [Dj Junior Sales](https://open.spotify.com/artist/0nVx67ccaVKabUD03FBrZU), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Menina do Job X Viciada em Sentar](https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb) | 1:55 | 2024-12-13 |  |
 | [Mensch](https://open.spotify.com/track/2kCiJhR55HobHDq1QT63yJ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mensch](https://open.spotify.com/album/5erMvH8DbaRoBjI8QOOcW2) | 2:37 | 2024-04-30 | 2024-05-09 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-10-10 |  |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-23 | 2024-12-04 |

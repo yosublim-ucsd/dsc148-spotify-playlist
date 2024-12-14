@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,870 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,871 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 10 | [Two of us](https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [BREWING LOVE, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ) | 4:22 |
 | 11 | [Only One](https://open.spotify.com/track/52iQCQplC1FhiYTLcRm5YH) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [MARRY YOU \(Original Soundtrack\), Pt.4](https://open.spotify.com/album/1AgSop4Yvl6mW34VaszYP0) | 3:19 |
 | 12 | [Day after day](https://open.spotify.com/track/66lJ4IajLbS87o11xp5Ik2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love Your Enemy OST Part 2](https://open.spotify.com/album/49xddz6nqaZ1Rn9bb0cV0R) | 3:45 |
-| 13 | [Indeed, It Was Love](https://open.spotify.com/track/6ghLeCbuqka7yOEkaQDdDA) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Ordinary Grace](https://open.spotify.com/album/48CdV9kVXIXXNEvcUV3qmJ) | 4:10 |
+| 13 | [Indeed, It Was Love](https://open.spotify.com/track/6ghLeCbuqka7yOEkaQDdDA) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Ordinary Grace](https://open.spotify.com/album/48CdV9kVXIXXNEvcUV3qmJ) | 4:10 |
 | 14 | [Return \(With LYn\)](https://open.spotify.com/track/65XjIZuRTQsHVl35YjfceH) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [With](https://open.spotify.com/album/3ryhcCuKE1mdUoF9rUSWcR) | 4:40 |
 | 15 | [MISSING YOU](https://open.spotify.com/track/5d0ypa7yumwBTJDz57moHy) | [ko kyung pyo](https://open.spotify.com/artist/3gv00oCmmZNyBtagPXUvch) | [UP SIDE DOWN](https://open.spotify.com/album/4JvsPWUWXDJDAgmwpW8IpB) | 4:03 |
 | 16 | [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 |

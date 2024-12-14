@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is A Real Good Tan (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5hEtcVsLeRvUurcpMyhtUN"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277889,
+      "name": "All I Want for Christmas Is a Real Good Tan",
+      "url": "https://open.spotify.com/track/0egTGRlqVWQ4dWnzNA1Y9p"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas Is A Real Good Tan",
         "url": "https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD"
       },
@@ -254,6 +272,24 @@
       "duration_ms": 90306,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/3OAE0z5KHrealoytPNRyKp"
+    },
+    {
+      "album": {
+        "name": "My Gift (Special Edition)",
+        "url": "https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161087,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/11DjZxVPNtD6wdfOktzJLa"
     },
     {
       "album": {
@@ -1497,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/5fcftCwbLObTBaZnzMHHAh"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251386,
+      "name": "Do You Hear What I Hear",
+      "url": "https://open.spotify.com/track/1qGeUUtelP5fz7rNNAmo29"
+    },
+    {
+      "album": {
         "name": "Don't Hang The Mistletoe",
         "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
       },
@@ -2246,7 +2300,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 128535,
       "name": "Holiday Road",
       "url": "https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1"

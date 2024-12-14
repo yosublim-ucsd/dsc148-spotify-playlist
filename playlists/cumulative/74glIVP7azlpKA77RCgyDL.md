@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: SpiritWorld.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Reba Meyers.
 
-863 songs - 2 day 6 hr 19 min
+869 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 | 2023-07-15 |
 | [Celestial Cyst](https://open.spotify.com/track/14wL8L1F2XrdNopkBfNfRL) | [Artificial Brain](https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr) | [Celestial Cyst](https://open.spotify.com/album/2VO1OEHxQyxYmaN58H3WvA) | 4:30 | 2022-04-08 | 2023-07-15 |
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-13 | 2024-02-03 |
+| [Certain Uncertainty](https://open.spotify.com/track/7AJxRTf9Dz0dv0nc0g3NTf) | [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Certain Uncertainty](https://open.spotify.com/album/3FCg368KxS7pLB9K4rWC03) | 5:16 | 2024-12-13 |  |
 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-21 | 2024-02-03 |
 | [Chameleon](https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:12 | 2024-10-25 |  |
 | [CHAOS COLLECTED](https://open.spotify.com/track/68JtyOM22HdZf46GLxMR9F) | [FINAL RESTING PLACE](https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI) | [PRELUDE TO EXTINCTION](https://open.spotify.com/album/3ToqKDwrZ7amfYdgR43q9g) | 3:24 | 2024-02-23 |  |
@@ -194,6 +195,7 @@
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 | 2023-07-15 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 | 2023-07-15 |
 | [Dis\(re\)member](https://open.spotify.com/track/6itDwVEMBD9vzi1jYB4pyk) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Humdinger](https://open.spotify.com/album/6rmPiDiMBZvv3HFQ8gc4Kw) | 3:00 | 2024-03-08 |  |
+| [dismay](https://open.spotify.com/track/3djKnhj3u5pS9imZ5fObvm) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [dismay](https://open.spotify.com/album/6NaNie2sVI39d9Ml39xzkp) | 3:07 | 2024-12-13 |  |
 | [Disposal](https://open.spotify.com/track/0EO2VSzN4uYo1xnp5qYkLL) | [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [Seeking Chaos And Revenge After Betrayal](https://open.spotify.com/album/3y9S2qmboXsNIdjFb362QH) | 2:30 | 2023-11-10 | 2024-02-03 |
 | [Disputatious Malignancy](https://open.spotify.com/track/2JwCI7buFePo9kVh41tJYa) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Disputatious Malignancy](https://open.spotify.com/album/18Wc9Znqp9Q6fm9nPfGmd6) | 2:53 | 2024-09-06 |  |
 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 | 2024-03-22 |  |
@@ -221,6 +223,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2023-07-15 |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 | 2024-02-03 |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 | 2023-07-15 |
+| [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 |  |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 | 2024-02-03 |
 | [Encased In Crystalline](https://open.spotify.com/track/7Hj2Nzojz0mTMKjzaNQh0y) | [A Mourning Star](https://open.spotify.com/artist/6liRUYkXvRcAJPlSrmGftP) | [Encased In Crystalline](https://open.spotify.com/album/46TMR31huoshkMzZKEN4Sg) | 2:44 | 2023-08-11 | 2024-02-03 |
@@ -490,6 +493,7 @@
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 |  |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-10-18 |  |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 | 2023-07-15 |
+| [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 | 2024-12-13 |  |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 | 2023-07-15 |
 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-15 | 2024-02-03 |
 | [Ode To Jimbo](https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX) | [Couch Slut](https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp) | [Ode To Jimbo](https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc) | 3:11 | 2024-02-23 |  |
@@ -669,6 +673,7 @@
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo) | 2:44 | 2024-04-26 |  |
 | [Suicide Today](https://open.spotify.com/track/6abMnvv2fgc6ULNCh3qnDQ) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Never, Neverland \(Deluxe Edition\)](https://open.spotify.com/album/39nstb37kAyWR4LUZMxcs9) | 3:16 | 2024-09-20 |  |
+| [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 | 2024-12-13 |  |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-09 | 2024-02-03 |
 | [Summerslam](https://open.spotify.com/track/21ReFyyiE5xQbVX6CUgUha) | [Jobber](https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9) | [Summerslam](https://open.spotify.com/album/1UKV7T6J2gqHgHNxmTrJiN) | 5:02 | 2023-08-04 | 2024-02-03 |
 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 | 2023-08-11 | 2024-02-03 |
@@ -834,6 +839,7 @@
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |
 | [When Mortal Coils Shed](https://open.spotify.com/track/6RkLj4DJXCSFUr0PJ8xE8z) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [The Unknown](https://open.spotify.com/album/51BpsIsaNfI4MWqUl3WD9P) | 7:05 | 2023-07-14 | 2024-02-03 |
 | [Where The Light Fades](https://open.spotify.com/track/7g0oIMiUqPKudJsPjkpc2E) | [Pallbearer](https://open.spotify.com/artist/2yeEmsTQMNHBlS5dhWtuD1) | [Where The Light Fades](https://open.spotify.com/album/4UtNmhrbKelGVvZy1AxrC8) | 6:39 | 2024-03-22 |  |
+| [Where the Void Begins](https://open.spotify.com/track/7hYwuiDgHoIXONMjwj1sYf) | [Sarcator](https://open.spotify.com/artist/78tS2rMs81fH13rbaw4sT0) | [Where the Void Begins](https://open.spotify.com/album/0yCk147goanQpkQTF7e4EN) | 7:01 | 2024-12-13 |  |
 | [While We Serve](https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [The Forgotten](https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1) | 6:02 | 2023-12-01 | 2024-02-03 |
 | [Whispers In The Echo Chamber](https://open.spotify.com/track/4HMwF6zCISI8IBHnBc2RYM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Whispers In The Echo Chamber](https://open.spotify.com/album/2TRxn7ybyHGOsTBxsqYoCJ) | 4:01 | 2023-10-27 | 2024-02-03 |
 | [Who Am I?](https://open.spotify.com/track/038fGCIlWDQgHlUw9OxHuN) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Who Am I?](https://open.spotify.com/album/4J87NYm51J7khqQSQTHoOh) | 2:37 | 2022-03-18 | 2023-07-15 |

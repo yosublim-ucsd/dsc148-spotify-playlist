@@ -2471,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Day I Die",
+        "url": "https://open.spotify.com/album/0GWSiFD1UdmArIWhT8S5FR"
+      },
+      "artists": [
+        {
+          "name": "JDM",
+          "url": "https://open.spotify.com/artist/0ypVB4coLY48d4te3lUYoo"
+        },
+        {
+          "name": "Ollie Wade",
+          "url": "https://open.spotify.com/artist/1FWuEwWawlnaMKPCaxnMxa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "Day I Die",
+      "url": "https://open.spotify.com/track/0Br6muNsJmo1GMkh88WHty"
+    },
+    {
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/1tCjtFk6t31cP5pbTp7ft4"
       },

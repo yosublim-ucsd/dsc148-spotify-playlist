@@ -2554,10 +2554,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 158303,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/1RxNjmDI7SKo1g2SWTaADo"
+    },
+    {
+      "album": {
+        "name": "Let It Snow! Let It Snow! Let It Snow!",
+        "url": "https://open.spotify.com/album/7EW2xtDxs1h5H2tvPdBUBY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113788,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/13pKT5tXxW9M1xIC9sqF3t"
     },
     {
       "album": {

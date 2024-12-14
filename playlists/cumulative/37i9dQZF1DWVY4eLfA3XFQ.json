@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring IDRIS \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+    },
+    {
+      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
       },
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 182812,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/3918FzQeHHgmyqKLIMEirA"
@@ -6602,7 +6620,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 267605,
       "name": "COPY ME",
       "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
@@ -8038,7 +8056,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 200000,
       "name": "Disco Bus",
       "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
@@ -8678,6 +8696,24 @@
       "duration_ms": 170196,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/5mzIYaUZ4SEKD04x6t3phN"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169790,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/7D2r7m4qTH8ZadTb6LtrUw"
     },
     {
       "album": {
@@ -9816,6 +9852,28 @@
       "duration_ms": 211653,
       "name": "El Oh Vee Ee",
       "url": "https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9"
+    },
+    {
+      "album": {
+        "name": "El Rey EP",
+        "url": "https://open.spotify.com/album/5sXA972Dl5XeKBwwjexgDD"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "CVMPANILE",
+          "url": "https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254291,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/3zZb8aL0hVIvHcanMvIM65"
     },
     {
       "album": {
@@ -11289,6 +11347,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+      },
+      "artists": [
+        {
+          "name": "Meck",
+          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215540,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
       },
@@ -12008,7 +12088,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 120930,
       "name": "Freddie's Warmup",
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
@@ -13070,6 +13150,28 @@
       "duration_ms": 177187,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
+    },
+    {
+      "album": {
+        "name": "Vintage Culture & Friends, Vol. 6 (Pt. I)",
+        "url": "https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc"
     },
     {
       "album": {
@@ -14578,7 +14680,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 235238,
       "name": "Hola Venga",
       "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
@@ -16048,7 +16150,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 166406,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2ZvNbJB9aVsmaHqwXQLGqX"
@@ -17282,7 +17384,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 178900,
       "name": "Jump N Twist",
       "url": "https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO"
@@ -18953,6 +19055,28 @@
     },
     {
       "album": {
+        "name": "Lick It Good (feat. Vikina)",
+        "url": "https://open.spotify.com/album/5F9wyWeYa33tGnBGMRYiIT"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148346,
+      "name": "Lick It Good (feat. Vikina)",
+      "url": "https://open.spotify.com/track/6TSwXrR7Hkoy713vgwtgK4"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
       },
@@ -19012,6 +19136,24 @@
       "duration_ms": 204761,
       "name": "Life Of Sin (feat. Ranger Trucco)",
       "url": "https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/2VL7dH4ZWNEaD1blm3QG8r"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153754,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1mjEtDb6zXbWWyqyLpN8YR"
     },
     {
       "album": {
@@ -24209,6 +24351,28 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6uAOimzv7qtVtW3Rlh9AdX"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210957,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1XGKqeShkPsvuUrhNnMyPM"
+    },
+    {
+      "album": {
         "name": "On The Beach (Eli Brown Remix)",
         "url": "https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN"
       },
@@ -25696,7 +25860,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 182109,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/7Ig7sOUzR1Y2SShye9Pn1U"
@@ -31846,7 +32010,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 142031,
       "name": "Suite",
       "url": "https://open.spotify.com/track/0O39WkOAMNyTCAonBrsk6l"
@@ -32976,6 +33140,24 @@
       "duration_ms": 186576,
       "name": "Targa",
       "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
+    },
+    {
+      "album": {
+        "name": "Tax",
+        "url": "https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Tax",
+      "url": "https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: THE FIX\(더 픽스\)\)
 
-216 songs - 12 hr 14 min
+217 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Next Level \- IMLAY Remix](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 |  |
 | [Next Level \- Lionclad Remix](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Lionclad](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 | 2024-06-29 |
 | [NOSAE NOSAE \- Remix](https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Cosmickey](https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB), [Sky](https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT) | [Homies\(Remix\)](https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6) | 3:12 | 2024-10-23 | 2024-11-18 |
+| [Not Today](https://open.spotify.com/track/7Exqqvhu4qVumN79VTpzlk) | [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [H₩OARANG](https://open.spotify.com/album/3nvENdfXkJX2eQNj4BAP8s) | 2:53 | 2024-11-29 |  |
 | [Off Ways](https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Off Ways](https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy) | 3:00 | 2024-04-05 | 2024-06-29 |
 | [On My Mind](https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [On My Mind](https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg) | 2:40 | 2024-06-28 |  |
 | [PARADISE](https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [SUZO](https://open.spotify.com/artist/52mRVQC1hdI0tSV6zEp5f8) | [PARADISE](https://open.spotify.com/album/0SFyF2YwxMJn6sHkOCTRfW) | 2:57 | 2024-04-05 | 2024-04-19 |
@@ -162,7 +163,7 @@
 | [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 | 2024-06-27 |
 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 | 2024-04-05 |  |
 | [Power \- SHAUN Remix](https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 4:16 | 2024-04-05 | 2024-08-04 |
-| [Pressure \- Radio Edit](https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Pressure \(Radio Edit\)](https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J) | 3:09 | 2024-06-28 |  |
+| [Pressure \- Radio Edit](https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Pressure \(Radio Edit\)](https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J) | 3:09 | 2024-06-28 | 2024-12-14 |
 | [Priya](https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:22 | 2024-09-10 |  |
 | [Queendom \- Demicat Remix](https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.11 : Queendom Remix](https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw) | 3:14 | 2024-04-05 |  |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2024-04-05 |  |

@@ -2,9 +2,9 @@
 
 ### [Super Cumbias](https://open.spotify.com/playlist/37i9dQZF1DXbUMEWUyV9JB)
 
-> ¡Muévete al ritmo de las Cumbias! <br/>Cover: Becky G
+> ¡Muévete al ritmo de las Cumbias! <br/>Cover: Oscar Ortiz y Los Primos del Este
 
-399 songs - 23 hr 52 min
+400 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Baila Esta Cumbia](https://open.spotify.com/track/08zqP5uyM0kRt3o1ZZGYVv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:57 | 2022-04-29 | 2022-11-13 |
 | [Balada Pop](https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Balada Pop](https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz) | 2:22 | 2024-11-22 |  |
 | [Bandido](https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 2:59 | 2023-05-01 | 2024-05-03 |
+| [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 | 2024-12-13 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-05-01 |  |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2023-05-01 | 2024-05-03 |
 | [Besar Tu Piel \(Con Buenos Aires\) \- En Vivo](https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Besar Tu Piel \(Con Buenos Aires\) \[En Vivo\]](https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx) | 3:12 | 2024-05-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,405 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,734 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

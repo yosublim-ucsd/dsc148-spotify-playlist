@@ -4207,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "This Heart of Mine (from the Netflix Series \"Virgin River\")",
+        "url": "https://open.spotify.com/album/6XibdUioipl3NTDR7TMxiZ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253815,
+      "name": "This Heart of Mine (from the Netflix Series \"Virgin River\")",
+      "url": "https://open.spotify.com/track/609Cadf9tYZ5Un4ph8EFyP"
+    },
+    {
+      "album": {
         "name": "Quarry",
         "url": "https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot"
       },

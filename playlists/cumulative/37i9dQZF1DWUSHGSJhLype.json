@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 283636,
       "name": "A Danada Me Ligando",
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
@@ -618,6 +618,24 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "album": {
+        "name": "A Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/7FI9dTZTCWzpMOjLf9Eqhk"
+      },
+      "artists": [
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154337,
+      "name": "Aposta",
+      "url": "https://open.spotify.com/track/3oCLB6gOcmO3n5vM0XwXip"
     },
     {
       "album": {
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 107949,
       "name": "Eu To Sozinho Eu To Solteiro, Sem Responsabilidade",
       "url": "https://open.spotify.com/track/0q136ECUdJJNpJ9eowozEd"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 202846,
       "name": "Macei\u00f3 at\u00e9 Jeri",
       "url": "https://open.spotify.com/track/4v7kZiQYM0nt197CNGsbfZ"
@@ -6705,6 +6723,28 @@
     },
     {
       "album": {
+        "name": "Xand's Bar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0n14Pl9OyJY3gElbMoQgU9"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347769,
+      "name": "Sempre Ser\u00e1 / Tenta\u00e7\u00e3o / Nossa Guerra Santa / T\u00e1 Na Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NVxSsPCFVBvxUI7Pix8mv"
+    },
+    {
+      "album": {
         "name": "Senta Pro Bruto",
         "url": "https://open.spotify.com/album/4KyWHPjJZzYfGqM4NbnOyC"
       },
@@ -7866,6 +7906,28 @@
       "duration_ms": 181505,
       "name": "Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU"
+    },
+    {
+      "album": {
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "album": {

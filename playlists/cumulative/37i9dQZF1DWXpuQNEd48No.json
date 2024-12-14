@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: DG Immortals & Parmish Verma",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196595,
       "name": "2 Days",
       "url": "https://open.spotify.com/track/1XNKXmkefgu40Np0EwJ82V"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 169043,
       "name": "Andhadhundh",
       "url": "https://open.spotify.com/track/2r41UPprKTdzCHunyb9ITs"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 205961,
       "name": "Chadh Chadh ke",
       "url": "https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 144000,
       "name": "Chore Albadi - From \"Incomparable\"",
       "url": "https://open.spotify.com/track/0ivHqJTvof0LaIaJCM1jXu"
@@ -1462,6 +1462,28 @@
       "duration_ms": 207750,
       "name": "Chore Haryane Aale",
       "url": "https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS"
+    },
+    {
+      "album": {
+        "name": "Lekhak's Chaos",
+        "url": "https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        },
+        {
+          "name": "Dev Wrld",
+          "url": "https://open.spotify.com/artist/04itPkYn7MwDWFm7eICvIz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224649,
+      "name": "Chore Se Haryane Ke",
+      "url": "https://open.spotify.com/track/5AtAg0j9V3wtYOvL8CQNdT"
     },
     {
       "album": {
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 133507,
       "name": "El Gozo",
       "url": "https://open.spotify.com/track/37JIRGvqGaxfba8zbrcVBk"
@@ -3109,6 +3131,32 @@
     },
     {
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/1u5cjzmIlWzQvVlmWXdQwp"
+      },
+      "artists": [
+        {
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
+        },
+        {
+          "name": "Deep13Bhai",
+          "url": "https://open.spotify.com/artist/718tfbSBs9LZeNVAAn19XD"
+        },
+        {
+          "name": "Shaitan",
+          "url": "https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/5LfzOA2KTTgwQrtQv9psbY"
+    },
+    {
+      "album": {
         "name": "DNW Vol. 1",
         "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
       },
@@ -3915,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Kuch Toh Baat",
+        "url": "https://open.spotify.com/album/5LuqePJwvWaMn0QFDUs4OX"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154537,
+      "name": "Kuch Toh Baat",
+      "url": "https://open.spotify.com/track/3dnENSzOsmEzu1wCDtBdTD"
+    },
+    {
+      "album": {
         "name": "Kulfa",
         "url": "https://open.spotify.com/album/7CmYhs6j6VNKTgDGkYQdkq"
       },
@@ -3974,6 +4040,24 @@
       "duration_ms": 178285,
       "name": "Kurta Pajama",
       "url": "https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7"
+    },
+    {
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/0W7heKaA6nCObhSIouybei"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55"
     },
     {
       "album": {
@@ -4637,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "No Guts No Glory",
+        "url": "https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176817,
+      "name": "No Guts No Glory",
+      "url": "https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
       },
@@ -4674,7 +4776,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 185525,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx"
@@ -6580,6 +6682,24 @@
       "duration_ms": 174300,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/1AJJ89QS4Iegh7ifstG7J5"
+    },
+    {
+      "album": {
+        "name": "Lekhak's Chaos",
+        "url": "https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "We Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/64qyrOswLqNtiOJwQe8Jz6"
     },
     {
       "album": {

@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0fEQO1ruegqY6Mq5Wsa1mN"
+      },
+      "artists": [
+        {
+          "name": "Anxhela",
+          "url": "https://open.spotify.com/artist/2GqUrgjv3nl7JBCJ26ky5n"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380259,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP"
+    },
+    {
+      "album": {
         "name": "Vinyl Only (Live at Tomorrowland)",
         "url": "https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 278823,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran, THAOWAN",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB, Timethai",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 181942,
       "name": "HARLEY",
       "url": "https://open.spotify.com/track/0mW7PPIEnBJrE6H4K2a57p"
@@ -2120,6 +2120,24 @@
       "duration_ms": 222248,
       "name": "KIMINOTO",
       "url": "https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19"
+    },
+    {
+      "album": {
+        "name": "King without a crown",
+        "url": "https://open.spotify.com/album/1WJ24oBPHwkTAVjFBCsvt9"
+      },
+      "artists": [
+        {
+          "name": "OG-ANIC",
+          "url": "https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "King without a crown",
+      "url": "https://open.spotify.com/track/0wdrModq3sbAsLYKiIrfyu"
     },
     {
       "album": {
@@ -3205,6 +3223,32 @@
     },
     {
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/4eaeTIr17jyRUEV2UoIRlE"
+      },
+      "artists": [
+        {
+          "name": "GUZT",
+          "url": "https://open.spotify.com/artist/7ksq8nXlbSQKxU2qp9bYR2"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314018,
+      "name": "NSFW",
+      "url": "https://open.spotify.com/track/1gHyBU7HLrKpjwWPoU4qJL"
+    },
+    {
+      "album": {
         "name": "OK OK OK",
         "url": "https://open.spotify.com/album/58XMTyaFP0x8top2ePeeb1"
       },
@@ -3686,7 +3730,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 211776,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/1PqoGCy5ZfVYOY7tH2etBz"
@@ -4062,7 +4106,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 158677,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/17XCpSiPbYCfEue5y6ZfSd"
@@ -4714,7 +4758,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199384,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/2CRck7tuDTa354QpXij69Q"
@@ -4823,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "X Mas Love",
+        "url": "https://open.spotify.com/album/6oz7S6hCSf4wkKXBc8X00K"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "X Mas Love",
+      "url": "https://open.spotify.com/track/3PiqJ7Yw4kmmdqvKK4BznW"
+    },
+    {
+      "album": {
         "name": "YEYEYE",
         "url": "https://open.spotify.com/album/0f1POSQwgxGDYKACrzso9q"
       },
@@ -4834,7 +4896,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 132014,
       "name": "YEYEYE",
       "url": "https://open.spotify.com/track/6G8RdXS9w9uoyQU8m8si01"
@@ -5203,6 +5265,32 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e22\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e44\u0e21\u0e48\u0e2d\u0e23\u0e48\u0e2d\u0e22\u0e41\u0e15\u0e48\u0e40\u0e21\u0e35\u0e22\u0e21\u0e36\u0e07\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/6uei5CII2RIlzwTy4tKunJ"
+      },
+      "artists": [
+        {
+          "name": "CHXID!",
+          "url": "https://open.spotify.com/artist/1BToxKQY8IMD7CI3EeGWWU"
+        },
+        {
+          "name": "cxpterr",
+          "url": "https://open.spotify.com/artist/456hFQENKduXTtARTDQkcN"
+        },
+        {
+          "name": "Quintin",
+          "url": "https://open.spotify.com/artist/0uZsToxGO8AheJztAyn5gb"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124390,
+      "name": "\u0e02\u0e22\u0e31\u0e1a\u0e23\u0e16\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e44\u0e21\u0e48\u0e2d\u0e23\u0e48\u0e2d\u0e22\u0e41\u0e15\u0e48\u0e40\u0e21\u0e35\u0e22\u0e21\u0e36\u0e07\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/33Sg3nxaiXWzp0xgNBby9M"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
         "url": "https://open.spotify.com/album/14JSO7TTIKI5hQ9RY5SXfQ"
       },
@@ -5372,7 +5460,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215484,
       "name": "\u0e04\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
       "url": "https://open.spotify.com/track/7gwKhq0BTlVGaWocueITl1"
@@ -5842,6 +5930,28 @@
       "duration_ms": 173793,
       "name": "\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e44\u0e2b\u0e19\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48",
       "url": "https://open.spotify.com/track/3UwrAJaeOqVCm0irEWcxy7"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e31\u0e07\u0e0b\u0e35\u0e48",
+        "url": "https://open.spotify.com/album/0tPkrx1ZUAs7SfiPRLNrag"
+      },
+      "artists": [
+        {
+          "name": "PEE CLOCK",
+          "url": "https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd"
+        },
+        {
+          "name": "Blvckhevrt",
+          "url": "https://open.spotify.com/artist/7IZWd0OUcevYkguGTNckh9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "\u0e08\u0e31\u0e07\u0e0b\u0e35\u0e48",
+      "url": "https://open.spotify.com/track/07Cb9pdSIZNg0AKRVRDNKw"
     },
     {
       "album": {
@@ -6708,6 +6818,24 @@
       "duration_ms": 199299,
       "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e08\u0e47\u0e1a [ If love ]",
       "url": "https://open.spotify.com/track/2RE4EXr9zB6BTmPlBEzYeI"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+        "url": "https://open.spotify.com/album/5KR5xdN3MlycdtsKUEsSbV"
+      },
+      "artists": [
+        {
+          "name": "WHALJAY",
+          "url": "https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+      "url": "https://open.spotify.com/track/71XNRIhUFi9cdDjLGnRgjr"
     },
     {
       "album": {
@@ -7750,7 +7878,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 237714,
       "name": "\u0e23\u0e2d\u0e22\u0e2a\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5wDXBjLeLjeWEN2w7nWAbJ"
@@ -8446,7 +8574,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 134078,
       "name": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e04\u0e49\u0e32\u0e1a",
       "url": "https://open.spotify.com/track/5wnbL9tzwOcA5Uh7Vg866W"
@@ -8688,7 +8816,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 169600,
       "name": "\u0e2b\u0e19\u0e32\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/6hM6UJvh8J3wqrC7QWZMKA"
@@ -9441,6 +9569,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e17\u0e2a\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/335X9KSU0VQa4tpmCSU5Ni"
+      },
+      "artists": [
+        {
+          "name": "LAZYHOLIC",
+          "url": "https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u0e40\u0e17\u0e2a\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/3N2RNIJPziglD9FjPVK0Vj"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/2NmxPoFVQqsxLWW1l4H7HC"
       },
@@ -9745,6 +9891,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1b\u0e49\u0e32\u0e43\u0e2b\u0e0d\u0e48",
+        "url": "https://open.spotify.com/album/4qQ03lOz2Lll3IQqWpEMy1"
+      },
+      "artists": [
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213239,
+      "name": "\u0e40\u0e1b\u0e49\u0e32\u0e43\u0e2b\u0e0d\u0e48",
+      "url": "https://open.spotify.com/track/5948AS6f8C5gP2ruJARxu1"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1d\u0e49\u0e32\u0e04\u0e2d\u0e22",
         "url": "https://open.spotify.com/album/7k8UlOSjQjAksMRj0OBTL2"
       },
@@ -9830,6 +9994,28 @@
       "duration_ms": 130352,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2b\u0e23\u0e2d",
       "url": "https://open.spotify.com/track/3a3l9WHL52QMSl4ehooY35"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e32 (Drunk)",
+        "url": "https://open.spotify.com/album/4q8Ei1aMokMuEVJ875NQTd"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        },
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "\u0e40\u0e21\u0e32 (Drunk)",
+      "url": "https://open.spotify.com/track/1z5PB90Axuav2LmLheyWPN"
     },
     {
       "album": {

@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
@@ -6826,7 +6826,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 75692,
       "name": "MAZKO",
       "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
@@ -10208,7 +10208,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 224666,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/2gkzJU3hVJn9UziHtNYsZd"
@@ -11150,7 +11150,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -13172,7 +13172,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 148272,
       "name": "\u0430\u0434\u0440\u0435\u043d\u0430\u043b\u0438\u043d",
       "url": "https://open.spotify.com/track/5ceS5Kb2YFnWFdkSR34muY"
@@ -14260,7 +14260,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 142054,
       "name": "\u0412\u0438\u0448\u043d\u0451\u0432\u044b\u0439",
       "url": "https://open.spotify.com/track/35wTSN7Mw6knm4xsN41hKm"
@@ -14420,6 +14420,24 @@
       "duration_ms": 109384,
       "name": "\u0412\u0428\u0411",
       "url": "https://open.spotify.com/track/5gURDievsAiUifGhqLKiIh"
+    },
+    {
+      "album": {
+        "name": "\u0424\u0423\u0422\u0423\u0420\u041e\u0410\u0420\u0425\u0410\u0418\u041a\u0410",
+        "url": "https://open.spotify.com/album/6DncE9XPVXfrkYEZHAjpUY"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Depo",
+          "url": "https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "\u0413\u0410\u041d\u0414\u0418\u041a\u0410\u041f",
+      "url": "https://open.spotify.com/track/0UwdV7mJUeqZbiVWAst0Wn"
     },
     {
       "album": {
@@ -21234,7 +21252,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 179992,
       "name": "\u042f\u0434\u0435\u0440\u043d\u0430\u044f \u0417\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/3QwFWOPhJYFC5ywcyOEkmH"

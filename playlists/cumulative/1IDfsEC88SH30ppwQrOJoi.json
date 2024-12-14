@@ -283,6 +283,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD"
+      },
+      "artists": [
+        {
+          "name": "PRMGH",
+          "url": "https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9"
+        },
+        {
+          "name": "KO3",
+          "url": "https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t"
+    },
+    {
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },

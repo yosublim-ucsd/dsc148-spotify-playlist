@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-185 songs - 12 hr 34 min
+186 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Me Huele a Ron](https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs) | [Marcos Caminero](https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:38 | 2022-12-18 |  |
 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 | 2022-11-25 |  |
 | [Me Voy A Regalar](https://open.spotify.com/track/3zgmOyM7uUT1xdEXU9r8Bl) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:25 | 2022-11-25 |  |
+| [Mensaje De Navidad](https://open.spotify.com/track/22DPi3AFrPkY2YORQWyR3U) | [ClaraLuna](https://open.spotify.com/artist/4rivVQoxYegkPQjH3yuyr4), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Mensaje De Navidad](https://open.spotify.com/album/2tyXtxPPV6YsX9HiOb1dSV) | 3:56 | 2024-12-13 |  |
 | [Mensaje De Navidad](https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Para Mi Fanaticada](https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa) | 4:15 | 2022-11-25 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/28CjlMRoxzAfOZn4xLtPFE) | [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR), [Freddy Bailon](https://open.spotify.com/artist/0ESKplh2Ij1mnqLPBEVFEg), [Claudette Bailon](https://open.spotify.com/artist/2vY0NRoqIMLAONc7BDA6m7), [Beau Harper](https://open.spotify.com/artist/6ZPbnYYAIkLm4yWlOYfAV8), [Jet Marie](https://open.spotify.com/artist/2rjwCF0hFlm3cWhWOERBCI) | [New Tradiciones](https://open.spotify.com/album/5v1TBoDdIpAYApHIESFKVl) | 4:32 | 2022-11-25 | 2023-10-02 |
 | [Mi Navidad No Se Apaga](https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Mi Navidad No Se Apaga](https://open.spotify.com/album/29vshU5rVpWYdzJvim2952) | 3:09 | 2022-11-25 | 2024-08-11 |
@@ -147,7 +148,7 @@
 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 | 2024-08-05 |
 | [Navidad , Navidad](https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 3:51 | 2023-12-19 |  |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |
-| [Navidad Con Pique](https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV) | [Nelsón de la Olla y la Banda Chula](https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:21 | 2023-12-19 |  |
+| [Navidad Con Pique](https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV) | [Nelsón de la Olla y la Banda Chula](https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:21 | 2023-12-19 | 2024-12-14 |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 |  |
 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 | 2022-12-18 |  |
 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 | 2022-12-18 |  |

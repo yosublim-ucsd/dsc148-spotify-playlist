@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 216844,
       "name": "City on a Hill",
       "url": "https://open.spotify.com/track/6H8HkxVJ7ex5ntbpsuyQ99"
@@ -4938,6 +4938,24 @@
       "duration_ms": 202282,
       "name": "Lover Of My Soul",
       "url": "https://open.spotify.com/track/1lJElVuNSdUt0cYFgCbYDF"
+    },
+    {
+      "album": {
+        "name": "Loves Got a Way",
+        "url": "https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Loves Got a Way",
+      "url": "https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH"
     },
     {
       "album": {

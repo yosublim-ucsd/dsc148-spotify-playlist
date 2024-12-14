@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-447 songs - 1 day 3 hr 57 min
+448 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Glory \(Let There Be Peace\)](https://open.spotify.com/track/6lJHZvzfzUEwnaaAySLD77) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:35 | 2021-12-24 | 2022-07-22 |
 | [Glory Born](https://open.spotify.com/track/6cRyGFZQz9omLVKIlzZdUc) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring The Bells](https://open.spotify.com/album/7g3xFxJHim7tERwKYR2wU7) | 3:18 | 2021-12-24 | 2024-11-18 |
 | [Glory Born \(feat\. Heath Balltzglier\)](https://open.spotify.com/track/6sEgva7VCrI4hucdhuALUh) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring the Bells](https://open.spotify.com/album/6UMlSTjZvbdfhsAhSFRoDP) | 3:18 | 2023-12-15 | 2024-02-27 |
+| [Glory Hallelujah](https://open.spotify.com/track/4PYaKqPAZfQV5gUmtbOgh6) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Mike Weaver](https://open.spotify.com/artist/33j78Z72E74iBDS7e2dFiV) | [Glory Hallelujah](https://open.spotify.com/album/4lO56KSjc9tLveNm710XNp) | 4:10 | 2024-12-13 |  |
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 |  |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/2XPZo7qF5lQY7wnbqtmkG8) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/2Z4WYBmQ21S7rvsyzQWdCu) | 5:16 | 2021-12-24 | 2024-10-27 |
 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 | 2024-11-29 |  |
@@ -193,7 +194,7 @@
 | [I Celebrate The Day](https://open.spotify.com/track/0kP12mRcOAbwokRY9IsGZC) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [I Celebrate The Day](https://open.spotify.com/album/1NzUZkcqLEY6dNG2XcASsL) | 3:25 | 2024-11-17 |  |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |
 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2023-12-15 | 2024-08-02 |
-| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/0wYCpHsrhPxrcpW3uSHqWv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/2asbMuYvCs4qkQHIDuXAew) | 3:32 | 2024-08-01 |  |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/0wYCpHsrhPxrcpW3uSHqWv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/2asbMuYvCs4qkQHIDuXAew) | 3:32 | 2024-08-01 | 2024-12-14 |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/6ZvGIWs3Vt4cmVkuycJaFM) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:22 | 2021-12-24 | 2024-08-02 |
 | [I Need Christmas \- Single Version](https://open.spotify.com/track/53vrHASNj6lk2i5JZcs1UK) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [I Need Christmas](https://open.spotify.com/album/3UCEH768QemPCXRhQ6xfeL) | 3:30 | 2021-12-24 | 2022-07-28 |
 | [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 |  |

@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-181 songs - 9 hr 46 min
+182 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [8 Days of Christmas](https://open.spotify.com/track/3njg7L78xUTOg0gqzGpj9X) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Santa's Tipsy Tunes](https://open.spotify.com/album/3MeVMrzrDT5iHz31uiof5l) | 3:29 | 2022-10-28 | 2022-11-13 |
 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 | 2021-12-17 | 2024-04-19 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/3loEOofEBG0Z7iznsotuHI) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Les tubes de Noël](https://open.spotify.com/album/075XNkZk1DAXsnobzLpF70) | 2:13 | 2022-10-28 | 2022-11-14 |
+| [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 | 2024-12-13 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-17 |  |
 | [At Christmas](https://open.spotify.com/track/3gh7XKogco53YM1AGJ0OGD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 3:46 | 2021-12-17 |  |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-17 |  |
@@ -50,7 +51,7 @@
 | [Do They Know It's Christmas?](https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Music 100 Hits](https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0) | 3:49 | 2021-12-17 | 2022-07-29 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Rock Music](https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe) | 3:41 | 2022-10-28 | 2022-11-13 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-12-17 |  |
-| [Dominick the Donkey \(The Italian Christmas Donkey\) \[with Joe Reisman's Orchestra and Chorus\]](https://open.spotify.com/track/4EjOn21ToBHzjVnd6rqSyr) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg), [Joe Reisman's Orchestra and Chorus](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) | [Fairytale of New York](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) | 2:30 | 2023-10-27 |  |
+| [Dominick the Donkey \(The Italian Christmas Donkey\) \[with Joe Reisman's Orchestra and Chorus\]](https://open.spotify.com/track/4EjOn21ToBHzjVnd6rqSyr) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg), [Joe Reisman's Orchestra and Chorus](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) | [Fairytale of New York](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) | 2:30 | 2023-10-27 | 2024-12-14 |
 | [Driving Home for Christmas](https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:59 | 2021-12-17 | 2022-11-19 |
 | [Driving Home for Christmas](https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:00 | 2023-12-01 |  |
 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Driving Home for Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a) | 3:41 | 2022-11-18 |  |

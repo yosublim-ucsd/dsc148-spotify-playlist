@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- DIVINE",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 194409,
       "name": "Aaropi",
       "url": "https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196683,
       "name": "Bombay Ke Don",
       "url": "https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 177107,
       "name": "Dil Se Dil Tak",
       "url": "https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 222787,
       "name": "Disco Rap",
       "url": "https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B"
@@ -1488,6 +1488,24 @@
       "duration_ms": 208314,
       "name": "Gulab Aur Kaante",
       "url": "https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX"
+    },
+    {
+      "album": {
+        "name": "Gully Wala Flow",
+        "url": "https://open.spotify.com/album/1WCJAFu2Tevj9RNdhJlDiX"
+      },
+      "artists": [
+        {
+          "name": "MC Benn",
+          "url": "https://open.spotify.com/artist/7k0aUaEJ6UeAUz5VmKxAqC"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Gully Wala Flow",
+      "url": "https://open.spotify.com/track/7HtrIfmJFyssG4IT5sogOv"
     },
     {
       "album": {
@@ -2097,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Northern Nights",
+        "url": "https://open.spotify.com/album/1O1QvxhWr8eDP8q5FUwbKc"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Maaf Karo",
+      "url": "https://open.spotify.com/track/4BSKHWiLDL2iVXu26dS1IG"
+    },
+    {
+      "album": {
         "name": "MAANTE NAAHI HAAR",
         "url": "https://open.spotify.com/album/1KOyVm4Ej43o4mZTuW6Tlr"
       },
@@ -2156,6 +2192,28 @@
       "duration_ms": 180000,
       "name": "Masroor",
       "url": "https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj"
+    },
+    {
+      "album": {
+        "name": "Mast",
+        "url": "https://open.spotify.com/album/3FfJhcVHUd5lZJjOE5wi37"
+      },
+      "artists": [
+        {
+          "name": "J Trix",
+          "url": "https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf"
+        },
+        {
+          "name": "Subspace",
+          "url": "https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155562,
+      "name": "Mast",
+      "url": "https://open.spotify.com/track/5o3STtBAtkeqPBw69ZUZWs"
     },
     {
       "album": {
@@ -2378,6 +2436,24 @@
       "duration_ms": 165428,
       "name": "Naina",
       "url": "https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf"
+    },
+    {
+      "album": {
+        "name": "Northern Nights",
+        "url": "https://open.spotify.com/album/1O1QvxhWr8eDP8q5FUwbKc"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Nazare",
+      "url": "https://open.spotify.com/track/0hmDNLZlEHS7GL1Es38bcE"
     },
     {
       "album": {
@@ -3184,7 +3260,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 166875,
       "name": "Thanks To My Haters",
       "url": "https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG"
@@ -3330,6 +3406,24 @@
       "duration_ms": 143729,
       "name": "TRIP MAT KAR",
       "url": "https://open.spotify.com/track/7Ak7f6GnTlpt49j3j67bxE"
+    },
+    {
+      "album": {
+        "name": "Triple OG",
+        "url": "https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Triple OG",
+      "url": "https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz"
     },
     {
       "album": {

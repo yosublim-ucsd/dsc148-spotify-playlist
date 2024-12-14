@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Beach Weather
 
-803 songs - 1 day 21 hr 42 min
+804 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 | 2024-09-26 | 2024-10-18 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-24 | 2024-11-22 |
 | [LEAVING THE BAND](https://open.spotify.com/track/7ir79lNrkfNKwl7SjniBkL) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [LEAVING THE BAND](https://open.spotify.com/album/30OzqPghwPCxXV6L1LURtH) | 4:14 | 2024-10-17 | 2024-11-15 |
+| [Let You In](https://open.spotify.com/track/1R2N3WPPaGdZGtaBBDMluP) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Let You In](https://open.spotify.com/album/7sNzwTdsCRpO36XD75DQh0) | 2:06 | 2024-12-13 |  |
 | [Lie 95](https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Lie 95](https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P) | 2:41 | 2024-07-11 | 2024-07-27 |
 | [Liebe tut gut](https://open.spotify.com/track/4zJLD5tvsMICQ8LnduCSlv) | [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Electronic Babies](https://open.spotify.com/album/3VVJXfT16q26szSOueAgRt) | 3:28 | 2024-10-10 | 2024-11-01 |
 | [Life Got Lame and Now You're Bored](https://open.spotify.com/track/0erq79vmER6sQKIj7O00uR) | [Laddermen](https://open.spotify.com/artist/5QDHKEjQcF3vDeUsuMtbM9) | [Life Got Lame and Now You're Bored](https://open.spotify.com/album/7hosrBeIxOHXN6Y8yIPQlJ) | 2:56 | 2024-10-17 | 2024-11-15 |

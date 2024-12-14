@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 224135,
       "name": "Hukkush Phukkush",
       "url": "https://open.spotify.com/track/7niiaqBQCpA6NkZx3hpw8w"
@@ -6466,6 +6466,32 @@
       "duration_ms": 221022,
       "name": "Yaara",
       "url": "https://open.spotify.com/track/0TVBV9UbyZWxELfzkCBLSP"
+    },
+    {
+      "album": {
+        "name": "Yanta",
+        "url": "https://open.spotify.com/album/5SztEUOannx7OKx7QdMh4c"
+      },
+      "artists": [
+        {
+          "name": "Renuka Panwar",
+          "url": "https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg"
+        },
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/75prkScvmpqHqH5vI89qw9"
+        },
+        {
+          "name": "Nawazuddin Siddiqui",
+          "url": "https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Yanta (feat. Nawazuddin Siddiqui)",
+      "url": "https://open.spotify.com/track/1oGW2lfQoMf6NCh0vuO5Wr"
     },
     {
       "album": {

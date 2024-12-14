@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan Presents: Best Música Mexicana Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DX1k7CwwZgd48)
 
-> Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Oscar Maydon & Fuerza Regida
+> Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Tito Double P & Peso Pluma
 
 159 songs - 8 hr 11 min
 

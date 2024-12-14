@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ניר כנען
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,565 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,575 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 14 | [לבן טהור \(תן לי את האור\)](https://open.spotify.com/track/2yNi0KfqttYyLPgETAx2o6) | [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [לבן טהור \(תן לי את האור\)](https://open.spotify.com/album/2B1i6jvc9EkPys6unRS8lq) | 3:21 |
 | 15 | [פאניקה](https://open.spotify.com/track/0MKr02VxAtIfmmUk38x0qk) | [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [פאניקה](https://open.spotify.com/album/1cfVcMDRAVDGjKd8E8BNO3) | 3:12 |
 | 16 | [הטוב הרע ועודיה](https://open.spotify.com/track/5OfxLzOuLlkfnzLQGPpVeQ) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [הטוב הרע ועודיה](https://open.spotify.com/album/5kqDGzLWmnFuFoYkENRyKL) | 3:02 |
-| 17 | [אני לא לבד](https://open.spotify.com/track/3P8aOoAF0yvw0CgoV3WVH4) | [Dan Zeitune](https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8), [קינצוגי](https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9), [Guy & Yahel](https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv) | [אני לא לבד](https://open.spotify.com/album/12RtFJxOoJ0PLPd6sUhQx1) | 4:33 |
+| 17 | [אני לא לבד](https://open.spotify.com/track/3P8aOoAF0yvw0CgoV3WVH4) | [קינצוגי](https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9), [Guy & Yahel](https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv), [Dan Zeitune](https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8) | [אני לא לבד](https://open.spotify.com/album/12RtFJxOoJ0PLPd6sUhQx1) | 4:33 |
 | 18 | [יהי רצון](https://open.spotify.com/track/4ERPLdXEg2WqLoKNKnV7Vi) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סוף חמה לבוא](https://open.spotify.com/album/2SyQETIiAGH9ZnXVoG91oD) | 2:56 |
 | 19 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
 | 20 | [שיהיה לך טוב](https://open.spotify.com/track/6Uk0HOyZ3MVw0Mg55Gvxj8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [שיהיה לך טוב](https://open.spotify.com/album/0XWaaK1BCM8XALiyio8vQM) | 3:04 |

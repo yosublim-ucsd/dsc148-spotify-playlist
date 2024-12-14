@@ -4,7 +4,7 @@
 
 > Tayc au top des nouveautés de la semaine !
 
-2,823 songs - 6 day 4 hr 10 min
+2,824 songs - 6 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,7 @@
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-25 | 2024-05-03 |
 | [feelings come undone](https://open.spotify.com/track/6ac9BW8zBHo2vhUVkswM9o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [always centered at night](https://open.spotify.com/album/6Q9F246p5fOQzz8tts4ylS) | 4:05 | 2024-06-13 | 2024-06-21 |
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-05-23 | 2024-06-01 |
-| [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 | 2024-12-12 |  |
+| [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 | 2024-12-12 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 | 2024-06-28 |
 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-07-18 | 2024-07-27 |
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-12 | 2024-09-20 |
@@ -2685,6 +2685,7 @@
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-08-01 | 2024-08-09 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-27 | 2024-07-05 |
 | [Wake Up and Run](https://open.spotify.com/track/0WOdJFrYGUL7BORGX9BiYC) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Wake Up and Run](https://open.spotify.com/album/2XYiaInXWeV4DPjEnvHwtm) | 3:28 | 2024-05-30 | 2024-06-07 |
+| [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2024-12-12 |  |
 | [Walking dead](https://open.spotify.com/track/7ASQN16IEvnHZQnSESIo7U) | [Rohff](https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp) | [Fitna](https://open.spotify.com/album/3s4z5oyraO1KmYXZmTfwzk) | 3:08 | 2024-06-20 | 2024-06-28 |
 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-10-31 | 2024-11-08 |
 | [Wallflower](https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Wallflower](https://open.spotify.com/album/3hKcxfrvnSiqyqqlzEvcHS) | 2:21 | 2024-09-26 | 2024-10-04 |

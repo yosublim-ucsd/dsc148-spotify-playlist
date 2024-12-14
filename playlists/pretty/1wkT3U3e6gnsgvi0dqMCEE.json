@@ -6,8 +6,28 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACb8Rb2Doo1fvZTXV+/4S2cphtgTCk",
+  "snapshot_id": "AAACcSsWf0m9ux0XDcfLGPfW7sK28X2F",
   "tracks": [
+    {
+      "added_at": "2024-12-13 12:57:02",
+      "album": {
+        "name": "\u2018It's A Good Life If You Don't Weaken\u2019 (Live From \u2018No Dress Rehearsal\u2019)",
+        "url": "https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 260722,
+      "name": "\u2018It's A Good Life If You Don't Weaken\u2019 - Live From \u2018No Dress Rehearsal\u2019",
+      "url": "https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ"
+    },
     {
       "added_at": "2024-11-22 15:03:47",
       "album": {

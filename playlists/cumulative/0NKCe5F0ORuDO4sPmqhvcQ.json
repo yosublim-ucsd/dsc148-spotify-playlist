@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "6AE",
+        "url": "https://open.spotify.com/album/6TAKPPLhU5c5J4g5z4ZdXf"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "axxa*",
+          "url": "https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "ARRIVAL",
+      "url": "https://open.spotify.com/track/1WjTYi3pmVxaAogY4EmNXF"
+    },
+    {
+      "album": {
         "name": "Ascend (Reload)",
         "url": "https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm"
       },
@@ -10113,6 +10135,28 @@
     },
     {
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
       },
@@ -10812,6 +10856,24 @@
       "duration_ms": 235068,
       "name": "Stay - Slow Magic Remix",
       "url": "https://open.spotify.com/track/7311fH65MZV550TYVwRfFG"
+    },
+    {
+      "album": {
+        "name": "stereoluv",
+        "url": "https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "stereoluv",
+      "url": "https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK"
     },
     {
       "album": {

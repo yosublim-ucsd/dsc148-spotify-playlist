@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180000,
       "name": "25",
       "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
@@ -176,10 +176,28 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 172036,
       "name": "2Face - Venom: The Last Dance",
       "url": "https://open.spotify.com/track/1qJvV0jip3tPLI2Fpx8grp"
+    },
+    {
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121518,
+      "name": "46th Street",
+      "url": "https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 140840,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF"
@@ -450,7 +468,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 190904,
       "name": "Allure (feat. Future & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
@@ -1155,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "BODY SHOP. / PLAN B.",
+        "url": "https://open.spotify.com/album/27od1rgOVRYMjoglpaTFO9"
+      },
+      "artists": [
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "BODY SHOP. (feat. Tommy Richman)",
+      "url": "https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ"
+    },
+    {
+      "album": {
         "name": "BREAK THE SILENCE",
         "url": "https://open.spotify.com/album/3uDTD95Lj5iienAFLDC9WO"
       },
@@ -1224,7 +1264,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 132252,
       "name": "Buggout (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6qLKUElUqJJgBAmzsx0wZZ"
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 132414,
       "name": "Chasing Pape",
       "url": "https://open.spotify.com/track/0j2JNN9jVtZFFmw0mlqG7S"
@@ -1724,6 +1764,24 @@
       "duration_ms": 138121,
       "name": "CRAZY H*ES",
       "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
+    },
+    {
+      "album": {
+        "name": "Crowned",
+        "url": "https://open.spotify.com/album/7FnCMJYJuFlgQQEOpYpM58"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118588,
+      "name": "Crowned",
+      "url": "https://open.spotify.com/track/4zL6GoeTqBUnfbH4WkPepP"
     },
     {
       "album": {
@@ -2148,6 +2206,24 @@
       "duration_ms": 169136,
       "name": "Doodleverse",
       "url": "https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh"
+    },
+    {
+      "album": {
+        "name": "Doze Off",
+        "url": "https://open.spotify.com/album/7Mh0RYXOnPeDBurNDovyVv"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Doze Off",
+      "url": "https://open.spotify.com/track/159Qh3FaLyQJbJEntnbl3e"
     },
     {
       "album": {
@@ -3374,7 +3450,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 207972,
       "name": "GOOGLE ME",
       "url": "https://open.spotify.com/track/5kd6nThD2Gxdoxc6WFyGdB"
@@ -3454,6 +3530,28 @@
       "duration_ms": 136375,
       "name": "Had To Do",
       "url": "https://open.spotify.com/track/0dsAnwQ9vYykDToKyCKSOe"
+    },
+    {
+      "album": {
+        "name": "HANDLING BUSINESS",
+        "url": "https://open.spotify.com/album/03G8ltvE5KcuCWN2wqsTkW"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "HANDLING BUSINESS (with Tory Lanez)",
+      "url": "https://open.spotify.com/track/6nTsvOXdvLSkyVM9yoKPIP"
     },
     {
       "album": {
@@ -4117,6 +4215,28 @@
     },
     {
       "album": {
+        "name": "The Remedy",
+        "url": "https://open.spotify.com/album/6iwtPvRclSB2LTil1SYRCH"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "Jaane Na",
+      "url": "https://open.spotify.com/track/2jMp8fZBG1LUyHcXNLd9AM"
+    },
+    {
+      "album": {
         "name": "JACKPOT",
         "url": "https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ"
       },
@@ -4474,7 +4594,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 225456,
       "name": "Late Checkout (feat. Hunxho)",
       "url": "https://open.spotify.com/track/6peNzc5BT61OxAzsFaTH2v"
@@ -5581,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "No Way",
+        "url": "https://open.spotify.com/album/72pvhpXx4o1DZhjB2zTZzB"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10"
+    },
+    {
+      "album": {
         "name": "Noid",
         "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
       },
@@ -6112,7 +6250,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 161177,
       "name": "PISSED OFF",
       "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
@@ -6839,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "Read This When You Wake Up",
+        "url": "https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "She Like (Fashion)",
+      "url": "https://open.spotify.com/track/4jhe2uCy9YZp3oK9dL8hYj"
+    },
+    {
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/2XFM7SGRSMPrgQkb8tLFBF"
       },
@@ -7557,6 +7713,28 @@
     },
     {
       "album": {
+        "name": "TANTRUM",
+        "url": "https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "TANTRUM",
+      "url": "https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE"
+    },
+    {
+      "album": {
         "name": "Teeth (Interlude)",
         "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
       },
@@ -7812,7 +7990,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
@@ -8788,7 +8966,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 130909,
       "name": "WIT ME",
       "url": "https://open.spotify.com/track/44NS8WbvoSoqOI3hpNrte3"
@@ -8817,6 +8995,24 @@
     },
     {
       "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/7hJLXXBkY9t1r18e3UFzPP"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142546,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2t8LUgoLO3hzSwTq2A5g38"
+    },
+    {
+      "album": {
         "name": "WTFO",
         "url": "https://open.spotify.com/album/3pnpGoG0kfiyg5P58nZ0u5"
       },
@@ -8832,6 +9028,24 @@
       "duration_ms": 179076,
       "name": "WTFO",
       "url": "https://open.spotify.com/track/4FLcnGgf4mVSQARxZTWy7H"
+    },
+    {
+      "album": {
+        "name": "WTM",
+        "url": "https://open.spotify.com/album/6iTaOr8waUXd7dPqckmnLG"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140636,
+      "name": "WTM",
+      "url": "https://open.spotify.com/track/50J3eT2OtzhLWCWmvEz1NY"
     },
     {
       "album": {

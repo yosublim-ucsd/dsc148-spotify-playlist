@@ -239,6 +239,28 @@
     },
     {
       "album": {
+        "name": "And You And I (Live)",
+        "url": "https://open.spotify.com/album/7dNEhTtxWmtHJNTWc1Liux"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "The Band Geeks",
+          "url": "https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611000,
+      "name": "And You And I - Live",
+      "url": "https://open.spotify.com/track/5ayqc9RuUdYUUunKUaL4b8"
+    },
+    {
+      "album": {
         "name": "SIRIN",
         "url": "https://open.spotify.com/album/2JLIw5bGZ1dT0YX1KRranV"
       },
@@ -874,7 +896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 255225,
       "name": "Election Day",
       "url": "https://open.spotify.com/track/4v68ZvqTJOecZNW8boGFOR"
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 270973,
       "name": "Knuckledragger",
       "url": "https://open.spotify.com/track/3ut1Ywcb4pyHF1X5gqr6cX"
@@ -1896,6 +1918,24 @@
       "duration_ms": 385213,
       "name": "Let Live",
       "url": "https://open.spotify.com/track/0VAhTIvmImCQIFZQ6c84EF"
+    },
+    {
+      "album": {
+        "name": "Live At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/2xlLfxOMnuZJzxCTZPJsW2"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429573,
+      "name": "Levitation - Live, Royal Albert Hall, 29 September 2023",
+      "url": "https://open.spotify.com/track/2FvTH18Cfx5mfFm1Ut5KZC"
     },
     {
       "album": {
@@ -2097,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Mystic Highway (Looking For Linderman)",
+        "url": "https://open.spotify.com/album/7iiM3DyyPi2M2lg80SanQC"
+      },
+      "artists": [
+        {
+          "name": "Siris",
+          "url": "https://open.spotify.com/artist/4b2NimVLyQ3lQoSfIxZLak"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277258,
+      "name": "Mystic Highway (Looking For Linderman)",
+      "url": "https://open.spotify.com/track/6yhjN4KttUEybk3Mi6aqrk"
+    },
+    {
+      "album": {
         "name": "Never Right (HORSKH Remix)",
         "url": "https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM"
       },
@@ -2238,7 +2296,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 346573,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK"
@@ -2371,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Out Of Place",
+        "url": "https://open.spotify.com/album/3p0SdfG2kMyt8cti2mqINP"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth",
+          "url": "https://open.spotify.com/artist/3SG07EEING9Ytq5yFSSuff"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302203,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5evFhtEdAJfj7m8AswhLyE"
+    },
+    {
+      "album": {
         "name": "Paris Stadium",
         "url": "https://open.spotify.com/album/1RnVbufi8VU1gGAiD81dT7"
       },
@@ -2382,7 +2458,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 387754,
       "name": "Paris Stadium - Live",
       "url": "https://open.spotify.com/track/5I9EN8ouxkisB1sKdAm9pu"
@@ -2436,7 +2512,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 255064,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/7ftAV0BluUCWNRAP8o9um9"
@@ -2948,7 +3024,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 257861,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/3DZ0YXVKAI2bJ6w5vlOQ3h"
@@ -3609,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "The Piper's Call Live Around The World",
+        "url": "https://open.spotify.com/album/1lEQcDmsaSfq08mlkA6DbP"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309906,
+      "name": "The Piper's Call Live Around The World",
+      "url": "https://open.spotify.com/track/51SsUy9BaxMIW05zIRyQKg"
+    },
+    {
+      "album": {
         "name": "The Pursuit",
         "url": "https://open.spotify.com/album/1wPYB7hjyCQjbrYcTqzLvv"
       },
@@ -4166,6 +4260,24 @@
       "duration_ms": 278652,
       "name": "Zeus in Chains",
       "url": "https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5"
+    },
+    {
+      "album": {
+        "name": "The Last Will And Testament",
+        "url": "https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "\u00a73",
+      "url": "https://open.spotify.com/track/42dvQfMObPlPPx4aNY2amf"
     },
     {
       "album": {

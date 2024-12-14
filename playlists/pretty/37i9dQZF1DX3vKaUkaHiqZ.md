@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,578 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,581 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 18 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 |
 | 19 | [Legends](https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt) | [The MIDI Mafia](https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc) | 3:18 |
 | 20 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
-| 21 | [Drug Song](https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9) | [Volume 1 \(3 albums: Super America, Soul Impressions, Pop Impressions\)](https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS) | 3:11 |
+| 21 | [Drug Song](https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9) | [Volume 1 \(3 albums: Super America\)](https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS) | 3:11 |
 | 22 | [English Summer](https://open.spotify.com/track/4T5KWGGwXTxlT2hyGKDtHb) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Rituals](https://open.spotify.com/album/12MSF8u9nEjGShsgteS0Lk) | 4:39 |
 | 23 | [Aux armes et caetera](https://open.spotify.com/track/6Z1487JY6p3cVxs5JVXkMZ) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Aux armes et caetera](https://open.spotify.com/album/437n44rXu1XPP7pR075Fek) | 3:07 |
 | 24 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 |

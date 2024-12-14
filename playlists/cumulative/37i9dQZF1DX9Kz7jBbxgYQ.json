@@ -4833,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "ROOP",
+        "url": "https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152445,
+      "name": "ROOP",
+      "url": "https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD"
+    },
+    {
+      "album": {
         "name": "NIKAMMA",
         "url": "https://open.spotify.com/album/0sco8sEz0VIAuAoJiHIAIp"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125646,
+  "num_followers": 125640,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATcL/ieO9BDuZF/uU1iSyA/fxV/XX+",
+  "snapshot_id": "AAATcmT5hPqmobbpV/7rPEoVMnB2UZQ4",
   "tracks": [
+    {
+      "added_at": "2024-12-13 15:16:14",
+      "album": {
+        "name": "Lightbringer (VIP)",
+        "url": "https://open.spotify.com/album/1a95zDy5MgZPzDRaAZNXEu"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Lightbringer - VIP",
+      "url": "https://open.spotify.com/track/3k6FvXHi6ff25TD945UE6g"
+    },
     {
       "added_at": "2024-12-12 15:48:49",
       "album": {
@@ -1123,22 +1139,6 @@
       "duration_ms": 198857,
       "name": "Who's Laughing Now - A Hundred Drums Remix",
       "url": "https://open.spotify.com/track/39XzfK4wI5C16ou4HRiCmu"
-    },
-    {
-      "added_at": "2024-09-20 14:35:45",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn"
-      },
-      "artists": [
-        {
-          "name": "Nitro Fun",
-          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
-        }
-      ],
-      "duration_ms": 180089,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

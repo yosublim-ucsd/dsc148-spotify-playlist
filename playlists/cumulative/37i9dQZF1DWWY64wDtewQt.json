@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "ACIDO",
+        "url": "https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75697,
+      "name": "ACIDO",
+      "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
+    },
+    {
+      "album": {
         "name": "ADRENALIN",
         "url": "https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw"
       },
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 119616,
       "name": "BIBI PHONK BR",
       "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
@@ -4912,7 +4930,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 51857,
       "name": "EU SOU U FUNKY BEAR",
       "url": "https://open.spotify.com/track/1WIRB0fRRWJwO4vKqLyvp6"
@@ -5474,6 +5492,28 @@
       "duration_ms": 106400,
       "name": "FUNK ESTRANHO",
       "url": "https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh"
+    },
+    {
+      "album": {
+        "name": "FUNK INFERNAL",
+        "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90004,
+      "name": "FUNK INFERNAL",
+      "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
       "album": {
@@ -8071,6 +8111,32 @@
     },
     {
       "album": {
+        "name": "EVOLUTION FUNK VOL. I",
+        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144437,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
+    },
+    {
+      "album": {
         "name": "MAXIMUM CARNAGE",
         "url": "https://open.spotify.com/album/5jUTU7hP0Vu88aPyswvSi2"
       },
@@ -8116,6 +8182,24 @@
       "duration_ms": 140393,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1O3hr0mThUv1YxRKzG0PNL"
+    },
+    {
+      "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "album": {
@@ -9600,7 +9684,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 75642,
       "name": "NA KOLENI FUNK",
       "url": "https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx"

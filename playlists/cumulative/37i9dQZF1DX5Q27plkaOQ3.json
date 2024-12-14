@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is Bass Vol. 8",
+        "url": "https://open.spotify.com/album/57ND4MY1sfl0w4gV91EV62"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ozi",
+          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Always Dreaming, Hardly Distracted",
+      "url": "https://open.spotify.com/track/0nRAD6uv8Tejptt4AbbF3B"
+    },
+    {
+      "album": {
         "name": "Always Wanna Talk",
         "url": "https://open.spotify.com/album/2UOWENmQspXrv17EzBqHK2"
       },
@@ -500,6 +518,28 @@
       "duration_ms": 171058,
       "name": "Always Wanna Talk",
       "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
+    },
+    {
+      "album": {
+        "name": "Amnesia (HOL! Remix)",
+        "url": "https://open.spotify.com/album/6aQxn6cMSQOsD4ty1Xx6HR"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182202,
+      "name": "Amnesia - HOL! Remix",
+      "url": "https://open.spotify.com/track/3Eao1qm5hHfL2YplGHeI1N"
     },
     {
       "album": {
@@ -588,7 +628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 166285,
       "name": "Ape Shit",
       "url": "https://open.spotify.com/track/18iIaFPwTlRhDWTcCWpwel"
@@ -2678,7 +2718,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 205241,
       "name": "Catch a Case",
       "url": "https://open.spotify.com/track/5yavMLBj32GENOlqNvJGgy"
@@ -2818,6 +2858,24 @@
       "duration_ms": 179200,
       "name": "Chasing Devils - Audigy Remix",
       "url": "https://open.spotify.com/track/49PusnlAw9zshcQzWux0sI"
+    },
+    {
+      "album": {
+        "name": "CHEAT CODES",
+        "url": "https://open.spotify.com/album/1qzpCa6E72boKZ3gf7QpTS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "CHEAT CODES",
+      "url": "https://open.spotify.com/track/5yGTjvc0o9OwCtTJ1MzpRy"
     },
     {
       "album": {
@@ -4146,6 +4204,24 @@
       "duration_ms": 218142,
       "name": "Die A God",
       "url": "https://open.spotify.com/track/3FBwxitVZMIu6cOJHujOwR"
+    },
+    {
+      "album": {
+        "name": "Different Shit",
+        "url": "https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Different Shit",
+      "url": "https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz"
     },
     {
       "album": {
@@ -6397,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is Bass Vol. 8",
+        "url": "https://open.spotify.com/album/57ND4MY1sfl0w4gV91EV62"
+      },
+      "artists": [
+        {
+          "name": "Wodd",
+          "url": "https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Funk With Me",
+      "url": "https://open.spotify.com/track/6jOIKPg5B5SK98ZL1oAqkx"
+    },
+    {
+      "album": {
         "name": "FUNKONAUT",
         "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
       },
@@ -7144,7 +7238,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
@@ -7742,6 +7836,32 @@
       "duration_ms": 240000,
       "name": "Human",
       "url": "https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD"
+    },
+    {
+      "album": {
+        "name": "Antagonist Remixes (Part I)",
+        "url": "https://open.spotify.com/album/6CoLT1mO5QWe2uNIVdbtYD"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "RayJhin",
+          "url": "https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "Human - RayJhin Remix",
+      "url": "https://open.spotify.com/track/0ktvPFFVXUJ7BELh0bhYQ8"
     },
     {
       "album": {
@@ -9270,7 +9390,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196017,
       "name": "Liquid Artefacts",
       "url": "https://open.spotify.com/track/5xoEi7btnLecw0FyCdRqZf"
@@ -10180,7 +10300,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 120000,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt"
@@ -12549,6 +12669,28 @@
     },
     {
       "album": {
+        "name": "Rave Repeater",
+        "url": "https://open.spotify.com/album/6zQEf8INlgYs6MunxxK3tq"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "Rave Repeater",
+      "url": "https://open.spotify.com/track/7vHFbHovK5g1MoWK7s696a"
+    },
+    {
+      "album": {
         "name": "ANGRY MUSIC",
         "url": "https://open.spotify.com/album/5obBkPCnPSX9g869AbqO4P"
       },
@@ -14742,7 +14884,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 185142,
       "name": "SPIN",
       "url": "https://open.spotify.com/track/42lxcAbf4vRpCjCDhTBUWH"
@@ -17758,7 +17900,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 188689,
       "name": "Whoa Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"

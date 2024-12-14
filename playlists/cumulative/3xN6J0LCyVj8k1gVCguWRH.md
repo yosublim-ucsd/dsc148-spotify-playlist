@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,273 songs - 9 day 23 hr 32 min
+4,274 songs - 9 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1586,6 +1586,7 @@
 | [Head Rush](https://open.spotify.com/track/3jkOvFQbAg2i0dJutdtUwR) | [Kai Nanfelt](https://open.spotify.com/artist/1h4fHN9vvesn0dBHg7pN4H) | [Head Rush](https://open.spotify.com/album/4I5Ao2oihdeTTxKDk6xc4i) | 3:11 | 2024-07-15 | 2024-10-10 |
 | [Head's In the Roses](https://open.spotify.com/track/7cUd9jKNcrEzFc6XCdyWLW) | [Jessica Wilde](https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij) | [Head's In the Roses](https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe) | 3:12 | 2022-02-27 | 2022-03-17 |
 | [headlock](https://open.spotify.com/track/2De6veIofosyfUlx3HdNV0) | [Marshall](https://open.spotify.com/artist/6nrEtBorzQn3FbVHWJAMNS), [Lindsey Ray](https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY) | [headlock](https://open.spotify.com/album/0A2M1sznVUU9UxKIEueFmH) | 3:22 | 2022-02-18 | 2022-03-07 |
+| [Healing](https://open.spotify.com/track/5kv8fMjVwkpgQiLjytquOG) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Healing](https://open.spotify.com/album/48zdH5sIOkqKLScGN6oo0M) | 2:53 | 2024-12-13 |  |
 | [Healing](https://open.spotify.com/track/2FBCT9y4LNqGjOV52SRB28) | [Eli Ryp](https://open.spotify.com/artist/2nFJdWFJHpn3h10ZX3mVFV) | [Healing](https://open.spotify.com/album/6XrnhocDDTE0KlukllQxZa) | 5:36 | 2023-12-29 | 2024-01-16 |
 | [Hear me bleed](https://open.spotify.com/track/3lpsj91bLDb3Uuegqv9Xch) | [Syndel](https://open.spotify.com/artist/3nKXP8BNMcvMOHBBw1mQxo) | [Hear me bleed](https://open.spotify.com/album/3B6hLF2W3l5ojCP7chaTXy) | 2:58 | 2024-03-17 | 2024-03-29 |
 | [Heart Breaker](https://open.spotify.com/track/213LP7YIi0KpRkBYXQJRfs) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Heart Breaker](https://open.spotify.com/album/7mFHMPuInS5xSdI44ysXaG) | 3:06 | 2021-05-08 | 2021-05-23 |

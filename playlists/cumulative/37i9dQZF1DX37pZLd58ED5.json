@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Lazza",
+  "description": "Solo beat e rime avvolgenti. Cover: Marracash",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 184017,
       "name": "Crash Test",
       "url": "https://open.spotify.com/track/2lpZiHXHWtDTTxMmecB6g3"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167740,
       "name": "PARTICOLARI SPORCHI",
       "url": "https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI"
@@ -3098,6 +3098,24 @@
       "duration_ms": 176485,
       "name": "PELLE D'OCA (feat. Medy)",
       "url": "https://open.spotify.com/track/2VxS5ZTxvHbYdfiZJeYNbD"
+    },
+    {
+      "album": {
+        "name": "\u00c8 FINITA LA PACE",
+        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227179,
+      "name": "PENTOTHAL",
+      "url": "https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW"
     },
     {
       "album": {
@@ -3453,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "\u00c8 FINITA LA PACE",
+        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "SOLI",
+      "url": "https://open.spotify.com/track/0ngRr9jrwrd4bhltVSHTEb"
+    },
+    {
+      "album": {
         "name": "La Bella Musica",
         "url": "https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J"
       },
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 166764,
       "name": "Solo (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/18jypjDXo1laFq8eiGTxr1"
@@ -3924,6 +3960,24 @@
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "album": {
+        "name": "\u00c8 FINITA LA PACE",
+        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178761,
+      "name": "\u00c8 FINITA LA PACE",
+      "url": "https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5"

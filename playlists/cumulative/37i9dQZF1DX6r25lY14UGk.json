@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Bananaphone",
+        "url": "https://open.spotify.com/album/1tJl6QYjJZCCobvBQ3M7ZM"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89857,
+      "name": "Bananaphone",
+      "url": "https://open.spotify.com/track/48y8ae79zMBP4ocadUCjd5"
+    },
+    {
+      "album": {
         "name": "Bark to the Beat",
         "url": "https://open.spotify.com/album/5Yc4KGQL2aV0UXusxtAI4Z"
       },
@@ -5047,6 +5065,40 @@
     },
     {
       "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
+    },
+    {
+      "album": {
         "name": "I Am A Dinosaur",
         "url": "https://open.spotify.com/album/43E0kpJ4luU4Sr9OFJfUNb"
       },
@@ -7929,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "One Talk at a Time",
+        "url": "https://open.spotify.com/album/0B2RIp28BPfFOlu49PgOQe"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169585,
+      "name": "One Talk at a Time",
+      "url": "https://open.spotify.com/track/1WaAMXC7V1lG0g8gEWhTNS"
+    },
+    {
+      "album": {
         "name": "Counting Songs for Kids",
         "url": "https://open.spotify.com/album/6sjdWjglHtNFlIaqS27asi"
       },
@@ -8382,6 +8452,28 @@
       "duration_ms": 183692,
       "name": "Piggle Wiggle",
       "url": "https://open.spotify.com/track/1ynbpit9rExgCccCH51iIS"
+    },
+    {
+      "album": {
+        "name": "10 Years of Curiosity",
+        "url": "https://open.spotify.com/album/1y0wRZBLHaq5Mac8ekav5R"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Pillow Fort Song",
+      "url": "https://open.spotify.com/track/0IHRM0JHDKNgae74AP6Tp8"
     },
     {
       "album": {
@@ -11036,6 +11128,28 @@
       "duration_ms": 162040,
       "name": "Then There Was You - From \"The Garfield Movie\"",
       "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
+    },
+    {
+      "album": {
+        "name": "There Ain\u2019t No Bugs On Me (Master Takes)",
+        "url": "https://open.spotify.com/album/1yYh3QX0cRRcmfc0qcSBf0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270727,
+      "name": "There Ain\u2019t No Bugs On Me - Master Takes",
+      "url": "https://open.spotify.com/track/0XTuvvAoN7D1ckJceXTyf8"
     },
     {
       "album": {

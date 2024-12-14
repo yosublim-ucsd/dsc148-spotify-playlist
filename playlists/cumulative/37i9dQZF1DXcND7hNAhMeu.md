@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: <ahref="spotify:artist:2FkaZzzDTwnz1l1mK9DoT6">TUANA</a>
+> Geleceğin seslerini dinle! Kapak: TUANA
 
 83 songs - 3 hr 59 min
 

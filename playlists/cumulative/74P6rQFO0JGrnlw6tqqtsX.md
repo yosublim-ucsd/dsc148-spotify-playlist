@@ -8,12 +8,12 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Pop, Pop, Pop\) Goes My Mind](https://open.spotify.com/track/0pZHJqjF6fFvNxoi3UmNE4) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Bloodlline](https://open.spotify.com/album/30LvVTbayIswawaChk8dr9) | 5:55 | 2017-01-03 |  |
+| [\(Pop, Pop, Pop\) Goes My Mind](https://open.spotify.com/track/0pZHJqjF6fFvNxoi3UmNE4) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Bloodlline](https://open.spotify.com/album/30LvVTbayIswawaChk8dr9) | 5:55 | 2017-01-03 |  |
 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 | 2017-02-20 |  |
 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 | 2016-12-14 |  |
 | [Anniversary \- Radio Edit](https://open.spotify.com/track/34lVqpxPhe14y9yZKBHLkN) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Best Soul & Funk Collection: Extra](https://open.spotify.com/album/0Wq8UHDdJqKQHQYLxpv7wJ) | 4:31 | 2016-12-14 |  |
 | [Are U Still Down?](https://open.spotify.com/track/6I1UXqglOINThfiQuSMfls) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:26 | 2017-07-25 |  |
-| [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 | 2017-01-03 |  |
+| [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 | 2017-01-03 |  |
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2017-07-25 |  |
 | [Before You Walk Out of My Life](https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:52 | 2017-07-25 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/2oB4IBodnkYqPb8gtflWLA) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Behind Closed Doors](https://open.spotify.com/album/703AyIxQ6ejArAbwzx5dQj) | 3:50 | 2016-12-16 |  |

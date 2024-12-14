@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-395 songs - 20 hr 27 min
+396 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Centered Brown Noise](https://open.spotify.com/track/6XoH4UO0EFJVBW0aCyRbH9) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Ambient Noise: Brown Noise](https://open.spotify.com/album/0USQ1abSB6ZK5bDoT9UDRF) | 3:18 | 2022-12-16 |  |
 | [Children Sleep Brown Noise](https://open.spotify.com/track/4etZ4h4qNeYRFJrYqaSQqw) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2022-07-29 |  |
 | [Children's Brown Noise](https://open.spotify.com/track/6wffjjTQR9b6d2OFGlMPkS) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Chill with Brown Noise](https://open.spotify.com/album/6RjPRT1OYgQzXRJxbljbS9) | 3:39 | 2022-06-27 |  |
-| [Circadian Brown Noise](https://open.spotify.com/track/4y8sXfJ14r9h8opbbDlyDK) | [Sleepmaker](https://open.spotify.com/artist/3CF8OnWwmF5oA7yGT4OJog) | [Circadian Brown Noise](https://open.spotify.com/album/7AuIuKayveY80207moBOZu) | 2:49 | 2024-12-11 |  |
+| [Circadian Brown Noise](https://open.spotify.com/track/4y8sXfJ14r9h8opbbDlyDK) | [Sleepmaker](https://open.spotify.com/artist/3CF8OnWwmF5oA7yGT4OJog) | [Circadian Brown Noise](https://open.spotify.com/album/7AuIuKayveY80207moBOZu) | 2:49 | 2024-12-11 | 2024-12-14 |
 | [City Sleep](https://open.spotify.com/track/4JM6SPP4klfw5guc4U78Bp) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Time for Bed](https://open.spotify.com/album/1v34jK6eEwiQIR9P590O0V) | 3:44 | 2022-01-07 | 2023-10-27 |
 | [Clear Brown Noise](https://open.spotify.com/track/4HHqIoIrq4ayS1l8fRsUvt) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Soft Peaceful Brown Noise](https://open.spotify.com/album/1TNwhRdtf4C25sMqUEsYug) | 2:34 | 2022-10-26 |  |
 | [Clouds & Brown Noise](https://open.spotify.com/track/3pkeIaJqJ3dHzA6px2OBCK) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Clouds & Brown Noise](https://open.spotify.com/album/1GJc4nJtYBgZHjHVjDeRRQ) | 2:27 | 2022-10-26 |  |
@@ -323,6 +323,7 @@
 | [Peaceful Mind Noise](https://open.spotify.com/track/3Itfj9OAXvpTF8IVOFRMHW) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:18 | 2022-10-26 |  |
 | [Pillows \(Brown Noise\)](https://open.spotify.com/track/6H1QymeXLtyLqzmzWW3Ezw) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bedtime Brown Noise](https://open.spotify.com/album/1Vw1qEL9XX6yKjqnwgEf13) | 3:46 | 2022-06-14 |  |
 | [Private Jet Sleep](https://open.spotify.com/track/7rl3oe00C0iWzsdmRoIsuG) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 3:19 | 2022-01-07 |  |
+| [Pure Brown Noise](https://open.spotify.com/track/0X5PIazm6apxF6zvSJrQeR) | [Anchored Enigma](https://open.spotify.com/artist/5kuRiAxku84py2doYdaG9T) | [Pure Brown Noise](https://open.spotify.com/album/4awGrpQhokYxkOUYL09TQP) | 3:10 | 2024-12-11 |  |
 | [Pure Brown Noise](https://open.spotify.com/track/4sAMnCiEZoSfXBAmuukrlm) | [Le Noise](https://open.spotify.com/artist/08Mp5YOajqKd7QKAOeGuV4) | [Brown](https://open.spotify.com/album/4Jebo0PjnxQnFXVujlwr7M) | 2:40 | 2022-01-07 | 2022-12-17 |
 | [Pure Brown Noise](https://open.spotify.com/track/0koZthYkbZKXhmHYY1QKv7) | [Sleep In Space](https://open.spotify.com/artist/5yU8rZ0JcBNXpkdrxQpvwr) | [Brown Space Noise](https://open.spotify.com/album/6kYLgA9IHEYkeE26gbAJUp) | 3:14 | 2022-06-14 | 2023-01-21 |
 | [Quiet Brown](https://open.spotify.com/track/1Uf6E9MeNKjS2NV9Rspy9m) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Quiet Brown](https://open.spotify.com/album/5Nq9IHASAlMGwi3DLnLd64) | 2:38 | 2024-07-26 | 2024-12-12 |

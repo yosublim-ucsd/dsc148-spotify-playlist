@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "El Rosalito",
+        "url": "https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146106,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU"
+    },
+    {
+      "album": {
         "name": "Nostalgia Norte\u00f1a",
         "url": "https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu"
       },

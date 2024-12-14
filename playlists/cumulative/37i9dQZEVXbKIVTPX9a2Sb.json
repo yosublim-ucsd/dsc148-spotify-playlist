@@ -14180,7 +14180,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -15182,7 +15182,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -16036,6 +16036,28 @@
       "duration_ms": 156640,
       "name": "Inverzia - Bonus",
       "url": "https://open.spotify.com/track/7rVRO72e2V9R38yYD1dxPh"
+    },
+    {
+      "album": {
+        "name": "In\u00e9 Plemen\u00e1",
+        "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
     },
     {
       "album": {
@@ -21832,7 +21854,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "MISSHIT",
       "url": "https://open.spotify.com/track/5wLfAMMkWK2ss8p9tkhLPx"
@@ -28472,6 +28494,24 @@
       "duration_ms": 162734,
       "name": "PRCVL",
       "url": "https://open.spotify.com/track/0uWJ2KCfPoscUPwtGEgcYP"
+    },
+    {
+      "album": {
+        "name": "Pre Dni",
+        "url": "https://open.spotify.com/album/0hybnqOfNIEZhEtEuJRp47"
+      },
+      "artists": [
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215988,
+      "name": "Pre Dni",
+      "url": "https://open.spotify.com/track/4MGqsYqOotajwEAtgNVVw9"
     },
     {
       "album": {
@@ -35260,7 +35300,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 158000,
       "name": "Tahle noc (feat. Yzomandias)",
       "url": "https://open.spotify.com/track/0yBflRk7tCzuBhwqJnf2ZK"

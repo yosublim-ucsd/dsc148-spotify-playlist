@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: TINI",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Greeicy",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 158404,
       "name": "Aburridos (Arial 8)",
       "url": "https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS"
@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "DATE CUENTA",
+        "url": "https://open.spotify.com/album/6n7kUe67tLiVFvD1wh7B9p"
+      },
+      "artists": [
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175817,
+      "name": "DATE CUENTA",
+      "url": "https://open.spotify.com/track/4bPyds5YqAwdkCEvLWrniv"
+    },
+    {
+      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/4cf8d97ipj16xHc2vmK6jv"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
+    },
+    {
+      "album": {
+        "name": "DEBER\u00cdAS QUEDARTE",
+        "url": "https://open.spotify.com/album/6krtjB6U1cwL8bB9siMD99"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "DEBER\u00cdAS QUEDARTE",
+      "url": "https://open.spotify.com/track/1udWDCFQhaQRkZzp9cFUo9"
     },
     {
       "album": {
@@ -4310,6 +4346,24 @@
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
+    },
+    {
+      "album": {
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209780,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
     },
     {
       "album": {
@@ -6444,7 +6498,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
@@ -8424,7 +8478,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180000,
       "name": "me late",
       "url": "https://open.spotify.com/track/6yvC6eDToeKUnrWwl0JU46"
@@ -11517,6 +11571,24 @@
     },
     {
       "album": {
+        "name": "Por Si Te Asomas",
+        "url": "https://open.spotify.com/album/64G9YzR6OyGXVKXAWFFztx"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266908,
+      "name": "Por Si Te Asomas",
+      "url": "https://open.spotify.com/track/0oD6euzx5xhLjdwLQEUtiI"
+    },
+    {
+      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -11953,6 +12025,24 @@
     },
     {
       "album": {
+        "name": "QUIERO TODA MI VIDA DE VUELTA",
+        "url": "https://open.spotify.com/album/1wjnHmhlzHYQtO4bM54dMp"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256323,
+      "name": "QUIERO TODA MI VIDA DE VUELTA",
+      "url": "https://open.spotify.com/track/4uTP7thtTSQrNotminsgu9"
+    },
+    {
+      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -12174,7 +12264,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 170000,
       "name": "Regina",
       "url": "https://open.spotify.com/track/45phmOwGZx6T652oPTLkbL"
@@ -14340,7 +14430,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 171746,
       "name": "Trailer",
       "url": "https://open.spotify.com/track/1Xo00Mhz7PP0lMM92sDFYw"
@@ -14766,6 +14856,28 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "album": {
+        "name": "Aviso De Despido",
+        "url": "https://open.spotify.com/album/6rs6EKlQu5tYC1vtrqVjOq"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178796,
+      "name": "Un Blues",
+      "url": "https://open.spotify.com/track/5QrWetGJiShrW7dJXVNN0r"
     },
     {
       "album": {
@@ -15344,7 +15456,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 139674,
       "name": "X si acaso quieres regresar",
       "url": "https://open.spotify.com/track/3jaaUIKt4oJgLyDPl0bmSq"

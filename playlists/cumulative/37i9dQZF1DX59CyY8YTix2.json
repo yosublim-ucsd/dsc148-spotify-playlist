@@ -15957,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3044\u3063\uff01",
+        "url": "https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119499,
+      "name": "\u3042\u3044\u3063\uff01",
+      "url": "https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE"
+    },
+    {
+      "album": {
         "name": "\u3042\u3044\u3064\u306f\u6c5f\u570b\u9999\u7e54\u3067\u3042\u306e\u5a18\u3092\u596a\u3046",
         "url": "https://open.spotify.com/album/0D6XVg9OWgoErEDKpWh99r"
       },
@@ -32126,7 +32144,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 207179,
       "name": "\u982d\u306e\u4e2d\u306e\u5b87\u5b99",
       "url": "https://open.spotify.com/track/0XNWTfaqQY9oHKawoKLal3"

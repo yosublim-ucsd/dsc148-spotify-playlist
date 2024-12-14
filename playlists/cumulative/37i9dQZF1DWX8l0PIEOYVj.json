@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 with Elephante",
+  "description": "Future & melodic bass \ud83d\udef8 with Hoang",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -614,6 +614,28 @@
       "duration_ms": 207200,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/53KjctJV93bOFxG8Dbngcs"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
     },
     {
       "album": {
@@ -2386,7 +2408,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 211666,
       "name": "Counting on You",
       "url": "https://open.spotify.com/track/62SAUf1yv74SOQqck1zNXb"
@@ -5005,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Frame Shift",
+        "url": "https://open.spotify.com/album/6Ph74ZITqgKZAZBr3xtzks"
+      },
+      "artists": [
+        {
+          "name": "Jade Cicada",
+          "url": "https://open.spotify.com/artist/6HFxqZ6WaTb7TQUhNsK25o"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Frame Shift",
+      "url": "https://open.spotify.com/track/2s0fgCwxXrT8awuqdaT5bA"
+    },
+    {
+      "album": {
         "name": "Free Again",
         "url": "https://open.spotify.com/album/35S1D6sqt5KPIQCIffwdZy"
       },
@@ -7325,6 +7365,28 @@
     },
     {
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1caN3pNIKP8rabctc2PuaV"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/5kZwbhtdv1ymVtxv912PmR"
+    },
+    {
+      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia"
       },
@@ -8554,7 +8616,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 270990,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/1oNUsiZTq5fTC2jO4VL5zP"
@@ -13708,7 +13770,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 189004,
       "name": "The One",
       "url": "https://open.spotify.com/track/3D4olrYQo66ycM8frsqdE7"
@@ -14312,7 +14374,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 171517,
       "name": "Until It's Over",
       "url": "https://open.spotify.com/track/0t5mk7ANQJbof0AVH6i2G0"
@@ -14970,6 +15032,28 @@
       "duration_ms": 211862,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3"
+    },
+    {
+      "album": {
+        "name": "Where In Heaven",
+        "url": "https://open.spotify.com/album/2fkSKARDAL1WwtRCihLHf4"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "Where In Heaven",
+      "url": "https://open.spotify.com/track/2o8GwlRdZ6z8UjhJD98TOp"
     },
     {
       "album": {

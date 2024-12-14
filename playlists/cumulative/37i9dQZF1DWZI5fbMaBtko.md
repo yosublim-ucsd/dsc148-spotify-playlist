@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton Presents: Best of 2024](https://open.spotify.com/playlist/37i9dQZF1DWZI5fbMaBtko)
 
-> Our editors' picks for the best reggaeton songs of the year! \#SpotifyWrapped Cover: Blessd
+> Our editors' picks for the best reggaeton songs of the year! \#SpotifyWrapped Cover: FloyyMenor & Cris Mj
 
 154 songs - 8 hr 29 min
 

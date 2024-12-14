@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: NTG",
-  "num_followers": 257372,
+  "num_followers": 257491,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAABZyxARUNiFpGmiQ8yHjT/g",
+  "snapshot_id": "Z1u/cwAAAABSihEtk96ymGdYHc7hablF",
   "tracks": [
     {
       "added_at": "2024-04-01 19:33:45",
@@ -87,6 +87,26 @@
       "duration_ms": 231909,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "Si Preguntan Por Mi (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/676KkvTEOxZB5CZPT9DFiQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 234763,
+      "name": "Si Preguntan Por Mi - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7mINjDm0p2jkxuFhcM5CYZ"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -621,6 +641,30 @@
       "url": "https://open.spotify.com/track/52T8pmMNdBUP0SSF9iqiyp"
     },
     {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "Cada D\u00eda",
+        "url": "https://open.spotify.com/album/1853eAPAo5HoSzSXvnLlqg"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        },
+        {
+          "name": "Odailys",
+          "url": "https://open.spotify.com/artist/1mKv9lcE9pi5Z0pKnWzLUX"
+        },
+        {
+          "name": "Okaylin",
+          "url": "https://open.spotify.com/artist/4UTUA15FDKzCG3oB3xLCvr"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Cada D\u00eda",
+      "url": "https://open.spotify.com/track/61BLVrrxM2fBuFO8GMHEw9"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Amor de los 90's",
@@ -669,28 +713,28 @@
       "url": "https://open.spotify.com/track/3u0nlbOFKMw8jz8IoOUntu"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "LOS POBRES Y LOS RICOS",
-        "url": "https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV"
+        "name": "Me Quieren Ver Muerto",
+        "url": "https://open.spotify.com/album/1gCHFhLsT0oQ3dFRS2WGTa"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
         },
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
         },
         {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
         }
       ],
-      "duration_ms": 199304,
-      "name": "LOS POBRES Y LOS RICOS",
-      "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
+      "duration_ms": 183092,
+      "name": "Me Quieren Ver Muerto",
+      "url": "https://open.spotify.com/track/6QDaF7D5mH3DGe6etFfCpP"
     },
     {
       "added_at": "2023-08-09 02:57:44",
@@ -769,6 +813,30 @@
       "url": "https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ"
     },
     {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "Fundita",
+        "url": "https://open.spotify.com/album/2mviWI1fI4uiUNPIqtHyqO"
+      },
+      "artists": [
+        {
+          "name": "Pedro El Arquitecto",
+          "url": "https://open.spotify.com/artist/1pZoI1Wz0fA5m0sqLOqMuP"
+        },
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Fundita",
+      "url": "https://open.spotify.com/track/0IM4gXIMWGmLqXHnCs5jII"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "B2B",
@@ -813,26 +881,6 @@
       "url": "https://open.spotify.com/track/7Hr8y7NiLSkk6IB3cS9BuE"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Realidades (Audio Directo)",
-        "url": "https://open.spotify.com/album/04CxPg0gM1ibiEmJgblkau"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Audio Directo",
-          "url": "https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH"
-        }
-      ],
-      "duration_ms": 238391,
-      "name": "Realidades (Audio Directo)",
-      "url": "https://open.spotify.com/track/2TQuvDWU1Uyf24njisLyF8"
-    },
-    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "Me la Subi\u00f3",
@@ -857,24 +905,24 @@
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
     },
     {
-      "added_at": "2023-09-21 15:12:01",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "Sin fotos",
-        "url": "https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39"
+        "name": "Tu No La Corrite",
+        "url": "https://open.spotify.com/album/4k4CKCgs1SdrgFTOT07dke"
       },
       "artists": [
         {
-          "name": "Polojoa",
-          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
+          "name": "Pla La Sustancia",
+          "url": "https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7"
         },
         {
-          "name": "Sombra el de lo palo",
-          "url": "https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2"
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
         }
       ],
-      "duration_ms": 143256,
-      "name": "Sin fotos",
-      "url": "https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv"
+      "duration_ms": 196033,
+      "name": "Tu No La Corrite",
+      "url": "https://open.spotify.com/track/3nppZvNY6FE4HSA11LUfFV"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -901,68 +949,32 @@
       "url": "https://open.spotify.com/track/60nb3L3dCjx6LPh25WSSlV"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "Zuculento",
-        "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
+        "name": "A 200",
+        "url": "https://open.spotify.com/album/4dgrkQvkwZiqgQfkHpoUSY"
       },
       "artists": [
         {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+          "name": "Keyviem",
+          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
         },
         {
-          "name": "Young Gatillo",
-          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
         },
         {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
         },
         {
-          "name": "D\u00b4Flow Aka La Maldad",
-          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
         }
       ],
-      "duration_ms": 167168,
-      "name": "Zuculento",
-      "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "AMIGUITAS",
-        "url": "https://open.spotify.com/album/2LAqWYTqPNikwRiu798nEx"
-      },
-      "artists": [
-        {
-          "name": "Menor Bronx",
-          "url": "https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "AMIGUITAS",
-      "url": "https://open.spotify.com/track/75ijUBwVdjJOg3RuFNvei2"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Pa\u00b4 Llegame",
-        "url": "https://open.spotify.com/album/5VAk35ftso63HhkAvWMs9l"
-      },
-      "artists": [
-        {
-          "name": "Rolex Quintana",
-          "url": "https://open.spotify.com/artist/5HKzczhROf6I9BfTPiv0y6"
-        }
-      ],
-      "duration_ms": 170357,
-      "name": "Pa' Llegame",
-      "url": "https://open.spotify.com/track/0OVF4XcIkgCWgNhPpzP4YB"
+      "duration_ms": 246734,
+      "name": "A 200",
+      "url": "https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1005,20 +1017,24 @@
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "Dentro De Ti",
-        "url": "https://open.spotify.com/album/1CC16U2DLt3OhI2m2UUsfS"
+        "name": "911",
+        "url": "https://open.spotify.com/album/0kf1JB8AJNyML8HUB3fqKA"
       },
       "artists": [
         {
-          "name": "Jay Elite",
-          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+          "name": "Eklectico Diablo",
+          "url": "https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
         }
       ],
-      "duration_ms": 97200,
-      "name": "Dentro De Ti",
-      "url": "https://open.spotify.com/track/5mvF6yXwYICi0Zq2M1wLpx"
+      "duration_ms": 133090,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6VrsZccqIQGoNd3JZODnLW"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1057,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3t1Y9xw8bVvA7gSjVPyFfq"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Polvito",
-        "url": "https://open.spotify.com/album/0aKKftBl5n77WvaVoNlcck"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 144293,
-      "name": "Polvito",
-      "url": "https://open.spotify.com/track/0BmkXhJwHALpRSbqzQeR3j"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Cualto Y La Pistola Remix",
@@ -1099,6 +1099,26 @@
       "duration_ms": 227767,
       "name": "Cualto Y La Pistola Remix",
       "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "No Pueden",
+        "url": "https://open.spotify.com/album/1Cz8z8Vf0L1SNmVcTltUAC"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        },
+        {
+          "name": "JL FRANKEL",
+          "url": "https://open.spotify.com/artist/0Sqicg5QBLyrEISR4KcW9j"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "No Pueden",
+      "url": "https://open.spotify.com/track/6yORtt58G26qw6RFXRKAEj"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1163,26 +1183,6 @@
       "duration_ms": 200000,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/40zeK71MrP2P6Lkd3WESTO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Noticia",
-        "url": "https://open.spotify.com/album/5rGUQaWFciL3V3mgIDMSFW"
-      },
-      "artists": [
-        {
-          "name": "El Shick",
-          "url": "https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae"
-        },
-        {
-          "name": "El Quempe",
-          "url": "https://open.spotify.com/artist/26XektjYlS6lZ6eN16b17V"
-        }
-      ],
-      "duration_ms": 191363,
-      "name": "Noticia",
-      "url": "https://open.spotify.com/track/1p7zf7NbgpGKXMFHHv9j37"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1283,6 +1283,30 @@
       "duration_ms": 180535,
       "name": "Tu Retrato",
       "url": "https://open.spotify.com/track/2790hPY7QphXqA7eygMy6t"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/21T5FRuobVn8fjuPZ7jA3I"
+      },
+      "artists": [
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        },
+        {
+          "name": "Nigel",
+          "url": "https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf"
+        },
+        {
+          "name": "Arod",
+          "url": "https://open.spotify.com/artist/7eET77U1axBuZ0zdc1VAHB"
+        }
+      ],
+      "duration_ms": 162564,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/5ItXWRPBuzLrhaVxRJs3bZ"
     }
   ],
   "unique_name": "Flow Dominicano",

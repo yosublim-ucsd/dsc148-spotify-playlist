@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 150492,
+  "num_followers": 150508,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAAD8svmX7ofyfaFG7Udn/Ul0",
+  "snapshot_id": "Z1u/VAAAAACcJEmTIPRGq5WHDl2X8W6M",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Come Up Kid",
+        "url": "https://open.spotify.com/album/1OOYRUliVouUyeqTDjTNB9"
+      },
+      "artists": [
+        {
+          "name": "Jax Hollow",
+          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
+        }
+      ],
+      "duration_ms": 237971,
+      "name": "Changing Suits",
+      "url": "https://open.spotify.com/track/5UG0YMXwPnszPDDW4DXtPB"
+    },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
@@ -1691,26 +1707,6 @@
       "duration_ms": 313326,
       "name": "World on Fire - Warrior Remix",
       "url": "https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K"
-      },
-      "artists": [
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
-          "name": "Black Violin",
-          "url": "https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "The Message",
-      "url": "https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w"
     },
     {
       "added_at": "2023-02-24 05:01:00",

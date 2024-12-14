@@ -2,9 +2,9 @@
 
 ### [Soul Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVJE8hP95f7v)
 
-> Um apanhado do soul brasileiro para animar e dançar\. Foto: Hyldon
+> Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
 
-101 songs - 6 hr 3 min
+102 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-15 |  |
 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 | 2024-12-07 |
 | [BRASIL TÁ EM FESTA!](https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 | 2023-12-08 |  |
-| [Caminho pro Seu Ouvido \- Remix](https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Caminho pro Seu Ouvido \(Remix\)](https://open.spotify.com/album/1RdMg2ve6GxQGYDtpClLXJ) | 2:35 | 2024-03-22 |  |
+| [Caminho pro Seu Ouvido \- Remix](https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Caminho pro Seu Ouvido \(Remix\)](https://open.spotify.com/album/1RdMg2ve6GxQGYDtpClLXJ) | 2:35 | 2024-03-22 | 2024-12-14 |
 | [Cantar Cantar](https://open.spotify.com/track/0gb9TwMBiMpH7jzPTadRU0) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Passarinho](https://open.spotify.com/album/07eUETgYv4eqREVHTE3OFK) | 3:38 | 2023-12-08 |  |
 | [Carinha de Neném](https://open.spotify.com/track/4pXx9IvFpTNxtFNMY30N88) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Carinha de Neném](https://open.spotify.com/album/3zmFaFpnPoshBu1JL3PQXI) | 2:18 | 2023-12-08 |  |
 | [Certificar](https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Certificar](https://open.spotify.com/album/4OOrg2MvhCdEoAbsvyg6yp) | 2:50 | 2023-12-08 |  |
@@ -95,6 +95,7 @@
 | [Se Bem](https://open.spotify.com/track/0oXf1XVXo3Qsm0eqx1pJvo) | [Rívia](https://open.spotify.com/artist/04YyFN1zuxkeu8EH5QWUsm), [Mais Q](https://open.spotify.com/artist/4zkwAP5pD0ZS1JW6mU7ijF) | [Cores](https://open.spotify.com/album/5378Ek1OzMLVklal3J7Nyu) | 3:33 | 2023-12-08 |  |
 | [Sistemão](https://open.spotify.com/track/4DXfGm7b95Hqw67QGKnYHv) | [Bossa & Soul](https://open.spotify.com/artist/1Hl7wz7GCiJAXOp85CpEGA), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sistemão](https://open.spotify.com/album/5imzplwd5IHQI1ibhT0xrl) | 3:49 | 2023-12-08 |  |
 | [SOLAR](https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [SOLAR](https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf) | 3:49 | 2023-12-08 |  |
+| [Sonhei Com Você](https://open.spotify.com/track/6X5HcSIFWzSgHmiPbPLoHB) | [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Sonhei Com Você](https://open.spotify.com/album/759q2HQzEyaPE2x3mDGhRh) | 3:43 | 2024-12-13 |  |
 | [Soul Brasileira](https://open.spotify.com/track/6dJ0wn1N0JtFdMlu5VbXjJ) | [Denise Diniz](https://open.spotify.com/artist/6MHeydE3MqKbdCVYavZxCR) | [Deusa Música](https://open.spotify.com/album/10SrMOCudH13pz9cSK3GnF) | 3:40 | 2023-12-08 |  |
 | [Soul África](https://open.spotify.com/track/530My5F6QgNrWspNZ4vEDW) | [Babu Santana](https://open.spotify.com/artist/0qA5UtcBL55QFvtjDmxRK8) | [Soul África](https://open.spotify.com/album/2wHupJ3kLogckvwYS6ToBO) | 3:23 | 2023-12-08 |  |
 | [Sá Menina](https://open.spotify.com/track/6TZDYwfSPFSxTEThMI41AZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Tom](https://open.spotify.com/album/7hKgpy2F02FNid1YXH4TM6) | 4:13 | 2023-12-08 |  |

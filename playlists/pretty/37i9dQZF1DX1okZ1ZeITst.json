@@ -1,13 +1,45 @@
 {
-  "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from Moana 2.",
-  "num_followers": 1066692,
+  "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.",
+  "num_followers": 1066833,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1txgQAAAACsPVcH3LTsXSFNrwEjpoJE",
+  "snapshot_id": "Z1u/cgAAAAB1ybti9LDsNDjCgQrnYzmv",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:34",
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {

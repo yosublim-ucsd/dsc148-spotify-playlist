@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Hi Laila",
+        "url": "https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Hi Laila",
+      "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
+    },
+    {
+      "album": {
         "name": "Idega Prema",
         "url": "https://open.spotify.com/album/2OdQtTapi5rAT2shgxiyd1"
       },
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 240270,
       "name": "Janaki",
       "url": "https://open.spotify.com/track/3ZAQJr4l7GxjTZ1LxR5imO"
@@ -2570,7 +2592,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 174901,
       "name": "LOVE TRAP",
       "url": "https://open.spotify.com/track/1rhKhTvyXoT7n56sG3WeNE"
@@ -4958,7 +4980,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180447,
       "name": "Raa Macha Vachey Raa - Female Version",
       "url": "https://open.spotify.com/track/7hNRypDlFavfFUykV4IELm"
@@ -5212,6 +5234,28 @@
       "duration_ms": 215990,
       "name": "Ramaya",
       "url": "https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt"
+    },
+    {
+      "album": {
+        "name": "Ready Go",
+        "url": "https://open.spotify.com/album/28CSQfrblfjehPQWLVPwwq"
+      },
+      "artists": [
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Agastya Raag",
+          "url": "https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Ready Go",
+      "url": "https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7"
     },
     {
       "album": {

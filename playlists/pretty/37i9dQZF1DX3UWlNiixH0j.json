@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Michael Kaneko",
-  "num_followers": 59788,
+  "num_followers": 59817,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "Magic Powers",
+        "url": "https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "Magic Powers",
+      "url": "https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "\u3042\u3044\u3057\u3066\u308b",
         "url": "https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 269720,
       "name": "Alone in the Sky",
       "url": "https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "Magic Powers",
-        "url": "https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        },
-        {
-          "name": "Two Shell",
-          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "Magic Powers",
-      "url": "https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
-        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+        "name": "Fine Love",
+        "url": "https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh"
       },
       "artists": [
         {
-          "name": "Humbert Humbert",
-          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
         }
       ],
-      "duration_ms": 194306,
-      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
-      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
+      "duration_ms": 285755,
+      "name": "Fine Love",
+      "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
+        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
+      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
         "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 230500,
       "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
       "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "Fine Love",
-        "url": "https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh"
-      },
-      "artists": [
-        {
-          "name": "brkfstblend",
-          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
-        }
-      ],
-      "duration_ms": 285755,
-      "name": "Fine Love",
-      "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "MEBAE",
+        "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        },
+        {
+          "name": "YONCE",
+          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
+        }
+      ],
+      "duration_ms": 245274,
+      "name": "MEBAE",
+      "url": "https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "\u7f8e\u5316",
         "url": "https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 164992,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "MEBAE",
-        "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        },
-        {
-          "name": "YONCE",
-          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
-        }
-      ],
-      "duration_ms": 245274,
-      "name": "MEBAE",
-      "url": "https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk"
     }
   ],
   "unique_name": "Edge!",

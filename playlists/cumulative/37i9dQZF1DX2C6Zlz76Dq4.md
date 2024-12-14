@@ -4,12 +4,13 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Dolly Parton
 
-175 songs - 9 hr 8 min
+177 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Candle in the Window](https://open.spotify.com/track/72GEp70aheARKNxkn3MX4A) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama Christmas](https://open.spotify.com/album/79TXvxe8sSiIPCCFs6XVac) | 3:51 | 2021-12-16 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/4GVYLg1qHyToGonrFg9tgW) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Christmas With Burl Ives](https://open.spotify.com/album/4QYDkl2q6FVLDXiW5ybsEi) | 2:13 | 2021-12-16 | 2024-08-29 |
+| [All I Want for Christmas Is a Real Good Tan](https://open.spotify.com/track/0egTGRlqVWQ4dWnzNA1Y9p) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Want For Christmas Is A Real Good Tan \(Deluxe Version\)](https://open.spotify.com/album/5hEtcVsLeRvUurcpMyhtUN) | 4:37 | 2024-12-13 |  |
 | [All I Want for Christmas Is a Real Good Tan](https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Want For Christmas Is A Real Good Tan](https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD) | 4:38 | 2021-12-16 | 2022-12-10 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/5WBDqBgGq7LKj38J0QUETf) | [Vince Vance & The Valiants](https://open.spotify.com/artist/6zclKpcV5UuKWn2eIRAT7n) | [All I Want For Christmas Is You](https://open.spotify.com/album/0DmDrPMlo8UaURR0Ef3hHu) | 3:47 | 2021-12-16 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/7mrSbcJB3205ftbbSMTyYK) | [Vince Vance & The Valiants](https://open.spotify.com/artist/6zclKpcV5UuKWn2eIRAT7n) | [All I Want For Christmas Is You](https://open.spotify.com/album/5bZnaRHqJtv7wwfR9LtCvM) | 3:47 | 2021-12-16 | 2024-04-19 |
@@ -138,6 +139,7 @@
 | [Santa Claus Is Comin' to Town \- 1962 Version](https://open.spotify.com/track/2Z7kYAVgTdFF8KG7MITZxo) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [RCA Christmas Recordings \(1949\-1967\)](https://open.spotify.com/album/4iAmDdM7FPNS3g6IYbtaDs) | 1:53 | 2021-12-16 |  |
 | [Santa Claus is Coming To Town](https://open.spotify.com/track/3S6sqCNYVBFMOGhcDaRiz8) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:47 | 2021-12-16 | 2022-11-18 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5Nb04dWJfg1n1rZJ22jKr2) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 2:37 | 2021-12-16 |  |
+| [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/6CsUIrQdXxoEJ2rMvFa1kl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas \(Deluxe Version\)](https://open.spotify.com/album/7gr2ZK7eUTzyed9WOFHrsX) | 4:14 | 2024-12-13 |  |
 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/2DY6Saf2cf3uuNfCk8pVtO) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [A Travis Tritt Christmas \- Loving Time of the Year](https://open.spotify.com/album/6oYnUZmHy3C0xL8QZnbaoR) | 2:28 | 2021-12-16 |  |
 | [Santa's Coming Over to Your House](https://open.spotify.com/track/1sMuVdFFquluFIfImqFMm1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [It Won't Be Christmas Without You](https://open.spotify.com/album/682Ss8jlvCzMHTCNNfKSZp) | 2:30 | 2021-12-16 | 2022-11-18 |
 | [Santa, I'm Right Here](https://open.spotify.com/track/16xYHsqJrCQb2B7v1JEGj2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Christmas To Christmas](https://open.spotify.com/album/6AX5SzSiM9LKCCkoiWasTJ) | 4:39 | 2021-12-16 | 2022-12-10 |

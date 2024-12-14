@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 797837,
+  "num_followers": 797971,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "MILLONARIO",
-        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
-      },
-      "artists": [
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
-        }
-      ],
-      "duration_ms": 180863,
-      "name": "MILLONARIO",
-      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Portrait of the Obscure",
         "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 427102,
       "name": "Feather - Iorie & Madmotormiquel Remix",
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "MILLONARIO",
+        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
+      },
+      "artists": [
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
+        }
+      ],
+      "duration_ms": 180863,
+      "name": "MILLONARIO",
+      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Circadia",
-        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 408400,
-      "name": "Circadia",
-      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Zurna",
         "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 431451,
       "name": "Zurna",
       "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+      "duration_ms": 408400,
+      "name": "Circadia",
+      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Mogolu (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
       "artists": [
         {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
         }
       ],
-      "duration_ms": 283278,
-      "name": "Mogolu - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -867,18 +863,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Mogolu (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 283278,
+      "name": "Mogolu - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 469335,
       "name": "State the Obvious",
       "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -991,6 +991,30 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Perreo (Edit)",
+        "url": "https://open.spotify.com/album/6vflECfIgd02x0qNbHpCFi"
+      },
+      "artists": [
+        {
+          "name": "Quentro",
+          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
+        },
+        {
+          "name": "Kuntay Cevizci",
+          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Perreo (Edit)",
+      "url": "https://open.spotify.com/track/7zAnkRwQJYaWA6LiHeyai3"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1015,26 +1039,38 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Perreo (Edit)",
-        "url": "https://open.spotify.com/album/6vflECfIgd02x0qNbHpCFi"
+        "name": "Into Your Tribe (Bedouin Remix)",
+        "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
       "artists": [
         {
-          "name": "Quentro",
-          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
+          "name": "Guy Lalibert\u00e9",
+          "url": "https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn"
         },
         {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
+          "name": "Soul Of Zoo",
+          "url": "https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g"
         },
         {
-          "name": "Kuntay Cevizci",
-          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        },
+        {
+          "name": "Snow Owl",
+          "url": "https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua"
+        },
+        {
+          "name": "The Frog Collective",
+          "url": "https://open.spotify.com/artist/1632WY7fAHnsDWnceuAMYR"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Perreo (Edit)",
-      "url": "https://open.spotify.com/track/7zAnkRwQJYaWA6LiHeyai3"
+      "duration_ms": 454680,
+      "name": "Into Your Tribe - Bedouin Remix",
+      "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1063,58 +1099,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Into Your Tribe (Bedouin Remix)",
-        "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
-      },
-      "artists": [
-        {
-          "name": "Guy Lalibert\u00e9",
-          "url": "https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn"
-        },
-        {
-          "name": "Soul Of Zoo",
-          "url": "https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        },
-        {
-          "name": "Snow Owl",
-          "url": "https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua"
-        },
-        {
-          "name": "Frooogs Collective",
-          "url": "https://open.spotify.com/artist/1632WY7fAHnsDWnceuAMYR"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 454680,
-      "name": "Into Your Tribe - Bedouin Remix",
-      "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -1227,22 +1211,34 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Isoc\u00e8le",
-        "url": "https://open.spotify.com/album/7eefzhk8CMOVNa1PmRTCuM"
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
       },
       "artists": [
         {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        },
-        {
-          "name": "Wuachuma",
-          "url": "https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ"
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
         }
       ],
-      "duration_ms": 408750,
-      "name": "Isoc\u00e8le",
-      "url": "https://open.spotify.com/track/1vTA55KnE5wEsI8E5tp5jc"
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+        "name": "Isoc\u00e8le",
+        "url": "https://open.spotify.com/album/7eefzhk8CMOVNa1PmRTCuM"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Wuachuma",
+          "url": "https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ"
         }
       ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+      "duration_ms": 408750,
+      "name": "Isoc\u00e8le",
+      "url": "https://open.spotify.com/track/1vTA55KnE5wEsI8E5tp5jc"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1327,6 +1327,42 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Gotta Let You Go (Radio Mix)",
+        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Gotta Let You Go",
+      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Dilmano Dilbero (Sariel Orenda Remix)",
         "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
       },
@@ -1343,22 +1379,6 @@
       "duration_ms": 408000,
       "name": "Dilmano Dilbero - Sariel Orenda Remix",
       "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1395,26 +1415,6 @@
       "duration_ms": 206533,
       "name": "S\u00edsamo",
       "url": "https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Gotta Let You Go (Radio Mix)",
-        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
-      },
-      "artists": [
-        {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "Gotta Let You Go",
-      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
     },
     {
       "added_at": "2024-11-15 10:17:57",

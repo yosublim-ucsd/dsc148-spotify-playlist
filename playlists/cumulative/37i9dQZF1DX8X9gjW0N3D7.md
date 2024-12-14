@@ -2,7 +2,7 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: 2Frères
+> De la musique québécoise pour tous les goûts\. Photo: Jay Scøtt
 
 120 songs - 6 hr 25 min
 

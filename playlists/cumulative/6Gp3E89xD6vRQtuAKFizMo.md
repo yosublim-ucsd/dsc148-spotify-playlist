@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-380 songs - 18 hr 18 min
+382 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 |  |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 |  |
 | [SHEEESH \- Emorfik Remix](https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:41 | 2023-07-28 |  |
+| [Shorty Go \(feat\. Manno\)](https://open.spotify.com/track/2yuL8S7fNLObEzQEIEBm3U) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Shorty Go \(feat\. Manno\)](https://open.spotify.com/album/17h6nQpecOYdpy1hV7NkdU) | 3:04 | 2024-12-13 |  |
 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 | 2024-11-15 |  |
 | [Shuffle](https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Shuffle](https://open.spotify.com/album/6Lpng8mqEyiEc7QeIUS7fR) | 2:06 | 2023-08-04 |  |
 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-24 |  |
@@ -385,6 +386,7 @@
 | [Without You](https://open.spotify.com/track/16f31pXl2QC3J3LAk1KQRT) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Without You](https://open.spotify.com/album/72qnp2XHaIagEDHZFbiv9T) | 3:03 | 2023-11-22 |  |
 | [Without You \- Acoustic Mix](https://open.spotify.com/track/185dA04nGP9Q7W9XQf8JDs) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Without You \(Acoustic Mix\)](https://open.spotify.com/album/24oPMMZkbGyLDUphpUW4qE) | 2:32 | 2024-02-16 |  |
 | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/album/1aJRxY9BMTN8SXC97rvKov) | 3:38 | 2022-05-06 | 2022-10-18 |
+| [World of Sound](https://open.spotify.com/track/73fKxPJOH9ExwMqF2TMFr8) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku) | [World of Sound](https://open.spotify.com/album/3A9CsBUoxKgK0N4UP6JABY) | 3:04 | 2024-12-13 |  |
 | [You're All Drunk](https://open.spotify.com/track/53I9ct5lkkNHUDZqsOnlbb) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [You’re All Drunk](https://open.spotify.com/album/3DGJDMRduLi2qKHjt0CKZH) | 2:11 | 2024-01-26 |  |
 | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM) | 3:09 | 2022-09-02 | 2022-11-29 |
 | [Your Body](https://open.spotify.com/track/0bWyzjcqn3kn1l6VSgZg5W) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0), [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3) | [Your Body](https://open.spotify.com/album/06iF6QFLoRgnU1Egn7JHe2) | 3:36 | 2023-08-09 |  |

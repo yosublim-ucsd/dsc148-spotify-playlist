@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389972,
+      "name": "ANGER",
+      "url": "https://open.spotify.com/track/2rrrJY1m0G5vjUGC1cjQnO"
+    },
+    {
+      "album": {
         "name": "BAD BOY",
         "url": "https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4"
       },

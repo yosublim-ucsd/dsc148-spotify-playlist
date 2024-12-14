@@ -1,13 +1,53 @@
 {
-  "description": "The best Dance and EDM tracks right now! Cover: Becky Hill &amp; MK",
-  "num_followers": 20891,
+  "description": "The best Dance and EDM tracks right now! Cover: Zeds Dead",
+  "num_followers": 20889,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAfEBkFTDgQYANPxwL70P/3SyWCjcv/",
+  "snapshot_id": "AAAfGC9RJhZB8JWaexUAMBa0PfHr/rvA",
   "tracks": [
+    {
+      "added_at": "2024-12-13 18:33:34",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb"
+    },
+    {
+      "added_at": "2024-12-13 18:33:45",
+      "album": {
+        "name": "No Brake$ (feat. Roshin)",
+        "url": "https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "No Brake$ (feat. Roshin)",
+      "url": "https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t"
+    },
     {
       "added_at": "2024-12-06 20:01:29",
       "album": {
@@ -29,24 +69,44 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2024-12-06 20:01:29",
+      "added_at": "2024-12-13 18:37:39",
       "album": {
-        "name": "Swim (Becky Hill x MK)",
-        "url": "https://open.spotify.com/album/1VKJwB8DnVxi7aGAbv390i"
+        "name": "F*Me",
+        "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         },
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 215629,
-      "name": "Swim - Becky Hill x MK",
-      "url": "https://open.spotify.com/track/54UwHm1Z6oa4XoEZ45A6WH"
+      "duration_ms": 188348,
+      "name": "F*Me",
+      "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
+    },
+    {
+      "added_at": "2024-12-13 18:41:44",
+      "album": {
+        "name": "Glitching",
+        "url": "https://open.spotify.com/album/56EX2Cl8KMPyG3QfCuRKPO"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Glitching",
+      "url": "https://open.spotify.com/track/5WuxCmAJkrjEAiJ8Xx3SAq"
     },
     {
       "added_at": "2024-12-06 20:01:29",
@@ -399,6 +459,26 @@
       "duration_ms": 201979,
       "name": "in2minds",
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
+    },
+    {
+      "added_at": "2024-12-06 20:01:29",
+      "album": {
+        "name": "Swim (Becky Hill x MK)",
+        "url": "https://open.spotify.com/album/1VKJwB8DnVxi7aGAbv390i"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 215629,
+      "name": "Swim - Becky Hill x MK",
+      "url": "https://open.spotify.com/track/54UwHm1Z6oa4XoEZ45A6WH"
     },
     {
       "added_at": "2024-12-06 20:01:29",

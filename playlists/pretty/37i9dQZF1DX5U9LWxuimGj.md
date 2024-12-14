@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Kat Luna
+> Country music with a Latin flair\. Cover: Julio Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,314 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,344 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Soy Yo \- That Girl \- Spanish Version](https://open.spotify.com/track/4dZdl2cOAPZBTltbb7BWJc) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl](https://open.spotify.com/album/73sY5IrItdFAzqqiGMwKEN) | 3:11 |
-| 2 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
-| 3 | [I Got It](https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [I Got It](https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm) | 3:08 |
-| 4 | [Leaving With My Heart](https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Leaving With My Heart](https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z) | 2:58 |
-| 5 | [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 |
+| 1 | [Feathered Indians](https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Feathered Indians](https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet) | 2:51 |
+| 2 | [No Soy Yo \- That Girl \- Spanish Version](https://open.spotify.com/track/4dZdl2cOAPZBTltbb7BWJc) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl](https://open.spotify.com/album/73sY5IrItdFAzqqiGMwKEN) | 3:11 |
+| 3 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
+| 4 | [I Got It](https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [I Got It](https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm) | 3:08 |
+| 5 | [Leaving With My Heart](https://open.spotify.com/track/6UG5p0ZG93YqHAKS4NBmnl) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Leaving With My Heart](https://open.spotify.com/album/27bjp60VMZ1tzeMZTcjs2Z) | 2:58 |
 | 6 | [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 |
 | 7 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 8 | [Digas Lo Que Digas](https://open.spotify.com/track/4fU9fshN8bkL50700ci5tv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Digas Lo Que Digas](https://open.spotify.com/album/0B6yvJLElPicI1x4iPGKVK) | 3:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 64 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 65 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 
-Snapshot ID: `ZyRSQAAAAABwSrjdZ09m4Ml004TXyOBA`
+Snapshot ID: `Z1yNoAAAAACjRyJv/54Nh9cFS3QU1F9J`

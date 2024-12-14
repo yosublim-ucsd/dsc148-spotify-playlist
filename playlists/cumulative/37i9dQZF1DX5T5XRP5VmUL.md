@@ -4,7 +4,7 @@
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-370 songs - 20 hr 2 min
+371 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/album/3ggV8f813nt3mOWA0o31jj) | 2:18 | 2021-12-24 | 2022-07-29 |
 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 | 2021-12-24 | 2023-11-18 |
 | [Counting Down Christmas](https://open.spotify.com/track/33f3uSgwn3G1HQUWOqFG4V) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:39 | 2023-12-01 | 2024-04-19 |
-| [Counting Down Christmas](https://open.spotify.com/track/7zrQbXbU5FHgN6mqIOpgcI) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Counting Down Christmas](https://open.spotify.com/album/3jt0p4HnfPJv3IXKs1APBj) | 3:39 | 2023-12-16 |  |
+| [Counting Down Christmas](https://open.spotify.com/track/7zrQbXbU5FHgN6mqIOpgcI) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Counting Down Christmas](https://open.spotify.com/album/3jt0p4HnfPJv3IXKs1APBj) | 3:39 | 2023-12-16 | 2024-12-14 |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-16 | 2024-11-24 |
 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 | 2022-11-28 | 2023-09-20 |
 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2023-10-13 |  |
@@ -247,6 +247,7 @@
 | [My Little Snowflake](https://open.spotify.com/track/2AVOlfywRkziYM3DgzEPpG) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [My Little Snowflake](https://open.spotify.com/album/3kdqWoboAHEGeYfjOHBffO) | 2:52 | 2021-12-24 | 2022-10-30 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2023-10-13 |  |
 | [No Christmas Blues](https://open.spotify.com/track/5oPAXGqtM1zAJqXczMcPlh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [No Christmas Blues](https://open.spotify.com/album/2On0wGiwTeCMzFMnhB1ID3) | 3:29 | 2021-12-24 | 2022-05-22 |
+| [Nothing Like Christmas](https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Nothing Like Christmas](https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2) | 3:19 | 2024-12-13 |  |
 | [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-24 | 2022-11-27 |
 | [Noël des enfants / Happy Xmas \(War Is Over\)](https://open.spotify.com/track/13RMuZfKnEypuaQCWhHSZx) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Les tubes de Noël](https://open.spotify.com/album/4B0V8aq80xQpSCCMvcb3bt) | 4:00 | 2022-11-25 | 2023-10-14 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 3:43 | 2021-12-24 | 2023-03-14 |

@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-202 songs - 11 hr 41 min
+203 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Grime On Steroids](https://open.spotify.com/track/3OJ4PNN8a3euqfIS1hBGRO) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [juntos](https://open.spotify.com/album/5qicqkou3eYdsExTJDRC0n) | 2:04 | 2024-10-07 |  |
 | [Gunshot](https://open.spotify.com/track/35umPDaraumKhonFf5uWSF) | [AstroLizard](https://open.spotify.com/artist/3esoQnfDY6M4rgOtkq24Wm) | [Out Of This World](https://open.spotify.com/album/4FnfqAXSPyomOOk6sn5Y4f) | 3:21 | 2024-01-12 | 2024-05-17 |
 | [Haunt My Mind \- Machinedrum Remix](https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Haunt My Mind \(Machinedrum Remix\)](https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU) | 3:25 | 2023-03-31 | 2023-11-09 |
+| [Heartbeat](https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Heartbeat](https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7) | 3:30 | 2024-12-13 |  |
 | [Hellpod](https://open.spotify.com/track/0Lkajj4YLJAbilxzK6l5d8) | [VEIL](https://open.spotify.com/artist/0ybSaiyrqXo6YU3vhexVt6) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:36 | 2024-08-23 | 2024-09-27 |
 | [High Rollers](https://open.spotify.com/track/3lbsQYO8jfPrjTRi0c6tDt) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [High Rollers](https://open.spotify.com/album/3xgWSfB4jmId0XfUxPmZ3V) | 2:37 | 2023-05-12 | 2023-11-09 |
 | [Hit & Run](https://open.spotify.com/track/44xdaJQkol3BllYFXG1PJ7) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Hit & Run](https://open.spotify.com/album/7M7lEHEyBHXco4yksLeQpF) | 3:44 | 2023-05-18 | 2024-01-27 |

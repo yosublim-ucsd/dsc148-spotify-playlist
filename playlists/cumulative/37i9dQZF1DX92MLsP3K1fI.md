@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Daniela Spalla & Camilo en portada.
 
-402 songs - 20 hr 20 min
+403 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Fama Mundial](https://open.spotify.com/track/7lXvcJi3nGs2NKcaaO78lS) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Paradisco](https://open.spotify.com/album/6weAvHZk1RgwzGKWYYmOk3) | 3:20 | 2024-10-11 | 2024-10-26 |
 | [FBI](https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [FBI](https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL) | 2:32 | 2024-03-08 | 2024-05-11 |
 | [Feelin’ U](https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Feelin’ U](https://open.spotify.com/album/3BZtJGg47lgiFRFSAVUqlr) | 3:05 | 2022-02-04 | 2022-07-27 |
+| [Feliz Año Nuevo Triste](https://open.spotify.com/track/1AzA8D8QVwnXos9q19TA6D) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Feliz Año Nuevo Triste](https://open.spotify.com/album/2mfdR3z4kPOz7NAvJWnDMt) | 2:54 | 2024-12-13 |  |
 | [Feliz Feliz](https://open.spotify.com/track/3X4O457O6740ekNTlvEG6f) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Feliz Feliz](https://open.spotify.com/album/29CQM5gFLFNCYCJewKtsax) | 2:47 | 2024-02-16 | 2024-04-27 |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-02-03 | 2023-04-07 |
 | [Fotos](https://open.spotify.com/track/0G57kedn6wvWx5CHefeJdu) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Piscis](https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6) | 3:10 | 2023-05-06 | 2023-07-29 |
@@ -359,7 +360,7 @@
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-02-04 |  |
 | [Tan Suave](https://open.spotify.com/track/5Y1IXxu1fbcdTSS4bqEgkT) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Tan Suave](https://open.spotify.com/album/7ileVh1PnldNDBfo85tm8L) | 2:35 | 2024-06-21 | 2024-06-29 |
 | [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 | 2023-03-31 | 2023-10-16 |
-| [Tanto Para Dar](https://open.spotify.com/track/6urTKggdPAYgh729Hw4HEL) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Tanto Para Dar](https://open.spotify.com/album/6JC2YHtMiEyQrGQzENmlMw) | 2:47 | 2024-11-29 |  |
+| [Tanto Para Dar](https://open.spotify.com/track/6urTKggdPAYgh729Hw4HEL) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Tanto Para Dar](https://open.spotify.com/album/6JC2YHtMiEyQrGQzENmlMw) | 2:47 | 2024-11-29 | 2024-12-14 |
 | [Tarantino](https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Tarantino](https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb) | 2:29 | 2024-10-18 | 2024-10-26 |
 | [Te Fuiste](https://open.spotify.com/track/4tY1tO1F7lYloVmHEq9fOs) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Te Fuiste](https://open.spotify.com/album/6l6pTc4bSbHUY3GHSmkeba) | 2:32 | 2023-02-10 | 2023-04-01 |
 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 | 2024-01-26 |  |

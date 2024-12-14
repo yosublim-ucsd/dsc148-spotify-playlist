@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Roc Marciano",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
@@ -2704,6 +2704,28 @@
       "duration_ms": 212154,
       "name": "Chops on the Blade",
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+    },
+    {
+      "album": {
+        "name": "Chopstick",
+        "url": "https://open.spotify.com/album/2fKIl2b2zUW17YU7WjBCEi"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "Chopstick",
+      "url": "https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV"
     },
     {
       "album": {
@@ -4768,7 +4790,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 189850,
       "name": "Fish Grease",
       "url": "https://open.spotify.com/track/4lqcL32AkuxcTSQyuLp4s5"
@@ -9019,6 +9041,28 @@
     },
     {
       "album": {
+        "name": "Once In A Blue Moon",
+        "url": "https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "mr. mellow",
+      "url": "https://open.spotify.com/track/3waGvCLsGSHUxCOLIfArZ1"
+    },
+    {
+      "album": {
         "name": "Mr. Miyagi",
         "url": "https://open.spotify.com/album/6rErVqrK0NASHQsrQXgz0t"
       },
@@ -9632,6 +9676,28 @@
       "duration_ms": 136500,
       "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
       "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
+    },
+    {
+      "album": {
+        "name": "Once In A Blue Moon",
+        "url": "https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189689,
+      "name": "Northside",
+      "url": "https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny"
     },
     {
       "album": {
@@ -12786,7 +12852,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 231013,
       "name": "Squeeze 1St 2",
       "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
@@ -13240,6 +13306,28 @@
       "duration_ms": 145440,
       "name": "Street Gospel",
       "url": "https://open.spotify.com/track/2dMQctsm6JypuIZHUD9ipH"
+    },
+    {
+      "album": {
+        "name": "The Skeleton Key",
+        "url": "https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Street Magic",
+      "url": "https://open.spotify.com/track/3x6begxpmy9o0Sd1EtzOqC"
     },
     {
       "album": {

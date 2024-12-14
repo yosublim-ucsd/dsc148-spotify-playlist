@@ -1,13 +1,29 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Rinker",
-  "num_followers": 947063,
+  "num_followers": 947149,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAAD0J2JdGpzb4ghpddnjRk9K",
+  "snapshot_id": "Z1u/cQAAAACV4nDiC91NalOmrRgVoeDY",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:33",
+      "album": {
+        "name": "Keep Me Honest",
+        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 190890,
+      "name": "Keep Me Honest",
+      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
+    },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
@@ -91,6 +107,26 @@
       "duration_ms": 188000,
       "name": "radio tower",
       "url": "https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:33",
+      "album": {
+        "name": "The Bird Song",
+        "url": "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "The Bird Song",
+      "url": "https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1063,22 +1099,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT"
       },
@@ -1175,22 +1195,6 @@
       "duration_ms": 191613,
       "name": "Glad You Did",
       "url": "https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-10-18 04:00:00",

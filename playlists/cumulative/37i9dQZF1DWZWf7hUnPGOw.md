@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-279 songs - 16 hr 51 min
+280 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [The Aching](https://open.spotify.com/track/6bfduwr5SYMvt4YP0Mkkkx) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:57 | 2023-09-07 |  |
 | [The Beach](https://open.spotify.com/track/6ztiARoWFqgILK5mUehoYs) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 2:50 | 2022-07-22 |  |
 | [Things Won't Return](https://open.spotify.com/track/1kS3tEfUGOXe3tDyhA9Cu0) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Day Rage](https://open.spotify.com/album/6k6bjI5nUXq8Oenlg7Glgi) | 2:52 | 2022-07-22 |  |
+| [This Heart of Mine \(from the Netflix Series "Virgin River"\)](https://open.spotify.com/track/609Cadf9tYZ5Un4ph8EFyP) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [This Heart of Mine \(from the Netflix Series "Virgin River"\)](https://open.spotify.com/album/6XibdUioipl3NTDR7TMxiZ) | 4:13 | 2024-12-13 |  |
 | [This Time](https://open.spotify.com/track/4NDMfILVy0KPG8nvoctsKO) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 4:16 | 2022-07-22 |  |
 | [Thread](https://open.spotify.com/track/0jtCa3XLLrofXAuh3dQzy7) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:52 | 2022-07-22 |  |
 | [Three Little Birds](https://open.spotify.com/track/3mupkFirAwxx4jBr7BS262) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2), [AG](https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta) | [Strange Light](https://open.spotify.com/album/7erONjZ4y36gbBDEGANZSk) | 2:28 | 2022-07-22 |  |

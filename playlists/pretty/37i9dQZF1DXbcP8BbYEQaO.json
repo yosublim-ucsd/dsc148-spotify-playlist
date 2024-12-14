@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 272963,
+  "num_followers": 272969,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KGqwAAAACeTmVTzwRy6UBMalyHTeG+",
+  "snapshot_id": "Z1u/UgAAAAAu1+WJAgXyTCfgAERUvLAm",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
     },
     {
+      "added_at": "2024-12-13 05:00:02",
+      "album": {
+        "name": "Fruit Punch",
+        "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Fruit Punch",
+      "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
       "added_at": "2024-12-06 05:07:55",
       "album": {
         "name": "Wake Me Up",
@@ -59,6 +75,22 @@
       "duration_ms": 255309,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:02",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
     },
     {
       "added_at": "2024-11-11 18:04:33",
@@ -91,6 +123,26 @@
       "duration_ms": 185660,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:02",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -327,22 +379,6 @@
       "duration_ms": 197250,
       "name": "Scantily Clad",
       "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "For Your Consideration (Deluxe)",
-        "url": "https://open.spotify.com/album/2SclrCGehY3IuaVhp3MJpP"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1247,22 +1283,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1323,22 +1343,6 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Ghosts Again",
-        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "Ghosts Again",
-      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
     },
     {
       "added_at": "2024-08-30 04:00:00",

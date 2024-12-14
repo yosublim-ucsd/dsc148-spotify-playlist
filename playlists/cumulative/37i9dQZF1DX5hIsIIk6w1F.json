@@ -2141,6 +2141,32 @@
     },
     {
       "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0T9Uvf8QusjsTncxnWQlbC"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Nyruz",
+          "url": "https://open.spotify.com/artist/6E4isOyUjuu3DeCsEYKwSi"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/1tT99w1XFJlJknlm6FttUX"
+    },
+    {
+      "album": {
         "name": "Diablo Santo",
         "url": "https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9"
       },
@@ -2200,7 +2226,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 200493,
       "name": "Bellavista",
       "url": "https://open.spotify.com/track/5Hcjwice1pkVpy4HCeyVvh"
@@ -6482,6 +6508,28 @@
       "duration_ms": 192941,
       "name": "Free Mella",
       "url": "https://open.spotify.com/track/2S4gcQIVM3QMaqHjGHxG6r"
+    },
+    {
+      "album": {
+        "name": "Fuera del Planeta",
+        "url": "https://open.spotify.com/album/2OS9Dt2U4tBMcgaO8UMZ1W"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Fuera del Planeta",
+      "url": "https://open.spotify.com/track/5H5dEBlY2mPnQTbEirP2zi"
     },
     {
       "album": {

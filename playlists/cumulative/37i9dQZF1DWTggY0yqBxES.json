@@ -145,6 +145,28 @@
     },
     {
       "album": {
+        "name": "1,2 Step",
+        "url": "https://open.spotify.com/album/2aA74hgXgHFOd6eQVibdRX"
+      },
+      "artists": [
+        {
+          "name": "WIL$ON",
+          "url": "https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI"
+        },
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119699,
+      "name": "1,2 Step (feat. Kembe X)",
+      "url": "https://open.spotify.com/track/2SDHgAsy5FjrBi8w6wJhpV"
+    },
+    {
+      "album": {
         "name": "drug opera",
         "url": "https://open.spotify.com/album/7huwRfNMhKPpjIX6xyUZUk"
       },
@@ -1403,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "american spirit",
+        "url": "https://open.spotify.com/album/7M8FfIBMXw7oS2alD3zr1H"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186608,
+      "name": "american spirit",
+      "url": "https://open.spotify.com/track/6Uuc0HW3AUyLO7MDANyve7"
+    },
+    {
+      "album": {
         "name": "HARD COPY",
         "url": "https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF"
       },
@@ -2218,7 +2258,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 101794,
       "name": "BEAT IT UP!",
       "url": "https://open.spotify.com/track/53Ukh8zhylaXTYACGmbUwF"
@@ -5238,7 +5278,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 171003,
       "name": "DAROLD (feat. Nikki Nelms)",
       "url": "https://open.spotify.com/track/4BWfRHvJ0DaYMsUuO5oV7z"
@@ -6588,6 +6628,24 @@
       "duration_ms": 172919,
       "name": "Emo Stick",
       "url": "https://open.spotify.com/track/1skLCDR1M1zPulz3lgiZJt"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
     },
     {
       "album": {
@@ -8016,6 +8074,28 @@
       "duration_ms": 173826,
       "name": "FYM",
       "url": "https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR"
+    },
+    {
+      "album": {
+        "name": "Gentle Monster",
+        "url": "https://open.spotify.com/album/0DfC3ofnQAlq6KDGlqpcSd"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165790,
+      "name": "Gentle Monster",
+      "url": "https://open.spotify.com/track/7gTeb0pjpmNj8RFKHVFq4k"
     },
     {
       "album": {
@@ -11215,6 +11295,24 @@
     },
     {
       "album": {
+        "name": "Joseph Seed",
+        "url": "https://open.spotify.com/album/66lmEHttUfB6utKbfZkLgI"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100072,
+      "name": "Joseph Seed",
+      "url": "https://open.spotify.com/track/38Kaai04trvzaXdAHsDj0b"
+    },
+    {
+      "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU",
         "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
       },
@@ -13220,7 +13318,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 151875,
       "name": "MESSY",
       "url": "https://open.spotify.com/track/2K6f0hncJdVzA9eK76JIxN"
@@ -13456,7 +13554,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 159029,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
@@ -14133,6 +14231,24 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/4bc8AOXuMuGeCVn8a4vpLz"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126078,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/3cQoYpblffkdYEOQbeIzfX"
+    },
+    {
+      "album": {
         "name": "Marlowe 3",
         "url": "https://open.spotify.com/album/0tmnvC5ue44iAfQfL1LBFd"
       },
@@ -14790,7 +14906,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
@@ -15104,7 +15220,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 262221,
       "name": "Oliver (feat. AG Club, Jody Fontaine, P-Lo, Michael Sneed)",
       "url": "https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM"
@@ -17050,7 +17166,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 147721,
       "name": "PUT IT DOWN [Feat. A$AP Ferg & Hunter]",
       "url": "https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s"
@@ -17268,6 +17384,32 @@
       "duration_ms": 316733,
       "name": "range brothers (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR"
+    },
+    {
+      "album": {
+        "name": "VAMPIRES IMPERSONATING PEOPLE",
+        "url": "https://open.spotify.com/album/6O0iJ3ktDL2AoO7851m1Hy"
+      },
+      "artists": [
+        {
+          "name": "PlayThatBoiZay",
+          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "RATATAT [Feat. Denzel Curry & 03 Greedo]",
+      "url": "https://open.spotify.com/track/0lsRY8Qm36UCeuTflMWf8m"
     },
     {
       "album": {
@@ -18006,7 +18148,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167154,
       "name": "s2wik",
       "url": "https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs"
@@ -19202,7 +19344,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 100971,
       "name": "Son Gohan",
       "url": "https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk"
@@ -21714,7 +21856,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 123783,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv"
@@ -22919,6 +23061,28 @@
     },
     {
       "album": {
+        "name": "WHOUWITHHO+",
+        "url": "https://open.spotify.com/album/48eAXMPibnXLfO60apVIwe"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193655,
+      "name": "WHOUWITHHO+",
+      "url": "https://open.spotify.com/track/3VVddUsXWLhortUvZLnf0j"
+    },
+    {
+      "album": {
         "name": "WHY WOULD U WANNA BREAKUP?",
         "url": "https://open.spotify.com/album/0yC1ubNCqyHybmt4BljDdn"
       },
@@ -22930,7 +23094,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 120758,
       "name": "WHY WOULD U WANNA BREAKUP?",
       "url": "https://open.spotify.com/track/5sivnrvegQy0vKTWRttSTk"
@@ -23304,7 +23468,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 136874,
       "name": "Words2LiveBy (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"

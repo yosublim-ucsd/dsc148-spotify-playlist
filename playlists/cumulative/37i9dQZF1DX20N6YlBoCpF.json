@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Amapiano in Afrikaans",
+        "url": "https://open.spotify.com/album/10Olzj6Ztc8BochBQn90VH"
+      },
+      "artists": [
+        {
+          "name": "Perfect Tz",
+          "url": "https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9"
+        },
+        {
+          "name": "JEM-T",
+          "url": "https://open.spotify.com/artist/7hnCstoS5yJ6iLU9jPFb6N"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199191,
+      "name": "Amapiano in Afrikaans",
+      "url": "https://open.spotify.com/track/7LzSas4pgmihGZfQgKHM9F"
+    },
+    {
+      "album": {
         "name": "Amper Daar",
         "url": "https://open.spotify.com/album/6tghs8sNvs3Eo7L53lMj3R"
       },

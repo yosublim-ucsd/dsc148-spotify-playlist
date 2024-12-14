@@ -1,6 +1,6 @@
 {
   "description": "Your weekly dose of new dance. Cover: honey",
-  "num_followers": 144574,
+  "num_followers": 144598,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
@@ -480,12 +480,12 @@
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
           "name": "Meck",
           "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
       "duration_ms": 215540,

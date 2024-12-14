@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3?si=csgdBpkoT7yyNSLW36uwuQ>Steve Crown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,875 likes - 77 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,966 likes - 77 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cast Your Burdens \(Higher\) \- Live](https://open.spotify.com/track/1VL2yRQhczmwtKFokxzTzs) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Cast Your Burdens \(Higher\) \[Live\]](https://open.spotify.com/album/0dEa58pTc4RbfUBeBl3bdG) | 3:01 |
-| 2 | [Champion \- Live](https://open.spotify.com/track/40ldUo6gf5CSVOHztQBmCe) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Champion \(Live\)](https://open.spotify.com/album/1fy89uEPOdkDEprjtSvdBP) | 12:11 |
+| 2 | [Champion \- Live](https://open.spotify.com/track/40ldUo6gf5CSVOHztQBmCe) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Champion \(Live\)](https://open.spotify.com/album/1fy89uEPOdkDEprjtSvdBP) | 12:08 |
 | 3 | [Jesu Oba Alade \- Live](https://open.spotify.com/track/1Bc0EskAnaVkdFRXyLTdj8) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [Jesu Oba Alade \(Live\)](https://open.spotify.com/album/4R31eokVNRuN5SYcsf6gFY) | 7:04 |
 | 4 | [Elohim You Are Beautiful \- Live](https://open.spotify.com/track/3Sgg0KTjSB3MKOWt3agB0Y) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN) | [Elohim You Are Beautiful \(Live\)](https://open.spotify.com/album/6opi4KqzaB89vn9tSqG9Lr) | 12:44 |
 | 5 | [My Generation](https://open.spotify.com/track/7qsA59mdCyVVRpxBn9eFsw) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Generation](https://open.spotify.com/album/5c5fTH6SBggme19EGBYjjg) | 9:12 |

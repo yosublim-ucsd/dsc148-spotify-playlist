@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "No Game (Ao Vivo em S\u00e3o Paulo, 2023)",
+        "url": "https://open.spotify.com/album/4Z4yFe2oeA4fcfzazatZm3"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "Abismo / Depois Que a Gente Ficou - Ao Vivo",
+      "url": "https://open.spotify.com/track/57TjsZuD5jcVnqyv9WGVDx"
+    },
+    {
+      "album": {
         "name": "Abuso de Poder / Sentimento de Posse / Temporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NTxtyiMh4w6sZK9eqTseG"
       },
@@ -294,6 +316,24 @@
       "duration_ms": 245638,
       "name": "Amor De Fim De Noite / Mina De F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4"
+    },
+    {
+      "album": {
+        "name": "20 anos da Roda de Samba no Largo da Prainha - Bloco 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6njvtcFrFaD1gp7BteB0mN"
+      },
+      "artists": [
+        {
+          "name": "Bom Gosto",
+          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258902,
+      "name": "Ancestralidade / Nosso Samba - Ao Vivo",
+      "url": "https://open.spotify.com/track/2N9LaYzE4ulx7kfXnkeND9"
     },
     {
       "album": {
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 289622,
       "name": "Porrad\u00e3o / Eternamente Feliz / Dom de Sonhar / Supra Sumo do Amor / O Som do Tambor - Ao Vivo",
       "url": "https://open.spotify.com/track/19fKKQIwCeNOEtyt4wNQsE"
@@ -2552,7 +2592,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 364831,
       "name": "Pot-Pourri: Me Olha Nos Olhos / Futuro Prometido / Ainda Gosto de Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/07b6vu21xExj1m3DhqNP6o"
@@ -3134,7 +3174,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 357868,
       "name": "Sinto Sua Falta / Inseguran\u00e7a / Eu Nunca Amei Assim",
       "url": "https://open.spotify.com/track/2YCx4I27GMSixz9IEwGqGP"
@@ -3532,6 +3572,28 @@
       "duration_ms": 238421,
       "name": "T\u00f4 Aqui / \u00c9 Assim Que Funciona - Ao Vivo",
       "url": "https://open.spotify.com/track/4fLSDOFd1eOsuQLefcrWFN"
+    },
+    {
+      "album": {
+        "name": "20 anos da Roda de Samba no Largo da Prainha - Bloco 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6njvtcFrFaD1gp7BteB0mN"
+      },
+      "artists": [
+        {
+          "name": "Bom Gosto",
+          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+        },
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269284,
+      "name": "Um s\u00f3 sentimento / Na Madrugada / Aqui pra voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yKkLb5HsVxoCDyoJH2mU5"
     },
     {
       "album": {

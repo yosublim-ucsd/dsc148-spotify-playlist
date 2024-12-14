@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "nieoczywiste",
+        "url": "https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "nieoczywiste",
+      "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
+    },
+    {
+      "album": {
         "name": "niepoprawny numer",
         "url": "https://open.spotify.com/album/6tXyS48SrYdVv5IALccmMM"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 164494,
       "name": "Ona",
       "url": "https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC"

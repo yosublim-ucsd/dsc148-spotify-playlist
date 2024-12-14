@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is A Real Good Tan (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5hEtcVsLeRvUurcpMyhtUN"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277889,
+      "name": "All I Want for Christmas Is a Real Good Tan",
+      "url": "https://open.spotify.com/track/0egTGRlqVWQ4dWnzNA1Y9p"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas Is A Real Good Tan",
         "url": "https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD"
       },
@@ -2398,6 +2416,24 @@
       "duration_ms": 157000,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/5Nb04dWJfg1n1rZJ22jKr2"
+    },
+    {
+      "album": {
+        "name": "Brad Paisley Christmas (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7gr2ZK7eUTzyed9WOFHrsX"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254053,
+      "name": "Santa Looked a Lot Like Daddy",
+      "url": "https://open.spotify.com/track/6CsUIrQdXxoEJ2rMvFa1kl"
     },
     {
       "album": {

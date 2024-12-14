@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Get Lonely",
+        "url": "https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Maybe Sprout Wings",
+      "url": "https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW"
+    },
+    {
+      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },

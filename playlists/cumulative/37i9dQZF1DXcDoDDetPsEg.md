@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Strandz
 
-1,390 songs - 2 day 22 hr 24 min
+1,391 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Answer](https://open.spotify.com/track/1QBMPnuR6v9OB1VVxgJB5G) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [Answer](https://open.spotify.com/album/0WkQauwdoWdnTyHE53ZBbm) | 2:46 | 2024-01-26 | 2024-03-08 |
 | [Antisocial](https://open.spotify.com/track/5WRkjGzj48bn7evIhiHSbp) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Antisocial](https://open.spotify.com/album/66kttDxrG5qysNcZHFoxEB) | 2:54 | 2024-03-08 | 2024-03-09 |
 | [any minute](https://open.spotify.com/track/033ML0eEckRQ6sLdrJmP5J) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou) | [any minute](https://open.spotify.com/album/67xDMKu19E87xKA76tgNJB) | 2:58 | 2023-08-03 | 2023-09-08 |
+| [Aquatic](https://open.spotify.com/track/1szLeo8Xe0ORunL6DTW3Pu) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Aquatic](https://open.spotify.com/album/6NZbBcbeHe58qzBH3HG6jk) | 2:08 | 2024-12-13 |  |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 | 2024-07-19 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-09-25 | 2024-10-04 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-15 | 2023-05-26 |
@@ -759,7 +760,7 @@
 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 | 2024-04-05 | 2024-04-12 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-13 | 2023-12-16 |
 | [Maybach Wallet](https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Maybach Wallet](https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3) | 2:33 | 2024-09-06 | 2024-10-04 |
-| [Mayor](https://open.spotify.com/track/78JW2b8R8sTERHwJ46eSqg) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Mayor](https://open.spotify.com/album/53NHY16ccFIhomJMzy0Sd7) | 2:50 | 2024-09-19 |  |
+| [Mayor](https://open.spotify.com/track/78JW2b8R8sTERHwJ46eSqg) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Mayor](https://open.spotify.com/album/53NHY16ccFIhomJMzy0Sd7) | 2:50 | 2024-09-19 | 2024-12-14 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-05 | 2024-03-29 |
 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 | 2023-02-10 | 2023-06-09 |
 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 | 2022-03-08 | 2022-03-09 |

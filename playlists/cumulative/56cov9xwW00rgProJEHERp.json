@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 237266,
       "name": "And They Called Her California",
       "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 224022,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Rosyln (Live from the Silo)",
+        "url": "https://open.spotify.com/album/26KsMUd3lHKB0UKyUKIF2i"
+      },
+      "artists": [
+        {
+          "name": "Zackery",
+          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281110,
+      "name": "Rosyln - Live from the Silo",
+      "url": "https://open.spotify.com/track/3M8xHt9ggqBHcp0LTG4Ws9"
+    },
+    {
+      "album": {
         "name": "rotted out with flies",
         "url": "https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK"
       },
@@ -3418,6 +3436,28 @@
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+    },
+    {
+      "album": {
+        "name": "for you, live",
+        "url": "https://open.spotify.com/album/1Sp1pSFCd87ORlkDeOiuap"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
+        {
+          "name": "Joey Landreth",
+          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Time Served",
+      "url": "https://open.spotify.com/track/72YlRnNhorYo7npC27A3J8"
     },
     {
       "album": {

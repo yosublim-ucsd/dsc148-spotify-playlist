@@ -670,10 +670,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 145200,
       "name": "What You Playin' For",
       "url": "https://open.spotify.com/track/0usRynwL4TvyLH59elVOWs"
+    },
+    {
+      "album": {
+        "name": "What You Playin' For",
+        "url": "https://open.spotify.com/album/12jbSt7xlrWa4uahieFmZK"
+      },
+      "artists": [
+        {
+          "name": "Cely",
+          "url": "https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "What You Playin' For",
+      "url": "https://open.spotify.com/track/7EG6aNyx5lJpajQZ7uVySB"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: ROSÉ
+> Neues aus der Welt des Pop\. Cover: Michael Marcagi
 
 620 songs - 1 day 7 hr 17 min
 

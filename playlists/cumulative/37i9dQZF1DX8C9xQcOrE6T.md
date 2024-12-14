@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
-213 songs - 10 hr 51 min
+214 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Honor To Us All](https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Beth Fowler](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV), [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ), [Chorus \- Mulan](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 3:03 | 2022-07-22 | 2024-07-11 |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-04-01 |  |
 | [How Far I'll Go](https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [DCappella](https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K) | 2:42 | 2022-04-01 | 2023-08-16 |
+| [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 | 2024-12-13 |  |
 | [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/7tSODhfDkv0JEhkSMYSIBS) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:05 | 2022-04-01 |  |
 | [I Just Can't Wait to Be King](https://open.spotify.com/track/2xUdYfY3LpJb4Iv37RypnO) | [JD McCrary](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Shahadi Wright Joseph](https://open.spotify.com/artist/3qBrg0c1loxePyWQxp6F75), [John Oliver](https://open.spotify.com/artist/0J5AcRTl5C6aBnxCxZKpf3) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:22 | 2022-04-01 | 2024-07-11 |
 | [I Just Can't Wait to Be King \- From "The Lion King" Soundtrack](https://open.spotify.com/track/5iA6APikmuIeaAe9MMluny) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 2:50 | 2023-03-11 |  |

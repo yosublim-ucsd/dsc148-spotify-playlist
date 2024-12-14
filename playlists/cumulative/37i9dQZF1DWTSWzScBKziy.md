@@ -4,7 +4,7 @@
 
 > All new Contemporary Christian songs on the rise! Cover: Ben Fuller
 
-409 songs - 1 day 1 hr 58 min
+410 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Loved By You](https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:13 | 2022-10-29 | 2024-04-19 |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2022-05-27 | 2023-04-13 |
 | [Majesty](https://open.spotify.com/track/3E9U2sZ8cqCCVrPzJ6KGDq) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Majesty](https://open.spotify.com/album/5iRJ5hu2x25swvNmHOkYV6) | 3:17 | 2024-06-07 | 2024-08-10 |
+| [Mama Don't Lie \(Alright\)](https://open.spotify.com/track/1XeGUrBIQ8kdlJoKWpqGp0) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Mama Don't Lie \(Alright\)](https://open.spotify.com/album/59L0URE6EBNfdGURMnyt4V) | 3:16 | 2024-12-13 |  |
 | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 | 2024-10-11 | 2024-11-30 |
 | [Meantime](https://open.spotify.com/track/3ACT3d5wshvm1nclHVwkGi) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Meantime](https://open.spotify.com/album/0nv1h6X2j2ixLSCIGEsR6K) | 4:40 | 2024-06-23 | 2024-08-10 |
 | [Memories Fade Away](https://open.spotify.com/track/1sGxfkJ5fDsZR0kbOCageN) | [Ben Compton](https://open.spotify.com/artist/60KOVif3EfAZFEXMSoSmdg) | [Memories Fade Away](https://open.spotify.com/album/7i6wAc5U48zeXU3MjoeQTm) | 5:20 | 2024-06-07 | 2024-08-10 |

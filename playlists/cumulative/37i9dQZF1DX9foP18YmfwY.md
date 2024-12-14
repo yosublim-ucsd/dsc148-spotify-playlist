@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-189 songs - 14 hr 59 min
+190 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 | 2023-02-10 |  |
 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 | 2022-09-02 |  |
 | [MÃEZINHA DO CÉU](https://open.spotify.com/track/5TK8lpRfRcdThiZVjzdzxo) | [Sandra Duailibe](https://open.spotify.com/artist/2DZbNBrM7YOub8oem1zpSr) | [MÃEZINHA DO CÉU](https://open.spotify.com/album/0LZsBd3npH6a86uex0vK5H) | 4:16 | 2023-10-06 | 2023-12-23 |
+| [Nada Além de Ti](https://open.spotify.com/track/4hfWx8nT2PJeB86r4wDjrr) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Nada Além de Ti](https://open.spotify.com/album/7IHVEoaEg3GOvhgUGAuSQF) | 5:30 | 2024-12-13 |  |
 | [Nada Mudou \- Família É Tudo Igual, Só Muda de Endereço, Ao Vivo](https://open.spotify.com/track/5p9m1CI0jDKKKdskKYwNi3) | [Padre Alessandro Campos](https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS) | [Nada Mudou \- Família É Tudo Igual](https://open.spotify.com/album/40CmCwxSTH5gqm5HAmgJ1W) | 3:23 | 2024-09-06 | 2024-10-05 |
 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 | 2022-09-02 | 2023-12-23 |
 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 | 2022-09-02 |  |
@@ -144,7 +145,7 @@
 | [O Vento \(Faixa Bônus\)](https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Segredos Deluxe \(Ao Vivo\)](https://open.spotify.com/album/1ouDCySsHSSI9BNe4GS9Eu) | 3:48 | 2023-09-25 | 2023-10-14 |
 | [Obrigado Mãe](https://open.spotify.com/track/19gGTZ3Yft1ZVMrRoHctg8) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Obrigado Mãe](https://open.spotify.com/album/1OfUyRH1AkS0GGE7mwiH9J) | 3:48 | 2024-06-28 | 2024-09-06 |
 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 | 2022-09-02 |  |
-| [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 | 2022-09-02 |  |
+| [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 | 2022-09-02 | 2024-12-14 |
 | [Para Sempre Cantarei \- Ao Vivo](https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Para Sempre Cantarei](https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew) | 5:21 | 2023-02-10 | 2023-03-25 |
 | [Pedi E Recebereis](https://open.spotify.com/track/0WOAuYFuEKzwJzgMu73EMe) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Pedi E Recebereis](https://open.spotify.com/album/05Qt3oJMg0TfNxS5dWwZtO) | 3:55 | 2022-09-02 | 2024-07-13 |
 | [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 | 2022-09-02 | 2024-11-30 |

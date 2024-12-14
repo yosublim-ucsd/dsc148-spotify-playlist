@@ -542,10 +542,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 169811,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4QyS5vbTlQXnVJQlAfbdfS"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4o2l1LkywlBL1mnhT8aAhV"
     },
     {
       "album": {

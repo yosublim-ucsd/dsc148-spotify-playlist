@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Happy We Happened",
+        "url": "https://open.spotify.com/album/3Q16F8hTgZAWFniox8j8Ol"
+      },
+      "artists": [
+        {
+          "name": "Carter Ryan",
+          "url": "https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Happy We Happened",
+      "url": "https://open.spotify.com/track/3mEUU5VAHA5TMQHs2vLLWi"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },

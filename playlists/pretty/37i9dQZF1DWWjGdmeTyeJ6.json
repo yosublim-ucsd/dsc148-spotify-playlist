@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: Jackie Hollander, Artwork: Isu Kim",
-  "num_followers": 1215849,
+  "num_followers": 1215821,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1oZGgAAAADlUONrCkfiBq+D/jO/yLGp",
+  "snapshot_id": "Z1u/WQAAAABCYk9A+ed1hoMbrG4nc4x6",
   "tracks": [
     {
       "added_at": "2024-12-11 20:58:00",
@@ -43,6 +43,22 @@
       "duration_ms": 188353,
       "name": "always know the exits",
       "url": "https://open.spotify.com/track/3jX35k5Y0SvCGNMvYysS3p"
+    },
+    {
+      "added_at": "2024-12-13 05:00:09",
+      "album": {
+        "name": "Looking at the Geese",
+        "url": "https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Looking at the Geese",
+      "url": "https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX"
     },
     {
       "added_at": "2024-12-11 20:59:17",
@@ -175,6 +191,22 @@
       "duration_ms": 188778,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:09",
+      "album": {
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/4rxl4OvjhgR96dBUoUPjBH"
+      },
+      "artists": [
+        {
+          "name": "GOON",
+          "url": "https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5"
+        }
+      ],
+      "duration_ms": 286315,
+      "name": "Death Spells",
+      "url": "https://open.spotify.com/track/1SqdwayfShRMtXk5YcVPiP"
     },
     {
       "added_at": "2024-12-11 20:59:17",
@@ -2155,7 +2187,7 @@
     {
       "added_at": "2024-11-06 15:55:19",
       "album": {
-        "name": "ii (ep)",
+        "name": "ii",
         "url": "https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3"
       },
       "artists": [

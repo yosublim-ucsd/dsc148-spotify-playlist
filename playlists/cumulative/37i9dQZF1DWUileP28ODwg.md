@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Katy Nichole
 
-497 songs - 1 day 6 hr 46 min
+498 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Chosen](https://open.spotify.com/track/6PXIdmabfZcpZ2Tc6PJaTB) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Chosen](https://open.spotify.com/album/3lWcNC4oTe0Woq9gmvULjU) | 3:24 | 2024-07-26 | 2024-09-07 |
 | [Christ Or Nothing](https://open.spotify.com/track/7aM4mYaUCriKeMKSE0XhAO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [This Is Holy](https://open.spotify.com/album/2iK6XoSU5MjNisVgtJ5v11) | 3:18 | 2024-10-04 |  |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 | 2022-08-27 |
-| [City on a Hill](https://open.spotify.com/track/6H8HkxVJ7ex5ntbpsuyQ99) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [City on a Hill](https://open.spotify.com/album/0c11KAw4YavlOCx4C4vysF) | 3:36 | 2024-09-06 |  |
+| [City on a Hill](https://open.spotify.com/track/6H8HkxVJ7ex5ntbpsuyQ99) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [City on a Hill](https://open.spotify.com/album/0c11KAw4YavlOCx4C4vysF) | 3:36 | 2024-09-06 | 2024-12-14 |
 | [Clean](https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Clean](https://open.spotify.com/album/5pNkUSv8sgDF81greuJ495) | 3:34 | 2022-02-25 | 2022-05-29 |
 | [Clear The Air](https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9), [McKenna Johns](https://open.spotify.com/artist/6zflBJE0PSTfK8BzFpRWNB) | [Though None Go](https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo) | 3:32 | 2022-08-26 | 2022-10-02 |
 | [Come To Jesus](https://open.spotify.com/track/16aYn9DxGwZ4IAa8Hit2t5) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Come To Jesus](https://open.spotify.com/album/64isdca2SFyemz43Rbls3T) | 3:42 | 2024-07-26 | 2024-10-05 |
@@ -270,6 +270,7 @@
 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-08 | 2023-01-29 |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-19 | 2023-03-11 |
 | [Lover Of My Soul](https://open.spotify.com/track/1lJElVuNSdUt0cYFgCbYDF) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Lover Of My Soul](https://open.spotify.com/album/2XiNPGl83ACsMuIMETQXxh) | 3:22 | 2022-03-19 | 2022-04-29 |
+| [Loves Got a Way](https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Loves Got a Way](https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x) | 3:18 | 2024-12-13 |  |
 | [Lucky](https://open.spotify.com/track/0ZQWc4M5WU12imMyPf9HEt) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Ache](https://open.spotify.com/album/6T6nhY0edWeDpMV7vHDOoh) | 3:15 | 2024-09-06 | 2024-12-12 |
 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 | 2024-03-20 | 2024-06-08 |
 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 | 2022-02-25 | 2022-04-23 |

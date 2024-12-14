@@ -4,7 +4,7 @@
 
 > YSY A en la casa del Trap Argentino.
 
-367 songs - 17 hr 28 min
+368 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-04 |  |
 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 | 2024-09-28 |
 | [Bad B\*tches](https://open.spotify.com/track/3XQlzdBYy7aXYwdD82WSu7) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:34 | 2022-10-28 | 2023-10-21 |
+| [bali .](https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [bali .](https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x) | 2:12 | 2024-12-13 |  |
 | [Baller](https://open.spotify.com/track/0WCJqrHLaDsjt2nBZSynnS) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/4M4ASPb71i9q5uq6XDUFLJ) | 3:21 | 2022-01-21 | 2023-09-16 |
 | [Barras Bravas Session \#1](https://open.spotify.com/track/27Z972CXJhwcelhKuHB7cj) | [Dj Telmogo](https://open.spotify.com/artist/0d0tg71mXYFG8myOTfNQCF), [Masskouh](https://open.spotify.com/artist/1ftqo8LZLPQQ80UUmSsPeE), [ElBroda](https://open.spotify.com/artist/0a10iAgSjjTpm39Ce3QRu3), [Maylo 420](https://open.spotify.com/artist/0VjXg1WrCD2tNcpGyY4Eg0), [Notorious Wach](https://open.spotify.com/artist/59LdUpPI4AkQ24aFaGoEi7) | [Barras Bravas Session \#1](https://open.spotify.com/album/0zxaIRgUNxMICIV9FwaFVp) | 2:05 | 2023-02-03 | 2023-03-31 |
 | [Barro](https://open.spotify.com/track/7k59eQ9b5KXWUNQIMrA7nI) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Barro](https://open.spotify.com/album/5dK03A4u8rzbG1XcMYCxbF) | 3:21 | 2024-10-18 |  |

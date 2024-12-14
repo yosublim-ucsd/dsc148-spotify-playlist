@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Betty Taylor
 
-491 songs - 1 day 3 hr 31 min
+492 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-20 | 2024-08-09 |
 | [Less of You](https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Less of You](https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht) | 3:13 | 2024-06-06 | 2024-07-19 |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-07 | 2024-12-13 |
+| [Let You In](https://open.spotify.com/track/1R2N3WPPaGdZGtaBBDMluP) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Let You In](https://open.spotify.com/album/7sNzwTdsCRpO36XD75DQh0) | 2:06 | 2024-12-12 |  |
 | [Lewps](https://open.spotify.com/track/2Nuv2gVkBhaCn9xW9J1QIk) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lewps](https://open.spotify.com/album/6xccvovJvFSK4UXyQtYkOH) | 2:58 | 2024-11-21 |  |
 | [Lifeline](https://open.spotify.com/track/3FpSqnZtxLkVDBqPx3gvpR) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Doobie Mouth \(An EP From PawPaw Rod\)](https://open.spotify.com/album/3vzLmFWpmUo8u4Z4viSz5h) | 2:44 | 2024-08-08 | 2024-09-13 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-12 |  |

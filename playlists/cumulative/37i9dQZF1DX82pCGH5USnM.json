@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 211422,
       "name": "Almannagj\u00e1",
       "url": "https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 137435,
       "name": "Days.Spent Alone",
       "url": "https://open.spotify.com/track/0ms65AqkeniLWjSmR6y7Iw"
@@ -4259,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Far More Effect",
+        "url": "https://open.spotify.com/album/24Gnp2VJ1Hm6Q6XfMKrAbH"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140810,
+      "name": "Far More Effect",
+      "url": "https://open.spotify.com/track/7gmlnMeEI7XH2W5Yye4krQ"
+    },
+    {
+      "album": {
         "name": "Fascination",
         "url": "https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb"
       },
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 175078,
       "name": "finders keepers",
       "url": "https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv"
@@ -5074,7 +5092,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 192510,
       "name": "getting ideas",
       "url": "https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F"
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215285,
       "name": "glacial",
       "url": "https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 184504,
       "name": "Grain Memory",
       "url": "https://open.spotify.com/track/4tQNIGCMbmZsVC8D5Vrspn"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 191250,
       "name": "Head bobbin",
       "url": "https://open.spotify.com/track/2nIkGiEWaPHmrJJA3Lfioi"
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 157431,
       "name": "in deep",
       "url": "https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX"
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 200060,
       "name": "Indi",
       "url": "https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt"
@@ -6220,7 +6238,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 143120,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31"
@@ -7138,7 +7156,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
@@ -7430,6 +7448,24 @@
       "duration_ms": 184940,
       "name": "Lonely Hour",
       "url": "https://open.spotify.com/track/560p69yXiFLwFW8uXQN6uI"
+    },
+    {
+      "album": {
+        "name": "Lonely Sky",
+        "url": "https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "Lonely Sky",
+      "url": "https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2"
     },
     {
       "album": {
@@ -8186,7 +8222,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 160000,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0uC0TjBdiCId1jZyo3mkrr"
@@ -8846,7 +8882,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 125296,
       "name": "Nights",
       "url": "https://open.spotify.com/track/0vsedeIvoKKTV5cVU7E6n8"
@@ -10027,6 +10063,24 @@
     },
     {
       "album": {
+        "name": "Poolside Bliss",
+        "url": "https://open.spotify.com/album/3j7LhV4pQJj4vtaqhfkQCK"
+      },
+      "artists": [
+        {
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "Poolside Bliss",
+      "url": "https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL"
+    },
+    {
+      "album": {
         "name": "Gager",
         "url": "https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y"
       },
@@ -10150,7 +10204,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 122550,
       "name": "Promises",
       "url": "https://open.spotify.com/track/01Bqay08avct1ILNWPtQOm"
@@ -10348,7 +10402,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 195011,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/1Y3ELkSuRZmsJE4WYGvN49"
@@ -10370,6 +10424,24 @@
       "duration_ms": 224478,
       "name": "Raven",
       "url": "https://open.spotify.com/track/1OANYjfP3qm6YuM71ekNiu"
+    },
+    {
+      "album": {
+        "name": "raw talent",
+        "url": "https://open.spotify.com/album/7ba3jg4IxskbGahqLroe5H"
+      },
+      "artists": [
+        {
+          "name": "SCRP",
+          "url": "https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "raw talent",
+      "url": "https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24"
     },
     {
       "album": {
@@ -10550,7 +10622,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 201467,
       "name": "Rested",
       "url": "https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI"
@@ -11101,6 +11173,24 @@
     },
     {
       "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/19kbmsNTquJGW3l5f0y0Vn"
+      },
+      "artists": [
+        {
+          "name": "Beau Vallon",
+          "url": "https://open.spotify.com/artist/5K0wrtw39gjYV1Gf63auL4"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170294,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6VGUeTXGsyKU44hkPtAqHY"
+    },
+    {
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/2vHfkFEiulvbOSBu3XQ9Y4"
       },
@@ -11580,7 +11670,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 184000,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0srUlmUhUIHJla8CNZtAe2"
@@ -11616,7 +11706,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 219406,
       "name": "Shore",
       "url": "https://open.spotify.com/track/6td9IjPLRMXFmUrrxjWF3q"
@@ -12070,7 +12160,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 164210,
       "name": "solar bliss",
       "url": "https://open.spotify.com/track/5pmOBhY1ZyQwpebo3vfzes"
@@ -12539,6 +12629,24 @@
     },
     {
       "album": {
+        "name": "sublime",
+        "url": "https://open.spotify.com/album/6x3qQFdoiKVCAWj7zNJuno"
+      },
+      "artists": [
+        {
+          "name": "citron love",
+          "url": "https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "sublime",
+      "url": "https://open.spotify.com/track/5jRX5v0KhpKjl5X5KJUf1p"
+    },
+    {
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -12824,6 +12932,24 @@
       "duration_ms": 177342,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/4citJntYFmKucI98xwscZT"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186469,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/793JxLnZphGoLRvoncnjhT"
     },
     {
       "album": {
@@ -13868,7 +13994,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 191067,
       "name": "To Sea The Sun",
       "url": "https://open.spotify.com/track/3p6KLOfV6xpU09s93UlaIC"
@@ -14312,7 +14438,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 149651,
       "name": "Uphills",
       "url": "https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG"

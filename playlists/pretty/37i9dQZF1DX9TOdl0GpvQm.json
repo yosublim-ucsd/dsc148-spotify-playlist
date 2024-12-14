@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 174072,
+  "num_followers": 174125,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
-        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
-      },
-      "artists": [
-        {
-          "name": "Throbbing Gristle",
-          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Hamburger Lady - Remastered",
-      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "The Pacific Visions of Martin Glass",
         "url": "https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 92307,
       "name": "Okinawa Fantasia",
       "url": "https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
+        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
+      },
+      "artists": [
+        {
+          "name": "Throbbing Gristle",
+          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Hamburger Lady - Remastered",
+      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
     },
     {
       "added_at": "2024-04-16 15:26:10",
@@ -525,38 +525,6 @@
       "url": "https://open.spotify.com/track/0TaGZcPrNl0ewkCgdjF7wt"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
-        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 136160,
-      "name": "In der Stadt und auf dem Land",
-      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Dark Island",
-        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
-      },
-      "artists": [
-        {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Peepshow",
-      "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
-    },
-    {
       "added_at": "2022-09-19 17:55:47",
       "album": {
         "name": "Trececerotres",
@@ -575,18 +543,34 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Traces of Time",
-        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
+        "name": "Dark Island",
+        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
       },
       "artists": [
         {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
         }
       ],
-      "duration_ms": 716373,
-      "name": "Valley of the Birds",
-      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
+      "duration_ms": 208706,
+      "name": "Peepshow",
+      "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
+        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 136160,
+      "name": "In der Stadt und auf dem Land",
+      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
     },
     {
       "added_at": "2024-01-30 05:51:05",
@@ -603,6 +587,22 @@
       "duration_ms": 522000,
       "name": "Velluto",
       "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Traces of Time",
+        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 716373,
+      "name": "Valley of the Birds",
+      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
     },
     {
       "added_at": "2022-03-11 06:00:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "S\u00e9ance at Hobs Lane",
         "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 193346,
       "name": "The Black Drop",
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2022-09-03 03:46:33",
@@ -919,6 +919,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "The Power (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
       },
       "artists": [
         {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -967,22 +983,6 @@
       "duration_ms": 275271,
       "name": "Seele III",
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "The Transactional Dharma of Roj",
+        "url": "https://open.spotify.com/album/02eqsFg2sNSi1wdHSfiEIC"
+      },
+      "artists": [
+        {
+          "name": "Roj",
+          "url": "https://open.spotify.com/artist/1Rdnsxdsr0VSwEp7CAbjJA"
+        }
+      ],
+      "duration_ms": 80746,
+      "name": "Sighting in Corridor 12",
+      "url": "https://open.spotify.com/track/4Bl2Z2vukTroAm242DDtov"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Flowers Of Evil",
         "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 101380,
       "name": "Flux",
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Transactional Dharma of Roj",
-        "url": "https://open.spotify.com/album/02eqsFg2sNSi1wdHSfiEIC"
-      },
-      "artists": [
-        {
-          "name": "Roj",
-          "url": "https://open.spotify.com/artist/1Rdnsxdsr0VSwEp7CAbjJA"
-        }
-      ],
-      "duration_ms": 80746,
-      "name": "Sighting in Corridor 12",
-      "url": "https://open.spotify.com/track/4Bl2Z2vukTroAm242DDtov"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Witch's Will",
-      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1229,20 +1213,20 @@
       "url": "https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn"
     },
     {
-      "added_at": "2022-02-21 20:35:59",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
         }
       ],
-      "duration_ms": 389780,
-      "name": "Lanquidity",
-      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
+      "duration_ms": 297440,
+      "name": "Witch's Will",
+      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1259,6 +1243,22 @@
       "duration_ms": 255693,
       "name": "Thistledown",
       "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
+    },
+    {
+      "added_at": "2022-02-21 20:35:59",
+      "album": {
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 389780,
+      "name": "Lanquidity",
+      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
-      "added_at": "2023-12-22 16:02:06",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 111813,
-      "name": "Planeta Oc\u00e9ano",
-      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
-    },
-    {
       "added_at": "2022-04-06 03:05:40",
       "album": {
         "name": "The Spectral Corridor",
@@ -1375,6 +1359,22 @@
       "duration_ms": 511898,
       "name": "Spectral Corridor Part 4",
       "url": "https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW"
+    },
+    {
+      "added_at": "2023-12-22 16:02:06",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 111813,
+      "name": "Planeta Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Somniloquy",
-        "url": "https://open.spotify.com/album/5sTdTyQqBnMfI48NyZLBfo"
-      },
-      "artists": [
-        {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        },
-        {
-          "name": "Andy Votel",
-          "url": "https://open.spotify.com/artist/67wOTDjbsUMW6tQgR54yLN"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "The Last Astronaut - Andy Votel Mix",
-      "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Study Series 10: \"Message and Method\"",
         "url": "https://open.spotify.com/album/158xMytOacxH3lIFnUKclY"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 221991,
       "name": "Quiet Industry",
       "url": "https://open.spotify.com/track/5hIzUNQb56g3ONQYnubdlL"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/5sTdTyQqBnMfI48NyZLBfo"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        },
+        {
+          "name": "Andy Votel",
+          "url": "https://open.spotify.com/artist/67wOTDjbsUMW6tQgR54yLN"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "The Last Astronaut - Andy Votel Mix",
+      "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
     },
     {
       "added_at": "2022-03-30 05:15:55",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Study Series 09: \"Projections\"",
-        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
-      },
-      "artists": [
-        {
-          "name": "Listening Center",
-          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
-        }
-      ],
-      "duration_ms": 271485,
-      "name": "Titoli",
-      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "BARTLEBY ORIGINAL MOTION PICTURE SOUNDTRACK",
         "url": "https://open.spotify.com/album/2CLOjzWJ7wak6MDKeRaQy6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 83826,
       "name": "BARTLEBY - Titles",
       "url": "https://open.spotify.com/track/07K4C1sexV20UkgQaJCswj"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Study Series 09: \"Projections\"",
+        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
+      },
+      "artists": [
+        {
+          "name": "Listening Center",
+          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
+        }
+      ],
+      "duration_ms": 271485,
+      "name": "Titoli",
+      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1627,34 +1627,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Lighter Side of Concrete",
-        "url": "https://open.spotify.com/album/6SB1xBOPXQDv7GNfV3HPhj"
+        "name": "The Outer Church",
+        "url": "https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP"
       },
       "artists": [
         {
-          "name": "Jez Butler",
-          "url": "https://open.spotify.com/artist/0dajvXKe1K1ZufT6UIWjj5"
+          "name": "IX Tab",
+          "url": "https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT"
         }
       ],
-      "duration_ms": 136720,
-      "name": "Sun and Air",
-      "url": "https://open.spotify.com/track/6mY227eGkuUZ8KCp3YfAEE"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Spacemen Mystery of the Terror Triangle",
-        "url": "https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 130011,
-      "name": "Spacemen Mystery of the Terror Triangle",
-      "url": "https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG"
+      "duration_ms": 327000,
+      "name": "The Burned Wretch",
+      "url": "https://open.spotify.com/track/6AHp595UrB4D6oORflyENV"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Outer Church",
-        "url": "https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP"
+        "name": "The Lighter Side of Concrete",
+        "url": "https://open.spotify.com/album/6SB1xBOPXQDv7GNfV3HPhj"
       },
       "artists": [
         {
-          "name": "IX Tab",
-          "url": "https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT"
+          "name": "Jez Butler",
+          "url": "https://open.spotify.com/artist/0dajvXKe1K1ZufT6UIWjj5"
         }
       ],
-      "duration_ms": 327000,
-      "name": "The Burned Wretch",
-      "url": "https://open.spotify.com/track/6AHp595UrB4D6oORflyENV"
+      "duration_ms": 136720,
+      "name": "Sun and Air",
+      "url": "https://open.spotify.com/track/6mY227eGkuUZ8KCp3YfAEE"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Ouroborindra",
+        "url": "https://open.spotify.com/album/5AzeLnYYLMOmvdTjkNKvrd"
+      },
+      "artists": [
+        {
+          "name": "Eric Zann",
+          "url": "https://open.spotify.com/artist/4e3VOviHc0pVF6WROIykGQ"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "It is narrow here",
+      "url": "https://open.spotify.com/track/1QUNKDYuz1vxpRAHitxj9i"
     }
   ],
   "unique_name": "Hauntology",

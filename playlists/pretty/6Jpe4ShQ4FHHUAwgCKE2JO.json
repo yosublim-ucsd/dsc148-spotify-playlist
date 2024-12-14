@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAMkP7oQPRQ8zPs/7dniMeR/aNokEV",
+  "snapshot_id": "AAAAM/yPwRvjnd2Weaz8r3k1Azgm1V+h",
   "tracks": [
     {
       "added_at": "2023-05-10 01:44:05",
@@ -595,6 +595,22 @@
       "duration_ms": 223947,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry"
+    },
+    {
+      "added_at": "2024-12-13 16:59:35",
+      "album": {
+        "name": "United Health",
+        "url": "https://open.spotify.com/album/2bkCyzxi7IglkqjaeZrarS"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 101792,
+      "name": "United Health",
+      "url": "https://open.spotify.com/track/0YoYJw5URPqnGdOSnpeNnT"
     }
   ],
   "unique_name": "The Body of America",

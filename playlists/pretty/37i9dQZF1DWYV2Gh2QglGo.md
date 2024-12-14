@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Brett Kissel
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,888 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,906 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Pretty](https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [She's Me \(Deluxe\)](https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny) | 2:41 |
 | 50 | [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 |
 
-Snapshot ID: `Z1KE0AAAAAABXRs2uv3E9oKM7YAA+b5Y`
+Snapshot ID: `Z1u/UgAAAADtxctXYbMtUqoeQpzmHC+m`

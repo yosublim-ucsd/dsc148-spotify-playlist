@@ -4,7 +4,7 @@
 
 > Hip\-Hop and Happy Holidays!
 
-86 songs - 4 hr 50 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Snowed In](https://open.spotify.com/track/7dFfjLVeVoWR2xArhHuh3v) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/2w78Cx36U8NynXOR6GFB03) | 4:04 | 2024-12-06 |  |
 | [St\. Brick Intro](https://open.spotify.com/track/4U7ARsdGktEi8SmITVPXtC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 2:25 | 2019-12-20 | 2024-04-19 |
 | [St\. Brick Intro](https://open.spotify.com/track/1Et5dtjFVjgZeH6OC925hk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [St\. Brick Intro](https://open.spotify.com/album/1CQpVdTTTL1SfOb0bAME0O) | 2:27 | 2019-12-20 |  |
-| [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 | 2022-11-29 |  |
+| [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 | 2022-11-29 | 2024-12-14 |
 | [The Christmas Song](https://open.spotify.com/track/2gvlqDMOpGLjD6i5nfO89z) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Skyy](https://open.spotify.com/artist/3wWU0L0tv6eE813fHEYYMg), [Marcus](https://open.spotify.com/artist/6EBrS8EW4hv6N4kn0ufYUS) | [MTA2\-Baptized In Dirty Water](https://open.spotify.com/album/4Od0xWG7XWQxvNPdrIzf2A) | 4:09 | 2019-12-20 |  |
 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 | 2019-12-20 |  |
 | [Thug Holiday](https://open.spotify.com/track/5I3uXbWBJhkZ62znIU6XEq) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Thug Holiday \(Edited Version\)](https://open.spotify.com/album/3Yf1EXnBKpfdd1LMycHWWL) | 4:54 | 2019-12-20 | 2022-12-24 |
@@ -92,6 +92,7 @@
 | [What You Want for Christmas](https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34) | [Quad City DJ's, The 69 Boyz and K\-Nock](https://open.spotify.com/artist/1bRPz3I9pDLcEd8t5sncKe) | [All Star Christmas](https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH) | 4:35 | 2019-12-20 |  |
 | [Why'd You Leave Me On Christmas](https://open.spotify.com/track/0HAJpzhta0QljXSpzSQKmm) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj) | [Santa Hooked Me Up](https://open.spotify.com/album/52djrCpCLCWE7LZOLVwR3v) | 3:53 | 2019-12-20 | 2022-12-03 |
 | [X\-Mas Bag](https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [X\-Mas Bag](https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES) | 2:21 | 2024-12-06 |  |
+| [Xmas Time \(with Kehlani\)](https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Xmas Time \(with Kehlani\)](https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL) | 3:23 | 2024-12-13 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/38sOMt0jPIWWqJMNk2u0DI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [You're A Mean One, Mr\. Grinch \(From Dr\. Seuss' The Grinch\)](https://open.spotify.com/album/7w1TRNc1PTJak7qXPzr1Ih) | 1:48 | 2019-12-20 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 | 2019-12-20 | 2024-04-19 |
 

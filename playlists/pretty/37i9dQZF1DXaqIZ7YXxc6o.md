@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,574 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,598 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 20 | [Next To Me](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Next To Me](https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM) | 3:05 |
 | 21 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
 | 22 | [Any Chance That You Wanna Dance?](https://open.spotify.com/track/4zaqpYPdaYmNmA8R20YN9g) | [Bum Bag](https://open.spotify.com/artist/2WS2Qwnxq1hrwwgfMLFTDW) | [Piña](https://open.spotify.com/album/5pBiNc2KWccxgcd6D1TNpU) | 3:08 |
-| 23 | [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 |
+| 23 | [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 |
 | 24 | [That Feeling](https://open.spotify.com/track/6q3CHqrpj1xhACjwolpLWs) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [That Feeling](https://open.spotify.com/album/0spQnHysbmv3eYXjVGIjw7) | 3:32 |
 | 25 | [Beautiful](https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [Beautiful](https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh) | 3:26 |
 | 26 | [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 |

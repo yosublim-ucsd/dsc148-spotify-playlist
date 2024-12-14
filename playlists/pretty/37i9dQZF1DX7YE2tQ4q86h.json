@@ -1,13 +1,45 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Rebecca Black",
-  "num_followers": 194707,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: AD\u00c9LA",
+  "num_followers": 194799,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1dSZQAAAAALKY8AYFnIRm6yXqxeJCuZ",
+  "snapshot_id": "Z1u/cgAAAAApp0uAzZMhE6sw3Dx8qE89",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "SUPERSCAR",
+        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "SUPERSCAR",
+      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+    },
+    {
+      "added_at": "2024-12-13 05:00:34",
+      "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
+    },
     {
       "added_at": "2024-12-06 04:59:38",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 174296,
       "name": "Sugar Water Cyanide",
       "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "added_at": "2024-12-06 04:59:38",
@@ -41,36 +89,40 @@
       "url": "https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA"
     },
     {
-      "added_at": "2024-11-29 05:17:58",
+      "added_at": "2024-12-13 05:00:34",
       "album": {
-        "name": "DELUSIONAL",
-        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+        "name": "Fruit Punch",
+        "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         }
       ],
-      "duration_ms": 195859,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+      "duration_ms": 170200,
+      "name": "Fruit Punch",
+      "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-12-13 05:00:34",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
       "added_at": "2024-11-25 20:15:43",
@@ -91,6 +143,42 @@
       "duration_ms": 193253,
       "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
       "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
+    },
+    {
+      "added_at": "2024-11-29 05:17:58",
+      "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
+    {
+      "added_at": "2024-12-13 05:00:34",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
     },
     {
       "added_at": "2024-12-06 05:02:55",
@@ -393,22 +481,6 @@
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Spring breakers featuring kesha",
@@ -515,22 +587,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "SUPERSCAR",
-        "url": "https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "SUPERSCAR",
-      "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "BACKSTABBER",
         "url": "https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs"
       },
@@ -575,26 +631,6 @@
       "duration_ms": 176228,
       "name": "10,000 Faces",
       "url": "https://open.spotify.com/track/7aO4ET0kb0cm3fyk7ZBN0l"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "B Somebody",
-        "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 172033,
-      "name": "B Somebody",
-      "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -691,22 +727,6 @@
       "duration_ms": 164201,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5H5j512kqhfK9dJT3Ko8an"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -881,22 +901,6 @@
       "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "can u send me that??",
-        "url": "https://open.spotify.com/album/1m9BdtDbZpYBFJuF2DQpOR"
-      },
-      "artists": [
-        {
-          "name": "Cat Cohen",
-          "url": "https://open.spotify.com/artist/4CcKMsB1c7UMHy1hddrbMm"
-        }
-      ],
-      "duration_ms": 190695,
-      "name": "can u send me that??",
-      "url": "https://open.spotify.com/track/1Usa6cB2gKlOEghLIPF4V8"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Mine",
@@ -1009,22 +1013,6 @@
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "You Go Your Way",
-        "url": "https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 234886,
-      "name": "You Go Your Way",
-      "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Alias",
@@ -1071,22 +1059,6 @@
       "duration_ms": 203497,
       "name": "DON'T FEED THE DEMONS",
       "url": "https://open.spotify.com/track/0JY9U1FAw2fK7J40xLMbz2"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mercy Me",
-        "url": "https://open.spotify.com/album/1g6SaEImTe7md9V9flRHVY"
-      },
-      "artists": [
-        {
-          "name": "Warm Human",
-          "url": "https://open.spotify.com/artist/55B50xjgkbaSWD0MZXhhX4"
-        }
-      ],
-      "duration_ms": 199379,
-      "name": "Mercy Me",
-      "url": "https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1379,22 +1351,6 @@
     {
       "added_at": "2024-08-18 21:26:47",
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 185697,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
         "name": "15 MINUTES",
         "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
       },
@@ -1407,38 +1363,6 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "I Wanna Be Loved (Just A Little Better)",
-        "url": "https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "I Wanna Be Loved (Just A Little Better)",
-      "url": "https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "POOL",
-        "url": "https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs"
-      },
-      "artists": [
-        {
-          "name": "Snow Wife",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 164988,
-      "name": "POOL",
-      "url": "https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM"
     },
     {
       "added_at": "2024-08-18 21:26:47",

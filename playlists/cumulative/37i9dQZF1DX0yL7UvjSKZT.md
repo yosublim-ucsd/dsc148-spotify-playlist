@@ -2,9 +2,9 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
+> Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-484 songs - 1 day 6 hr 2 min
+486 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 | 2023-12-25 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-01 | 2022-01-22 |
+| [Jubilee](https://open.spotify.com/track/0BgHLsLztRYmhmvZgWae0R) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [The Magnolia Sessions](https://open.spotify.com/album/2tzFlo0jANl3paolzd9ww7) | 3:03 | 2024-12-13 |  |
 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 | 2021-10-01 | 2022-01-22 |
 | [Junkie](https://open.spotify.com/track/6xkRKNcvCyXuOianBHpm2K) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Junkie](https://open.spotify.com/album/12trB8fFs5uPO2oIOvcHwm) | 4:04 | 2022-09-30 | 2023-07-22 |
 | [Just Pick One](https://open.spotify.com/track/4M9Yd8XoialyURcvzYrOt7) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:01 | 2023-12-15 | 2024-04-19 |
@@ -301,6 +302,7 @@
 | [Pink and Blue](https://open.spotify.com/track/263SGPJWIAoTr4zSXNaasZ) | [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x), [The Gatherers](https://open.spotify.com/artist/134PLBpnApdihCnvNKyXhd) | [Shanti's Shadow](https://open.spotify.com/album/6COhRbw1IMj5wmGIhSXf92) | 3:51 | 2022-07-22 | 2022-10-01 |
 | [Pink and Blue](https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X) | [Phoebe Hunt & The Gatherers](https://open.spotify.com/artist/5n1AeCdes4kBP15JgHwhmn) | [Shanti's Shadow](https://open.spotify.com/album/0cqIEu0zILQLbtU0MI9chW) | 3:51 | 2021-10-01 | 2022-07-29 |
 | [Planetarium](https://open.spotify.com/track/4Ks73actcqVURztJs04h9s) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6) | [Planetarium](https://open.spotify.com/album/0WyTRxxqNKpoPr4HnP5ElV) | 3:54 | 2024-04-26 |  |
+| [Pond Creek Bottom](https://open.spotify.com/track/7lu5TVgVsmtr5haGZbgFWT) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [The Magnolia Sessions](https://open.spotify.com/album/2tzFlo0jANl3paolzd9ww7) | 1:19 | 2024-12-13 |  |
 | [Prelude: An Elemental Search](https://open.spotify.com/track/1wvveTJkxKP9ZpweilllGk) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [The Crown of Elements](https://open.spotify.com/album/0iEkjMOPEvgCSgf0fb4jKQ) | 2:08 | 2023-07-21 | 2024-05-11 |
 | [Pretty Polly \- Bluegrass](https://open.spotify.com/track/7GNIQFh5cE3zGSAg4Sulgh) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:33 | 2021-10-01 | 2022-01-22 |
 | [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-01-14 |  |

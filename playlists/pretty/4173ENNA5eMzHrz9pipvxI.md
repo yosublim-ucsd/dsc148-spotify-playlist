@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KSHMR
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,443 likes - 17 songs - 51 min 55 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,447 likes - 17 songs - 51 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 禮韋 \(thehopend\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,199 likes - 149 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,210 likes - 149 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 8 | [The Moon Represents My Heart \(月亮代表我的心\)](https://open.spotify.com/track/68vXzXVBt8Kgk5PheURo21) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [The Moon Represents My Heart \(月亮代表我的心\)](https://open.spotify.com/album/5etGhEXRkZFpMixrBXUC3K) | 1:56 |
 | 9 | [無處宣洩的鬱悶](https://open.spotify.com/track/7LhAcr5p0fGF3oqO8H7ltf) | [黃大謙](https://open.spotify.com/artist/4SU0G0tY3ckggFzBMoQ4hw) | [無處宣洩的鬱悶](https://open.spotify.com/album/4tc6Hcpxao1X8y43lbQUXV) | 4:07 |
 | 10 | [我就要愛你 \(《TVBS 原創劇集 祕書俱樂部》插曲\)](https://open.spotify.com/track/0uHSRD9vEzymEaMcoJZedd) | [Bettii 杯緹](https://open.spotify.com/artist/6n49SRZkz3eaKBhEwiwCrb) | [祕書俱樂部 \(TVBS 原創劇集原聲帶\)](https://open.spotify.com/album/7JlP3qGzZbKidUrOs4T0Jl) | 3:13 |
-| 11 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [吳卓源](https://open.spotify.com/artist/3zVLEU7SOPy0XCmdNK8ygI) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 |
+| 11 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 |
 | 12 | [最好的時光（《選物家》主題曲）](https://open.spotify.com/track/5CQX5sCrko17tUb7WI2d9B) | [Tsai Yi Chun](https://open.spotify.com/artist/22LnND4uhqgQmuRxZuUKcs), [Roro Chao](https://open.spotify.com/artist/05PUzH9lurbiAwwH9c1Sar) | [最好的時光（《選物家》主題曲）](https://open.spotify.com/album/0B52jMTboxLpVZM7Z1ICGU) | 4:04 |
 | 13 | [Packing List](https://open.spotify.com/track/2ExDOO687jyEiVdQpJbMdl) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [Packing List](https://open.spotify.com/album/0SjBr6UXLEwTKtHThlRQ2J) | 3:42 |
 | 14 | [深藍海](https://open.spotify.com/track/29KqtXjfOaMuHfRfdbueZG) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [深藍海](https://open.spotify.com/album/5y4kXTQeXluWutxTVHUFSb) | 4:11 |

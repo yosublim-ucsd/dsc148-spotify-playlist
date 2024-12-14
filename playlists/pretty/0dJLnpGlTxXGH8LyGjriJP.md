@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 804 songs - 1 day 17 hr 7 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 807 songs - 1 day 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -812,5 +812,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 802 | [In The A \(feat\. 21 Savage\)](https://open.spotify.com/track/06vw9yQ5PEKpDTvi3Yqsbv) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Swerv](https://open.spotify.com/album/4edTR1SjuWVje3GlLb0pxN) | 3:53 |
 | 803 | [OMG](https://open.spotify.com/track/1DrZ6Dj6Euptcl4tpemoWf) | [Vic Sage](https://open.spotify.com/artist/1Vb5xFUr9KlF32On6L2WPQ) | [OMG](https://open.spotify.com/album/7EahpoJWFahy0r23vQS9z5) | 2:54 |
 | 804 | [Go Shit](https://open.spotify.com/track/1Koeu2dRr4mqtmhlxLaRHP) | [Zarech](https://open.spotify.com/artist/7DHVVPqZYKCrro216FSMzq) | [Mixed Bag](https://open.spotify.com/album/1Ucn2V3MRzIvZDxVH64PXW) | 3:31 |
+| 805 | [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 |
+| 806 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 |
+| 807 | [WHO? WHAT!](https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:56 |
 
-Snapshot ID: `AAAD2SVBAMhu2ze2ZChsQNofH6WNK8HM`
+Snapshot ID: `AAAD3qaQCClRUbirW0LyGGMzDD4eMePq`

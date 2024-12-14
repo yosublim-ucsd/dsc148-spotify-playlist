@@ -5711,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "30 Best Christmas Songs for Children",
+        "url": "https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175529,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba"
+    },
+    {
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m"
       },

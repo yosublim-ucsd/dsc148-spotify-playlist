@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Shabir Sulthan
 
-413 songs - 22 hr 33 min
+414 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [KEEP UP](https://open.spotify.com/track/2HlIy1LtfJZA5Kzm9K6geV) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [KEEP UP](https://open.spotify.com/album/5m9fw0qCeYWJRal4VyhPH8) | 2:30 | 2024-09-26 | 2024-11-01 |
 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-25 | 2024-12-13 |
 | [kill 4 u](https://open.spotify.com/track/2zUsiUNnxmAdCkVwO6hl31) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [kill 4 u](https://open.spotify.com/album/1JCQfFzdszboDmvtrhzc0L) | 2:19 | 2024-10-10 | 2024-11-22 |
+| [Kill Me Slow](https://open.spotify.com/track/1lUmOXKK9OU4WSgj5Fdh2Z) | [Kyotoh Gloom](https://open.spotify.com/artist/11fIKa1fUZ3hGm6nDJbivx) | [Kill Me Slow](https://open.spotify.com/album/2hoPLa7h0JO2LagZPn1HrK) | 1:56 | 2024-12-12 |  |
 | [kiss u there](https://open.spotify.com/track/7AkDyHuvur7ARUmH4bWfTS) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [kiss u there](https://open.spotify.com/album/76AWwrWk7GU3zdlvxyDTIJ) | 2:56 | 2024-09-12 | 2024-11-22 |
 | [Know U Like I Do](https://open.spotify.com/track/6bZhtPzWbXLEsGDZFg5seY) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Know U Like I Do](https://open.spotify.com/album/7M6YHqwcphyxyGSWdJ5jep) | 2:59 | 2024-09-19 | 2024-12-13 |
 | [Komorebi](https://open.spotify.com/track/4nKfx9XQHTM0i5acRpaONt) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [KOMOREBI](https://open.spotify.com/album/0uYyh67KfQu5rqkAMI1KPA) | 4:50 | 2024-06-27 | 2024-08-30 |

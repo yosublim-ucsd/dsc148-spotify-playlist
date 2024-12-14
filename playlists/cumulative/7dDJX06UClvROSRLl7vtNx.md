@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-656 songs - 1 day 4 hr 34 min
+657 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dancing in the Moonlight](https://open.spotify.com/track/4Djd1V2jIzyCrZYhem90xg) | [RMDYZ](https://open.spotify.com/artist/0Py2QiGOHHOLWxwO1EpkRV), [George Gleeson](https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV) | [Dancing in the Moonlight](https://open.spotify.com/album/4Ap0p36EN5ON6hRDhSUIAj) | 2:42 | 2023-10-16 | 2024-06-17 |
 | [Dancing In The Rain](https://open.spotify.com/track/0iWBKHMLAhoUfSDXVnBKt4) | [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Tommy Harris](https://open.spotify.com/artist/2uAC2ZkTy0JjOu37XMK22z) | [Dancing In The Rain](https://open.spotify.com/album/3tehWc1LQovxl0gFjoNGOF) | 2:51 | 2023-09-22 | 2024-06-03 |
 | [Dancing on My Own](https://open.spotify.com/track/2B8zzwX1ck0CitF80Ni4Gt) | [Majesto](https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Dancing on My Own](https://open.spotify.com/album/7ASgNOQsMq7ViYziNWF5WQ) | 3:46 | 2023-09-22 | 2024-10-14 |
+| [Day I Die](https://open.spotify.com/track/0Br6muNsJmo1GMkh88WHty) | [JDM](https://open.spotify.com/artist/0ypVB4coLY48d4te3lUYoo), [Ollie Wade](https://open.spotify.com/artist/1FWuEwWawlnaMKPCaxnMxa) | [Day I Die](https://open.spotify.com/album/0GWSiFD1UdmArIWhT8S5FR) | 2:55 | 2024-12-13 |  |
 | [Daybreak](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Daybreak](https://open.spotify.com/album/1tCjtFk6t31cP5pbTp7ft4) | 3:28 | 2024-08-16 |  |
 | [Daydreams](https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Daydreams](https://open.spotify.com/album/0c1bUN4b8uF8fTcHB7lzKi) | 2:56 | 2024-05-10 | 2024-08-12 |
 | [Days Go By](https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Days Go By](https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax) | 2:39 | 2024-07-30 |  |

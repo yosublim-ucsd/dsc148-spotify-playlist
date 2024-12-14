@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-571 songs - 1 day 3 hr 48 min
+572 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Segurança \- Ao Vivo](https://open.spotify.com/track/2KZeoDtpGXkmNus2Z1kAY5) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/1aBzAN2KO1ymWgY840EP5o) | 2:27 | 2024-03-26 |  |
 | [Seja um Fenômeno \- Ao Vivo](https://open.spotify.com/track/7E30IFJdE5hf6zfnu2gjqb) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:12 | 2023-12-30 |  |
 | [Sem Flash](https://open.spotify.com/track/3GNwCcnhPVyQYp2NDHgSsU) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Sem Flash](https://open.spotify.com/album/4wcsGvEjTc9vXnueCOQGwX) | 2:37 | 2023-12-30 |  |
+| [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 | 2024-12-13 |  |
 | [Senhor Juiz \- Ao Vivo](https://open.spotify.com/track/4ESj3Ty0PtAMUKxWJpI36C) | [Hugo Pena](https://open.spotify.com/artist/77PXntcAH6TrnvUuXE3cU9) | [Hugo Pena e Segundeiros do Brasil \(Ao Vivo\)](https://open.spotify.com/album/6QZoLubUpvsytHxs1M013X) | 3:16 | 2024-03-26 |  |
 | [Sete Vidas](https://open.spotify.com/track/3roe5tPp6hWqnQf7uvEz3L) | [Leandro Kato](https://open.spotify.com/artist/2Cse5DmD2EpqYRlVin7qjo) | [Sete Vidas \- Ep1](https://open.spotify.com/album/1z8g8hfoWvGFDrCTq0QpcS) | 2:33 | 2024-04-10 |  |
 | [Seu Fã](https://open.spotify.com/track/2CDJmsUEuKdILRxi2B5P2s) | [Luciano](https://open.spotify.com/artist/393U4fED3zDAdZRXZ1IWWT) | [Dois Tempos, Pt\. 2](https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk) | 3:18 | 2023-12-30 |  |

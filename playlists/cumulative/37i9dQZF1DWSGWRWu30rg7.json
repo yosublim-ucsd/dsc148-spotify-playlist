@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Pijey ",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Timun Jelita",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -2654,6 +2654,24 @@
       "duration_ms": 242105,
       "name": "Aku Menangis",
       "url": "https://open.spotify.com/track/7Eiijm7ZjjQRrNuaCCuYjx"
+    },
+    {
+      "album": {
+        "name": "Aku Padamu",
+        "url": "https://open.spotify.com/album/2UsvTuF0IiIWOFJrnwMdDp"
+      },
+      "artists": [
+        {
+          "name": "Solasee",
+          "url": "https://open.spotify.com/artist/37iT6ULr4fZiOvPhlJRGdO"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Aku Padamu",
+      "url": "https://open.spotify.com/track/4Pc0SLRLQrAM4UAdpZ4BH1"
     },
     {
       "album": {
@@ -14904,7 +14922,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 206759,
       "name": "dah beda",
       "url": "https://open.spotify.com/track/74Jmbx16CqdfZ71Tb3P3nQ"
@@ -16593,6 +16611,24 @@
     },
     {
       "album": {
+        "name": "Dilema 4 Tahun",
+        "url": "https://open.spotify.com/album/1Dii6zENROyOoSlp7w1Wqi"
+      },
+      "artists": [
+        {
+          "name": "RCKA",
+          "url": "https://open.spotify.com/artist/3p3IOzDKc7nqhEKQBcHiEZ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337658,
+      "name": "Dilema 4 Tahun",
+      "url": "https://open.spotify.com/track/5w3MlxFN8Q92tLYAFG33IZ"
+    },
+    {
+      "album": {
         "name": "Dilema Romantika",
         "url": "https://open.spotify.com/album/6rlqSnxnRjPELxqgbjDkym"
       },
@@ -18258,6 +18294,28 @@
       "duration_ms": 239470,
       "name": "Dua Puluh",
       "url": "https://open.spotify.com/track/2jMVtJdoMfFtCqmHhNzbmI"
+    },
+    {
+      "album": {
+        "name": "Dua Samudra (Original Soundtrack Barong Landung)",
+        "url": "https://open.spotify.com/album/0mHYcRhG16qQEN6K5hc4gh"
+      },
+      "artists": [
+        {
+          "name": "Ammir Gita",
+          "url": "https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Dua Samudra",
+      "url": "https://open.spotify.com/track/50piCG3TebEVWp6hBPW9mE"
     },
     {
       "album": {
@@ -22064,7 +22122,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 146174,
       "name": "Friendshit",
       "url": "https://open.spotify.com/track/62raMWKIhcZrplmxqNtyh3"
@@ -33409,6 +33467,24 @@
     },
     {
       "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/3XFkbfWHtqfJ3zNp323ML4"
+      },
+      "artists": [
+        {
+          "name": "Timun Jelita",
+          "url": "https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224925,
+      "name": "Jika Bersamamu",
+      "url": "https://open.spotify.com/track/3aprt2YjJgqQtqbiMtDbUq"
+    },
+    {
+      "album": {
         "name": "Jika Bisa Kulupa",
         "url": "https://open.spotify.com/album/5GhMVtktt3q2tj2o0tecL2"
       },
@@ -35345,6 +35421,24 @@
     },
     {
       "album": {
+        "name": "Keep it up",
+        "url": "https://open.spotify.com/album/6laXHn4rOjrmL0TkOj8Kgd"
+      },
+      "artists": [
+        {
+          "name": "GunZ",
+          "url": "https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145082,
+      "name": "Keep it up",
+      "url": "https://open.spotify.com/track/459d5clhuTuiNmPFdmYjTF"
+    },
+    {
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/4OXsUP0vezXMciVSC4ASN8"
       },
@@ -37016,6 +37110,24 @@
       "duration_ms": 236364,
       "name": "Kucoba Untuk Mencintaimu",
       "url": "https://open.spotify.com/track/6fVZT5AmXWlCOmbyovkYoP"
+    },
+    {
+      "album": {
+        "name": "Kuduiso",
+        "url": "https://open.spotify.com/album/57IxyAgchj2GAv1zOz9yqD"
+      },
+      "artists": [
+        {
+          "name": "Owwie",
+          "url": "https://open.spotify.com/artist/2wKVIIT00EhTd9ncgdMPW7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165762,
+      "name": "Kuduiso",
+      "url": "https://open.spotify.com/track/0oanggmaaju37d86tgEDR5"
     },
     {
       "album": {
@@ -42949,6 +43061,24 @@
     },
     {
       "album": {
+        "name": "Masih Ku Ingat (Mau Beli PS5)",
+        "url": "https://open.spotify.com/album/6iEOHFfCSIVqBOirvUDzFB"
+      },
+      "artists": [
+        {
+          "name": "Poor Too Geez",
+          "url": "https://open.spotify.com/artist/14AeNguwkEe71AvXYVmyeo"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "Masih Ku Ingat (Mau Beli PS5)",
+      "url": "https://open.spotify.com/track/7L7tlmlcW8oQQPqg8pWtd1"
+    },
+    {
+      "album": {
         "name": "Masih Sama",
         "url": "https://open.spotify.com/album/2v3xt1GboNn4UpLacJr2KB"
       },
@@ -45369,6 +45499,24 @@
     },
     {
       "album": {
+        "name": "Preserved Feelings",
+        "url": "https://open.spotify.com/album/6Hu7uR9bXDMwfmaCP8GrcH"
+      },
+      "artists": [
+        {
+          "name": "Beltigs",
+          "url": "https://open.spotify.com/artist/131ItWWcvBQH32vUPqmdPK"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170030,
+      "name": "Miles Apart",
+      "url": "https://open.spotify.com/track/7Mibnva0uhoLeCtBkaovlV"
+    },
+    {
+      "album": {
         "name": "Milikimu Lagi",
         "url": "https://open.spotify.com/album/4q08OhKOLqIOqMiPWxKK2q"
       },
@@ -45784,6 +45932,24 @@
       "duration_ms": 228176,
       "name": "missing pieces.",
       "url": "https://open.spotify.com/track/2Nrk9AvuuqvUNv16TBdo16"
+    },
+    {
+      "album": {
+        "name": "have a nice DAY",
+        "url": "https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0"
+      },
+      "artists": [
+        {
+          "name": "DAY",
+          "url": "https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z"
     },
     {
       "album": {
@@ -53585,6 +53751,24 @@
     },
     {
       "album": {
+        "name": "Pramarah",
+        "url": "https://open.spotify.com/album/0g5Wsu2AIkMDBOnC328B1y"
+      },
+      "artists": [
+        {
+          "name": "The Daddy Cat",
+          "url": "https://open.spotify.com/artist/6Utk9PU9yp3SWX7IS9a7Af"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Pramarah",
+      "url": "https://open.spotify.com/track/1Vyz6woEGz3gQ7tYGKR6nu"
+    },
+    {
+      "album": {
         "name": "Prasangka",
         "url": "https://open.spotify.com/album/5RyylZWGi5kVJbkDWSujOf"
       },
@@ -55112,6 +55296,28 @@
       "duration_ms": 238000,
       "name": "Rasa Tak Biasa",
       "url": "https://open.spotify.com/track/0iXEpRbtHPSuwHqVazwBrH"
+    },
+    {
+      "album": {
+        "name": "Rasa Yang Salah (Original Soundtrack Barong Landung)",
+        "url": "https://open.spotify.com/album/10s4TikvgNXLX0oXLtdt6A"
+      },
+      "artists": [
+        {
+          "name": "Ammir Gita",
+          "url": "https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203900,
+      "name": "Rasa Yang Salah",
+      "url": "https://open.spotify.com/track/2WvDUnSyzgKBkOyCsWLUWD"
     },
     {
       "album": {
@@ -60959,6 +61165,24 @@
     },
     {
       "album": {
+        "name": "Separuh Duniaku",
+        "url": "https://open.spotify.com/album/6kAsbE95NZcC7uHfB8Amrp"
+      },
+      "artists": [
+        {
+          "name": "Cassara Cinta",
+          "url": "https://open.spotify.com/artist/5aSxxYqtbsDB3gzRbwClJ6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272718,
+      "name": "Separuh Duniaku",
+      "url": "https://open.spotify.com/track/368EnM7DiXkZMT9DlIm0or"
+    },
+    {
+      "album": {
         "name": "Separuh Hidupku",
         "url": "https://open.spotify.com/album/3j0rMpl4ttTK6Tc0LSDKzG"
       },
@@ -65326,6 +65550,24 @@
       "duration_ms": 208120,
       "name": "stupid excuses",
       "url": "https://open.spotify.com/track/3NFLBJTj4XnbUss3RffPcD"
+    },
+    {
+      "album": {
+        "name": "Suaka Luka",
+        "url": "https://open.spotify.com/album/2zZlIPkzX6txiESE2MSiXv"
+      },
+      "artists": [
+        {
+          "name": "Orkes Bada Isya",
+          "url": "https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257693,
+      "name": "Suaka Luka",
+      "url": "https://open.spotify.com/track/2MbJsCeAhRvalDRVNCrde4"
     },
     {
       "album": {
@@ -71455,6 +71697,24 @@
     },
     {
       "album": {
+        "name": "TIDES",
+        "url": "https://open.spotify.com/album/3fIEURrfwpSsSu5bfuRDy3"
+      },
+      "artists": [
+        {
+          "name": "Kalila Klassen",
+          "url": "https://open.spotify.com/artist/0kLU5QQ3YN5zCMGjSf3l73"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189469,
+      "name": "TIDES",
+      "url": "https://open.spotify.com/track/10BHh51xy9dyYduXhOkDz5"
+    },
+    {
+      "album": {
         "name": "TIDURLAH",
         "url": "https://open.spotify.com/album/3cislRGVpDoM4REySyanXr"
       },
@@ -73478,7 +73738,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 121846,
       "name": "Understand",
       "url": "https://open.spotify.com/track/2Hcm76qS5bDQBJYGBScLtd"
@@ -77136,6 +77396,24 @@
       "duration_ms": 269440,
       "name": "Yes (not) Mine",
       "url": "https://open.spotify.com/track/787lCtmEy2ZcmoxbcnV02X"
+    },
+    {
+      "album": {
+        "name": "Yes or No",
+        "url": "https://open.spotify.com/album/0LPynDUkX3fbLheFsXksqh"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Tio",
+          "url": "https://open.spotify.com/artist/4QrtjZy2Cjn9QvciYwnFYY"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Yes or No",
+      "url": "https://open.spotify.com/track/2po93fMokbY32XZZtHHCjp"
     },
     {
       "album": {

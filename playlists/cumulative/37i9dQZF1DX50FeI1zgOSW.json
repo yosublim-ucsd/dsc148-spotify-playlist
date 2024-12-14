@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh"
+      },
+      "artists": [
+        {
+          "name": "Stanley Xavier",
+          "url": "https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "222",
+      "url": "https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x"
+    },
+    {
+      "album": {
         "name": "3PM in Chennai",
         "url": "https://open.spotify.com/album/2xVByRUYQCKaHJOlrtgjeN"
       },
@@ -192,6 +210,24 @@
       "duration_ms": 164319,
       "name": "Adada Amma",
       "url": "https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo"
+    },
+    {
+      "album": {
+        "name": "Adi Pachaakiliyea",
+        "url": "https://open.spotify.com/album/08OCHiIMrHpG6nSRxhi6qc"
+      },
+      "artists": [
+        {
+          "name": "Samson P Moses",
+          "url": "https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Adi Pachaakiliyea",
+      "url": "https://open.spotify.com/track/1CMonbTaLPncwnd9chZGr8"
     },
     {
       "album": {
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 147497,
       "name": "In Her Wish",
       "url": "https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT"
@@ -4737,6 +4773,28 @@
     },
     {
       "album": {
+        "name": "Naan Kaanum",
+        "url": "https://open.spotify.com/album/5ELT4fZcKIx1tuXWoamEds"
+      },
+      "artists": [
+        {
+          "name": "Sriram Srinivasan",
+          "url": "https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ"
+        },
+        {
+          "name": "Rathish Raghavendra",
+          "url": "https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Naan Kaanum",
+      "url": "https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf"
+    },
+    {
+      "album": {
         "name": "Naan Vaanil Parappen",
         "url": "https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7"
       },
@@ -5946,6 +6004,24 @@
       "duration_ms": 216764,
       "name": "Penne Vaadi",
       "url": "https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu"
+    },
+    {
+      "album": {
+        "name": "Phonix Paravai",
+        "url": "https://open.spotify.com/album/1Gt8V62lzlCdB8uQVW7cJi"
+      },
+      "artists": [
+        {
+          "name": "MG Star Boy",
+          "url": "https://open.spotify.com/artist/3X1j6AmTU7ucvSN4p6GI4x"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179519,
+      "name": "Phonix Paravai",
+      "url": "https://open.spotify.com/track/47Jv2i9CvjC8oWRztGgTK8"
     },
     {
       "album": {
@@ -8520,6 +8596,28 @@
     {
       "album": {
         "name": "Vibe",
+        "url": "https://open.spotify.com/album/5X5R50RKlsXPo3zKZnf1jz"
+      },
+      "artists": [
+        {
+          "name": "Mc Bhaashi",
+          "url": "https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu"
+        },
+        {
+          "name": "Kronixx Beatz",
+          "url": "https://open.spotify.com/artist/3g0ARpBNmP6uSSzPXuW2SJ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/2VxxQVa3U732LlzN0dn3FF"
+    },
+    {
+      "album": {
+        "name": "Vibe",
         "url": "https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V"
       },
       "artists": [
@@ -8688,6 +8786,28 @@
       "duration_ms": 155453,
       "name": "Vizhiyile",
       "url": "https://open.spotify.com/track/5glMjCxpAqUmVTrMLyHt44"
+    },
+    {
+      "album": {
+        "name": "Washington D.C",
+        "url": "https://open.spotify.com/album/5AAXNVBDXLfP76XzoqUQZG"
+      },
+      "artists": [
+        {
+          "name": "Naveed Rehman",
+          "url": "https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Washington D.C",
+      "url": "https://open.spotify.com/track/0b3jJPDGLmlBLns5awIlf7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Shabaka",
+  "description": "New jazz for open minds. Cover: Out Of/Into",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -5412,7 +5412,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 376800,
       "name": "Chalcedon",
       "url": "https://open.spotify.com/track/4SRS9WPIKQ2utUk5ojd4XY"
@@ -11240,7 +11240,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 360599,
       "name": "Futur",
       "url": "https://open.spotify.com/track/0yj76JthsTj1c8accVzcYK"
@@ -15210,6 +15210,32 @@
       "duration_ms": 268212,
       "name": "Jike'lemaweni",
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/48HXPC32L3gxEWsoiWcALl"
+      },
+      "artists": [
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+        },
+        {
+          "name": "Cochemea",
+          "url": "https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A"
+        },
+        {
+          "name": "Oliver Hill",
+          "url": "https://open.spotify.com/artist/2VU3r8yjy2Hxu7jswHkfMX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221877,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/27Zoi47EO5CdnhJ7HACKL6"
     },
     {
       "album": {
@@ -20987,6 +21013,44 @@
     },
     {
       "album": {
+        "name": "Motion I",
+        "url": "https://open.spotify.com/album/4lT8g8vcE3uQEVX5yNLeCd"
+      },
+      "artists": [
+        {
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467920,
+      "name": "Ofafrii",
+      "url": "https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX"
+    },
+    {
+      "album": {
         "name": "Office Party Music",
         "url": "https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ"
       },
@@ -26670,7 +26734,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 490668,
       "name": "Solid Jackson",
       "url": "https://open.spotify.com/track/5mLHcZWjqgihLJHt5C6zKk"
@@ -27012,6 +27076,28 @@
       "duration_ms": 408863,
       "name": "South by Southeast",
       "url": "https://open.spotify.com/track/2N8ycuvK0z8pjg8UjbENND"
+    },
+    {
+      "album": {
+        "name": "Soy Califa",
+        "url": "https://open.spotify.com/album/7cy9BMX1lz1kCXz5qXGzcf"
+      },
+      "artists": [
+        {
+          "name": "Nick Hempton",
+          "url": "https://open.spotify.com/artist/0Pwn4BeFcbZYgApft1pPk7"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392664,
+      "name": "Soy Califa",
+      "url": "https://open.spotify.com/track/1UZEgyxN7O00QlLXb3vMLx"
     },
     {
       "album": {
@@ -30336,7 +30422,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 282691,
       "name": "The Night Owl",
       "url": "https://open.spotify.com/track/0XSycNAeV2X4qGuxLTABs5"
@@ -31492,6 +31578,24 @@
       "duration_ms": 361293,
       "name": "Throughout - Live/Brussels Philharmonic",
       "url": "https://open.spotify.com/track/30l0UW1WS1zXnfKJwkX8rZ"
+    },
+    {
+      "album": {
+        "name": "Throw it Away",
+        "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282185,
+      "name": "Throw it Away",
+      "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
       "album": {

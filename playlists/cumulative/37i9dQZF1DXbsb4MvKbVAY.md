@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa pehmoaino.
 
-669 songs - 1 day 9 hr 19 min
+671 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-02 | 2024-08-30 |
 | [Hideaway](https://open.spotify.com/track/0vPFKYTI6VNFhGTnyaa3SS) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hideaway](https://open.spotify.com/album/1IxVW2BhEB9qUdwe3rzMBF) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 | 2024-07-25 | 2024-08-02 |
-| [high school sweetheart](https://open.spotify.com/track/3hDghOzqXg4laYs41HhN2Z) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [high school sweetheart](https://open.spotify.com/album/6IcgmTVuYU4RfrYhVCQLNR) | 2:51 | 2024-12-05 | 2024-12-13 |
+| [high school sweetheart](https://open.spotify.com/track/3hDghOzqXg4laYs41HhN2Z) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [high school sweetheart](https://open.spotify.com/album/6IcgmTVuYU4RfrYhVCQLNR) | 2:51 | 2024-12-05 |  |
 | [Hiljaisuus](https://open.spotify.com/track/4QuWI3wL3YoIiiVYFYzcOL) | [Matias](https://open.spotify.com/artist/4wKFnxiDssR0njCQd5Xz3w) | [Hiljaisuus](https://open.spotify.com/album/17NAY524wxKhir6uw0SRBA) | 2:11 | 2024-07-25 | 2024-08-16 |
 | [HKI city girl](https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [HKI city girl](https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs) | 2:41 | 2024-07-02 | 2024-07-12 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 |  |
@@ -574,6 +574,7 @@
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-11 | 2024-09-13 |
 | [Teatro](https://open.spotify.com/track/7HcEbxAvNcnWa084L3JQqf) | [LEFT](https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG) | [Teatro \- EP](https://open.spotify.com/album/57qurPv4PbcDwgTIZlDgMG) | 1:44 | 2024-11-07 | 2024-11-15 |
 | [TERVETULOO BILEISIIN](https://open.spotify.com/track/5QHOzPvBkOAAvKWx1M3fEP) | [Alove](https://open.spotify.com/artist/2h1XAoa6w5a6kDADgwfc4J) | [TERVETULOO BILEISIIN](https://open.spotify.com/album/6tLdHBRfJ55qfr2FAtgViW) | 2:15 | 2024-09-19 | 2024-09-27 |
+| [Thank You](https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 2:43 | 2024-12-13 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-07-02 | 2024-08-30 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 | 2024-08-23 |
@@ -600,7 +601,7 @@
 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 | 2024-07-11 | 2024-07-19 |
 | [Turhan takii](https://open.spotify.com/track/4I6lc6axVLRZwLmjcE81MO) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Turhan takii](https://open.spotify.com/album/0cvDiAxwXefb4VBgwCYO48) | 2:42 | 2024-08-29 | 2024-09-06 |
 | [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 | 2024-08-09 |
-| [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 |  |
+| [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 | 2024-12-14 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 |  |
 | [Tyttöystävä](https://open.spotify.com/track/1ZYdynsL0Js9Ha7C9h6XtW) | [Julia Rautio](https://open.spotify.com/artist/1Ir1beWTLsaUykUvzctvFj) | [Tyttöystävä](https://open.spotify.com/album/1mcb7p1hHgV85NyPZvPpyL) | 3:05 | 2024-11-07 | 2024-11-15 |
 | [Tytär \(feat\. ANI, Anna Puu, Pete Parkkonen, Ujuni Ahmed & Vilma Alina\)](https://open.spotify.com/track/72h5i1Xo62IUXTdOxKP0mu) | [Solidaarisuus](https://open.spotify.com/artist/75bOpgFqyQEd8RFLS0j8qg), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn), [Ujuni Ahmed](https://open.spotify.com/artist/3wp6LkasSG0tHCyTpehhhE), [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Tytär \(feat\. ANI, Anna Puu, Pete Parkkonen, Ujuni Ahmed & Vilma Alina\)](https://open.spotify.com/album/2sRlSwfcXSYnVvbG2NSlo9) | 3:08 | 2024-10-10 | 2024-11-15 |
@@ -661,6 +662,7 @@
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-05 |  |
 | [Without You](https://open.spotify.com/track/6BZrcQPfNf1GZFle3HPViZ) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Without You](https://open.spotify.com/album/20QSUzk3R6JiXIPdXWRsfE) | 2:06 | 2024-07-11 | 2024-07-19 |
 | [Wreck](https://open.spotify.com/track/5bpIkRGZXnayOaWEszMSK1) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Wreck](https://open.spotify.com/album/30sDoUge1EZ2O8jG3hdkli) | 2:39 | 2024-10-24 | 2024-11-08 |
+| [Xmas Time \(with Kehlani\)](https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Xmas Time \(with Kehlani\)](https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL) | 3:23 | 2024-12-13 |  |
 | [Yks Hymy](https://open.spotify.com/track/49FL4tEcz3OlYW5j6GcJtc) | [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Yks Hymy](https://open.spotify.com/album/2oQLGlmKG3XaBcrY5ZKZR6) | 2:31 | 2024-07-02 | 2024-07-05 |
 | [Yks ilta ei riitä](https://open.spotify.com/track/2DDFGMOMkhutzgsnB6K4hj) | [Thelise](https://open.spotify.com/artist/3FpcoMbYBmVX0xUW9NecUm) | [Yks ilta ei riitä](https://open.spotify.com/album/5xQ8DNwK6qsYJn1jp72c3h) | 3:05 | 2024-11-15 | 2024-11-22 |
 | [Yks mun ex](https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Yks mun ex](https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH) | 2:30 | 2024-08-08 | 2024-08-23 |

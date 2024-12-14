@@ -4,7 +4,7 @@
 
 > New Music from Sarz & Asake and more
 
-1,478 songs - 3 day 0 hr 59 min
+1,480 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [haha.](https://open.spotify.com/track/1DwsStBmFQlck9TH6JyWCf) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Malaïka Urbani](https://open.spotify.com/artist/3VnEXeOCgWQZ381lEMguuC) | [haha.](https://open.spotify.com/album/5MStQiIcUMQ3NueKlpS4hj) | 3:06 | 2024-11-01 | 2024-11-08 |
 | [Haibo Freestyle](https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haibo Freestyle](https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb) | 2:25 | 2024-10-04 | 2024-10-11 |
 | [Halleluyah \[Biza\]](https://open.spotify.com/track/0oyObKOS1AZ0hELKrhPPoJ) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Halleluyah + Okay](https://open.spotify.com/album/0LzN4nio4upuBZQW9wyzuI) | 2:45 | 2024-10-04 | 2024-10-11 |
+| [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 | 2024-12-13 |  |
 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 | 2024-12-13 |  |
 | [Hankipanki \- Remix](https://open.spotify.com/track/1AvXjAlNaFNlDpSMO4qPum) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [O.N.E \(Deluxe\)](https://open.spotify.com/album/7MxR3T4j6QRmjsPftzciOI) | 3:39 | 2024-06-14 | 2024-06-21 |
 | [Happy](https://open.spotify.com/track/2e3uSrzX9jCzAbFhblbHHl) | [Yovi](https://open.spotify.com/artist/2EUWWsIv79rSJ3G5gvpL1L) | [Happy](https://open.spotify.com/album/5zArP96YoViS4hx69qswjo) | 5:35 | 2024-09-20 | 2024-09-27 |
@@ -668,7 +669,7 @@
 | [Kick Weh](https://open.spotify.com/track/2XTshtNnXeQkmepyznnbJo) | [Rude Link](https://open.spotify.com/artist/72BXOZZwwz08M1QK7mPzIa), [Ben Anansi](https://open.spotify.com/artist/4yZB6c2Ig5tAc6tH9gX18P), [Marlon Easy](https://open.spotify.com/artist/7tdybeEAiPEAHnpxUl9A5I) | [Kick Weh](https://open.spotify.com/album/6NUcD00VzMs6R25dWQOHMJ) | 3:19 | 2024-07-12 | 2024-07-19 |
 | [Killamiti](https://open.spotify.com/track/70eCjYjyeV9SwDk0vPDiv9) | [Neeza](https://open.spotify.com/artist/7afjvXGwEtEwhIHIjdQymg) | [Killamiti](https://open.spotify.com/album/1mlJSXzGOc7zjZP7pNmZxV) | 2:26 | 2024-09-20 | 2024-09-27 |
 | [Kilode](https://open.spotify.com/track/3OWRAbxhG6nM3BQGMwleeR) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Kilode](https://open.spotify.com/album/6ThyhecY2uRIS10kZGdhn3) | 2:35 | 2024-08-23 | 2024-08-30 |
-| [Kilon So](https://open.spotify.com/track/71OQPDjBpxoVJrTdieGKvZ) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8), [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7) | [Kilon So / Follow The Leader](https://open.spotify.com/album/3lCm8nAc20vjEmy6d73T4Y) | 2:01 | 2024-12-13 |  |
+| [Kilon So](https://open.spotify.com/track/71OQPDjBpxoVJrTdieGKvZ) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8), [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7) | [Kilon So / Follow The Leader](https://open.spotify.com/album/3lCm8nAc20vjEmy6d73T4Y) | 2:00 | 2024-12-13 |  |
 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 | 2024-06-21 | 2024-06-28 |
 | [King Size](https://open.spotify.com/track/0plm8nXZK5HxbCRqLRo0yE) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [King Size](https://open.spotify.com/album/5soD0R2cSUhh0IIp73OV6B) | 3:05 | 2024-11-01 | 2024-11-08 |
 | [Kings](https://open.spotify.com/track/2WWR1TRPB0fyu1VSy6msrw) | [Larey Ugee](https://open.spotify.com/artist/6vW8GFgT33m7UYUAHqyEaU), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Kings](https://open.spotify.com/album/5hXhzFKS6L86PLGNKtVoEf) | 2:46 | 2024-09-27 | 2024-10-04 |
@@ -798,6 +799,7 @@
 | [Mary Jane](https://open.spotify.com/track/4JYC55fy2Jb16nnjTRj3Bm) | [VanMilli](https://open.spotify.com/artist/1s88hf4zKPipX1ISioKDP0) | [Mary Jane](https://open.spotify.com/album/70BXlHqsk3z6tHHik3KUQi) | 1:53 | 2024-07-05 | 2024-07-12 |
 | [Matters To Me](https://open.spotify.com/track/0rAoahjILdVLd7JiF2GGFV) | [Jonathan May](https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Matters To Me](https://open.spotify.com/album/6nDq0eSPhbgqH6tpvlHlbd) | 3:05 | 2024-06-21 | 2024-06-28 |
 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-11-29 | 2024-12-06 |
+| [Medicine](https://open.spotify.com/track/2vvml2POK53Yd8fGAz4ty3) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Medicine/Opportunity](https://open.spotify.com/album/2HaenmNhFW4sAj0pbigMzB) | 3:52 | 2024-12-13 |  |
 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 | 2024-12-13 |  |
 | [Melissa](https://open.spotify.com/track/5LGCv73ozVKi7MgSD87JAO) | [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Melissa](https://open.spotify.com/album/3MqKEvBvuQiOYpGjGZZIBc) | 2:51 | 2024-09-27 | 2024-10-04 |
 | [Melo](https://open.spotify.com/track/28GlJVZQTjCZK0bD4mvp9s) | [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e) | [Accolades](https://open.spotify.com/album/1pfqBHLromocFtNKkMlhCO) | 2:40 | 2024-06-14 | 2024-06-21 |

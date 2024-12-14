@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-80 songs - 6 hr 13 min
+81 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Espero Que Sinta](https://open.spotify.com/track/6KspNxVx5lEl6eUJaZSbyS) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Espero Que Sinta](https://open.spotify.com/album/6CHnoiMOTD3jiniAOYaTZA) | 2:46 | 2023-12-30 |  |
 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 | 2023-12-30 |  |
 | [Fedendo a Ódio](https://open.spotify.com/track/3F6ttnzZvWPym4N8ovLE9x) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Fedendo a Ódio](https://open.spotify.com/album/0rsTNMyE9MNC030yT74ore) | 2:34 | 2024-03-21 | 2024-03-30 |
+| [FZND DNV](https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [FZND DNV](https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5) | 2:14 | 2024-12-14 |  |
 | [Hora H](https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 2:16 | 2024-10-07 |  |
 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 | 2024-02-01 |  |
 | [Loca](https://open.spotify.com/track/1b3wDo7ypEzQmeIMR3J8Pw) | [OTRAFITTA](https://open.spotify.com/artist/5eYHm8UnOR6NF08OotxOHt), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Loca](https://open.spotify.com/album/0JXnRI8z6vhJufZxooANoz) | 2:36 | 2024-02-24 | 2024-03-31 |

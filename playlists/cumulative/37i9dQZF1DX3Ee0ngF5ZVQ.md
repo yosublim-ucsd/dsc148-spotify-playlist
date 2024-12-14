@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
 673 songs - 1 day 16 hr 7 min
 
@@ -45,7 +45,7 @@
 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 | 2024-08-30 |  |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
-| [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 | 2024-12-13 |
+| [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 |  |
 | [Anywhere But Here](https://open.spotify.com/track/641AMRjvcagUyc04njDJOs) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Anywhere But Here](https://open.spotify.com/album/1PUJWUBjUtz60hCuYpydmd) | 3:26 | 2024-03-22 | 2024-08-21 |
 | [Anywhere The Wind Blows](https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Anywhere The Wind Blows](https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf) | 2:57 | 2023-03-03 | 2023-04-12 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2023-09-02 |
@@ -73,7 +73,7 @@
 | [Better Than Your Memory](https://open.spotify.com/track/7cwFLQokUMwJUQUD9hbRxd) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Better Than Your Memory](https://open.spotify.com/album/1K3iUoIoymF8cmm1hrpsga) | 3:05 | 2022-02-04 | 2023-09-30 |
 | [Between You and Me](https://open.spotify.com/track/4BmyAiwMBMBrT8wMHcy6Ru) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Between You and Me](https://open.spotify.com/album/0OthJUlWhQIcq1Dj9qKAIG) | 3:47 | 2022-04-22 | 2022-05-28 |
 | [Big Show](https://open.spotify.com/track/56Poamxoy82xKJmBdqDWkd) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Lane Smith \- Volume One](https://open.spotify.com/album/2SKCew9A9YSio2hUFjadW1) | 3:21 | 2021-12-17 | 2022-03-19 |
-| [Big Wide Open](https://open.spotify.com/track/1SsadgOE1rru44D5JF9t4E) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Loose Funky Texas Junky](https://open.spotify.com/album/36ZZqLdtCy8MzCl08LuEo4) | 4:19 | 2024-05-31 |  |
+| [Big Wide Open](https://open.spotify.com/track/1SsadgOE1rru44D5JF9t4E) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Loose Funky Texas Junky](https://open.spotify.com/album/36ZZqLdtCy8MzCl08LuEo4) | 4:19 | 2024-05-31 | 2024-12-14 |
 | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/album/4ENCMX5nehWshFu23EkNvJ) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Bird in a Cage](https://open.spotify.com/track/35ck3r2qYcU6NZxbAgxaLF) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bird in a Cage](https://open.spotify.com/album/6iUmd2lTyZZfgEIvZAAHzI) | 3:18 | 2023-09-22 | 2023-10-14 |
 | [Bless Her Heart](https://open.spotify.com/track/6QIwqG7Alb9todpZfh5Zep) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Bless Her Heart](https://open.spotify.com/album/1l1wBvJ9aDaCKssXNDxMWF) | 2:59 | 2021-12-17 | 2022-07-10 |

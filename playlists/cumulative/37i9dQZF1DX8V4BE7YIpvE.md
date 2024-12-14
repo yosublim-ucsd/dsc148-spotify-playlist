@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-129 songs - 6 hr 44 min
+133 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Neon Spring](https://open.spotify.com/track/2sV4dOSTjbG8NbprCHpXJe) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Neon Spring](https://open.spotify.com/album/1I9f5bCL2d6VBXetLQ3OpH) | 2:39 | 2024-12-03 |  |
 | [New Frontier](https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [New Passenger](https://open.spotify.com/track/1lkBLaxwo4uh6y5IrudKC1) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Passengers](https://open.spotify.com/album/1FdQQYcNnrWlywWDnYmVpn) | 3:23 | 2024-08-10 |  |
-| [Night Rider](https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa) | [Syntax Slayer](https://open.spotify.com/artist/2xWs54kbNWraaT946rbx0B) | [Night Rider](https://open.spotify.com/album/50C1rgce9clCwpR0P6XPXn) | 2:44 | 2024-06-06 |  |
+| [Night Rider](https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa) | [Syntax Slayer](https://open.spotify.com/artist/2xWs54kbNWraaT946rbx0B) | [Night Rider](https://open.spotify.com/album/50C1rgce9clCwpR0P6XPXn) | 2:44 | 2024-06-06 | 2024-12-14 |
 | [Ocean Dreams](https://open.spotify.com/track/47TMBCNjUX89rzmT6theiQ) | [Youth Fossils](https://open.spotify.com/artist/1EdwvYaV7m6bVSEmePPFPc) | [Ocean Dreams](https://open.spotify.com/album/2bwQMNXJxmlwbNiPpuiLHl) | 3:30 | 2024-06-06 | 2024-06-21 |
 | [Odyssey \- Slowed](https://open.spotify.com/track/1ojCddCmLWIan9ZOEVICWb) | [Francois Smith](https://open.spotify.com/artist/4AOXd36Sp0jRG6obhrHxE6) | [Odyssey](https://open.spotify.com/album/2J8bVQt8IGjVPj8XugriCF) | 3:52 | 2024-09-13 |  |
 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 | 2024-06-06 | 2024-09-06 |
@@ -99,6 +99,7 @@
 | [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 | 2024-06-06 |  |
 | [Passenger](https://open.spotify.com/track/5ch9iI5XU2klyaypR0jgbP) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k), [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Aether](https://open.spotify.com/album/5h8q1XHfapza8Dso5L9rnd) | 2:31 | 2024-09-05 |  |
 | [Past Life Limbo](https://open.spotify.com/track/4LCa5OgLfwGfI2THC2q2rU) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:36 | 2024-06-06 |  |
+| [Perspective](https://open.spotify.com/track/4R6lA6yiC7sBaa3ATtI0yj) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Perspective](https://open.spotify.com/album/7FBkncnhZJudVX8f6lygQy) | 2:06 | 2024-12-13 |  |
 | [Pink Vortex](https://open.spotify.com/track/597lXxH6JjkH7xvYCrPgab) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Pink Vortex](https://open.spotify.com/album/6LB8nf8cxLLtZ079JBSIaR) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [post blast...](https://open.spotify.com/track/5L8e5LwAYgL5csKCJN1RAF) | [n3on\-horizon](https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe) | [post blast...](https://open.spotify.com/album/30wJUED0Bxwapu0eVaaT9o) | 3:06 | 2024-06-06 |  |
 | [Primatology](https://open.spotify.com/track/3te4nCqa852HkboUhdSL9g) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Filtered Smiles](https://open.spotify.com/album/5Pm1OsfYv0mKcgVQgg1ANb) | 2:35 | 2024-06-06 |  |
@@ -116,6 +117,7 @@
 | [Shelter](https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [FiLo](https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1) | 3:05 | 2024-07-16 |  |
 | [Shimmering Expanse](https://open.spotify.com/track/1Zq4bvnfO1umN1u9id5qT3) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Shimmering Expanse](https://open.spotify.com/album/3NGLi8A1FenoabAq99jF8S) | 2:30 | 2024-11-22 |  |
 | [Skybeam](https://open.spotify.com/track/0dSRcN8hFArUbg2Y6TzQrK) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Skybeam](https://open.spotify.com/album/1HGxvnkNnhyWHWMsrDsQNY) | 4:08 | 2024-09-05 |  |
+| [Songs for Tiny](https://open.spotify.com/track/4K9gkXgnVBQNyK86gR8BbR) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Songs for Tiny](https://open.spotify.com/album/5UwQpgOFMGyVHAF1inprQH) | 2:41 | 2024-12-13 |  |
 | [Sphere](https://open.spotify.com/track/7p3KGBMxdmIttLZWGQQcQ9) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Sphere](https://open.spotify.com/album/2nTJIiVfO9DIZZTRbKrBxV) | 2:40 | 2024-06-06 |  |
 | [Spoon Too!](https://open.spotify.com/track/6SAXZKjLKBARiy4hn765ku) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:28 | 2024-06-06 |  |
 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 | 2024-06-06 | 2024-06-21 |
@@ -129,6 +131,8 @@
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |
 | [The Mirage Syndicate](https://open.spotify.com/track/3Fl3Twi9Anar9g7faE9bgo) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [Battle for Black Hole Base Pt\. 2](https://open.spotify.com/album/3WZ134pjBqabVf6QduWxvi) | 2:40 | 2024-12-03 |  |
 | [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 |  |
+| [Time](https://open.spotify.com/track/7kx7vTZFMcR822J0EdreNP) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Time](https://open.spotify.com/album/0eNfe89MtLWRndxk0nW0o8) | 3:24 | 2024-12-13 |  |
+| [True Love](https://open.spotify.com/track/0ajMmAtW5492rLVehEkoM7) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Catwave](https://open.spotify.com/album/2bnkr8ZQci5Ejaf8YmNSqn) | 3:29 | 2024-12-13 |  |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 | 2024-12-04 |
 | [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |

@@ -8289,6 +8289,24 @@
     },
     {
       "album": {
+        "name": "Don't You Love It?",
+        "url": "https://open.spotify.com/album/73xd9xf0eAQsaYeuFyM6zG"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Don't You Love It?",
+      "url": "https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ"
+    },
+    {
+      "album": {
         "name": "DONE WITH THAT...",
         "url": "https://open.spotify.com/album/6OOhQox0UbuHQzeLXvqidA"
       },
@@ -9888,7 +9906,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 114626,
       "name": "fashion week",
       "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
@@ -11613,6 +11631,28 @@
     },
     {
       "album": {
+        "name": "Pocket Operations III",
+        "url": "https://open.spotify.com/album/7BsoVOLUIkIDR5So4DLYjl"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Gritfall",
+          "url": "https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170294,
+      "name": "German Suplex",
+      "url": "https://open.spotify.com/track/2wJEFFXZMPwF8Yfn6gm4Vv"
+    },
+    {
+      "album": {
         "name": "Get Back Up (feat. Fridayy)",
         "url": "https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29"
       },
@@ -12764,6 +12804,28 @@
       "duration_ms": 201492,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/1RXRacPCrphny3VRUMwzyr"
+    },
+    {
+      "album": {
+        "name": "HANDLING BUSINESS (with Tory Lanez)",
+        "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "HANDLING BUSINESS (with Tory Lanez)",
+      "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
     },
     {
       "album": {
@@ -22230,7 +22292,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 126520,
       "name": "Or Somthin",
       "url": "https://open.spotify.com/track/5vxHNUpLcsSsKWafGLLyNU"
@@ -24020,6 +24082,32 @@
       "duration_ms": 221538,
       "name": "Pressure (feat. Mack 11)",
       "url": "https://open.spotify.com/track/6lS2HpL86e2z3Jjkc9ahBJ"
+    },
+    {
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/73cTozSJa5415xU8RcPwJ1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        },
+        {
+          "name": "QUEST",
+          "url": "https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Prestige",
+      "url": "https://open.spotify.com/track/2sdlheEPy21QNVcI22S7QN"
     },
     {
       "album": {
@@ -32178,7 +32266,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 139784,
       "name": "Voila",
       "url": "https://open.spotify.com/track/2AnusW8gNPJWE6OZ3TNlOu"

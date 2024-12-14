@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 170549,
       "name": "Build a Boat (feat. Gabby Barrett)",
       "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215327,
       "name": "He Touched Me / Something Beautiful",
       "url": "https://open.spotify.com/track/08r7I8bTMrjQL8KWWy4W4o"
@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/72IRJbkNL1PAsKVX50S4QW"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225881,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU"
+    },
+    {
+      "album": {
         "name": "White Buffalo (Introduce You To God)",
         "url": "https://open.spotify.com/album/1523Ot5YIJnrFfxsAEemjj"
       },
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 170640,
       "name": "Jesus, Won't You Come By Here",
       "url": "https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 245288,
       "name": "Longneck With Jesus",
       "url": "https://open.spotify.com/track/0coShWRXnFrgUMgqvU00gr"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 250760,
       "name": "Nearer My God To Thee",
       "url": "https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT"
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 189115,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo"
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 173000,
       "name": "Songs About Whiskey",
       "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 269320,
       "name": "The Heaven I'm Headed To",
       "url": "https://open.spotify.com/track/48TO77FBMrQl7hU1aGGwm5"
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 256906,
       "name": "There Is a God",
       "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"

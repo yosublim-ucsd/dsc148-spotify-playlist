@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 258118,
       "name": "Ando Cabreiro",
       "url": "https://open.spotify.com/track/34qXgv6P2ZCGpHuPNCPsuv"
@@ -5213,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "entre rosas",
+        "url": "https://open.spotify.com/album/71pq1KLzdnmc03ULZ6ziG2"
+      },
+      "artists": [
+        {
+          "name": "girlblogging",
+          "url": "https://open.spotify.com/artist/0ghNy2RPIGHZO1zCoHyt8m"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101538,
+      "name": "fim da linha",
+      "url": "https://open.spotify.com/track/63ulwVE4Y64wUuIW8HZgVb"
+    },
+    {
+      "album": {
         "name": "Fim e come\u00e7o",
         "url": "https://open.spotify.com/album/2TJBA0m65SlLyd9dFFwOfc"
       },
@@ -8218,7 +8236,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 184000,
       "name": "No Esta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1fFsTut42ASFoCZRKdzuLr"
@@ -10400,6 +10418,28 @@
       "duration_ms": 184294,
       "name": "Quarto Sem Janela",
       "url": "https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ"
+    },
+    {
+      "album": {
+        "name": "Quase Sert\u00e3o",
+        "url": "https://open.spotify.com/album/0XpCXg4ulPypQKTt4DCHFb"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        },
+        {
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203641,
+      "name": "Quase Sert\u00e3o",
+      "url": "https://open.spotify.com/track/71QiMGqg27teVr2rMeQhHm"
     },
     {
       "album": {

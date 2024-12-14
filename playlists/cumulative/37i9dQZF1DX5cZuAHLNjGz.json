@@ -461,6 +461,32 @@
     },
     {
       "album": {
+        "name": "Aaye Haaye (Feat. Nora Fatehi)",
+        "url": "https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195057,
+      "name": "Aaye Haaye (Feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz"
+    },
+    {
+      "album": {
         "name": "His Story",
         "url": "https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU"
       },
@@ -796,7 +822,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167911,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/1nx8lXVoB0vskUgrqvdleN"
@@ -1594,7 +1620,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 135500,
       "name": "Case",
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
@@ -3528,7 +3554,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 175556,
       "name": "IDK HOW",
       "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
@@ -4473,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Lahore",
+        "url": "https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176349,
+      "name": "Lahore",
+      "url": "https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -4927,6 +4971,28 @@
     },
     {
       "album": {
+        "name": "Mera Mann",
+        "url": "https://open.spotify.com/album/2zBFZJ0VhUSflzQ7rcuu0J"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "Mera Mann",
+      "url": "https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50"
+    },
+    {
+      "album": {
         "name": "Mera Na",
         "url": "https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1"
       },
@@ -5348,7 +5414,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180000,
       "name": "Naina (From \"Crew\")",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
@@ -5498,6 +5564,28 @@
       "duration_ms": 180000,
       "name": "Nimm Thalle",
       "url": "https://open.spotify.com/track/31YZi2MZoP2CszakCUG9NO"
+    },
+    {
+      "album": {
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164926,
+      "name": "No Break",
+      "url": "https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN"
     },
     {
       "album": {
@@ -8346,10 +8434,36 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 205823,
       "name": "Tu Juliet Jatt Di ( From \"Jatt & Juliet 3\")",
       "url": "https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ"
+    },
+    {
+      "album": {
+        "name": "Tu Ru Ruu",
+        "url": "https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Tu Ru Ruu",
+      "url": "https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO"
     },
     {
       "album": {

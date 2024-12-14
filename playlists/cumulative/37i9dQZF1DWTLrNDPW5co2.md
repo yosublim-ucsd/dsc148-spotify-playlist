@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Babymorocco
 
-314 songs - 20 hr 25 min
+315 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Enter The Chat](https://open.spotify.com/track/5xD8XCicysxqWkUwiNzc8V) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Enter The Chat](https://open.spotify.com/album/6caJ3t8BKprdoftIQqf1ck) | 2:19 | 2023-03-31 | 2024-06-29 |
 | [Exorcism of a Self\-Help Book](https://open.spotify.com/track/3iHThekmT7blCYAjRT4zhQ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Grotto](https://open.spotify.com/album/2FdzXxXyJCo6Wv2vGwirPA) | 4:07 | 2021-10-15 | 2022-06-04 |
 | [Express Yourself](https://open.spotify.com/track/1eyLFH7hE2nekDclVJTUuE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Express Yourself / Radiator](https://open.spotify.com/album/56PFS6rrDqyg7c23TcZXsR) | 3:46 | 2022-07-14 | 2024-06-08 |
+| [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-13 |  |
 | [Far Away \(with The Knocks\)](https://open.spotify.com/track/19tCu2OR7zl5vXrmSRVOOi) | [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Time and Space](https://open.spotify.com/album/35Adds1vrUAuB3HWJ6Bzj0) | 3:45 | 2024-10-04 |  |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2024-06-14 |  |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2021-10-15 | 2024-06-01 |
@@ -149,7 +150,7 @@
 | [I Need A Man](https://open.spotify.com/track/4gjsrFJjlvtOyuXjLbwIF0) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/5c3fYz9x3QTHGfIyVcBivd) | 3:25 | 2024-06-14 | 2024-07-02 |
 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 | 2024-08-02 |  |
 | [Icarus](https://open.spotify.com/track/5mbk7278CTgKPCUmHDjkNU) | [Jonah Almost](https://open.spotify.com/artist/3AsAGsWuplZx5dWXBzlyg1) | [Icarus](https://open.spotify.com/album/5grhEjZEzBV54peIKsgRiV) | 3:08 | 2024-12-06 |  |
-| [Icon](https://open.spotify.com/track/2XGheeMVX62YkXOwhlqPPx) | [Ketiov](https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR) | [Late Night People](https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW) | 5:48 | 2024-06-01 |  |
+| [Icon](https://open.spotify.com/track/2XGheeMVX62YkXOwhlqPPx) | [Ketiov](https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR) | [Late Night People](https://open.spotify.com/album/2b970bvbXGO47YGGNmAauW) | 5:48 | 2024-06-01 | 2024-12-14 |
 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 | 2021-10-15 | 2024-05-01 |
 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 | 2024-11-15 |  |
 | [ID ID ID](https://open.spotify.com/track/4ryHYwy7CflZcdSz8txTff) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [ID ID ID](https://open.spotify.com/album/20cI5JLFkfqRkFLzk6iuI0) | 3:06 | 2024-05-10 | 2024-08-03 |

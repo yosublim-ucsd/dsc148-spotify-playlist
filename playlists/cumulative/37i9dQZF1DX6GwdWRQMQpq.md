@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla & Sexyy Red
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-618 songs - 1 day 3 hr 50 min
+619 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Can't Come Back](https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Can't Come Back](https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6) | 2:34 | 2024-04-26 | 2024-05-03 |
 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 | 2024-07-19 | 2024-08-03 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 | 2022-04-16 |
-| [Candy Crush](https://open.spotify.com/track/7GlaNMfxTa4wTGL35Ni6jd) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Heart Don't Lie](https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev) | 2:46 | 2024-11-22 |  |
+| [Candy Crush](https://open.spotify.com/track/7GlaNMfxTa4wTGL35Ni6jd) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Heart Don't Lie](https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev) | 2:46 | 2024-11-22 | 2024-12-14 |
 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 | 2023-10-13 | 2023-12-16 |
 | [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 | 2022-05-13 | 2023-04-01 |
 | [Cartier](https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Cartier](https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs) | 1:38 | 2022-02-18 | 2022-05-14 |
@@ -618,6 +618,7 @@
 | [WTFO](https://open.spotify.com/track/6F5g5wyan1J0k0vXuscBSX) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [WTFO](https://open.spotify.com/album/2TiinfW9n75HG9dpUt5Plr) | 2:59 | 2024-10-25 | 2024-11-23 |
 | [WYA](https://open.spotify.com/track/1xQuEUlBKgx3VbLlyQU637) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [WYA](https://open.spotify.com/album/2TARZXvled2I0ZyGxD1mWf) | 2:10 | 2024-09-13 | 2024-09-28 |
 | [X\-Mas Bag](https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [X\-Mas Bag](https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES) | 2:21 | 2024-12-06 |  |
+| [Xmas Time \(with Kehlani\)](https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Xmas Time \(with Kehlani\)](https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL) | 3:23 | 2024-12-13 |  |
 | [Yea Yea](https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Yea Yea](https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h) | 2:01 | 2024-10-04 | 2024-10-12 |
 | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Yeah B\*tch \(feat\. DaBaby\)](https://open.spotify.com/album/1eWVV8w19pY6yzdxu01DAS) | 2:12 | 2021-10-29 | 2022-02-05 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 |  |

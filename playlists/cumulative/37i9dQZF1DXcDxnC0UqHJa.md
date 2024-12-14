@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-291 songs - 18 hr 32 min
+292 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cigarette Machine](https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Cigarette Machine](https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4) | 3:24 | 2023-09-08 |  |
 | [Clay Pigeons](https://open.spotify.com/track/0sOv30WGok8ZQXhG6wMSB0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6), [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Clay Pigeons](https://open.spotify.com/album/01m8HkHZ0qgJRm16z6SVPs) | 5:04 | 2021-12-13 | 2022-07-29 |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2021-12-13 | 2024-10-19 |
+| [Colorado Girl](https://open.spotify.com/track/6lQQUS1zap4oojmgAhRs81) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Colorado Girl](https://open.spotify.com/album/2ADq4cxk9fOW1Zcr3eSsna) | 3:39 | 2024-12-13 |  |
 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 | 2021-12-13 |  |
 | [Coming Around Again](https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Coming Around Again](https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl) | 3:34 | 2023-06-30 |  |
 | [Coming Down](https://open.spotify.com/track/2C1igahjiShid8qZ7E2Vq6) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [triple j Like A Version](https://open.spotify.com/album/3vjDILemgtg9ngovvqLf0G) | 4:17 | 2021-12-13 | 2022-02-06 |
@@ -252,7 +253,7 @@
 | [The Safety Dance](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:26 | 2021-12-13 |  |
 | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP) | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP) | 3:42 | 2021-12-13 |  |
 | [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-10-14 | 2023-02-03 |
-| [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 | 2022-08-26 |  |
+| [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 | 2022-08-26 | 2024-12-14 |
 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 | 2022-06-03 | 2024-04-19 |
 | [Thirteen](https://open.spotify.com/track/0su1fc4MK1YIqkL4Ai170k) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Thirteen](https://open.spotify.com/album/2ZC6djUXUVRBSPCsuZB4I4) | 3:04 | 2021-12-13 | 2022-07-29 |
 | [This Boy](https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Minnesota Beatle Project, Vol\. 5](https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC) | 2:25 | 2021-12-13 | 2022-07-29 |

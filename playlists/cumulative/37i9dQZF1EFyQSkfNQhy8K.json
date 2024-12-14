@@ -644,6 +644,24 @@
     {
       "album": {
         "name": "ANGEL22",
+        "url": "https://open.spotify.com/album/6z8f56oLqunjYmLlst0OvP"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150378,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5a1rnALt6YUyg3XDgMKycx"
+    },
+    {
+      "album": {
+        "name": "ANGEL22",
         "url": "https://open.spotify.com/album/5uXD1YCyJ5Cwh7O0JHWnVL"
       },
       "artists": [
@@ -654,7 +672,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 150378,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/7jD6f0JGn3S4wwQlx9P5g3"
@@ -1892,6 +1910,24 @@
     {
       "album": {
         "name": "LALALA",
+        "url": "https://open.spotify.com/album/4sHSMqIoMhxDZUBhZ8Jg4q"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162286,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/0PJxFBDLYshklE1ZhAHp7N"
+    },
+    {
+      "album": {
+        "name": "LALALA",
         "url": "https://open.spotify.com/album/3RGXCIxGIeAbbY2YqbQrcV"
       },
       "artists": [
@@ -1902,7 +1938,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 162286,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/3fg8kdNwG30M4EPYUFFfez"
@@ -2616,6 +2652,24 @@
     {
       "album": {
         "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/3KlCYfjv2GuUmqMUmLTWNO"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/0HWBXSJ2HAdINCZS7pDTzV"
+    },
+    {
+      "album": {
+        "name": "Para Ti No",
         "url": "https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB"
       },
       "artists": [
@@ -2626,7 +2680,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199046,
       "name": "Para Ti No",
       "url": "https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt"

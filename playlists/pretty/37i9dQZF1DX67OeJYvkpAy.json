@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 89191,
+  "num_followers": 89184,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Told Me",
+        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
+      },
+      "artists": [
+        {
+          "name": "Wdz",
+          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Told Me",
+      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Lost in Lofi",
         "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Told Me",
-        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
+        "name": "Circle Of Life",
+        "url": "https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL"
       },
       "artists": [
         {
-          "name": "Wdz",
-          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
         }
       ],
-      "duration_ms": 142027,
-      "name": "Told Me",
-      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
+      "duration_ms": 257142,
+      "name": "Circle Of Life",
+      "url": "https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 181976,
       "name": "LTC",
       "url": "https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Circle Of Life",
-        "url": "https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL"
-      },
-      "artists": [
-        {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Circle Of Life",
-      "url": "https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Leave This City",
-        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 169129,
-      "name": "I Was Never Phased",
-      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -1135,6 +1119,38 @@
       "duration_ms": 152571,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 169129,
+      "name": "I Was Never Phased",
+      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 192052,
       "name": "Day and Night (Prodbyjak)",
       "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2024-11-22 00:00:00",

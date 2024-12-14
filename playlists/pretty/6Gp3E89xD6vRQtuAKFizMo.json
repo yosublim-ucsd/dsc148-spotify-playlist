@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44238,
+  "num_followers": 44237,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZxd+wDLbx/T7XE7ea82NYCrwx9cTM",
+  "snapshot_id": "AAAZx7N9JyEjEcTQonhhayuIpNnRFOMs",
   "tracks": [
+    {
+      "added_at": "2024-12-13 16:22:02",
+      "album": {
+        "name": "Shorty Go (feat. Manno)",
+        "url": "https://open.spotify.com/album/17h6nQpecOYdpy1hV7NkdU"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        },
+        {
+          "name": "Manno",
+          "url": "https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Shorty Go (feat. Manno)",
+      "url": "https://open.spotify.com/track/2yuL8S7fNLObEzQEIEBm3U"
+    },
+    {
+      "added_at": "2024-12-13 16:22:18",
+      "album": {
+        "name": "World of Sound",
+        "url": "https://open.spotify.com/album/3A9CsBUoxKgK0N4UP6JABY"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "World of Sound",
+      "url": "https://open.spotify.com/track/73fKxPJOH9ExwMqF2TMFr8"
+    },
     {
       "added_at": "2024-12-06 16:33:32",
       "album": {

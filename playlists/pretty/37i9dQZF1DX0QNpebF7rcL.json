@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 60178,
+  "num_followers": 60210,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAABlPAPCnmQGTbMxC+IxtUsl",
+  "snapshot_id": "Z1u/VgAAAABe7L9ESKwVrEkKcLe46CKu",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:06",
+      "album": {
+        "name": "Wild Man",
+        "url": "https://open.spotify.com/album/5pWbZT5l3XFhljy6EgWkBH"
+      },
+      "artists": [
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Wild Man",
+      "url": "https://open.spotify.com/track/4ZM8t3782vRWNlRZ2Fwlbh"
+    },
+    {
+      "added_at": "2024-12-13 05:00:06",
+      "album": {
+        "name": "Cryin' & Pleadin'",
+        "url": "https://open.spotify.com/album/1ilAJTN0Pv3DIOi4JWMnWu"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Cryin' & Pleadin'",
+      "url": "https://open.spotify.com/track/4XdLj4w80n8FhI7Sdesayd"
+    },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
@@ -1735,38 +1767,6 @@
       "duration_ms": 251439,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Heartache by the Pound",
-        "url": "https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Heartache by the Pound",
-      "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     }
   ],
   "unique_name": "Got Blues",

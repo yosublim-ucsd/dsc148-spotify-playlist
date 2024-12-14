@@ -6286,10 +6286,6 @@
       },
       "artists": [
         {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
           "name": "MOGUAI",
           "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
         },
@@ -6300,6 +6296,10 @@
         {
           "name": "GRATIFY",
           "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         }
       ],
       "date_added": "2024-12-12",

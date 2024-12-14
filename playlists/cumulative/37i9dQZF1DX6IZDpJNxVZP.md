@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun tracks
 
-317 songs - 13 hr 54 min
+318 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Which Witch Is Which?](https://open.spotify.com/track/0z35rHwhneq2HGJy3GtoH7) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:35 | 2021-09-10 | 2024-09-21 |
 | [Who Let The Ghosts Out](https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:46 | 2021-08-30 | 2024-11-23 |
 | [Winter Games \- From "The Christmas Letter Express"](https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Winter Games \(From "The Christmas Letter Express"\)](https://open.spotify.com/album/34R6Ssp0DxDjgsq6JO1DKT) | 1:42 | 2024-11-21 |  |
+| [Winter Wonderland](https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Christmas Songs for Children](https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL) | 2:55 | 2024-12-13 |  |
 | [Wintertime is better with friends](https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7) | [Mini Smiley](https://open.spotify.com/artist/60IT25papFnCsrfkel54e8) | [Christmas Songs](https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m) | 2:36 | 2024-11-26 |  |
 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 | 2024-11-21 |  |
 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 | 2021-08-30 | 2024-04-19 |

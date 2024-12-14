@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: Jackie Hollander, Artwork: Isu Kim
 
-7,453 songs - 16 day 20 hr 5 min
+7,455 songs - 16 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1617,6 +1617,7 @@
 | [Death in the Family](https://open.spotify.com/track/6BOTun1k0Pw68tabh9FpUm) | [Redolent](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [make big money fast online now](https://open.spotify.com/album/0B6t0MmVy25XZ4GyVK2eIx) | 2:48 | 2023-02-01 | 2023-02-09 |
 | [Death of Me](https://open.spotify.com/track/2zitc3SFyNZfoThN0IL01Y) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Death of Me](https://open.spotify.com/album/2PbC8AKZST495Qty1vUAkz) | 3:09 | 2024-08-07 | 2024-09-12 |
 | [Death of Me](https://open.spotify.com/track/3RMan0n6vZvlj5rzZNtJIa) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo), [Sahareya](https://open.spotify.com/artist/64CTTiZ9WyuvbCtXdkuhou) | [Death of Me](https://open.spotify.com/album/3UdOuMDtIMUXcLbXPEdre3) | 2:36 | 2023-06-14 | 2023-06-29 |
+| [Death Spells](https://open.spotify.com/track/1SqdwayfShRMtXk5YcVPiP) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Death Spells](https://open.spotify.com/album/4rxl4OvjhgR96dBUoUPjBH) | 4:46 | 2024-12-13 |  |
 | [Death Wish](https://open.spotify.com/track/4S1kCVM0QHbcBzbtauuNUd) | [Havanna Winter](https://open.spotify.com/artist/3QWgcNcKtobgBgbhGoQXDC) | [Death Wish](https://open.spotify.com/album/01cvl1Ub1WSIcmL6lM5UzZ) | 2:09 | 2023-02-01 | 2023-02-09 |
 | [DEATH WOBBLES](https://open.spotify.com/track/34DkUYoVpTrko0yxYSC6W0) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [DEATH WOBBLES](https://open.spotify.com/album/2JIjtWEfyzVyX07CVNXqDF) | 2:52 | 2023-08-09 | 2023-08-17 |
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-11 |  |
@@ -3882,6 +3883,7 @@
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-18 | 2022-05-26 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-29 | 2024-01-11 |
 | [Looking At People](https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Home For The Moment](https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD) | 3:54 | 2024-03-06 | 2024-03-28 |
+| [Looking at the Geese](https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Looking at the Geese](https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ) | 4:25 | 2024-12-13 |  |
 | [Looking at the Numbers](https://open.spotify.com/track/5GtSBogakPmKLqPwjMDLvz) | [Trey Rose](https://open.spotify.com/artist/48drlUm5UiPULfpDwxUXvd) | [Looking at the Numbers](https://open.spotify.com/album/5HRkWv0wumBbzY26Ra1Kft) | 3:20 | 2023-02-22 | 2023-03-02 |
 | [Looking at You](https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp) | [Juniper Honey](https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY) | [Looking at You](https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL) | 3:26 | 2023-06-28 | 2023-07-13 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-28 | 2022-10-06 |
@@ -6788,7 +6790,7 @@
 | [Tuesday Morning](https://open.spotify.com/track/1w8xFWRRgf7ZXvfrWL4ouv) | [Manu Dia](https://open.spotify.com/artist/3iloWJ7zajxZwkDv2cYQQw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Tuesday Morning](https://open.spotify.com/album/0F5vinewfHFeDJAawCcY7x) | 4:09 | 2022-02-23 | 2022-03-03 |
 | [Tuff Luv](https://open.spotify.com/track/6nfoTz3AhW67FhgnAkoaS8) | [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Without Hesitation](https://open.spotify.com/album/1s58HQjiD6rGtErrNrJCVI) | 1:56 | 2022-02-16 | 2022-02-24 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-01-17 | 2024-02-08 |
-| [tumbleweed motel](https://open.spotify.com/track/1LbRnseZm74OhORdBb6Isy) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [ii \(ep\)](https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3) | 3:32 | 2024-11-06 |  |
+| [tumbleweed motel](https://open.spotify.com/track/1LbRnseZm74OhORdBb6Isy) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [ii](https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3) | 3:32 | 2024-11-06 |  |
 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-08-30 | 2023-09-14 |
 | [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 | 2024-11-06 |  |
 | [Turn Off](https://open.spotify.com/track/0yZr5rcFiwyhx9xKo6b7bv) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Time Is Now](https://open.spotify.com/album/1mEZ8fADCdPqekkLzhG128) | 3:33 | 2022-10-05 | 2022-10-13 |

@@ -2,7 +2,7 @@
 
 ### [Pop Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWWmaH4Rc6HPY)
 
-> ¡Rock para cantar en todos lados! Pepe Aguilar en portada.
+> ¡Rock para cantar en todos lados! Javier Blake en portada.
 
 190 songs - 10 hr 32 min
 

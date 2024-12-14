@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: ROSÉ
+> Neues aus der Welt des Pop\. Cover: Michael Marcagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,101 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,137 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 59 | [Expiration Date](https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Expiration Date](https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK) | 2:25 |
 | 60 | [Superhuman](https://open.spotify.com/track/45nmwjLdXZRDRBR2V8vVpY) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Superhuman](https://open.spotify.com/album/0Fx8GLQSCzmqFioKqRjEI6) | 2:35 |
 
-Snapshot ID: `Z1trBQAAAADt5GVNdGCQ6xJsdSYrPrZ7`
+Snapshot ID: `Z1u/XAAAAAByTaERCcFpM3Lbg1UnQzsn`

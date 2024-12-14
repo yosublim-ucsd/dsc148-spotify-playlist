@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 182623,
       "name": "1 FOTO TUYA",
       "url": "https://open.spotify.com/track/45pHC3RSmfiWQlTE9bVk5D"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196979,
       "name": "Antes de Noviembre",
       "url": "https://open.spotify.com/track/4VPRZa1iFBKaN6v9v9vKcs"
@@ -3766,6 +3766,32 @@
       "duration_ms": 161237,
       "name": "Bellakera \u00danica",
       "url": "https://open.spotify.com/track/2uJbnclYXK0btu5tWoTXMf"
+    },
+    {
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0T9Uvf8QusjsTncxnWQlbC"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Nyruz",
+          "url": "https://open.spotify.com/artist/6E4isOyUjuu3DeCsEYKwSi"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/1tT99w1XFJlJknlm6FttUX"
     },
     {
       "album": {
@@ -5965,6 +5991,28 @@
     },
     {
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/3tIpPzayvln0DFzCzp6q06"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/0309uLMqhHBnhi8fN0hhJy"
+    },
+    {
+      "album": {
         "name": "CICATRICES",
         "url": "https://open.spotify.com/album/40jhpk6wiMqbkZXkm2PnST"
       },
@@ -8048,6 +8096,28 @@
       "duration_ms": 204379,
       "name": "DE LA PIPA",
       "url": "https://open.spotify.com/track/1YiyGNdPNbKd1kF9rHQqx5"
+    },
+    {
+      "album": {
+        "name": "DE MARAVISHA",
+        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "DE MARAVISHA",
+      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "album": {
@@ -14118,7 +14188,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 139846,
       "name": "INCENDIO",
       "url": "https://open.spotify.com/track/0H2ZM5RkE814rwj4ceQQsS"
@@ -16665,6 +16735,36 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7w4bwigpTYnWIPcp4WEymV"
+      },
+      "artists": [
+        {
+          "name": "Arquero",
+          "url": "https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6"
+        },
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        },
+        {
+          "name": "Yako",
+          "url": "https://open.spotify.com/artist/1EWbYXDZLwGUiiXlZRLXW1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/47XzsYpXLcBcUNUKKkhmrn"
+    },
+    {
+      "album": {
         "name": "Look At Me",
         "url": "https://open.spotify.com/album/7j8L3NVf7XceZu8K8XQGtE"
       },
@@ -17086,6 +17186,28 @@
       "duration_ms": 167074,
       "name": "LUNA DILE",
       "url": "https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz"
+    },
+    {
+      "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/77lXV9IdYp6DVXDokGTkin"
+      },
+      "artists": [
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93692,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/3hNP7m8eKl91hL9J0hq2Ct"
     },
     {
       "album": {
@@ -21272,7 +21394,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 150000,
       "name": "NO ESTAS TAN SOLA",
       "url": "https://open.spotify.com/track/1G1tBLBQbT0nzrOGDhc5FQ"
@@ -23704,7 +23826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 172333,
       "name": "PARA QU\u00c9",
       "url": "https://open.spotify.com/track/0ud02jQh78aBB8hHCsV5rp"
@@ -29765,6 +29887,24 @@
     },
     {
       "album": {
+        "name": "te pintaron pajaritos.",
+        "url": "https://open.spotify.com/album/01SDG5WpfYf4LSuebR83Mh"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145339,
+      "name": "te pintaron pajaritos.",
+      "url": "https://open.spotify.com/track/52tr1gHxzWRlv6wwT6faiW"
+    },
+    {
+      "album": {
         "name": "Te Propongo",
         "url": "https://open.spotify.com/album/7cm8GCVTpxOigWwb40fOAj"
       },
@@ -29984,7 +30124,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 211991,
       "name": "Tercera Copa",
       "url": "https://open.spotify.com/track/6QHPumBd0zgoTgts7hyF4t"
@@ -32026,7 +32166,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 260019,
       "name": "UNA LINEA MENOS PARA ELIAN (EL LAPIZ DE ORO)",
       "url": "https://open.spotify.com/track/4O1bi8pvcz9BPIxTM5hENi"
@@ -33036,6 +33176,32 @@
       "duration_ms": 197434,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
+    },
+    {
+      "album": {
+        "name": "KITIPONES THE MIX TAPE",
+        "url": "https://open.spotify.com/album/5q4T6xlPXfXazxck5Tg2oB"
+      },
+      "artists": [
+        {
+          "name": "El Bugg",
+          "url": "https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164419,
+      "name": "VUSCANDOTE",
+      "url": "https://open.spotify.com/track/6IN6OQ9xjsG2LSGTtWpNUR"
     },
     {
       "album": {

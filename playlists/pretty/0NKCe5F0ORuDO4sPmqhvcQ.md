@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,630 likes - 126 songs - 7 hr 19 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,629 likes - 129 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 124 | [it's all happening \(feat\. Daniel Allan & Evalyn\)](https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [what is life?](https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9) | 2:54 |
 | 125 | [Wish I Knew](https://open.spotify.com/track/6xEterOgHQcyiChE5CODKQ) | [MEDZ](https://open.spotify.com/artist/61c8McUZCtrU9WOjvFkyiL), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Wish I Knew](https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP) | 4:01 |
 | 126 | [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 7:22 |
+| 127 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 |
+| 128 | [stereoluv](https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [stereoluv](https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR) | 4:34 |
+| 129 | [ARRIVAL](https://open.spotify.com/track/1WjTYi3pmVxaAogY4EmNXF) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [6AE](https://open.spotify.com/album/6TAKPPLhU5c5J4g5z4ZdXf) | 3:35 |
 
-Snapshot ID: `AAAqQVhQZCpOetScW5vJ4wnLYFZeYMuv`
+Snapshot ID: `AAAqROlZk7e6QZt0iW6FvEQ6DC8M7C/r`

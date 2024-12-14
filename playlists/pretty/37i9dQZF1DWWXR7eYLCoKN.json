@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 154091,
+  "num_followers": 154140,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Escumalha",
-        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
+        "name": "Vou Deixar Cair...",
+        "url": "https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O"
       },
       "artists": [
         {
-          "name": "Douglas Germano",
-          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        },
+        {
+          "name": "Som Tres",
+          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
         }
       ],
-      "duration_ms": 311053,
-      "name": "Tempo Velho",
-      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
+      "duration_ms": 188026,
+      "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -355,22 +359,18 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Vou Deixar Cair...",
-        "url": "https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O"
+        "name": "Escumalha",
+        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
       },
       "artists": [
         {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        },
-        {
-          "name": "Som Tres",
-          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
+          "name": "Douglas Germano",
+          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
         }
       ],
-      "duration_ms": 188026,
-      "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE"
+      "duration_ms": 311053,
+      "name": "Tempo Velho",
+      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
-        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nervos de A\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
         "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 264933,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nervos de A\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Baterista: Wilson Das Neves",
-        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 134533,
-      "name": "Balan\u00e7o Zona Sul",
-      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Fazendo As Pazes Com o Swing",
         "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 190880,
       "name": "Pode Ser",
       "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Baterista: Wilson Das Neves",
+        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 134533,
+      "name": "Balan\u00e7o Zona Sul",
+      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -967,22 +967,6 @@
       "duration_ms": 145823,
       "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
       "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
-        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "Vaso Quebrado",
-      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "C\u00e2ncer Com Touro",
         "url": "https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Macieira",
         "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 203680,
       "name": "Macieira",
       "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
+        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "Vaso Quebrado",
+      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1247,22 +1247,6 @@
       "duration_ms": 241254,
       "name": "Conselheiro Calado",
       "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2024-11-22 03:01:00",

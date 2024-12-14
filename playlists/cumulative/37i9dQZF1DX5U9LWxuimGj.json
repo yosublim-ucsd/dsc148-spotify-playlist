@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Kat Luna",
+  "description": "Country music with a Latin flair. Cover: Julio Caesar ",
   "name": "Country Latino",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 176254,
       "name": "Beautiful Crazy [Bella Locura] - Spanish",
       "url": "https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH"
@@ -968,6 +968,24 @@
       "duration_ms": 191106,
       "name": "El Trabajador",
       "url": "https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC"
+    },
+    {
+      "album": {
+        "name": "Feathered Indians",
+        "url": "https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171911,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ"
     },
     {
       "album": {

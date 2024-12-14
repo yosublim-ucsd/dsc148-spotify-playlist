@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : KAROL G
+> Tous les hits latino du moment sont ici\. Photo : Shakira
 
 177 songs - 9 hr 22 min
 

@@ -1,13 +1,29 @@
 {
   "description": "Sometimes all you need is a fresh start. Listen to the music from, and inspired by, Virgin River, now stream on Netflix. ",
-  "num_followers": 62208,
+  "num_followers": 62235,
   "original_name": "Virgin River Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZWkfxAAAAAC0n5oJvNBKFb8Z9zh0Xamg",
+  "snapshot_id": "Z1vpjQAAAADgetzoT7KQKPA63QdgwGqR",
   "tracks": [
+    {
+      "added_at": "2024-12-13 08:00:13",
+      "album": {
+        "name": "This Heart of Mine (from the Netflix Series \"Virgin River\")",
+        "url": "https://open.spotify.com/album/6XibdUioipl3NTDR7TMxiZ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 253815,
+      "name": "This Heart of Mine (from the Netflix Series \"Virgin River\")",
+      "url": "https://open.spotify.com/track/609Cadf9tYZ5Un4ph8EFyP"
+    },
     {
       "added_at": "2023-11-30 23:50:28",
       "album": {

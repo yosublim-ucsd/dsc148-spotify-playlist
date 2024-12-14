@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Tetrarch.
+> nü\-metal revival is happening here and now with Linkin Park.
 
 233 songs - 13 hr 14 min
 

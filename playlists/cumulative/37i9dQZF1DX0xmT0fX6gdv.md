@@ -2,7 +2,7 @@
 
 ### [Mehmet Aslan's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX0xmT0fX6gdv)
 
-> <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
+> Mehmet Aslan's favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
 239 songs - 19 hr 59 min
 

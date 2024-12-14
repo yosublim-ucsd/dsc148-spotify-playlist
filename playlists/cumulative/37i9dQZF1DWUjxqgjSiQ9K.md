@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Alex Campos
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: World Worship
 
-687 songs - 2 day 5 hr 57 min
+688 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Danzando](https://open.spotify.com/track/07yd60JLsOIEIkQ13gpmRk) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Becky Collazos](https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Danzando](https://open.spotify.com/album/7J3qxFpqVrSSE5fcqV01gu) | 8:08 | 2022-04-29 | 2022-05-20 |
 | [Danzando \(Nadie Como Tú\) \- Remix](https://open.spotify.com/track/4TpjViJZl39Yix9MkmZP2m) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Danzando \(Nadie Como Tú\) \[Remix\]](https://open.spotify.com/album/2PyAxHzBsJP7olCNzMgXkH) | 3:47 | 2023-06-30 | 2023-07-29 |
 | [Darme](https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Darme](https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr) | 3:42 | 2022-12-09 | 2023-12-09 |
-| [Das Vida](https://open.spotify.com/track/1UVDZD8T8NTadX6VB8I8Po) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm), [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Das Vida](https://open.spotify.com/album/5K4AHh6gV5qF23nHeT7lzo) | 11:13 | 2023-08-18 |  |
+| [Das Vida](https://open.spotify.com/track/1UVDZD8T8NTadX6VB8I8Po) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm), [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Das Vida](https://open.spotify.com/album/5K4AHh6gV5qF23nHeT7lzo) | 11:13 | 2023-08-18 | 2024-12-14 |
 | [Dañar El Jangueo \(Remix\)](https://open.spotify.com/track/0I8zKI6mn3HrjoVXrPtvgN) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Xerran](https://open.spotify.com/artist/448V6RH5Nck3bpjG1l2EBS) | [Dañar El Jangueo \(Remix\)](https://open.spotify.com/album/6Zs8pHYSaQt64xXXQmJ3ZF) | 3:48 | 2022-09-09 | 2022-11-05 |
 | [De Camino](https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [De Camino](https://open.spotify.com/album/5JfAm47YKNf05ICA20n4iD) | 3:04 | 2023-08-04 | 2024-03-02 |
 | [De Vuelta al Primer Amor](https://open.spotify.com/track/4KdyaTyB7PyC02zdfnfAVj) | [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [De Vuelta al Primer Amor](https://open.spotify.com/album/14skBuKMgi5MOfEISFnDhE) | 4:48 | 2022-05-13 | 2023-04-29 |
@@ -471,6 +471,7 @@
 | [Otra Vez](https://open.spotify.com/track/17nibmm08dDXmL2U8mtjaR) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Otra Vez](https://open.spotify.com/album/5OZRIdpZD8OuTNF9KAhydo) | 3:13 | 2024-11-01 |  |
 | [Otra vez](https://open.spotify.com/track/7adfK4ymN04aDhjfBW1IJ6) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [LUISFER](https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN) | [Otra Vez](https://open.spotify.com/album/68onMdEK5YRDd1X5wIf5Fi) | 6:58 | 2024-04-12 | 2024-06-22 |
 | [Otro Día](https://open.spotify.com/track/0Bq7UQv3bdHZX7NhNKlJCJ) | [Reywil Alexander](https://open.spotify.com/artist/1ULs4RG7vSXsSF8gbFQBEc), [Norci Morales](https://open.spotify.com/artist/6FvOeMMM4g8hr3fixOV5mh), [Stidlmusic](https://open.spotify.com/artist/0xLrCvJATAv6Zw5ealVQlH) | [Otro Día](https://open.spotify.com/album/6ppseCFXwrpt9z8Zt2mmjY) | 2:29 | 2024-07-26 | 2024-11-23 |
+| [Pagar El Precio \- En Vivo](https://open.spotify.com/track/5rh6v6rIwSWIdTTTbYIaoD) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [Pagar El Precio \(En Vivo\)](https://open.spotify.com/album/3Hrxwax5SmJfL1U1kK7zBb) | 10:53 | 2024-12-13 |  |
 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 | 2022-06-24 | 2023-05-27 |
 | [Para Siempre te Bendeciré](https://open.spotify.com/track/3j7kQdXknNWpjQgzH59LBJ) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Para Siempre te Bendeciré](https://open.spotify.com/album/5EpQ34CmBmkhNOms7YhiSb) | 7:35 | 2024-09-06 | 2024-10-05 |
 | [Para Ti](https://open.spotify.com/track/26Vi1JbqYdFHlolbT61xvX) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Para Ti](https://open.spotify.com/album/3vgt8y8SCebdyYTGpZfZPL) | 2:34 | 2023-02-10 | 2023-05-27 |

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/21BFQiuixv0xMyfXFaYJRn"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231718,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/42BHFfaVU8a9YFbyNmAfUj"
+    },
+    {
+      "album": {
         "name": "Acid Duck",
         "url": "https://open.spotify.com/album/7vW3zkwtBFGHb9yUduUTWS"
       },
@@ -570,6 +588,28 @@
       "duration_ms": 454765,
       "name": "Black Halo",
       "url": "https://open.spotify.com/track/3m6DJCjSGmxRxdRyiy0CXO"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah (Lilly Palmer Remix)",
+        "url": "https://open.spotify.com/album/4HojuvL9qgtKdiuUSPVQiV"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214299,
+      "name": "Blah Blah Blah - Lilly Palmer Remix",
+      "url": "https://open.spotify.com/track/0tEzEAK27e7p2RxjCAIfli"
     },
     {
       "album": {
@@ -2145,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "For An Angel (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2WbCag4MDytanMn1HE2Wsd"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465866,
+      "name": "For An Angel - PvD's E-Werk Club Mix",
+      "url": "https://open.spotify.com/track/2g2ObG4CPkpOSKLqffImGn"
+    },
+    {
+      "album": {
         "name": "Reverie / Forest Fire",
         "url": "https://open.spotify.com/album/27QvQxz2lZfrKjqdS7qV3b"
       },
@@ -2164,6 +2222,28 @@
       "duration_ms": 481044,
       "name": "Forest Fire",
       "url": "https://open.spotify.com/track/7q9aANbt8iNn8GD9N6ZYrs"
+    },
+    {
+      "album": {
+        "name": "Sanctum EP",
+        "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Marion Di Napoli",
+          "url": "https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419869,
+      "name": "Fourth Dimension (feat. Marion Di Napoli)",
+      "url": "https://open.spotify.com/track/1zXUKuoA79Mg0LeDHUR8Vg"
     },
     {
       "album": {
@@ -2830,7 +2910,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 364611,
       "name": "How You Move",
       "url": "https://open.spotify.com/track/6FQ6FdtxgMaFseKitedJ7u"
@@ -3726,7 +3806,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 192352,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/0T3cGxD64iCMuXH4u7QHcH"
@@ -3796,7 +3876,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 227463,
       "name": "LIFT ME UP",
       "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
@@ -3971,6 +4051,28 @@
     },
     {
       "album": {
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/0xCajsCFn5NdldJpeamZAp"
+      },
+      "artists": [
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        },
+        {
+          "name": "KAF3R",
+          "url": "https://open.spotify.com/artist/0onxcomzS4gSqUyQsfImJf"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Lost in Space",
+      "url": "https://open.spotify.com/track/2Qn6K6ytz5O3ckq4pH6oV3"
+    },
+    {
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr"
       },
@@ -4084,7 +4186,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 280291,
       "name": "LXR02 - Alex Stein Remix",
       "url": "https://open.spotify.com/track/0O8so5WXR9cF3aGOdoodH3"
@@ -4160,7 +4262,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 460000,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/3VYgwboT1OxKaUVQbqSzzb"
@@ -4182,6 +4284,24 @@
       "duration_ms": 682922,
       "name": "Marionette",
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
+    },
+    {
+      "album": {
+        "name": "Masterpeace",
+        "url": "https://open.spotify.com/album/5rZgk4B2N2s7rOZ1xPcOYZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Bekker",
+          "url": "https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220233,
+      "name": "Masterpeace",
+      "url": "https://open.spotify.com/track/6MvKDJcfwU7Zza19O9tuc1"
     },
     {
       "album": {
@@ -5655,6 +5775,28 @@
     },
     {
       "album": {
+        "name": "Reasons to Love You (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/28UE1mPg4KkrFEqzdWXFej"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283905,
+      "name": "Reasons to Love You - Space 92 Remix",
+      "url": "https://open.spotify.com/track/4fT39zh4M3QTYTppfoZXDT"
+    },
+    {
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -6322,7 +6464,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 251076,
       "name": "Simulator - Odd Mob Remix",
       "url": "https://open.spotify.com/track/0GiT71RKKiZbmBH4u3VoU1"
@@ -6720,7 +6862,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 212903,
       "name": "Stellar - ANNA Remix",
       "url": "https://open.spotify.com/track/3eZAKySvQ3VBUlGdSmI7SD"
@@ -7442,7 +7584,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 274285,
       "name": "This Is Not a Sync Track! - Edit",
       "url": "https://open.spotify.com/track/4P1CVFPigN88YEUHTUY8Wg"

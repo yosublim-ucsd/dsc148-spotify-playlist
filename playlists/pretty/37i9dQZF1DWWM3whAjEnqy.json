@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43842,
+  "num_followers": 43850,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 237377,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Memories & Dust",
-        "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
       "artists": [
         {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Middle Of The Hill",
-      "url": "https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17"
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Palo Alto",
         "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199584,
       "name": "Palo Alto",
       "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Memories & Dust",
+        "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
+      },
+      "artists": [
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Middle Of The Hill",
+      "url": "https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17"
     },
     {
       "added_at": "2023-11-15 02:04:48",

@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Every Day Will Be Like A Holiday",
+        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "Every Day Will Be Like A Holiday",
+      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+    },
+    {
+      "album": {
         "name": "Falalala Falling",
         "url": "https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq"
       },

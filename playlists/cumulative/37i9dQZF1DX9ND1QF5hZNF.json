@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 253098,
       "name": "Barracudas",
       "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 226826,
       "name": "Disco en Egypte",
       "url": "https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 256266,
       "name": "Follow The Sun",
       "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
@@ -1543,6 +1543,36 @@
     },
     {
       "album": {
+        "name": "Hold You Again (feat. Jake Neumar)",
+        "url": "https://open.spotify.com/album/1iGEgt9TWGSchniRI2409r"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "Hold You Again (feat. Jake Neumar)",
+      "url": "https://open.spotify.com/track/4XZ6NQIPZ2LwFxxuB58X4M"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -1676,6 +1706,28 @@
       "duration_ms": 217000,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
+    },
+    {
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/3Md8pLB46iZi3fC5QURPnL"
+      },
+      "artists": [
+        {
+          "name": "XIXI",
+          "url": "https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw"
+        },
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252973,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/0XbMHMNMSvvKXthvVx7cN3"
     },
     {
       "album": {
@@ -2254,7 +2306,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 160624,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/2mI3ZYo3JogblyOx6zDXAZ"
@@ -2739,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
+    },
+    {
+      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
       },
@@ -2910,6 +2980,28 @@
       "duration_ms": 145846,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb"
+    },
+    {
+      "album": {
+        "name": "Shores",
+        "url": "https://open.spotify.com/album/4oNN8p7OSSqqw2hmWk7f6l"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Jai Cuzco",
+          "url": "https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/3YAvSNIF79oNAFEhmUAvvl"
     },
     {
       "album": {
@@ -3619,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "Wicked Games",
+        "url": "https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw"
+      },
+      "artists": [
+        {
+          "name": "Dj Youcef",
+          "url": "https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ"
+        },
+        {
+          "name": "Nicole Slack Jones",
+          "url": "https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
+    },
+    {
+      "album": {
         "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
         "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
       },
@@ -3804,7 +3918,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 182000,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd"

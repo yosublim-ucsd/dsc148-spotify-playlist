@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Come Up Kid",
+        "url": "https://open.spotify.com/album/1OOYRUliVouUyeqTDjTNB9"
+      },
+      "artists": [
+        {
+          "name": "Jax Hollow",
+          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237971,
+      "name": "Changing Suits",
+      "url": "https://open.spotify.com/track/5UG0YMXwPnszPDDW4DXtPB"
+    },
+    {
+      "album": {
         "name": "Cheats and Liars",
         "url": "https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll"
       },
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 244626,
       "name": "The Message",
       "url": "https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w"

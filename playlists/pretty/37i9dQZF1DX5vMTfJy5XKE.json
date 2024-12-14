@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Kesha",
-  "num_followers": 255095,
+  "num_followers": 256000,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ZYsgAAAAApr9hOqQUiE5M4YNtV+nu3",
+  "snapshot_id": "Z1yUBgAAAABztR1gcenljZJBGQFZWZu6",
   "tracks": [
     {
       "added_at": "2024-10-15 13:52:46",
@@ -107,6 +107,26 @@
       "duration_ms": 182040,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0"
+    },
+    {
+      "added_at": "2024-12-13 05:00:41",
+      "album": {
+        "name": "Xmas Time (with Kehlani)",
+        "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203984,
+      "name": "Xmas Time (with Kehlani)",
+      "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -217,6 +237,22 @@
       "url": "https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd"
     },
     {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/5x4kZsE0baLJGvBRvwzJfw"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 139119,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/5eeVwkTd86VGOd6EzEI5cR"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "December 25th",
@@ -279,6 +315,22 @@
       "duration_ms": 193623,
       "name": "Angels In The Snow - Discotastique! Mix",
       "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
+    },
+    {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Purple Snowflakes",
+        "url": "https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Purple Snowflakes",
+      "url": "https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl"
     },
     {
       "added_at": "2024-12-03 04:17:37",
@@ -397,6 +449,22 @@
       "url": "https://open.spotify.com/track/3mIFf7GhQcHH7EB3myFwvd"
     },
     {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 221555,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
+    },
+    {
       "added_at": "2024-12-09 02:40:50",
       "album": {
         "name": "Gift and a Curse",
@@ -461,6 +529,26 @@
       "url": "https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6"
     },
     {
+      "added_at": "2024-12-13 05:00:41",
+      "album": {
+        "name": "Give A Little Bit",
+        "url": "https://open.spotify.com/album/40iB8vxObWUVdhMxql2CF7"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/5Ot8hzyoaukTnF0uK58OH4"
+    },
+    {
       "added_at": "2024-12-03 04:17:37",
       "album": {
         "name": "Christmas To Me",
@@ -513,6 +601,22 @@
       "url": "https://open.spotify.com/track/6VSVF06i2NNFl9oE4uYzeD"
     },
     {
+      "added_at": "2024-12-13 05:00:41",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj"
+    },
+    {
       "added_at": "2024-11-25 20:30:37",
       "album": {
         "name": "HBM Presents: Sleigh The Holidays, Volume 1",
@@ -543,6 +647,22 @@
       "duration_ms": 178973,
       "name": "snow globe on an alien's desk",
       "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
+    },
+    {
+      "added_at": "2024-12-13 18:50:44",
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Naughty or Nice",
+      "url": "https://open.spotify.com/track/1WpC0DiH1Yv4AqULEU4tzZ"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -649,6 +769,22 @@
       "url": "https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L"
     },
     {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/2PWwDkD9V5MWSoBlX0rziA"
+      },
+      "artists": [
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1eoInJQ1yzpndxev5NLvH4"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Coco By The Fireplace",
@@ -695,6 +831,22 @@
       "duration_ms": 248867,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj"
+    },
+    {
+      "added_at": "2024-12-13 05:00:41",
+      "album": {
+        "name": "A Jaguar II Christmas: The Orchestral Arrangements",
+        "url": "https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 223032,
+      "name": "On My Mama (Christmas Medley)",
+      "url": "https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz"
     },
     {
       "added_at": "2024-12-06 05:13:39",
@@ -791,6 +943,26 @@
       "duration_ms": 241960,
       "name": "Kissing In the Cold - Mistletoe Version",
       "url": "https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae"
+    },
+    {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Santa why are you so late?",
+        "url": "https://open.spotify.com/album/3Ge8P2TnWLIuCcLqYOltMv"
+      },
+      "artists": [
+        {
+          "name": "XTIE",
+          "url": "https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9"
+        },
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Santa why are you so late?",
+      "url": "https://open.spotify.com/track/2NzSFSItoBGq8uhFlAIR7S"
     },
     {
       "added_at": "2024-09-27 18:53:35",
@@ -935,6 +1107,30 @@
       "duration_ms": 197285,
       "name": "It's The Holidays",
       "url": "https://open.spotify.com/track/13J6vlViMVXpEwyL4Fvhbs"
+    },
+    {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Christmas '24",
+        "url": "https://open.spotify.com/album/7foeVzrtz85zL7RgeuuMRg"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        },
+        {
+          "name": "Cxldaf",
+          "url": "https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS"
+        },
+        {
+          "name": "chandler in space",
+          "url": "https://open.spotify.com/artist/5jpKsn00STUBE2g1IBjVG6"
+        }
+      ],
+      "duration_ms": 144635,
+      "name": "Christmas '24",
+      "url": "https://open.spotify.com/track/7HCjziuytGlAhUGgg49dSH"
     },
     {
       "added_at": "2024-12-09 02:40:50",
@@ -1129,6 +1325,22 @@
       "url": "https://open.spotify.com/track/7gsRomf86DXkQPsFbUBSCm"
     },
     {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Nothing Like Christmas",
+        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 199415,
+      "name": "Nothing Like Christmas",
+      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
+    },
+    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Amelia (A Christmas Carol)",
@@ -1159,6 +1371,22 @@
       "duration_ms": 148745,
       "name": "Go Tell 'Em",
       "url": "https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG"
+    },
+    {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "Every Day Will Be Like A Holiday",
+        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Every Day Will Be Like A Holiday",
+      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1307,6 +1535,26 @@
       "duration_ms": 144094,
       "name": "Time of Year",
       "url": "https://open.spotify.com/track/1p2dVkuarZghnS2Y4zaWm2"
+    },
+    {
+      "added_at": "2024-12-13 20:07:34",
+      "album": {
+        "name": "The Hardest Christmas",
+        "url": "https://open.spotify.com/album/5iXtKVgQ7IEDiP2Tbfrbf1"
+      },
+      "artists": [
+        {
+          "name": "Karl Wolf",
+          "url": "https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7"
+        },
+        {
+          "name": "Dani Doucette",
+          "url": "https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "The Hardest Christmas",
+      "url": "https://open.spotify.com/track/5UE1Wiv2PcmKq9I9lDNLeO"
     },
     {
       "added_at": "2024-12-03 04:17:37",

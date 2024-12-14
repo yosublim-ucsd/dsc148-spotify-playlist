@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Frozen In Time",
+        "url": "https://open.spotify.com/album/1kNKZoWQpw93UtwWWOf1z0"
+      },
+      "artists": [
+        {
+          "name": "Stephen Mougin",
+          "url": "https://open.spotify.com/artist/4D7CQP2rjJJMajovIOE6Su"
+        },
+        {
+          "name": "Jana Mougin",
+          "url": "https://open.spotify.com/artist/5N2V3JO6Le4Vu2sKeHRfPS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220853,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/7nS3cOYWfmvSVCBGS3r0QY"
+    },
+    {
+      "album": {
         "name": "Getting Ready for a Baby",
         "url": "https://open.spotify.com/album/5GvepOT5o7dpcZZxFKH3m7"
       },
@@ -1335,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Pretty Paper",
+        "url": "https://open.spotify.com/album/2zzkF6m4j5hfD6VlB39Vul"
+      },
+      "artists": [
+        {
+          "name": "Rock Hearts",
+          "url": "https://open.spotify.com/artist/0F08h4qXuVAPyoAvasgxZF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252775,
+      "name": "Pretty Paper",
+      "url": "https://open.spotify.com/track/3Osls7d3mYWyURMlIbtUjW"
+    },
+    {
+      "album": {
         "name": "Tinsel Tunes - More Holiday Treats From Sugar Hill",
         "url": "https://open.spotify.com/album/1r9igVbo3vaHZcYp93Zdei"
       },
@@ -1755,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Is it Christmas Yet?",
+        "url": "https://open.spotify.com/album/0oAWk3IeZV5XnmOCVkZzs1"
+      },
+      "artists": [
+        {
+          "name": "New Direction",
+          "url": "https://open.spotify.com/artist/1ZQaFElI3bcS8iO1FxOB6q"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229459,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/2bZWdzlwiKDGmqZyJZ13Ue"
+    },
+    {
+      "album": {
         "name": "The Polar Express",
         "url": "https://open.spotify.com/album/6WPPYnLZGyJOY8BNxlf0xv"
       },
@@ -1900,6 +1958,24 @@
       "duration_ms": 173933,
       "name": "What Child Is This - Instrumental",
       "url": "https://open.spotify.com/track/6IvGQ994ZN0CNe8tq5xnD2"
+    },
+    {
+      "album": {
+        "name": "What Child Is This?",
+        "url": "https://open.spotify.com/album/3JY10gt0CoSIbEsP4GTW09"
+      },
+      "artists": [
+        {
+          "name": "Lake & Lyndale",
+          "url": "https://open.spotify.com/artist/76p1C2mok3bS6Ae6kwmvNR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/0TmKp2NWrIbhJZZB7LtRln"
     },
     {
       "album": {

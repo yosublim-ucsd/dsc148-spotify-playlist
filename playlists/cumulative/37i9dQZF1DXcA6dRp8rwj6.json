@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Hanumankind)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Snoop Dogg)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -939,6 +939,32 @@
     },
     {
       "album": {
+        "name": "2HII",
+        "url": "https://open.spotify.com/album/2sYRcSfLpSpC5CCNNnlwtz"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "2HII",
+      "url": "https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l"
+    },
+    {
+      "album": {
         "name": "Non-Perishable",
         "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
       },
@@ -958,6 +984,28 @@
       "duration_ms": 194172,
       "name": "2hrs+ (feat. T-Pain)",
       "url": "https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq"
+    },
+    {
+      "album": {
+        "name": "2s n 3s (Solo)",
+        "url": "https://open.spotify.com/album/55WeVsnE7WMsrQKtuwpNCZ"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108613,
+      "name": "2s n 3s - Solo",
+      "url": "https://open.spotify.com/track/42ZRAfQJP1OOwCraHo3RWz"
     },
     {
       "album": {
@@ -7931,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum Bum",
+        "url": "https://open.spotify.com/album/4eJJ37bgIr7iS0ObzemRch"
+      },
+      "artists": [
+        {
+          "name": "BAER",
+          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145411,
+      "name": "Bubblegum Bum",
+      "url": "https://open.spotify.com/track/2G4iQolFTsxCx3ZwAHQNiy"
+    },
+    {
+      "album": {
         "name": "BUCHINUKERU",
         "url": "https://open.spotify.com/album/3dNldcT6rr3YF24ULEsIru"
       },
@@ -10342,7 +10408,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 160500,
       "name": "Come Outside (So Sick)",
       "url": "https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9"
@@ -11212,7 +11278,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 176105,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
@@ -18252,7 +18318,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 200263,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/1aRK7uJ0nfAvf1JJOfxCYm"
@@ -19181,6 +19247,28 @@
     },
     {
       "album": {
+        "name": "HANDLING BUSINESS (with Tory Lanez)",
+        "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "HANDLING BUSINESS (with Tory Lanez)",
+      "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
+    },
+    {
+      "album": {
         "name": "HANDSOME",
         "url": "https://open.spotify.com/album/4cFVHMqi4KvkOrb6zlhdvT"
       },
@@ -19880,7 +19968,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 207501,
       "name": "Hide It (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
@@ -20662,7 +20750,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 148645,
       "name": "HOODRAT",
       "url": "https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ"
@@ -23266,7 +23354,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 195953,
       "name": "It",
       "url": "https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP"
@@ -24636,7 +24724,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 141131,
       "name": "KNOCK YA SONIC RINGS",
       "url": "https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh"
@@ -26825,6 +26913,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
         "name": "LUXURY LIFE (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a"
       },
@@ -27786,7 +27896,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 139534,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/37JNNALNVizqHTzclhBz8V"
@@ -28670,6 +28780,32 @@
       "duration_ms": 163780,
       "name": "MING LING (feat. Yung Raja)",
       "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
+    },
+    {
+      "album": {
+        "name": "The World Changed On Me",
+        "url": "https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Mini Birki",
+      "url": "https://open.spotify.com/track/1DvTZSxTgY7UqHknm5YDaK"
     },
     {
       "album": {
@@ -29968,7 +30104,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 172106,
       "name": "Nachos",
       "url": "https://open.spotify.com/track/1lo4xyLFWHNRVJKLbKi4FZ"
@@ -35270,7 +35406,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 138441,
       "name": "Poland Spring",
       "url": "https://open.spotify.com/track/2qoaHCjTVSHclJJvkhjUeb"
@@ -35412,7 +35548,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/1HEPfv1KllCYnVC1VmcpgD"
@@ -38874,7 +39010,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 140000,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/3F2v7KHRvsfwwTZpOFs18y"
@@ -41367,6 +41503,28 @@
     },
     {
       "album": {
+        "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110302,
+      "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
+    },
+    {
+      "album": {
         "name": "More ROSES",
         "url": "https://open.spotify.com/album/3iXrx5OYr5Wr7wApEE5XlE"
       },
@@ -43276,7 +43434,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 141686,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/0J6v4qW2Ms9HWDWneTPF5k"
@@ -44779,6 +44937,28 @@
     },
     {
       "album": {
+        "name": "TANTRUM",
+        "url": "https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "TANTRUM",
+      "url": "https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE"
+    },
+    {
+      "album": {
         "name": "Joy Ride (Official Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1h7HkNGf67SZvKNJ54FZF8"
       },
@@ -44842,7 +45022,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 184520,
       "name": "TEAM TOMODACHI - WILL SMITH REMIX",
       "url": "https://open.spotify.com/track/0hG608Ya6NPMIRa1Hvepl7"
@@ -45284,6 +45464,28 @@
       "duration_ms": 254347,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs"
+    },
+    {
+      "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163722,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
     },
     {
       "album": {
@@ -46639,6 +46841,24 @@
     },
     {
       "album": {
+        "name": "Thug Memorials",
+        "url": "https://open.spotify.com/album/6bRyQTTn5IqTPswEauFAoV"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "Thug Memorials",
+      "url": "https://open.spotify.com/track/6k3FXZe2ksgjMUFAN4VUEv"
+    },
+    {
+      "album": {
         "name": "thursday! (feat. KYLE & Guapdad 4000)",
         "url": "https://open.spotify.com/album/6QjWi6Dd95Ter8zwnbxZzY"
       },
@@ -47643,6 +47863,32 @@
     },
     {
       "album": {
+        "name": "TRACK D",
+        "url": "https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB"
+      },
+      "artists": [
+        {
+          "name": "DAC",
+          "url": "https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
+        },
+        {
+          "name": "Mary Sue",
+          "url": "https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130996,
+      "name": "TRACK D",
+      "url": "https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq"
+    },
+    {
+      "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
       },
@@ -48303,6 +48549,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "album": {
         "name": "Twin (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz"
       },
@@ -48886,6 +49154,36 @@
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
+      "album": {
+        "name": "Let Us Pray: Chapter X",
+        "url": "https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "Until I\u2019m Gone",
+      "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
     },
     {
       "album": {
@@ -52114,6 +52412,28 @@
       "duration_ms": 186280,
       "name": "X-Wing - Cold Blooded Soul Version",
       "url": "https://open.spotify.com/track/2GzUm7Ps1WbaiMiSY7CY0S"
+    },
+    {
+      "album": {
+        "name": "Xmas Time (with Kehlani)",
+        "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203984,
+      "name": "Xmas Time (with Kehlani)",
+      "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
       "album": {

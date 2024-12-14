@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Yami Safdie & Q\u00b4 Lokura.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 158195,
       "name": "Dame",
       "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
@@ -2699,6 +2699,32 @@
     },
     {
       "album": {
+        "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+        "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+      "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
+    },
+    {
+      "album": {
         "name": "Enfrentados",
         "url": "https://open.spotify.com/album/7F6CpxCSP813AHoBml1pGl"
       },
@@ -3276,6 +3302,24 @@
       "duration_ms": 122985,
       "name": "Hasta la Madre",
       "url": "https://open.spotify.com/track/1HBZMNyfxINzHjfkqSPmDx"
+    },
+    {
+      "album": {
+        "name": "Hasta Que Te Conoci",
+        "url": "https://open.spotify.com/album/5Y9VVWPYWobRe8eDtD7II1"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167680,
+      "name": "Hasta Que Te Conoci",
+      "url": "https://open.spotify.com/track/47Jer41va3Qk9gDQHTCtns"
     },
     {
       "album": {

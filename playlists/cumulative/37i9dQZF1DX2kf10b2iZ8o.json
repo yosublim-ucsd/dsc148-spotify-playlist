@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 257626,
       "name": "ASTERISK",
       "url": "https://open.spotify.com/track/71jyefeEadd0UsFqQ6heNy"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 284946,
       "name": "Caf\u00e9 Parade!",
       "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 273866,
       "name": "Growing Smiles\uff01",
       "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 252546,
       "name": "ONE to DREAM\uff01",
       "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 281334,
       "name": "OUR SONG -\u305d\u308c\u306f\u4e16\u754c\u3067\u3072\u3068\u3064\u3060\u3051-",
       "url": "https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2"
@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a03 Jupiter",
+        "url": "https://open.spotify.com/album/41FMIe73fP3RyJlue8Gpzk"
+      },
+      "artists": [
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Radiant Letter",
+      "url": "https://open.spotify.com/track/40R5PKT1WKL8W0k9bJB4So"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 309866,
       "name": "Resonate Blessing",
       "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 234120,
       "name": "SASH OF SMILE",
       "url": "https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS"
@@ -2641,12 +2659,12 @@
       "artists": [
         {
           "name": "W",
-          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
+          "url": "https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 271640,
       "name": "VICTORY BELIEVER",
       "url": "https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l"
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 298600,
       "name": "\u591c\u7a7a\u3092\u714c\u3081\u304f\u661f\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD"

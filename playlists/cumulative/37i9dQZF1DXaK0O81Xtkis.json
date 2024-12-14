@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: KAIRO",
+  "description": "a little indie, a little pop.  Cover: Malcolm Todd",
   "name": "soda",
   "tracks": [
     {
@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5"
       },
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 179666,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
@@ -3143,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "the nostalgia tapes 1",
+        "url": "https://open.spotify.com/album/0OvGSbaiPDVpC6d01KO2pI"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "caught in the middle",
+      "url": "https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH"
+    },
+    {
+      "album": {
         "name": "Chameleon Lover",
         "url": "https://open.spotify.com/album/3s1TqGIRD59nGuxmx2tUfO"
       },
@@ -3338,6 +3374,24 @@
       "duration_ms": 181058,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf"
+    },
+    {
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "album": {
@@ -3797,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner",
+        "url": "https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
+    },
+    {
+      "album": {
         "name": "crush ep",
         "url": "https://open.spotify.com/album/0wAREY5FAZoaJxOO4hMRRD"
       },
@@ -3862,7 +3934,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199666,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/0IX0wJhC4YKzQIluzeaIgY"
@@ -4024,7 +4096,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 144570,
       "name": "Count of 3",
       "url": "https://open.spotify.com/track/4pTjnzwlqVtQ3Im39sYfpQ"
@@ -4338,7 +4410,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180911,
       "name": "Cuts Deep",
       "url": "https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3"
@@ -7372,7 +7444,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 193733,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/77QJ5XgcdiTRvAZNEzjupy"
@@ -7480,7 +7552,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 203908,
       "name": "Ground Control",
       "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
@@ -7758,7 +7830,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199878,
       "name": "Hardcore Romance",
       "url": "https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD"
@@ -8523,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "Home Soon (Sober)",
+        "url": "https://open.spotify.com/album/4OJvbhCGjRcR17jbGIXbuA"
+      },
+      "artists": [
+        {
+          "name": "MYMA",
+          "url": "https://open.spotify.com/artist/6rkLiFPjgyQ5VDm16CNCWX"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Home Soon (Sober)",
+      "url": "https://open.spotify.com/track/2VH74nrBunOWUEyTOjfsHD"
+    },
+    {
+      "album": {
         "name": "Are We Going Too Slow?",
         "url": "https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve"
       },
@@ -8898,7 +8988,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 163866,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU"
@@ -10012,7 +10102,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167500,
       "name": "In His Room",
       "url": "https://open.spotify.com/track/22O3nWcyenKVftNJrJdJK6"
@@ -10320,6 +10410,24 @@
       "duration_ms": 160680,
       "name": "Japanese Cafe",
       "url": "https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo"
+    },
+    {
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/0qLz8pQ964IpX7iCgJULnL"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX"
     },
     {
       "album": {
@@ -10760,7 +10868,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 175443,
       "name": "KINDA NERVOUS",
       "url": "https://open.spotify.com/track/2KMtIr4ct0FxKeui6w7OEY"
@@ -10904,7 +11012,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 150000,
       "name": "Kissing With The Top Down",
       "url": "https://open.spotify.com/track/61DXMHecFU9pzs7JGc8uIU"
@@ -11513,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "Little Acts Of Violence",
+        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Little Acts Of Violence",
+      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
+    },
+    {
+      "album": {
         "name": "Little Dance",
         "url": "https://open.spotify.com/album/055AC8EnLHj4BCuQZfKaQU"
       },
@@ -11784,6 +11910,28 @@
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "album": {
+        "name": "i don't want you to miss this",
+        "url": "https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p"
+      },
+      "artists": [
+        {
+          "name": "Wells*",
+          "url": "https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41"
+        },
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158540,
+      "name": "Lose My Lines",
+      "url": "https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN"
     },
     {
       "album": {
@@ -15160,7 +15308,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199686,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/3YiPmphe3vNeO2RLg6QGhQ"
@@ -16180,6 +16328,24 @@
       "duration_ms": 219175,
       "name": "September Baby",
       "url": "https://open.spotify.com/track/5QlhAs2Xud8nAIGLEmL9I3"
+    },
+    {
+      "album": {
+        "name": "Seth Cohen",
+        "url": "https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130043,
+      "name": "Seth Cohen",
+      "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
     },
     {
       "album": {
@@ -17281,6 +17447,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0vhRqCFFvypHxqaRgwsENo"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182646,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6XmeTmOZx0PPXG5tvVIUou"
+    },
+    {
+      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk"
       },
@@ -18174,6 +18358,24 @@
       "duration_ms": 136940,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135356,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP"
     },
     {
       "album": {
@@ -19783,6 +19985,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/5JMEkkyal1BkdnChE76AzY"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0OUyKkP7ZWv0RgiGur1cCR"
+    },
+    {
+      "album": {
         "name": "Turtleneck",
         "url": "https://open.spotify.com/album/7mZZf1EqXH17Pbo7QKmZms"
       },
@@ -20062,6 +20282,24 @@
       "duration_ms": 180000,
       "name": "Used To Be Happy",
       "url": "https://open.spotify.com/track/3ViOvmmajqs6me31ywndGn"
+    },
+    {
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/2GJSjw35Tg160YolsMsM9d"
+      },
+      "artists": [
+        {
+          "name": "Noshows",
+          "url": "https://open.spotify.com/artist/3I1bugBTEN3jESl6XJqQ3d"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/3sJR7tgG3DbrE8pEsAM6h0"
     },
     {
       "album": {
@@ -21696,7 +21934,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 220645,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"

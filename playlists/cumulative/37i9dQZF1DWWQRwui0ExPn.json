@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 135000,
       "name": "Affogato",
       "url": "https://open.spotify.com/track/19sSqqjAk7x3VBLovfOvl6"
@@ -9584,7 +9584,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 109714,
       "name": "badhamia",
       "url": "https://open.spotify.com/track/4RTXyKPBPov8ymOJpYp5oO"
@@ -19387,6 +19387,24 @@
     },
     {
       "album": {
+        "name": "carmeo",
+        "url": "https://open.spotify.com/album/3eyAqUlNUt7FivMPCuzxnL"
+      },
+      "artists": [
+        {
+          "name": "tides.",
+          "url": "https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "carmeo",
+      "url": "https://open.spotify.com/track/1TF4yIVyMM85Yvf1hzFQ19"
+    },
+    {
+      "album": {
         "name": "Carnaval",
         "url": "https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO"
       },
@@ -21972,7 +21990,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 124715,
       "name": "chuli",
       "url": "https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH"
@@ -23354,7 +23372,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 107408,
       "name": "Coastal",
       "url": "https://open.spotify.com/track/2zI8kItxIqtyFYfFsy3ngx"
@@ -23536,7 +23554,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 120000,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9"
@@ -26870,6 +26888,24 @@
       "duration_ms": 107586,
       "name": "Crash Test Yummy",
       "url": "https://open.spotify.com/track/4wZVU5RbMuZOocyxKJBEzu"
+    },
+    {
+      "album": {
+        "name": "Cravings",
+        "url": "https://open.spotify.com/album/43lOBGipdW67cyPimSHAi7"
+      },
+      "artists": [
+        {
+          "name": "aunt",
+          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Cravings",
+      "url": "https://open.spotify.com/track/4zPbaRllPEdrihvG5zahkZ"
     },
     {
       "album": {
@@ -43807,6 +43843,24 @@
     },
     {
       "album": {
+        "name": "formula",
+        "url": "https://open.spotify.com/album/1qkZeHjI05PvqnOM9i4nRl"
+      },
+      "artists": [
+        {
+          "name": "sunala.",
+          "url": "https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "formula",
+      "url": "https://open.spotify.com/track/4LuNorhOQh3Gkzff1a6kzD"
+    },
+    {
+      "album": {
         "name": "Forrest",
         "url": "https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY"
       },
@@ -54108,7 +54162,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 157894,
       "name": "Hotaru",
       "url": "https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS"
@@ -64132,7 +64186,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 154729,
       "name": "Laid-Back Skylines",
       "url": "https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S"
@@ -65544,6 +65598,28 @@
       "duration_ms": 87798,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/4ihywQdU8EzdyOkQkjRbvH"
+    },
+    {
+      "album": {
+        "name": "In Thought",
+        "url": "https://open.spotify.com/album/2Eq6cI2VWHVaJXNfYBetZv"
+      },
+      "artists": [
+        {
+          "name": "h00t",
+          "url": "https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149620,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/3tAqjc3xJHzdiCH33j9crl"
     },
     {
       "album": {
@@ -72416,7 +72492,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 138461,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/4Uarh7qmq8Irt4xbECXF1Q"
@@ -83364,6 +83440,24 @@
       "duration_ms": 82500,
       "name": "nightshift (red wine and cigs)",
       "url": "https://open.spotify.com/track/55vo6aUFx7en3lD2uX6O9B"
+    },
+    {
+      "album": {
+        "name": "nightvibez",
+        "url": "https://open.spotify.com/album/3HD0qURo2Zuwp5hjiJzSqX"
+      },
+      "artists": [
+        {
+          "name": "l\u00e9as solais",
+          "url": "https://open.spotify.com/artist/7aouqwzBGXsBzUT9F4Ye24"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141408,
+      "name": "nightvibez",
+      "url": "https://open.spotify.com/track/1SLlIviQNwOqyJ5pPMZ0pn"
     },
     {
       "album": {
@@ -98884,7 +98978,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 155076,
       "name": "Ride with me",
       "url": "https://open.spotify.com/track/2MyAgFqKfnko9vAj0zGyzr"
@@ -116310,7 +116404,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 152321,
       "name": "Sunny Side Up",
       "url": "https://open.spotify.com/track/0KS5FYN8aItb1Gc3gX2Wqn"
@@ -118331,6 +118425,24 @@
     },
     {
       "album": {
+        "name": "take it back",
+        "url": "https://open.spotify.com/album/0vtBzeR0BTiSnCSr39bopp"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "take it back",
+      "url": "https://open.spotify.com/track/3WNpPSLZ9Hmm2Wpaoad95v"
+    },
+    {
+      "album": {
         "name": "Take It Off",
         "url": "https://open.spotify.com/album/04FXp6WcbQ13BZGnhUzmHL"
       },
@@ -120222,6 +120334,24 @@
       "duration_ms": 82962,
       "name": "The Best Moment",
       "url": "https://open.spotify.com/track/6gIPjfVx0TRu7OQYgGAS9M"
+    },
+    {
+      "album": {
+        "name": "The Big Apple",
+        "url": "https://open.spotify.com/album/4L7cDeQPHCV85gNMZRfT8D"
+      },
+      "artists": [
+        {
+          "name": "Wibke Komi",
+          "url": "https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120823,
+      "name": "The Big Apple",
+      "url": "https://open.spotify.com/track/2dmlcVftNwXCIviTTUMEEO"
     },
     {
       "album": {
@@ -126266,7 +126396,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 117166,
       "name": "twilight",
       "url": "https://open.spotify.com/track/2OUeCZDVB8jwag1fYT5fFI"
@@ -126854,6 +126984,24 @@
       "duration_ms": 155200,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/7aoqkrr7KnKFMStwE6DGa7"
+    },
+    {
+      "album": {
+        "name": "Umbria",
+        "url": "https://open.spotify.com/album/2C4hrSybOvug3T9hMAEp3d"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "Umbria",
+      "url": "https://open.spotify.com/track/1o3ZiNEWLfOlb0Be2X4KbJ"
     },
     {
       "album": {
@@ -134758,6 +134906,24 @@
       "duration_ms": 169756,
       "name": "Windermere Parkway",
       "url": "https://open.spotify.com/track/0SqoUKHpyVBdpHncwFukRP"
+    },
+    {
+      "album": {
+        "name": "Windmill",
+        "url": "https://open.spotify.com/album/27pD2gQL69w78Wtf9CbjUa"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121209,
+      "name": "Windmill",
+      "url": "https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK"
     },
     {
       "album": {

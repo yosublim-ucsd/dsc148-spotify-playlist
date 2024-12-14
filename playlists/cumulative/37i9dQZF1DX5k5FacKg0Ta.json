@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "Aallot",
+        "url": "https://open.spotify.com/album/5UFFKOiX4rD8GUwQe7yuXy"
+      },
+      "artists": [
+        {
+          "name": "Harri Kuusijarvi",
+          "url": "https://open.spotify.com/artist/0IuFAEjU3JdV70Ga2kXONh"
+        },
+        {
+          "name": "Jori Huhtala",
+          "url": "https://open.spotify.com/artist/6lgNnlT4ua03OwPYYfPT9p"
+        },
+        {
+          "name": "Mika Kallio",
+          "url": "https://open.spotify.com/artist/15PKL5emxTFFIHlztZ8fBU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409500,
+      "name": "Aallot",
+      "url": "https://open.spotify.com/track/7IkfgPffVPqS7nziNSgFaY"
+    },
+    {
+      "album": {
         "name": "Aava",
         "url": "https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH"
       },
@@ -158,7 +184,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 230413,
       "name": "Addis",
       "url": "https://open.spotify.com/track/36lkRyKb03oHDeYM5ddAhY"
@@ -718,6 +744,24 @@
       "duration_ms": 332119,
       "name": "Bodily Synesthesia",
       "url": "https://open.spotify.com/track/29o3RoZ4RqD47HoPlaZ3Fy"
+    },
+    {
+      "album": {
+        "name": "Boondocks",
+        "url": "https://open.spotify.com/album/1GwdlQrOGHWkrKmC0HAMvr"
+      },
+      "artists": [
+        {
+          "name": "Bronze, Silver & Brass",
+          "url": "https://open.spotify.com/artist/5oNGOO1GTfottL7jRPUlvh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162028,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/26j77p9yGgPu6fyI6mk6jo"
     },
     {
       "album": {
@@ -2121,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Infinite Fields",
+        "url": "https://open.spotify.com/album/6VnPLovCOjCLnXjBhcfm84"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145735,
+      "name": "Infinite Fields",
+      "url": "https://open.spotify.com/track/2QTmT7eLvSZspieHjnktwS"
+    },
+    {
+      "album": {
         "name": "Circus/Citadel",
         "url": "https://open.spotify.com/album/1b0W2gMVRQEFW5ITFt25EZ"
       },
@@ -2666,6 +2728,28 @@
       "duration_ms": 339308,
       "name": "Laertes in Love",
       "url": "https://open.spotify.com/track/5hcRpnSIeVdAmc7REWOrYX"
+    },
+    {
+      "album": {
+        "name": "Lepoa",
+        "url": "https://open.spotify.com/album/6YTBF5Nv7t8sliC2Qmq0jR"
+      },
+      "artists": [
+        {
+          "name": "Herd",
+          "url": "https://open.spotify.com/artist/4Ai3fTyN3aG8QoalEbhlXA"
+        },
+        {
+          "name": "Panu Savolainen",
+          "url": "https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lepoa",
+      "url": "https://open.spotify.com/track/0FbNo1wb1Mj2dZQFAUzPAM"
     },
     {
       "album": {

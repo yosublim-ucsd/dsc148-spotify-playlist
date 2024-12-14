@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 152708,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n"
@@ -7838,6 +7838,24 @@
       "duration_ms": 183988,
       "name": "Sweet Summer Sweat (feat. Dijon)",
       "url": "https://open.spotify.com/track/5nXlzzcYn5e5irdmO6eJQo"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208493,
+      "name": "sweetener",
+      "url": "https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH"
     },
     {
       "album": {

@@ -1,13 +1,117 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 37810,
+  "num_followers": 37864,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KRswAAAAB2r6Xm9OFsZ/c/5utR5bsK",
+  "snapshot_id": "Z1u/XAAAAAD45EYdvF3hY4GYA1ecIExp",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "One Talk at a Time",
+        "url": "https://open.spotify.com/album/0B2RIp28BPfFOlu49PgOQe"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "duration_ms": 169585,
+      "name": "One Talk at a Time",
+      "url": "https://open.spotify.com/track/1WaAMXC7V1lG0g8gEWhTNS"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "10 Years of Curiosity",
+        "url": "https://open.spotify.com/album/1y0wRZBLHaq5Mac8ekav5R"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Pillow Fort Song",
+      "url": "https://open.spotify.com/track/0IHRM0JHDKNgae74AP6Tp8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "Bananaphone",
+        "url": "https://open.spotify.com/album/1tJl6QYjJZCCobvBQ3M7ZM"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "duration_ms": 89857,
+      "name": "Bananaphone",
+      "url": "https://open.spotify.com/track/48y8ae79zMBP4ocadUCjd5"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "There Ain\u2019t No Bugs On Me (Master Takes)",
+        "url": "https://open.spotify.com/album/1yYh3QX0cRRcmfc0qcSBf0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 270727,
+      "name": "There Ain\u2019t No Bugs On Me - Master Takes",
+      "url": "https://open.spotify.com/track/0XTuvvAoN7D1ckJceXTyf8"
+    },
     {
       "added_at": "2024-12-06 05:54:59",
       "album": {

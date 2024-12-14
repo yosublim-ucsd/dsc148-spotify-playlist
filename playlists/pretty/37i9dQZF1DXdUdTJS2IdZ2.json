@@ -339,6 +339,22 @@
     {
       "added_at": "2024-12-12 16:00:18",
       "album": {
+        "name": "Kill Me Slow",
+        "url": "https://open.spotify.com/album/2hoPLa7h0JO2LagZPn1HrK"
+      },
+      "artists": [
+        {
+          "name": "Kyotoh Gloom",
+          "url": "https://open.spotify.com/artist/11fIKa1fUZ3hGm6nDJbivx"
+        }
+      ],
+      "duration_ms": 116962,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/1lUmOXKK9OU4WSgj5Fdh2Z"
+    },
+    {
+      "added_at": "2024-12-12 16:00:18",
+      "album": {
         "name": "\u5f7c\u6b64\u7684\u67b7\u9396",
         "url": "https://open.spotify.com/album/5piw0alwpO58tkuOeS4h4X"
       },

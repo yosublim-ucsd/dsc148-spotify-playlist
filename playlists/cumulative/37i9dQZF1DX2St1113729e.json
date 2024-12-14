@@ -4741,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "LUNA DE MIEL",
+        "url": "https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128673,
+      "name": "LUNA DE MIEL",
+      "url": "https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj"
+    },
+    {
+      "album": {
         "name": "lunes feriadooOoOO",
         "url": "https://open.spotify.com/album/3xRz4isWgel5QCPsbcwKs2"
       },
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 151724,
       "name": "RADIKKHAL",
       "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"

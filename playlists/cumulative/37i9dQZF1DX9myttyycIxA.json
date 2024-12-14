@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: mary in the junkyard",
+  "description": "Underground indie rock gems. Cover: Camille Schmidt",
   "name": "undercurrents",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 197688,
       "name": "2468",
       "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 188763,
       "name": "CARRY YOU",
       "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "cologne",
+        "url": "https://open.spotify.com/album/2HLpuysL6V8WakyZycaMfJ"
+      },
+      "artists": [
+        {
+          "name": "Gloom East",
+          "url": "https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177726,
+      "name": "cologne",
+      "url": "https://open.spotify.com/track/7hE2DkwKFvBVUdJBNk6CT7"
+    },
+    {
+      "album": {
         "name": "Colonel",
         "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
       },
@@ -4686,7 +4704,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 161389,
       "name": "Colonel",
       "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
@@ -6412,6 +6430,24 @@
       "duration_ms": 171345,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
+    },
+    {
+      "album": {
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
     },
     {
       "album": {
@@ -8596,7 +8632,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 252437,
       "name": "Foolish and Fast",
       "url": "https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN"
@@ -10366,7 +10402,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 193106,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/47awv4QA2E9FaH0ZBMZHoh"
@@ -12912,6 +12948,24 @@
       "duration_ms": 172615,
       "name": "Judy Gnarland",
       "url": "https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk"
+    },
+    {
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277199,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f"
     },
     {
       "album": {
@@ -15474,7 +15528,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 296413,
       "name": "Mudglimmer",
       "url": "https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC"
@@ -15958,7 +16012,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 146000,
       "name": "Nice enough words",
       "url": "https://open.spotify.com/track/2N8k0QJ4tGJitOywToZBKg"
@@ -16048,7 +16102,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 175029,
       "name": "Nightvision",
       "url": "https://open.spotify.com/track/5QwuhBa8X0K2ZszcYcnuMu"
@@ -18438,7 +18492,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 230133,
       "name": "RITUAL",
       "url": "https://open.spotify.com/track/73jzXeG2NBl4F7LcqhbSJi"
@@ -20949,6 +21003,24 @@
     },
     {
       "album": {
+        "name": "Stanley",
+        "url": "https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV"
+      },
+      "artists": [
+        {
+          "name": "Camille Schmidt",
+          "url": "https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173757,
+      "name": "Stanley",
+      "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG"
       },
@@ -21818,7 +21890,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 234386,
       "name": "Taking One For The Team",
       "url": "https://open.spotify.com/track/1nJjKIoDhEobvLXU3isiEQ"
@@ -24238,7 +24310,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/093h09L86XdJXkAOQcXMrk"
@@ -25964,7 +26036,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 209047,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8"

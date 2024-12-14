@@ -1,13 +1,29 @@
 {
   "description": "Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.",
-  "num_followers": 41888,
+  "num_followers": 41887,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAa1xF+r6g5PEjnry/1/UmdEpLXx6S5",
+  "snapshot_id": "AAAa2WYGWujHcXOvOicAiu6bMO8ZyigB",
   "tracks": [
+    {
+      "added_at": "2024-12-13 23:18:50",
+      "album": {
+        "name": "RIO FREE",
+        "url": "https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 200393,
+      "name": "RIO FREE",
+      "url": "https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU"
+    },
     {
       "added_at": "2024-12-09 19:28:00",
       "album": {

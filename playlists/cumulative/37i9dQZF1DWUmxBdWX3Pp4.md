@@ -4,7 +4,7 @@
 
 > Éxitos del trap latino con Nicki Nicole.
 
-503 songs - 1 day 4 hr 17 min
+504 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Roma](https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [R.J.Ä](https://open.spotify.com/artist/3Q8bocv6goyDOaHXauuYp8), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Roma](https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt) | 3:30 | 2022-04-01 | 2022-06-04 |
 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 | 2022-04-15 | 2022-06-04 |
 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 | 2022-03-04 | 2022-06-04 |
+| [Ruleta](https://open.spotify.com/track/3Vv3mvIbY45MFMowOz4odr) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Ruleta](https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0) | 2:21 | 2024-12-13 |  |
 | [Samuleto](https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:13 | 2023-06-16 | 2023-10-14 |
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2021-12-06 | 2022-04-16 |
 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 | 2022-04-15 | 2022-06-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: David Bisbal",
+  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Maria Becerra",
   "name": "Feliz Navidad",
   "tracks": [
     {
@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "sometimes nice, sometimes naughty...",
+        "url": "https://open.spotify.com/album/0xUFbpqD7FlAbDuxzTmEPJ"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "blanca navidad",
+      "url": "https://open.spotify.com/track/7rFtxRjriQtDsNdxXhU6mo"
+    },
+    {
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215064,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"

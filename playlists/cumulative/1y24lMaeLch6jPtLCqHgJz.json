@@ -3907,6 +3907,28 @@
     },
     {
       "album": {
+        "name": "I Feel Love",
+        "url": "https://open.spotify.com/album/0WckbkeFFFFVEQ5Bokzpit"
+      },
+      "artists": [
+        {
+          "name": "CALVO",
+          "url": "https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1yXRhSbPThZreJ3lU3YZsf"
+    },
+    {
+      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/2SWGyWmPsSXbdhHUxlcdDk"
       },

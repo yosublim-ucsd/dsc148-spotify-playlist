@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=rRv8maRWSj6tgyaD4zkUcw">Dodo Nyoka</a>
 
-1,434 songs - 3 day 7 hr 53 min
+1,435 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Altyd Myne \- ZAMJAM Remix](https://open.spotify.com/track/6XmrKWBIeQ8kNUP31gSmb7) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Altyd Myne \(ZAMJAM Remix\)](https://open.spotify.com/album/528u1sYradRUp1QpoYzGsM) | 3:36 | 2024-05-23 | 2024-07-05 |
 | [Alweer](https://open.spotify.com/track/7yottsQJIaArBTpeRnvMNJ) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Alweer](https://open.spotify.com/album/1TkhtDNjO0gWlPfFA1Ygxq) | 2:20 | 2023-01-19 | 2023-02-03 |
 | [Alweer in Verkeer](https://open.spotify.com/track/4rEEHKOLiSR3f7mc285lQi) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Alweer in Verkeer](https://open.spotify.com/album/2sklSOtikCE5w4Pd3u5vaN) | 2:21 | 2024-07-04 | 2024-07-12 |
+| [Amapiano in Afrikaans](https://open.spotify.com/track/7LzSas4pgmihGZfQgKHM9F) | [Perfect Tz](https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9), [JEM\-T](https://open.spotify.com/artist/7hnCstoS5yJ6iLU9jPFb6N) | [Amapiano in Afrikaans](https://open.spotify.com/album/10Olzj6Ztc8BochBQn90VH) | 3:19 | 2024-12-12 |  |
 | [Amper Daar](https://open.spotify.com/track/2ftyiIC6MvSqIAn7JatorV) | [Christo Du Plessis](https://open.spotify.com/artist/2dU7a6BYwRzIpM3TA0tInT) | [Amper Daar](https://open.spotify.com/album/6tghs8sNvs3Eo7L53lMj3R) | 3:38 | 2023-11-30 | 2023-12-15 |
 | [Amper Daar](https://open.spotify.com/track/1NSfpqhCaUrGKSrKhPGImB) | [Leo Sonskyn](https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu) | [Amper Daar](https://open.spotify.com/album/3QOwJNtqRlHf4pGZwwwexf) | 3:13 | 2024-08-29 | 2024-09-27 |
 | [Anderkant die Reën](https://open.spotify.com/track/5GG9RB76dabiiF9fKlGE3w) | [Stiaan Reynierse](https://open.spotify.com/artist/130t6Fd0gYWR2CvL64YUli) | [Anderkant die Reën](https://open.spotify.com/album/6m1WIGHXVOHLMC83urXXgI) | 3:28 | 2024-10-17 | 2024-11-08 |

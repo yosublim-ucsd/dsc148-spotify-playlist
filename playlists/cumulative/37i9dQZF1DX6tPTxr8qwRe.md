@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ellise
+> Dark, hard hitting pop\. Cover: ALT BLK ERA
 
-827 songs - 1 day 14 hr 6 min
+828 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [House Of Cards](https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [House Of Cards](https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t) | 2:57 | 2023-05-19 | 2023-08-19 |
 | [how does your girlfriend feel about it](https://open.spotify.com/track/6Z1nBzbcsdCvoLF2G3Cl35) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [how does your girlfriend feel about it](https://open.spotify.com/album/5z3YYg8ZszvGO836MiYu1o) | 2:33 | 2022-04-01 | 2022-07-16 |
 | [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 | 2024-10-18 |  |
+| [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 |  |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-11-12 | 2022-03-18 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 | 2023-04-01 |
 | [HUSH](https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [HUSH](https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo) | 2:55 | 2024-04-24 | 2024-05-18 |
@@ -436,7 +437,7 @@
 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 | 2023-01-06 | 2023-10-21 |
 | [Lilith](https://open.spotify.com/track/697u6iOThAZBF8mx2MhPSU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 2:47 | 2022-02-04 | 2022-03-18 |
 | [Liquorice](https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Bubblegum](https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc) | 2:22 | 2022-02-18 | 2022-05-14 |
-| [LIQUORLIPS](https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [LIQUORLIPS](https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1) | 1:58 | 2024-06-21 |  |
+| [LIQUORLIPS](https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [LIQUORLIPS](https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1) | 1:58 | 2024-06-21 | 2024-12-14 |
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-28 | 2022-02-19 |
 | [Little Girl Gone](https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP) | 3:08 | 2023-08-18 | 2023-12-09 |
 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 | 2023-04-28 | 2023-09-14 |

@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Jordin Sparks and Maverick City Music
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Yolanda Adams
 
-610 songs - 2 day 4 hr 19 min
+611 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-10 | 2023-05-20 |
 | [Green Light](https://open.spotify.com/track/6D1RMZkJQvwb66Y413ykQN) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [Green Light](https://open.spotify.com/album/1tBPCE3UREXlSMxQy5K1ij) | 2:23 | 2024-06-14 |  |
 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-01-27 | 2023-09-30 |
+| [Hallelujah](https://open.spotify.com/track/5bLtJYqBFKtYoPI4R7f04d) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Hallelujah](https://open.spotify.com/album/21OFDAS2b2LTQtEkBI0bvT) | 2:50 | 2024-12-13 |  |
 | [Hallelujah](https://open.spotify.com/track/3EWjy5dS9CdNQl01P45yMl) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Hallelujah](https://open.spotify.com/album/6QoYrE7QkcSapO7JcRx8dz) | 5:47 | 2022-07-08 | 2022-10-22 |
 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 | 2023-10-13 | 2023-12-09 |
 | [Hand On Me](https://open.spotify.com/track/5hJa7DKaWDULhq3C4TbZG7) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Hand On Me](https://open.spotify.com/album/4plhaQtjp67Isr59V8Pf8w) | 4:20 | 2024-09-06 | 2024-10-12 |

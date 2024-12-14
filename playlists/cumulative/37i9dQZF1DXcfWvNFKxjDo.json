@@ -16858,12 +16858,12 @@
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
           "name": "Meck",
           "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
       "date_added": "2024-12-12",
@@ -19116,9 +19116,27 @@
           "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "date_added": "2024-12-12",
+      "date_added": "2024-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 352043,
+      "name": "Get Up 24",
+      "url": "https://open.spotify.com/track/2W5l3UgwMCVb3Dgk2WN1Yt"
+    },
+    {
+      "album": {
+        "name": "Club Paradise",
+        "url": "https://open.spotify.com/album/05GwiHCsXuWmmM09omau99"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-12-14",
       "duration_ms": 278748,
       "name": "Get Up 24 - Mixed",
       "url": "https://open.spotify.com/track/5vdy5tmBhiFfGUQ3H77LHX"
@@ -19188,10 +19206,6 @@
       },
       "artists": [
         {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
           "name": "MOGUAI",
           "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
         },
@@ -19202,6 +19216,10 @@
         {
           "name": "GRATIFY",
           "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         }
       ],
       "date_added": "2024-12-12",
@@ -28271,7 +28289,7 @@
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168750,
+      "duration_ms": 168789,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0ineGfcbiwd868CTFoWS1J"
     },
@@ -61530,6 +61548,10 @@
         {
           "name": "The Rocketman",
           "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dr. Phil Omanski",
+          "url": "https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD"
         },
         {
           "name": "DJ Weirdo",

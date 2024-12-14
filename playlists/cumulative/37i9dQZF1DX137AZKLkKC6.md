@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso & Yeison Jiménez
 
-276 songs - 14 hr 13 min
+278 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 | 2023-09-23 |
 | [Melancolía](https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv) | [Melancolía](https://open.spotify.com/album/1GZGQpmwMbtj8hty4KFkbP) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Mi Adicción](https://open.spotify.com/track/29hIEYdUegee9SPp9mWRyg) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Mi Adicción](https://open.spotify.com/album/307DczXlOZ7O1u5xFm256I) | 2:16 | 2024-03-08 | 2024-04-06 |
-| [Mi Cama](https://open.spotify.com/track/3KxwWaHiSEb3USL3mW6J5F) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Mi Cama](https://open.spotify.com/album/4WOdOwR51Vg3lXdClT29vh) | 2:54 | 2024-10-18 |  |
+| [Mi Cama](https://open.spotify.com/track/3KxwWaHiSEb3USL3mW6J5F) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Mi Cama](https://open.spotify.com/album/4WOdOwR51Vg3lXdClT29vh) | 2:54 | 2024-10-18 | 2024-12-14 |
 | [Mi Debilidad](https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mi Debilidad](https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq) | 2:46 | 2024-07-05 | 2024-09-27 |
 | [Mi Decisión \- Remix](https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Decisión \(Remix\)](https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS) | 3:20 | 2022-08-12 |  |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2024-04-05 |  |
@@ -199,6 +199,7 @@
 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 | 2022-11-04 | 2022-11-13 |
 | [OK](https://open.spotify.com/track/77T1Aq7ZuMrFFF80VrRZyh) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7lT1OPDd7NyTsdrP3r80NZ) | 2:21 | 2024-04-05 |  |
 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-12 | 2023-02-25 |
+| [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 | 2024-12-13 |  |
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2022-08-12 |  |
 | [Pa' Volver A Enamorarme](https://open.spotify.com/track/7cpdN4FqOSCFUqNKh3hcis) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Pa' Volver A Enamorarme](https://open.spotify.com/album/7quKNBRlHoF2jzPn0YRHDh) | 2:57 | 2022-12-02 | 2022-12-17 |
 | [Pacto De Olvido](https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Pacto De Olvido](https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w) | 2:36 | 2023-06-09 | 2023-08-19 |
@@ -210,6 +211,7 @@
 | [Por Qué la Envidia](https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa \(Con el Corazon\)](https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp) | 2:57 | 2022-11-04 | 2022-11-13 |
 | [Por Qué la Envidia](https://open.spotify.com/track/40NH0SUMcwf3Fpx5YeCXhf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/6fM19D7w8OyRTerM772Mpe) | 2:57 | 2024-04-05 |  |
 | [Por Qué la Envidia](https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ) | 2:57 | 2022-08-12 | 2024-04-19 |
+| [Por retenerte](https://open.spotify.com/track/4Os2ZQZSEXVmUo0dmTDyBe) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Por retenerte](https://open.spotify.com/album/5seID5rmta30Fje5oLdnYj) | 3:16 | 2024-12-13 |  |
 | [Pregúntale Por Quién Llora](https://open.spotify.com/track/4MZrruknp5UrZ6kzBg2e4s) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Pregúntale Por Quién Llora](https://open.spotify.com/album/4Mxv4SjgddWtxXGnzMg5TT) | 3:39 | 2023-05-12 | 2023-06-10 |
 | [Pregúntele a mi ex](https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK) | [Pregúntele a mi ex](https://open.spotify.com/album/08wW249B1Fh2EbhrOkGrF4) | 2:41 | 2024-07-19 |  |
 | [Prohibido](https://open.spotify.com/track/1VLkiIqQk4T4fcOMFNwW3S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Franko](https://open.spotify.com/artist/69bk5U1iIqM7jbcvLoyZvb) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:03 | 2022-08-12 | 2022-11-05 |
@@ -245,7 +247,7 @@
 | [Sin Sentimientos](https://open.spotify.com/track/1bsNI5RBmiv9AQ8aPbl5yN) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Sin Sentimientos](https://open.spotify.com/album/55TBlsqyVYB03SrGdq3F9h) | 2:28 | 2024-04-05 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [El Rey del Chupe](https://open.spotify.com/album/7jDZkDqmE1QNWEvcrxXwwm) | 2:28 | 2022-08-12 | 2024-04-19 |
 | [Sobreviviré](https://open.spotify.com/track/0er9eZxOsGP652IMsKCVil) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Sobreviviré](https://open.spotify.com/album/5J4Phy8c2UDxTQ1kB4ThgN) | 3:56 | 2023-11-10 | 2024-04-06 |
-| [Soltera](https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:45 | 2024-08-30 |  |
+| [Soltera](https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:45 | 2024-08-30 | 2024-12-14 |
 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 | 2022-08-12 |  |
 | [Soltero Feliz](https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB) | 3:51 | 2023-12-01 | 2024-04-19 |
 | [Te Extraño](https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Te Extraño](https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd) | 3:03 | 2022-08-12 |  |

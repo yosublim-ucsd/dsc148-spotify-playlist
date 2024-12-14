@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Away In A Manger",
+        "url": "https://open.spotify.com/album/0RDcl4gX6NawVNGV9nC6Xg"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113775,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/3cEPV9YxmKzDlwDyr9hq0C"
+    },
+    {
+      "album": {
         "name": "Away in a Manger",
         "url": "https://open.spotify.com/album/3Ql5d9dIaefIyO4wMoV9PU"
       },
@@ -1147,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/1V2aUpfOxwPzbYjvn3zh0F"
+      },
+      "artists": [
+        {
+          "name": "Ernst Ansch\u00fctz",
+          "url": "https://open.spotify.com/artist/2BjFbg9VxtzEUZuCQwmaxo"
+        },
+        {
+          "name": "Tree Hands",
+          "url": "https://open.spotify.com/artist/67IIado6qhaXmmjGmH4hvJ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163518,
+      "name": "O Christmas Tree Reimagined",
+      "url": "https://open.spotify.com/track/0p3f3jjSdgnKmBvBpNUzMv"
+    },
+    {
+      "album": {
         "name": "O Come All Ye Faithful",
         "url": "https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP"
       },
@@ -1570,6 +1610,24 @@
       "duration_ms": 226226,
       "name": "Silent Night (Arr. Gjeilo)",
       "url": "https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6"
+    },
+    {
+      "album": {
+        "name": "Silent Night (Arr. Piano)",
+        "url": "https://open.spotify.com/album/0Lf8nFCFT3RgkCRu2t3Ces"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Silent Night (Arr. Piano)",
+      "url": "https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA"
     },
     {
       "album": {

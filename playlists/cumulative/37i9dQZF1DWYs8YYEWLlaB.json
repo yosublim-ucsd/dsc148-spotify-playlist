@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "A\u00e7\u0131k Adres (SAYGI1)",
+        "url": "https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        },
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277514,
+      "name": "A\u00e7\u0131k Adres - SAYGI1",
+      "url": "https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv"
+    },
+    {
+      "album": {
         "name": "G\u00fcliz Ayla",
         "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
       },
@@ -128,7 +150,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 198665,
       "name": "Bahsetmem Laz\u0131m",
       "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 227143,
       "name": "\u0130kimizden Biri",
       "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 207400,
       "name": "Sahici",
       "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
@@ -1812,12 +1834,12 @@
           "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         },
         {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        },
-        {
           "name": "SNOW",
           "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
         }
       ],
       "date_added": "2024-12-04",

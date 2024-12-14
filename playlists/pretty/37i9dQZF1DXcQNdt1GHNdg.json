@@ -1,15 +1,31 @@
 {
   "description": "Pump up your adrenaline with Punjabi hits!",
-  "num_followers": 153014,
+  "num_followers": 153090,
   "original_name": "Punjabi Pump",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1p87AAAAADUPJap9yv9Ol9ztfL5q2GV",
+  "snapshot_id": "Z1v8iQAAAAC8CyBQvKEyxlXr2zi6uCyy",
   "tracks": [
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
+      "album": {
+        "name": "Don",
+        "url": "https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R"
+    },
+    {
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Dollar (From \"Dakuaan Da Munda\")",
         "url": "https://open.spotify.com/album/2keQd2w6kV8FJD2ZSGPlp7"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7rXDc2ImBGwcypUFbNqbFB"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Aaye Haaye (Feat. Nora Fatehi)",
         "url": "https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Powerhouse (Feat. Sanjay Dutt)",
         "url": "https://open.spotify.com/album/3PQQ2b6RbARcBU8NFESL0s"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/2cGtNmEJ0lwrUebjTzAio3"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Fly Karke",
         "url": "https://open.spotify.com/album/5KU161bc0CN9vn0LmpVMki"
@@ -137,27 +153,7 @@
       "url": "https://open.spotify.com/track/4Y53zT0Mxm33wJiqLThfQa"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
-      "album": {
-        "name": "Off Limits",
-        "url": "https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57"
-      },
-      "artists": [
-        {
-          "name": "Parmish Verma",
-          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
-        },
-        {
-          "name": "Starboy X",
-          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
-        }
-      ],
-      "duration_ms": 122264,
-      "name": "Off Limits",
-      "url": "https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq"
-    },
-    {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Sifar Safar",
         "url": "https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2"
@@ -173,7 +169,7 @@
       "url": "https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Patandar",
         "url": "https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh"
@@ -189,7 +185,7 @@
       "url": "https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Sit Down Son",
         "url": "https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7"
@@ -213,7 +209,27 @@
       "url": "https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
+      "album": {
+        "name": "Off Limits",
+        "url": "https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "duration_ms": 122264,
+      "name": "Off Limits",
+      "url": "https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq"
+    },
+    {
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Bhadauria",
         "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
@@ -237,7 +253,27 @@
       "url": "https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
+      "album": {
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "duration_ms": 164926,
+      "name": "No Break",
+      "url": "https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN"
+    },
+    {
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Matthe Te Chamkan",
         "url": "https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs"
@@ -257,7 +293,7 @@
       "url": "https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Alcholic",
         "url": "https://open.spotify.com/album/2vK8de8FlB9OTiTVGl8Zxv"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/2ULlDmMknqnJZyf5w4s59B"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Professor",
         "url": "https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/5bUNR8cU2YpcHTiXmIdflc"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/7gBtxQokQU5f8uqlLua9q0"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Target",
         "url": "https://open.spotify.com/album/4T6fHklPf7jjGYf4LeRlG4"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/5zpRdQxwh5gsdF4pH4ZAyL"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Patandar",
         "url": "https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh"
@@ -365,31 +401,7 @@
       "url": "https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
-      "album": {
-        "name": "Jatt di Jawani",
-        "url": "https://open.spotify.com/album/5s8DizqHxfJQUGSQik9O9r"
-      },
-      "artists": [
-        {
-          "name": "The Landers",
-          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
-        },
-        {
-          "name": "Brown Maan",
-          "url": "https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ"
-        },
-        {
-          "name": "Geet",
-          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
-        }
-      ],
-      "duration_ms": 136097,
-      "name": "Jatt di Jawani",
-      "url": "https://open.spotify.com/track/6ZpBZB9XIeN7dvFa3Dn8Zf"
-    },
-    {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Sunke",
         "url": "https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4"
@@ -405,7 +417,7 @@
       "url": "https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Goin' Off",
         "url": "https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM"
@@ -425,7 +437,7 @@
       "url": "https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
@@ -449,7 +461,7 @@
       "url": "https://open.spotify.com/track/5XU7ULgTkEdOV0sXvO6Jj1"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f"
@@ -473,27 +485,7 @@
       "url": "https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
-      "album": {
-        "name": "Peshi",
-        "url": "https://open.spotify.com/album/585UtCMF2ztRipQ0Cwkf5V"
-      },
-      "artists": [
-        {
-          "name": "Shree Brar",
-          "url": "https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 125374,
-      "name": "Peshi",
-      "url": "https://open.spotify.com/track/59FioHUFzILxFj3CyxQls5"
-    },
-    {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Rollin Loud",
         "url": "https://open.spotify.com/album/6YfxQmZXimBQLy6XL4YvQz"
@@ -513,7 +505,7 @@
       "url": "https://open.spotify.com/track/5dHES7RU9sX30MxgIuHi1h"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
@@ -537,7 +529,7 @@
       "url": "https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Murder",
         "url": "https://open.spotify.com/album/2hFJ6Nj2c9zXM4bFvdXwBn"
@@ -557,7 +549,7 @@
       "url": "https://open.spotify.com/track/2mF6e4kHyg5bZHud5btnmJ"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "410",
         "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
@@ -581,7 +573,7 @@
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
@@ -601,7 +593,7 @@
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
@@ -629,7 +621,7 @@
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -645,7 +637,7 @@
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -661,7 +653,7 @@
       "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
@@ -685,7 +677,7 @@
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -701,7 +693,7 @@
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "The Hood",
         "url": "https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk"
@@ -725,7 +717,7 @@
       "url": "https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -741,7 +733,7 @@
       "url": "https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "WE ROLLIN",
         "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
@@ -757,7 +749,7 @@
       "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Thaa",
         "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
@@ -781,7 +773,7 @@
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Chorni",
         "url": "https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8"
@@ -801,7 +793,7 @@
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Watch Out",
         "url": "https://open.spotify.com/album/11tfAS197RiPG4po110Tre"
@@ -825,7 +817,7 @@
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -845,7 +837,7 @@
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "The Last Ride",
         "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
@@ -865,7 +857,7 @@
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Never Before",
         "url": "https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh"
@@ -885,7 +877,7 @@
       "url": "https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "ELEVATED",
         "url": "https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t"
@@ -917,7 +909,7 @@
       "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "12 Bande",
         "url": "https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u"
@@ -933,7 +925,7 @@
       "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Way Ahead",
         "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
@@ -953,7 +945,7 @@
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -969,7 +961,7 @@
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Droptop",
         "url": "https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD"
@@ -993,7 +985,7 @@
       "url": "https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Faraar",
         "url": "https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe"
@@ -1017,7 +1009,7 @@
       "url": "https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G"
     },
     {
-      "added_at": "2024-12-12 06:04:28",
+      "added_at": "2024-12-13 09:21:13",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"

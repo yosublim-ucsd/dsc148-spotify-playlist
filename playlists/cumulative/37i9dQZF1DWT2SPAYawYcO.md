@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: L.A.B.
 
-6,781 songs - 15 day 7 hr 22 min
+6,784 songs - 15 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3882,6 +3882,7 @@
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-12 | 2024-09-20 |
 | [Mine](https://open.spotify.com/track/5TS2pObE8o52h6w0T6bSzt) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Mine](https://open.spotify.com/album/3allFyP3q2lzyE6omnAF52) | 3:03 | 2024-05-02 | 2024-05-10 |
 | [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 | 2024-06-13 | 2024-06-21 |
+| [Mini Birki](https://open.spotify.com/track/1DvTZSxTgY7UqHknm5YDaK) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:50 | 2024-12-12 |  |
 | [Mini Skirt](https://open.spotify.com/track/0mzxoSCE8pkZCBWafsB6Hp) | [WIIGZ](https://open.spotify.com/artist/0mh9FUIglCeBXhVTYqjhaB) | [Mini Skirt](https://open.spotify.com/album/5uAY6YpvfQGxamh2hmwUhD) | 3:33 | 2023-10-12 | 2023-10-20 |
 | [Mini Skirt](https://open.spotify.com/track/4L5aysnpEXU7YtRU8HQ3GI) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Mini Skirt](https://open.spotify.com/album/77EIwM8PC7uBqEqDH6MFW3) | 2:31 | 2023-11-09 | 2023-11-17 |
 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 | 2023-06-15 | 2023-06-23 |
@@ -5064,6 +5065,7 @@
 | [Secrets](https://open.spotify.com/track/6817kXZC7aNKs7jcDBpkW9) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Secrets](https://open.spotify.com/album/2PmSZ7vjteOKTVeCAf6v6A) | 2:59 | 2023-08-24 | 2023-09-01 |
 | [secrets \- Demo](https://open.spotify.com/track/01Y5C5UbziLKy6VkLGG6Ud) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [secrets \(Demo\)](https://open.spotify.com/album/3CvGWp20qnTEzSBI6QcE2B) | 1:52 | 2023-10-19 | 2023-10-27 |
 | [See No Evil](https://open.spotify.com/track/6yaV16TOXIqxQaa14dZ7Sk) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [See No Evil](https://open.spotify.com/album/5b9U2aOIhQ6OBYfL7cm6Ef) | 2:21 | 2024-07-11 | 2024-07-19 |
+| [See Sumn](https://open.spotify.com/track/39YHhfj2i4WwXGs6T7uQMF) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [See Sumn](https://open.spotify.com/album/4rR8Nd98FbkOB7fS51wkLU) | 1:52 | 2024-12-12 |  |
 | [See You Again](https://open.spotify.com/track/6BD3T3fnlAX6Wwh2bYEOx9) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Deep Sleeper](https://open.spotify.com/album/0ZzHsXQH3iXMEawIaXw4zm) | 3:15 | 2024-04-25 | 2024-05-03 |
 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 | 2023-06-23 | 2023-06-30 |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-15 | 2024-08-23 |
@@ -6374,6 +6376,7 @@
 | [Walk Away](https://open.spotify.com/track/5xwLf0BCDP6EZ0F6nvvXNB) | [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3) | [Walk Away](https://open.spotify.com/album/0gKWpIwZ2FIn7dLSCePqTV) | 3:29 | 2024-03-07 | 2024-03-15 |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-03-07 | 2024-03-15 |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-07 | 2023-12-15 |
+| [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2024-12-12 |  |
 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 | 2023-10-05 | 2023-10-13 |
 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV) | 3:47 | 2024-06-13 | 2024-06-21 |
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 | 2024-02-02 |

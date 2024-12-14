@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-285 songs - 12 hr 30 min
+286 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Rich & Player](https://open.spotify.com/track/4uAdk4WsvROzbhHpxlI744) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Rich & Player](https://open.spotify.com/album/7vwtySRvkjDq6KPB9uddst) | 1:53 | 2023-09-29 | 2024-01-13 |
 | [Rich Man](https://open.spotify.com/track/6rqmIzmx9czRlgG5isIJ8g) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Rich Man](https://open.spotify.com/album/6FNaKg42VpMxpVVwvYXidb) | 2:41 | 2023-11-03 | 2024-02-24 |
 | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Polyester the Saint](https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY) | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp) | 2:19 | 2024-07-08 | 2024-11-19 |
+| [RIO FREE](https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE](https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J) | 3:20 | 2024-12-13 |  |
 | [Rocky Wrist](https://open.spotify.com/track/4bJc2f7QvqKPRPCfbRRjDQ) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Sauce WoodWinnin](https://open.spotify.com/artist/0KM3PbxAgPusbo0DqhoiJa) | [Rocky Wrist](https://open.spotify.com/album/0YeYZaLyYhO3GYpYy5BGWt) | 3:11 | 2024-03-15 | 2024-07-23 |
 | [SANTO](https://open.spotify.com/track/7bYT7ERwIIcAz3zLcty1Cs) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [SANTO](https://open.spotify.com/album/6Y6HgQ5O9Tb8B6io29rjtl) | 2:20 | 2024-07-22 |  |
 | [Scarred](https://open.spotify.com/track/5S3KAtWAkHmsmsk0BCjVFi) | [SNUPE BANDZ](https://open.spotify.com/artist/72ltK39qT3DgtiCZgOAaGs) | [Scarred](https://open.spotify.com/album/1LeDjsCPnuisL31DyZmNK9) | 2:29 | 2024-01-19 | 2024-05-21 |

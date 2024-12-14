@@ -1325,6 +1325,66 @@
     },
     {
       "album": {
+        "name": "The Heart Beat Sessions",
+        "url": "https://open.spotify.com/album/68h7yCXdfcwM4FTER6T1Ug"
+      },
+      "artists": [
+        {
+          "name": "James MacMillan",
+          "url": "https://open.spotify.com/artist/5eSXFv3Ll2MEHf0eSAYJGu"
+        },
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "James Pearson",
+          "url": "https://open.spotify.com/artist/5oxldwv6cOIdPCy3TNoNb7"
+        },
+        {
+          "name": "Lizzie Ball",
+          "url": "https://open.spotify.com/artist/0ZkTc6UQQbjehhx5rfmgVK"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289528,
+      "name": "Scots Song (Arr. for Choir, Piano and Violin by James Pearson and Harry Christophers)",
+      "url": "https://open.spotify.com/track/3sXuVOp665qL3mDpZKpaYx"
+    },
+    {
+      "album": {
+        "name": "Seek Ye First the Kingdom of God",
+        "url": "https://open.spotify.com/album/0AbC6txfANKbO9l3uGh2vj"
+      },
+      "artists": [
+        {
+          "name": "Kerensa Briggs",
+          "url": "https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Pembroke College Girls' Choir",
+          "url": "https://open.spotify.com/artist/4RjmJe64qNsx1mZ6rbEfdm"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Seek Ye First the Kingdom of God",
+      "url": "https://open.spotify.com/track/2JV6wz5dI1D0aAkqu0esS5"
+    },
+    {
+      "album": {
         "name": "The British Project",
         "url": "https://open.spotify.com/album/7uTezuDJQQG35KVgL8XUCI"
       },

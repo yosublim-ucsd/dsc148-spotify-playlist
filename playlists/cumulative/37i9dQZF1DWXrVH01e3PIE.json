@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "bali .",
+        "url": "https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        },
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132550,
+      "name": "bali .",
+      "url": "https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/4M4ASPb71i9q5uq6XDUFLJ"
       },

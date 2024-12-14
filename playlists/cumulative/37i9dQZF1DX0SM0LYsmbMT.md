@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,295 songs - 6 day 19 hr 46 min
+4,296 songs - 6 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [About You](https://open.spotify.com/track/2wj5L1eqcgD8rssYOqnKZQ) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Beats On Boat: iamalex](https://open.spotify.com/album/7CL0OCsZvX20y1BclE46OG) | 1:51 | 2020-07-03 | 2021-03-06 |
 | [Above the Clouds](https://open.spotify.com/track/7g4ZKNjDpzIWqZdTYGTYV8) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7), [Ferdinand Schwarz](https://open.spotify.com/artist/3NNGaCTd5ocJPjmPooObtA) | [Sichtexotica V](https://open.spotify.com/album/0YidNDMeyKaXJRNhSEDB1m) | 2:36 | 2020-09-04 | 2020-12-18 |
 | [Above the Clouds](https://open.spotify.com/track/0ogIUn5t00tseKzRngQfnu) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Above the Clouds](https://open.spotify.com/album/4xyFcERIYnlYCkm4MzeUsU) | 2:20 | 2021-04-23 | 2021-12-11 |
+| [Above The Rim](https://open.spotify.com/track/5BM6OrRIQhcKELuELjwRJl) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Above The Rim](https://open.spotify.com/album/0iRgavhLAB8uKqI2WnS2D4) | 2:22 | 2024-12-09 |  |
 | [Absence of Gravity \- Pablo Nouvelle Remix](https://open.spotify.com/track/6hj4VrcrOW2oFxUlwda95L) | [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Absence of Gravity \(Pablo Nouvelle Remix\)](https://open.spotify.com/album/216LvrhZl1rAFSyNf5swQK) | 3:37 | 2021-01-08 | 2021-02-06 |
 | [Abstract Poetic](https://open.spotify.com/track/13PN35UZ7ohrf03F9YKa6F) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Abstract Poetic](https://open.spotify.com/album/21RXugs2cyBuKykgyOt5vN) | 2:03 | 2020-08-30 | 2021-01-23 |
 | [Abu Dhabi](https://open.spotify.com/track/1rkOEC4kqWJtSoPgrMnNZu) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Abu Dhabi](https://open.spotify.com/album/1m78XctWRFio0qHnPUoxSH) | 2:32 | 2020-11-03 | 2021-05-21 |
@@ -2110,7 +2111,7 @@
 | [Log Cabin](https://open.spotify.com/track/1bHiiZFCnzNWDSyAP5Kz1e) | [blankets.](https://open.spotify.com/artist/3vbQWMBu1R5NV6pWiALTto), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Log Cabin](https://open.spotify.com/album/5CG9vHd2hFvcvhU5XHXUeK) | 2:13 | 2021-06-02 | 2021-07-09 |
 | [Lonely Cat](https://open.spotify.com/track/3jkoEgoSbHh13WAvsS4WeK) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Lonely Cat](https://open.spotify.com/album/3vuwlbkl3Ur64K9fPx4v3Y) | 2:06 | 2020-06-19 | 2020-08-30 |
 | [Lonely in a Crowd](https://open.spotify.com/track/1zsXasN6cbCerKSzZUfJHI) | [G R I Z](https://open.spotify.com/artist/3gBnd68xkEhdBujCwX6daz) | [Lonely in a Crowd](https://open.spotify.com/album/2Xi4Z3sQE1AilTipeLdxkW) | 2:54 | 2020-09-04 | 2021-01-23 |
-| [Lonesome George](https://open.spotify.com/track/0UBevjzBwYosYSgq2iISie) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Lonesome George](https://open.spotify.com/album/31XDyrywVaHeO25lPRTkG8) | 2:41 | 2023-04-27 |  |
+| [Lonesome George](https://open.spotify.com/track/0UBevjzBwYosYSgq2iISie) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Lonesome George](https://open.spotify.com/album/31XDyrywVaHeO25lPRTkG8) | 2:41 | 2023-04-27 | 2024-12-14 |
 | [Long Ago](https://open.spotify.com/track/5QUpIPfsfssgGBMP14dtzh) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Seegarn / Long Ago](https://open.spotify.com/album/4rwZxKFsGOcDwfI0R0tNLW) | 1:29 | 2019-06-14 | 2019-10-18 |
 | [Long Island](https://open.spotify.com/track/3nie95TLfoDh8nYGf9zjRu) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Park](https://open.spotify.com/album/714GHMkc56vatUwbcfXk92) | 2:08 | 2022-12-22 | 2023-01-27 |
 | [Long Island](https://open.spotify.com/track/6AKjNK0aupoWGx2rk3FigD) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Long Island](https://open.spotify.com/album/3bdGyto3A5l6TUVIQ5YHOs) | 2:08 | 2022-11-17 | 2022-11-25 |

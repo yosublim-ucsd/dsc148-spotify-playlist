@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-667 songs - 1 day 6 hr 27 min
+669 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Murderer](https://open.spotify.com/track/6aZbAWmCQilinWprgzashl) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Murderer](https://open.spotify.com/album/4YxP15mdZTuyPmPv0Oinzr) | 3:30 | 2023-08-18 |  |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 | 2022-10-01 |
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 | 2022-07-02 |
+| [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-12-13 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-09-24 |
 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 | 2023-06-30 | 2023-09-09 |
 | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/track/0ypg4T6esIqndywe7fiSUG) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/album/0fOriXAONaoenGQi5nfOcl) | 2:10 | 2021-11-16 | 2022-02-19 |
@@ -598,6 +599,7 @@
 | [This Could Be Us](https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:26 | 2022-04-04 | 2023-01-07 |
 | [This Isn't Heaven, It Must Be Hell](https://open.spotify.com/track/5NICLsAN2wxcFQEdriIV1s) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [This Isn't Heaven, It Must Be Hell](https://open.spotify.com/album/3l4Np4G1QZYOIoicvsXE6c) | 2:59 | 2022-03-04 | 2022-05-20 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-11-22 |
+| [Throwback](https://open.spotify.com/track/4Bku6Y4hBOOMLCGq3S4R1V) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Throwback](https://open.spotify.com/album/1dSxvTiCGeHebqUNjw30lK) | 2:27 | 2024-12-13 |  |
 | [Throwing Parties](https://open.spotify.com/track/6EDJUMi6j6GwcOgkK3bICo) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Throwing Parties](https://open.spotify.com/album/5i7EkzpzKG2lfQn0gozp8d) | 3:02 | 2024-02-02 | 2024-06-01 |
 | [Tidal Wave](https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tidal Wave](https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL) | 2:42 | 2022-04-15 | 2022-06-11 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-08 | 2022-05-20 |

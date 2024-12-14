@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-356 songs - 18 hr 30 min
+357 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-04-26 | 2024-08-03 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-05-12 | 2024-03-14 |
 | [All I Want](https://open.spotify.com/track/0U0hYjI9boxgmloVfMdfWe) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR) | [All I Want](https://open.spotify.com/album/1davgSnBAmq2l7EeDPelI2) | 2:56 | 2023-04-26 | 2024-05-01 |
+| [All Night](https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy) | [All Night](https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD) | 2:20 | 2024-12-13 |  |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-04-26 |  |
 | [All Night Long](https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Nate James](https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:59 | 2024-12-06 |  |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-04-26 | 2024-05-01 |

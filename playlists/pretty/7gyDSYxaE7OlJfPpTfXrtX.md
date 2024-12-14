@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 41 songs - 2 hr 40 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/7gyDSYxaE7OlJfPpTfXrtX.md) - [plain]
 | 39 | [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 |
 | 40 | [Divided Sky Lane](https://open.spotify.com/track/1NVXt1cCkOdsyG3NIjN4vV) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Sentries in the Ambush / Divided Sky Lane](https://open.spotify.com/album/50TYcIZQqahuqK91pFY5cM) | 3:38 |
 | 41 | [It's Raining Again](https://open.spotify.com/track/2bzBI23EJWHjXmGj3xlYaM) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Famous Last Words \(Remastered\)](https://open.spotify.com/album/58JuUAfKGh6bKphiBtp7Nc) | 4:24 |
+| 42 | [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 |
 
-Snapshot ID: `AAAAMjte8kuwd+JynKbEsfQ8zHPgG1Qe`
+Snapshot ID: `AAAAMzWe96fQdd5eCjzzH7ukga1Fy5Xu`

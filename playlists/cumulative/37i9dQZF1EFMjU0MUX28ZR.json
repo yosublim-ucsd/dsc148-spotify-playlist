@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212481,
+      "name": "Ain't No Friend Of Mine",
+      "url": "https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI"
+    },
+    {
+      "album": {
         "name": "american jesus",
         "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
       },

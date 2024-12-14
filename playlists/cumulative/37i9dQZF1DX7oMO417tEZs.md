@@ -2,9 +2,9 @@
 
 ### [outliers](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> gems from artists carving their own path\. cover: NATHY PELUSO
+> gems from artists carving their own path\. cover: Doechii
 
-1,427 songs - 3 day 6 hr 16 min
+1,429 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 | 2022-02-18 | 2022-03-12 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-10-28 | 2023-03-11 |
 | [Ezekiel's Wheel](https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Ezekiel's Wheel](https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M) | 3:55 | 2024-01-19 | 2024-06-08 |
+| [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-13 |  |
 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-03-10 | 2023-03-25 |
 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 | 2022-03-25 | 2022-05-07 |
 | [Fallin](https://open.spotify.com/track/3CrjWgbJm6M1wseXpCbTuw) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [SD2 \(Deluxe\)](https://open.spotify.com/album/3bouWm92sQdr7gT0IACxV9) | 3:02 | 2022-08-26 | 2022-10-08 |
@@ -642,7 +643,7 @@
 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 | 2024-04-05 | 2024-04-19 |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-30 |  |
 | [Imagine That \(feat\. Shad\)](https://open.spotify.com/track/18pEhwBhFr9ToeHPjHD0r5) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Imagine That \(feat\. Shad\)](https://open.spotify.com/album/48BZKvdpHdpazl58gmIq7h) | 4:24 | 2022-04-29 | 2022-06-11 |
-| [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 |  |
+| [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 | 2024-12-14 |
 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-09 | 2023-05-27 |
 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 | 2022-06-24 | 2022-08-20 |
 | [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-05-24 | 2024-09-14 |
@@ -744,6 +745,7 @@
 | [Lisa Leslie](https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Lisa Leslie](https://open.spotify.com/album/0Betq18SWb7GZ6kGHyZQTu) | 2:13 | 2023-05-12 | 2023-07-01 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-05 | 2024-07-19 |
 | [Little Bit](https://open.spotify.com/track/47rk9eQwI1zUlaZymVQeWQ) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [Chrome Daphne](https://open.spotify.com/artist/1xmCcy94yRRsYYOdd8r6GC) | [Little Bit](https://open.spotify.com/album/6flVS16mkfOamQyQVboaQa) | 2:27 | 2022-11-25 | 2023-01-06 |
+| [little mystery](https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [two more days](https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc) | 2:58 | 2024-12-13 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-12 | 2023-09-02 |
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-07-28 | 2023-09-09 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-23 | 2024-12-07 |
@@ -1209,7 +1211,7 @@
 | [Sway \(The Places She Goes\)](https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Sway \(The Places She Goes\)](https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq) | 3:41 | 2022-05-13 | 2022-06-18 |
 | [SXC](https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SXC](https://open.spotify.com/album/1g315Bsyof6KGwGPIdqfMY) | 2:41 | 2023-09-08 | 2023-09-30 |
 | [System](https://open.spotify.com/track/1J6gT3Kels6vPI5D1wSsOa) | [Honeydrip](https://open.spotify.com/artist/0HizFQA107EvPoA4cZWJ3x), [Shanique Marie](https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA) | [System](https://open.spotify.com/album/3QgjM2a1JvYOC8URnFjZrO) | 5:22 | 2023-08-18 | 2023-10-07 |
-| [T siento RARA](https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [T siento RARA](https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn) | 2:09 | 2024-08-23 |  |
+| [T siento RARA](https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [T siento RARA](https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn) | 2:09 | 2024-08-23 | 2024-12-14 |
 | [Tabom Riddim](https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Tabom Riddim](https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x) | 2:40 | 2022-12-02 | 2023-01-21 |
 | [Takata](https://open.spotify.com/track/5zafxU9A9zsDIzJ2IDxMSt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:29 | 2022-11-11 | 2023-02-04 |
 | [Take It Back](https://open.spotify.com/track/5TbZ3iiuoIhLGFvq2IoIwD) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [Take It Back / Go for Joy](https://open.spotify.com/album/6ugxotUGjEP4GPucJYJNcA) | 4:33 | 2022-10-28 | 2023-01-06 |

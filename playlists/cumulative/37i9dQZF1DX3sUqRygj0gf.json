@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-10-26",
   "description": "Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.",
-  "name": "Cozy Christmas Covers",
+  "name": "Cozy Christmas Covers 2024\ud83c\udf84\ud83c\udf81",
   "tracks": [
     {
       "album": {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 166938,
       "name": "It's the Holiday Season",
       "url": "https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO"
@@ -586,6 +586,24 @@
       "duration_ms": 134250,
       "name": "Merry Christmas Everyone (Snow Is Falling) - Acoustic Cover",
       "url": "https://open.spotify.com/track/26YCOq8RYz8Qsx75rWa3kZ"
+    },
+    {
+      "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/0xEZWNEhKaDHa9zE5L6FGw"
+      },
+      "artists": [
+        {
+          "name": "Cinema Sessions",
+          "url": "https://open.spotify.com/artist/7lhCySmCIsq2J7JeNm7RWO"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/0GImYJc1wYhAgSOiEhQFJo"
     },
     {
       "album": {

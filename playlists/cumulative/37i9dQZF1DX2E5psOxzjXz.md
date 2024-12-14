@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-313 songs - 17 hr 41 min
+314 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Relapse](https://open.spotify.com/track/6US8YXfzPxXceZfpsPGAII) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Relapse](https://open.spotify.com/album/4yaXAKLXBpf6hXvf3vzSsO) | 3:03 | 2023-10-03 | 2023-11-18 |
 | [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 | 2022-09-09 | 2022-11-24 |
 | [Risky](https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks) | [Risky](https://open.spotify.com/album/0RkRTVDy2rPJlvcRkllfvu) | 3:26 | 2021-12-06 | 2024-02-17 |
+| [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 | 2024-12-12 |  |
 | [Roshni](https://open.spotify.com/track/3tFVhYNqkUVUbDH2H9KZtS) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Roshni](https://open.spotify.com/album/1wYUhTYNKkHSQRM3Gyb6Fb) | 3:53 | 2022-06-10 | 2022-09-15 |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2021-12-06 |  |
 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 | 2021-12-06 |  |

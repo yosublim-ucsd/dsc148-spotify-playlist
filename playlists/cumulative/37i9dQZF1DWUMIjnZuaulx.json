@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Jordin Sparks and Maverick City Music",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Yolanda Adams",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -3466,6 +3466,24 @@
       "duration_ms": 253706,
       "name": "Grey Hair",
       "url": "https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/21OFDAS2b2LTQtEkBI0bvT"
+      },
+      "artists": [
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170499,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5bLtJYqBFKtYoPI4R7f04d"
     },
     {
       "album": {

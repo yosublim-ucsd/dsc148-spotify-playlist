@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-501 songs - 1 day 5 hr 45 min
+502 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Nunca](https://open.spotify.com/track/5hjxREyr8iSx5vrklm6C3H) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Nunca](https://open.spotify.com/album/3MxoI5PmOfU5Zil6xA2iVo) | 3:50 | 2021-10-21 | 2022-04-20 |
 | [Nunca Digas Jamás](https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Nunca Digas Jamás](https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm) | 3:33 | 2022-08-26 | 2022-11-14 |
 | [Odiarte](https://open.spotify.com/track/1hlLbumptVAfOX712ErhxQ) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Odiarte](https://open.spotify.com/album/4iC9etdZ8TEi93oFbEtJqt) | 3:56 | 2021-10-21 | 2022-04-08 |
+| [Ojalá](https://open.spotify.com/track/6Sg4krwBSmwL3oSusCSUja) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Ojalá](https://open.spotify.com/album/6pAKQ3ZMIf6HVseqPPqbN1) | 3:40 | 2024-12-13 |  |
 | [Ojalá Pudiera Borrarte](https://open.spotify.com/track/148mGerKdgcIwXQvNm86KS) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Ojalá Pudiera Borrarte](https://open.spotify.com/album/1cSGr3IyQjQBT5Z7N4H79K) | 4:32 | 2024-10-11 |  |
 | [Ojos noche](https://open.spotify.com/track/5OZvHebtk8FNXNHGYkYZKz) | [Andrea Grauzas](https://open.spotify.com/artist/0fdCZp1n2CC8irnQkGKEkh) | [Ojos noche](https://open.spotify.com/album/2lFDrJaRfqXPg01dtjpfMW) | 3:57 | 2022-03-18 | 2022-04-19 |
 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2022-03-18 |  |
@@ -332,7 +333,7 @@
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2021-10-21 | 2024-04-19 |
 | [Pa Ti \(For You\)](https://open.spotify.com/track/5AL7osnKigcHhRpMlK20c8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t) | 3:50 | 2022-02-16 | 2022-04-18 |
 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 | 2024-10-25 |  |
-| [Para El Tiempo](https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Para El Tiempo](https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL) | 3:17 | 2024-12-06 |  |
+| [Para El Tiempo](https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Para El Tiempo](https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL) | 3:17 | 2024-12-06 | 2024-12-14 |
 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 | 2022-12-29 | 2023-02-18 |
 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 | 2023-09-08 |  |
 | [Para Vivir](https://open.spotify.com/track/7rEXzx4cwjEJVPiG1B8Rk8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:09 | 2021-10-21 | 2022-07-26 |

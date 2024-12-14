@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: mary in the junkyard",
-  "num_followers": 298758,
+  "description": "Underground indie rock gems. Cover: Camille Schmidt",
+  "num_followers": 298784,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAACHK530BwEo5EXBO5b6n2sH",
+  "snapshot_id": "Z1u/eAAAAAA1z3i4p4Uinzr/JKacEk5C",
   "tracks": [
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Stanley",
+        "url": "https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV"
+      },
+      "artists": [
+        {
+          "name": "Camille Schmidt",
+          "url": "https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1"
+        }
+      ],
+      "duration_ms": 173757,
+      "name": "Stanley",
+      "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
+    },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/4zWJW5Lq7xlgXt5nWELvrf"
     },
     {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Capital C",
@@ -71,6 +103,22 @@
       "duration_ms": 198026,
       "name": "Sandcastle Molds",
       "url": "https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "cologne",
+        "url": "https://open.spotify.com/album/2HLpuysL6V8WakyZycaMfJ"
+      },
+      "artists": [
+        {
+          "name": "Gloom East",
+          "url": "https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5"
+        }
+      ],
+      "duration_ms": 177726,
+      "name": "cologne",
+      "url": "https://open.spotify.com/track/7hE2DkwKFvBVUdJBNk6CT7"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -123,6 +171,22 @@
       "duration_ms": 198386,
       "name": "Love Takes Miles",
       "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 277199,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f"
     },
     {
       "added_at": "2024-11-27 18:44:22",
@@ -203,22 +267,6 @@
       "duration_ms": 246340,
       "name": "What You Want Me To Say",
       "url": "https://open.spotify.com/track/3iK2mw9vvvInORkd5Vq9jh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "2468",
-        "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 197688,
-      "name": "2468",
-      "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -791,38 +839,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Your Dog",
-        "url": "https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Nice enough words",
-        "url": "https://open.spotify.com/album/75uVNd34yRpMdImCLOlKRr"
-      },
-      "artists": [
-        {
-          "name": "Clothesline From Hell",
-          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Nice enough words",
-      "url": "https://open.spotify.com/track/2N8k0QJ4tGJitOywToZBKg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "something new",
         "url": "https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF"
       },
@@ -957,38 +973,6 @@
       "url": "https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Watch Me Drive Them Dogs Wild",
-        "url": "https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 252437,
-      "name": "Foolish and Fast",
-      "url": "https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Colonel",
-        "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
-      },
-      "artists": [
-        {
-          "name": "The Kilans",
-          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
-        }
-      ],
-      "duration_ms": 161389,
-      "name": "Colonel",
-      "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "you're like me",
@@ -1067,22 +1051,6 @@
       "duration_ms": 207680,
       "name": "Snowfeel",
       "url": "https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mudglimmer/Compromised Dirt",
-        "url": "https://open.spotify.com/album/2cn2pjXIxV5Huj9e3CD2aQ"
-      },
-      "artists": [
-        {
-          "name": "The Slaps",
-          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Mudglimmer",
-      "url": "https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1245,20 +1213,20 @@
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3NJoPEc0JX29kOOneAhpKJ"
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
       },
       "artists": [
         {
-          "name": "knitting",
-          "url": "https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/47awv4QA2E9FaH0ZBMZHoh"
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1275,54 +1243,6 @@
       "duration_ms": 162758,
       "name": "1/500",
       "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "RITUAL",
-        "url": "https://open.spotify.com/album/0ecXkFicYAL0e4v3B4eNHo"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "RITUAL",
-      "url": "https://open.spotify.com/track/73jzXeG2NBl4F7LcqhbSJi"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Nightvision",
-        "url": "https://open.spotify.com/album/5s3gSxV9tBusv4Wjnaw9es"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "Nightvision",
-      "url": "https://open.spotify.com/track/5QwuhBa8X0K2ZszcYcnuMu"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Taking One For The Team",
-        "url": "https://open.spotify.com/album/42vWjU6FshVM4NMZgYlOMg"
-      },
-      "artists": [
-        {
-          "name": "worlds greatest dad",
-          "url": "https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Taking One For The Team",
-      "url": "https://open.spotify.com/track/1nJjKIoDhEobvLXU3isiEQ"
     },
     {
       "added_at": "2024-08-19 15:06:52",
@@ -1371,22 +1291,6 @@
       "duration_ms": 206386,
       "name": "Word",
       "url": "https://open.spotify.com/track/2tEngkFRAH5dyYAe8iWCS7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "CARRY YOU",
-        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 188763,
-      "name": "CARRY YOU",
-      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1533,22 +1437,6 @@
       "url": "https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Perfect Hand",
-        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 248535,
-      "name": "Perfect Hand",
-      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Suntub",
@@ -1579,22 +1467,6 @@
       "duration_ms": 188306,
       "name": "don't want u to die",
       "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Van Goes",
-        "url": "https://open.spotify.com/album/2w2CfjTUKr4YzODWtOeMSz"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 213904,
-      "name": "Van Goes",
-      "url": "https://open.spotify.com/track/093h09L86XdJXkAOQcXMrk"
     },
     {
       "added_at": "2024-06-07 04:00:00",

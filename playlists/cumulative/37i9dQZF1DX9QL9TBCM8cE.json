@@ -167,24 +167,6 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS ECHOES 02",
-        "url": "https://open.spotify.com/album/0bmy6yzRscYokfmy3HDutu"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "date_added": "2024-07-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271933,
-      "name": "Bunmei Kaika Rondo -City Hallelujah-",
-      "url": "https://open.spotify.com/track/6FuVaZJfih20dFI0Kk3Yed"
-    },
-    {
-      "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 05",
         "url": "https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw"
       },
@@ -466,7 +448,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 254133,
       "name": "Happy Funny Lucky",
       "url": "https://open.spotify.com/track/6VNIjYDc8UN0il9UZNr2R7"
@@ -1418,7 +1400,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 225333,
       "name": "\u304f\u3060\u3089\u306a\u3044\u3084",
       "url": "https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c"
@@ -2268,6 +2250,24 @@
       "duration_ms": 260433,
       "name": "\u653e\u8ab2\u5f8c\u30de\u30ae\u30a2",
       "url": "https://open.spotify.com/track/4whS7R5How6pnqO051Oo6V"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS ECHOES 02",
+        "url": "https://open.spotify.com/album/0bmy6yzRscYokfmy3HDutu"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271933,
+      "name": "\u6587\u660e\u958b\u82b1\u8f2a\u821e -\u30b7\u30c6\u30a3\u30fb\u30cf\u30ec\u30eb\u30e4-",
+      "url": "https://open.spotify.com/track/6FuVaZJfih20dFI0Kk3Yed"
     },
     {
       "album": {

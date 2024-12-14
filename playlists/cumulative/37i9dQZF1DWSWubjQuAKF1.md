@@ -4,7 +4,7 @@
 
 > nasze brzmienie ✨ Cover: Paula Biskup
 
-257 songs - 12 hr 1 min
+258 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [NIE ZNASZ JEJ \- Acoustic](https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ \(Acoustic\)](https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ) | 2:30 | 2024-07-18 | 2024-12-07 |
 | [Niebezpiecznie mi](https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Niebezpiecznie mi](https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |
+| [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 | 2024-12-13 |  |
 | [niepoprawny numer](https://open.spotify.com/track/1qQBmFKklewJcXs2RKDiyJ) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [niepoprawny numer](https://open.spotify.com/album/6tXyS48SrYdVv5IALccmMM) | 3:08 | 2024-06-28 | 2024-08-31 |
 | [Nigdy więcej nie tańcz ze mną](https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [KAPEWU](https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB) | 2:57 | 2024-06-28 | 2024-11-08 |
 | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/track/1bYBqT5E4ryPuJOND0T8tg) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/album/4Acsz9wsCjiNjexIh91u1p) | 2:15 | 2024-11-21 |  |
@@ -169,7 +170,7 @@
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 |  |
 | [Okej](https://open.spotify.com/track/7G6hL64mboXjkMRjbkIAAT) | [Martyna Gąsak](https://open.spotify.com/artist/5Ne3HqzciPsPhYX4jl1obI) | [Okej](https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [OMG](https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [OMG](https://open.spotify.com/album/0oXn4IpuCHcQvEEe6a0U5C) | 3:23 | 2024-08-01 |  |
-| [Ona](https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC) | [xavier.](https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Ona](https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej) | 2:44 | 2024-11-28 |  |
+| [Ona](https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC) | [xavier.](https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Ona](https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej) | 2:44 | 2024-11-28 | 2024-12-14 |
 | [Ona jest niebywała](https://open.spotify.com/track/3SDkCauHsCFX3cgdntWDzf) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Ona jest niebywała](https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC) | 2:01 | 2024-08-30 |  |
 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-28 | 2024-09-14 |
 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 | 2024-08-30 |  |

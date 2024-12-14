@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Aquatic",
+        "url": "https://open.spotify.com/album/6NZbBcbeHe58qzBH3HG6jk"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128059,
+      "name": "Aquatic",
+      "url": "https://open.spotify.com/track/1szLeo8Xe0ORunL6DTW3Pu"
+    },
+    {
+      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -15414,7 +15432,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 170000,
       "name": "Mayor",
       "url": "https://open.spotify.com/track/78JW2b8R8sTERHwJ46eSqg"

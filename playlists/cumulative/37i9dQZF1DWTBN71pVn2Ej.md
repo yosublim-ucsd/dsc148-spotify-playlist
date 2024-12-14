@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with MERCURY \(pictured\), TNL VZN, Footballhead, Flycatcher and more.
+> The shape of noise to come with L.S\. Dunes \(pictured\), Superheaven, Footballhead, Flycatcher and more.
 
-751 songs - 1 day 18 hr 52 min
+754 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 | 2022-03-31 | 2022-07-29 |
 | [Bishop](https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Bishop](https://open.spotify.com/album/6EiCp9jppjy93zMv96CDYG) | 3:37 | 2024-08-16 | 2024-10-12 |
 | [Bite The Knife](https://open.spotify.com/track/4OyXflQMqMFOSVyYrAxoz6) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Rosemont \- EP](https://open.spotify.com/album/3PDMl2E4oyJjuHr0t3BYxP) | 2:27 | 2024-06-07 | 2024-10-26 |
-| [Bittersweet Mary](https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Bittersweet Mary](https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB) | 3:54 | 2024-06-14 |  |
+| [Bittersweet Mary](https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Bittersweet Mary](https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB) | 3:54 | 2024-06-14 | 2024-12-14 |
 | [Black Sky](https://open.spotify.com/track/3NGnjrnNzqOOEQ0sHV2KAp) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Black Sky](https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ) | 3:45 | 2022-09-30 | 2023-05-20 |
 | [Black Wax](https://open.spotify.com/track/4V31QTDG2d8ljBOpp0Y0E4) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Black Wax](https://open.spotify.com/album/4qVsaVR3UeytC0EOyYQhmX) | 2:56 | 2022-10-07 | 2022-11-12 |
 | [Blank Stare](https://open.spotify.com/track/0ayRdvWxhKZ03sm4xDuGye) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Blank Stare](https://open.spotify.com/album/0IxuqnoImXEUup7oal9fcN) | 3:41 | 2023-04-21 | 2023-07-04 |
@@ -170,6 +170,7 @@
 | [Corners Peeling](https://open.spotify.com/track/4xsnwt1XXsIhlH71cbgto9) | [Horror My Friend](https://open.spotify.com/artist/0beSP3JKpM7CKshcYrNMyb) | [repaper](https://open.spotify.com/album/7iO6H6I4MdRY91NaA0GrOb) | 4:03 | 2022-12-02 | 2023-03-03 |
 | [Cottonmouth](https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 3:58 | 2022-09-30 | 2023-02-10 |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
+| [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 | 2024-12-13 |  |
 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 | 2024-12-04 |
 | [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-10-14 | 2024-12-07 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-10 | 2023-05-04 |
@@ -234,7 +235,7 @@
 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 | 2024-01-19 | 2024-07-27 |
 | [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 | 2024-09-13 | 2024-11-09 |
 | [Esruc](https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 2:16 | 2024-05-17 |  |
-| [Evergreen](https://open.spotify.com/track/0B2x5WZe10wZwQymjH4cKL) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Evergreen](https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX) | 3:07 | 2024-10-04 |  |
+| [Evergreen](https://open.spotify.com/track/0B2x5WZe10wZwQymjH4cKL) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Evergreen](https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX) | 3:07 | 2024-10-04 | 2024-12-14 |
 | [Everything Blu](https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Everything Blu](https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R) | 3:05 | 2023-08-31 | 2024-03-28 |
 | [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-07-20 | 2023-10-14 |
 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-21 | 2023-06-29 |
@@ -277,6 +278,7 @@
 | [Get in the Car](https://open.spotify.com/track/2CWJDVIBBIFQlJvesGdxvP) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Get in the Car](https://open.spotify.com/album/0wuVKMqNcc5Dzsvs8oNtqM) | 3:28 | 2022-03-24 | 2022-09-01 |
 | [Ghost](https://open.spotify.com/track/2dlrU8rkjGhJZ78Y1USwau) | [Day Saints](https://open.spotify.com/artist/3DjOiXzQgfpGW3hXxQCvd6) | [Warmth // Ghost](https://open.spotify.com/album/2ojQavRkjdDT1WYU9F1zA7) | 4:01 | 2024-10-18 |  |
 | [Ghost of Me](https://open.spotify.com/track/13h4nnoCFSoViZg6qkbB06) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Ghost of Me](https://open.spotify.com/album/6t57vk4AnlqKEKVReNSund) | 3:47 | 2021-12-16 | 2022-03-22 |
+| [Ghosts](https://open.spotify.com/track/2svpdfxyaEL2wj2e9O3QYk) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Ghosts](https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR) | 3:01 | 2024-12-13 |  |
 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 | 2024-03-22 | 2024-11-02 |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 | 2023-02-25 |
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
@@ -492,6 +494,7 @@
 | [Now, Life is Living You](https://open.spotify.com/track/2hsUzg683EDNgfLFcSE1Od) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Now, Life is Living You](https://open.spotify.com/album/3ZTMgdRwjtAQMEEXaY8cod) | 3:36 | 2021-12-16 | 2022-02-18 |
 | [Nuclear Boy Scout](https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Nuclear Boy Scout](https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz) | 3:39 | 2024-03-01 | 2024-03-28 |
 | [Nullify](https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Nullify](https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ) | 3:19 | 2022-06-23 | 2022-09-23 |
+| [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 | 2024-12-13 |  |
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-21 | 2023-05-04 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-31 | 2022-11-05 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-07-29 |
@@ -688,7 +691,7 @@
 | [Tightrope \(Walking on a Wire\)](https://open.spotify.com/track/49LcaMiwb4jRwkhLjsxcgD) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:23 | 2023-03-10 | 2023-07-15 |
 | [Time Won't Wait](https://open.spotify.com/track/2mw4vltQ8uDvLo6cbYvRt7) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [All The Rage](https://open.spotify.com/album/3pp1n3C4QILVIX1DDyOXCV) | 3:43 | 2021-12-16 | 2022-02-04 |
 | [Tired](https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Tired](https://open.spotify.com/album/795D24YUGoF1H1VuHVEGlk) | 3:20 | 2021-12-16 | 2022-01-14 |
-| [Tired Eyes](https://open.spotify.com/track/4mDfcifrz9yvE4qwWl5onA) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Tired Eyes](https://open.spotify.com/album/5Eiy3yNtWvmWH0WFwYPYeq) | 3:04 | 2024-11-08 |  |
+| [Tired Eyes](https://open.spotify.com/track/4mDfcifrz9yvE4qwWl5onA) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Tired Eyes](https://open.spotify.com/album/5Eiy3yNtWvmWH0WFwYPYeq) | 3:04 | 2024-11-08 | 2024-12-14 |
 | [Title Track](https://open.spotify.com/track/6IOm2HdES3uec7DIdy3oBJ) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Title Track](https://open.spotify.com/album/1yP0qGCiMHxTX8eo3LqVO4) | 3:47 | 2022-10-21 | 2022-11-05 |
 | [TNT](https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [TNT](https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI) | 2:55 | 2024-08-02 | 2024-11-02 |
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-14 | 2024-03-09 |

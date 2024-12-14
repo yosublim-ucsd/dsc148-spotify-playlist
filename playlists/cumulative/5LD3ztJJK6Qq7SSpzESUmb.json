@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Don't Wanna Be) Just A Memory",
+        "url": "https://open.spotify.com/album/54sTqFr1XE4LCIHkBwPk4b"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "(I Don't Wanna Be) Just A Memory",
+      "url": "https://open.spotify.com/track/2mxA7nJ19UTxVFaDPHrTFw"
+    },
+    {
+      "album": {
         "name": "(Re)-Extract",
         "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
       },
@@ -60,6 +78,24 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
+    },
+    {
+      "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
     },
     {
       "album": {
@@ -186,7 +222,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 230182,
       "name": "A PLACE CALLED EUPHORIA",
       "url": "https://open.spotify.com/track/5CcJq7qz9fLKaA6DLpffeF"
@@ -740,7 +776,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
@@ -870,7 +906,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 385413,
       "name": "Birna",
       "url": "https://open.spotify.com/track/0VFjKovOdQZje1n3nLwGAb"
@@ -924,7 +960,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
@@ -1014,7 +1050,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 78880,
       "name": "Brainslide",
       "url": "https://open.spotify.com/track/6bR04VShmdxNlvwys9X018"
@@ -1093,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It?",
+        "url": "https://open.spotify.com/album/0iQ8c6fjNO1LzNtX78KcMt"
+      },
+      "artists": [
+        {
+          "name": "TheCityIsOurs",
+          "url": "https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Can You Feel It?",
+      "url": "https://open.spotify.com/track/4nbk4dosWr4zRTs0nzcYcP"
+    },
+    {
+      "album": {
         "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
         "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
       },
@@ -1151,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Certain Uncertainty",
+        "url": "https://open.spotify.com/album/3FCg368KxS7pLB9K4rWC03"
+      },
+      "artists": [
+        {
+          "name": "Reba Meyers",
+          "url": "https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316901,
+      "name": "Certain Uncertainty",
+      "url": "https://open.spotify.com/track/7AJxRTf9Dz0dv0nc0g3NTf"
+    },
+    {
+      "album": {
         "name": "Chainsaw Saviour",
         "url": "https://open.spotify.com/album/5aO3PtLctbw7asMwVyuhTH"
       },
@@ -1184,6 +1256,24 @@
       "duration_ms": 204574,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/4RPgbrUEf2PxdGbVXhmUtS"
+    },
+    {
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "album": {
@@ -1486,7 +1576,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 318056,
       "name": "Corpus Colosseum",
       "url": "https://open.spotify.com/track/3KvlLPAn6EclzBov24F70r"
@@ -1540,7 +1630,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 187512,
       "name": "Creepshow",
       "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
@@ -1580,7 +1670,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 244413,
       "name": "Cruel Perception",
       "url": "https://open.spotify.com/track/0geeDy81nzqmmoTff45A38"
@@ -1840,7 +1930,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 199218,
       "name": "Don't Wanna Talk About Love",
       "url": "https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8"
@@ -1916,6 +2006,24 @@
       "duration_ms": 269853,
       "name": "Dream Stealer",
       "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f6m S\u00e5ng",
+        "url": "https://open.spotify.com/album/6GJP356Q51HkTjm7jjJ1nO"
+      },
+      "artists": [
+        {
+          "name": "K\u00ebkht Ar\u00e4kh",
+          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267232,
+      "name": "Dr\u00f6m S\u00e5ng",
+      "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
     },
     {
       "album": {
@@ -2002,7 +2110,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 172172,
       "name": "Everything Burns",
       "url": "https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk"
@@ -2115,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Faceless Matter",
+        "url": "https://open.spotify.com/album/2cdwIvvpRwkF7kqFzn4SlM"
+      },
+      "artists": [
+        {
+          "name": "Cryptosis",
+          "url": "https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Faceless Matter",
+      "url": "https://open.spotify.com/track/3HILhon2SyzD4FQllRrh8K"
+    },
+    {
+      "album": {
         "name": "Failure Is The Mother Of Success",
         "url": "https://open.spotify.com/album/1yFdK1AXmoDdaESNLuF4zF"
       },
@@ -2126,7 +2252,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 466094,
       "name": "Failure Is The Mother Of Success",
       "url": "https://open.spotify.com/track/3bk8USBmI4WzbIN2PvoOHC"
@@ -2570,7 +2696,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167354,
       "name": "Generation No Surrender",
       "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
@@ -2790,7 +2916,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 150640,
       "name": "Greed",
       "url": "https://open.spotify.com/track/6PVXY1tUVUsgKtRr3J3lAz"
@@ -2812,6 +2938,28 @@
       "duration_ms": 241413,
       "name": "Green Serpent",
       "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "album": {
+        "name": "Guilt Trip (feat. Mental Cruelty)",
+        "url": "https://open.spotify.com/album/4EwGr4b4RC2stv9yNVzrBR"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "Guilt Trip (feat. Mental Cruelty)",
+      "url": "https://open.spotify.com/track/6hPO9zpZu9AwFoK5SuvelO"
     },
     {
       "album": {
@@ -2898,7 +3046,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 188506,
       "name": "Head & Spine",
       "url": "https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD"
@@ -3198,7 +3346,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 205960,
       "name": "How Are You Mine?",
       "url": "https://open.spotify.com/track/62kUIyUi3isa8KHMozi7JO"
@@ -3241,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4wEirRCcW48OpHdVIzpt2G"
       },
@@ -3274,6 +3440,24 @@
       "duration_ms": 229490,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr"
+    },
+    {
+      "album": {
+        "name": "I Hate Myself",
+        "url": "https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195975,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck"
     },
     {
       "album": {
@@ -3400,6 +3584,24 @@
       "duration_ms": 188496,
       "name": "In The Bible",
       "url": "https://open.spotify.com/track/6TFA1oVhpY6gRpKFmjRsUS"
+    },
+    {
+      "album": {
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "In The Grey",
+      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
     },
     {
       "album": {
@@ -4072,7 +4274,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 255858,
       "name": "Love Burns",
       "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
@@ -4328,7 +4530,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 248386,
       "name": "Metric Of Grief",
       "url": "https://open.spotify.com/track/1ytnPeXr30ENSOoEXVBPYz"
@@ -4861,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "Not The President",
+        "url": "https://open.spotify.com/album/55xKcLGfYo8s0lS7i7pvcl"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378639,
+      "name": "Not The President",
+      "url": "https://open.spotify.com/track/7xCJJXls99m1k3WQmgg2UD"
+    },
+    {
+      "album": {
         "name": "Oblivion Eyes",
         "url": "https://open.spotify.com/album/39OcH8qmLHG9cWKzyq3jGU"
       },
@@ -5313,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "playing house",
+        "url": "https://open.spotify.com/album/1uPlv4qQbrcRaW6NLV4VSd"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160236,
+      "name": "playing house",
+      "url": "https://open.spotify.com/track/4yKQw1LShMU9o5BuuadqWp"
+    },
+    {
+      "album": {
         "name": "PowerNerd",
         "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
       },
@@ -5360,7 +5598,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 312546,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
@@ -5458,6 +5696,24 @@
       "duration_ms": 213920,
       "name": "Raigeki \u96f7\u6483",
       "url": "https://open.spotify.com/track/0C2awQ4olwwSjkpEMmiNdU"
+    },
+    {
+      "album": {
+        "name": "Razors of Occam",
+        "url": "https://open.spotify.com/album/4EDD4COGzYcB3A7B45hElc"
+      },
+      "artists": [
+        {
+          "name": "Abduction",
+          "url": "https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395386,
+      "name": "Razors of Occam",
+      "url": "https://open.spotify.com/track/3KxxMqiC2V3CXZfIlHcFbB"
     },
     {
       "album": {
@@ -5985,6 +6241,24 @@
     },
     {
       "album": {
+        "name": "SNO",
+        "url": "https://open.spotify.com/album/63kkyZzO8cICAPTiXT8TMc"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283533,
+      "name": "SNO",
+      "url": "https://open.spotify.com/track/6ESav5wo8X785sX1NyH9bc"
+    },
+    {
+      "album": {
         "name": "Soft Glow",
         "url": "https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF"
       },
@@ -6325,6 +6599,24 @@
     },
     {
       "album": {
+        "name": "Sulfur",
+        "url": "https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206180,
+      "name": "Sulfur",
+      "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
+    },
+    {
+      "album": {
         "name": "Sum Kinda Syko",
         "url": "https://open.spotify.com/album/5vaiMc8YWWBaosDCLRrA40"
       },
@@ -6376,6 +6668,24 @@
       "duration_ms": 138120,
       "name": "Swear To God That I'm (FINE)",
       "url": "https://open.spotify.com/track/4f4nkhurM65iKrNRHw3r2z"
+    },
+    {
+      "album": {
+        "name": "Syntax Terror",
+        "url": "https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "Syntax Terror",
+      "url": "https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt"
     },
     {
       "album": {
@@ -6592,7 +6902,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 345443,
       "name": "The End Will Show Us How",
       "url": "https://open.spotify.com/track/0g5qocslCPAnbLvbUXdjWY"
@@ -7273,6 +7583,28 @@
     },
     {
       "album": {
+        "name": "Ultimate Penalty",
+        "url": "https://open.spotify.com/album/1y8SHY1WOjjsHD3INbQfUb"
+      },
+      "artists": [
+        {
+          "name": "Grove Street",
+          "url": "https://open.spotify.com/artist/41hQlpi3r8ljXeRYbHbUBD"
+        },
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "Ultimate Penalty",
+      "url": "https://open.spotify.com/track/2IgbVGleKzMBPwEZ9yW8I1"
+    },
+    {
+      "album": {
         "name": "Unt",
         "url": "https://open.spotify.com/album/2LRfdlyBtyD2E9fwxnYdA0"
       },
@@ -7486,7 +7818,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 134520,
       "name": "Western Stars & The Apocalypse",
       "url": "https://open.spotify.com/track/5CTkWuK9HHKyDH4JA0mF0M"
@@ -7749,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Zhikarta",
+        "url": "https://open.spotify.com/album/0LWXHynZHuOBIXhEnOKWOf"
+      },
+      "artists": [
+        {
+          "name": "Pothamus",
+          "url": "https://open.spotify.com/artist/3oKgJ6083BjtllXxDN3TD5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446106,
+      "name": "Zhikarta",
+      "url": "https://open.spotify.com/track/15lWMuebOWAVJCUqorXKi1"
+    },
+    {
+      "album": {
         "name": "\u00a71 (Radio Edit)",
         "url": "https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k"
       },
@@ -7778,7 +8128,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 187840,
       "name": "\u3044\u3068\u3092\u304b\u3057MyType",
       "url": "https://open.spotify.com/track/2FWQeQtJToIZdZWuaivtJd"

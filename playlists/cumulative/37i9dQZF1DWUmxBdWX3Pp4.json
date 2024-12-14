@@ -9303,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Ruleta",
+        "url": "https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0"
+      },
+      "artists": [
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/3Vv3mvIbY45MFMowOz4odr"
+    },
+    {
+      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
       },

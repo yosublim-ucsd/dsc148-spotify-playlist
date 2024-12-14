@@ -110,10 +110,28 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 144025,
       "name": "All My Ex's",
       "url": "https://open.spotify.com/track/6YwowKYQtoEzPm5WOkaTCq"
+    },
+    {
+      "album": {
+        "name": "All My Ex's",
+        "url": "https://open.spotify.com/album/2bZqxikCqqArKNYCQ2CK9P"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144025,
+      "name": "All My Ex's",
+      "url": "https://open.spotify.com/track/6ker2OZmftyZ2zpfdGO3Aa"
     },
     {
       "album": {
@@ -2486,10 +2504,28 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 151236,
       "name": "Sick of Me Too",
       "url": "https://open.spotify.com/track/5p10pR7Hs1nM99bUwCAaqW"
+    },
+    {
+      "album": {
+        "name": "Sick of Me Too",
+        "url": "https://open.spotify.com/album/3YiObZSEulFloi6gA9V0rf"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151236,
+      "name": "Sick of Me Too",
+      "url": "https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb"
     },
     {
       "album": {

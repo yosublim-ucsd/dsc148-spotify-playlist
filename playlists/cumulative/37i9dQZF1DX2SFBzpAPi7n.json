@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Raon(\ub77c\uc628)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -272,6 +272,28 @@
       "duration_ms": 242000,
       "name": "707",
       "url": "https://open.spotify.com/track/0SeiziAZgaLJKssu9KYBwC"
+    },
+    {
+      "album": {
+        "name": "A DAY (Feat. NO:EL)",
+        "url": "https://open.spotify.com/album/6DLRPaltNA06Wda74t6huC"
+      },
+      "artists": [
+        {
+          "name": "Young code",
+          "url": "https://open.spotify.com/artist/1tLbXwuFI3FO4TXlVZm5xi"
+        },
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "A DAY (Feat. NO:EL)",
+      "url": "https://open.spotify.com/track/47LSp3DyU9PWj7po4ahooz"
     },
     {
       "album": {
@@ -2191,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/3OVO95pAzdpfBeowvaB6Qu"
+      },
+      "artists": [
+        {
+          "name": "Tuesday Beach Club",
+          "url": "https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW"
+    },
+    {
+      "album": {
         "name": "City of Freedom",
         "url": "https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC"
       },
@@ -2202,7 +2242,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 193610,
       "name": "City of Freedom",
       "url": "https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6"
@@ -2242,7 +2282,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 185750,
       "name": "CLOVER",
       "url": "https://open.spotify.com/track/59RE05wSPwo1OJex4BBJF5"
@@ -2660,7 +2700,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 243562,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6"
@@ -6672,7 +6712,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 185266,
       "name": "Lantern",
       "url": "https://open.spotify.com/track/3qN4gxKTvsFtqUqmiwhVM4"
@@ -7817,6 +7857,24 @@
     },
     {
       "album": {
+        "name": "Feelsun.zip",
+        "url": "https://open.spotify.com/album/2YOT6Gv1zGLOsmd81IW7gP"
+      },
+      "artists": [
+        {
+          "name": "Kim Feelsun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Midnight's Cat",
+      "url": "https://open.spotify.com/track/2BZLUI9quqfN84GvUlu0ZY"
+    },
+    {
+      "album": {
         "name": "Mikael",
         "url": "https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0"
       },
@@ -8286,7 +8344,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 205571,
       "name": "Night before the end",
       "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
@@ -8452,6 +8510,24 @@
       "duration_ms": 221390,
       "name": "NO PAIN",
       "url": "https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd"
+    },
+    {
+      "album": {
+        "name": "No Sad Christmas",
+        "url": "https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX"
+      },
+      "artists": [
+        {
+          "name": "umu",
+          "url": "https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "No Sad Christmas",
+      "url": "https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh"
     },
     {
       "album": {
@@ -9382,7 +9458,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 219626,
       "name": "Plasma",
       "url": "https://open.spotify.com/track/2hGfoOK9qmcNAPjYTEhw5G"
@@ -9812,6 +9888,24 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "album": {
+        "name": "RE.BOLD",
+        "url": "https://open.spotify.com/album/0LeKbrQaz6V3BBbKQ6IZV8"
+      },
+      "artists": [
+        {
+          "name": "Rolling Quartz",
+          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189990,
+      "name": "RE.BOLD",
+      "url": "https://open.spotify.com/track/41LJCJ3QR7KrdoVfYYP5Pl"
     },
     {
       "album": {
@@ -10696,6 +10790,24 @@
       "duration_ms": 161133,
       "name": "Secret Diary",
       "url": "https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ"
+    },
+    {
+      "album": {
+        "name": "SEMICOLON",
+        "url": "https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3"
+      },
+      "artists": [
+        {
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "SEMICOLON",
+      "url": "https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy"
     },
     {
       "album": {
@@ -12676,7 +12788,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 182646,
       "name": "Thursday Taco Man",
       "url": "https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw"
@@ -12748,7 +12860,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 162026,
       "name": "Tipsy On You",
       "url": "https://open.spotify.com/track/0yluJz564NozEcFDQnHELK"
@@ -13455,6 +13567,24 @@
     },
     {
       "album": {
+        "name": "We Go Run (Webtoon 'Study Group' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kuvuCfSr5opRuCwWHi3vS"
+      },
+      "artists": [
+        {
+          "name": "Raon",
+          "url": "https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "We Go Run",
+      "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"
+    },
+    {
+      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -13632,6 +13762,28 @@
       "duration_ms": 204426,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/1IEpD04PV3DYiVzR84Qdr4"
+    },
+    {
+      "album": {
+        "name": "Where the heart belongs",
+        "url": "https://open.spotify.com/album/628HWRPTZj5R9lOWdJtYi1"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        },
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256764,
+      "name": "When seasons go by",
+      "url": "https://open.spotify.com/track/529TocrwavR2122OfhPdHL"
     },
     {
       "album": {

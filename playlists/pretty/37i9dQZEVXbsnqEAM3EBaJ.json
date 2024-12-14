@@ -6,10 +6,170 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABZkG1Bg/yvAdqDUNqgOUdl",
+  "snapshot_id": "AAAAAAAAAAARuM37vyMoYOp8pLtnCqU/",
   "tracks": [
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Everything (Jaxx Club Vocal Mix)",
+        "url": "https://open.spotify.com/album/7dPLMtTuhbKFisRsg6IIzv"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 399546,
+      "name": "Everything - Jaxx Club Vocal",
+      "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "One Last Breath (Jojo Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/6PHhYiChCjFHT8MmzuTfc4"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "name": "Jojo Lorenzo",
+          "url": "https://open.spotify.com/artist/6UgM4bgF7TuDaHF0VOF3JW"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "One Last Breath - Jojo Lorenzo Remix",
+      "url": "https://open.spotify.com/track/0oSjvM4Q8kxRvixGI0vGxL"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Some Dreams",
+        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 315007,
+      "name": "Got To Get To You",
+      "url": "https://open.spotify.com/track/176d7hzG7P17GfzZU0L3oF"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
+        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 269701,
+      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
+      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Your Name In Lights",
+        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Your Name In Lights",
+      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Vida (Remixes)",
+        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Ni\u00f1x - DJ TEE Remix",
+      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Swan Lake (Drill Version)",
+        "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
+      },
+      "artists": [
+        {
+          "name": "Opera Wave",
+          "url": "https://open.spotify.com/artist/4XZtA1u7uPNhDuvDjpMpF7"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "Swan Lake - Drill Version",
+      "url": "https://open.spotify.com/track/2sDzWQYfkXblH5YBOaDodt"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 140915,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "One Assassination Under God - Chapter 1",
+        "url": "https://open.spotify.com/album/16PEiWfVzjHWJ6i8nGtfLd"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 328332,
+      "name": "One Assassination Under God",
+      "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "A Broken Man",
         "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
@@ -25,7 +185,7 @@
       "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
@@ -41,23 +201,7 @@
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Creepshow",
         "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
@@ -73,7 +217,55 @@
       "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Brotherhood (Definitive Edition)",
+        "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Touched by the Hand of God - Salvation Version",
+      "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "copy/paste, vol. 1 (abridged)",
+        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 281212,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
@@ -97,23 +289,23 @@
       "url": "https://open.spotify.com/track/7kxKxF9WUqhN9wF288xje4"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
         }
       ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+      "duration_ms": 218453,
+      "name": "In The Grey",
+      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Premonition",
         "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
@@ -129,7 +321,7 @@
       "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
@@ -149,23 +341,23 @@
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "In The Grey",
-        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+        "name": "Through Storms Ahead",
+        "url": "https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2"
       },
       "artists": [
         {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 218453,
-      "name": "In The Grey",
-      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
+      "duration_ms": 234880,
+      "name": "A Broken Reflection",
+      "url": "https://open.spotify.com/track/10B85suWQLcrp50jD81blm"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "White Bikes",
         "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
@@ -181,7 +373,23 @@
       "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Living in the Material World (50th Anniversary)",
+        "url": "https://open.spotify.com/album/07ATO4RL8vPRD3zuMoHYVm"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "That Is All - Take 24",
+      "url": "https://open.spotify.com/track/7sJrszbF3RaDgQJMxVMYbW"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
@@ -201,7 +409,7 @@
       "url": "https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Generation No Surrender",
         "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
@@ -217,279 +425,43 @@
       "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
-        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
+        "name": "Bad Sisters (Season 2) [Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj"
       },
       "artists": [
         {
-          "name": "Silent Killer",
-          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         },
         {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        },
-        {
-          "name": "Short Circuit",
-          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
+          "name": "Tim Phillips",
+          "url": "https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h"
         }
       ],
-      "duration_ms": 312237,
-      "name": "Downfall (Short Circuit Remix)",
-      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
+      "duration_ms": 92000,
+      "name": "The Fairy Thorn Tree",
+      "url": "https://open.spotify.com/track/3eM80HhW4LhWooNyB4bIeL"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+        "name": "Universal Tales",
+        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+      "duration_ms": 281933,
+      "name": "Universal - Orchestral Version",
+      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Sin T\u00e1lamo",
-        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
-      },
-      "artists": [
-        {
-          "name": "Charly Humos",
-          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
-        },
-        {
-          "name": "TanatosLakactus",
-          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Buler\u00eda (feat. Matiah Chinaski)",
-      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Universo De Ley",
-        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 173315,
-      "name": "Agua Y Sal",
-      "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Sky Restaurant",
-        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Sky Restaurant",
-      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Navidad De Locos",
-        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 176432,
-      "name": "Navidad De Locos",
-      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Universo De Ley",
-        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 184341,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "El Chucu Chucu",
-        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 163865,
-      "name": "El Chucu Chucu",
-      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Angels In The Snow (Discotastique! Mix)",
-        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Angels In The Snow - Discotastique! Mix",
-      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 140915,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "One Assassination Under God - Chapter 1",
-        "url": "https://open.spotify.com/album/16PEiWfVzjHWJ6i8nGtfLd"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 328332,
-      "name": "One Assassination Under God",
-      "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Brotherhood (Definitive Edition)",
-        "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Touched by the Hand of God - Salvation Version",
-      "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Through Storms Ahead",
-        "url": "https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "A Broken Reflection",
-      "url": "https://open.spotify.com/track/10B85suWQLcrp50jD81blm"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Living in the Material World (50th Anniversary)",
-        "url": "https://open.spotify.com/album/07ATO4RL8vPRD3zuMoHYVm"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "That Is All - Take 24",
-      "url": "https://open.spotify.com/track/7sJrszbF3RaDgQJMxVMYbW"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Agradecida",
         "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
@@ -513,59 +485,7 @@
       "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Bad Sisters (Season 2) [Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        },
-        {
-          "name": "Tim Phillips",
-          "url": "https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "The Fairy Thorn Tree",
-      "url": "https://open.spotify.com/track/3eM80HhW4LhWooNyB4bIeL"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Universal Tales",
-        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Universal - Orchestral Version",
-      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Nice 'N' Easy (Remastered 2024)",
-        "url": "https://open.spotify.com/album/7h6eW4DaAtwvPO1KwHPy3k"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 139757,
-      "name": "I've Got a Crush on You - Remastered",
-      "url": "https://open.spotify.com/track/6XlzTzN458sitSHK7mD9BT"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "all we get is life",
         "url": "https://open.spotify.com/album/47sI5yYyYUmTTNo0CyMDAm"
@@ -597,7 +517,7 @@
       "url": "https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
@@ -629,23 +549,7 @@
       "url": "https://open.spotify.com/track/6kqdQYqsuizn6tW4FPjM6I"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Well Alright! (Remastered 2024)",
-        "url": "https://open.spotify.com/album/47GxL9FLBMyFhGabm4cmq0"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 131871,
-      "name": "Bama-Lama Bama-Loo - Remastered",
-      "url": "https://open.spotify.com/track/73EzDT5sDUUOKQSHdI7bSa"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
@@ -661,23 +565,123 @@
       "url": "https://open.spotify.com/track/0FqyUb2hys84hcHcTwmU67"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Otaku",
-        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
+        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
+        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+          "name": "Silent Killer",
+          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
+        },
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        },
+        {
+          "name": "Short Circuit",
+          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
         }
       ],
-      "duration_ms": 198066,
-      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
-      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
+      "duration_ms": 312237,
+      "name": "Downfall (Short Circuit Remix)",
+      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Sin T\u00e1lamo",
+        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
+      },
+      "artists": [
+        {
+          "name": "Charly Humos",
+          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
+        },
+        {
+          "name": "TanatosLakactus",
+          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Buler\u00eda (feat. Matiah Chinaski)",
+      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Sky Restaurant",
+        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Sky Restaurant",
+      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Universo De Ley",
+        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 173315,
+      "name": "Agua Y Sal",
+      "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "La Hoja del Sol",
         "url": "https://open.spotify.com/album/2hvBltbrGufOoQ4GNPQGk7"
@@ -693,35 +697,119 @@
       "url": "https://open.spotify.com/track/3WuoYJBaOKZppiMk9bU3g5"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Tchaikovsky: The Nutcracker Suite, Op. 71a: III. Waltz of the Flowers (Arr. Campbell for Violin & Orchestra)",
-        "url": "https://open.spotify.com/album/1w7c3kWfJZ51HvEHDvasj3"
+        "name": "Otaku",
+        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Christian Li",
-          "url": "https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
-        },
-        {
-          "name": "Jascha von der Goltz",
-          "url": "https://open.spotify.com/artist/7zvnK5JjOCwZRlphWmGt6J"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 316160,
-      "name": "The Nutcracker Suite, Op. 71a: III. Waltz of the Flowers (Arr. Campbell for Violin & Orchestra)",
-      "url": "https://open.spotify.com/track/1lpeOFTw1HWcsCWWdvDUgc"
+      "duration_ms": 198066,
+      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
+      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Universo De Ley",
+        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 184341,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Navidad De Locos",
+        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 176432,
+      "name": "Navidad De Locos",
+      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Breathless (Warren Remix)",
+        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        },
+        {
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Breathless - Warren Remix",
+      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "El Chucu Chucu",
+        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 163865,
+      "name": "El Chucu Chucu",
+      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Angels In The Snow (Discotastique! Mix)",
+        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "Angels In The Snow - Discotastique! Mix",
+      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "NDUE",
         "url": "https://open.spotify.com/album/7aSoqYV2OMw4FRN5JsU1yU"
@@ -745,7 +833,7 @@
       "url": "https://open.spotify.com/track/09lzTYJ4Eh4A8O2nG8NCVV"
     },
     {
-      "added_at": "2024-12-06 03:00:00",
+      "added_at": "2024-12-13 03:00:00",
       "album": {
         "name": "ECHOES",
         "url": "https://open.spotify.com/album/6BLQi8FQxIX3bfeowXYQkp"

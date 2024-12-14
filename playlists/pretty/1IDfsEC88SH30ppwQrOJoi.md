@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,407 likes - 89 songs - 4 hr 26 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,406 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 87 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |
 | 88 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 |
 | 89 | [All Night Long](https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Nate James](https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:59 |
+| 90 | [All Night](https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy) | [All Night](https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD) | 2:20 |
 
-Snapshot ID: `AAAKJE5bocaDk2oL9WtM3i8yeHxW/dwr`
+Snapshot ID: `AAAKJVASKDwB1JDUlBw5pYFOt6Pf24Lg`

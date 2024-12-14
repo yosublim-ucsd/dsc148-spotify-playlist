@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,666 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,709 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 35 | [Perto de Mim](https://open.spotify.com/track/67kiStmC7V8j7deoohUd5O) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM), [Brunito Beats](https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu) | [MIXTAPE FUTURO PROMETIDO](https://open.spotify.com/album/2ZNU5Mwlir0yIH5Jkw5eNc) | 3:49 |
 | 36 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 37 | [Funk Rave](https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:27 |
-| 38 | [300 no 7](https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Quem Quer F1 Com o G?](https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E) | 3:15 |
+| 38 | [300 no 7](https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ PEPI](https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC), [DJ Rafinha](https://open.spotify.com/artist/0AADVotaayIqi0PVeZjCYQ), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Quem Quer F1 Com o G?](https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E) | 3:15 |
 | 39 | [Me Bloqueia \(Ao Vivo\)](https://open.spotify.com/track/0rosNwHC9T8YNu3EvXLPfX) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:17 |
 | 40 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/6IFMz6Buh3dKoUjULWE26n) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1uA9OubhaxPCMtZM5CMYzy) | 2:41 |
 | 41 | [Novinha do TKT](https://open.spotify.com/track/6SfcAUMXsi6eW6vZki5tC5) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg) | [Ao After e Além, Pt.2 \(Deluxe\)](https://open.spotify.com/album/4WxSKQaZ5Hxlgg8Bj9A8IH) | 2:52 |

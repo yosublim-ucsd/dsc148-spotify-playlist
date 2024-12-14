@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 77960,
+  "num_followers": 77976,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
+        "name": "Hardcore MF",
+        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
+      },
+      "artists": [
+        {
+          "name": "Access One",
+          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
+        }
+      ],
+      "duration_ms": 166308,
+      "name": "Hardcore MF",
+      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
         "name": "The Light (Defqon.1 2024 BLACK OST)",
         "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 215785,
       "name": "The Light (Defqon.1 2024 BLACK OST)",
       "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
-        "name": "Hardcore MF",
-        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
-      },
-      "artists": [
-        {
-          "name": "Access One",
-          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
-        }
-      ],
-      "duration_ms": 166308,
-      "name": "Hardcore MF",
-      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
+        "name": "Know Me Like",
+        "url": "https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        },
+        {
+          "name": "Rosbeek",
+          "url": "https://open.spotify.com/artist/1JBQEf0i8Vl8oPG7iUNzr0"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Know Me Like",
+      "url": "https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
         "name": "Back In The Game",
         "url": "https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 147789,
       "name": "Stress",
       "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
-        "name": "Know Me Like",
-        "url": "https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        },
-        {
-          "name": "Rosbeek",
-          "url": "https://open.spotify.com/artist/1JBQEf0i8Vl8oPG7iUNzr0"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Know Me Like",
-      "url": "https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "ART IS DEAD",
-        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "ART IS DEAD",
-      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
-    },
-    {
-      "added_at": "2024-12-12 23:00:12",
-      "album": {
         "name": "Coco's Revenge (Mind Compressor Remix)",
         "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+    },
+    {
+      "added_at": "2024-12-12 23:00:12",
+      "album": {
+        "name": "ART IS DEAD",
+        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "ART IS DEAD",
+      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
     },
     {
       "added_at": "2024-12-12 23:00:12",
@@ -983,22 +983,22 @@
     {
       "added_at": "2024-12-12 23:00:12",
       "album": {
-        "name": "Furious Anger",
-        "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "MBK",
+          "url": "https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd"
         },
         {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+          "name": "Hard Instruction",
+          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
         }
       ],
-      "duration_ms": 205647,
-      "name": "Furious Anger",
-      "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
+      "duration_ms": 135087,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

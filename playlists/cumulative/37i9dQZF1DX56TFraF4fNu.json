@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Nanpa B\u00e1sico y Lia Kali",
+  "description": "Dosis musical para disfrutar el momento. Foto: Rels B",
   "name": "Parchadito",
   "tracks": [
     {
@@ -58,6 +58,24 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
+    },
+    {
+      "album": {
+        "name": "nostalgia EP",
+        "url": "https://open.spotify.com/album/1fhc3XX8W5Z4fMZrEW4DzO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192439,
+      "name": "1000 Millones",
+      "url": "https://open.spotify.com/track/3VJx2G4tmT8RhHVtAqUkXS"
     },
     {
       "album": {
@@ -126,7 +144,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 213306,
       "name": "3 Noches",
       "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"

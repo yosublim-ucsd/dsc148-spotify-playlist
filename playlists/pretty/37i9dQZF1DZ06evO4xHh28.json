@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 580707,
+  "num_followers": 580817,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1jWAAAAAAAH27B9QzcCJKnDkfbbHg4p",
+  "snapshot_id": "Z1ongAAAAADcPmJJCsrNip5505HcjnXm",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Last Words",
-        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 268883,
-      "name": "Kill All Your Friends",
-      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 270386,
       "name": "SING",
       "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 268883,
+      "name": "Kill All Your Friends",
+      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Foundations of Decay",
-        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 360760,
-      "name": "The Foundations of Decay",
-      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 218120,
       "name": "Vampire Money",
       "url": "https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "All the Angels - Live Demo",
+      "url": "https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 156666,
       "name": "Bury Me in Black - Demo",
       "url": "https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "All the Angels - Live Demo",
-      "url": "https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F"
     },
     {
       "added_at": null,

@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 195254,
       "name": "and when you look at the stars",
       "url": "https://open.spotify.com/track/27vDk9u9ayaGS1S2mMW4eQ"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 135211,
       "name": "Baptized Freestyle",
       "url": "https://open.spotify.com/track/1zN1KTOKCSpADnzDBAlEAJ"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 208461,
       "name": "Bless Your Name",
       "url": "https://open.spotify.com/track/15VshmwYf6ode8MzvKaSwr"
@@ -1987,6 +1987,32 @@
     },
     {
       "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
+      },
+      "artists": [
+        {
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        },
+        {
+          "name": "Nyman",
+          "url": "https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222721,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
+    },
+    {
+      "album": {
         "name": "God makes art",
         "url": "https://open.spotify.com/album/0pls8fVwrc9cTyYQLz5vYD"
       },
@@ -2082,6 +2108,24 @@
       "duration_ms": 211530,
       "name": "God Steps In",
       "url": "https://open.spotify.com/track/0tqXlVcXdcuv6EyQeT9r7l"
+    },
+    {
+      "album": {
+        "name": "God With Me",
+        "url": "https://open.spotify.com/album/0zLKaPBVkeI2czmmnWbuPP"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "God With Me",
+      "url": "https://open.spotify.com/track/3pAl1arzMkdx2ZzdG6d51U"
     },
     {
       "album": {
@@ -2310,7 +2354,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 235026,
       "name": "Heaviness",
       "url": "https://open.spotify.com/track/06zZ5my6owwf2oMvbrNakG"
@@ -2364,7 +2408,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 157250,
       "name": "here comes the flood",
       "url": "https://open.spotify.com/track/3rsTuo8uyX71xT7MC4K3W4"
@@ -3015,6 +3059,82 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/26iTNWpp8SUzaW2h37Vgf8"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/5AcTJVInfoEJuO0MN3ScWV"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/72IRJbkNL1PAsKVX50S4QW"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225881,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU"
+    },
+    {
+      "album": {
+        "name": "Increase My Faith",
+        "url": "https://open.spotify.com/album/2XzuLv0v1BNdKPTKZ3DfvB"
+      },
+      "artists": [
+        {
+          "name": "Regina Reznick",
+          "url": "https://open.spotify.com/artist/39zYId0ufQkBZyqT9OMauP"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189072,
+      "name": "Increase My Faith",
+      "url": "https://open.spotify.com/track/5cvQmvB71hHvPIIGXzj81R"
+    },
+    {
+      "album": {
+        "name": "inflection: now i see II",
+        "url": "https://open.spotify.com/album/3yMjiNgMpcEZ8NFAJFb3SY"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "inflection: now i see II",
+      "url": "https://open.spotify.com/track/52IN2GoNAoozDHwaOkEuP0"
+    },
+    {
+      "album": {
         "name": "It Is Well (My Soul Sings)",
         "url": "https://open.spotify.com/album/6qAC5GtCNon0Kt3gKfWwKd"
       },
@@ -3392,7 +3512,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 172773,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/6SVv09lEJDuYiAIkd3LTH3"
@@ -3676,10 +3796,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 226767,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0xOukK5farrCveRNU00c8P"
+    },
+    {
+      "album": {
+        "name": "Mercy (Acoustic)",
+        "url": "https://open.spotify.com/album/0lAZMmUbRH7vjNFts9DPYO"
+      },
+      "artists": [
+        {
+          "name": "ANTHNY",
+          "url": "https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "Mercy (Acoustic)",
+      "url": "https://open.spotify.com/track/6QoIbamXRH7RAoFuStYJrE"
     },
     {
       "album": {
@@ -3728,6 +3866,24 @@
       "duration_ms": 218453,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/3QzlaToAAD4RAI1NneP6uH"
+    },
+    {
+      "album": {
+        "name": "More Like Jesus",
+        "url": "https://open.spotify.com/album/5bSAtbx4U7qmj5AeimMbAH"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217847,
+      "name": "More Like Jesus",
+      "url": "https://open.spotify.com/track/68T1LDboTCVS6F8Bc5k0L3"
     },
     {
       "album": {
@@ -3884,7 +4040,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 157243,
       "name": "Nights That I Cry",
       "url": "https://open.spotify.com/track/3UUNJU8HHTi3wmuttGCRAM"
@@ -3978,6 +4134,28 @@
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
+    },
+    {
+      "album": {
+        "name": "nothing but the blood.",
+        "url": "https://open.spotify.com/album/1nMap1E6Fzog3vCoXBJg59"
+      },
+      "artists": [
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "Lofi Hymns.",
+          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "nothing but the blood.",
+      "url": "https://open.spotify.com/track/0143LACTCbKmGms3Omf5Gg"
     },
     {
       "album": {
@@ -4094,7 +4272,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 209629,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/6LhDd3AM2XpMh8rrrjH4Tr"
@@ -4120,6 +4298,24 @@
       "duration_ms": 172216,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1q0btBTL3puxikBeac8QVW"
+    },
+    {
+      "album": {
+        "name": "Parish Won't Perish",
+        "url": "https://open.spotify.com/album/0DAezreO9djVxD7NB4ympq"
+      },
+      "artists": [
+        {
+          "name": "Tylan1k",
+          "url": "https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172879,
+      "name": "Parish Won't Perish",
+      "url": "https://open.spotify.com/track/1JFDD0G8nyVsO3J0mPgHbz"
     },
     {
       "album": {
@@ -4160,6 +4356,24 @@
       "duration_ms": 210000,
       "name": "Perfecto Amor",
       "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+    },
+    {
+      "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/21YUYeNtxtnFFcvvJHnY9d"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117929,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/1SOfUHoAmlbWMvJF0FqBXb"
     },
     {
       "album": {
@@ -5415,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "UNKNOWN",
+        "url": "https://open.spotify.com/album/08SYyLPowGtboVNpy4vPyo"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "UNKNOWN",
+      "url": "https://open.spotify.com/track/6QuHKxgmf43Dz3lHGl5996"
+    },
+    {
+      "album": {
         "name": "Unworthy",
         "url": "https://open.spotify.com/album/2J0Nkij8oXN0RG7YuEtjGS"
       },
@@ -5498,7 +5730,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 157058,
       "name": "wait",
       "url": "https://open.spotify.com/track/7lTzAuorrR23FNVSTxKzV7"
@@ -5794,7 +6026,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 336978,
       "name": "Window",
       "url": "https://open.spotify.com/track/6uaxr5V1uqwMiqXjqvvpm1"
@@ -5920,7 +6152,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 190764,
       "name": "Words Don\u2019t Pay",
       "url": "https://open.spotify.com/track/7mUIZS6AH2eVNhPdgPmSKz"

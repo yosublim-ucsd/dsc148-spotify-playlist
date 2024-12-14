@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-276 songs - 17 hr 55 min
+277 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blue Moon](https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye) | 3:00 | 2021-12-21 | 2024-10-30 |
 | [Blue Moon](https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj) | 3:00 | 2022-07-14 | 2024-04-19 |
 | [Blue Moon](https://open.spotify.com/track/5zYb6Z1d2dUhpLBoC3NAp4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Je Dis Oui!](https://open.spotify.com/album/02L3omBFDTHrt0rV39Zw0n) | 4:55 | 2022-09-08 | 2023-08-19 |
+| [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 |  |
 | [But Not For Me](https://open.spotify.com/track/10yrqpdl360XspuT9dyGRy) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Chanteuses de jazz](https://open.spotify.com/album/3I4OqVinsGyTZIC8Tqos3m) | 3:25 | 2023-10-04 | 2023-10-10 |
 | [But Not For Me](https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [The Molly Johnson Songbook](https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn) | 3:25 | 2021-12-21 |  |
 | [By Your Side](https://open.spotify.com/track/3VcmjpCGGY4ReELVr4R7aa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/5Ak10vSJ89AixhQQhx63kN) | 4:34 | 2021-12-21 | 2022-07-29 |
@@ -84,7 +85,7 @@
 | [Girl from Ipanema](https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW) | [Jonny Blu](https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw) | [The Best of Blu](https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT) | 2:50 | 2021-12-21 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-11-10 |  |
 | [Hands Off](https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:23 | 2024-03-20 | 2024-04-19 |
-| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-09 |  |
+| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-09 | 2024-12-14 |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2021-12-21 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 | 2021-12-21 | 2022-06-01 |
 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 | 2024-02-09 | 2024-07-20 |

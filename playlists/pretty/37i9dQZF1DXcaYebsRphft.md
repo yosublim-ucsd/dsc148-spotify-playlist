@@ -1,37 +1,30 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain](/playlists/plain/37i9dQZF1DXcaYebsRphft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcaYebsRphft)
 
-### [On Tour Japan: ZEROBASEONE](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
+### [On Tour Japan: NCT WISH ](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
 
-> 『2024 ZEROBASEONE THE FIRST TOUR \[TIMELESS WORLD\] IN JAPAN』セットリストを公開！
+> 『2024 NCT WISH ASIA TOUR LOG in JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,430 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,258 likes - 18 songs - 54 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Solar POWER](https://open.spotify.com/track/6krV5OL9K1Lb3BCRq8cKaH) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2) | 2:51 |
-| 2 | [Road Movie](https://open.spotify.com/track/5l8XiHnfoHtG999TzYo97r) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/09aNJ7OE6uiKnBZuXFigIn) | 3:00 |
-| 3 | [Take My Hand](https://open.spotify.com/track/5Y3fh5YVs425PjVYyG6Nfu) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 3:35 |
-| 4 | [New Kidz on the Block](https://open.spotify.com/track/1NHOTkAjKwkOiwDdaddnHL) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/3Vupzmw4Fjk2uTW7hUrji0) | 3:32 |
-| 5 | [KILL THE ROMEO](https://open.spotify.com/track/7n7duk7vrWMZy082TiFiUm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/09aNJ7OE6uiKnBZuXFigIn) | 3:18 |
-| 6 | [CRUSH \- Japanese ver.](https://open.spotify.com/track/0yZyOIPdrgJDdFByrQUrWi) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/27A3UO5hMd5WUHfw4n2NWv) | 2:49 |
-| 7 | [In Bloom \- Japanese ver.](https://open.spotify.com/track/32A0F3zsYBiKAUPRtcNWE2) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/27A3UO5hMd5WUHfw4n2NWv) | 3:00 |
-| 8 | [Insomnia](https://open.spotify.com/track/6clvVbsFeIKdLXqnHX9xj7) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/09aNJ7OE6uiKnBZuXFigIn) | 2:43 |
-| 9 | [Good Night](https://open.spotify.com/track/720jXS2AOBwvyJ6d3XDWCm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:59 |
-| 10 | [Always](https://open.spotify.com/track/62jZu5ozVsROg5pzBkxCA0) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/3Vupzmw4Fjk2uTW7hUrji0) | 2:09 |
-| 11 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 |
-| 12 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 |
-| 13 | [En Garde](https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3) | [En Butter](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:54 |
-| 14 | [Say My Name](https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC) | [Say Yes!](https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:19 |
-| 15 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 |
-| 16 | [Dear ECLIPSE](https://open.spotify.com/track/5qKT7XyMbcesdd4EneMPCX) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2) | 2:49 |
-| 17 | [Hot Summer](https://open.spotify.com/track/4eSaL5oRwSHcMGvmIrgYzP) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- FINAL TOP9 BATTLE](https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS) | 3:46 |
-| 18 | [SWEAT](https://open.spotify.com/track/1OjhuZHy37cY4JnkGNxFVh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2) | 3:11 |
-| 19 | [Kidz Zone](https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:29 |
-| 20 | [Feel the POP \- Japanese ver.](https://open.spotify.com/track/3KJHDWhswwu5WZdGfVaXSX) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Feel the POP \(Japanese ver.\)](https://open.spotify.com/album/4bINmqQE4GASzM887eOXUx) | 2:56 |
-| 21 | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/track/5wc3JZS10SM1JoCv13Fr5Y) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [GOOD SO BAD \(Japanese ver.\)](https://open.spotify.com/album/6s37gVR5yCdHFJfLbpkmBh) | 2:57 |
-| 22 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/3kkiffSH6ZRggYhu4lVxFR) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/27A3UO5hMd5WUHfw4n2NWv) | 3:04 |
-| 23 | [Sunday RIDE](https://open.spotify.com/track/6L71rGg445cCWUqiEH8a5X) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2) | 2:59 |
-| 24 | [Only One Story](https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story](https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp) | 3:39 |
-| 25 | [HELLO](https://open.spotify.com/track/5T0RB2PD60HVGIxQMvaPQv) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2) | 3:33 |
+| 1 | [Message from NCT WISH](https://open.spotify.com/track/1iqr3vlcZQyxJvJf5sm6gN) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Message from NCT WISH](https://open.spotify.com/album/5BXOvRZkNjot7dK2iyMpRm) | 0:44 |
+| 2 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
+| 3 | [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 |
+| 4 | [Sail Away \- Japanese Ver.](https://open.spotify.com/track/75WjCElnXqFSlzfycbCvtM) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:25 |
+| 5 | [3 Minutes](https://open.spotify.com/track/1OKZWwtf5Sp3L0gBJXboTR) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:46 |
+| 6 | [We Go!](https://open.spotify.com/track/4E4FEpgRWPdymqCckJ1C1R) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:01 |
+| 7 | [NO.1](https://open.spotify.com/track/2LPDHacGskvnGuWtVcY5VA) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [奇蹟/NO.1](https://open.spotify.com/album/6RAFsj3MN29aHPg8oIsmmK) | 3:13 |
+| 8 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/1Q5SpQeocfNXefx76svqkl) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:49 |
+| 9 | [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 |
+| 10 | [Dunk Shot](https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Dunk Shot](https://open.spotify.com/album/4mC1EE9p4dHGws7cxoTZk4) | 2:59 |
+| 11 | [CHOO CHOO](https://open.spotify.com/track/1WiImFNE0hJBfnZz0nSoLc) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:34 |
+| 12 | [NASA](https://open.spotify.com/track/4FlwKeii8Y46oyTLtsYLJq) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:03 |
+| 13 | [FAR AWAY](https://open.spotify.com/track/0YlgcPQR7rr77evdMsMG05) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:04 |
+| 14 | [Touchdown](https://open.spotify.com/track/0V6HdqRV92qVOJwqde6Km5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:12 |
+| 15 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 |
+| 16 | [Tears Are Falling \- Japanese Ver.](https://open.spotify.com/track/1B6LokS0khXP515qX7VgUo) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:05 |
+| 17 | [Wishful Winter](https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:08 |
+| 18 | [Our Adventures](https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 2:52 |
 
-Snapshot ID: `Z1GHsAAAAAC8SdqQiVPKNgS1sJaT0EQS`
+Snapshot ID: `Z1whyAAAAADSJ2CXsejomGP1FPvYgPMv`

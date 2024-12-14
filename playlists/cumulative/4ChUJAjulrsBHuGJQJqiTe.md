@@ -4,7 +4,7 @@
 
 > In memory of \[removed for privacy\]
 
-20 songs - 1 hr 12 min
+21 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Lakeside View Apartments Suite](https://open.spotify.com/track/5Y7kurWaiHa8xqqF7NYI9t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 3:58 | 2023-03-23 |  |
 | [Lazarus](https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 6:24 | 2023-07-03 |  |
 | [Matthew 25:21](https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Life Of The World To Come](https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS) | 5:50 | 2023-03-23 |  |
+| [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 | 2024-12-13 |  |
 | [Quito](https://open.spotify.com/track/1IrDAmuLsebsukhbaW4dpC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:03 | 2023-03-03 | 2024-12-09 |
 | [Sad Songs](https://open.spotify.com/track/6spFAE12J5kM51cKEzsgmF) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:14 | 2023-03-27 |  |
 | [Store](https://open.spotify.com/track/4mlPWNXldFV7EgH2heTuM5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 2:20 | 2024-11-10 |  |

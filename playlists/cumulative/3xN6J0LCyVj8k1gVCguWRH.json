@@ -30034,6 +30034,24 @@
     {
       "album": {
         "name": "Healing",
+        "url": "https://open.spotify.com/album/48zdH5sIOkqKLScGN6oo0M"
+      },
+      "artists": [
+        {
+          "name": "Ay Wing",
+          "url": "https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173910,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/5kv8fMjVwkpgQiLjytquOG"
+    },
+    {
+      "album": {
+        "name": "Healing",
         "url": "https://open.spotify.com/album/6XrnhocDDTE0KlukllQxZa"
       },
       "artists": [

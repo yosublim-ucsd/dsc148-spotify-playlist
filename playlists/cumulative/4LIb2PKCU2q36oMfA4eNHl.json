@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 173669,
       "name": "Chime",
       "url": "https://open.spotify.com/track/7M8rxHUoLI7k10qurZ5GyA"
@@ -752,6 +752,28 @@
         {
           "name": "Dear Gravity",
           "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        },
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "cure all - Cephas Azariah remix",
+      "url": "https://open.spotify.com/track/5RRRGjFBiVq0hcI25MoVw8"
+    },
+    {
+      "album": {
+        "name": "earlyyears reimagined (deluxe)",
+        "url": "https://open.spotify.com/album/0A9Yxob8MfFqhsUg6Ejk4a"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
         }
       ],
       "date_added": "2024-12-06",
@@ -858,6 +880,24 @@
       "duration_ms": 266694,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/19GrUQikezttWTKWGzoEik"
+    },
+    {
+      "album": {
+        "name": "Fugue In Twilight (Instrumentals)",
+        "url": "https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265918,
+      "name": "Don't Say - Instrumental",
+      "url": "https://open.spotify.com/track/3ZVnpF0nswgeRdB4VAghuR"
     },
     {
       "album": {
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 196827,
       "name": "How To Forget",
       "url": "https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv"
@@ -1616,7 +1656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 190746,
       "name": "Islas Canarias",
       "url": "https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp"
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 255501,
       "name": "Kyoto (\u4eac\u90fd)",
       "url": "https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO"
@@ -1957,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Only music makes me cry now",
+        "url": "https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "London is not the same",
+      "url": "https://open.spotify.com/track/7ABil3s9BbFathjbfDgCE6"
+    },
+    {
+      "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
       },
@@ -2080,10 +2138,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 228107,
       "name": "Love In Our Hands",
       "url": "https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM"
+    },
+    {
+      "album": {
+        "name": "Fugue In Twilight (Instrumentals)",
+        "url": "https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223777,
+      "name": "Love In Our Hands - Instrumental",
+      "url": "https://open.spotify.com/track/5fQzaPAjAtvmt1jktV3R79"
     },
     {
       "album": {
@@ -2704,6 +2780,24 @@
       "duration_ms": 190735,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy"
+    },
+    {
+      "album": {
+        "name": "Fugue In Twilight (Instrumentals)",
+        "url": "https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225315,
+      "name": "Rooftop - Instrumental",
+      "url": "https://open.spotify.com/track/7AUCLFKVNikMr1fftJp0kv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 571878,
+  "num_followers": 571911,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1jWAAAAAABbGUuv2K4nFLVIFhX9tL6P",
+  "snapshot_id": "Z1ongAAAAABhmAzRU73AG7b/SudFcXRx",
   "tracks": [
     {
       "added_at": null,
@@ -68,8 +68,8 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         },
         {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/1ittHQ57GH2TG2PpAOTiQj"
         }
       ],
       "duration_ms": 123370,
@@ -184,8 +184,8 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         },
         {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/1ittHQ57GH2TG2PpAOTiQj"
         }
       ],
       "duration_ms": 76087,
@@ -252,8 +252,8 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         },
         {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/1ittHQ57GH2TG2PpAOTiQj"
         }
       ],
       "duration_ms": 54338,
@@ -336,8 +336,8 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         },
         {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/1ittHQ57GH2TG2PpAOTiQj"
         }
       ],
       "duration_ms": 67429,
@@ -474,15 +474,43 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 120543,
-      "name": "Cores & Valores (Finado",
-      "url": "https://open.spotify.com/track/6ZNcr9DyYl3ySLoHPm9cHt"
+      "duration_ms": 213979,
+      "name": "Eu Compro",
+      "url": "https://open.spotify.com/track/5VW3BRwYhsqfZYRi90UzfR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sambas de Enredo: Carnaval SP 2024 (Grupo Especial, Acesso e Acesso II)",
+        "url": "https://open.spotify.com/album/1TXRS714j125DTxduDHugX"
+      },
+      "artists": [
+        {
+          "name": "Liga Carnaval SP",
+          "url": "https://open.spotify.com/artist/31SU63Dknz98JD66U9zJPt"
+        },
+        {
+          "name": "G.R.C.S.E.S. Vai-Vai",
+          "url": "https://open.spotify.com/artist/2Asu95Ut2mLtc8hsnpkTzE"
+        },
+        {
+          "name": "Luiz Felipe",
+          "url": "https://open.spotify.com/artist/0w3ToityJnCyZacH2wzmqk"
+        },
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "Sol da Vai-Vai",
+          "url": "https://open.spotify.com/artist/02uWG83UtstFnjmKfBVENF"
+        }
+      ],
+      "duration_ms": 336396,
+      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 \u2013 Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano",
+      "url": "https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV"
     },
     {
       "added_at": null,

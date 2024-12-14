@@ -1,6 +1,6 @@
 {
   "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-  "num_followers": 56565,
+  "num_followers": 56575,
   "original_name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",
   "owner": {
     "name": "Spotify",
@@ -300,16 +300,16 @@
       },
       "artists": [
         {
-          "name": "Dan Zeitune",
-          "url": "https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8"
-        },
-        {
           "name": "\u05e7\u05d9\u05e0\u05e6\u05d5\u05d2\u05d9",
           "url": "https://open.spotify.com/artist/3bObsA817ZJmVleSeONvk9"
         },
         {
           "name": "Guy & Yahel",
           "url": "https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv"
+        },
+        {
+          "name": "Dan Zeitune",
+          "url": "https://open.spotify.com/artist/0aRKySqyOK24OQj0cHjPq8"
         }
       ],
       "duration_ms": 273587,

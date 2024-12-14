@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20630,
+  "num_followers": 20629,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqQVhQZCpOetScW5vJ4wnLYFZeYMuv",
+  "snapshot_id": "AAAqROlZk7e6QZt0iW6FvEQ6DC8M7C/r",
   "tracks": [
     {
       "added_at": "2024-10-28 23:42:32",
@@ -2447,6 +2447,62 @@
       "duration_ms": 442868,
       "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
       "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
+    },
+    {
+      "added_at": "2024-12-14 00:15:26",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2024-12-14 00:15:56",
+      "album": {
+        "name": "stereoluv",
+        "url": "https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "stereoluv",
+      "url": "https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK"
+    },
+    {
+      "added_at": "2024-12-14 00:38:04",
+      "album": {
+        "name": "6AE",
+        "url": "https://open.spotify.com/album/6TAKPPLhU5c5J4g5z4ZdXf"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "axxa*",
+          "url": "https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5"
+        }
+      ],
+      "duration_ms": 215294,
+      "name": "ARRIVAL",
+      "url": "https://open.spotify.com/track/1WjTYi3pmVxaAogY4EmNXF"
     }
   ],
   "unique_name": "Moving Castle Monthly",

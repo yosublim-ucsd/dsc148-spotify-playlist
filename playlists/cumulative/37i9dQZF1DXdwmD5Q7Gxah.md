@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ❤️‍🔥 what if i told you this was george clanton and TV Girl ❤️‍🔥
+> Ray Bull!
 
-3,107 songs - 7 day 0 hr 30 min
+3,114 songs - 7 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 | 2022-09-13 | 2022-09-28 |
 | [Breathe](https://open.spotify.com/track/3C8UJfdBUmmNyYbaMlCyfQ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/6FkUnwT6WUxtMPPm4mJpPA) | 3:07 | 2019-10-31 | 2020-02-05 |
 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 | 2024-11-14 |  |
+| [breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [breathe u in](https://open.spotify.com/album/2pYbGIlP2xK4xYLp21Rhud) | 2:43 | 2024-12-13 |  |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2019-09-20 | 2020-02-05 |
 | [Bright Red](https://open.spotify.com/track/46yZvVAKWuvp6sV0OciMLt) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 2:49 | 2023-08-25 | 2024-04-27 |
 | [BRITNEY BITCH](https://open.spotify.com/track/0y36K56bxbBUl2kjrBJdco) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [BRITNEY BITCH](https://open.spotify.com/album/54zDMqhMl0zzIZEQBWIks0) | 2:37 | 2020-08-30 | 2020-09-30 |
@@ -649,6 +650,7 @@
 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 | 2021-08-07 | 2021-12-02 |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-23 | 2022-11-05 |
 | [Damn](https://open.spotify.com/track/0NL9pLIzlXC3E5IaHCYacZ) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Damn](https://open.spotify.com/album/4WZKgaREgMXyICu8SXJFBh) | 3:22 | 2024-04-05 | 2024-05-11 |
+| [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 |  |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-06-22 |
 | [Dance Like U](https://open.spotify.com/track/1xCwzlJ0pXrAQfh5B09eZ3) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 2:50 | 2022-05-31 | 2022-06-16 |
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-08-16 |
@@ -1502,10 +1504,12 @@
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2024-05-23 | 2024-07-27 |
 | [Killing Time](https://open.spotify.com/track/7fvld2LGlUhz15CjeaLewh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:53 | 2024-08-23 | 2024-09-07 |
 | [Kindergarten](https://open.spotify.com/track/3AOcvuNATM2cnmsNf1q0T9) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kindergarten](https://open.spotify.com/album/4WFmbiXl83NHKlqQqrPXSj) | 2:25 | 2020-01-10 | 2020-02-21 |
+| [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 | 2024-12-13 |  |
 | [King of Everything](https://open.spotify.com/track/5IWW129DwGyMVQAbaJz3rS) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 3:14 | 2022-11-21 | 2023-04-15 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-07-31 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-08-02 | 2022-09-24 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-19 |  |
+| [kiss me outro \(st0pid b0y\)](https://open.spotify.com/track/18OQipa6OHeGjHLkKBCVdy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [kiss me outro \(st0pid b0y\)](https://open.spotify.com/album/6aS49Qv8Y7coDHvmDi1CC6) | 2:21 | 2024-12-13 |  |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2020-05-29 | 2021-01-12 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-03-19 | 2021-11-13 |
 | [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:06 | 2023-11-07 | 2024-01-11 |
@@ -2045,6 +2049,7 @@
 | [Perdus](https://open.spotify.com/track/7eMBDipvMwVnYiMe0yrS5x) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Perdus](https://open.spotify.com/album/4wFRyp4PoR2DOJ639l9NVv) | 3:03 | 2019-10-12 | 2019-11-14 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2019-09-14 | 2019-11-14 |
 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 | 2024-08-17 | 2024-09-21 |
+| [Peru](https://open.spotify.com/track/33jtkRPCxFqU3BYczLqkfz) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Peru](https://open.spotify.com/album/3b22mIwM6gx36qKF8EtEhl) | 2:13 | 2024-12-13 |  |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-05-12 | 2022-06-04 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2022-04-21 |
 | [Phantom Limb](https://open.spotify.com/track/3NPiFBw3mA9qbJfo0nhk6X) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 4:47 | 2021-07-23 | 2021-12-02 |
@@ -2503,6 +2508,7 @@
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-05 | 2024-11-08 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-18 | 2023-10-03 |
 | [Standing Still](https://open.spotify.com/track/6a0e5Fb8cwz8pklTJOFGju) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [This Way](https://open.spotify.com/album/3ij42TJGaDLltR6VlCMUOa) | 4:30 | 2024-01-03 | 2024-01-11 |
+| [Stanley](https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Stanley](https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV) | 2:53 | 2024-12-13 |  |
 | [Star of the Show](https://open.spotify.com/track/2XLSbmaMw6ytIVdW45X8yc) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Star of the Show](https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd) | 4:16 | 2022-05-12 | 2022-07-30 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2020-12-11 | 2021-08-14 |
 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/2leIuE4fdcJoNMSKu5Yr7a) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:48 | 2019-09-06 | 2019-10-11 |
@@ -2661,6 +2667,7 @@
 | [Talk to Me](https://open.spotify.com/track/3znD2JTezT8ZLkp2pmft2l) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Dear.](https://open.spotify.com/album/39M1dSHwZxHyPwOb0bRuJU) | 4:37 | 2020-08-21 | 2020-11-11 |
 | [Talk to You \- slow](https://open.spotify.com/track/2eUmt1vpwc7pl0SImUEWfJ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 4:03 | 2021-08-21 | 2022-01-08 |
 | [Talk Words](https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Talk Words](https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ) | 3:33 | 2021-08-04 | 2022-03-11 |
+| [talk2me](https://open.spotify.com/track/13Zj4akc2E5ih05JRHcGb6) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [talk2me](https://open.spotify.com/album/0PFSYOyda2d4cbd3jUSkoh) | 2:26 | 2024-12-13 |  |
 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 | 2023-08-11 | 2024-07-06 |
 | [Tangled](https://open.spotify.com/track/46OjonQHLe574lcL12MdKp) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Tangled](https://open.spotify.com/album/2dvVPyydVAF1fDykQ9jsKw) | 3:40 | 2022-02-25 | 2022-03-26 |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-01-19 |

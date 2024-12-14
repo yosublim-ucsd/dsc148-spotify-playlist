@@ -29879,6 +29879,24 @@
     },
     {
       "album": {
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/4rxl4OvjhgR96dBUoUPjBH"
+      },
+      "artists": [
+        {
+          "name": "GOON",
+          "url": "https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286315,
+      "name": "Death Spells",
+      "url": "https://open.spotify.com/track/1SqdwayfShRMtXk5YcVPiP"
+    },
+    {
+      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/01cvl1Ub1WSIcmL6lM5UzZ"
       },
@@ -72006,6 +72024,24 @@
       "duration_ms": 234991,
       "name": "Looking At People",
       "url": "https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6"
+    },
+    {
+      "album": {
+        "name": "Looking at the Geese",
+        "url": "https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Looking at the Geese",
+      "url": "https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX"
     },
     {
       "album": {
@@ -125937,7 +125973,7 @@
     },
     {
       "album": {
-        "name": "ii (ep)",
+        "name": "ii",
         "url": "https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3"
       },
       "artists": [

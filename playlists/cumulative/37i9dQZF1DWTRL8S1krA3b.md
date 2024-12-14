@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-198 songs - 10 hr 48 min
+199 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Driving Home for Christmas](https://open.spotify.com/track/5f4hPtbh7uPBRCW51xNMvM) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Driving Home for Christmas](https://open.spotify.com/album/7vfOyIYeaPZaUjFGmcYkQK) | 3:24 | 2023-11-24 | 2024-10-19 |
 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 | 2024-10-15 |  |
 | [Evergreen](https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Evergreen](https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf) | 2:21 | 2024-11-01 |  |
+| [Every Day Will Be Like A Holiday](https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Every Day Will Be Like A Holiday](https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL) | 3:20 | 2024-12-13 |  |
 | [Falalala Falling](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Falalala Falling](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 | 2023-11-24 | 2024-10-19 |
 | [Fancy Like Christmas](https://open.spotify.com/track/0kO59Q18sOo4HmZWQSUVyr) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Fancy Like Christmas](https://open.spotify.com/album/15ArXIAaelY4fohwqQdzmT) | 2:41 | 2023-11-24 | 2024-10-19 |
 | [Feel Like The Holidays](https://open.spotify.com/track/3u2KK5pGmHFfezykPinVOw) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Feel Like The Holidays](https://open.spotify.com/album/7AejMmlcdb38MsFwIUvUTA) | 3:08 | 2023-11-24 | 2024-10-19 |

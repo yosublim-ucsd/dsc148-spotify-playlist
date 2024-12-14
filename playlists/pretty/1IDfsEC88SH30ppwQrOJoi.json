@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14407,
+  "num_followers": 14406,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKJE5bocaDk2oL9WtM3i8yeHxW/dwr",
+  "snapshot_id": "AAAKJVASKDwB1JDUlBw5pYFOt6Pf24Lg",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1767,6 +1767,26 @@
       "duration_ms": 239603,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo"
+    },
+    {
+      "added_at": "2024-12-13 14:13:19",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD"
+      },
+      "artists": [
+        {
+          "name": "PRMGH",
+          "url": "https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9"
+        },
+        {
+          "name": "KO3",
+          "url": "https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t"
     }
   ],
   "unique_name": "Ultra Club Hits",

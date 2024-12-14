@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Derya Bedavac\u0131",
-  "num_followers": 506363,
+  "num_followers": 506661,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
-        "name": "Can\u0131n Beni \u00c7ekti",
-        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
-      },
-      "artists": [
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Can\u0131n Beni \u00c7ekti",
-      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
         "name": "\u00d6n\u00fcm\u00fcz Yaz",
         "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 181518,
       "name": "\u00d6n\u00fcm\u00fcz Yaz",
       "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
+        "name": "Can\u0131n Beni \u00c7ekti",
+        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Can\u0131n Beni \u00c7ekti",
+      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
     },
     {
       "added_at": "2024-12-12 21:00:02",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
+        "name": "Doldum",
+        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Doldum",
+      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
         "name": "Mevzu Derin",
         "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
-        "name": "Doldum",
-        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
-      },
-      "artists": [
-        {
-          "name": "Ahiyan",
-          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Doldum",
-      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
         "name": "Bende Bi' A\u015fk Var",
         "url": "https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 219872,
       "name": "Uzaktan",
       "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
-        "name": "Na\u00e7ar",
-        "url": "https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr"
-      },
-      "artists": [
-        {
-          "name": "Emre Fel",
-          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
-        }
-      ],
-      "duration_ms": 200423,
-      "name": "Na\u00e7ar",
-      "url": "https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph"
     },
     {
       "added_at": "2024-12-12 21:00:02",
@@ -328,12 +312,12 @@
           "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         },
         {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        },
-        {
           "name": "SNOW",
           "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
         }
       ],
       "duration_ms": 151512,
@@ -359,22 +343,6 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
-        "name": "Dilerim Ki",
-        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
-      },
-      "artists": [
-        {
-          "name": "Dolu Kadehi Ters Tut",
-          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dilerim Ki",
-      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
         "name": "Gazla Gitsin",
         "url": "https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 247733,
       "name": "Silinmez",
       "url": "https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
+        "name": "Na\u00e7ar",
+        "url": "https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Na\u00e7ar",
+      "url": "https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
+        "name": "Dilerim Ki",
+        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dilerim Ki",
+      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
     },
     {
       "added_at": "2024-12-12 21:00:02",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
-        "name": "Ben Sana Gelemem",
-        "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
-      },
-      "artists": [
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Ben Sana Gelemem",
-      "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
         "name": "Derdo",
         "url": "https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 218049,
       "name": "Derdo",
       "url": "https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
+        "name": "Ben Sana Gelemem",
+        "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
+      },
+      "artists": [
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Ben Sana Gelemem",
+      "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
     },
     {
       "added_at": "2024-12-12 21:00:02",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
+        "name": "A\u00e7\u0131k Adres (SAYGI1)",
+        "url": "https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        },
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 277514,
+      "name": "A\u00e7\u0131k Adres - SAYGI1",
+      "url": "https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv"
+    },
+    {
+      "added_at": "2024-12-12 21:00:02",
+      "album": {
         "name": "A\u015fklar\u0131m B\u00fcy\u00fck Benden",
         "url": "https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ"
       },
@@ -795,22 +815,6 @@
       "duration_ms": 172154,
       "name": "Olmu\u015fum Leyla",
       "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
-    },
-    {
-      "added_at": "2024-12-12 21:00:02",
-      "album": {
-        "name": "\u0130kinci Hal",
-        "url": "https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe"
-      },
-      "artists": [
-        {
-          "name": "Beng\u00fc",
-          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Sahici",
-      "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
     },
     {
       "added_at": "2024-12-12 21:00:02",
@@ -847,18 +851,18 @@
     {
       "added_at": "2024-12-12 21:00:02",
       "album": {
-        "name": "G\u00fcliz Ayla",
-        "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
+        "name": "\u0130kimizden Biri",
+        "url": "https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX"
       },
       "artists": [
         {
-          "name": "G\u00fcliz Ayla",
-          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+          "name": "Fatma Turgut",
+          "url": "https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI"
         }
       ],
-      "duration_ms": 198665,
-      "name": "Bahsetmem Laz\u0131m",
-      "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
+      "duration_ms": 227143,
+      "name": "\u0130kimizden Biri",
+      "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
     }
   ],
   "unique_name": "trend 2024",

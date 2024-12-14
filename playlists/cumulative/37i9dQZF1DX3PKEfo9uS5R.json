@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Awe-inspiring",
+        "url": "https://open.spotify.com/album/0HWSUdk7fwbYYOz3qQ4NFM"
+      },
+      "artists": [
+        {
+          "name": "Gea",
+          "url": "https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144594,
+      "name": "Awe-inspiring",
+      "url": "https://open.spotify.com/track/0OnAbpXMAplXMoTdeCo958"
+    },
+    {
+      "album": {
         "name": "Azucena",
         "url": "https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 188745,
       "name": "candy colored life",
       "url": "https://open.spotify.com/track/25E2rEL9cHcEeiTz7cD9pe"
@@ -783,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Competitive Edge",
+        "url": "https://open.spotify.com/album/1NbogqagW3lDTVRVVtZ032"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145636,
+      "name": "Competitive Edge",
+      "url": "https://open.spotify.com/track/2737XH7tnOWNXkOBZnS3Sa"
+    },
+    {
+      "album": {
         "name": "Copycat / Sunspot",
         "url": "https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV"
       },
@@ -834,6 +870,24 @@
       "duration_ms": 212694,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY"
+    },
+    {
+      "album": {
+        "name": "Day OFF",
+        "url": "https://open.spotify.com/album/48ETBp90Uv5uTucfB4gzOC"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169816,
+      "name": "Day OFF",
+      "url": "https://open.spotify.com/track/4WR9hjZQwInYXCuMKNrLcR"
     },
     {
       "album": {
@@ -942,6 +996,24 @@
       "duration_ms": 146550,
       "name": "Down to the Blue",
       "url": "https://open.spotify.com/track/21jfC5vXMMoy1u4qNEkJLi"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/2kVztO2CXfichDSxjkqzlX"
+      },
+      "artists": [
+        {
+          "name": "Lamyon",
+          "url": "https://open.spotify.com/artist/5EWN6NN3l5aakhiBmUBwXz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/25z8HDuPwKsXoFyqpyuyvk"
     },
     {
       "album": {
@@ -1086,6 +1158,42 @@
       "duration_ms": 175090,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d"
+    },
+    {
+      "album": {
+        "name": "Falling Faster",
+        "url": "https://open.spotify.com/album/1EygKKUfTXpn2rkF93OvoM"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Falling Faster",
+      "url": "https://open.spotify.com/track/3YWosF4fKAHglIoSaWUvFy"
+    },
+    {
+      "album": {
+        "name": "Far More Effect",
+        "url": "https://open.spotify.com/album/24Gnp2VJ1Hm6Q6XfMKrAbH"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140810,
+      "name": "Far More Effect",
+      "url": "https://open.spotify.com/track/7gmlnMeEI7XH2W5Yye4krQ"
     },
     {
       "album": {
@@ -1388,7 +1496,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 152396,
       "name": "Gardient heaven",
       "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"
@@ -1428,6 +1536,24 @@
       "duration_ms": 211636,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc"
+    },
+    {
+      "album": {
+        "name": "Glistening",
+        "url": "https://open.spotify.com/album/2UtuAu5Bn7euvbgTVLe6wj"
+      },
+      "artists": [
+        {
+          "name": "Mateo Hill",
+          "url": "https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143996,
+      "name": "Glistening",
+      "url": "https://open.spotify.com/track/3266iBRG82BFwd7Uxm0ZIA"
     },
     {
       "album": {
@@ -1773,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Holiday Disconnect",
+        "url": "https://open.spotify.com/album/43fTYAP9mG1Anzs5GyrmAo"
+      },
+      "artists": [
+        {
+          "name": "Kris Karrey",
+          "url": "https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194311,
+      "name": "Holiday Disconnect",
+      "url": "https://open.spotify.com/track/7jNorvxDogmFwB6oJLVwqI"
+    },
+    {
+      "album": {
         "name": "Honey Bee",
         "url": "https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN"
       },
@@ -1788,6 +1932,24 @@
       "duration_ms": 199135,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/41LpLJe2CiVacYMqjKC03O"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187812,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/4lI218MmKYC8MGCyI1h8dH"
     },
     {
       "album": {
@@ -2681,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "morning glow",
+        "url": "https://open.spotify.com/album/5hWPkeMWeRwpyy1ftvTCFH"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167541,
+      "name": "morning glow",
+      "url": "https://open.spotify.com/track/7hTwXBphptPv6oSxwX8mXA"
+    },
+    {
+      "album": {
         "name": "Forensics",
         "url": "https://open.spotify.com/album/73uUKdwUNXW5v7BpZPGHPd"
       },
@@ -2822,6 +3002,24 @@
       "duration_ms": 171000,
       "name": "Nightly Purpose",
       "url": "https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz"
+    },
+    {
+      "album": {
+        "name": "Nights of Zuri",
+        "url": "https://open.spotify.com/album/0LXlcYpWahFfGkOsizIBcn"
+      },
+      "artists": [
+        {
+          "name": "The Afronaut",
+          "url": "https://open.spotify.com/artist/0RcAEaIg21iTmK6ru4WS9U"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126631,
+      "name": "Nights of Zuri",
+      "url": "https://open.spotify.com/track/5VE1nxNywtycqJpicZrtLe"
     },
     {
       "album": {
@@ -3149,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Porto Bello",
+        "url": "https://open.spotify.com/album/0I9cQcwVx2xUqjZTe4GWTF"
+      },
+      "artists": [
+        {
+          "name": "Yavuz Grill",
+          "url": "https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "Porto Bello",
+      "url": "https://open.spotify.com/track/7Bhtf7OLmKlGuxlLKCLwuw"
+    },
+    {
+      "album": {
         "name": "Postcard Paradise",
         "url": "https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu"
       },
@@ -3315,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/2v5DPz7fQKNZLUQTEkUvoU"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5yNx6x8AOOGT5arzHuZt4r"
+    },
+    {
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o"
       },
@@ -3348,6 +3582,24 @@
       "duration_ms": 151159,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY"
+    },
+    {
+      "album": {
+        "name": "runAway",
+        "url": "https://open.spotify.com/album/2hZKQKRN4NTygDaSH90cpm"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "runAway",
+      "url": "https://open.spotify.com/track/7DR8XmrCVMCvjg6LYSoLLG"
     },
     {
       "album": {
@@ -3639,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "So Nice To See You Again",
+        "url": "https://open.spotify.com/album/4Fe0GXB85cjwyXiN8jEwit"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180825,
+      "name": "So Nice To See You Again",
+      "url": "https://open.spotify.com/track/7xMzHkkzNI3ra0SCmWRGYM"
+    },
+    {
+      "album": {
         "name": "So Solar",
         "url": "https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t"
       },
@@ -3690,6 +3960,42 @@
       "duration_ms": 167669,
       "name": "Solidarity",
       "url": "https://open.spotify.com/track/2ieJ272KbcfpIawpUkr65D"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/2zNG9TQghekFmEJYAk44Ki"
+      },
+      "artists": [
+        {
+          "name": "Lofive",
+          "url": "https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/0oPKRznSRwiT1uv9v3F9XM"
+    },
+    {
+      "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/32oPwXeectbyrFMvBZBzXV"
+      },
+      "artists": [
+        {
+          "name": "Jonga",
+          "url": "https://open.spotify.com/artist/0QORWOkQ65NRorXBdirzmy"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/66OIuJhnjydtNtUdqH6qB6"
     },
     {
       "album": {
@@ -3981,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/4citJntYFmKucI98xwscZT"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186469,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/793JxLnZphGoLRvoncnjhT"
+    },
+    {
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845"
       },
@@ -4010,7 +4334,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 141333,
       "name": "Sunset Bliss",
       "url": "https://open.spotify.com/track/3PuyKuyF1LrKVpyAzPxWVU"
@@ -4050,6 +4374,24 @@
       "duration_ms": 218700,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf"
+    },
+    {
+      "album": {
+        "name": "Supersalt",
+        "url": "https://open.spotify.com/album/4OzVcMKeymi6NIZ159mMrN"
+      },
+      "artists": [
+        {
+          "name": "Raphael Creed",
+          "url": "https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Supersalt",
+      "url": "https://open.spotify.com/track/7Ih1jfLWiFbjnJBvUpUm0d"
     },
     {
       "album": {
@@ -4104,6 +4446,24 @@
       "duration_ms": 139797,
       "name": "Takamagahara",
       "url": "https://open.spotify.com/track/1ZwyC2Nz4XZVngLbIiBEGR"
+    },
+    {
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/1X2SahOgrsw4TV98fk9scf"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127909,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/25JWbGTFzNsdt1NRxmPMKr"
     },
     {
       "album": {
@@ -4338,6 +4698,24 @@
       "duration_ms": 178744,
       "name": "Valencia Morning",
       "url": "https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv"
+    },
+    {
+      "album": {
+        "name": "Velvety",
+        "url": "https://open.spotify.com/album/7L86gkKUDut2yAeqOHNram"
+      },
+      "artists": [
+        {
+          "name": "Phello",
+          "url": "https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196601,
+      "name": "Velvety",
+      "url": "https://open.spotify.com/track/4duiRZYrTr4oqINndygEv8"
     },
     {
       "album": {
@@ -4683,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "You Earned It",
+        "url": "https://open.spotify.com/album/6DlPoqCvY1wuxX50wvtFwK"
+      },
+      "artists": [
+        {
+          "name": "Good Kings",
+          "url": "https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "You Earned It",
+      "url": "https://open.spotify.com/track/0mFsKgjwtjPZVd8qsDxsRx"
+    },
+    {
+      "album": {
         "name": "You Got Soul",
         "url": "https://open.spotify.com/album/5yCcQxmZGD6kXxf5XKdZkx"
       },
@@ -4716,6 +5112,24 @@
       "duration_ms": 183394,
       "name": "Young Guns",
       "url": "https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K"
+    },
+    {
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/3HPkFxk5bhG7o4h2MpPYMK"
+      },
+      "artists": [
+        {
+          "name": "Pool-Man John",
+          "url": "https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/49pICFFRR9w7HZ7Z288eUI"
     },
     {
       "album": {

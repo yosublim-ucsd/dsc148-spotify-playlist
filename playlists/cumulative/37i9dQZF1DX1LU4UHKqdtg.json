@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TWICE",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Stray Kids",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -18871,6 +18871,24 @@
     },
     {
       "album": {
+        "name": "Street Carol\u2026 (With John Park)",
+        "url": "https://open.spotify.com/album/0k0QFIeshkGCFRM2ZqdSN8"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198153,
+      "name": "Street Carol\u2026 (With John Park)",
+      "url": "https://open.spotify.com/track/3cgcHzpYPQnk9ieAFdaDpY"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4Yn7eVRGi34P0oksBwfMSq"
       },
@@ -21861,6 +21879,24 @@
     },
     {
       "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
+    },
+    {
+      "album": {
         "name": "WANNABE (Japanese ver.)",
         "url": "https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q"
       },
@@ -23538,7 +23574,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 194626,
       "name": "Zip Zip Zip",
       "url": "https://open.spotify.com/track/1WxZnMz2lcFskuyx6A7rYi"

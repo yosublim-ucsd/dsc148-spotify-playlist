@@ -4,14 +4,15 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-168 songs - 8 hr 27 min
+169 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 | 2024-07-05 |  |
 | [5 Sentidos](https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [5 Sentidos](https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z) | 2:44 | 2023-10-13 | 2023-12-16 |
-| [A Volta Do Astro\-Rei](https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [A Volta Do Astro\-Rei](https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p) | 2:32 | 2023-09-15 |  |
+| [A Volta Do Astro\-Rei](https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [A Volta Do Astro\-Rei](https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p) | 2:32 | 2023-09-15 | 2024-12-14 |
 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 | 2023-09-29 |  |
+| [ACREDITOU?](https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7) | [TchutchuB](https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [ACREDITOU?](https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7) | 3:15 | 2024-12-13 |  |
 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 | 2023-12-01 |  |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2023-12-02 |
 | [AluSina](https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [AluSina](https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C) | 3:14 | 2023-09-15 | 2024-01-13 |

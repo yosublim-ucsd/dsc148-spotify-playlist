@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Deus Na Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Deus Na Minha Hist\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0"
+    },
+    {
+      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 311936,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 412602,
       "name": "Porque Ele Vive",
       "url": "https://open.spotify.com/track/2W9PRczUyBnRi8t4wzpwwq"
@@ -2680,6 +2698,24 @@
       "duration_ms": 262896,
       "name": "Voc\u00ea \u00e9 Precioso",
       "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
+    },
+    {
+      "album": {
+        "name": "Rahamim",
+        "url": "https://open.spotify.com/album/745zGvWaNnhUMCaretCmvx"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375476,
+      "name": "Voz de Trov\u00e3o",
+      "url": "https://open.spotify.com/track/4SMEXnxi5NDimU0j3f3MRl"
     },
     {
       "album": {

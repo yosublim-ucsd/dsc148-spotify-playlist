@@ -3355,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Kill Me Slow",
+        "url": "https://open.spotify.com/album/2hoPLa7h0JO2LagZPn1HrK"
+      },
+      "artists": [
+        {
+          "name": "Kyotoh Gloom",
+          "url": "https://open.spotify.com/artist/11fIKa1fUZ3hGm6nDJbivx"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116962,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/1lUmOXKK9OU4WSgj5Fdh2Z"
+    },
+    {
+      "album": {
         "name": "kiss u there",
         "url": "https://open.spotify.com/album/76AWwrWk7GU3zdlvxyDTIJ"
       },

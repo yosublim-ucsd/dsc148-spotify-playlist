@@ -1,12 +1,12 @@
 {
   "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Sean Leon",
-  "num_followers": 184988,
+  "num_followers": 185000,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1dCrwAAAADcxSZYDnsRFwq+PrT8zsLm",
+  "snapshot_id": "Z1u/WgAAAAB5ajypUNmqKfBXlcLYN0XC",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -25,6 +25,46 @@
       "url": "https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3"
     },
     {
+      "added_at": "2024-12-13 05:00:10",
+      "album": {
+        "name": "HANDLING BUSINESS (with Tory Lanez)",
+        "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "HANDLING BUSINESS (with Tory Lanez)",
+      "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
+    },
+    {
+      "added_at": "2024-12-13 05:00:10",
+      "album": {
+        "name": "Pocket Operations III",
+        "url": "https://open.spotify.com/album/7BsoVOLUIkIDR5So4DLYjl"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Gritfall",
+          "url": "https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI"
+        }
+      ],
+      "duration_ms": 170294,
+      "name": "German Suplex",
+      "url": "https://open.spotify.com/track/2wJEFFXZMPwF8Yfn6gm4Vv"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "DU$K",
@@ -39,6 +79,30 @@
       "duration_ms": 139760,
       "name": "DU$K",
       "url": "https://open.spotify.com/track/1lzRntr8YLxCJPaxQn4BED"
+    },
+    {
+      "added_at": "2024-12-13 05:00:10",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/73cTozSJa5415xU8RcPwJ1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        },
+        {
+          "name": "QUEST",
+          "url": "https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Prestige",
+      "url": "https://open.spotify.com/track/2sdlheEPy21QNVcI22S7QN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -59,18 +123,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "One City Freestyle",
-        "url": "https://open.spotify.com/album/7mIPZwyiAzhZSIncqNcaRJ"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 103384,
-      "name": "One City Freestyle",
-      "url": "https://open.spotify.com/track/7mIReojRXv9vs3ucr11NGR"
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -91,6 +159,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "One City Freestyle",
+        "url": "https://open.spotify.com/album/7mIPZwyiAzhZSIncqNcaRJ"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "One City Freestyle",
+      "url": "https://open.spotify.com/track/7mIReojRXv9vs3ucr11NGR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -107,6 +191,38 @@
       "duration_ms": 123428,
       "name": "L's",
       "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
+    },
+    {
+      "added_at": "2024-12-13 05:00:10",
+      "album": {
+        "name": "Don't You Love It?",
+        "url": "https://open.spotify.com/album/73xd9xf0eAQsaYeuFyM6zG"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "Don't You Love It?",
+      "url": "https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -179,26 +295,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/5hqGv1jksrSyoTZDEY9gIf"
       },
@@ -219,22 +315,6 @@
       "duration_ms": 132413,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/5j3xrprQOHefpvAiwj8MCy"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -455,22 +535,6 @@
       "duration_ms": 137142,
       "name": "Nice Try",
       "url": "https://open.spotify.com/track/7EoNOAy3DaoYhaH847XYVK"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Arbutus Canyon",
-        "url": "https://open.spotify.com/album/78NkrKqrHnETfJa8ZASt1K"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "Or Somthin",
-      "url": "https://open.spotify.com/track/5vxHNUpLcsSsKWafGLLyNU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1151,26 +1215,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "fashion week",
-        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "fashion week",
-      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "604",
         "url": "https://open.spotify.com/album/1atWweeudork4YlQFEaIGE"
       },
@@ -1243,26 +1287,6 @@
       "duration_ms": 188852,
       "name": "Reflex",
       "url": "https://open.spotify.com/track/4sTu7MXyEUB0PHEm5bQjUY"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/1YIHNzuTzBAGJr5pJ69fNH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Bushman",
-          "url": "https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7"
-        },
-        {
-          "name": "Fleedoe",
-          "url": "https://open.spotify.com/artist/32dVJxXHCkF2QtGx9Jdbs5"
-        }
-      ],
-      "duration_ms": 139784,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/2AnusW8gNPJWE6OZ3TNlOu"
     },
     {
       "added_at": "2024-12-06 05:00:00",

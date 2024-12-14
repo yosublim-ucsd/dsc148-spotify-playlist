@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9291076,
+  "num_followers": 9295541,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1HrhQAAAAB6ansMknB1YVBwxitl3L19",
+  "snapshot_id": "Z1vJ3AAAAABeeIQuJpWdrDGPrwkpaq8p",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "ACIDO",
+        "url": "https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        }
+      ],
+      "duration_ms": 75697,
+      "name": "ACIDO",
+      "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
+    },
+    {
       "added_at": "2024-08-30 14:20:17",
       "album": {
         "name": "AVANGARD (Slowed)",
@@ -889,6 +905,30 @@
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "EVOLUTION FUNK VOL. I",
+        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "duration_ms": 144437,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
+    },
+    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Scopin",
@@ -967,6 +1007,22 @@
       "duration_ms": 144019,
       "name": "PLANETA DESCONHECIDO",
       "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
+    },
+    {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        }
+      ],
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1297,26 +1353,6 @@
       "url": "https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1"
     },
     {
-      "added_at": "2023-11-17 23:13:59",
-      "album": {
-        "name": "BIBI PHONK BR",
-        "url": "https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        }
-      ],
-      "duration_ms": 119616,
-      "name": "BIBI PHONK BR",
-      "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
-    },
-    {
       "added_at": "2024-09-20 15:04:16",
       "album": {
         "name": "X-TALI",
@@ -1501,26 +1537,6 @@
       "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
     },
     {
-      "added_at": "2024-08-16 14:23:00",
-      "album": {
-        "name": "EU SOU U FUNKY BEAR",
-        "url": "https://open.spotify.com/album/6iy47QIszRRoTXUxHV0gjZ"
-      },
-      "artists": [
-        {
-          "name": "DJ JBK",
-          "url": "https://open.spotify.com/artist/6ZFmw7nvQsYSlI3aVanS00"
-        },
-        {
-          "name": "DJ Ritmo55",
-          "url": "https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E"
-        }
-      ],
-      "duration_ms": 51857,
-      "name": "EU SOU U FUNKY BEAR",
-      "url": "https://open.spotify.com/track/1WIRB0fRRWJwO4vKqLyvp6"
-    },
-    {
       "added_at": "2024-02-02 10:00:00",
       "album": {
         "name": "krushed!",
@@ -1701,26 +1717,6 @@
       "url": "https://open.spotify.com/track/5PHdyF0lk5ZWzow4aUSfPL"
     },
     {
-      "added_at": "2024-12-05 18:05:57",
-      "album": {
-        "name": "NA KOLENI FUNK",
-        "url": "https://open.spotify.com/album/0hdCKZheQkaKA8DrVkA95g"
-      },
-      "artists": [
-        {
-          "name": "INFXRNVM",
-          "url": "https://open.spotify.com/artist/2cx6gOmSDTfLBddNLTuA0X"
-        },
-        {
-          "name": "Rage\u6fc0\u6012",
-          "url": "https://open.spotify.com/artist/2R2fkoleO3fPiFsOe2J86s"
-        }
-      ],
-      "duration_ms": 75642,
-      "name": "NA KOLENI FUNK",
-      "url": "https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx"
-    },
-    {
       "added_at": "2023-12-01 14:11:37",
       "album": {
         "name": "robot rock (funk)",
@@ -1735,6 +1731,22 @@
       "duration_ms": 153529,
       "name": "robot rock (funk)",
       "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
+    },
+    {
+      "added_at": "2023-06-16 13:47:05",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1753,20 +1765,24 @@
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
-      "added_at": "2023-06-16 13:47:05",
+      "added_at": "2024-12-13 05:45:00",
       "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+        "name": "FUNK INFERNAL",
+        "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
       },
       "artists": [
         {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
         }
       ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
+      "duration_ms": 90004,
+      "name": "FUNK INFERNAL",
+      "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
       "added_at": "2024-06-07 14:46:33",

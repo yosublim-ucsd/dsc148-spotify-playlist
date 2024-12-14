@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Marioo",
+  "description": "What is your love language? Say it in Swahili.  Cover: Rayvanny",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 129933,
       "name": "Chi Baby",
       "url": "https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt"
@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 168045,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
@@ -2906,6 +2906,28 @@
       "duration_ms": 200130,
       "name": "Naoa",
       "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
+    },
+    {
+      "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6V2mC374CElofU3s0DkshR"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200602,
+      "name": "Naoa (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/6ETg6zK0OdMIODhjDxvEp9"
     },
     {
       "album": {
@@ -4000,6 +4022,24 @@
       "duration_ms": 196421,
       "name": "Simuachi",
       "url": "https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2"
+    },
+    {
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/6MPat3f7dnn0gfAc23j1I8"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180874,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/4rI7SOF5OwglKAFGedExzi"
     },
     {
       "album": {

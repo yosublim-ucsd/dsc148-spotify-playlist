@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 780914,
+  "num_followers": 780957,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Me Namora",
+      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+    },
+    {
+      "added_at": "2024-12-06 19:32:59",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -1063,22 +1083,6 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
-        "name": "Urbano",
-        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 129381,
-      "name": "\u00d4 Sorte",
-      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
-    },
-    {
-      "added_at": "2024-12-06 19:32:59",
-      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
       },
       "artists": [
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Me Namora",
-      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     },
     {
       "added_at": "2024-12-06 19:32:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
+        "name": "A Cara do Amor da Minha Vida",
+        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 151128,
+      "name": "A Cara do Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+    },
+    {
+      "added_at": "2024-12-06 19:32:59",
+      "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
-        "name": "A Cara do Amor da Minha Vida",
-        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 151128,
-      "name": "A Cara do Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2024-12-06 19:32:59",
@@ -1199,26 +1219,6 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
-    },
-    {
-      "added_at": "2024-12-06 19:32:59",
-      "album": {
-        "name": "Cortejo",
-        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "Cortejo",
-      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2024-12-06 19:32:59",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
-        "name": "Moreno Veloso Solo in Tokyo",
-        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
+        "name": "O Amor \u00c9 o Segredo",
+        "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
       },
       "artists": [
         {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 309520,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
+      "duration_ms": 183542,
+      "name": "O Amor \u00c9 o Segredo",
+      "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
     },
     {
       "added_at": "2024-12-06 19:32:59",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-12-06 19:32:59",
       "album": {
-        "name": "O Amor \u00c9 o Segredo",
-        "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
+        "name": "Moreno Veloso Solo in Tokyo",
+        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
         }
       ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00c9 o Segredo",
-      "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
+      "duration_ms": 309520,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
     },
     {
       "added_at": "2024-12-06 19:32:59",

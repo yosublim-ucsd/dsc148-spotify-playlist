@@ -1597,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Speak",
+        "url": "https://open.spotify.com/album/7IrzMiMcPU3v498mUc3GBh"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "T-Minus",
+          "url": "https://open.spotify.com/artist/61tS1lGZgs3RUqZCEyHKRJ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86314,
+      "name": "Mission Statement",
+      "url": "https://open.spotify.com/track/1zrY6eBtaMKnaudTJYONzf"
+    },
+    {
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },

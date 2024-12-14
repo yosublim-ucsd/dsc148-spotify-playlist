@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Ms\. Ambar en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Tokischa y Nathy Peluso en Portada
 
-345 songs - 17 hr 12 min
+348 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 | 2022-08-16 | 2023-07-01 |
 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 | 2022-10-14 |
 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 | 2023-10-06 | 2024-06-01 |
+| [BURN](https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [BURN](https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj) | 2:57 | 2024-12-13 |  |
 | [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 | 2022-04-15 |
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 | 2023-02-04 |
 | [Bésame](https://open.spotify.com/track/3F4xZkq6lEgkqGrLDV5VZi) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bésame](https://open.spotify.com/album/1OqqID9z2VfSPsWreYdsWY) | 2:23 | 2023-10-27 | 2024-04-19 |
@@ -92,6 +93,7 @@
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 | 2023-07-01 |
 | [De Aquí Pa´ Allá](https://open.spotify.com/track/1p0LGo2lFLfJV6j0CPGIQx) | [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [De Aquí Pa´ Allá](https://open.spotify.com/album/5jchWqjRUngsTZGDv4iOqL) | 2:58 | 2023-06-30 | 2024-05-04 |
 | [De Frente](https://open.spotify.com/track/3VUlg5CKESGpgvIXqrCWtD) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [De Frente](https://open.spotify.com/album/2EAj9ypxklrDFio2QxTP9G) | 3:04 | 2023-04-21 | 2023-11-11 |
+| [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 | 2024-12-13 |  |
 | [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 | 2022-06-17 | 2023-07-01 |
 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 | 2023-02-20 | 2023-10-14 |
 | [Desértico](https://open.spotify.com/track/6eTtks8qtmshX0HGjWk28v) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/0mloTUqmpH2WzwpdkXN7rS) | 3:41 | 2022-06-27 | 2022-08-06 |
@@ -189,6 +191,7 @@
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 | 2024-03-09 |
 | [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 | 2024-07-06 |
 | [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-08 | 2024-11-30 |
+| [Matando Moscas](https://open.spotify.com/track/40Shb6T0pxEwWGJ6GDXR9z) | [Dilema](https://open.spotify.com/artist/3eCEorgAoZkvnAQLdy4x38), [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN), [DjphatMx](https://open.spotify.com/artist/5B0TW4bqnCm2BjjzCJ3yjO) | [Rapiña](https://open.spotify.com/album/5rJFNfexwmZouC869LKmAK) | 2:25 | 2024-12-13 |  |
 | [Matense Por La Corona](https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Matense Por La Corona](https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV) | 3:02 | 2024-05-31 |  |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 | 2024-05-18 |
 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 | 2023-06-30 |  |

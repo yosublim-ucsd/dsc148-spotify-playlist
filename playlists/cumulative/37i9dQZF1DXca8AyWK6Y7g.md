@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> I told my mother what you did! cover: beabadoobee
+> All of my friends are hot, hot, hot! cover: Beth McCarthy
 
-2,255 songs - 4 day 17 hr 29 min
+2,259 songs - 4 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/track/0mYafDBrC2cpMah8sxTybJ) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM), [JRM](https://open.spotify.com/artist/4EnVza8C7nWRg6dMdnIL0U) | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/album/00ew8QkkWRD4RZTTenerjW) | 2:59 | 2020-02-19 | 2020-03-20 |
 | [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 | 2022-09-02 | 2024-03-23 |
 | [All My Fault](https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [All My Fault](https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS) | 3:02 | 2022-03-18 | 2022-06-07 |
+| [All My Friends Are Hot](https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [All My Friends Are Hot](https://open.spotify.com/album/51GkT0hEiKrbHoPwBHaTPi) | 2:38 | 2024-12-13 |  |
 | [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-30 | 2023-07-15 |
 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 | 2024-05-31 | 2024-06-29 |
 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 | 2023-03-25 |
@@ -566,6 +567,7 @@
 | [Dreaming](https://open.spotify.com/track/21JbwuOaYB6uAXp3iISVLk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Dreaming](https://open.spotify.com/album/2DSYAM4Rzqf86gs5apt1hq) | 3:51 | 2019-05-26\* | 2019-09-14 |
 | [Dreams](https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Dreams](https://open.spotify.com/album/40michyETM6sSdEipUW6BW) | 3:14 | 2024-05-31 | 2024-06-29 |
 | [Drinks](https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Drinks](https://open.spotify.com/album/6JOAYeMZPAV5liS4RlUA0b) | 2:30 | 2020-05-22 | 2021-03-23 |
+| [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-13 |  |
 | [Drive Me Home \- GOLDHOUSE Remix](https://open.spotify.com/track/149Rcv6foJRa7COnnmUkNs) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drive Me Home \(Remixes\)](https://open.spotify.com/album/5KF1m0zhkRyUzCrCF6ua61) | 3:07 | 2019-05-26\* | 2019-08-13 |
 | [Drive over me](https://open.spotify.com/track/7kPmopA5z3fOIyxhC6TgmE) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 2:44 | 2024-04-12 | 2024-05-18 |
 | [DROP TOP](https://open.spotify.com/track/1gKEEiVyjVXtaKZl9TOEnf) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/3fItiknlfvwPMaJLwPrG2k) | 2:38 | 2023-07-21 | 2023-08-09 |
@@ -852,6 +854,7 @@
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-28 | 2021-10-14 |
 | [Headphones](https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Headphones](https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj) | 2:47 | 2022-02-18 | 2022-08-22 |
 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-04-12 | 2024-08-19 |
+| [Healing Out of Spite](https://open.spotify.com/track/2uIaFl2XkeP2a2LhgMYrgM) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a) | 3:48 | 2024-12-13 |  |
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/4esIFtCJ2RUFbJpDGluVG4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/5EtdTK9kh4wIDFc6eLmFV3) | 3:29 | 2020-05-04 | 2021-10-13 |
 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 | 2019-05-26\* | 2019-08-13 |
 | [Heartbreak Back](https://open.spotify.com/track/6kyhJvTKWQzlcYywNZRDsy) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [Heartbreak Back](https://open.spotify.com/album/3kguA2LG2117EOLM3bQxVm) | 3:36 | 2019-05-26\* | 2019-09-14 |
@@ -1502,7 +1505,8 @@
 | [Paris](https://open.spotify.com/track/4057hA5K1RLBIVjE4sdQUi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Paris](https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p) | 2:47 | 2023-08-04 | 2023-08-12 |
 | [Party Sickness](https://open.spotify.com/track/4em8f9zFerUhsFi3GCCPWs) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0nXZjvff1dwpZD7BYwwerd) | 3:49 | 2022-02-11 | 2022-03-26 |
 | [Party Trick](https://open.spotify.com/track/50M63RCKsCbnkSaxUK2ttY) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Party Trick](https://open.spotify.com/album/0hPD1HQR8TOBOxeM1pYlOO) | 3:26 | 2022-07-15 | 2022-08-03 |
-| [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 |  |
+| [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 | 2024-12-14 |
+| [Passenger Seat](https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Passenger Seat](https://open.spotify.com/album/3mBqgeRuQBZkt4Vi5ZJZ6Z) | 2:56 | 2024-12-13 |  |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-01-25 | 2021-11-20 |
 | [past life](https://open.spotify.com/track/64c5wrsub6yGJRs7swMo8n) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [past life](https://open.spotify.com/album/2FABefwXffnBHvWY6DWJMy) | 2:44 | 2023-03-24 | 2023-04-23 |
 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 | 2019-09-27 | 2020-03-16 |
@@ -2190,7 +2194,7 @@
 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-16 | 2024-05-06 |
 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 | 2022-10-13 |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |
-| [who's who](https://open.spotify.com/track/4cFQOpz1CeO31VHCjWa69Y) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [who's who](https://open.spotify.com/album/08wHNq7A9BwsplhoXqEiIx) | 2:04 | 2024-09-13 |  |
+| [who's who](https://open.spotify.com/track/4cFQOpz1CeO31VHCjWa69Y) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [who's who](https://open.spotify.com/album/08wHNq7A9BwsplhoXqEiIx) | 2:04 | 2024-09-13 | 2024-12-14 |
 | [Whole Damn Summer](https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Whole Damn Summer](https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf) | 2:42 | 2024-07-05 | 2024-08-23 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 | 2024-01-27 |
 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 | 2023-08-04 |  |

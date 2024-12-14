@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14774,
+  "num_followers": 14775,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Produkcja Hip-Hop Ciemna/Jasna",
         "url": "https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 263625,
       "name": "Ja Si\u0119 Wcale Nie Chwal\u0119",
       "url": "https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "OMEN",
-        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "IMAGO (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
-      },
-      "artists": [
-        {
-          "name": "Smolik",
-          "url": "https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR"
-        },
-        {
-          "name": "Y (BOKKA)",
-          "url": "https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "IMAGO SWAN",
-      "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Horyzont Zdarze\u0144",
         "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 288922,
       "name": "Czas Nie Leczy Ran",
       "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "IMAGO (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
+      },
+      "artists": [
+        {
+          "name": "Smolik",
+          "url": "https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR"
+        },
+        {
+          "name": "Y (BOKKA)",
+          "url": "https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "IMAGO SWAN",
+      "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
-      },
-      "artists": [
-        {
-          "name": "Same Suki",
-          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Pie\u015b\u0144 baby",
-      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Piosenki domowe",
         "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 136500,
       "name": "Klucz",
       "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
+      },
+      "artists": [
+        {
+          "name": "Same Suki",
+          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Pie\u015b\u0144 baby",
+      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
     },
     {
       "added_at": "2024-03-25 08:52:09",

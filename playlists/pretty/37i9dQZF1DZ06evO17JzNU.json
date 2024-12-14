@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 25603,
+  "num_followers": 25621,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1jWAAAAAADS9itTnuF0JGKMLlQbWusG",
+  "snapshot_id": "Z1ongAAAAABEUhSFlfC3GSW08umPo9Vo",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 169598,
+      "name": "POR TU CULPA",
+      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 173568,
       "name": "Una Cruz",
       "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 169598,
-      "name": "POR TU CULPA",
-      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Mejor Ponganse A Chambear",
-      "url": "https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Michoacano",
         "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 227808,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Mejor Ponganse A Chambear",
+      "url": "https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Gucci Fake",
-      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Muchachon",
         "url": "https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 201935,
       "name": "El Muchachon",
       "url": "https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Gucci Fake",
+      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
     },
     {
       "added_at": null,

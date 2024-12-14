@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chill r&b vibes for your most relaxed moods\. Cover: Rhyan Douglas
+> Chill r&b vibes for your most relaxed moods\. Cover: Isaiah Falls & Sasha Keable
 
-1,114 songs - 2 day 14 hr 2 min
+1,117 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-10 | 2023-09-02 |
 | [Just Like You](https://open.spotify.com/track/19ZE32i7TmLyWf6tQtaZbX) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Just Like You](https://open.spotify.com/album/50W657SvTUmrsdbEf0tIdH) | 3:35 | 2019-08-23 | 2019-11-08 |
 | [Just Right](https://open.spotify.com/track/6g9FyBtYg9qnpF2IP1Cd0J) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Reunion](https://open.spotify.com/album/1q5gfwdYLYVltFgOoI3ubf) | 3:59 | 2019-10-10 | 2020-02-28 |
+| [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:48 | 2024-12-13 |  |
 | [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 | 2023-08-04 | 2024-02-24 |
 | [Keeper](https://open.spotify.com/track/5H1H2gRlCaB0mj961DCuFT) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Summer Nights](https://open.spotify.com/album/6OqLyVPvY7yEBHnkdFcpRw) | 3:31 | 2019-11-09 | 2020-04-18 |
 | [KeepHer \(feat\. Thundercat\)](https://open.spotify.com/track/0idhCXzizPkiwfUnhM28ld) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 4:14 | 2024-06-14 |  |
@@ -676,6 +677,7 @@
 | [Newness](https://open.spotify.com/track/3aiVYGS7QlpziTnjoDTnDd) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Stages](https://open.spotify.com/album/1gkTW8KrbxWVcaJcK2YL9Q) | 3:53 | 2020-02-28 | 2020-06-13 |
 | [NEXT CHAPTER](https://open.spotify.com/track/2bXMwqj4qwHU6dFc1lAuox) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Paradigm Shift](https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b) | 2:23 | 2024-04-12 | 2024-09-07 |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-16 | 2022-10-01 |
+| [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 | 2024-12-13 |  |
 | [No Cryin \(feat\. Future\)](https://open.spotify.com/track/2Ay0Vr9icpICeKkUDbBExd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Cryin \(feat\. Future\)](https://open.spotify.com/album/1l5TxgKKWImxXgiYySWfQn) | 3:24 | 2019-11-05 | 2020-02-14 |
 | [No Fun](https://open.spotify.com/track/7AqxZ0ePVqhQRWPKsSjylG) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [No Fun](https://open.spotify.com/album/2nax1mgHVqN1uYB7BvjVEj) | 2:01 | 2020-09-29 | 2021-04-02 |
 | [NO GAMES \(feat\. DRAM\)](https://open.spotify.com/track/4WsHyDZqiXIwoUQnNOzHn8) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [A WOMAN'S MIND](https://open.spotify.com/album/2MYD8D8JnJhahMEuJ5MnDP) | 4:22 | 2023-11-03 | 2024-02-24 |
@@ -1046,6 +1048,7 @@
 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 | 2023-03-31 | 2023-07-15 |
 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 | 2024-09-27 |  |
 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2024-10-05 |
+| [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 |  |
 | [Wait For Me](https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [I Still Think About You](https://open.spotify.com/album/5OEBc4f8y1em64lH6PAV5y) | 2:24 | 2024-02-09 | 2024-07-19 |
 | [WAIT LET ME GET THE TISSUE](https://open.spotify.com/track/7FeXfQsUTHfT5i9Sh1IsHR) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:47 | 2023-10-27 | 2023-12-16 |
 | [Wait So Long](https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:28 | 2023-10-06 | 2024-04-19 |

@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 204760,
       "name": "608",
       "url": "https://open.spotify.com/track/2YTsqpMJvfwPxDP7RuXjD2"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 231683,
       "name": "AGNOSTIC",
       "url": "https://open.spotify.com/track/08A0a0aUSZ7KMPvkOiK9iX"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Goddess: Unplugged",
+        "url": "https://open.spotify.com/album/7yHgjXbJdQ2bYMvo1kmFvD"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283690,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/5EE8q94vVYKzpCyk6KjocX"
+    },
+    {
+      "album": {
         "name": "Best Friends",
         "url": "https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 167313,
       "name": "Best You Ever Had",
       "url": "https://open.spotify.com/track/6SfUqgLBQYalZYYO2FBfRJ"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 180653,
       "name": "Blue Boy",
       "url": "https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 248759,
       "name": "Do You",
       "url": "https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 289749,
       "name": "epiphany",
       "url": "https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A"
@@ -1780,6 +1798,24 @@
       "duration_ms": 164819,
       "name": "First Love Song",
       "url": "https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa"
+    },
+    {
+      "album": {
+        "name": "flatline",
+        "url": "https://open.spotify.com/album/4t9MJiVOy6KeOI3EjLgssB"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "flatline",
+      "url": "https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8"
     },
     {
       "album": {
@@ -2538,7 +2574,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 149495,
       "name": "in motion",
       "url": "https://open.spotify.com/track/0ebHxwkkZyjXrNRdnTeXUc"
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 173927,
       "name": "John Prine",
       "url": "https://open.spotify.com/track/2qICWO6h55bRJn16yYwbPi"
@@ -2744,7 +2780,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 247966,
       "name": "jupiter and mars",
       "url": "https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d"
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 161860,
       "name": "Learning Curve",
       "url": "https://open.spotify.com/track/0lYA7tyLikZXufp49tzlZS"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 211826,
       "name": "Manta Rays",
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 200869,
       "name": "Midnight Freak-Out",
       "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
@@ -3582,7 +3618,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
@@ -3636,7 +3672,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 191000,
       "name": "Night Out",
       "url": "https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64"
@@ -3654,7 +3690,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215834,
       "name": "No California",
       "url": "https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG"
@@ -4028,7 +4064,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
@@ -4172,7 +4208,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 144077,
       "name": "Pleasure delayer",
       "url": "https://open.spotify.com/track/5BKL1Q0k2rJLywgjpjTFhv"
@@ -4208,7 +4244,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 197755,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/5IL0nIQHoYJk4FEYItYnys"
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 217368,
       "name": "Rockland",
       "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
@@ -4539,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "Memos",
+        "url": "https://open.spotify.com/album/3OVpwWL3YjWKLa5TWb17u5"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        },
+        {
+          "name": "Lieve",
+          "url": "https://open.spotify.com/artist/0qSgoagy2DEfXutsC4AOD3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156420,
+      "name": "Shawn",
+      "url": "https://open.spotify.com/track/2EzckqCnSMivKc45dHh1aQ"
+    },
+    {
+      "album": {
         "name": "Big Dumb Heart, Chapter 1",
         "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
       },
@@ -4604,7 +4662,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
@@ -4862,7 +4920,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -4880,7 +4938,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 146973,
       "name": "Spin Me Around",
       "url": "https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce"
@@ -4934,7 +4992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
@@ -5220,7 +5278,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 303933,
       "name": "Take A Chance With Me",
       "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
@@ -5787,6 +5845,24 @@
     },
     {
       "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/581nUN68UXJnxRqAtwZvWs"
       },
@@ -6108,7 +6184,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 254213,
       "name": "Yoko",
       "url": "https://open.spotify.com/track/2uOXn6ugllgy5hQMnpAWMb"

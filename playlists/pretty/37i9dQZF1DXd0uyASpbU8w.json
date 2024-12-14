@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=1gQcXYZVRbyJkGWFJy8pUQ\">Kelvin Momo</a> ",
-  "num_followers": 109225,
+  "num_followers": 109652,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
       "duration_ms": 185092,
       "name": "Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll)",
       "url": "https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3"
+    },
+    {
+      "added_at": "2024-12-13 02:11:30",
+      "album": {
+        "name": "Xmas Time (with Kehlani)",
+        "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203984,
+      "name": "Xmas Time (with Kehlani)",
+      "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
       "added_at": "2024-12-13 02:11:30",
@@ -835,6 +855,26 @@
     {
       "added_at": "2024-12-13 02:11:30",
       "album": {
+        "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 110302,
+      "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
+    },
+    {
+      "added_at": "2024-12-13 02:11:30",
+      "album": {
         "name": "Come & Go",
         "url": "https://open.spotify.com/album/73Nqe9wx1MmtLP36OMPLf8"
       },
@@ -895,6 +935,26 @@
       "duration_ms": 372015,
       "name": "Samakala (feat. Mckenzie)",
       "url": "https://open.spotify.com/track/7rDTpE8wboNVjHcFaLW6o9"
+    },
+    {
+      "added_at": "2024-12-13 02:11:30",
+      "album": {
+        "name": "HANDLING BUSINESS",
+        "url": "https://open.spotify.com/album/03G8ltvE5KcuCWN2wqsTkW"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "HANDLING BUSINESS (with Tory Lanez)",
+      "url": "https://open.spotify.com/track/6nTsvOXdvLSkyVM9yoKPIP"
     },
     {
       "added_at": "2024-12-13 02:11:30",

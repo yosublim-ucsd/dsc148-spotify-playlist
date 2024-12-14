@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: For Revenge, More on Mumbles
 
-1,146 songs - 2 day 18 hr 47 min
+1,147 songs - 2 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,6 +1093,7 @@
 | [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 | 2024-10-31 | 2024-11-22 |
 | [Walk](https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML) | 3:11 | 2024-07-19 | 2024-08-09 |
 | [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 | 2024-10-17 | 2024-11-08 |
+| [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2024-12-12 |  |
 | [Wangimu Seperti Aku](https://open.spotify.com/track/6XDprKbmT0VXk5aeKZcdjY) | [Winaya](https://open.spotify.com/artist/5kKvSQT7B5aSLXKnvSzQHq) | [Wangimu Seperti Aku](https://open.spotify.com/album/38oke1HjeWq7o4d24ycUrr) | 3:58 | 2024-05-24 | 2024-06-14 |
 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 | 2024-02-16 | 2024-05-03 |
 | [Wanna Do](https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Wanna Do](https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10) | 3:17 | 2024-05-30 | 2024-06-28 |

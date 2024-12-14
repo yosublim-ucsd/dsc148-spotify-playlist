@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,013 songs - 3 day 0 hr 59 min
+1,014 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Fonction Naturelle](https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Fonction Naturelle](https://open.spotify.com/album/7n2kBxaAsqRIemFa5dPIbU) | 3:00 | 2020-11-13 | 2022-07-23 |
 | [For So Long \- Rhye Remix](https://open.spotify.com/track/0PPmHdxZcXezJ6qgFQENeL) | [Mouth Water](https://open.spotify.com/artist/547EWMRMsHvxWdvz3zSxxq), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [For So Long \(Rhye Remix\)](https://open.spotify.com/album/21qmLV71wHac35xSpfliyq) | 3:21 | 2023-08-22 |  |
 | [For Whom the Bell Tolls](https://open.spotify.com/track/6fO9mQPYKWZmhgvoMnZcLE) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Lamentations](https://open.spotify.com/album/0xCNuCZnrVp7NnX6xku4mj) | 4:10 | 2020-11-13 | 2020-12-19 |
+| [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 | 2024-12-13 |  |
 | [Forgotten September](https://open.spotify.com/track/4jSAqv6ZUpEwyaLTbh8pxE) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [No Answers In Luck](https://open.spotify.com/album/3fe3F9stNQZMz1Fxb1iZcf) | 3:02 | 2019-06-21 | 2022-04-18 |
 | [Formation](https://open.spotify.com/track/4EeltidRUkfOcyGqHmCZvA) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Formation](https://open.spotify.com/album/02PBjTa9uQgy6LVklbJAEZ) | 5:51 | 2020-10-28 | 2022-07-13 |
 | [Formless](https://open.spotify.com/track/7s0F97BmxzcfpnHMDW5EzT) | [Flowen](https://open.spotify.com/artist/6S4jzHRBwIKZw9vlUoKayG) | [Closure](https://open.spotify.com/album/364QOPOsNQ74Cp6WyFEN8d) | 2:51 | 2019-06-19\* | 2022-04-19 |
@@ -847,7 +848,7 @@
 | [Swimming With Him](https://open.spotify.com/track/65j86GdsxXYv8ZVOIvyz8D) | [Ava Rasti](https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY) | [Swimming With Him](https://open.spotify.com/album/5Nfr9r6n2H6Rxqly2LatnZ) | 8:30 | 2024-11-22 | 2024-11-29 |
 | [Syria \- Satori Remix](https://open.spotify.com/track/4gPajk6ojip36b3P7sSyvw) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:07 | 2019-05-26\* | 2020-08-26 |
 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 | 2024-08-05 | 2024-10-08 |
-| [Take Me Away](https://open.spotify.com/track/5N005JHBSGHp98gh8Hrg8A) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:47 | 2024-10-11 |  |
+| [Take Me Away](https://open.spotify.com/track/5N005JHBSGHp98gh8Hrg8A) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:47 | 2024-10-11 | 2024-12-14 |
 | [Take Them](https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Take Them](https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp) | 4:47 | 2021-07-23 | 2022-07-28 |
 | [Take Three](https://open.spotify.com/track/0SLH9b0nlK4larScjLxfSn) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Take Three](https://open.spotify.com/album/0l9qAgwvMjXvkhUC2gMpZr) | 2:23 | 2019-05-26\* | 2020-08-26 |
 | [Taking Flight](https://open.spotify.com/track/1zjvaSKCycMyeNOHn3FYBE) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX) | [Taking Flight](https://open.spotify.com/album/4tVXufhktGzIBqJWpKvDm3) | 3:00 | 2019-06-19\* | 2020-08-26 |

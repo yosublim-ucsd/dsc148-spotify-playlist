@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 153 | [Social Climb](https://open.spotify.com/track/3xUsaaH6oCG1w8kD1oGhGW) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 2:56 |
 | 154 | [Everyone Speaks Russian](https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz), [Flo Mega](https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j) | [17 Deutsche Tänze](https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH) | 3:08 |
 
-Snapshot ID: `AAAAzONPPFcK7YTidrpMgaY1Pn6xybWd`
+Snapshot ID: `AAAAzU1XMJUHEe8tcy6eugk8RpBYlvTU`

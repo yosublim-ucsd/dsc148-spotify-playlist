@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,641,055 likes - 143 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,644,723 likes - 143 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 142 | [Airglow](https://open.spotify.com/track/3YMYq87kCu0qFlqtof3q8E) | [Víolet Dawn](https://open.spotify.com/artist/7oZu4iBcw4ZT653Xo0pADm) | [Airglow](https://open.spotify.com/album/5AV8HyK3KDVBAtkSVYhHau) | 2:16 |
 | 143 | [Juneau](https://open.spotify.com/track/0mWbY7Dev7yg5ZRfaUMoK1) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Juneau](https://open.spotify.com/album/5ZMPRlBendagy0WbmPjCLs) | 2:36 |
 
-Snapshot ID: `Z1myoAAAAABFDyhtDGM/EcFx5LX/scVf`
+Snapshot ID: `Z1xEhQAAAAAS+OR/0fRg6GzwZP1K1VET`

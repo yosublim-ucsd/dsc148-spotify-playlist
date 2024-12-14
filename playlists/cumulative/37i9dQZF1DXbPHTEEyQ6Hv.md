@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-238 songs - 9 hr 16 min
+244 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,9 @@
 | [Blue Christmas](https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Blue Christmas](https://open.spotify.com/album/4BfLDXV5kFmdlUBGUddaXx) | 2:31 | 2021-12-14 | 2022-11-10 |
 | [Blue Christmas](https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Blue Christmas](https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w) | 2:32 | 2024-11-06 |  |
 | [Candlelight Carol](https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Angels In The Realms Of Glory](https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D) | 2:18 | 2023-11-08 |  |
+| [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 | 2024-12-13 |  |
 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 | 2023-10-11 |  |
+| [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 | 2024-12-13 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3rbF8UiQAhjGBoMx6Eh8zg) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0Jxd0BrLiwpzuTMuPWngyc) | 2:11 | 2024-12-06 |  |
 | [Christmas Lights](https://open.spotify.com/track/0Bms5KTSYlDk2qP8GMIc69) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Christmas Lights](https://open.spotify.com/album/2pY1msFkuDzwlH8BMKLEG9) | 2:13 | 2023-09-26 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-14 |  |
@@ -103,6 +105,7 @@
 | [Gloria In Excelsis Deo](https://open.spotify.com/track/7I2ZT2jcpykUtIqY2HiJgq) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Christmas Piano Instrumentals](https://open.spotify.com/album/3LtRWiqvw4KOVWOO3nfknH) | 2:00 | 2021-12-14 | 2022-10-15 |
 | [God Rest Ya Merry Gentlemen](https://open.spotify.com/track/1Sjt9IzCoF7IQo1n1K6ML6) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Winter Wishes](https://open.spotify.com/album/1fcNgwh6bGokhPiMyuyXo1) | 1:54 | 2024-12-06 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3AsRbNlWMQCVtWzmRy4Q2N) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/15rrNRx2oA0A9lbIdXQxiY) | 2:41 | 2023-10-03 |  |
+| [God Rest Ye Merry, Gentlemen](https://open.spotify.com/track/10nITnESoPGy8U5PRkqE3t) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [God Rest Ye Merry, Gentlemen](https://open.spotify.com/album/5Qkrns7mnSHNF6Qz8RJbCF) | 2:25 | 2024-12-13 |  |
 | [God Rest Ye Merry, Gentlemen Reimagined](https://open.spotify.com/track/4AM9hMLzphr4bBpcMXMZoI) | [Mina Amare](https://open.spotify.com/artist/1Nr4etrumGj4EaW0vMpnii) | [God Rest Ye Merry, Gentlemen Reimagined](https://open.spotify.com/album/26Q86k5ZDBPGUGE1GGjhFl) | 1:53 | 2024-11-29 |  |
 | [Good Christian Men Rejoice](https://open.spotify.com/track/3Q0zjvVvqUL6I1pzaAdWLd) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [Good Christian Men Rejoice](https://open.spotify.com/album/5kupU8x4PJt4jTrpKeki4t) | 2:59 | 2023-10-03 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 | 2021-12-14 |  |
@@ -191,6 +194,8 @@
 | [Santa Tell Me](https://open.spotify.com/track/6vZcMoD5JVz2xC7WkKU8Vi) | [Penny Lanegan](https://open.spotify.com/artist/7bsYtGwA2k9Xt84WJT8lBY) | [Santa Tell Me](https://open.spotify.com/album/18uTr2S7O7Ipl1Qp4Kvqck) | 2:50 | 2024-11-19 |  |
 | [See Amidst The Winter's Snow](https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:28 | 2021-12-14 |  |
 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 | 2021-12-14 |  |
+| [Silent Night](https://open.spotify.com/track/56bebkBfoARRQs2vanbxbG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:56 | 2024-12-13 |  |
+| [Silent Night \(Arr\. Piano\)](https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Silent Night \(Arr\. Piano\)](https://open.spotify.com/album/0Lf8nFCFT3RgkCRu2t3Ces) | 2:24 | 2024-12-13 |  |
 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 | 2021-12-14 |  |
 | [Silver Bells](https://open.spotify.com/track/2fKI4IRNIk0CzTtd0rcgCB) | [Maurice Hofer](https://open.spotify.com/artist/13qYVevzVerhQNMUxwgLmG) | [At Christmas](https://open.spotify.com/album/5KtlgDV18WBowWoMm6I4n2) | 2:43 | 2021-12-14 | 2022-10-15 |
 | [Silver Bells \- Piano](https://open.spotify.com/track/5HGeOWobPDjZZ3vc0tUA0x) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:24 | 2022-10-14 |  |
@@ -199,6 +204,7 @@
 | [Somewhere In My Memory](https://open.spotify.com/track/4mYAvFmB61UBYf2mq8EhJD) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Somewhere In My Memory](https://open.spotify.com/album/1cR6hkvpDDGIkdxikJgQGO) | 2:38 | 2024-11-12 |  |
 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 | 2021-12-14 |  |
 | [Star Of The East](https://open.spotify.com/track/4TYn4M3KJyug0LjSgSuTIe) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:54 | 2021-12-14 | 2023-09-27 |
+| [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 | 2024-12-13 |  |
 | [Stilla Natt](https://open.spotify.com/track/1afHZXcjEW4hHlFMC38rC0) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Stilla Natt](https://open.spotify.com/album/74hJVq66LJCVzjnyOTy0d9) | 2:34 | 2024-11-06 |  |
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-12-14 |  |
 | [That's Christmas To Me](https://open.spotify.com/track/2RJynd5Zo2jM2uThsr0nt2) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:06 | 2021-12-14 |  |

@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Kat Luna
+> Country music with a Latin flair\. Cover: Julio Caesar
 
-188 songs - 10 hr 22 min
+189 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [Bartender I'll Take Two](https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC) | [Selestial Alcoser](https://open.spotify.com/artist/4HtKg8ufn3YPH6xsZLQEUn) | [Bartender I'll Take Two](https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57) | 3:38 | 2024-06-17 |  |
 | [Beautiful Crazy \(Bella Locura\) \- Spanish](https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:56 | 2023-12-15 | 2024-04-19 |
-| [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 |  |
+| [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 | 2024-12-14 |
 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 | 2023-01-27 | 2024-04-10 |
 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 | 2021-12-10 | 2024-04-10 |
 | [Brothers](https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Brothers](https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM) | 3:24 | 2024-01-05 |  |
@@ -57,6 +57,7 @@
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7MT3csTkm4yhkmNOlsbwn5) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/4Uty8PTjWY2INcCub7h40P) | 3:01 | 2022-11-04 | 2022-11-13 |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7AY1uEEkYfFLFCEuc8QvUH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/0yGUU5Wcj5PBvXOyMWuGp5) | 3:40 | 2021-12-10 |  |
 | [El Trabajador](https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b) | [Beyond These Walls](https://open.spotify.com/album/2KQOp4bGm40HvQIcxQbrCp) | 3:11 | 2021-12-10 | 2024-04-10 |
+| [Feathered Indians](https://open.spotify.com/track/03Ude4OR82LXBtu7219PNQ) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Feathered Indians](https://open.spotify.com/album/2ON8RNhgYzgE0915GuvSet) | 2:51 | 2024-12-13 |  |
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 | 2024-04-10 |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2021-12-10 |  |
 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 | 2023-09-29 | 2024-04-10 |

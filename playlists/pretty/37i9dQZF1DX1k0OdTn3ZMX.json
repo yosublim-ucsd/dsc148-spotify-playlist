@@ -1,47 +1,15 @@
 {
-  "description": "n\u00fc-metal revival is happening here and now with Tetrarch.",
-  "num_followers": 84033,
+  "description": "n\u00fc-metal revival is happening here and now with Linkin Park.",
+  "num_followers": 84153,
   "original_name": "new n\u00fc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAABzCFGOaQclbwSJdCnAG5vq",
+  "snapshot_id": "Z1u/WAAAAADj3pbffXYsc++iEtrDsiL4",
   "tracks": [
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Live Not Fantasize",
-        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
-      },
-      "artists": [
-        {
-          "name": "Tetrarch",
-          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Live Not Fantasize",
-      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Hollywood Forever",
-        "url": "https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Hollywood Forever",
-      "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Heavy Is the Crown",
         "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
@@ -57,7 +25,55 @@
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Live Not Fantasize",
+        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Live Not Fantasize",
+      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Hollywood Forever",
+        "url": "https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Hollywood Forever",
+      "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Insane in the Brain",
         "url": "https://open.spotify.com/album/1uJMxs3BkgxuFeeM7BcHCp"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/04r5s5qp2DRKnObmiCE2QE"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Nu Delhi",
         "url": "https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "EVERYBODY (BLOODBROS BACK)",
         "url": "https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm"
@@ -125,23 +141,7 @@
       "url": "https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "AfterLife (Deluxe)",
         "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "A Work of Art (feat. Shavo of System of a Down)",
         "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Oblivion Eyes",
         "url": "https://open.spotify.com/album/39OcH8qmLHG9cWKzyq3jGU"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/7ipUh3ks6qz821ZBwR7BG8"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Circle Pit // Bad Seed",
         "url": "https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/7xhIXA6RoyxrVcxmqZ56cM"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "TRIAL & TERROR",
         "url": "https://open.spotify.com/album/2NjCt56ShHgoHjup5HEbUa"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3pHPj3ZyDb6SHGianz0QZB"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/746RawvDho6HKng0MymUJl"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3g6VoOQjAOwRsnSd4N7iC9"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Two Faced",
         "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Se Van A Topar",
         "url": "https://open.spotify.com/album/6D2Xk8t3bvaZngEemyO9H5"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/6kHJesJlHqZVwSLhOtuiQv"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Mutation",
         "url": "https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Fuck What You Heard",
         "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Cypress Hill Mixtape",
         "url": "https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/5Lbu0d5dXJfwUbf9BTVkdm"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "MOTION",
         "url": "https://open.spotify.com/album/2uG19GTf3emUepH0nfW8nI"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Remains of Us",
         "url": "https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Bomb.com",
         "url": "https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "The Optimist (feat. Conquer Divide)",
         "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "SERPENTINE",
         "url": "https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "KILLING ME",
         "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/0ISeFNTBmz1NCAhF7qTum9"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/5L3z9iM22RWKcKKl4yW1cD"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/6fkre9qGyleKmufw9ONQPI"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "The Art Of Everything",
         "url": "https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6nUKoqyYUZQdSuP4dq0f7i"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/2RJ1a6ahIkKfObmJztZ8TH"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/5ES2h7mbW1EmT65Sl1uShP"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Jelly",
         "url": "https://open.spotify.com/album/4jQchA4qZLbHFnfIq8sUyI"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/5vx0e8wqX8wODZrCiJQsrZ"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Self Sabotage",
         "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "SYM",
         "url": "https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "ODDWORLD",
         "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Fake Ass Friends",
         "url": "https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "COME ALIVE",
         "url": "https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
         "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "ENMY",
         "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "HYPERVIOLENCE",
         "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "NO HOSTAGES",
         "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "VANDALISM",
         "url": "https://open.spotify.com/album/5A2TMeemL5VEmN7lp8MvtX"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/6uZ8FTXfW15gerPPmaRZ9J"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "CRITICAL HIT",
         "url": "https://open.spotify.com/album/5znv7fNWjMwP2FgqydNYcW"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3MEcXeZVj8Io90EExEWgjX"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "YEAR OF THE RAT",
         "url": "https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Tell Us How It Ends",
         "url": "https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2MNWFQngS2qlOBWU6T9AZp"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/7dq9owG0R2pznVhh2oLmXy"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:08",
       "album": {
         "name": "filthy/RIGHTEOUS (feat. Kenta Koie of Crossfaith)",
         "url": "https://open.spotify.com/album/22OGFESsnG4chRM0pPEwLE"

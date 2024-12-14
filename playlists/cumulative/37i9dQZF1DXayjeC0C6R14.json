@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 198693,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/1zS9IZPGyhqmnMAtoUO3hQ"
@@ -414,6 +414,28 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "album": {
+        "name": "El Tiempo Que Paso Contigo",
+        "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190205,
+      "name": "El Tiempo Que Paso Contigo",
+      "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
     },
     {
       "album": {
@@ -881,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/4MNaCQTABABfWrom6DF30H"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213418,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/27yZs70h867i9omMP1ddFs"
+    },
+    {
+      "album": {
         "name": "Tal y cual",
         "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
       },
@@ -932,6 +972,24 @@
       "duration_ms": 247354,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/2TcnOxCgYD2rI9mvAlOGBU"
+    },
+    {
+      "album": {
+        "name": "Los Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/4OGtmgVguWMBP1DvbnwEF8"
+      },
+      "artists": [
+        {
+          "name": "Lengua de Mapa",
+          "url": "https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258312,
+      "name": "Los Rom\u00e1nticos",
+      "url": "https://open.spotify.com/track/1uOHO0hINCKvrFalAsI48P"
     },
     {
       "album": {
@@ -1164,7 +1222,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 187327,
       "name": "Obsesi\u00f3n - Alternate Version",
       "url": "https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju"
@@ -1342,7 +1400,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 186678,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
@@ -1386,6 +1444,32 @@
       "duration_ms": 325145,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+    },
+    {
+      "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/4N3ug5drrpnF4lGZ50vaAh"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        },
+        {
+          "name": "Moy Yos",
+          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192460,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/7HrQmPYZUh5dgJIbLCgdmV"
     },
     {
       "album": {
@@ -1775,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Verte De Cerca",
+        "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Verte De Cerca",
+      "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Mudanza",
         "url": "https://open.spotify.com/album/0lUb4IdfWiCZ9lMOuozqQp"
       },
@@ -1844,7 +1946,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 220493,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
@@ -1938,7 +2040,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-14",
       "duration_ms": 174813,
       "name": "\u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"

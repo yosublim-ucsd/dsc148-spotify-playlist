@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2gflztD0uo7P987eJrykqF"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145498,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq"
+    },
+    {
+      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -7744,6 +7762,24 @@
       "duration_ms": 195997,
       "name": "Verses",
       "url": "https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY"
+    },
+    {
+      "album": {
+        "name": "Vestige",
+        "url": "https://open.spotify.com/album/0oqY7pg4ghKdcLtAjAAurJ"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Allain",
+          "url": "https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/0tf6qHXJXKv0c8xxw4hbZg"
     },
     {
       "album": {
