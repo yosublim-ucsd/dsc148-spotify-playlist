@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 970393,
+  "num_followers": 970530,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
+        "name": "Polar Lights",
+        "url": "https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Polar Lights",
+      "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1"
       },
@@ -643,38 +659,6 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Polar Lights",
-        "url": "https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Polar Lights",
-      "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
         "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
         "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 158000,
       "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "On My Knees (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 452000,
-      "name": "On My Knees - Adriatique Remix",
-      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 415748,
       "name": "Remember",
       "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -891,30 +891,6 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "Promised Land (Remixes)",
-        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 254395,
-      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
-      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 254395,
+      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -987,6 +987,46 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
@@ -1003,22 +1043,6 @@
       "duration_ms": 244517,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -1051,30 +1075,6 @@
       "duration_ms": 228840,
       "name": "Wish You Knew",
       "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "Fairytale of Berlin",
+        "url": "https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+      "duration_ms": 302400,
+      "name": "Fairytale of Berlin",
+      "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
     }
   ],
   "unique_name": "Lowkey Tech",

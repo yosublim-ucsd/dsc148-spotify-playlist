@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-266 songs - 14 hr 34 min
+267 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 | 2022-12-23 |  |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2024-12-09 |  |
 | [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 | 2024-01-03 | 2024-11-07 |
+| [snowpool](https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [snowpool](https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs) | 3:15 | 2024-12-13 |  |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-21 |  |
 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Someone to Spend Christmas With](https://open.spotify.com/track/3eJp4DzlpCrP6TNCTBOng2) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Someone to Spend Christmas With](https://open.spotify.com/album/01muwahIzp9KIyxf0MkWo5) | 4:02 | 2021-11-12 | 2022-07-27 |
@@ -261,7 +262,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Christmas Time](https://open.spotify.com/album/5eP1FZIB34PXwas58LAPCl) | 3:10 | 2021-11-12 | 2022-07-28 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-27 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-11-11 |  |
-| [Wish](https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Wish](https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1) | 3:07 | 2022-12-23 |  |
+| [Wish](https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Wish](https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1) | 3:07 | 2022-12-23 | 2024-12-15 |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [A Very Cool Christmas](https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh) | 2:26 | 2022-10-14 | 2022-11-07 |
 | [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 | 2024-04-19 |

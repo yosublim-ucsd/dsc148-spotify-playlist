@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61603,
+  "num_followers": 61610,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAABGTKg2jLmdLVF/wpWHE230",
+  "snapshot_id": "Z1t5AAAAAADd/Tu74NPBHStHQ7ND02mS",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chispa Roja",
-        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 211085,
-      "name": "Chispa Roja",
-      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chispa Roja",
+        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 211085,
+      "name": "Chispa Roja",
+      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
     },
     {
       "added_at": null,
@@ -751,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+        "name": "TRANSFORMANDO",
+        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
       },
       "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
+      "duration_ms": 176538,
+      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
     },
     {
       "added_at": null,
@@ -783,6 +787,22 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Si nos dejan",
-      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Himnos del Amor",
         "url": "https://open.spotify.com/album/00oqeg7bfUjuQWLqgrdZ2k"
       },
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vu\u00e9lame el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
         }
       ],
-      "duration_ms": 201471,
-      "name": "A un Paso de Baile de Ti",
-      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
+      "duration_ms": 221253,
+      "name": "Si nos dejan",
+      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vu\u00e9lame el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "A un Paso de Baile de Ti",
+      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
     },
     {
       "added_at": null,
@@ -1031,46 +1051,6 @@
       "duration_ms": 228906,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un A\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        },
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        },
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Un A\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

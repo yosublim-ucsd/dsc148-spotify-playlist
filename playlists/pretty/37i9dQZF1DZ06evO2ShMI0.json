@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 194973,
+  "num_followers": 195008,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACP7VHySfvVS+2jeMO0NMzQ",
+  "snapshot_id": "Z1t5AAAAAAAwgFgd/anwTV+Z3I/PHm6h",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 A\u00f1os Celebrando",
-        "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        },
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 301333,
-      "name": "Ingrata",
-      "url": "https://open.spotify.com/track/2N9jetcWOeeqQZMiWmIAPI"
+      "duration_ms": 210333,
+      "name": "Mejor No Hablemos De Amor",
+      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "20 A\u00f1os Celebrando",
+        "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
       },
       "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        },
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Mejor No Hablemos De Amor",
-      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
+      "duration_ms": 301333,
+      "name": "Ingrata",
+      "url": "https://open.spotify.com/track/2N9jetcWOeeqQZMiWmIAPI"
     },
     {
       "added_at": null,

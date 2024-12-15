@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,839 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,978 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 22 | [Neighbourhood \- Radio Mix](https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo) | [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Neighbourhood](https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR) | 3:35 |
 | 23 | [Ain't No Stoppin Us \- Oracles Mix](https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Ain't No Stoppin Us \(Oracles Remix\)](https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC) | 5:42 |
 | 24 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
-| 25 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
-| 26 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
+| 25 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
+| 26 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
 | 27 | [No Good 4 Me \(feat\. Megaman, Romeo and Lisa Maffia\)](https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 6:02 |
 | 28 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
 | 29 | [Masterblaster 2000 \- Oracles Remix](https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 5:32 |

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-646 songs - 1 day 14 hr 54 min
+647 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-03-11 | 2023-03-29 |
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 | 2022-11-11 |
-| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
+| [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-12-15 |
 | [Open To Thyself](https://open.spotify.com/track/4BDNNrrapR46aXj7FoJBKH) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart](https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB) | 4:40 | 2024-08-30 | 2024-09-14 |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 |  |
 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 | 2024-10-18 |  |
@@ -636,6 +636,7 @@
 | [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 | 2024-10-25 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 | 2024-12-14 |
 | [WHY \- A COLORS SHOW](https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [WHY \(A COLORS SHOW\)](https://open.spotify.com/album/3jrL60zlPaQZ0QDbrbg8RM) | 3:09 | 2024-11-22 |  |
+| [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 | 2024-12-06 |  |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 4:53 | 2023-08-25 | 2023-11-06 |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 | 2023-08-25 | 2024-03-04 |
 | [With You](https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:09 | 2021-12-03 | 2022-11-05 |

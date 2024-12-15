@@ -1513,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Un Blues",
+        "url": "https://open.spotify.com/album/3HuclJOLEv3snXerJ9JIZJ"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178796,
+      "name": "Un Blues",
+      "url": "https://open.spotify.com/track/3i30CC0zXPfhgPuLaMuCDr"
+    },
+    {
+      "album": {
         "name": "venequia.",
         "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
       },

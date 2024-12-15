@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-254 songs - 14 hr 50 min
+255 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 | 2024-02-29 | 2024-11-15 |
 | [Muốn Cưa Được Em](https://open.spotify.com/track/1pWRKKeB7gBaIn44EW9H9U) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [HENNESSY](https://open.spotify.com/artist/4Dbv9b1t1zBeKbWpHjLUrx) | [Muốn Cưa Được Em](https://open.spotify.com/album/6KX996urXXpKiHd6Odn7Cm) | 2:50 | 2024-11-12 | 2024-11-19 |
 | [Mê Man](https://open.spotify.com/track/5iheFoiJ58bfHDO2w577xK) | [Bùi Hoàng Yến](https://open.spotify.com/artist/7zeb4BEgpeNz3jy4AOz7HK), [Hydra](https://open.spotify.com/artist/2dbr9Dx3bez6aVitvSUzGm) | [Mê Man](https://open.spotify.com/album/6GNtWeblcY7JUFMqBC2eNR) | 3:54 | 2024-02-15 | 2024-03-29 |
-| [Mưa Cứ Rơi](https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR) | [Mr.A](https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Mưa Cứ Rơi](https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8) | 2:57 | 2024-09-25 |  |
+| [Mưa Cứ Rơi](https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR) | [Mr.A](https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Mưa Cứ Rơi](https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8) | 2:57 | 2024-09-25 | 2024-12-15 |
 | [Mưa Thâm Lặng Giời](https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Mưa Thâm Lặng Giời](https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5) | 3:48 | 2024-11-01 |  |
 | [Mượn Rượu Tỏ Tình](https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Mượn Rượu Tỏ Tình](https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM) | 3:18 | 2024-03-07 | 2024-04-19 |
 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 | 2023-10-19 | 2024-02-13 |
@@ -224,6 +224,7 @@
 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 | 2024-11-12 |  |
 | [Trí Trá](https://open.spotify.com/track/2CjaE3LZMTi38jK9whOcUK) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [TRÁCSTAR](https://open.spotify.com/album/6fJZeGzS6omKzAKIQDC9MC) | 3:54 | 2024-10-03 | 2024-10-14 |
 | [Trăng Hoa Mây Mưa](https://open.spotify.com/track/2BDE7KducbOuOPY4tlERyJ) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [Trăng Hoa Mây Mưa](https://open.spotify.com/album/6ru2eI8JeIf0wMh0xuXwOq) | 3:13 | 2024-01-23 | 2024-06-13 |
+| [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 | 2024-12-09 |  |
 | [Trầu Văn Trap](https://open.spotify.com/track/5pJ7GLhX97h4gs2yeio5yi) | [Mikelodic](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Trầu Văn Trap](https://open.spotify.com/album/742bcUqN0dUZEwwB9DO9sT) | 3:08 | 2023-10-26 | 2023-10-31 |
 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 | 2023-10-19 | 2024-04-19 |
 | [Tình Cờ \(feat\. CHARLES., Brown, KIMLONG & Duy Sơn\)](https://open.spotify.com/track/6u7HUAnyWxVjrKnFGYSQZp) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh), [Hà Lê](https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U), [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk), [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [BROWN](https://open.spotify.com/artist/4kIJkw0gdqzErQ8XpFdiqq), [Duy Sơn](https://open.spotify.com/artist/22UrMaJjZEJF7jFExxE8bm), [KIMLONG](https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf) | [Space Jam, Vol\. 2 \- DO4LOVE](https://open.spotify.com/album/5LsXG1DJpsFjPyFNVO4Shn) | 3:52 | 2024-11-08 |  |

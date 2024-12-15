@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
+    },
+    {
+      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 150360,
       "name": "Cookies En Las Pipas",
       "url": "https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 147543,
       "name": "El Mejor Del Mont\u00f3n",
       "url": "https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA"

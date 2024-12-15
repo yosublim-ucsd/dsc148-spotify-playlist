@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,003 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,041 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 53 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 |
 | 54 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 55 | [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 |
-| 56 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
-| 57 | [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 |
+| 56 | [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 |
+| 57 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 | 58 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 |
 | 59 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 |
 | 60 | [Since I Don't Have You \- Dual Remix](https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Amazonics](https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W) | [Since I Don't Have You \(Dual Remix\)](https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE) | 2:46 |

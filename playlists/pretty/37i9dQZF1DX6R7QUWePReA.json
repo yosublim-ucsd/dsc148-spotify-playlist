@@ -1,13 +1,29 @@
 {
   "description": "Timeless heart-warming classics from 1940- 1970 for the holiday season.",
-  "num_followers": 3420916,
+  "num_followers": 3427116,
   "original_name": "Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1PgEQAAAADmkKSQmFWGyjoYLRhx6McB",
+  "snapshot_id": "Z10Q3gAAAABOMyFdUUWDp+E2pWRSmrw4",
   "tracks": [
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
     {
       "added_at": "2024-10-17 19:34:23",
       "album": {
@@ -27,18 +43,18 @@
     {
       "added_at": "2024-10-17 19:34:23",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -64,13 +80,13 @@
       },
       "artists": [
         {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -87,22 +103,6 @@
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -179,6 +179,38 @@
     {
       "added_at": "2024-10-17 19:34:23",
       "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
+    },
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
         "name": "Have A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
       },
@@ -191,22 +223,6 @@
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -343,22 +359,6 @@
       "duration_ms": 315706,
       "name": "You're A Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/6TnjaL02usP9dwCGzdk5GS"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2024-10-17 19:34:23",

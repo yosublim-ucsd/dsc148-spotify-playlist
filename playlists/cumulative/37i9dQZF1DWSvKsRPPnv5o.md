@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-1,054 songs - 2 day 1 hr 9 min
+1,055 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Go Pro](https://open.spotify.com/track/3wzAAc6yhKtQs7nQLwMJjf) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 2:59 | 2024-11-08 | 2024-11-16 |
 | [Go To War](https://open.spotify.com/track/5iidIZADOqvVmH8MgpPipq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Snoop Dogg Presents Algorithm](https://open.spotify.com/album/61qj9MgqlVi0xzi55mHZiX) | 2:51 | 2021-11-20 | 2022-03-05 |
 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 | 2022-05-21 | 2022-07-02 |
+| [God, i needa know](https://open.spotify.com/track/28FTY5mL82LDAAyMXlgUZ6) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [God, i needa know](https://open.spotify.com/album/2vDv4kTMuBiZ8xZftHGKY4) | 3:21 | 2024-12-14 |  |
 | [goin thru sum thangs](https://open.spotify.com/track/0Z8xgKEkFo5g7vEWVx8CKJ) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [BACK TO THE BASICS](https://open.spotify.com/album/0nBSBQLPQetFf06OE8OpdS) | 2:47 | 2024-04-26 | 2024-05-04 |
 | [GOLDMEMBERS](https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 2:26 | 2024-05-24 | 2024-08-31 |
 | [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 | 2024-09-13 | 2024-09-20 |

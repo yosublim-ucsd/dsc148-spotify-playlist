@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73870,
+  "num_followers": 73887,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACfjmiFHMQvjRyvxCeZ9yNa",
+  "snapshot_id": "Z1t5AAAAAAB42ct3wmtO51+IW+Bc4TlB",
   "tracks": [
     {
       "added_at": null,
@@ -987,26 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
+      "duration_ms": 171626,
+      "name": "Some Things Never Change (feat. HARDY)",
+      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
     }
   ],
   "unique_name": "This Is HARDY",

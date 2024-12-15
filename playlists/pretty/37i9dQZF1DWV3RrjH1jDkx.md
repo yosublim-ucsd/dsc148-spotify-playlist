@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,270 likes - 104 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,262 likes - 104 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 40 | [C.N.B\. \(Cold Norwegian Babe\) \- Initial Talk Remix](https://open.spotify.com/track/5KbRQiucPHXpl5dl5qFYfP) | [Maya Vik](https://open.spotify.com/artist/3Mvg8yidz5g6sKE4j6jGFh), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [C.N.B\. \(Cold Norwegian Babe\) \[Initial Talk Remix\]](https://open.spotify.com/album/5YJHkXWrBOEeesWz2b5AUq) | 3:27 |
 | 41 | [flatline](https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [flatline](https://open.spotify.com/album/4t9MJiVOy6KeOI3EjLgssB) | 2:42 |
 | 42 | [\(I Don't Wanna Be\) Just A Memory](https://open.spotify.com/track/2mxA7nJ19UTxVFaDPHrTFw) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [\(I Don't Wanna Be\) Just A Memory](https://open.spotify.com/album/54sTqFr1XE4LCIHkBwPk4b) | 3:23 |
-| 43 | [The Bird Song](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
+| 43 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
 | 44 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 45 | [Tweaker \(Knekken 2025\)](https://open.spotify.com/track/4PP17KKjH9Q2WctrXkrGY9) | [Prells](https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH), [Snorty](https://open.spotify.com/artist/1yvf5cJ6rnH48G1VFXUmgQ), [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0) | [Tweaker \(Knekken 2025\)](https://open.spotify.com/album/1svbfwkAFRdweDSo9Nep71) | 3:01 |
 | 46 | [OSS 2](https://open.spotify.com/track/0b1EMUDqEyr72mbGAIi2zj) | [Kaybeo](https://open.spotify.com/artist/3kteVz4HRZk9A0zq5z08OE), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [OSS 2](https://open.spotify.com/album/0UvWZj7ICoqWV5jqKnYuqR) | 4:02 |

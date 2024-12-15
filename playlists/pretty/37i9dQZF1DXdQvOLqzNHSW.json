@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1005472,
+  "num_followers": 1005476,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
         "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 132903,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        },
+        {
+          "name": "Treasure Bloom",
+          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
+        }
+      ],
+      "duration_ms": 206394,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
         "name": "Like A Ribbon",
         "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
-        "name": "Your Touch",
-        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        },
-        {
-          "name": "Treasure Bloom",
-          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
-        }
-      ],
-      "duration_ms": 206394,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "What's Your Motive",
-        "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
-      },
-      "artists": [
-        {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
         "name": "Hang Up the Lights",
         "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
+        "name": "What's Your Motive",
+        "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
+      },
+      "artists": [
+        {
+          "name": "The Hails",
+          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+        }
+      ],
+      "duration_ms": 200961,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "Hypnotherapy",
-        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 205821,
-      "name": "Hypnotherapy",
-      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+      "duration_ms": 205821,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1127,6 +1111,22 @@
       "duration_ms": 218431,
       "name": "Need To Talk - Kordz Remix",
       "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "Art Collection",
-        "url": "https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB"
-      },
-      "artists": [
-        {
-          "name": "niquo",
-          "url": "https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF"
-        },
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "Mr. Moon",
-      "url": "https://open.spotify.com/track/46gce56bpmcADKw3i00Lju"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 180279,
       "name": "Day In The Life",
       "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
+        "name": "Art Collection",
+        "url": "https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB"
+      },
+      "artists": [
+        {
+          "name": "niquo",
+          "url": "https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF"
+        },
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "Mr. Moon",
+      "url": "https://open.spotify.com/track/46gce56bpmcADKw3i00Lju"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We're Here, My Dear",
-      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
       },
       "artists": [
         {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
         }
       ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+      "duration_ms": 221720,
+      "name": "We're Here, My Dear",
+      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1391,6 +1375,22 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
+        "name": "Stars at Midnight",
+        "url": "https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0"
+      },
+      "artists": [
+        {
+          "name": "Harrison Brome",
+          "url": "https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob"
+        }
+      ],
+      "duration_ms": 252624,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu"
+    },
+    {
+      "added_at": "2024-12-12 22:19:54",
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2024-12-12 22:19:54",
       "album": {
-        "name": "Stars at Midnight",
-        "url": "https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0"
+        "name": "Best For You and Me",
+        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
       },
       "artists": [
         {
-          "name": "Harrison Brome",
-          "url": "https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 252624,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu"
+      "duration_ms": 185263,
+      "name": "Best For You and Me",
+      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
     },
     {
       "added_at": "2024-12-12 22:19:54",
@@ -1587,22 +1603,6 @@
       "duration_ms": 272000,
       "name": "swan hug (feat. jjared)",
       "url": "https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm"
-    },
-    {
-      "added_at": "2024-12-12 22:19:54",
-      "album": {
-        "name": "Best For You and Me",
-        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Best For You and Me",
-      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
     },
     {
       "added_at": "2024-12-12 22:19:54",

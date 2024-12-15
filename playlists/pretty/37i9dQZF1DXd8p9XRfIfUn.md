@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Lexxx Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,531 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,546 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 51 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 | 52 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
 | 53 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
-| 54 | [Se Rumora \(feat\. Alu Mix\)](https://open.spotify.com/track/43YcBCml7HyoHE0iiaJDlo) | [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Gaviria](https://open.spotify.com/artist/6oub1Q2hC7ZILcOWWn3Eo9), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Se Rumora \(feat\. Alu Mix\)](https://open.spotify.com/album/7gPBXVllantu5kjBXm0D2S) | 3:23 |
-| 55 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
+| 54 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
+| 55 | [Se Rumora \(feat\. Alu Mix\)](https://open.spotify.com/track/43YcBCml7HyoHE0iiaJDlo) | [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Gaviria](https://open.spotify.com/artist/6oub1Q2hC7ZILcOWWn3Eo9), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Se Rumora \(feat\. Alu Mix\)](https://open.spotify.com/album/7gPBXVllantu5kjBXm0D2S) | 3:23 |
 | 56 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |
 | 57 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
 | 58 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |

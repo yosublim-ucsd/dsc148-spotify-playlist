@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,514 songs - 2 day 9 hr 2 min
+1,515 songs - 2 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 | 2024-09-17 |
 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 | 2022-11-25 | 2023-09-29 |
 | [Graceland Drive](https://open.spotify.com/track/4UNCSVU2mC94tO2g7gxizh) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Graceland Drive](https://open.spotify.com/album/11vVWuXVWNRRMMAKdmxA2D) | 2:28 | 2022-10-15 |  |
-| [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 |  |
+| [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 | 2024-12-15 |
 | [Gratitude](https://open.spotify.com/track/1D6EplUJtLZqNMLTzo8xP8) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Kaymor](https://open.spotify.com/artist/4BBxAKGmxWIX5ztgwqanVl) | [Gratitude](https://open.spotify.com/album/7i9HbhoPrQUsMH41uQhSQ2) | 2:11 | 2022-12-23 | 2023-10-06 |
 | [Grava](https://open.spotify.com/track/0JXecbPggkex2WUbQnyPID) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Grava](https://open.spotify.com/album/5X7xtSXccXdVKSr6C9Yx8U) | 2:22 | 2022-11-11 | 2023-09-29 |
 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -705,6 +705,7 @@
 | [latte](https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/2Zb7URpLsprOd8w0riHHaH) | 2:00 | 2022-06-10 | 2022-11-07 |
 | [latte](https://open.spotify.com/track/6f2j3y74n9nztWFvKuMwNb) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/1VkZdEEAkDyY3pYzFy7fsx) | 2:00 | 2022-10-28 | 2022-12-10 |
 | [latte time](https://open.spotify.com/track/1XFeczt2nYur7cAxxnC1mG) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [latte time](https://open.spotify.com/album/1to60A5CYjiJKc7QLCsB48) | 1:46 | 2022-09-02 | 2023-01-13 |
+| [lazy days](https://open.spotify.com/track/74qNIk6ZTkguoSWMCCgcD9) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [lazy days](https://open.spotify.com/album/4F1ntCEKQzRdDrFjkozXto) | 2:33 | 2024-12-13 |  |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-01-27 | 2022-11-12 |
 | [Lean Back](https://open.spotify.com/track/2xrFmzSL2VKbf7PxIOE5s7) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [Lean Back](https://open.spotify.com/album/6DuQ9alpD26asTgqRodl7D) | 1:57 | 2022-09-02 | 2024-03-23 |
 | [Leaves](https://open.spotify.com/track/20FnrNSnrCmwZ3vZwcOVVP) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q), [Fugee](https://open.spotify.com/artist/6xtxoTYp3AgomC2pfUKl8Q), [Timmy Holiday](https://open.spotify.com/artist/3pF7PisPRNvpxx6qrorwoW) | [Leaves](https://open.spotify.com/album/7Gk3vOp8ZbtNEomF52gLMj) | 2:24 | 2024-09-13 |  |
@@ -1124,7 +1125,7 @@
 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 | 2022-08-19 | 2023-01-07 |
 | [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 | 2024-12-12 |
 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 | 2022-09-30 | 2024-05-19 |
-| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 | 2024-10-01 |
+| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 |  |
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |
 | [Scarlet Sky](https://open.spotify.com/track/5Dion2EQOW0TAUOBpQpZrz) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Scarlet Sky](https://open.spotify.com/album/3FDppEDVawmY49DG2Kf8tz) | 2:29 | 2022-01-27 | 2022-07-15 |
 | [Scientific Magic](https://open.spotify.com/track/1YCfWvnF8t7yubtjAdO7LN) | [Timothy Powers](https://open.spotify.com/artist/3Zt1mZTzihdGr3cBFmKJDB) | [Scientific Magic](https://open.spotify.com/album/69lV3WzDlD1SOc7BGK0lvr) | 2:20 | 2022-08-05 | 2024-12-13 |
@@ -1255,7 +1256,7 @@
 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 | 2022-10-08 | 2023-09-22 |
 | [Summer Daze](https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Summer Daze](https://open.spotify.com/album/5zZqkyoW0wwl4JqE2nVaT9) | 2:28 | 2022-01-27 | 2022-07-15 |
 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1kEdK5L1BLpMjtPu1gGxPI) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 | 2022-01-27 | 2022-04-22 |
-| [summer forever](https://open.spotify.com/track/101uDZRai9H2qjzcTn0fOv) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [summer forever](https://open.spotify.com/album/12wO9UFVaNE4WqWXaUoimg) | 1:46 | 2024-10-04 |  |
+| [summer forever](https://open.spotify.com/track/101uDZRai9H2qjzcTn0fOv) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [summer forever](https://open.spotify.com/album/12wO9UFVaNE4WqWXaUoimg) | 1:46 | 2024-10-04 | 2024-12-15 |
 | [Summer in the Streets](https://open.spotify.com/track/1j0ocgsF8l1m5yiVjfgmMa) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Summer in the Streets](https://open.spotify.com/album/4inLD7of7k7Cap3LqvPkUd) | 1:49 | 2022-04-15 | 2022-10-29 |
 | [Summer rain](https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Summer rain](https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ) | 2:32 | 2023-09-08 |  |
 | [Summertime Is Over](https://open.spotify.com/track/62tfaYei23S8sNg3za7US9) | [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:26 | 2022-11-11 | 2023-09-29 |

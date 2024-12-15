@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,461 likes - 566 songs - 1 day 15 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,468 likes - 566 songs - 1 day 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,9 +236,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 226 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
 | 227 | [The Truth Is In There](https://open.spotify.com/track/2AMjbQRrfoFw7J9GsyYeEz) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Truth Is In There](https://open.spotify.com/album/6kyvW9sfxdepzgmyfgr7F2) | 2:23 |
 | 228 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
-| 229 | [Baby I Would](https://open.spotify.com/track/3E7J648DbnDGSPe0Hjfy7L) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:54 |
-| 230 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
-| 231 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 229 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 230 | [Baby I Would](https://open.spotify.com/track/3E7J648DbnDGSPe0Hjfy7L) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:54 |
+| 231 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
 | 232 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
 | 233 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
 | 234 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 241 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 |
 | 242 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
 | 243 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 |
-| 244 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
-| 245 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
+| 244 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
+| 245 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 246 | [I'll Get Through It](https://open.spotify.com/track/29i42LGWRMt8JaNo6YFdTn) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Franky Perez](https://open.spotify.com/artist/5thMiyWHTQFVgttOjJVEHa), [Geezer Butler](https://open.spotify.com/artist/3Ezdddx6OeiOX7xLtfG48W) | [I'll Get Through It](https://open.spotify.com/album/1SbhxCMizdXux9rf9YlQoZ) | 4:17 |
 | 247 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
 | 248 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
@@ -575,4 +575,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 565 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 566 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AbkECgAAAADHfE7c1K8RNpfqtZHDdEUS`
+Snapshot ID: `AbkJ0gAAAAC7QLsH1XNXYtYRvFJdzn5y`

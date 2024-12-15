@@ -6,8 +6,76 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAARuM37vyMoYOp8pLtnCqU/",
+  "snapshot_id": "AAAAAAAAAABIq9LBBshg7m8O1v4iaPFz",
   "tracks": [
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
+        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 269701,
+      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
+      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Some Dreams",
+        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 395502,
+      "name": "You're A Fool",
+      "url": "https://open.spotify.com/track/7MbRAjFl6eppqqv63LxRMM"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Your Name In Lights",
+        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Your Name In Lights",
+      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Vida (Remixes)",
+        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Ni\u00f1x - DJ TEE Remix",
+      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
+    },
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
@@ -51,74 +119,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Some Dreams",
-        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 315007,
-      "name": "Got To Get To You",
-      "url": "https://open.spotify.com/track/176d7hzG7P17GfzZU0L3oF"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
-        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 269701,
-      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
-      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Your Name In Lights",
-        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Your Name In Lights",
-      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Vida (Remixes)",
-        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "DJ TEE",
-          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Ni\u00f1x - DJ TEE Remix",
-      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "Swan Lake (Drill Version)",
         "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
       },
@@ -135,22 +135,6 @@
       "duration_ms": 148615,
       "name": "Swan Lake - Drill Version",
       "url": "https://open.spotify.com/track/2sDzWQYfkXblH5YBOaDodt"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 140915,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -219,22 +203,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "Brotherhood (Definitive Edition)",
         "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
       },
@@ -247,22 +215,6 @@
       "duration_ms": 302666,
       "name": "Touched by the Hand of God - Salvation Version",
       "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -291,6 +243,38 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "copy/paste, vol. 1 (abridged)",
+        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 281212,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
         "name": "In The Grey",
         "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
       },
@@ -303,22 +287,6 @@
       "duration_ms": 218453,
       "name": "In The Grey",
       "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 312546,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -343,18 +311,18 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Through Storms Ahead",
-        "url": "https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2"
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 234880,
-      "name": "A Broken Reflection",
-      "url": "https://open.spotify.com/track/10B85suWQLcrp50jD81blm"
+      "duration_ms": 312546,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -375,18 +343,18 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Living in the Material World (50th Anniversary)",
-        "url": "https://open.spotify.com/album/07ATO4RL8vPRD3zuMoHYVm"
+        "name": "Generation No Surrender",
+        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 224280,
-      "name": "That Is All - Take 24",
-      "url": "https://open.spotify.com/track/7sJrszbF3RaDgQJMxVMYbW"
+      "duration_ms": 167354,
+      "name": "Generation No Surrender",
+      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -411,58 +379,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Generation No Surrender",
-        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 167354,
-      "name": "Generation No Surrender",
-      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Bad Sisters (Season 2) [Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        },
-        {
-          "name": "Tim Phillips",
-          "url": "https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "The Fairy Thorn Tree",
-      "url": "https://open.spotify.com/track/3eM80HhW4LhWooNyB4bIeL"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Universal Tales",
-        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Universal - Orchestral Version",
-      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "Agradecida",
         "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
       },
@@ -483,6 +399,22 @@
       "duration_ms": 250514,
       "name": "Agradecida",
       "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Universal Tales",
+        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Universal - Orchestral Version",
+      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -515,38 +447,6 @@
       "duration_ms": 257760,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Songs For Humanity",
-        "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
-      },
-      "artists": [
-        {
-          "name": "Playing For Change",
-          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
-        },
-        {
-          "name": "Robbie Robertson",
-          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 317708,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/6kqdQYqsuizn6tW4FPjM6I"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -607,30 +507,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Sin T\u00e1lamo",
-        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
-      },
-      "artists": [
-        {
-          "name": "Charly Humos",
-          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
-        },
-        {
-          "name": "TanatosLakactus",
-          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Buler\u00eda (feat. Matiah Chinaski)",
-      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
       },
@@ -663,54 +539,26 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Universo De Ley",
-        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
+        "name": "Sin T\u00e1lamo",
+        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
       },
       "artists": [
         {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+          "name": "Charly Humos",
+          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 173315,
-      "name": "Agua Y Sal",
-      "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "La Hoja del Sol",
-        "url": "https://open.spotify.com/album/2hvBltbrGufOoQ4GNPQGk7"
-      },
-      "artists": [
+          "name": "TanatosLakactus",
+          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
+        },
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
         }
       ],
-      "duration_ms": 214718,
-      "name": "La Hoja del Sol",
-      "url": "https://open.spotify.com/track/3WuoYJBaOKZppiMk9bU3g5"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Otaku",
-        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
-      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
+      "duration_ms": 210731,
+      "name": "Buler\u00eda (feat. Matiah Chinaski)",
+      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -735,18 +583,22 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Navidad De Locos",
-        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
+        "name": "Universo De Ley",
+        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 176432,
-      "name": "Navidad De Locos",
-      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
+      "duration_ms": 173315,
+      "name": "Agua Y Sal",
+      "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -767,6 +619,22 @@
       "duration_ms": 189418,
       "name": "Breathless - Warren Remix",
       "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Navidad De Locos",
+        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 176432,
+      "name": "Navidad De Locos",
+      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -795,22 +663,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Angels In The Snow (Discotastique! Mix)",
-        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Angels In The Snow - Discotastique! Mix",
-      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "NDUE",
         "url": "https://open.spotify.com/album/7aSoqYV2OMw4FRN5JsU1yU"
       },
@@ -835,30 +687,18 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "ECHOES",
-        "url": "https://open.spotify.com/album/6BLQi8FQxIX3bfeowXYQkp"
+        "name": "Angels In The Snow (Discotastique! Mix)",
+        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
       },
       "artists": [
         {
-          "name": "Paine",
-          "url": "https://open.spotify.com/artist/2dRP1UYH5HvedeVeQE9K8F"
-        },
-        {
-          "name": "HiT",
-          "url": "https://open.spotify.com/artist/36ntRugT2IuzUmGDgyT0ag"
-        },
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        },
-        {
-          "name": "Drasta",
-          "url": "https://open.spotify.com/artist/1orAHHTBWJzyBWdqtnNk3H"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Tr\u1ebb Tu\u1ed5i & L\u00e0m Li\u1ec1u",
-      "url": "https://open.spotify.com/track/3NZVgs83nXzMIKkaTpa6Dw"
+      "duration_ms": 193623,
+      "name": "Angels In The Snow - Discotastique! Mix",
+      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

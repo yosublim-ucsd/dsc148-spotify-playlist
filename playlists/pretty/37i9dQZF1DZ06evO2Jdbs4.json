@@ -1,13 +1,33 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28138,
+  "num_followers": 28150,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACB0LUoXAkWLVt2oE5UKD4G",
+  "snapshot_id": "Z1t5AAAAAACW5ThhPWI/3AUacHD3IJUr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ve Linda",
+        "url": "https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 173963,
+      "name": "Se Ve Linda",
+      "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"
+    },
     {
       "added_at": null,
       "album": {
@@ -867,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
       "artists": [
         {
@@ -876,9 +896,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Cumbia Vallenata",
-      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+      "duration_ms": 296255,
+      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
     },
     {
       "added_at": null,
@@ -903,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
       "artists": [
         {
@@ -912,9 +932,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 296255,
-      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
+      "duration_ms": 196040,
+      "name": "Cumbia Vallenata",
+      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
     },
     {
       "added_at": null,

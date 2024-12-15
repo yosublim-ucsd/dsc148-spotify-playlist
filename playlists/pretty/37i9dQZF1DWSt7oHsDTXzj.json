@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 253850,
+  "num_followers": 255216,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
         "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 227173,
       "name": "Christmas Must Be Tonight",
       "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Another Sappy Xmas Love Song",
         "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 144654,
       "name": "Another Sappy Xmas Love Song",
       "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
       },
@@ -903,30 +903,6 @@
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Little Saint Nick (feat. Chris Leonard)",
-        "url": "https://open.spotify.com/album/6jtc0gyGiNGAs7WguSuorW"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        },
-        {
-          "name": "Andy Burrows",
-          "url": "https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M"
-        },
-        {
-          "name": "Chris Leonard",
-          "url": "https://open.spotify.com/artist/1yJ0BlRqTPJIPt5faUpmvS"
-        }
-      ],
-      "duration_ms": 157069,
-      "name": "Little Saint Nick - feat. Chris Leonard",
-      "url": "https://open.spotify.com/track/1gX2YOv6VG3fpfBvM3lJZK"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -963,6 +939,30 @@
       "duration_ms": 95760,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Little Saint Nick (feat. Chris Leonard)",
+        "url": "https://open.spotify.com/album/6jtc0gyGiNGAs7WguSuorW"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        },
+        {
+          "name": "Andy Burrows",
+          "url": "https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M"
+        },
+        {
+          "name": "Chris Leonard",
+          "url": "https://open.spotify.com/artist/1yJ0BlRqTPJIPt5faUpmvS"
+        }
+      ],
+      "duration_ms": 157069,
+      "name": "Little Saint Nick - feat. Chris Leonard",
+      "url": "https://open.spotify.com/track/1gX2YOv6VG3fpfBvM3lJZK"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1031,42 +1031,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 134320,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Learning to Crawl (US Release)",
         "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
@@ -1079,22 +1043,6 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1115,6 +1063,42 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "christmas day",
         "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
-      },
-      "artists": [
-        {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Xmas",
         "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
       },
@@ -1215,6 +1195,46 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "We Should Be Together",
+        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "We Should Be Together",
+      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "snowpool",
+        "url": "https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "snowpool",
+      "url": "https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "December '04",
         "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
       },
@@ -1227,22 +1247,6 @@
       "duration_ms": 206798,
       "name": "December '04",
       "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2024-12-13 04:00:30",

@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "AMORETABACCO",
+        "url": "https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6"
+      },
+      "artists": [
+        {
+          "name": "Still Charles",
+          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154516,
+      "name": "AMORETABACCO",
+      "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
+    },
+    {
+      "album": {
         "name": "Anche i Cowboy Piangono",
         "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 162000,
       "name": "GRANDINE",
       "url": "https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB"

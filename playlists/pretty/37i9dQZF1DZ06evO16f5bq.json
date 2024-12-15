@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 148614,
+  "num_followers": 148647,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAC/yDAgYwVTZix/p8yVe0o8",
+  "snapshot_id": "Z1t5AAAAAAD+Bjjao8/OIfl5zQZzbmtx",
   "tracks": [
     {
       "added_at": null,
@@ -1231,34 +1231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 192021,
-      "name": "UMA WAVE",
-      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -1295,6 +1267,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 192021,
+      "name": "UMA WAVE",
+      "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1315,6 +1315,30 @@
       "duration_ms": 211875,
       "name": "OUTRA DIMENS\u00c3O",
       "url": "https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RELATOS",
+        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Ponto Final",
+      "url": "https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD"
     },
     {
       "added_at": null,
@@ -1351,30 +1375,6 @@
       "duration_ms": 318666,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RELATOS",
-        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Ponto Final",
-      "url": "https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD"
     },
     {
       "added_at": null,
@@ -1463,34 +1463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosso Momento",
-        "url": "https://open.spotify.com/album/19GojuGTrUrLoQtqQitNZi"
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
       "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 176633,
-      "name": "Nosso Momento",
-      "url": "https://open.spotify.com/track/0JW7E8cOVpddY5pik4Wtil"
+      "duration_ms": 144822,
+      "name": "TE ENCONTREI",
+      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

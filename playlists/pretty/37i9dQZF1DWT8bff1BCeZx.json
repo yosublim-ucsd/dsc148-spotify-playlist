@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19086,
+  "num_followers": 19093,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
+    },
+    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -865,22 +881,6 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "Grace Story",
@@ -899,6 +899,26 @@
       "duration_ms": 423093,
       "name": "Grace Story",
       "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
+    },
+    {
+      "added_at": "2024-10-04 00:01:00",
+      "album": {
+        "name": "Dans Tes Mains",
+        "url": "https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl"
+      },
+      "artists": [
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        },
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Dans Tes Mains",
+      "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -937,26 +957,6 @@
       "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
     },
     {
-      "added_at": "2024-10-04 00:01:00",
-      "album": {
-        "name": "Dans Tes Mains",
-        "url": "https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl"
-      },
-      "artists": [
-        {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        },
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dans Tes Mains",
-      "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "Involved",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "God Is",
-        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blast (tongues)",
@@ -1007,6 +991,22 @@
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     }
   ],
   "unique_name": "Higher",

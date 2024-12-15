@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,800 likes - 42 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,807 likes - 42 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 11 | [Baked Alaska](https://open.spotify.com/track/63reuc8nVqfO3bmxCLUKDq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Baked Alaska](https://open.spotify.com/album/0yRDamj20wKD1LWVIxoFrc) | 2:50 |
 | 12 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 |
 | 13 | [RUNAWAY](https://open.spotify.com/track/4dNNgaL6ltmUveZWVrGg7L) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [RUNAWAY](https://open.spotify.com/album/0VtVDpx9UShoxxIXl3gGxe) | 2:19 |
-| 14 | [Throwback](https://open.spotify.com/track/4Bku6Y4hBOOMLCGq3S4R1V) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Throwback](https://open.spotify.com/album/1dSxvTiCGeHebqUNjw30lK) | 2:27 |
+| 14 | [Throwback](https://open.spotify.com/track/4Bku6Y4hBOOMLCGq3S4R1V) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Throwback](https://open.spotify.com/album/1dSxvTiCGeHebqUNjw30lK) | 2:32 |
 | 15 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
 | 16 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 17 | [Edge of Tomorrow](https://open.spotify.com/track/4FznDspHMXUQ5RtmzJPdnb) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Edge of Tomorrow](https://open.spotify.com/album/79H3KbKr9M5scaV5Q0RMnY) | 2:00 |

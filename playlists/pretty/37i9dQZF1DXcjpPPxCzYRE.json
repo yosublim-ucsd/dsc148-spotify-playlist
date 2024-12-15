@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 413964,
+  "num_followers": 414032,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 240622,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 220448,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 240622,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
     },
     {
       "added_at": "2024-11-21 11:24:52",

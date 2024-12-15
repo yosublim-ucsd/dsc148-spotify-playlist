@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Vlad Dobrescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,486 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 44 | [BANII](https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [BANII](https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ) | 2:00 |
 | 45 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
 | 46 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
-| 47 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
-| 48 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
+| 47 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
+| 48 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
 | 49 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 |
 | 50 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
 

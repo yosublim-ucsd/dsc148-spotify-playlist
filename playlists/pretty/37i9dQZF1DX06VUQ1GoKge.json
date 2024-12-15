@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553740,
+  "num_followers": 553722,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291773,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Crimson Thunder",
         "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "The House of Wolves",
-      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Reign In Blood (Expanded)",
-        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 291773,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
+      "duration_ms": 205160,
+      "name": "The House of Wolves",
+      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -795,38 +795,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Brave New World",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 225278,
       "name": "Creature",
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Obsolete",
-        "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "Obsolete",
-      "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Gift (Explicit Version)",
-        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
-      },
-      "artists": [
-        {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 314446,
       "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Gift (Explicit Version)",
+        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
     },
     {
       "added_at": "2024-11-26 17:39:01",

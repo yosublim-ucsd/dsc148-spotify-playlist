@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 39 min
+83 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ahora Que Me Acuerdo](https://open.spotify.com/track/7r81SDmiDwPX4rcZJ6ULAp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Labios Mentirosos](https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP) | 3:31 | 2023-08-08 | 2024-01-27 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-04-21 |  |
 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 | 2024-10-22 |
-| [Así Fue](https://open.spotify.com/track/5g3lwRodnp65oV0yclWTK6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 5:19 | 2024-10-22 |  |
+| [Así Fue](https://open.spotify.com/track/5g3lwRodnp65oV0yclWTK6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 5:19 | 2024-10-22 | 2024-12-15 |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 | 2023-08-08 |  |
 | [Calidad Y Cantidad](https://open.spotify.com/track/0nfp44XFmPrLDMMmYfNIP3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:30 | 2023-08-08 |  |
@@ -59,6 +59,7 @@
 | [No Me Vengas A Decir](https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:07 | 2023-08-08 |  |
 | [No Supe Cuidarte](https://open.spotify.com/track/3pEV1D789o7rm2wvHdrAF0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:20 | 2023-08-09 | 2023-08-11 |
 | [No Te Conviene](https://open.spotify.com/track/1tMR3sZ9jZRez6JRmSt19j) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:33 | 2024-05-01 | 2024-07-08 |
+| [Nos Faltaron Pantalones](https://open.spotify.com/track/6GYOGwyIG26qtLwVYIJhoY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nos Faltaron Pantalones](https://open.spotify.com/album/02zYjmd7XNVarCAsv4gHx4) | 2:46 | 2024-12-15 |  |
 | [Nunca Dudes En Llamarme](https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nunca Dudes En Llamarme](https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96) | 3:24 | 2023-08-08 | 2023-11-11 |
 | [Perdona Mi Franqueza](https://open.spotify.com/track/3enF9m98BImHABaF7vcC3A) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 3:24 | 2024-09-28 | 2024-10-31 |
 | [Perdón ¿Por Qué?](https://open.spotify.com/track/05j5qhTcoVl3WTdMVQEOqc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:07 | 2023-08-08 |  |

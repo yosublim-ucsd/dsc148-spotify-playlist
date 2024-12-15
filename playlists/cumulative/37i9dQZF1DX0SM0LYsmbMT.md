@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,296 songs - 6 day 19 hr 48 min
+4,297 songs - 6 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,6 +856,7 @@
 | [Damn It](https://open.spotify.com/track/5HqKficw5As2J2Vjp7mR2r) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Damn It](https://open.spotify.com/album/5iaXyZWMzd8tGCnJ6tg7SV) | 2:25 | 2021-10-22 | 2022-01-28 |
 | [Dan's Melody](https://open.spotify.com/track/0uMRBH2DPGot86g8xmWS0Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Dan's Melody](https://open.spotify.com/album/2KmHkih34y6xEN9i5REvVZ) | 1:50 | 2024-07-04 | 2024-07-27 |
 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 | 2021-06-22 | 2021-09-02 |
+| [Dancing Shadows](https://open.spotify.com/track/6cMhNuYRBUjSih4JKu9DtM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Dancing Shadows](https://open.spotify.com/album/0H16Q6OIdh7Zz7yqMy81vB) | 2:00 | 2024-12-09 |  |
 | [Dandelion Nights](https://open.spotify.com/track/0C8kEuejgIZVwQsb8efNr8) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Dandelion Nights](https://open.spotify.com/album/1ZUK5Ak848XknGdi937sNc) | 2:12 | 2023-08-17 | 2023-09-15 |
 | [Dangling](https://open.spotify.com/track/3C53MPJisfjnSxeKt0aStV) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Dangling](https://open.spotify.com/album/209UWiIoiru2UoVaIU3iTn) | 1:44 | 2020-04-18 | 2020-06-29 |
 | [Dark Beauty](https://open.spotify.com/track/7wwsagU4L9TcOdPLbquUn9) | [Jake Five](https://open.spotify.com/artist/4eEuMnsfDZ5YQqQaEfgmwM), [BEAT CIRCUS](https://open.spotify.com/artist/62aYokWOE5KvV0qfgNVM5S) | [Dark Beauty](https://open.spotify.com/album/1fJr36QIKZSk7XpKWRlU9v) | 1:38 | 2020-10-23 | 2021-05-21 |
@@ -4281,7 +4282,7 @@
 | [Your Love](https://open.spotify.com/track/1ehlPAd9LL7wTbA2mRNkzq) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/58pBJEPnNvKwR2IrKiQiW3) | 2:18 | 2022-11-17 | 2023-03-03 |
 | [Your Love](https://open.spotify.com/track/3xom10uoqJkepRQVRuXzKM) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/5I5QLxHhtAG4XZAMwrLECe) | 2:18 | 2022-03-24 | 2022-11-20 |
 | [Yucca](https://open.spotify.com/track/2l2VhcUOu7reM8FuefmYot) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Yucca](https://open.spotify.com/album/1HNrE1zGLz0WakaGj0J0ry) | 2:08 | 2021-06-05 | 2022-04-01 |
-| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 |  |
+| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 | 2024-12-15 |
 | [Yume](https://open.spotify.com/track/00MqUOs251nhIMylhkHr8K) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Yume](https://open.spotify.com/album/1ChtM7N6WHf5Lyq37IwszZ) | 1:41 | 2022-07-21 | 2022-09-23 |
 | [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 | 2023-11-23 |  |
 | [z](https://open.spotify.com/track/1eWiV1OR3IGbInORESHF66) | [Jopez](https://open.spotify.com/artist/3qooMZibvBeHw1K1hfm5vz) | [z](https://open.spotify.com/album/366KfG46QfihcMKsPnyr0U) | 2:29 | 2020-12-01 | 2021-01-04 |

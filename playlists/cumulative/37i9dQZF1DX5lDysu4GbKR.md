@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Olivia Dean
+> Relax to these acoustic soul songs\. Cover: Anaïs Cardot
 
-256 songs - 15 hr 11 min
+259 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-07-10 | 2024-04-19 |
 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 | 2024-04-20 |  |
 | [Island \- Acoustic](https://open.spotify.com/track/5Uy03aUBj5VnFlUsAqee96) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR) | [Island \(Acoustic\)](https://open.spotify.com/album/5jlDQfDkKGseLn7ZAyCB9E) | 3:32 | 2021-12-09 | 2022-04-15 |
+| [It's Not Over Till It's Over \(Acoustic\)](https://open.spotify.com/track/74asZuWl0vaY2J1GcKQgkl) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [It's Not Over Till It's Over \(Acoustic\)](https://open.spotify.com/album/0J1Kj8QPTGepgVvTWOuMLu) | 3:09 | 2024-12-14 |  |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wrbQzavSwdzRgRCxLBewg) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/0OfmMxMJ99DQL61l89OcUE) | 4:25 | 2022-06-16 | 2024-02-02 |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wuTSrQV6VRAND6HDxPECb) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/1XyQMANgAQrw0fhHFi50ll) | 4:25 | 2021-12-09 | 2022-07-29 |
 | [I’m Leaving \- The Circle Session, 2023](https://open.spotify.com/track/0EaeEbXhVlWzdr32YgNYB8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I’m Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/5WfzSDKTMXLKiQOHFR0ozY) | 5:19 | 2024-03-21 |  |
@@ -209,6 +210,7 @@
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 | 2024-02-09 |
+| [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 | 2024-12-14 |  |
 | [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 | 2024-11-08 |  |
 | [Someday \- Unplugged](https://open.spotify.com/track/34StJdGuwDjG9LSWbWniQB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday \(Unplugged\)](https://open.spotify.com/album/705a2Bf3lhKcZ4t7JPs2uf) | 3:12 | 2024-02-01 |  |
 | [SOMEWHERE FAR](https://open.spotify.com/track/0y6DaC0f8sGqzbU5UKoPEb) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [SOMEWHERE FAR](https://open.spotify.com/album/3unR1FTn8GilyeSvUchaXt) | 2:24 | 2023-11-09 |  |
@@ -260,6 +262,7 @@
 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 | 2021-12-09 |  |
 | [Where You're At](https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 2:50 | 2023-07-10 | 2024-04-19 |
 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 | 2023-11-04 |  |
+| [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-12-14 |  |
 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 | 2022-04-08 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2021-12-09 | 2023-04-09 |
 | [YOU \- Live](https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [YOU \(Live\)](https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4) | 3:24 | 2024-11-08 |  |

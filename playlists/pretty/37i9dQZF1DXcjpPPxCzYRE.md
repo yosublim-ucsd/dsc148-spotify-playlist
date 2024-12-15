@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,964 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,032 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 52 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 |
 | 53 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
 | 54 | [I Think I Like You](https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [I Think I Like You](https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27) | 2:26 |
-| 55 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 56 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 |
+| 55 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 |
+| 56 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 57 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 58 | [You and I](https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK) | 3:24 |
 | 59 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 71 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
 | 72 | [Una y otra vez](https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Una y otra vez](https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T) | 3:10 |
 | 73 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
-| 74 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
-| 75 | [El Amor](https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Es el Momento](https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY) | 3:40 |
+| 74 | [El Amor](https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Es el Momento](https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY) | 3:40 |
+| 75 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
 | 76 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 77 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 78 | [Caramelo](https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:25 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 86 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
 | 87 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 |
 | 88 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
-| 89 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
-| 90 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
+| 89 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
+| 90 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
 | 91 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
 | 92 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
 | 93 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |

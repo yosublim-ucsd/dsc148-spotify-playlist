@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 60 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 |
 | 61 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 |
 | 62 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 |
-| 63 | [Everything Forever](https://open.spotify.com/track/2FQApjUJ96lxynRqrcIDiW) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/1sSxJMVGRg1Z4O6XNh00aD) | 2:48 |
+| 63 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
 | 64 | [Enter The Void](https://open.spotify.com/track/58xeEl5QLO0AGq7HoRV8Lt) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 5:15 |
 | 65 | [Oceans](https://open.spotify.com/track/2iGdeIdg5sHlT1vjSCDYkR) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Oceans](https://open.spotify.com/album/3RgJR7SNRLe1LukvaVixw0) | 3:36 |
 | 66 | [D2B \- Steve Aoki Remix](https://open.spotify.com/track/0HgDjOG9Nn29WxLtOkA46S) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [D2B \(Remixes\)](https://open.spotify.com/album/2dcqeka9WoWSrlTeoUFEIW) | 3:52 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 87 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 88 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AbkD9gAAAAA+wLf5S6nhs7PhETh4YvPe`
+Snapshot ID: `AbkJyAAAAAB8Z+A5j+jPC8mh2PPIikMN`

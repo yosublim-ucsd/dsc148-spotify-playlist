@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
@@ -1170,6 +1170,32 @@
       "duration_ms": 146500,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
+      },
+      "artists": [
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Arthur",
+          "url": "https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3"
+        },
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT"
     },
     {
       "album": {
@@ -2746,7 +2772,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
@@ -5978,6 +6004,28 @@
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+    },
+    {
+      "album": {
+        "name": "Wicked Games",
+        "url": "https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw"
+      },
+      "artists": [
+        {
+          "name": "Dj Youcef",
+          "url": "https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ"
+        },
+        {
+          "name": "Nicole Slack Jones",
+          "url": "https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,918 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 158 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 |
 | 159 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 |
 | 160 | [Like it](https://open.spotify.com/track/4N5ZovZxC7udj5SEi05HXQ) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [LISTEN 010 Like it](https://open.spotify.com/album/1GRaH0NWnwUKQKwV2avZDg) | 5:28 |
-| 161 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 |
+| 161 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 |
 | 162 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 |
 | 163 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 164 | [Only One Person](https://open.spotify.com/track/5ocuqdZv7Wk5asVm7yAixv) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:16 |
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 172 | [Growing](https://open.spotify.com/track/1z7Se5atTjuRjmRkONnHKs) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [\[RE:\]](https://open.spotify.com/album/6eY6SMRP1BMpz3ayTao91a) | 3:54 |
 | 173 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 |
 | 174 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
-| 175 | [The man](https://open.spotify.com/track/6rC9QewFwfbUMU9eKEtcrQ) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [SECRET GARDEN DRAMA OST SPECIAL](https://open.spotify.com/album/2eW0reFNbfGhsOYu3a5nsh) | 4:31 |
+| 175 | [The man](https://open.spotify.com/track/6rC9QewFwfbUMU9eKEtcrQ) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [SECRET GARDEN DRAMA OST SPECIAL](https://open.spotify.com/album/2eW0reFNbfGhsOYu3a5nsh) | 4:31 |
 | 176 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 |
 | 177 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |
 | 178 | [HeeJae](https://open.spotify.com/track/1pvniTrLYUEcuwBJ99duFS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [HeeJae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OR8fKQsvcpmzXTXQJ2VBt) | 4:41 |

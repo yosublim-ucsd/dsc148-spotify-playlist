@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 174881,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1IUMffJuMU9KXFz37eb2Ip"
@@ -14785,6 +14785,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
+      "album": {
         "name": "Dirty (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
       },
@@ -16308,7 +16326,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 111999,
       "name": "Dream World",
       "url": "https://open.spotify.com/track/3h9KvXqKcijtc26J3QbHzM"
@@ -23538,6 +23556,24 @@
       "duration_ms": 168800,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF"
+    },
+    {
+      "album": {
+        "name": "So Far So Lost",
+        "url": "https://open.spotify.com/album/7eSosj0mT5RRQBpuTqhkCq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Wright",
+          "url": "https://open.spotify.com/artist/7nqncAurs2sCTA7oosyysD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178007,
+      "name": "Get Back Up Again",
+      "url": "https://open.spotify.com/track/34OwrfB5JzSpEZYiKes0Ba"
     },
     {
       "album": {
@@ -40208,7 +40244,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 242251,
       "name": "L\u00e1gmarkslaunaj\u00f3l",
       "url": "https://open.spotify.com/track/3SKO0pDvu3LZjFpLRqv7lk"
@@ -43910,6 +43946,24 @@
       "duration_ms": 152806,
       "name": "M\u00e1llaus \u00dej\u00f3\u00f0",
       "url": "https://open.spotify.com/track/6BCDlRrTz7tOMEccMe7mBl"
+    },
+    {
+      "album": {
+        "name": "m\u0131rra",
+        "url": "https://open.spotify.com/album/0DD0lMIrTbZ6hjZFTcXwLw"
+      },
+      "artists": [
+        {
+          "name": "anton.",
+          "url": "https://open.spotify.com/artist/7LlyvpCep6z4gfw0Am62x9"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "m\u0131rra",
+      "url": "https://open.spotify.com/track/032Ox2J6kcYjh1Mx4ycNE2"
     },
     {
       "album": {
@@ -56438,7 +56492,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 205020,
       "name": "Slide on By",
       "url": "https://open.spotify.com/track/1SzAv85vey7EMi01I8bF1v"
@@ -56676,6 +56730,28 @@
       "duration_ms": 169533,
       "name": "Smoke (English Version)",
       "url": "https://open.spotify.com/track/0TDRHMO3TOhCueSLvs076w"
+    },
+    {
+      "album": {
+        "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110302,
+      "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
     },
     {
       "album": {
@@ -62463,7 +62539,7 @@
     },
     {
       "album": {
-        "name": "The Bird Song",
+        "name": "The Bird Song (with Em Beihold)",
         "url": "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5"
       },
       "artists": [
@@ -62480,7 +62556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233087,
-      "name": "The Bird Song",
+      "name": "The Bird Song (with Em Beihold)",
       "url": "https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8"
     },
     {

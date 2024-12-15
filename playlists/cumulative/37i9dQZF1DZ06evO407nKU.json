@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Bipolar",
+        "url": "https://open.spotify.com/album/7qLk5wwsiS2CuMWTU2CmUu"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198205,
+      "name": "Coraz\u00f3n Bipolar",
+      "url": "https://open.spotify.com/track/0eGYbVotEAcQJEnOlO69nV"
+    },
+    {
+      "album": {
         "name": "Cuando Se Ama a Una Mujer",
         "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
       },

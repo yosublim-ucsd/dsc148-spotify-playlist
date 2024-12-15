@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,130 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,171 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 27 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 28 | [Chhaap Tilak](https://open.spotify.com/track/1xMfoLDuxnwPBGR0uVrRpc) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [Chhaap Tilak](https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml) | 5:31 |
 | 29 | [Hukus Bukus](https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Hukus Bukus](https://open.spotify.com/album/4bkhNqNkG5hIFVrDglvNCQ) | 4:06 |
-| 30 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
-| 31 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
+| 30 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
+| 31 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
 | 32 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 |
 | 33 | [Maari Maavadi](https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [Maari Maavadi](https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v) | 4:51 |
 | 34 | [Maaye Ni Meriye](https://open.spotify.com/track/3R1uXBagm4htm99vlK2yAr) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Aakanksha Sharma](https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw) | [Maaye Ni Meriye](https://open.spotify.com/album/5ut5GezraWzwfUy15EjgMN) | 3:12 |

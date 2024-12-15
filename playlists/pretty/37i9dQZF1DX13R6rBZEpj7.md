@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,160 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,278 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 62 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 |
 | 63 | [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 |
 | 64 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
-| 65 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 |
-| 66 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 |
+| 65 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 |
+| 66 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 |
 | 67 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 68 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 69 | [The Grind](https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7) | [Duckworthsound](https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Duckplates](https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu) | [The Grind](https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2) | 3:45 |

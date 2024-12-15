@@ -1,6 +1,6 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 103361,
+  "num_followers": 103367,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-12-13 05:00:02",
       "album": {
-        "name": "Good Guy",
-        "url": "https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "Good Guy",
-      "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
-    },
-    {
-      "added_at": "2024-12-13 05:00:02",
-      "album": {
         "name": "Welcome To The Night Sky",
         "url": "https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218973,
       "name": "Weighty Ghost",
       "url": "https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl"
+    },
+    {
+      "added_at": "2024-12-13 05:00:02",
+      "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
     }
   ],
   "unique_name": "Long Drives",

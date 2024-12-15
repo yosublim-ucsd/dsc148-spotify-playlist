@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Ainda & Leiva.
 
-315 songs - 17 hr 0 min
+316 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Corazón Verde](https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Santo Entendimiento](https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT) | 2:51 | 2023-10-23 | 2023-11-16 |
 | [Cositas](https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Cositas](https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP) | 2:31 | 2023-11-10 | 2024-05-25 |
+| [Creo en Ti](https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Creo en Ti](https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc) | 2:34 | 2024-12-06 |  |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2023-10-23 | 2024-08-28 |
 | [Cínica](https://open.spotify.com/track/3IsNHWZ4dQbdVDDpFEUspW) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [Cínica](https://open.spotify.com/album/2PseZ5GZ3c8Olr6AuZQuYK) | 2:47 | 2024-08-16 | 2024-08-24 |
 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 | 2024-03-22 | 2024-11-09 |
@@ -178,7 +179,7 @@
 | [Mary No!](https://open.spotify.com/track/7tnRQ5qBF90oti9htPR9FM) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN) | [Mary No!](https://open.spotify.com/album/1jI1VUXqOVkXQzo7PsNy4d) | 3:05 | 2024-04-19 | 2024-04-27 |
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-10-23 |  |
 | [Mañana](https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Mañana](https://open.spotify.com/album/1xWpnekynuyo6vEKcHMgSi) | 3:26 | 2024-12-06 |  |
-| [Me Dediqué a Perderte](https://open.spotify.com/track/5lLsCBBCMQszInFRwgX3QL) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Me Dediqué a Perderte](https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u) | 3:26 | 2024-09-20 |  |
+| [Me Dediqué a Perderte](https://open.spotify.com/track/5lLsCBBCMQszInFRwgX3QL) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Me Dediqué a Perderte](https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u) | 3:26 | 2024-09-20 | 2024-12-15 |
 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2023-10-23 |  |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 | 2024-10-09 |
 | [Me hablan de vos](https://open.spotify.com/track/6h5r2AfSvK20SR94dq8v6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Me hablan de vos](https://open.spotify.com/album/2bOVjfVekDmy5LUsCZg14o) | 3:20 | 2024-07-26 | 2024-08-17 |

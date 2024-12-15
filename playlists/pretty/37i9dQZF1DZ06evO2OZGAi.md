@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,582 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,585 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 4 | [Y Solo Yo Quiero \(La Chata\)](https://open.spotify.com/track/7EQkbWo1xv3Lf4kE1aIrXg) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:54 |
 | 5 | [Te Quiero](https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:24 |
 | 6 | [Fin del Tiempo](https://open.spotify.com/track/5xj5qixWeH2I44SFx0Icdv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:06 |
-| 7 | [Tal Vez Buscando](https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 2:57 |
+| 7 | [Libre](https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:04 |
 | 8 | [Te Voy A Cuidar](https://open.spotify.com/track/4ISnyEQJLFzbqyJHCLLPuI) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Te Voy A Cuidar](https://open.spotify.com/album/3Kz4i5BXravXXx5P54A0IQ) | 3:05 |
 | 9 | [Infectado](https://open.spotify.com/track/28SWifFVWke3sC0ubxnYqC) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:18 |
 | 10 | [Por amor](https://open.spotify.com/track/3OJ8elwnqmeJVMlOoU9HyN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:39 |
-| 11 | [Libre](https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:04 |
+| 11 | [Tal Vez Buscando](https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 2:57 |
 | 12 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 | 13 | [Entre Tus LLamas \(El Tunche\)](https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:59 |
 | 14 | [Pan con mantequilla](https://open.spotify.com/track/4weOiHbItjLGTSB6ZHpXOA) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:42 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 18 | [Te beso](https://open.spotify.com/track/3vKZbkMq5WWdeTo1S7caxa) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:07 |
 | 19 | [Viejas Historias](https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:39 |
 | 20 | [Fumar el Amor](https://open.spotify.com/track/0PyGXOtp1XlvMeGfQao8ne) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:19 |
-| 21 | [Entre Cuatro Paredes](https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw) | 4:26 |
+| 21 | [El Día](https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 2:40 |
 | 22 | [Milagros](https://open.spotify.com/track/4bZryEWX4rdZJBJ9JqUeSh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:04 |
 | 23 | [Donde Tú Estás](https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:38 |
-| 24 | [El Día](https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 2:40 |
+| 24 | [Entre Cuatro Paredes](https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw) | 4:26 |
 | 25 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 |
 | 26 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 |
 | 27 | [Un Mensaje para Ti \(Ángel\)](https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 1:52 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 47 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
 | 48 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
 
-Snapshot ID: `Z1ongAAAAABc1bbSoIMG5LubXkMvvzBH`
+Snapshot ID: `Z1t5AAAAAABECbBQ/fKr+FHtssRtQNx6`

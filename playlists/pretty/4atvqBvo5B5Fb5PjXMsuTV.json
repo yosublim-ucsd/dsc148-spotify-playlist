@@ -1,13 +1,77 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Dec 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 23:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAN34QNlw7hbFsHkQpOE4v2JpVjEnkU",
+  "snapshot_id": "AAAN6X8AbTtIAGCJBcRBc34Rr6fwITaO",
   "tracks": [
+    {
+      "added_at": "2024-12-14 23:02:53",
+      "album": {
+        "name": "Baby, Don't Cry\uff08\u4eba\u9b5a\u7684\u773c\u6dda\uff09",
+        "url": "https://open.spotify.com/album/1Lu7Uy5BoIGsuAslABy7MQ"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Nana Ou-Yang",
+          "url": "https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Baby, Don't Cry\uff08\u4eba\u9b5a\u7684\u773c\u6dda\uff09",
+      "url": "https://open.spotify.com/track/1yUgSij0m8GTyBy2cgstwB"
+    },
+    {
+      "added_at": "2024-12-14 23:02:53",
+      "album": {
+        "name": "Chicken",
+        "url": "https://open.spotify.com/album/7hqAGmEzMyVYARBAzpqYrr"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "DTB",
+          "url": "https://open.spotify.com/artist/2alpYK7qCcXtNiy1JV5wvK"
+        }
+      ],
+      "duration_ms": 117272,
+      "name": "Chicken",
+      "url": "https://open.spotify.com/track/1LOuKvI3KRwlOhPzuLocqw"
+    },
+    {
+      "added_at": "2024-12-14 19:03:08",
+      "album": {
+        "name": "Order Up",
+        "url": "https://open.spotify.com/album/4kAFTrDqSJLr0dkg4NVgLQ"
+      },
+      "artists": [
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        },
+        {
+          "name": "Glitch Whisper",
+          "url": "https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe"
+        },
+        {
+          "name": "McGwire",
+          "url": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
+        }
+      ],
+      "duration_ms": 208220,
+      "name": "Order Up",
+      "url": "https://open.spotify.com/track/2LHXiCbjINmIwvE3HRlfTi"
+    },
     {
       "added_at": "2024-12-13 09:03:52",
       "album": {
@@ -237,6 +301,22 @@
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
     },
     {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "Hurts When It's Healing",
+        "url": "https://open.spotify.com/album/30xALgunGSZmINEVL15UED"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 195690,
+      "name": "Hurts When It's Healing",
+      "url": "https://open.spotify.com/track/3D3Uao82eAZoPjCCdGruLK"
+    },
+    {
       "added_at": "2024-12-13 09:03:52",
       "album": {
         "name": "RIP LU MIKE",
@@ -251,6 +331,26 @@
       "duration_ms": 168607,
       "name": "RIP LU MIKE",
       "url": "https://open.spotify.com/track/0vGUa6VvIh3enBdBQ8unAh"
+    },
+    {
+      "added_at": "2024-12-14 14:03:17",
+      "album": {
+        "name": "Nyumbani (Sounds Like)",
+        "url": "https://open.spotify.com/album/4wrRJY7uxQNh7DfFYL27kJ"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 152487,
+      "name": "Nyumbani (Sounds Like)",
+      "url": "https://open.spotify.com/track/4ERIeXLZ1XRlGTG5lX6Hbh"
     },
     {
       "added_at": "2024-12-13 09:03:52",
@@ -357,6 +457,38 @@
       "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
     },
     {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "You Never Gave Up On Me",
+        "url": "https://open.spotify.com/album/4FdGbxF2eHY2IZuIlYARKe"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 163645,
+      "name": "You Never Gave Up On Me",
+      "url": "https://open.spotify.com/track/1jiuvc75G3sjpyr4Szy9V7"
+    },
+    {
+      "added_at": "2024-12-14 19:03:08",
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
+    },
+    {
       "added_at": "2024-12-13 23:03:28",
       "album": {
         "name": "Split",
@@ -405,6 +537,58 @@
       "url": "https://open.spotify.com/track/71VhNXBjrGRtHpMGbzBzFY"
     },
     {
+      "added_at": "2024-12-14 09:03:29",
+      "album": {
+        "name": "ShittyBoii",
+        "url": "https://open.spotify.com/album/7ANC35V18hnr4OXb0D6mKP"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 202944,
+      "name": "ShittyBoii",
+      "url": "https://open.spotify.com/track/4CR5fOBATBtVDz7s1TJOrC"
+    },
+    {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "King Baby",
+        "url": "https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 192287,
+      "name": "King Baby",
+      "url": "https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu"
+    },
+    {
+      "added_at": "2024-12-14 23:02:53",
+      "album": {
+        "name": "CHEAT CODES",
+        "url": "https://open.spotify.com/album/1qzpCa6E72boKZ3gf7QpTS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 208714,
+      "name": "CHEAT CODES",
+      "url": "https://open.spotify.com/track/5yGTjvc0o9OwCtTJ1MzpRy"
+    },
+    {
       "added_at": "2024-12-13 09:03:52",
       "album": {
         "name": "Heartbreak",
@@ -449,6 +633,22 @@
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
+      "added_at": "2024-12-14 19:03:08",
+      "album": {
+        "name": "See Sumn",
+        "url": "https://open.spotify.com/album/4rR8Nd98FbkOB7fS51wkLU"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 112962,
+      "name": "See Sumn",
+      "url": "https://open.spotify.com/track/39YHhfj2i4WwXGs6T7uQMF"
+    },
+    {
       "added_at": "2024-12-13 09:03:52",
       "album": {
         "name": "Mindframe",
@@ -463,6 +663,22 @@
       "duration_ms": 186280,
       "name": "Mindframe",
       "url": "https://open.spotify.com/track/5RSZLtJ4AzbggHqYLywVW7"
+    },
+    {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/51GkT0hEiKrbHoPwBHaTPi"
+      },
+      "artists": [
+        {
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw"
     },
     {
       "added_at": "2024-12-13 09:03:52",
@@ -513,6 +729,22 @@
       "url": "https://open.spotify.com/track/0U8PZjJ4ugxMsEdfW5Iuw3"
     },
     {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "Hard to Ignore",
+        "url": "https://open.spotify.com/album/4ahYLn0SikBur0bRcqFeJv"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 184455,
+      "name": "Hard to Ignore",
+      "url": "https://open.spotify.com/track/1HyNAtoJPZ8YSF9mpeJlRq"
+    },
+    {
       "added_at": "2024-12-13 09:03:52",
       "album": {
         "name": "Dr\u00f6m S\u00e5ng",
@@ -529,9 +761,25 @@
       "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
     },
     {
+      "added_at": "2024-12-14 04:03:32",
+      "album": {
+        "name": "Something We Regret",
+        "url": "https://open.spotify.com/album/0w8odPTzOWgbwF0sYmtzri"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 171906,
+      "name": "Something We Regret",
+      "url": "https://open.spotify.com/track/6HgVhL2FZiA2dSd6pyK3Uc"
+    },
+    {
       "added_at": "2024-12-13 19:03:56",
       "album": {
-        "name": "The Bird Song",
+        "name": "The Bird Song (with Em Beihold)",
         "url": "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5"
       },
       "artists": [
@@ -545,7 +793,7 @@
         }
       ],
       "duration_ms": 233087,
-      "name": "The Bird Song",
+      "name": "The Bird Song (with Em Beihold)",
       "url": "https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8"
     },
     {
@@ -647,246 +895,6 @@
       "duration_ms": 142222,
       "name": "Madam",
       "url": "https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "WHOUWITHHO+",
-        "url": "https://open.spotify.com/album/48eAXMPibnXLfO60apVIwe"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "WHOUWITHHO+",
-      "url": "https://open.spotify.com/track/3VVddUsXWLhortUvZLnf0j"
-    },
-    {
-      "added_at": "2024-12-13 23:03:28",
-      "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 168537,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "breathe u in",
-        "url": "https://open.spotify.com/album/2pYbGIlP2xK4xYLp21Rhud"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "breathe u in",
-      "url": "https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "Venice Beach",
-        "url": "https://open.spotify.com/album/2mjI9QctMA4v3SHhXbwtsq"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 175902,
-      "name": "Venice Beach",
-      "url": "https://open.spotify.com/track/3tOki3vQ98HGt0fE6BUwBu"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Prodigy",
-        "url": "https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq"
-      },
-      "artists": [
-        {
-          "name": "Eidola",
-          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
-        }
-      ],
-      "duration_ms": 228785,
-      "name": "Prodigy",
-      "url": "https://open.spotify.com/track/35QhXfzCOZPqZhlqRWRt2a"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Optimystic",
-        "url": "https://open.spotify.com/album/61AC2WVNYnY5KEyAyk5h05"
-      },
-      "artists": [
-        {
-          "name": "Ben Kweller",
-          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
-        }
-      ],
-      "duration_ms": 216949,
-      "name": "Optimystic",
-      "url": "https://open.spotify.com/track/1LzyefImP8gypsEmlLCbRj"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/5FcL2rVBVhgXIYk2zmP7tl"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/5TWpIttAEtQEAdFHWYZfmR"
-    },
-    {
-      "added_at": "2024-12-13 14:03:21",
-      "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/62r7XCzou3KsBHDy8x2Fsb"
-      },
-      "artists": [
-        {
-          "name": "Kotori",
-          "url": "https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/5BHdsBPjLInkvONP3Zxg25"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Apathy / 31.10",
-        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 211230,
-      "name": "Apathy",
-      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "le fou dans la voiture",
-        "url": "https://open.spotify.com/album/59WkRQu423vEroErMVws4h"
-      },
-      "artists": [
-        {
-          "name": "Terrenoire",
-          "url": "https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "le fou dans la voiture",
-      "url": "https://open.spotify.com/track/3k9cQZ3IX3uUbtaScug3t5"
-    },
-    {
-      "added_at": "2024-12-13 14:03:21",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "Fishy",
-        "url": "https://open.spotify.com/album/7uw5dobX640fPwiUkXFvuv"
-      },
-      "artists": [
-        {
-          "name": "Brennan Jones",
-          "url": "https://open.spotify.com/artist/4PaHlM2H2hC3VQV4BfLo4B"
-        }
-      ],
-      "duration_ms": 75440,
-      "name": "Fishy",
-      "url": "https://open.spotify.com/track/30It125amFRwlRSliu8OAU"
-    },
-    {
-      "added_at": "2024-12-13 14:03:21",
-      "album": {
-        "name": "\u041d\u0418\u0422\u0420\u041e",
-        "url": "https://open.spotify.com/album/5OKjAiei0UmCqePKmvAwic"
-      },
-      "artists": [
-        {
-          "name": "\u0428\u0410\u0420\u042b",
-          "url": "https://open.spotify.com/artist/7FHG2jA8qsPQjvZgoZJVn0"
-        },
-        {
-          "name": "\u041b\u0451\u0445\u0430 \u041d\u0438\u043a\u043e\u043d\u043e\u0432",
-          "url": "https://open.spotify.com/artist/0fLBWyma2ey3ZasM1D9Y9b"
-        }
-      ],
-      "duration_ms": 156287,
-      "name": "\u041d\u0418\u0422\u0420\u041e",
-      "url": "https://open.spotify.com/track/1UfhuZM6DDa1so1XhVoD3L"
     }
   ],
   "unique_name": "New Singles Now",

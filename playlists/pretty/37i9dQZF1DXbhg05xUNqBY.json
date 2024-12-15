@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348484,
+  "num_followers": 348466,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Need",
         "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202661,
       "name": "Need",
       "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Dawn Til Dusk",
+        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
+      },
+      "artists": [
+        {
+          "name": "Jonty Lees",
+          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Steady My Heart",
         "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 236832,
       "name": "Steady My Heart",
       "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Dawn Til Dusk",
-        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
-      },
-      "artists": [
-        {
-          "name": "Jonty Lees",
-          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -855,18 +855,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Weight of Your Glory",
-        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
+        "name": "prove it",
+        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
       },
       "artists": [
         {
-          "name": "Dustin Scarbrough",
-          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
         }
       ],
-      "duration_ms": 248105,
-      "name": "Weight of Your Glory",
-      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
+      "duration_ms": 162666,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -887,22 +891,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "prove it",
-        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
+        "name": "Weight of Your Glory",
+        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
       },
       "artists": [
         {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+          "name": "Dustin Scarbrough",
+          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
         }
       ],
-      "duration_ms": 162666,
-      "name": "prove it",
-      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
+      "duration_ms": 248105,
+      "name": "Weight of Your Glory",
+      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Worship Anywhere: Live from Camp NewBreed",
+        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Certainly (Live)",
+      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Sing Over Me",
         "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Worship Anywhere: Live from Camp NewBreed",
-        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Certainly (Live)",
-      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "For The Ones We Love",
         "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
       },
@@ -1267,30 +1267,6 @@
       "duration_ms": 209760,
       "name": "For The Ones We Love",
       "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "renatus",
-        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
-      },
-      "artists": [
-        {
-          "name": "Pathway",
-          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
-        },
-        {
-          "name": "Larine Torikian",
-          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
-        },
-        {
-          "name": "KEO",
-          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
-        }
-      ],
-      "duration_ms": 289230,
-      "name": "It Is I",
-      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1327,6 +1303,30 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "renatus",
+        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
+      },
+      "artists": [
+        {
+          "name": "Pathway",
+          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
+        },
+        {
+          "name": "Larine Torikian",
+          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
+        },
+        {
+          "name": "KEO",
+          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
+        }
+      ],
+      "duration_ms": 289230,
+      "name": "It Is I",
+      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
     },
     {
       "added_at": "2024-07-26 09:52:44",

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Roc Marciano",
-  "num_followers": 1591609,
+  "num_followers": 1591601,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-13 04:00:31",
       "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Steel Doors",
-      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
-    },
-    {
-      "added_at": "2024-12-13 04:00:31",
-      "album": {
         "name": "The Bricktionary",
         "url": "https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 198297,
       "name": "Rabies (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7lIk3q0MT5hxtetX9ueIFu"
+    },
+    {
+      "added_at": "2024-12-13 04:00:31",
+      "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Steel Doors",
+      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
     },
     {
       "added_at": "2024-12-13 04:00:31",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-12-13 04:00:31",
       "album": {
-        "name": "Define My Name",
-        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Define My Name",
-      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
-    },
-    {
-      "added_at": "2024-12-13 04:00:31",
-      "album": {
         "name": "Set The Tone (Guns & Roses)",
         "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
       },
@@ -627,6 +607,42 @@
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
+    },
+    {
+      "added_at": "2024-12-13 04:00:31",
+      "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 218630,
+      "name": "On The Set",
+      "url": "https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD"
+    },
+    {
+      "added_at": "2024-12-13 04:00:31",
+      "album": {
+        "name": "Define My Name",
+        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Define My Name",
+      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
     },
     {
       "added_at": "2024-12-13 04:00:31",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-12-13 04:00:31",
       "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 218630,
-      "name": "On The Set",
-      "url": "https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD"
-    },
-    {
-      "added_at": "2024-12-13 04:00:31",
-      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 122413,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
-    },
-    {
-      "added_at": "2024-12-13 04:00:31",
-      "album": {
-        "name": "BRAVADO + INTiMO",
-        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "CELiNE iN THE TRAP (B)",
-      "url": "https://open.spotify.com/track/4QCQPFD0RFyVey0x9wUmK3"
     },
     {
       "added_at": "2024-12-13 04:00:31",
@@ -839,6 +823,22 @@
       "duration_ms": 117562,
       "name": "Ecstasy (Freestyle)",
       "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "added_at": "2024-12-13 04:00:31",
+      "album": {
+        "name": "BRAVADO + INTiMO",
+        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "CELiNE iN THE TRAP (B)",
+      "url": "https://open.spotify.com/track/4QCQPFD0RFyVey0x9wUmK3"
     },
     {
       "added_at": "2024-12-13 04:00:31",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-12-13 04:00:31",
       "album": {
-        "name": "DENiM (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 177043,
-      "name": "DENiM",
-      "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     }
   ],
   "unique_name": "Spilled Ink",

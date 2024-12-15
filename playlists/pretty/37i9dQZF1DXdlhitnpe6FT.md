@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,503 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,649 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 9 | [And I Love Her](https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:10 |
 | 10 | [Se Busca](https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq) | [Bodas y 15 Años](https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss) | [20 Valses Instrumentales](https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5) | 3:26 |
 | 11 | [BLUE DOLPHIN](https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl) | [Stephen Schlaks](https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL), [Michel](https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn) | [...SI CI SONO ANCH'IO \(BLUE DOLPHIN\)](https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS) | 2:59 |
-| 12 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
-| 13 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 |
-| 14 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 |
+| 12 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 |
+| 13 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 |
+| 14 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 15 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 |
 | 16 | [Playas de Ensueño](https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:13 |
 | 17 | [Sleepwalk](https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Volume Secondo](https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8) | 2:31 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 50 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
 | 51 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 |
 | 52 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
-| 53 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
-| 54 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
+| 53 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
+| 54 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
 | 55 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |
 | 56 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
 | 57 | [Look for a Star](https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Look for a Star](https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0) | 2:15 |

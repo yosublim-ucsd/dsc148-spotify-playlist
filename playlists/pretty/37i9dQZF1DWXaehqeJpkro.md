@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: DAY6\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,267 likes - 200 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,303 likes - 200 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 137 | [You don't know](https://open.spotify.com/track/4wxQNRbKHCot30VGjEYylp) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Dr\. Romantic 2 OST Part.7](https://open.spotify.com/album/7qGercAC7klZ6smNyMWAp2) | 3:35 |
 | 138 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
 | 139 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 |
-| 140 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 |
+| 140 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 |
 | 141 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 |
 | 142 | [Guilty](https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band Of Dynamic Brothers](https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1) | 3:44 |
 | 143 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 177 | [Every moment of you](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |
 | 178 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 |
 | 179 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 |
-| 180 | [No love, No Heartbreak](https://open.spotify.com/track/0zFmyYg4HuqFIj4DsNvmu8) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [No love, No Heartbreak](https://open.spotify.com/album/6NEkqFF70eFJD5aPheRBFu) | 3:30 |
+| 180 | [No love, No Heartbreak](https://open.spotify.com/track/0zFmyYg4HuqFIj4DsNvmu8) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [No love, No Heartbreak](https://open.spotify.com/album/6NEkqFF70eFJD5aPheRBFu) | 3:30 |
 | 181 | [Destiny](https://open.spotify.com/track/2FPUCbxMXpyvQxORsq2zAD) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [puberty](https://open.spotify.com/album/3CBSSb5UntgYQxHzcnMe6u) | 4:24 |
 | 182 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 183 | [My Way](https://open.spotify.com/track/4fOfwLHQJz49Q8T1jrz54I) | [Lee Soo](https://open.spotify.com/artist/0wJ9JgzAlq9nif4ye4WrAR) | [돈꽃 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/3mZ0f6rcDBYhQAFfNMCNH3) | 4:38 |
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 190 | [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 |
 | 191 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 |
 | 192 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
-| 193 | [잊지말아요](https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Jang Ji Eun](https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB) | [판타스틱 듀오 2 Part.14](https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8) | 5:29 |
+| 193 | [잊지말아요](https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Jang Ji Eun](https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB) | [판타스틱 듀오 2 Part.14](https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8) | 5:29 |
 | 194 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 |
 | 195 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
 | 196 | [Love, Ing](https://open.spotify.com/track/269Fxuy0WNGk4nnI8M5LdK) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/2hEI4wV5hL1hioRpwwGBJc) | 4:30 |

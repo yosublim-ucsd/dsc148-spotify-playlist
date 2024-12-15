@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -2785,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239978,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I"
+    },
+    {
+      "album": {
         "name": "Beach House",
         "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 113142,
       "name": "Better Days (feat. JUMADIBA)",
       "url": "https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK"
@@ -6856,7 +6874,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
@@ -12296,7 +12314,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 157300,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3"
@@ -13636,6 +13654,24 @@
       "duration_ms": 146935,
       "name": "it\u2019s okay",
       "url": "https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U"
+    },
+    {
+      "album": {
+        "name": "\u0130lkler Kal\u0131r",
+        "url": "https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC"
+      },
+      "artists": [
+        {
+          "name": "Rana T\u00fcrky\u0131lmaz",
+          "url": "https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "\u0130lkler Kal\u0131r",
+      "url": "https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ"
     },
     {
       "album": {
@@ -15592,6 +15628,28 @@
       "duration_ms": 161755,
       "name": "LEAD ME ON",
       "url": "https://open.spotify.com/track/7qhA0TTxBayi1uZjXfKeaB"
+    },
+    {
+      "album": {
+        "name": "Left My Heart",
+        "url": "https://open.spotify.com/album/6oMxKXHrilwnhFli3GrztY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        },
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130140,
+      "name": "Left My Heart",
+      "url": "https://open.spotify.com/track/4YJV1lLyv4kzr7nLv3HKHx"
     },
     {
       "album": {
@@ -18264,7 +18322,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 198604,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4nkTlqKgdjIO7ZeNCJpbX3"
@@ -18632,6 +18690,24 @@
       "duration_ms": 222096,
       "name": "NE SENLE NE SENS\u0130Z",
       "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148597,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
     },
     {
       "album": {
@@ -29377,6 +29453,24 @@
     },
     {
       "album": {
+        "name": "Woman Now",
+        "url": "https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe"
+      },
+      "artists": [
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158844,
+      "name": "Woman Now",
+      "url": "https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ"
+    },
+    {
+      "album": {
         "name": "Wonder (903\u827e\u723e\u7d72\u61f7\u7591\u4ed9\u5883\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/35OO6oauvdOfXuby4YxcmB"
       },
@@ -29760,6 +29854,24 @@
       "duration_ms": 243676,
       "name": "you too",
       "url": "https://open.spotify.com/track/2YpVghKB1O94sjCM9auoNL"
+    },
+    {
+      "album": {
+        "name": "You're Still Mine",
+        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147801,
+      "name": "You're Still Mine",
+      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
     },
     {
       "album": {
@@ -32822,7 +32934,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 220311,
       "name": "\u773c\u5dee\u3057",
       "url": "https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz"

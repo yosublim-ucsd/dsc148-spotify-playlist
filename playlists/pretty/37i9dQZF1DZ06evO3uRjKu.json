@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 70324,
+  "num_followers": 70325,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAAXlhOFY3u0nyCYhIWSE8Ed",
+  "snapshot_id": "Z1t5AAAAAAD29irzc3so7vggQLucqIXt",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 252354,
-      "name": "Borracho Hasta El Amanecer",
-      "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
+      "duration_ms": 206133,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Bella Mujer",
-      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
+      "duration_ms": 252354,
+      "name": "Borracho Hasta El Amanecer",
+      "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Toque de Queda",
-      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecatombe Disco",
         "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 211666,
       "name": "Est\u00fapida",
       "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
     },
     {
       "added_at": null,

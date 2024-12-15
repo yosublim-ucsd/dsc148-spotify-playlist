@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 
 > Prepare for the upcoming concert by listening to Dynamicduo's best songs! \(다이나믹 듀오의 베스트 곡들을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

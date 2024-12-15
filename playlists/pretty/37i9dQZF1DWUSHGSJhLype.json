@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: DENNIS, LUDMILLA, Felipe Amorim\n",
-  "num_followers": 585689,
+  "num_followers": 586204,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 171335,
-      "name": "Gosta De Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Gata (Barbie)",
         "url": "https://open.spotify.com/album/2YTyARkpj4fzGY7l4Hf9SH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 185454,
       "name": "Gata - Barbie",
       "url": "https://open.spotify.com/track/4UADn7KrfGSr4KjqMrvGzd"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1395,6 +1395,42 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "Xand's Bar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0n14Pl9OyJY3gElbMoQgU9"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 347769,
+      "name": "Sempre Ser\u00e1 / Tenta\u00e7\u00e3o / Nossa Guerra Santa / T\u00e1 Na Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NVxSsPCFVBvxUI7Pix8mv"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "A Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/7FI9dTZTCWzpMOjLf9Eqhk"
+      },
+      "artists": [
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "Aposta",
+      "url": "https://open.spotify.com/track/3oCLB6gOcmO3n5vM0XwXip"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "O Maior Piseiro do Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/26ZHWY8TbWBFV8VbU4QzdL"
       },
@@ -1407,6 +1443,26 @@
       "duration_ms": 145725,
       "name": "Me Liga, Me Chama - Ao Vivo",
       "url": "https://open.spotify.com/track/410lHm3hmpvvQMxjq5pHvM"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "MF em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Monogamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/20ar34rCdVHdtvmbuHVxgu"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1443,62 +1499,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "MF em Sampa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Monogamia - Ao Vivo",
-      "url": "https://open.spotify.com/track/20ar34rCdVHdtvmbuHVxgu"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "A Minha Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/7FI9dTZTCWzpMOjLf9Eqhk"
-      },
-      "artists": [
-        {
-          "name": "Tony Salles",
-          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
-        }
-      ],
-      "duration_ms": 154337,
-      "name": "Aposta",
-      "url": "https://open.spotify.com/track/3oCLB6gOcmO3n5vM0XwXip"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Xand's Bar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0n14Pl9OyJY3gElbMoQgU9"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 347769,
-      "name": "Sempre Ser\u00e1 / Tenta\u00e7\u00e3o / Nossa Guerra Santa / T\u00e1 Na Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NVxSsPCFVBvxUI7Pix8mv"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
         "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
       },
@@ -1515,6 +1515,26 @@
       "duration_ms": 171100,
       "name": "Cama Repetida",
       "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Leo & Elas (Ao Vivo / Parte 3)",
+        "url": "https://open.spotify.com/album/16i6KOO7Hqvc9zsjV9HG7B"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 151818,
+      "name": "Duas Pedaladas - Ao Vivo",
+      "url": "https://open.spotify.com/track/22fgrTGabcx2ofuj2lSDoe"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1539,26 +1559,6 @@
       "duration_ms": 153230,
       "name": "EU TAVA AQUI PENSANDO - VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/5Mvbg6AVUyvkRf0AzBrLY4"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Leo & Elas (Ao Vivo / Parte 3)",
-        "url": "https://open.spotify.com/album/16i6KOO7Hqvc9zsjV9HG7B"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 151818,
-      "name": "Duas Pedaladas - Ao Vivo",
-      "url": "https://open.spotify.com/track/22fgrTGabcx2ofuj2lSDoe"
     },
     {
       "added_at": "2024-12-13 15:50:06",

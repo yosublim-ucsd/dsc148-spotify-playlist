@@ -4,7 +4,7 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 48 min
+81 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Azul](https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Al Sur de la Noche](https://open.spotify.com/album/20k8vslpDovsribWcjDFX3) | 2:43 | 2023-12-29 |  |
 | [Azul](https://open.spotify.com/track/6g18SEW8hZzfIC1TpdEZ8k) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Al Sur de la Noche](https://open.spotify.com/album/4oySPuW0Zu1TT4CEWxPMDz) | 2:43 | 2023-03-24 | 2023-12-30 |
 | [Bien](https://open.spotify.com/track/3WNSy6s729D5dwreu1SsNi) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bien](https://open.spotify.com/album/3RI5pKpWlcKFe0ziDizIMX) | 3:27 | 2023-03-24 | 2023-07-13 |
+| [Blunt](https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v) | [Anthony Sanchez](https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Blunt](https://open.spotify.com/album/1n9hTVqJjHQKg4bsOLU1Cx) | 3:09 | 2024-12-15 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2023-03-24 |  |
 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 | 2023-03-24 | 2024-11-03 |
 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 | 2023-03-24 |  |

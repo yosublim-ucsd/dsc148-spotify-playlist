@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 893833,
+  "num_followers": 894024,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "WINTER ARC FUNK",
+        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "duration_ms": 91875,
+      "name": "WINTER ARC FUNK",
+      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "RITMO DE TREINO",
         "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "WINTER ARC FUNK",
-        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
-      },
-      "artists": [
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
-        }
-      ],
-      "duration_ms": 91875,
-      "name": "WINTER ARC FUNK",
-      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
     }
   ],
   "unique_name": "gymcore",

@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Silent Jazz Night",
+        "url": "https://open.spotify.com/album/0C6ktaMn7c1JugmYplfR04"
+      },
+      "artists": [
+        {
+          "name": "Ronald Alan Mendelsohn",
+          "url": "https://open.spotify.com/artist/0jiVxUC2p4N69pPxqdZS30"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "Silent Jazz Night",
+      "url": "https://open.spotify.com/track/13iIClj8QbmMdfeNInI5Cr"
+    },
+    {
+      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN"
       },

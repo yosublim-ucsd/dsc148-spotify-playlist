@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 483 likes - 346 songs - 14 hr 39 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 484 likes - 346 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 303 | [Believe](https://open.spotify.com/track/6mS1UBTYXQ4qN1XpG7KmCU) | [Oscar Castaño Chavez](https://open.spotify.com/artist/1IL3GDfugYdj3YL1CkO9lR) | [Winter Sonata](https://open.spotify.com/album/2SMMUKXsyWeHV81NODeqvu) | 2:05 |
 | 304 | [Soft Launch](https://open.spotify.com/track/5uTSZWLeWAZWn1et9JuPSF) | [crycry](https://open.spotify.com/artist/6iQciJJNdypNafonRdUQ4x) | [Soft Launch](https://open.spotify.com/album/0RQxvPS191T60TVJVzUZQe) | 2:13 |
 | 305 | [footsteps](https://open.spotify.com/track/15pIyCA3MNSIOBghly77mP) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [footsteps](https://open.spotify.com/album/6sdJImswzD1F7srPqiqHNt) | 1:43 |
-| 306 | [Inception](https://open.spotify.com/track/2DvKFuLaDRJjaWAHGtZnRX) | [Maël](https://open.spotify.com/artist/4Y6Hebz4z9WvqYIFMW58Cx) | [Quietude](https://open.spotify.com/album/2pfUupHOT9ltZ0Ng5knDZn) | 2:46 |
+| 306 | [Inception](https://open.spotify.com/track/2DvKFuLaDRJjaWAHGtZnRX) | [finding comfort](https://open.spotify.com/artist/1bCb16LxkgEYK2ud1Ol3RQ) | [Quietude](https://open.spotify.com/album/2pfUupHOT9ltZ0Ng5knDZn) | 2:46 |
 | 307 | [Sighs of the Heart](https://open.spotify.com/track/4t1vOiUg8qpHdkx66yJjCE) | [Coffee Piano](https://open.spotify.com/artist/2oep6ou2PkJrdXI6aa9zP8) | [Sighs of the Heart](https://open.spotify.com/album/2guEWqoU863afIxTCPvBQ8) | 1:38 |
 | 308 | [Where The Path Ended](https://open.spotify.com/track/7cafgrlVL3ECw0rIeTqFSd) | [Yanson](https://open.spotify.com/artist/3T4foO5qUmQtPlgcgRUBn0) | [Where The Path Ended](https://open.spotify.com/album/1JlDOlxIu0XTTb2jtIwoNi) | 1:58 |
 | 309 | [Out To Sea](https://open.spotify.com/track/5at4X0bNFWHzaLAwMgenpt) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [Out To Sea](https://open.spotify.com/album/6uRUDymqQEv4ZYcw1VZDNk) | 1:55 |

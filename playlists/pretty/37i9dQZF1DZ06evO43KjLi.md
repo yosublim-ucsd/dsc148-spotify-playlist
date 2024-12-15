@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,657 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,660 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 35 | [Te Busque](https://open.spotify.com/track/4RNBrR5tmuZKSAdNo9w5ht) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:28 |
 | 36 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 | 37 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 |
-| 38 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 |
+| 38 | [Sigue Vivo](https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:14 |
 | 39 | [Hoy Estamos Aquí](https://open.spotify.com/track/2asBtHvhInFczfb4mMv3Iu) | [LIL Mexico](https://open.spotify.com/artist/2LEvYxGrWlnfqiKoqVcwi6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hoy Estamos Aquí](https://open.spotify.com/album/3Sfv1dYeT15BixCWHUSPgD) | 2:23 |
-| 40 | [Sigue Vivo](https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:14 |
+| 40 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 |
 | 41 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 |
 | 42 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `Z1ongAAAAABB/bVwt/G8GbTTA82tWe9G`
+Snapshot ID: `Z1t5AAAAAABJ2W1O03X3G0hJMCMNMgfm`

@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 26 min
+74 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Até Tocar o Céu](https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 7:06 | 2023-07-09 |  |
 | [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 | 2023-10-10 |  |
 | [Bondade de Deus \(Goodness of God\) \- Ao Vivo](https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Bondade de Deus \(Goodness of God\) \[Ao Vivo\]](https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy) | 5:29 | 2023-07-09 |  |
+| [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o) | 4:05 | 2024-12-15 |  |
 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 | 2023-08-21 | 2023-08-24 |
 | [Casa de Bênção](https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 5:58 | 2023-07-09 |  |
 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 | 2023-12-19 |  |

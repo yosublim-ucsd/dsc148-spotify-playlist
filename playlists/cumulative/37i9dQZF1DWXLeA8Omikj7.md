@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,014 songs - 3 day 1 hr 2 min
+1,015 songs - 3 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,10 +353,11 @@
 | [Gemini](https://open.spotify.com/track/7De25QZjlGdOYMB8bdBi3e) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Stereosonic Festival Anthems 2015](https://open.spotify.com/album/2eiNxpNhOdk2IPu9UMhDB3) | 4:30 | 2019-06-21 | 2020-10-19 |
 | [gems pop like berries in my mouth](https://open.spotify.com/track/4sW84TLkvAurk7yfmEiFNT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [clean dreams](https://open.spotify.com/album/6LTRKvYkK03ig1KjNLIdiW) | 2:50 | 2024-10-07 | 2024-11-15 |
 | [Gendèr](https://open.spotify.com/track/73J0XZfBhvGgCloBnkXVCP) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Gendèr](https://open.spotify.com/album/3eO8EkqnVpLj4C8nlM0QBa) | 3:58 | 2020-04-22 |  |
+| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 |  |
 | [Ghomrassen](https://open.spotify.com/track/3KLlLHrAQsDUryZc3fMx7P) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 5:10 | 2019-06-23 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
-| [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 |  |
+| [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 | 2024-12-15 |
 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* | 2024-12-04 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* | 2024-10-10 |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |

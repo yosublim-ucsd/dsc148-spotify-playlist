@@ -3171,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187257,
+      "name": "Solo una Vez",
+      "url": "https://open.spotify.com/track/4WCQeyTgRukuFL4Mwt68yw"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9s",
         "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Mirella ja Lauri Haav.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,545 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,554 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 4 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 |
 | 5 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 |
 | 6 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
-| 7 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 |
-| 8 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
+| 7 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
+| 8 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 |
 | 9 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 |
 | 10 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 11 | [P.S\. vieläkin](https://open.spotify.com/track/5GjW7fctpy0BX8RBkMqOuz) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Kuolematon](https://open.spotify.com/album/3IDh8AQRdSvEsVffyBsJn9) | 2:59 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 78 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 |
 | 79 | [Elina](https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Elina](https://open.spotify.com/album/0TXSaiioO53QlKnuePS0Zt) | 2:48 |
 
-Snapshot ID: `Z1wxpwAAAAA4XN0nfmWVLKXXL3bbf6Nd`
+Snapshot ID: `Z13mrQAAAACUiyhJY1fpBnwH/+5Q7TDS`

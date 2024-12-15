@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-336 songs - 20 hr 23 min
+337 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 | 2024-08-08 |  |
 | [Ethnica \(Pasilda\)](https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Ethnica \(Pasilda\)](https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q) | 2:50 | 2024-07-26 |  |
 | [Every Little Thing](https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Every Little Thing](https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI) | 2:38 | 2023-04-04 | 2024-04-20 |
+| [Every Morning](https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Every Morning](https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF) | 3:43 | 2024-09-26 |  |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-07-26 | 2024-04-19 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-04 | 2023-08-18 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 | 2023-10-19 | 2024-04-19 |
@@ -260,7 +261,7 @@
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-08-26 | 2023-02-26 |
 | [Sex & The City \- MK Remix](https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Sex & The City \(MK Remix\)](https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e) | 3:07 | 2023-05-19 | 2024-08-23 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-06-02 | 2024-04-20 |
-| [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-09-18 |  |
+| [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-09-18 | 2024-12-15 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-08-26 | 2023-03-31 |
 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 | 2024-07-19 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-14 | 2024-07-05 |

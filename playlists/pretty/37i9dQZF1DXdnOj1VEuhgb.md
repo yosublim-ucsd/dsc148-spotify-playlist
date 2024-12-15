@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ahiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,383 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,466 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [Rastafari](https://open.spotify.com/track/0A0N50u0PcfmYb3R4UOpAr) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Rastafari](https://open.spotify.com/album/2sznOY5OvDvNYfjo0nPKPj) | 2:17 |
 | 6 | [YSIVII](https://open.spotify.com/track/67FJONzR4S8nS535Op1HK5) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [YSIVII](https://open.spotify.com/album/7c9vw13t8XozdjvLfOjeJF) | 3:03 |
 | 7 | [Derdo](https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:38 |
-| 8 | [Lab Cypher 2 \(feat\. Zizzy, Harim, Vesca, aspi, Spade427 & Helios\)](https://open.spotify.com/track/4T4s8JjJRWzVZ9f3RFJr6G) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw), [Spade427](https://open.spotify.com/artist/7GREWMFJ4IGk3I9Sco4uDM), [Helios](https://open.spotify.com/artist/0GDroCN5GF2h2cqOjyg8DA) | [Lab Cypher 2 \(feat\. Zizzy, Harim, Vesca, aspi, Spade427 & Helios\)](https://open.spotify.com/album/6D3biyKHK0iow4ggE0qZcS) | 4:54 |
+| 8 | [Lab Cypher 2](https://open.spotify.com/track/4T4s8JjJRWzVZ9f3RFJr6G) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw), [Spade427](https://open.spotify.com/artist/7GREWMFJ4IGk3I9Sco4uDM), [Helios](https://open.spotify.com/artist/0GDroCN5GF2h2cqOjyg8DA) | [Lab Cypher 2](https://open.spotify.com/album/6D3biyKHK0iow4ggE0qZcS) | 4:54 |
 | 9 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 10 | [Kalamam Aranızda](https://open.spotify.com/track/2GAH1NtbMOQkf0zfHVIt2u) | [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3), [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Kalamam Aranızda](https://open.spotify.com/album/3BOmZi4PCH4xvJC39MWdhe) | 3:52 |
 | 11 | [Benle misin?](https://open.spotify.com/track/7pKQW0fQpTWf6mtH6elbUY) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Benle misin?](https://open.spotify.com/album/6EojRsheBze5q2Y6yNeKNL) | 1:56 |

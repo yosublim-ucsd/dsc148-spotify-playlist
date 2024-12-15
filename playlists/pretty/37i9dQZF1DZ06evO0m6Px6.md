@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 35 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 12 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 |
 | 13 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 |
 | 14 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:55 |
-| 15 | [Overhead](https://open.spotify.com/track/3kzoBgu32qNmaCLNCHhStO) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:09 |
+| 15 | [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:51 |
 | 16 | [Vertigo](https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:35 |
 | 17 | [You're Light \(feat\. Maddee\)](https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:12 |
 | 18 | [Your Girl](https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:02 |
-| 19 | [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:51 |
+| 19 | [Overhead](https://open.spotify.com/track/3kzoBgu32qNmaCLNCHhStO) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:09 |
 | 20 | [Big Waves](https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 1:43 |
 | 21 | [Right Hook](https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:15 |
 | 22 | [Wavestation](https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 29 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 |
 | 30 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
 | 31 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 |
-| 32 | [She's Strong](https://open.spotify.com/track/5jK2To0EsnOGhc1Xzo6aev) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors EP](https://open.spotify.com/album/5TfPH2ZBgw7iuQOdYDx1Bs) | 4:42 |
+| 32 | [She's Strong \(feat\. Maddee\)](https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:42 |
 | 33 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 | 34 | [New Harrison Again](https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn) | 2:32 |
 | 35 | [So Far From Home](https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 |
 
-Snapshot ID: `Z1ongAAAAABnl0uyyiHxxNvwUqO4tI3Y`
+Snapshot ID: `Z1t5AAAAAAB5I4/I6oblz7PGkUAE9DKj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 73 | [Trap Phone \(feat\. Caza\)](https://open.spotify.com/track/3lZOPG6RD2hgFJimX0YK5z) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 3:02 |
 | 74 | [Highway](https://open.spotify.com/track/5FUcKAYzSPlMuGhQX2qGXf) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Highway](https://open.spotify.com/album/5ClLCXGBlTH4YJeaGg9H1w) | 2:37 |
 | 75 | [Eén Foto](https://open.spotify.com/track/0rUSDftSf4fodYCFBTReQM) | [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Nieuwe Kunst](https://open.spotify.com/album/52va1rCOlsCToUUuLOdWb5) | 2:14 |
-| 76 | [Ola](https://open.spotify.com/track/0fySb47S9fhHS8Zu1wCqXH) | [Don James](https://open.spotify.com/artist/5k9mw3bIEWcePGao0lRKwE), [Joyba](https://open.spotify.com/artist/6UeUHpQSkLnBJYtKF2EbKb), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ola](https://open.spotify.com/album/1d7EFRXzKkwSvIZnKSsvTM) | 2:38 |
-| 77 | [Gouden Lot](https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gouden Lot](https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za) | 2:09 |
+| 76 | [Gouden Lot](https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gouden Lot](https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za) | 2:09 |
+| 77 | [Ola](https://open.spotify.com/track/0fySb47S9fhHS8Zu1wCqXH) | [Don James](https://open.spotify.com/artist/5k9mw3bIEWcePGao0lRKwE), [Joyba](https://open.spotify.com/artist/6UeUHpQSkLnBJYtKF2EbKb), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ola](https://open.spotify.com/album/1d7EFRXzKkwSvIZnKSsvTM) | 2:38 |
 | 78 | [Ma Bella](https://open.spotify.com/track/02EnBHV0Kr0Lb8TONbGDFC) | [Gambler](https://open.spotify.com/artist/7eBnrX5XdAJsbr6voavmTC), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ma Bella](https://open.spotify.com/album/3jn2SXCnLlUv91c9oT5GT0) | 2:30 |
 | 79 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 80 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `AbkEAAAAAAD+893qUbrJnSeEM8Spfj8M`
+Snapshot ID: `AbkJyAAAAABhC6GqXqSDfMo+eRJkc80c`

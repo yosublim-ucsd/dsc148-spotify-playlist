@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 157935,
       "name": "clouded",
       "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
@@ -1674,6 +1674,24 @@
       "duration_ms": 146781,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
+    },
+    {
+      "album": {
+        "name": "what\u00b4s my name",
+        "url": "https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG"
+      },
+      "artists": [
+        {
+          "name": "yellofish",
+          "url": "https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "what\u00b4s my name",
+      "url": "https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P"
     },
     {
       "album": {

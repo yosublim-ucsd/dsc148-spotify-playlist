@@ -12423,6 +12423,28 @@
     },
     {
       "album": {
+        "name": "naseeb (mila hai tu)",
+        "url": "https://open.spotify.com/album/5oEpUOVPbvHRlZTWd1Fj8W"
+      },
+      "artists": [
+        {
+          "name": "Murtuza Gadiwala",
+          "url": "https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW"
+        },
+        {
+          "name": "lil help",
+          "url": "https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147758,
+      "name": "naseeb (mila hai tu)",
+      "url": "https://open.spotify.com/track/4YtkEGjupVabmKhOsbNQ3C"
+    },
+    {
+      "album": {
         "name": "Naya",
         "url": "https://open.spotify.com/album/5rsV2w5lZzUjKQD9KZZ6WY"
       },
@@ -15050,7 +15072,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 141333,
       "name": "Sapno Ki Nagri",
       "url": "https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk"

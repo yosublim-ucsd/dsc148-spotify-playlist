@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,799 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,854 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

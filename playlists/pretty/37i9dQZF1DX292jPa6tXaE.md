@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks by Punjabi artists this year\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,344 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,357 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

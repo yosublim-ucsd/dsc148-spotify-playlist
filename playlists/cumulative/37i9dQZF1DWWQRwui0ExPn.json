@@ -16749,6 +16749,24 @@
     },
     {
       "album": {
+        "name": "BSQT",
+        "url": "https://open.spotify.com/album/69Ve7tEe01DUchwpRI1jU1"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115601,
+      "name": "BSQT",
+      "url": "https://open.spotify.com/track/4j6Rx04joLZDk8WNXs5Et0"
+    },
+    {
+      "album": {
         "name": "Bubba",
         "url": "https://open.spotify.com/album/5YFzITz3FPAm7V3a2tTeI5"
       },
@@ -27134,7 +27152,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 155075,
       "name": "Crestfallen",
       "url": "https://open.spotify.com/track/68hLSA41wxIcMueRmN7tem"
@@ -47920,7 +47938,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 140800,
       "name": "Golden Trees",
       "url": "https://open.spotify.com/track/0Rczh8BOgirErNUyE1fUEa"
@@ -112508,7 +112526,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 132398,
       "name": "stay",
       "url": "https://open.spotify.com/track/49n6kILlLD8uwNNOZJNunr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Pop in 2024\. Cover:  Mercer Henderson\.  Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,491 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,532 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

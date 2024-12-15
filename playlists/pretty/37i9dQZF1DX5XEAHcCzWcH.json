@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 43888,
+  "num_followers": 43921,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Milk And Water",
-      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Johnnie B. Bad",
         "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 294133,
       "name": "Tanqueray",
       "url": "https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Milk And Water",
+      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
-      },
-      "artists": [
-        {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Journeys to the Heart of the Blues",
         "url": "https://open.spotify.com/album/0PXEMcAyDmdT2rITC41wqF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 183866,
       "name": "Mean Old Train",
       "url": "https://open.spotify.com/track/7kEyBPjsUQs4cpm5cd37CC"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2024-05-30 16:22:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Ray Bull!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,071 likes - 157 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,047 likes - 157 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

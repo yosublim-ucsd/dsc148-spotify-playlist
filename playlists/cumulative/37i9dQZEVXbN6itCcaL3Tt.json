@@ -6376,7 +6376,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -10860,7 +10860,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 147781,
       "name": "Dzie\u0144 jeden w roku",
       "url": "https://open.spotify.com/track/5YeWMDlueFQ2727lVfGaIg"
@@ -13908,7 +13908,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
@@ -19553,6 +19553,28 @@
     },
     {
       "album": {
+        "name": "koto",
+        "url": "https://open.spotify.com/album/69cDLgZcgkVRTR5SvUa166"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "koto",
+      "url": "https://open.spotify.com/track/70e4YH5gnT9rawbo4L1Ifh"
+    },
+    {
+      "album": {
         "name": "KRAINA LODU",
         "url": "https://open.spotify.com/album/4VtVnBSciR5fIlkzYRRDEg"
       },
@@ -21616,7 +21638,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -37924,7 +37946,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

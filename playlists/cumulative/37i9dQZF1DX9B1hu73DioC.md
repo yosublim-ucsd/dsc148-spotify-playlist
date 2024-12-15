@@ -4,7 +4,7 @@
 
 > put it on and let it play\. cover: jessica pratt
 
-848 songs - 2 day 2 hr 19 min
+849 songs - 2 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 | 2024-11-15 | 2024-11-18 |
 | [Sole Obsession](https://open.spotify.com/track/5eHB7iz8fKG1IkaGddI7LA) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:16 | 2023-09-29 | 2024-01-13 |
 | [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 | 2023-03-27 | 2023-04-06 |
+| [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 | 2024-11-15 |  |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-06-23 |
 | [Someone I Could Love](https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:05 | 2023-09-08 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-05\* | 2022-04-21 |
@@ -702,7 +703,7 @@
 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 | 2022-06-01 | 2022-07-29 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-16 |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-10-07 | 2022-11-13 |
-| [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-16 |  |
+| [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-16 | 2024-12-15 |
 | [Stevie Doesn't Wonder](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Stevie Doesn't Wonder](https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca) | 2:44 | 2023-04-19 | 2023-05-24 |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-03-31 |  |
 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-11-10 | 2023-02-22 |

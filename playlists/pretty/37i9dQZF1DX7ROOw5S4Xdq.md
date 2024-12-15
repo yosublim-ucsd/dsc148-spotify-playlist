@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Laura Souguellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,861 likes - 49 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,875 likes - 49 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 21 | [Exaltamos Yahweh](https://open.spotify.com/track/1JBVAci0VaThGFIrzw0PH9) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Incessante Music](https://open.spotify.com/artist/74oLquhUdjbzTY4QfVzGZh), [Anderson Figueiredo](https://open.spotify.com/artist/2xqtVerMkmYdoKMdZdIJGf) | [Exaltamos Yahweh](https://open.spotify.com/album/1qCSmTPI6ngGcpwhvF1NpQ) | 5:04 |
 | 22 | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o) | 4:05 |
 | 23 | [Não Falhará \(Ao Vivo\)](https://open.spotify.com/track/1uDth6SWdF4sPtARaDkQxW) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Não Falhará \(Ao Vivo\)](https://open.spotify.com/album/3VjFGuU0dFY5viuPbMmd1C) | 6:26 |
-| 24 | [Pão da Vida](https://open.spotify.com/track/5IU5PFfqjKvc9QU2J2PGNu) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Clovis Pinho](https://open.spotify.com/artist/3IjqaF34HzOoPzRB2Dk6mD) | [Pão da Vida](https://open.spotify.com/album/4Ry8ROVfjqrMS74A8kr113) | 6:49 |
+| 24 | [Pão da Vida](https://open.spotify.com/track/5IU5PFfqjKvc9QU2J2PGNu) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Pão da Vida](https://open.spotify.com/album/4Ry8ROVfjqrMS74A8kr113) | 6:49 |
 | 25 | [Bênçãos Que Não Têm Fim](https://open.spotify.com/track/0FUZ8ZD6v3RHNQ8y7NUhAr) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Restaura em Casa](https://open.spotify.com/album/3skLOZG0FmDBP4tsgelzMt) | 2:50 |
 | 26 | [Enquanto Dói](https://open.spotify.com/track/1gefEPpJsttkXb7nyju5AS) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Enquanto Dói](https://open.spotify.com/album/0hvaFNoLjGcKmF05JKG6MI) | 3:59 |
 | 27 | [Últimos Dias \- Ao Vivo](https://open.spotify.com/track/6XGW2NAKwH6hy4C3Kz8GSV) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Últimos Dias \(Ao Vivo\)](https://open.spotify.com/album/3rYPEE49A7dsZLXn7UmQVW) | 5:32 |

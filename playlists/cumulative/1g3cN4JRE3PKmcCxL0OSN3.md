@@ -4,7 +4,7 @@
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-1,375 songs - 3 day 9 hr 19 min
+1,377 songs - 3 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Ice Age](https://open.spotify.com/track/594suifkodzqXMkJlkKRQd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [32 Zel](https://open.spotify.com/album/1t05YAzxjK1HqLD2KcBjx5) | 2:51 | 2024-09-16 |  |
 | [ICE AGE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:38 | 2024-09-16 |  |
 | [Ice Slippin](https://open.spotify.com/track/2YhZj5nfNWscjMivzyEllY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 4:15 | 2024-09-16 |  |
+| [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2024-12-14 |  |
 | [ICU](https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:10 | 2024-09-16 |  |
 | [Idle Worship](https://open.spotify.com/track/50zSoW3GT1Ee4hXxQPO08t) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:18 | 2024-09-24 |  |
 | [IDORU](https://open.spotify.com/track/4mlkj14AjRMGnyYlcEbZlB) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 7:12 | 2024-09-16 |  |
@@ -714,6 +715,7 @@
 | [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2024-09-24 |  |
 | [Losing Grip](https://open.spotify.com/track/2LA4v20vokK9Uaj7WEEMaf) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:53 | 2024-09-16 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2024-09-16 |  |
+| [Lost All My Feelings](https://open.spotify.com/track/5dqfwupDEoz7s8m4TWaAJC) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 | 2024-12-14 |  |
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2024-09-16 |  |
 | [Lost for Words](https://open.spotify.com/track/4Ev1LZ4uzjnSvDHpgdyBZK) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:14 | 2024-09-24 |  |
 | [LOST FOREVER \(feat\. Westside Gunn\)](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2024-09-16 |  |

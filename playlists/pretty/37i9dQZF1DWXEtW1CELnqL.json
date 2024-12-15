@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 73246,
+  "num_followers": 73290,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
-        "name": "Two Faced",
-        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183584,
-      "name": "Two Faced",
-      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
-    },
-    {
-      "added_at": "2024-12-11 14:26:05",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
+    },
+    {
+      "added_at": "2024-12-11 14:26:05",
+      "album": {
+        "name": "Two Faced",
+        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "added_at": "2024-12-11 14:26:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
-    },
-    {
-      "added_at": "2024-12-11 14:26:05",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 206200,
       "name": "Guerrilla Radio",
       "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
+    },
+    {
+      "added_at": "2024-12-11 14:26:05",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
       "added_at": "2024-12-11 14:26:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
-    },
-    {
-      "added_at": "2024-12-11 14:26:05",
-      "album": {
         "name": "FISSION",
         "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
-        "name": "The Paramour Sessions",
-        "url": "https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA"
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 182120,
-      "name": "...To Be Loved",
-      "url": "https://open.spotify.com/track/5RxCC8ecpIb6W9MVrJNmSF"
+      "duration_ms": 226106,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
     },
     {
       "added_at": "2024-12-11 14:26:05",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
+        "name": "The Paramour Sessions",
+        "url": "https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "...To Be Loved",
+      "url": "https://open.spotify.com/track/5RxCC8ecpIb6W9MVrJNmSF"
+    },
+    {
+      "added_at": "2024-12-11 14:26:05",
+      "album": {
         "name": "The Black and White album",
         "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 205386,
       "name": "Tick Tick Boom",
       "url": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43"
+    },
+    {
+      "added_at": "2024-12-11 14:26:05",
+      "album": {
+        "name": "A Little Bit Happy",
+        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
     },
     {
       "added_at": "2024-12-11 14:26:05",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-12-11 14:26:05",
       "album": {
-        "name": "A Little Bit Happy",
-        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 195278,
-      "name": "A Little Bit Happy",
-      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
+      "duration_ms": 225278,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-12-11 14:26:05",
@@ -1123,22 +1139,6 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "added_at": "2024-12-11 14:26:05",
-      "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 225278,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-12-11 14:26:05",

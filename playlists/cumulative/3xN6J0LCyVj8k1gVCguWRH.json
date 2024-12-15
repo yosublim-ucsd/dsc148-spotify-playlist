@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Amores As\u00ed",
       "url": "https://open.spotify.com/track/6oriKDugUDT1CcBTBDgF5s"
@@ -5196,6 +5196,24 @@
       "duration_ms": 284026,
       "name": "August 12th",
       "url": "https://open.spotify.com/track/45EmPoTxkIXNve1jm7oRTE"
+    },
+    {
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/5Eivt5Cm1DTMn3fPP6nZnN"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Russo",
+          "url": "https://open.spotify.com/artist/6tEr4NBhtlnxSzlHinDYdP"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167246,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/1FsHXsj4iBHA2fdiTBxj6u"
     },
     {
       "album": {
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 217500,
       "name": "Best Part of Me",
       "url": "https://open.spotify.com/track/2PhvJ3VfAMhSC9wPZuxiSg"
@@ -10962,7 +10980,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 157706,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/6m83J6J5k3qkKJcVlDW7Fe"
@@ -11686,6 +11704,28 @@
       "duration_ms": 201001,
       "name": "Canon",
       "url": "https://open.spotify.com/track/2zKMTe1Euchu0TBTZlGPwd"
+    },
+    {
+      "album": {
+        "name": "ColgaLand Kool, Vol. 1",
+        "url": "https://open.spotify.com/album/02FGCgguDhuLevYGSZ3Yzo"
+      },
+      "artists": [
+        {
+          "name": "Kooly Allen",
+          "url": "https://open.spotify.com/artist/2PC0TtDryebKgkTJNllR3e"
+        },
+        {
+          "name": "AJ Reese",
+          "url": "https://open.spotify.com/artist/4KDq8FfvPqKmReKo2laG6r"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103836,
+      "name": "Cant Have Mine",
+      "url": "https://open.spotify.com/track/75ViG9tcx1vC35yGJVCYBM"
     },
     {
       "album": {
@@ -13629,6 +13669,28 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/5wL95dRqlBBz5hCcglNzIF"
+      },
+      "artists": [
+        {
+          "name": "Dilly Chris",
+          "url": "https://open.spotify.com/artist/4i64HQ9GlvR0UV5PHWqJDm"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182230,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/09Faxw38GtiUwvDbak3Dqj"
+    },
+    {
+      "album": {
         "name": "Multi-Perspective",
         "url": "https://open.spotify.com/album/10NMkMZJqAyaUsciayemcU"
       },
@@ -14256,6 +14318,24 @@
       "duration_ms": 191176,
       "name": "Come to Me (Nana Ooh)",
       "url": "https://open.spotify.com/track/25g9XQZcDOeMEo9BIdoUPj"
+    },
+    {
+      "album": {
+        "name": "COME WIT ME",
+        "url": "https://open.spotify.com/album/3yoB87mEKhczuE0bBb8KWD"
+      },
+      "artists": [
+        {
+          "name": "Kameron Hunter",
+          "url": "https://open.spotify.com/artist/0eMyz8SkuWmCVVvSirRPvd"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "COME WIT ME",
+      "url": "https://open.spotify.com/track/03X6Zm8KXeuChMM6PZPFm2"
     },
     {
       "album": {
@@ -16171,6 +16251,28 @@
     },
     {
       "album": {
+        "name": "D1 or Die",
+        "url": "https://open.spotify.com/album/3UIosBJLcAiRJ8h1yHYcoC"
+      },
+      "artists": [
+        {
+          "name": "Babygrande",
+          "url": "https://open.spotify.com/artist/7mrid6JgSCpgIYsZ4QjB1u"
+        },
+        {
+          "name": "Chaz Wilson",
+          "url": "https://open.spotify.com/artist/7HQFtmbMWSGSpf1z6dq6lM"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "D1 or Die",
+      "url": "https://open.spotify.com/track/13dVpMK0XHG4kSXo7baOKy"
+    },
+    {
+      "album": {
         "name": "Daddy's Little Girl",
         "url": "https://open.spotify.com/album/3XGgLQIQRUvPQXoOkkeJjq"
       },
@@ -17648,7 +17750,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 140759,
       "name": "Devil's Coming Down",
       "url": "https://open.spotify.com/track/6eO2tZDDukppubY2Ry4gqI"
@@ -22838,7 +22940,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 120855,
       "name": "far from home",
       "url": "https://open.spotify.com/track/6budMzVDaCKNMVDJ1fSwEa"
@@ -31715,6 +31817,24 @@
     },
     {
       "album": {
+        "name": "Hope We Get Caught",
+        "url": "https://open.spotify.com/album/597pETiFhDsrS5C5ji8dn2"
+      },
+      "artists": [
+        {
+          "name": "Austin Coven",
+          "url": "https://open.spotify.com/artist/2ke3PRM6zOT95YBnDqMQuS"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165405,
+      "name": "Hope We Get Caught",
+      "url": "https://open.spotify.com/track/1BFlS8wMtaxdOjFWoLhGWv"
+    },
+    {
+      "album": {
         "name": "It's Different Now",
         "url": "https://open.spotify.com/album/1e41DPRgxbxSqFpPzAAtX3"
       },
@@ -38770,7 +38890,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 217868,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/20hFT93NB2fI5aYPHVSQZL"
@@ -39450,7 +39570,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 231500,
       "name": "Leave On",
       "url": "https://open.spotify.com/track/3cW5hkEti7bgrHGHrlEgkI"
@@ -40230,6 +40350,24 @@
       "duration_ms": 248936,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/2xyLXWXUEmV7c6Kxr5Kq7G"
+    },
+    {
+      "album": {
+        "name": "LET'S TALK",
+        "url": "https://open.spotify.com/album/482QEaskIJHzTLErCTDsVF"
+      },
+      "artists": [
+        {
+          "name": "AGON",
+          "url": "https://open.spotify.com/artist/7ekkWpaENoJp9DD9P92D0C"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197034,
+      "name": "LET'S TALK",
+      "url": "https://open.spotify.com/track/4k4nsdOSOHkHcpU6fCsK2K"
     },
     {
       "album": {
@@ -47181,6 +47319,24 @@
     },
     {
       "album": {
+        "name": "MOTTO",
+        "url": "https://open.spotify.com/album/0mrajgMs0nIQwJcg91vBT0"
+      },
+      "artists": [
+        {
+          "name": "Koku Gonza",
+          "url": "https://open.spotify.com/artist/6L7vvTypQdxcHWxXOTwGX8"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195674,
+      "name": "MOTTO",
+      "url": "https://open.spotify.com/track/5RtlW5McSwUpjgUn23MwVY"
+    },
+    {
+      "album": {
         "name": "mountains",
         "url": "https://open.spotify.com/album/3G1Pyr1IdD154YSSuWS7Dy"
       },
@@ -50917,6 +51073,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/2F5qPNipWof3MHpmLWY3FG"
+      },
+      "artists": [
+        {
+          "name": "As Is",
+          "url": "https://open.spotify.com/artist/3kCaOfJgiMuDKOPkzJL3aI"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186517,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6HBmHmKx6oWCEYLMvefeTL"
+    },
+    {
+      "album": {
         "name": "Poor Things (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
       },
@@ -52476,7 +52650,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 151058,
       "name": "Open",
       "url": "https://open.spotify.com/track/14sDCw3S0JDCZ4XaBoU1D2"
@@ -60566,7 +60740,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 212413,
       "name": "Scalpel",
       "url": "https://open.spotify.com/track/7mFWc6rj6yK6usjPxX2ZAU"
@@ -61743,6 +61917,24 @@
     },
     {
       "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/43JS6KAH7JxFnosqwJbRMW"
+      },
+      "artists": [
+        {
+          "name": "Villaboyscottie",
+          "url": "https://open.spotify.com/artist/22vLwzKq6QkWH73t1dgSFP"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108482,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/6PcWLVR7L4NDF0v0Wa0T73"
+    },
+    {
+      "album": {
         "name": "Neon Masquerade",
         "url": "https://open.spotify.com/album/4YoACkGeStXjDfyi5N4n5J"
       },
@@ -62024,6 +62216,24 @@
       "duration_ms": 243500,
       "name": "Show Yourself",
       "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
+    },
+    {
+      "album": {
+        "name": "Showing Off",
+        "url": "https://open.spotify.com/album/3XiLCrQdoq39YYJstfeklz"
+      },
+      "artists": [
+        {
+          "name": "Kostandino",
+          "url": "https://open.spotify.com/artist/0BaPCHvfHaThF8nhfvEAzF"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Showing Off",
+      "url": "https://open.spotify.com/track/5baDKmhhPVbR0tg2s16eMX"
     },
     {
       "album": {
@@ -63156,7 +63366,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 275211,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2dWMMEMVjmUsJuE3xJjclG"
@@ -66648,7 +66858,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 109450,
       "name": "Sun Rays (Son Raised)",
       "url": "https://open.spotify.com/track/3KAUlOwEePgGvqf4yGBhRd"
@@ -71398,7 +71608,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 173990,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"
@@ -75172,7 +75382,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 145929,
       "name": "Vino Tinto",
       "url": "https://open.spotify.com/track/5GCES0FQl88dw4xwcRaVOt"
@@ -79241,6 +79451,24 @@
     },
     {
       "album": {
+        "name": "WITHOUT YOU NOW",
+        "url": "https://open.spotify.com/album/0teP9gctNnOity9qMXuvJv"
+      },
+      "artists": [
+        {
+          "name": "DTM",
+          "url": "https://open.spotify.com/artist/05VAkGXiGK3CKqUKJx5wnC"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178737,
+      "name": "WITHOUT YOU NOW",
+      "url": "https://open.spotify.com/track/5y0AyjmU7FXnFt40VYsFnJ"
+    },
+    {
+      "album": {
         "name": "The Good EP",
         "url": "https://open.spotify.com/album/1CIplEZjhaq47j3fgyVfzc"
       },
@@ -80398,7 +80626,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 137001,
       "name": "You + Me",
       "url": "https://open.spotify.com/track/5RNlGFKrQJyjTyEjbi9zaR"

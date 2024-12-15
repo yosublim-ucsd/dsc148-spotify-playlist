@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=Y7OwrawoQVySjB7PmnUgAA">Maglera Doe Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,473 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,565 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 7 | [Abekho](https://open.spotify.com/track/5vFPf6w2Cg3H42opIDSWfT) | [Sonwabile](https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Iphi](https://open.spotify.com/album/1bMf2JsG6oF62MWPMIIlTM) | 2:40 |
 | 8 | [NUMBER 1](https://open.spotify.com/track/4wR7A0Bl1CjblrAFudmr64) | [Skatle](https://open.spotify.com/artist/34tueLJCJdZWicSpnlh1T2), [GVNT](https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [C\-SIDE BOYZ](https://open.spotify.com/artist/4PPK6oFQ6pWAKcrRZV1GM4) | [SS2](https://open.spotify.com/album/6nGmJSBElGyi5faR41AAJE) | 2:44 |
 | 9 | [Top Of The Top](https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Our Father](https://open.spotify.com/album/3aeEohCjAUzigyPUfi75Dq) | 3:12 |
-| 10 | [WAKE UP](https://open.spotify.com/track/3eXZYQACH34Rs319fgg5t4) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [WAKE UP](https://open.spotify.com/album/0pJ0x2FoR19jgfqu6TaUTo) | 2:36 |
+| 10 | [WAKE UP](https://open.spotify.com/track/3eXZYQACH34Rs319fgg5t4) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [WAKE UP](https://open.spotify.com/album/0pJ0x2FoR19jgfqu6TaUTo) | 2:36 |
 | 11 | [Kele Hampe](https://open.spotify.com/track/5TonGmNvzkRDCDOc0S49ZO) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0) | [Kele Hampe](https://open.spotify.com/album/7wR0kz0ZVvo4nlw3sP6oCg) | 2:36 |
 | 12 | [Frostana \(feat\. Jay Jody\)](https://open.spotify.com/track/0XRyp6IcvwufaD4HjD9BpZ) | [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Frostana \(feat\. Jay Jody\)](https://open.spotify.com/album/5EJQR9Um3irQYdRT7xiAWk) | 3:34 |
 | 13 | [Win Win \(feat\. KindlyNxsh & Frank Casino\)](https://open.spotify.com/track/4x7THs0jwHJTjhbyFVRSuq) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x) | [NFH: The Mixtape](https://open.spotify.com/album/2ykeThsBr2GJjdoGNmwjbx) | 3:37 |

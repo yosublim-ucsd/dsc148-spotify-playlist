@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lau Heung King
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,761 likes - 113 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,766 likes - 113 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

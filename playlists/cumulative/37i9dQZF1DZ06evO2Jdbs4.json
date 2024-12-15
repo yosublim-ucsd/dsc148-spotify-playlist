@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Se Ve Linda",
+        "url": "https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Se Ve Linda",
+      "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"
+    },
+    {
+      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-669 songs - 2 day 17 hr 34 min
+670 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Fading](https://open.spotify.com/track/0BjH7OEBTqqqjX03iBhErp) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Fading](https://open.spotify.com/album/52BqwuUYV9KTvX1jStO5Y9) | 3:30 | 2021-10-10 | 2022-07-25 |
 | [Fading Time](https://open.spotify.com/track/3zx3EZWy77gcFSHKi1JsID) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Fading Time](https://open.spotify.com/album/0pblXGAsI7dUWAei182NvX) | 7:19 | 2020-09-19 | 2020-11-14 |
 | [Fairytale \- Radio Edit](https://open.spotify.com/track/3WXPhg7PtSheH2ZYzWBKTu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fairytale](https://open.spotify.com/album/1rVQFmcx7jkCkTeVby9j7k) | 2:58 | 2020-01-01 | 2020-01-03 |
+| [Fairytale of Berlin](https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Fairytale of Berlin](https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB) | 5:02 | 2024-12-13 |  |
 | [Fallin \- Giorgia Angiuli & SQU4RE Remix](https://open.spotify.com/track/0XxdZryMMkmoVExrUNpfFM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb) | [Fallin](https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo) | 8:53 | 2021-01-09 | 2022-05-11 |
 | [Falling](https://open.spotify.com/track/1u07aInE0YbotTqwvct90R) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Falling](https://open.spotify.com/album/79LUBKzBOTvjpbiG8VyPM8) | 5:07 | 2023-11-11 | 2023-11-16 |
 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 | 2020-12-05 | 2023-04-06 |
@@ -502,7 +503,7 @@
 | [Serene](https://open.spotify.com/track/1dcf0QKivMDYgnZSWoMQht) | [Austrek](https://open.spotify.com/artist/5o9ehF7eb3bPeKdf4LXUmz) | [Serene](https://open.spotify.com/album/1zRJ5Q0nj2yAuQoyvCDE2S) | 6:08 | 2019-09-19 | 2020-04-05 |
 | [Set to Glow \- Miyagi Remix](https://open.spotify.com/track/4jrNWxMrhWuLRONHxl7jwi) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc), [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Set to Glow Remixes](https://open.spotify.com/album/5rkmbztHuzzyejMTbRJ2ey) | 7:30 | 2020-03-30 | 2020-07-31 |
 | [Shades](https://open.spotify.com/track/5xLW8Ct1MuMTFQMUhlGzAW) | [Fur Coat](https://open.spotify.com/artist/26J5ZprV3p7jv4fHTmpXsB) | [Polyphony](https://open.spotify.com/album/0V5Uf2RwJbyJVqvaM2QxXP) | 6:52 | 2020-11-03 | 2021-01-15 |
-| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 |  |
+| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 | 2024-12-15 |
 | [Shipwreck](https://open.spotify.com/track/0gNfWEUXLlkH73wDzMCzBx) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck](https://open.spotify.com/album/1xUmLruPIKpNE3DzRjAUv4) | 4:03 | 2020-06-29 | 2022-04-21 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2022-07-08 | 2022-10-08 |
 | [Shout](https://open.spotify.com/track/22ZKJNtawShU4ZnhJrcTWw) | [Qplex](https://open.spotify.com/artist/6jzKbs2y3hrAeiM5frPVbY) | [Shout EP](https://open.spotify.com/album/7xwHiWuo5BG4EbYrKBATmG) | 6:01 | 2020-02-22 | 2021-03-19 |

@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Ecos del Llano",
+        "url": "https://open.spotify.com/album/1DyxBZDqwHfHScePM56zE7"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178386,
+      "name": "Begin The Beguine - Versi\u00f3n Alternativa",
+      "url": "https://open.spotify.com/track/5b0sXfcHJQESX3cqzNlS1C"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de los Indios Tabajaras",
         "url": "https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 178386,
       "name": "Beguin The Beguin",
       "url": "https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5"
@@ -1537,7 +1555,7 @@
         },
         {
           "name": "Mario Lanza",
-          "url": "https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL"
+          "url": "https://open.spotify.com/artist/6yMT0qrnRJGfGMhaTvqEs0"
         },
         {
           "name": "Constantine Callinicos",
@@ -4753,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ"
+      },
+      "artists": [
+        {
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "One Summer Night",
+      "url": "https://open.spotify.com/track/5KRqJROO01v6gJYBiI8eZF"
+    },
+    {
+      "album": {
         "name": "The Myth of The Diamonds",
         "url": "https://open.spotify.com/album/4YlrbJHizQisgviuWuuUPd"
       },
@@ -4782,7 +4818,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 153466,
       "name": "One Summer Night",
       "url": "https://open.spotify.com/track/1jYcO0S7Ix5t4UInpifPZP"
@@ -8225,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/0ifAn9LEzZezePNs0KGT8A"
+      },
+      "artists": [
+        {
+          "name": "Glen Porter",
+          "url": "https://open.spotify.com/artist/6Iuyxid73G505WDnHEBPup"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/3bIwAXfM99wdms6GICC7ej"
+    },
+    {
+      "album": {
         "name": "Simply Engelbert - Classic Love Songs and Ballads",
         "url": "https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU"
       },
@@ -8236,7 +8290,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 218413,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A"

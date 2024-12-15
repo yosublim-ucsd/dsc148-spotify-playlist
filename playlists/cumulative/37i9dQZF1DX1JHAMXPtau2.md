@@ -4,7 +4,7 @@
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-45 songs - 2 hr 3 min
+46 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2023-11-17 |  |
 | [Rockin Around the Christmas Tree \- Cover](https://open.spotify.com/track/6Cx34TJ6sWuyaCMbdTtHZc) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Rockin Around the Christmas Tree \(Cover\)](https://open.spotify.com/album/047Jsj8cPsf6bwDQzG42QY) | 2:24 | 2024-12-12 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2023-11-17 |  |
+| [Silent Jazz Night](https://open.spotify.com/track/13iIClj8QbmMdfeNInI5Cr) | [Ronald Alan Mendelsohn](https://open.spotify.com/artist/0jiVxUC2p4N69pPxqdZS30) | [Silent Jazz Night](https://open.spotify.com/album/0C6ktaMn7c1JugmYplfR04) | 2:50 | 2024-12-13 |  |
 | [The Christmas Song](https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [The Christmas Song](https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN) | 3:26 | 2023-11-17 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/4IYUcv0cXUMvOi3gbQrpy5) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [The Christmas Waltz](https://open.spotify.com/album/5xNbnlyxNxH0aswKNA9tlZ) | 2:38 | 2023-11-17 |  |
 | [The First Noel](https://open.spotify.com/track/1qPkYfDLOTqA6bVAGtwcBR) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [The First Noel](https://open.spotify.com/album/5vH0m4Rmvn4kx15Z5GdL14) | 2:54 | 2023-11-17 |  |

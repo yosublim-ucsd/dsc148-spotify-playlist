@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 560551,
+  "num_followers": 560961,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Rooty",
         "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "It Just Won't Do",
         "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 198000,
       "name": "It Just Won't Do - Radio Edit",
       "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Human After All",
-        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 284280,
-      "name": "Technologic",
-      "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Invaders Must Die",
         "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 295026,
       "name": "Invaders Must Die",
       "url": "https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 284280,
+      "name": "Technologic",
+      "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "La Saga Des Hits",
         "url": "https://open.spotify.com/album/7sImJdd7WylHtF8yCjIvzu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 207613,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 440266,
-      "name": "Becoming Insane",
-      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 440266,
+      "name": "Becoming Insane",
+      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
     },
     {
       "added_at": "2021-04-29 18:40:15",

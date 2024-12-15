@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,621 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,685 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 42 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
 | 43 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
 | 44 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
-| 45 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 |
-| 46 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
+| 45 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
+| 46 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 |
 | 47 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 48 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 |
 | 49 | [Ｂｒｅａｋｉｎｇ　Ａｗａｙ](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 83 | [Before My Time](https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Before My Time](https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b) | 3:01 |
 | 84 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
 | 85 | [Hollywood](https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH) | [LemKuuja](https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX), [ロードスRhodes](https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0) | [CHEESECAKE+](https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO) | 4:19 |
-| 86 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
-| 87 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
+| 86 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
+| 87 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
 | 88 | [VTEC](https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VTEC](https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM) | 4:03 |
 | 89 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
 | 90 | [Disco Soul \- Mr\. Hoosteen's "Disco's Revenge" Mix](https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo) | [Discoholic](https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW), [Mr\. Hoosteen](https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH) | [Disco Soul](https://open.spotify.com/album/52D8ESbEYlQw75nStkEone) | 7:36 |

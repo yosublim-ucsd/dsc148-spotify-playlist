@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 
 > Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 8,061 likes - 93 songs - 5 hr 15 min
+[John Lock](https://open.spotify.com/user/12178106667) - 8,060 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 | 85 | [I See You](https://open.spotify.com/track/5yq19i8dWxy09NaDkHw3dX) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [I See You](https://open.spotify.com/album/6vvNFt4ljAmh3S7VaPfHxM) | 4:15 |
 | 86 | [Air \- Adrian Alexander Remix](https://open.spotify.com/track/6rjPzsge547mX5Tt06Kei1) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [28mm](https://open.spotify.com/artist/6LEIWYneOSdxOQtggLryCs), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6) | [Air \(Remixes\)](https://open.spotify.com/album/3joSTkglWl9BBtqexoPyfJ) | 4:11 |
 | 87 | [Point, Click, Shoot](https://open.spotify.com/track/50bgEzkYYxFmkODQLkKFKB) | [Cyber Marionette](https://open.spotify.com/artist/07v3f6nZpYu8YciSTwlkhu), [SUNNY](https://open.spotify.com/artist/7cEXldLNZBw9ZtQmnET950), [Ssum](https://open.spotify.com/artist/5kXO3z5NxuDRBVfJPH3r1H) | [Point, Click, Shoot](https://open.spotify.com/album/2m9CGdwp2pljrjmBT3gpfY) | 1:45 |
-| 88 | [shade \(Feat\. STEEPY\)](https://open.spotify.com/track/50Y3C25NffeTJlkBQQ6hgK) | [So91](https://open.spotify.com/artist/30krO6XqMGEoSTqxq4x39R), [STEEPY](https://open.spotify.com/artist/6dpZEt8zoRWsBJJO1gb9HA) | [shade \(Feat\. STEEPY\)](https://open.spotify.com/album/3IPeYw6jNssUWVG60iBowa) | 2:57 |
+| 88 | [shade \(Feat\. STEEPY\)](https://open.spotify.com/track/50Y3C25NffeTJlkBQQ6hgK) | [소띠 \(Soddi\)](https://open.spotify.com/artist/7w8CDjkJVWTrKrwJVEUhRe), [STEEPY](https://open.spotify.com/artist/6dpZEt8zoRWsBJJO1gb9HA) | [shade \(Feat\. STEEPY\)](https://open.spotify.com/album/3IPeYw6jNssUWVG60iBowa) | 2:57 |
 | 89 | [NO $AFE ZONE](https://open.spotify.com/track/138l5gHQFOnqBn4WEVp7fz) | [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [Shadow](https://open.spotify.com/album/1tSFcN0PrOBFjuM8ea5X9K) | 2:58 |
 | 90 | [Alongside](https://open.spotify.com/track/0xPYxODygdRubFURpKWd7o) | [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [Alongside](https://open.spotify.com/album/1AacXbacTcwVLpEoLvDMEZ) | 6:54 |
 | 91 | [Never Enough \- Rokazer Remix](https://open.spotify.com/track/4ifLH5qx9sIvkh3MOccS9Y) | [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH), [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Never Enough \(Rokazer Remix\)](https://open.spotify.com/album/12xMolGQXqcch5UxpylQQR) | 4:46 |

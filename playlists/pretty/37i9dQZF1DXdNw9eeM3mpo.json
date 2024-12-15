@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 471339,
+  "num_followers": 471392,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 186678,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -759,22 +763,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "El \u00daltimo Ska",
-        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Traka Traka",
-        "url": "https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Los Tulipanes",
-          "url": "https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 185620,
-      "name": "Traka Traka",
-      "url": "https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP"
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1147,22 +1143,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Traka Traka",
+        "url": "https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Los Tulipanes",
+          "url": "https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "Traka Traka",
+      "url": "https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP"
     },
     {
       "added_at": "2024-11-29 06:00:00",

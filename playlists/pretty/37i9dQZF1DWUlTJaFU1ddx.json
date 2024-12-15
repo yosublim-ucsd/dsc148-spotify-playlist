@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 29257,
+  "num_followers": 29275,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "\u0623\u0648\u0642\u0627\u062a",
-        "url": "https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB"
-      },
-      "artists": [
-        {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        }
-      ],
-      "duration_ms": 222900,
-      "name": "\u0623\u0648\u0642\u0627\u062a",
-      "url": "https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
         "name": "Coke Studio India Season 3: Episode 1",
         "url": "https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 432893,
       "name": "Zariya",
       "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
+        "name": "\u0623\u0648\u0642\u0627\u062a",
+        "url": "https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "duration_ms": 222900,
+      "name": "\u0623\u0648\u0642\u0627\u062a",
+      "url": "https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
+        "name": "Mn Gheirik Enti",
+        "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Mn Gheirik Enti",
+      "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 298823,
       "name": "Tmaneet Ashofak",
       "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
-        "name": "Mn Gheirik Enti",
-        "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Mn Gheirik Enti",
-      "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
     },
     {
       "added_at": "2024-12-12 07:53:00",

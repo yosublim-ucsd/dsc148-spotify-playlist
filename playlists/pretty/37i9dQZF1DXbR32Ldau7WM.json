@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Ichika Nito",
-  "num_followers": 290951,
+  "num_followers": 290985,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "\u521d\u590f",
-        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "\u521d\u590f",
-      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
         "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
         "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
+        "name": "\u521d\u590f",
+        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "\u521d\u590f",
+      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
     },
     {
       "added_at": "2024-12-10 15:21:50",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "\u30e9\u30e0\u30cd",
-        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 222713,
-      "name": "\u30e9\u30e0\u30cd",
-      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
         "name": "BRING YOUR BOARD!!",
         "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
+        "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 222713,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
     },
     {
       "added_at": "2024-12-10 15:21:50",
@@ -1387,22 +1403,6 @@
       "duration_ms": 246223,
       "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2024-12-10 15:21:50",

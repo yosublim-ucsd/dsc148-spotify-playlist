@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 357292,
+  "num_followers": 357301,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 175293,
       "name": "COME UN TUONO (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195144,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Sotto una pioggia di parole",
-        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Per dimenticare",
-      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Sinceramente",
         "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Sotto una pioggia di parole",
+        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Per dimenticare",
+      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "I Don't Feel Like Dancin'",
+        "url": "https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "I Don't Feel Like Dancin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1547,18 +1563,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "I Don't Feel Like Dancin'",
-        "url": "https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
       "artists": [
         {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 248640,
-      "name": "I Don't Feel Like Dancin' - Radio Edit",
-      "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
+      "duration_ms": 195657,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1587,42 +1607,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 203872,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 207615,
       "name": "Un Briciolo Di Allegria (con MINA)",
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Fuori dall'Hype Ringo Starr",
-        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Ringo Starr",
-      "url": "https://open.spotify.com/track/5yfE6GXTuJaAlepKoE0wJE"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Libert\u00e0",
         "url": "https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Fuori dall'Hype Ringo Starr",
+        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Ringo Starr",
+      "url": "https://open.spotify.com/track/5yfE6GXTuJaAlepKoE0wJE"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Blunt",
+        "url": "https://open.spotify.com/album/1n9hTVqJjHQKg4bsOLU1Cx"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Blunt",
+      "url": "https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v"
+    },
+    {
+      "album": {
         "name": "Borracha De Amor",
         "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
       },

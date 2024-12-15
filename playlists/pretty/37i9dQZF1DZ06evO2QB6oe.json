@@ -1,6 +1,6 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 66841,
+  "num_followers": 66866,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Vibration - Vol. 1",
-        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Vibration - Vol. 1",
+        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
     },
     {
       "added_at": null,

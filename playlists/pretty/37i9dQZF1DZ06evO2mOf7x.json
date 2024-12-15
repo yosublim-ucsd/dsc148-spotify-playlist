@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44671,
+  "num_followers": 44674,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAADEisYpeAcmH7cXnCao9P6n",
+  "snapshot_id": "Z1t5AAAAAAA6/TM0joptccuoC7XNuyos",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,

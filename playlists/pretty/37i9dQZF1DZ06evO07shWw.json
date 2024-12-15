@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAD7k8cl3mtKXD0VyuRgVJBQ",
+  "snapshot_id": "Z1t5AAAAAADG9BSvWe8tht75kHFrPa3a",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Comeback (Deluxe)",
-        "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
+        "name": "Lady Like (Deluxe)",
+        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },
       "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 193561,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
+      "duration_ms": 190200,
+      "name": "Feeling Things",
+      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
     },
     {
       "added_at": null,
@@ -247,6 +243,26 @@
       "duration_ms": 192493,
       "name": "We're Not Friends",
       "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Comeback (Deluxe)",
+        "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 193561,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like (Deluxe)",
-        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Feeling Things",
-      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
     },
     {
       "added_at": null,
@@ -411,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 215787,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -463,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 215787,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 174034,
       "name": "How Honest Do You Want Me To Be?",
       "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/2BJTwF42ARiW2RQWyDgoLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| SoundCloud mix series: Bassline Therapy Radio
 
-444 songs - 23 hr 17 min
+447 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Heaven](https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Heaven](https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv) | 2:33 | 2024-12-09 |  |
 | [Here For You](https://open.spotify.com/track/24tcbw5ILTAGbGrR70vuHi) | [DAN:ROS](https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa) | [Here For You](https://open.spotify.com/album/2DszB0kwntErOqQFsjzTw0) | 2:04 | 2024-01-21 | 2024-02-06 |
 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 | 2024-09-27 | 2024-11-05 |
+| [High & On The Run](https://open.spotify.com/track/0W3QnTHk9HoLrcT0fn4436) | [MARDI MAYHEM](https://open.spotify.com/artist/2kTocVbn1xWvkv3nz49466) | [High & On The Run](https://open.spotify.com/album/1xDzsNJQHF9F4fWLyWD8ef) | 2:43 | 2024-12-14 |  |
 | [Hit The Floor](https://open.spotify.com/track/6lAs6I5E4seFitCEwLOIDs) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 3:05 | 2024-10-05 |  |
 | [Hold My Love \(feat\. Piper Byers\) \- CASHEW Remix](https://open.spotify.com/track/5aFDvwmaH5jspqDWdtHmzt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Hold My Love \(feat\. Piper Byers\) \[Remixes\]](https://open.spotify.com/album/55Aw8CtNiuiYVKIcZdyasd) | 2:30 | 2024-10-12 |  |
 | [House Nature](https://open.spotify.com/track/6KaH1agZiXaQohJGE5218k) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [House Nature](https://open.spotify.com/album/24WzF3keJawBTzWWvR601K) | 2:45 | 2024-06-23 | 2024-08-20 |
@@ -265,6 +266,7 @@
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2024-01-08 | 2024-01-22 |
 | [Never Come Back](https://open.spotify.com/track/23KpF7IQWQmsCa2nsn3Fv2) | [Umbree](https://open.spotify.com/artist/2LbJZpMk21KtMBkCiHcJug) | [Never Come Back](https://open.spotify.com/album/6LvjqPqaGeK3ixZmgFydeJ) | 2:45 | 2024-01-08 | 2024-01-22 |
 | [Never Us \- BYOR Remix](https://open.spotify.com/track/5yYMcLmvNXFSCdVtHgEI5d) | [Menew](https://open.spotify.com/artist/5Y68Dd9lWKLEZv2b4IhnVL), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Never Us \- BYOR Remix](https://open.spotify.com/album/4V0gFk2glr4YUZSW2GOEKg) | 2:40 | 2024-08-19 | 2024-10-06 |
+| [New Phone Who Dis \- Radio Edit](https://open.spotify.com/track/3L5o1q53CWdysoC3Y8eXlT) | [Jvck Mormon](https://open.spotify.com/artist/5duM6kBaOa8gkrtS7xcOW1) | [New Phone Who Dis](https://open.spotify.com/album/09RCYjzbzingRBkYWGA5fd) | 3:00 | 2024-12-14 |  |
 | [NNTS](https://open.spotify.com/track/4sOHlTI0wJCjwlZaZHOdoG) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [NNTS](https://open.spotify.com/album/6IiM3S96ZnWUPAXx9ue2KT) | 2:29 | 2024-06-23 | 2024-08-20 |
 | [No Focus \- Radio Edit](https://open.spotify.com/track/5kGJmUoQyFG5XjbPkzfd8v) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [No Focus](https://open.spotify.com/album/727Lb4kUgtbj9Ny2XftVrl) | 2:38 | 2024-02-05 | 2024-06-24 |
 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 | 2024-01-15 | 2024-01-30 |
@@ -383,6 +385,7 @@
 | [Tesla](https://open.spotify.com/track/4v5gQ9AcTVVsIpPkS9OaDq) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Maxmillion](https://open.spotify.com/artist/3Swlqbun5ENqlTL8HI2dyM) | [Tesla](https://open.spotify.com/album/38tkDeMUQy1ZvnEGGXaW2J) | 2:49 | 2024-06-23 | 2024-08-20 |
 | [That Smoke](https://open.spotify.com/track/13aCZP9e5VctXLlmtWTEb5) | [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM), [Chuck Shadow](https://open.spotify.com/artist/0plb6fI8MnpTQAM0UDamB3), [Mr\. Fredo](https://open.spotify.com/artist/5WbzHStOs7a5DdQGP2KTnI) | [Blow Your Mind](https://open.spotify.com/album/5HGlhlqrjPPUoPJZhHbO7u) | 3:04 | 2023-12-31 | 2024-01-09 |
 | [The Alchemist \- Burko Remix](https://open.spotify.com/track/7C4qEi8RjY9GkGT72BLYPD) | [KARMÅ](https://open.spotify.com/artist/68wToUbLTGUo7CdzSll22h), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [The Alchemist \(Burko Remix\)](https://open.spotify.com/album/4qg8OSVeEfLYi8q51HqMEj) | 4:08 | 2024-10-20 |  |
+| [The Cat](https://open.spotify.com/track/6mp0k2ECsL1lRzCyNyjF66) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [The Cat](https://open.spotify.com/album/447lDXEjq8LdP83LKQ36On) | 2:00 | 2024-12-14 |  |
 | [The Chillin](https://open.spotify.com/track/6Qq5N8hCU5uyXfZzAUfW04) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [The Chillin](https://open.spotify.com/album/3EBd2NbygikDDzcv1dZoYX) | 2:20 | 2024-02-05 | 2024-06-24 |
 | [The Climb](https://open.spotify.com/track/7GSjImVncKoQdfSaRuJA5O) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Climb](https://open.spotify.com/album/4E1ZlybMwsR1RDGZgo8SNd) | 3:21 | 2024-10-15 | 2024-10-21 |
 | [The Dance](https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [SGT\. Pokes](https://open.spotify.com/artist/2mdpTpHF9cGaSSrtoLwIZr) | [The Dance](https://open.spotify.com/album/5ug5gS7iYFoEMTvdcu3tAr) | 2:55 | 2024-02-17 | 2024-06-24 |

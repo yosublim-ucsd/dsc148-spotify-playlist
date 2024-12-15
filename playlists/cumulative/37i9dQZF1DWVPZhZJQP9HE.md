@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-608 songs - 1 day 11 hr 46 min
+609 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Nee Oli](https://open.spotify.com/track/5ZrQwvzjmKWnrG1bKk4t13) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Nee Oli](https://open.spotify.com/album/4aF2eczsQ9eLheYM79lew6) | 3:50 | 2022-12-30 | 2023-07-25 |
 | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/track/6PoOgECgWgrFTYdjj94igE) | [Vandana Mazan](https://open.spotify.com/artist/67snLh57JOf5wtRMBaJwmv) | [Nee Podhum Anbe \(Original Soundtrack\)](https://open.spotify.com/album/4oDpsTrs9f4fsybucaxDKU) | 5:17 | 2022-05-27 | 2022-06-17 |
 | [Nee Yaara Molae](https://open.spotify.com/track/1luxy3SaDVnirLgkKg11V5) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Prince Bii](https://open.spotify.com/artist/53fPFYyYxmwkuhQyZE65rF) | [Nee Yaara Molae](https://open.spotify.com/album/6GPTtTKpa40llzK6TNChgq) | 3:30 | 2023-02-24 | 2023-03-22 |
-| [Need Ya](https://open.spotify.com/track/6JXqDg0Whw7DljE5ZEoojC) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Need Ya](https://open.spotify.com/album/2asFfvtLu5njY0l8nbPTLe) | 2:43 | 2024-11-04 |  |
+| [Need Ya](https://open.spotify.com/track/6JXqDg0Whw7DljE5ZEoojC) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Need Ya](https://open.spotify.com/album/2asFfvtLu5njY0l8nbPTLe) | 2:43 | 2024-11-04 | 2024-12-15 |
 | [Neethan En Rani](https://open.spotify.com/track/7s4NKgq4iSeJKgdpU3jvDX) | [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo) | [Neethan En Rani](https://open.spotify.com/album/3d7lSBg1sEen0tT236axZ0) | 2:58 | 2023-08-04 | 2024-06-14 |
 | [Neethane En Uyrie](https://open.spotify.com/track/4I08zmlnJ9d2c3DZagJ00O) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh), [Jithu Bas](https://open.spotify.com/artist/09p0QBLDVxbrCnxoTnlfjM) | [Neethane En Uyire](https://open.spotify.com/album/5gDEhSAqv578sgKv3xlNPZ) | 5:30 | 2024-11-19 | 2024-12-04 |
 | [Neeya Neeya](https://open.spotify.com/track/57ppMpz7qTjj3FtHxYlloe) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Juvin Jonix](https://open.spotify.com/artist/0Yxtk271vmZRIajIjR1aHv), [Anandita Krishanan](https://open.spotify.com/artist/71y2TPjvA0Am5wCCN52vEN) | [Neeya Neeya](https://open.spotify.com/album/3jo91pT0NEfhdYNtSe9Z5p) | 3:50 | 2022-09-27 | 2022-10-14 |
@@ -602,6 +602,7 @@
 | [Vizhithiraiyile](https://open.spotify.com/track/5STDPvcvF3dqoKO09DBo2s) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Chandramouli Sundar](https://open.spotify.com/artist/39x0OeqEJXdSFSsRBvhoHi) | [Vizhithiraiyile](https://open.spotify.com/album/1Q7mzZZFORxNQlKgPmuqA1) | 3:43 | 2022-11-11 | 2023-02-22 |
 | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/track/5TdCEMpU2BFdnwI3SrSiP7) | [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/album/0gwQFZ5QUyfFVnLhN1Y8qa) | 2:34 | 2022-07-27 | 2023-02-07 |
 | [VUTTALE](https://open.spotify.com/track/1Eg03DYnqqtIKfhTGmKnE8) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [VUTTALE](https://open.spotify.com/album/2gxnP09GC4MmjX4DtXBZY5) | 1:01 | 2023-01-13 | 2023-03-22 |
+| [Washington D.C](https://open.spotify.com/track/0b3jJPDGLmlBLns5awIlf7) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Washington D.C](https://open.spotify.com/album/5AAXNVBDXLfP76XzoqUQZG) | 3:07 | 2024-12-14 |  |
 | [Water Melon](https://open.spotify.com/track/0RZhsdFNZR0DZzwPRU28nW) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed) | [Water Melon](https://open.spotify.com/album/0DGbJhNwB9UJeG1oOSDyvi) | 3:27 | 2022-11-11 | 2023-03-07 |
 | [What A Vadivu](https://open.spotify.com/track/5C6vxne9RiZSnIDP25rrqg) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [What A Vadivu](https://open.spotify.com/album/3yuXK9dHWz4XJR8YQKphk9) | 3:28 | 2023-11-06 |  |
 | [Why Penne](https://open.spotify.com/track/1n6M3gie50BzLiCbvCnZoq) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Why Penne](https://open.spotify.com/album/2bccNae2mooe12VEbnh8hN) | 2:46 | 2024-02-09 | 2024-05-14 |

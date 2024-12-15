@@ -13635,6 +13635,24 @@
     },
     {
       "album": {
+        "name": "Wanna Be Somewhere With You",
+        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220959,
+      "name": "Wanna Be Somewhere With You",
+      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
+    },
+    {
+      "album": {
         "name": "Want U Back",
         "url": "https://open.spotify.com/album/07nreE43d1fK5DvTVpg0v8"
       },

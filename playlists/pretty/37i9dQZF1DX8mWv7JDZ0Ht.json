@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Ana Gabriela",
-  "num_followers": 437145,
+  "num_followers": 437143,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 240000,
       "name": "Me Namora",
       "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "tonteira",
         "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 147812,
       "name": "tonteira",
       "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -947,34 +947,18 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+        "name": "Coisa de Casa",
+        "url": "https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 212946,
+      "name": "Coisa de Casa",
+      "url": "https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Coisa de Casa",
-        "url": "https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ"
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Coisa de Casa",
-      "url": "https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l"
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1043,6 +1027,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
@@ -1187,22 +1171,6 @@
       "duration_ms": 172760,
       "name": "Embeleza o Meu Dia",
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
-        "name": "A Gente Se Acostuma",
-        "url": "https://open.spotify.com/album/2XN3XQ0iGeurRIJBdDG6rM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "A Gente Se Acostuma",
-      "url": "https://open.spotify.com/track/15Kx5YfYgqEY85d2IQwsxJ"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1223,6 +1191,54 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "A Gente Se Acostuma",
+        "url": "https://open.spotify.com/album/2XN3XQ0iGeurRIJBdDG6rM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "A Gente Se Acostuma",
+      "url": "https://open.spotify.com/track/15Kx5YfYgqEY85d2IQwsxJ"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "Fita do Bonfim",
+        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
+      },
+      "artists": [
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        }
+      ],
+      "duration_ms": 205961,
+      "name": "Fita do Bonfim",
+      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Fita do Bonfim",
-        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
+        "name": "Segredos",
+        "url": "https://open.spotify.com/album/1Q1Qx3o5Hrq59roEFhdVvb"
       },
       "artists": [
         {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 205961,
-      "name": "Fita do Bonfim",
-      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
+      "duration_ms": 203840,
+      "name": "Segredos",
+      "url": "https://open.spotify.com/track/53o7KBYpJ1OocjYEWjKkGq"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "Segredos",
-        "url": "https://open.spotify.com/album/1Q1Qx3o5Hrq59roEFhdVvb"
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 203840,
-      "name": "Segredos",
-      "url": "https://open.spotify.com/track/53o7KBYpJ1OocjYEWjKkGq"
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-12-13 03:00:22",
@@ -1699,6 +1699,42 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
+        "name": "Voltei",
+        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        }
+      ],
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
+        "name": "domingo",
+        "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
+      },
+      "artists": [
+        {
+          "name": "nat\u00e1lia carreira",
+          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
+        },
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "domingo",
+      "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
+    },
+    {
+      "added_at": "2024-12-13 03:00:22",
+      "album": {
         "name": "EXCE\u00c7\u00c3O!",
         "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
       },
@@ -1731,26 +1767,6 @@
     {
       "added_at": "2024-12-13 03:00:22",
       "album": {
-        "name": "domingo",
-        "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
-      },
-      "artists": [
-        {
-          "name": "nat\u00e1lia carreira",
-          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
-        },
-        {
-          "name": "saudade",
-          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "domingo",
-      "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
         "name": "Tempo Voa",
         "url": "https://open.spotify.com/album/43ugavm4tgG3EjBnHL0TEZ"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2024-12-13 03:00:22",
-      "album": {
-        "name": "Voltei",
-        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
     }
   ],
   "unique_name": "Pop Leve",

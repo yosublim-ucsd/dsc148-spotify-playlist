@@ -1,33 +1,13 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1010007,
+  "num_followers": 1010281,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAAlMHaqsvNHic6gxfKuT2Sq",
+  "snapshot_id": "Z1t5AAAAAAA9zOdE188KwKy3QCnI9bJT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +23,26 @@
       "duration_ms": 229400,
       "name": "Hubi\u00e9ramos",
       "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 172898,
+      "name": "Tus Verdades (En Vivo)",
+      "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
     },
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
       },
@@ -447,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Amor Como Este",
+        "url": "https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Un Amor Como Este",
+      "url": "https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/6IRG2emg74chPn705U9iXe"
       },
@@ -475,26 +515,6 @@
       "duration_ms": 214067,
       "name": "Deja",
       "url": "https://open.spotify.com/track/0SEZ33FxXz4uxUhwndNN1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Amor Como Este",
-        "url": "https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "Un Amor Como Este",
-      "url": "https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 150724,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 263100,
-      "name": "T\u00fa (En Vivo)",
-      "url": "https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste (En Vivo)",
       "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 263100,
+      "name": "T\u00fa (En Vivo)",
+      "url": "https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Canse de Amarte",
         "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 198294,
       "name": "Me Canse de Amarte",
       "url": "https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
     },
     {
       "added_at": null,
@@ -1019,26 +1039,6 @@
       "duration_ms": 170626,
       "name": "Hasta Que un d\u00eda",
       "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ram\u00f3n Arellano",
-        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 193844,
-      "name": "Ram\u00f3n Arellano",
-      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
     }
   ],
   "unique_name": "This Is Grupo Firme",

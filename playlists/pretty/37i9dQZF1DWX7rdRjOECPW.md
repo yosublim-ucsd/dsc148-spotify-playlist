@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,214 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,122 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 54 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
 | 55 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 56 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 |
-| 57 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 |
+| 57 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
 | 58 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
-| 59 | [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 |
-| 60 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
-| 61 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 |
+| 59 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 |
+| 60 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 |
+| 61 | [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 |
 | 62 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 |
 | 63 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 |
 | 64 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |

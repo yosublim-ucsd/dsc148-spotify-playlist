@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Remi Wolf ",
-  "num_followers": 599227,
+  "num_followers": 599305,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "I'm Your Man",
-      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 303973,
       "name": "Roads",
       "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Billie Toppy",
         "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "So Jealous",
-        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Walking with a Ghost",
-      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "cherry cola / sunburn",
         "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "So Jealous",
+        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Walking with a Ghost",
+      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Your Mother's Name",
         "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "All My Girls Like To Fight",
         "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 180850,
-      "name": "Slugger",
-      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Planes",
         "url": "https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "See you soon",
-        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 218283,
-      "name": "See you soon",
-      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
+      "duration_ms": 180850,
+      "name": "Slugger",
+      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1399,6 +1383,22 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "See you soon",
+        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/5BgoeQzJbjxOc48yH6wPEH"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2024-09-30 17:25:14",

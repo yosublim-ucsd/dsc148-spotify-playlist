@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 254671,
+  "num_followers": 254880,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Diary (Remastered and Expanded Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "Diary (Remastered and Expanded Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Mic City Sons",
-        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
-      },
-      "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Plainclothes Man",
-      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Brighten the Corners",
         "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "Mic City Sons",
+        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
+      },
+      "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Plainclothes Man",
+      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Boys On The Radio",
+      "url": "https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
         "name": "Without a Sound",
         "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+        "name": "Bubble & Scrape",
+        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
         }
       ],
-      "duration_ms": 309600,
-      "name": "Boys On The Radio",
-      "url": "https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug"
+      "duration_ms": 226600,
+      "name": "Soul And Fire",
+      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1611,22 +1627,6 @@
       "duration_ms": 250331,
       "name": "Get Back Again",
       "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
-        "name": "Bubble & Scrape",
-        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Soul And Fire",
-      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
     }
   ],
   "unique_name": "Thrifted",

@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-272 songs - 17 hr 17 min
+273 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bossa Nova U.S.A.](https://open.spotify.com/track/4uDOJaEKr2MoeuIjgXM5kf) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Time Signatures: A Career Retrospective](https://open.spotify.com/album/2B0aj8t5forzWzPqt0EzQs) | 2:24 | 2022-09-01 | 2023-01-14 |
 | [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2022-12-01 |  |
 | [Brisa do Mar](https://open.spotify.com/track/7DlsAi4CP4GfDfvGRS6V5e) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Brisa do Mar](https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5) | 3:26 | 2023-01-26 |  |
+| [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 |  |
 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 | 2022-06-28 | 2024-04-19 |
 | [Call Me](https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 4:10 | 2022-05-13 |  |
 | [Call on me softly](https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Call on me softly](https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J) | 3:27 | 2024-03-08 |  |
@@ -214,7 +215,7 @@
 | [Saudade](https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Saudade](https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu) | 2:40 | 2023-10-25 |  |
 | [Scintilla](https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Scintilla](https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP) | 2:34 | 2023-06-13 |  |
 | [Seu Sorriso](https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Seu Sorriso](https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs) | 3:06 | 2023-12-08 |  |
-| [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 | 2023-09-22 |  |
+| [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 | 2023-09-22 | 2024-12-15 |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-06-13 |  |
 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 | 2022-05-13 |  |
 | [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 | 2022-06-28 | 2024-04-19 |

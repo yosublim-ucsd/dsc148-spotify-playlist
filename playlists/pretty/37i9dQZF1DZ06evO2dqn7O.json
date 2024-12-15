@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAC65MAUAuwyGgCdCYujkGXZ",
+  "snapshot_id": "Z1t5AAAAAABddYmRL1UCgVhHV8G0Amyl",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 350920,
-      "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "I'm Not Really Here",
-      "url": "https://open.spotify.com/track/2CxUw9KnY5VHugLbBZiCAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astronomical",
         "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 153957,
       "name": "Razor's Edge (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "I'm Not Really Here",
+      "url": "https://open.spotify.com/track/2CxUw9KnY5VHugLbBZiCAF"
     },
     {
       "added_at": null,

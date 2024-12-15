@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,643 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,645 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,703 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,770 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 29 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
 | 30 | [La Vida Es un Rap](https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [La Ultima y Me Voy](https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS) | 3:51 |
 | 31 | [La Noche de los Poetas Muertos \(feat\. Lirika Inverza\)](https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv), [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Demencia](https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G) | 4:22 |
-| 32 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
-| 33 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 |
+| 32 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 |
+| 33 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
 | 34 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 35 | [No Podría Estar Mejor](https://open.spotify.com/track/1x1ixNnjqwTtxhok29eanv) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [No Podría Estar Mejor](https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7) | 3:05 |
 | 36 | [Tu](https://open.spotify.com/track/6nq4eEHLFFvTA2Q1LuHdJK) | [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8) | [Tu \(feat\. Sekreto\) \- Single](https://open.spotify.com/album/5QbGSUzwsr6TE6LcEwG7be) | 4:20 |

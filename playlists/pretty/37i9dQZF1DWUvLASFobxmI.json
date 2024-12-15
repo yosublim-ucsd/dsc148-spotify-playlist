@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Enigma Norte\u00f1o en portada.",
-  "num_followers": 490038,
+  "num_followers": 490101,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "PARIENTON",
         "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 149265,
       "name": "PARIENTON",
       "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Me Cuesta",
-        "url": "https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Me Cuesta",
-      "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Ya Pedo Qui\u00e9n Sabe",
         "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 191284,
       "name": "Ya Pedo Qui\u00e9n Sabe",
       "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Me Cuesta",
+        "url": "https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Me Cuesta",
+      "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Paz en Este Amor",
         "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
+        "name": "Dif\u00edcil De Creer",
+        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 160992,
-      "name": "Lo Que Yo Necesitaba",
-      "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
+      "duration_ms": 168736,
+      "name": "Dif\u00edcil De Creer",
+      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Dif\u00edcil De Creer",
-        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 168736,
-      "name": "Dif\u00edcil De Creer",
-      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
+      "duration_ms": 160992,
+      "name": "Lo Que Yo Necesitaba",
+      "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Y Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 235230,
       "name": "Y Te Vas (En Vivo)",
       "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Pel\u00edculas de Miedo",
+        "url": "https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm"
+      },
+      "artists": [
+        {
+          "name": "Los HH",
+          "url": "https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Pel\u00edculas de Miedo",
+      "url": "https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Bailando (Live)",
         "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 235711,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Pel\u00edculas de Miedo",
-        "url": "https://open.spotify.com/album/33J7kk6CE2Y15WV4l1Ryvm"
-      },
-      "artists": [
-        {
-          "name": "Los HH",
-          "url": "https://open.spotify.com/artist/2W81ZrVzhbOmp0l1I5U43w"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Pel\u00edculas de Miedo",
-      "url": "https://open.spotify.com/track/6AG3OFUzMGbvuXvCeNprVn"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "TE AMAR\u00c9",
+        "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "LLEGASTE TARDE",
+      "url": "https://open.spotify.com/track/1vKtJwUH1OWqIP5DeyCpnf"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/46w51YChIRBEqbzXafWcol"
       },
@@ -2127,18 +2143,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "TE AMAR\u00c9",
-        "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/1bxFCFSq2Z4EScg7ACahEA"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 222400,
-      "name": "LLEGASTE TARDE",
-      "url": "https://open.spotify.com/track/1vKtJwUH1OWqIP5DeyCpnf"
+      "duration_ms": 135813,
+      "name": "Fuera De Serie",
+      "url": "https://open.spotify.com/track/3rAW7i1PrBsrY1q2Wb4JgM"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -2159,22 +2175,6 @@
       "duration_ms": 195375,
       "name": "VESTIDO COMO MINISTERIAL",
       "url": "https://open.spotify.com/track/0IK5oo3djc0FTtdpjknAXn"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/1bxFCFSq2Z4EScg7ACahEA"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Fuera De Serie",
-      "url": "https://open.spotify.com/track/3rAW7i1PrBsrY1q2Wb4JgM"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+        "name": "Modus Operandi - Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+      "duration_ms": 187327,
+      "name": "Obsesi\u00f3n - Alternate Version",
+      "url": "https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju"
     }
   ],
   "unique_name": "Norte\u00f1o 2024",

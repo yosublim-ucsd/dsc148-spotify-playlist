@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 203699,
+  "num_followers": 203727,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACZOmJEOioP/4zTwkH39BFs",
+  "snapshot_id": "Z1t5AAAAAAAriIOut12QFoosl1I8VGNM",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "No Brains",
-      "url": "https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 265786,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "No Brains",
+      "url": "https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "Thanks For Nothing",
-      "url": "https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 181613,
       "name": "So Long Goodbye",
       "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "Thanks For Nothing",
+      "url": "https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 122693,
-      "name": "My Direction",
-      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 199920,
       "name": "Crash",
       "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 122693,
+      "name": "My Direction",
+      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 194590,
-      "name": "Fake My Own Death",
-      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
+      "duration_ms": 243098,
+      "name": "Breaking The Chain",
+      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 243098,
-      "name": "Breaking The Chain",
-      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
+      "duration_ms": 194590,
+      "name": "Fake My Own Death",
+      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
     },
     {
       "added_at": null,

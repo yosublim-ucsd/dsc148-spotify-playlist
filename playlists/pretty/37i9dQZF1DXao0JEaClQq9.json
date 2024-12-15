@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Becky and the Birds",
-  "num_followers": 1635258,
+  "num_followers": 1635594,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Buzzy Lee",
+          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
+        }
+      ],
+      "duration_ms": 244725,
+      "name": "Don't Put Anything On the Bible (feat. Buzzy Lee)",
+      "url": "https://open.spotify.com/track/65IOv36iYd3O3Ly4e1Pqrb"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
-        "name": "I LAY DOWN MY LIFE FOR YOU",
-        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Buzzy Lee",
-          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
-        }
-      ],
-      "duration_ms": 244725,
-      "name": "Don't Put Anything On the Bible (feat. Buzzy Lee)",
-      "url": "https://open.spotify.com/track/65IOv36iYd3O3Ly4e1Pqrb"
     },
     {
       "added_at": "2024-12-12 23:47:57",

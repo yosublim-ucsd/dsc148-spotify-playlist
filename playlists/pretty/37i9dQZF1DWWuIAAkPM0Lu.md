@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 👀 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a>  👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,794 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,800 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 14 | [speed båd](https://open.spotify.com/track/5Zg3TNR7M6cdqAsZ0JWVdZ) | [Champagne Bruce](https://open.spotify.com/artist/3haK5qgpgsuSjzs6qDZ2PW) | [Danserecepten: DKG vol\. 1](https://open.spotify.com/album/1gzE4ejrEiFEy7CuyCdzsa) | 2:38 |
 | 15 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 |
 | 16 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
-| 17 | [The Bird Song](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
+| 17 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
 | 18 | [flatline](https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [flatline](https://open.spotify.com/album/4t9MJiVOy6KeOI3EjLgssB) | 2:42 |
 | 19 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
 | 20 | [Dem Der Blir](https://open.spotify.com/track/5ymMWLq48nlAMzhzETRaet) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [Bare Et Lille Øjeblik](https://open.spotify.com/album/0PT3DPx1APBydqDrXyhS6K) | 2:45 |

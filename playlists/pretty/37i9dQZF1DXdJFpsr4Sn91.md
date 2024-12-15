@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Karim B ja TUULI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,933 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,946 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 9 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
 | 10 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
 | 11 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 |
-| 12 | [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 |
-| 13 | [Tää on slut](https://open.spotify.com/track/437yd9PAiY5FZigIMbmjVt) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Tää on slut](https://open.spotify.com/album/7AckybLWgn5PyrEyBlDCnG) | 2:22 |
-| 14 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 |
-| 15 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
-| 16 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
-| 17 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 |
-| 18 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
+| 12 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
+| 13 | [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 |
+| 14 | [Tää on slut](https://open.spotify.com/track/437yd9PAiY5FZigIMbmjVt) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Tää on slut](https://open.spotify.com/album/7AckybLWgn5PyrEyBlDCnG) | 2:22 |
+| 15 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 |
+| 16 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
+| 17 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
+| 18 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 |
 | 19 | [Viimeinen kuulutus](https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Viimeinen kuulutus](https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz) | 3:11 |
 | 20 | [Täs mä oon](https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:02 |
 | 21 | [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
 | 80 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 
-Snapshot ID: `Z1wxwAAAAAAqKSXY7XC7Fw6UL/6VvSIp`
+Snapshot ID: `Z13nUgAAAAAbMVCnlZj9Cj9AY87b3s0x`

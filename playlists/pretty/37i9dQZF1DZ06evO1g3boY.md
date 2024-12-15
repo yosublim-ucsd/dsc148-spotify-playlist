@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,618 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,621 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Sol de Giz de Cera](https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Estela Vergílio](https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:18 |
 | 50 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [NAVE](https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH) | 3:36 |
 
-Snapshot ID: `Z1ongAAAAACU5Vz5FmHe3fs2n5CtMhSa`
+Snapshot ID: `Z1t5AAAAAADclQPdquvVF487HbX7NU7/`

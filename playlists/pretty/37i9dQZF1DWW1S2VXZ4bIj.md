@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Butterbear
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,719 likes - 95 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,790 likes - 95 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

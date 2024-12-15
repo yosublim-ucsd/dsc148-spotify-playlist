@@ -1,111 +1,31 @@
 {
-  "description": "Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024\nCover: Chappell Roan",
-  "num_followers": 1080502,
+  "description": "Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024\nCover: Gloria Groove",
+  "num_followers": 1080500,
   "original_name": "Best of GLOW Global 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1BM8QAAAAD9MUaroMilJdRTlZINdl/L",
+  "snapshot_id": "Z10Q3QAAAADJUKrFjdRZN87E/CJWA7hO",
   "tracks": [
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "through the telescope",
-        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "false gold",
-      "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "Record Deal",
-        "url": "https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 187127,
-      "name": "Record Deal",
-      "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "Quantum Baby",
-        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 249225,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
@@ -129,55 +49,39 @@
       "url": "https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
+        "name": "JOYRIDE",
+        "url": "https://open.spotify.com/album/4CbtUWjAeVaJrMprF7pQ3M"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
+      "duration_ms": 150000,
+      "name": "JOYRIDE",
+      "url": "https://open.spotify.com/track/2cSstpKlitPixk8j1hl8E6"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "need dat boy",
-        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "need dat boy",
-      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
@@ -193,7 +97,135 @@
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "through the telescope",
+        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "false gold",
+      "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 249225,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "Record Deal",
+        "url": "https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 187127,
+      "name": "Record Deal",
+      "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5jpXb0Xa6Q7nvIsdycyZVj"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Slut Pop Miami",
         "url": "https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Miss Misogyny",
         "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/2DQPfTQ1WAlEEh3OOpo3xF"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "THE MAZE",
         "url": "https://open.spotify.com/album/4dn3xUfDoeTW2T8niDx0QQ"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/2RFuXRdVhRUIMJ85j3WRel"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "T\u1eebng L\u00e0",
         "url": "https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Notes On A Hopeless Romance",
         "url": "https://open.spotify.com/album/1m7rybTKmreUJJczhTlfSt"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/33PSeHnVlOqrujOvM7Fy58"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
@@ -369,23 +401,7 @@
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "JOYRIDE",
-        "url": "https://open.spotify.com/album/4CbtUWjAeVaJrMprF7pQ3M"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "JOYRIDE",
-      "url": "https://open.spotify.com/track/2cSstpKlitPixk8j1hl8E6"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "ABOMINATION",
         "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "GREEN GRASS",
         "url": "https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2xpvXMoRlqxQT8XshRIqYg"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1jwXn7H1UDANmEvw6bfDr6"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "House With The Blue Door",
         "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Lethal Woman",
         "url": "https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Un d\u00eda nos vamos a morir",
         "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "DOING IT AGAIN BABY",
         "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "HER MIND (BLOSSOM EDITION)",
         "url": "https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/2lnozb68tIDOgnP6iOmq1m"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Traumatic Livelihood",
         "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/4xlXrO4n68KEfAJK1JDux5"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Doing Better",
         "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
@@ -613,23 +629,7 @@
       "url": "https://open.spotify.com/track/5siVkKPnewoj7kekJx3kw4"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
-    },
-    {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Transa: Selects",
         "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/77G475NhzNj9ulVQe5FZFH"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Polari",
         "url": "https://open.spotify.com/album/7xntD1hqGiOwtxZArZwRfd"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2NZNVj9uvgR4qEe4SwfiN1"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Get Your Fckin Laws Off My Body",
         "url": "https://open.spotify.com/album/0lJgF52PRsbQu7nYRCqZmE"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/3K6QWANCq9qHhnynKAmETM"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "United Kingdom Of Anxiety",
         "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/1cXXOOB6nyVcpdimVPhyG4"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Circumnavigating Georgia",
         "url": "https://open.spotify.com/album/0NifH8uAv89mMo97MnOenG"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/5Yj9nxBT3VzAkf55jv3A96"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Always Forever",
         "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/4i9TjoNNAjYEcgXJ1IX07u"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "fine ill get in my feelings",
         "url": "https://open.spotify.com/album/4a7THjdUGqUasJlhCUjEDr"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/4MVJ5nPGhrnD1FKeX7stdG"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "FOREVER 21 (VOL.2)",
         "url": "https://open.spotify.com/album/1KoXm3WpFR4gmHGEs2wLK8"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/4wTHsDI5ChbjyWrJtSDKrJ"
     },
     {
-      "added_at": "2024-12-04 12:37:05",
+      "added_at": "2024-12-14 05:00:13",
       "album": {
         "name": "Sei nel l'anima",
         "url": "https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H"

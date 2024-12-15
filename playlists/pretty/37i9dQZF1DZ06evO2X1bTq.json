@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1230758,
+  "num_followers": 1230857,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAB7LloiMuGDzHozjolEqBoV",
+  "snapshot_id": "Z1t5AAAAAAAfRQEgxKL/bIuvRs1uD+Uk",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 225400,
-      "name": "You\u2019re The Best Thing About Me",
-      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
+      "duration_ms": 294000,
+      "name": "The Unforgettable Fire - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 294000,
-      "name": "The Unforgettable Fire - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+      "duration_ms": 225400,
+      "name": "You\u2019re The Best Thing About Me",
+      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Mile / Picture Of You (X+W)",
         "url": "https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 197346,
       "name": "I Don't Wanna See You Smile",
       "url": "https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 274120,
-      "name": "Original Of The Species",
-      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Re-Assemble An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
+        "name": "The Saints Are Coming",
+        "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
       },
       "artists": [
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 186057,
-      "name": "Evidence Of Life",
-      "url": "https://open.spotify.com/track/07dFzyGKYuqyrRD6R30YMP"
+      "duration_ms": 202413,
+      "name": "The Saints Are Coming",
+      "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
     }
   ],
   "unique_name": "This Is U2",

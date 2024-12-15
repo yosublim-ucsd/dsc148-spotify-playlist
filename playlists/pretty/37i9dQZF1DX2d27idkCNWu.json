@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259280,
+  "num_followers": 259272,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -651,6 +651,22 @@
       "duration_ms": 187680,
       "name": "Boyfriend - Acoustic Version",
       "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
-        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
-      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -867,6 +847,26 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
+        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
+        "name": "Coast (Acoustic)",
+        "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 154990,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+      "duration_ms": 166400,
+      "name": "Coast (feat. Anderson .Paak) [Acoustic]",
+      "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Coast (Acoustic)",
-        "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Coast (feat. Anderson .Paak) [Acoustic]",
-      "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
+      "duration_ms": 154990,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Ac\u00fastico Ana Gabriela",
+        "url": "https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 175583,
+      "name": "Ta\u00e7a De Vidro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Daisies (Acoustic)",
         "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
       },
@@ -1555,22 +1575,6 @@
       "duration_ms": 185506,
       "name": "Daisies - Acoustic",
       "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

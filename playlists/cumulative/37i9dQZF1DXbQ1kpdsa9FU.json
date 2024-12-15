@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 205273,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy"
@@ -4540,6 +4540,24 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah - Studio Version",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 5257,
+  "num_followers": 5261,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAADvvJVR5GXPsxkltaZwGHIu",
+  "snapshot_id": "Z1t5AAAAAABJNJvq4/SCKOMo2cOMJXny",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 276642,
-      "name": "La Calle y Yo",
-      "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
+      "duration_ms": 146893,
+      "name": "Trata de Cambiar",
+      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Trata de Cambiar",
-      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
+      "duration_ms": 276642,
+      "name": "La Calle y Yo",
+      "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 413066,
-      "name": "Tocando Fondo - En Vivo",
-      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
+      "duration_ms": 318893,
+      "name": "Tlaltelolco 68",
+      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
-        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 318893,
-      "name": "Tlaltelolco 68",
-      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
+      "duration_ms": 413066,
+      "name": "Tocando Fondo - En Vivo",
+      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
     },
     {
       "added_at": null,

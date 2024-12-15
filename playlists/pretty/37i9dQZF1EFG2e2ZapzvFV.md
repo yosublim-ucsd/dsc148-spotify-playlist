@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 84 | [Everytime](https://open.spotify.com/track/2q2jR9QQKo3aaGX74nR0di) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:41 |
 | 85 | [Mistaken](https://open.spotify.com/track/7FWBpcfcsWhlfpcE2xomDr) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:56 |
 | 86 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
-| 87 | [Pretty Thing](https://open.spotify.com/track/2akDcoPwGl4175JFmQdqGb) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:16 |
-| 88 | [Just A Little Bit](https://open.spotify.com/track/7bWmqzwKg2sYa7Ft996MR1) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:00 |
+| 87 | [Just A Little Bit](https://open.spotify.com/track/7bWmqzwKg2sYa7Ft996MR1) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:00 |
+| 88 | [Pretty Thing](https://open.spotify.com/track/2akDcoPwGl4175JFmQdqGb) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:16 |
 | 89 | [Make Me Feel](https://open.spotify.com/track/1xajUPr86m2Ge25UPxwJGA) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:09 |
 | 90 | [Aerial Love](https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:34 |
 | 91 | [Too Proud](https://open.spotify.com/track/4AhMh0i9mBTXpfg35u1YQQ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 3:09 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
 | 171 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `AbkEAAAAAAB19SWfzAbMTQ2h0UE41MII`
+Snapshot ID: `AbkJyAAAAADp7fc9s/P0PutiNlZj/9Jp`

@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 16050,
+  "num_followers": 16062,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -688,7 +688,7 @@
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
+          "name": "Baek Z Young",
           "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ud61c\uc131",
-        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "\ud61c\uc131",
-      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "\ud61c\uc131",
+        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+      "duration_ms": 194821,
+      "name": "\ud61c\uc131",
+      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -859,6 +843,22 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 283786,
       "name": "\uc0b4\ub2e4\uac00",
       "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 228960,
       "name": "HUG",
       "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",

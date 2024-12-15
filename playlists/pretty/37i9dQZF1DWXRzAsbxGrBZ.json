@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 73490,
+  "num_followers": 73558,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        },
-        {
-          "name": "Lily McKenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Sensitive (feat. Lily McKenzie)",
-      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Imizi YoBaba",
         "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 388173,
       "name": "Imizi YoBaba",
       "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        },
+        {
+          "name": "Lily McKenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sensitive (feat. Lily McKenzie)",
+      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "duration_ms": 330730,
+      "name": "Another Day (feat. Ziyon)",
+      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Can't Give Up Now (EarfulSoul)",
         "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 446646,
       "name": "Can't Give Up Now (feat. EarfulSoul)",
       "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
-      },
-      "artists": [
-        {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
-        },
-        {
-          "name": "Ziyon",
-          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
-        }
-      ],
-      "duration_ms": 330730,
-      "name": "Another Day (feat. Ziyon)",
-      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Lomthwalo",
+        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
+      },
+      "artists": [
+        {
+          "name": "Mandaba",
+          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
+        },
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "duration_ms": 366206,
+      "name": "Lo'Mthwalo - Original Mix",
+      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Lomthwalo",
-        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
-      },
-      "artists": [
-        {
-          "name": "Mandaba",
-          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
-        },
-        {
-          "name": "Griffith Malo",
-          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
-        }
-      ],
-      "duration_ms": 366206,
-      "name": "Lo'Mthwalo - Original Mix",
-      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Papino's Revenge Remixes",
-        "url": "https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf"
-      },
-      "artists": [
-        {
-          "name": "KVRVBO",
-          "url": "https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB"
-        },
-        {
-          "name": "Frank Ru",
-          "url": "https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ"
-        }
-      ],
-      "duration_ms": 398415,
-      "name": "Papino's Revenge - Frank Ru Remix",
-      "url": "https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Mohaus, Vol. 2",
         "url": "https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 402051,
       "name": "Nades",
       "url": "https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Papino's Revenge Remixes",
+        "url": "https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf"
+      },
+      "artists": [
+        {
+          "name": "KVRVBO",
+          "url": "https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB"
+        },
+        {
+          "name": "Frank Ru",
+          "url": "https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ"
+        }
+      ],
+      "duration_ms": 398415,
+      "name": "Papino's Revenge - Frank Ru Remix",
+      "url": "https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Middle of Dezemba",
-        "url": "https://open.spotify.com/album/6UIa4mWQEvnjKrykESROn4"
+        "name": "The Gameplan",
+        "url": "https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH"
       },
       "artists": [
         {
-          "name": "Lebo Lukewarm",
-          "url": "https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB"
+          "name": "Fynn",
+          "url": "https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB"
         }
       ],
-      "duration_ms": 439024,
-      "name": "Middle of Dezemba",
-      "url": "https://open.spotify.com/track/0AGJGvE5EIpEdStPqSrg2F"
+      "duration_ms": 461694,
+      "name": "The Gameplan",
+      "url": "https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ"
     }
   ],
   "unique_name": "Deep House Session",

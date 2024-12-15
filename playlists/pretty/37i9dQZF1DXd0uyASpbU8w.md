@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=1gQcXYZVRbyJkGWFJy8pUQ">Kelvin Momo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,652 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,767 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

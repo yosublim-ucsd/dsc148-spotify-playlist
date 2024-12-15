@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: G.A, Veigh, Ghard, Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,151 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,131 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

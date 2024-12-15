@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141214,
+  "num_followers": 141229,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
         "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 316306,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Express Yourself (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Express Yourself - Remastered Version",
-      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "The Best Of Bobby Womack - The Soul Years",
         "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 224546,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Express Yourself (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Express Yourself - Remastered Version",
+      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "The Best Of Joss Stone 2003 - 2009",
-        "url": "https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Fell In Love With A Boy",
-      "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "The Eugene Record",
         "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 257360,
       "name": "Overdose of Joy",
       "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "The Best Of Joss Stone 2003 - 2009",
+        "url": "https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Fell In Love With A Boy",
+      "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Can't Stop Dancing, Vol. 6",
-        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 416626,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Can't Stop Dancing, Vol. 6",
+        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 416626,
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Never My Love: The Anthology",
         "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 230758,
       "name": "I Believe to My Soul",
       "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2024-10-25 07:46:43",

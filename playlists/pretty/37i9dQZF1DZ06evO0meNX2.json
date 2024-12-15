@@ -1,33 +1,13 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 33842,
+  "num_followers": 33882,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAADAa/YFn95HjU9CZgK2h6Pk",
+  "snapshot_id": "Z1t5AAAAAAC2bIpChZVZe7++hvCdAFIq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
     {
       "added_at": null,
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 184426,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/2XbHeIK0ZEpY30kFY15r38"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Amor II",
-        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 189506,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Hablen",
-      "url": "https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habemus Conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 223743,
       "name": "Habemus Conciliaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Hablen",
+      "url": "https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
       "duration_ms": 162169,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despreciado",
+        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 210951,
+      "name": "Despreciado",
+      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
     },
     {
       "added_at": null,

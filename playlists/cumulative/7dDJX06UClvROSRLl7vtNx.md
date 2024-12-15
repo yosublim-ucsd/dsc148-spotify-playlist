@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-657 songs - 1 day 4 hr 37 min
+658 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Walking On A Dream](https://open.spotify.com/track/168j21rfvVnyptl3ctjO5h) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Kilma](https://open.spotify.com/artist/7aICckyYS2BcCmBtOifHoU) | [Walking On A Dream](https://open.spotify.com/album/6iNqxtSPoAg6flvTTb4OKw) | 2:59 | 2024-07-08 | 2024-08-12 |
 | [Walking On A Dream](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Walking On A Dream](https://open.spotify.com/album/1SPJfmyfAGNPSuA7ODwzw5) | 1:59 | 2024-03-29 | 2024-07-05 |
 | [Walking On a Dream](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Walking On a Dream](https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s) | 2:49 | 2023-09-22 | 2024-03-30 |
+| [Wanna Be Somewhere With You](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Wanna Be Somewhere With You](https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY) | 3:40 | 2024-12-14 |  |
 | [Want U Back](https://open.spotify.com/track/6LgEEi4lxbZvj0L3uj3aMe) | [Sean Blanc](https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt), [Sunset Oasis](https://open.spotify.com/artist/4id2I8vbOlykCeD2GTkZua) | [Want U Back](https://open.spotify.com/album/07nreE43d1fK5DvTVpg0v8) | 2:32 | 2024-01-07 | 2024-01-21 |
 | [Warm Tonight](https://open.spotify.com/track/3LT5XVBeevDtlwowO5Xk30) | [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [XO](https://open.spotify.com/artist/7iYWcuAtM8cO4AFTJ5MHVl), [Will Church](https://open.spotify.com/artist/3PgE5GvG5WOLQgtrRydfuC) | [Warm Tonight](https://open.spotify.com/album/75LmVMh2gIEW3nQbmE8QCj) | 2:16 | 2023-09-22 | 2024-07-29 |
 | [Warmth of Summer](https://open.spotify.com/track/0SUyTMRm2e31TIbid9hucc) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Warmth of Summer](https://open.spotify.com/album/4mgnbCRISUTWCYJfZXdFQN) | 2:45 | 2024-07-21 | 2024-08-08 |

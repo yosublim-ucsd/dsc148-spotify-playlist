@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 173906,
+  "num_followers": 173909,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAD2gYkwAiWQMn8JoMkFpmdb",
+  "snapshot_id": "Z1t5AAAAAAB8Bxi1wj6Ofa7Bo/d84f23",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
+        "name": "HELLRAISERS, Part 2",
+        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },
       "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193151,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
+      "duration_ms": 167965,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLRAISERS, Part 2",
-        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
       "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 167965,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq"
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,

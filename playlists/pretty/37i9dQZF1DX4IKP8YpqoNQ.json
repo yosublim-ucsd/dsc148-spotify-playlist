@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30354,
+  "num_followers": 30361,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
         "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 326266,
       "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
       "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Save Room - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+      "duration_ms": 205800,
+      "name": "Save Room - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Horsepower For The Streets (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 145294,
-      "name": "Horsepower For The Streets - Acoustic String Version",
-      "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Compared to What",
         "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 523333,
       "name": "Compared to What - Live",
       "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Horsepower For The Streets (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 145294,
+      "name": "Horsepower For The Streets - Acoustic String Version",
+      "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 235357,
-      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 235357,
+      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+        "name": "WAR Live",
+        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
+      "duration_ms": 366866,
+      "name": "The Cisco Kid - Live Version",
+      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "WAR Live",
-        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
       },
       "artists": [
         {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 366866,
-      "name": "The Cisco Kid - Live Version",
-      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
+      "duration_ms": 165533,
+      "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "In Person at the Whiskey a Go Go",
-        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
-      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
+      "duration_ms": 255573,
+      "name": "Good To Me - Live",
+      "url": "https://open.spotify.com/track/527RsqHwq8ueWrE67xHgYC"
     },
     {
       "added_at": "2024-10-25 07:48:43",

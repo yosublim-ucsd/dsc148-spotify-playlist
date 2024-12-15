@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36761,
+  "num_followers": 36762,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAAKTBVJdKoU+Pk1muxWtVzn",
+  "snapshot_id": "Z1t5AAAAAAD/oaLCksW/Lgxrp/1Y9kwp",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 155040,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Eye In The Sky (feat. Beck)",
-      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical",
         "url": "https://open.spotify.com/album/4dmNxI5y02V5SPiZVz7orw"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 215000,
       "name": "Radical",
       "url": "https://open.spotify.com/track/6BkIqU10KlYpllNSP7VjST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Eye In The Sky (feat. Beck)",
+      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Table for One (feat. Elohim)",
+        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 278867,
+      "name": "Table for One (feat. Elohim)",
+      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -787,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Table for One (feat. Elohim)",
-        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 278867,
-      "name": "Table for One (feat. Elohim)",
-      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+      "duration_ms": 199307,
+      "name": "Here Come the Runts",
+      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
     },
     {
       "added_at": null,
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 203835,
-      "name": "Miracle Man",
-      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -884,29 +884,25 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+      "duration_ms": 203835,
+      "name": "Miracle Man",
+      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     }
   ],
   "unique_name": "This Is AWOLNATION",

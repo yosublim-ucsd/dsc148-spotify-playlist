@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
-209 songs - 16 hr 12 min
+210 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |
 | [My Gasoline \- Hard Edit](https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline \(Hard Edit\)](https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P) | 4:03 | 2024-04-09 |  |
 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 | 2024-06-14 | 2024-08-09 |
+| [Naked Light \- Sara Landry Remix](https://open.spotify.com/track/0nVoVGIJd5EXGxy45MymFS) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Naked Light RMX](https://open.spotify.com/album/3ioBPxlY7vGOzgIOA3yjPu) | 5:18 | 2024-12-13 |  |
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 |  |
 | [Never Let Me Down](https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [∏EVER](https://open.spotify.com/artist/7hxEgJocKQ6HDMlpDYXPYf) | [Never Let Me Down](https://open.spotify.com/album/4OE2XbdrJb9q9cUflbOSv2) | 3:01 | 2024-05-03 | 2024-06-22 |
 | [Next Level](https://open.spotify.com/track/0OZcUuoM0InrwuH3UJoFoz) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Next Level](https://open.spotify.com/album/4pSZsF6n4r1O1i3NTtPHBN) | 2:00 | 2024-08-31 |  |
@@ -195,7 +196,7 @@
 | [Torx](https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Torx](https://open.spotify.com/album/2Im392fbN6HLOsNamMctGi) | 6:06 | 2024-04-09 | 2024-08-06 |
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-11-13 |  |
 | [Toxic Waste](https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2) | [VAAG](https://open.spotify.com/artist/7oHIEjSNbWOZdoV9nSNyp1), [GD\_Connect](https://open.spotify.com/artist/31hv6Yit1qAoFEXCFM7Bpw) | [Toxic Waste](https://open.spotify.com/album/0ji3nORUd0KEbgoQ8vbxOi) | 3:56 | 2024-07-14 | 2024-07-22 |
-| [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 |  |
+| [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 | 2024-12-15 |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |
 | [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 |  |
 | [Trip To Fantasy](https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:14 | 2024-07-18 | 2024-07-22 |

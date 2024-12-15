@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-549 songs - 1 day 14 hr 28 min
+550 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Gazer \(Through the Night\)](https://open.spotify.com/track/1LsSPm7nkGgUbukmxS8DUa) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/064SqNWBOnEHRMyg8wj6HC) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Gemini Bridges](https://open.spotify.com/track/21DZqG3jg7YQexOzd6vqig) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Gemini Bridges / Room 4242](https://open.spotify.com/album/6kPzVQCpntz3pvsS5pIyHu) | 4:45 | 2021-05-07 | 2022-07-29 |
 | [Georgia](https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:50 | 2023-03-31 | 2023-05-09 |
+| [Getting Lost](https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Getting Lost](https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB) | 2:41 | 2024-12-13 |  |
 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 | 2024-07-19 |  |
 | [Give In](https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Give In](https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR) | 3:04 | 2023-07-21 | 2023-09-04 |
 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 | 2021-05-07 | 2022-07-21 |
@@ -317,7 +318,7 @@
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-05-07 | 2024-04-06 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/02u5cHxHuJ6NpUIhGsdbU7) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle \(Lane 8 Remix\)](https://open.spotify.com/album/1Arn6M713Pq2l6JuGcENCC) | 4:09 | 2021-05-07 | 2022-07-29 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
-| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 |  |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2024-12-15 |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
 | [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 |  |
 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-19 |  |

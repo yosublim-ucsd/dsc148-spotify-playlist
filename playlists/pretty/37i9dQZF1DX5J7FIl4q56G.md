@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,036 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,154 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 |
 | 12 | [Out Of Breath](https://open.spotify.com/track/3yR7117c2uAkAtAKUpoxNb) | [Savage Lands](https://open.spotify.com/artist/5fft5SyNYhNar3PdYtKQSF), [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Out Of Breath](https://open.spotify.com/album/2w66mOqciizStW7KqE1Xyp) | 4:48 |
 | 13 | [CHASE THE SKY \-RedLine Title Song\-](https://open.spotify.com/track/6aqz8DMLznpWEE3Ef91Ykx) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [CHASE THE SKY \-RedLine Title Song\-](https://open.spotify.com/album/1xhvBGbtXAuTK2E50cRqEu) | 2:23 |
-| 14 | [Damnation Flame \- Orchestral Version](https://open.spotify.com/track/1lTXjiyHmgdle4Or49xGTI) | [Olof Mörck](https://open.spotify.com/artist/0ABv1gZCFh87huHWHqJHIw), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55), [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame \(Orchestral Version\)](https://open.spotify.com/album/5i7yoI6otm0hOpfQumbq3t) | 3:30 |
+| 14 | [Damnation Flame \- Orchestral Version](https://open.spotify.com/track/1lTXjiyHmgdle4Or49xGTI) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame \(Orchestral Version\)](https://open.spotify.com/album/5i7yoI6otm0hOpfQumbq3t) | 3:30 |
 | 15 | [Syntax Terror](https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Syntax Terror](https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd) | 4:10 |
 | 16 | [WIERSZALIN II](https://open.spotify.com/track/1YEuEDn3n8jN2TDB20xOfR) | [PATRIARKH](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [WIERSZALIN II](https://open.spotify.com/album/1R9eieU654k8iuUOxuIU7p) | 4:11 |
 | 17 | [Mirror, Mirror](https://open.spotify.com/track/1Z43Dknc4TuypMUcoixlrC) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Mirror, Mirror](https://open.spotify.com/album/1ARpCvhgymAKAiIpcry5hJ) | 4:44 |

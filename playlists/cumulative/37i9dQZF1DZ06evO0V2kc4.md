@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 52 min
+98 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,14 +34,15 @@
 | [Drug Store Truck Drivin' Man \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/0rl1mAu2HBkIptk1rUtzlI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Jeffrey Shurtleff](https://open.spotify.com/artist/3Ek5Fzr1vbkPI5AUYWtwBv) | [Live At Woodstock](https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj) | 2:49 | 2024-07-02 | 2024-07-03 |
 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 |  |
 | [El Preso Numero Nueve](https://open.spotify.com/track/27LWYN5H4rfXlRz1vFNm63) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:50 | 2022-09-29 | 2023-02-28 |
-| [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 | 2023-08-21 |  |
+| [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 | 2023-08-21 | 2024-12-15 |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2022-09-22 |  |
 | [Farewell, Angelina](https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:18 | 2022-09-22 |  |
-| [Forever Young \- Live On Tour / 1975](https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 3:39 | 2022-09-22 |  |
+| [Forever Young \- Live On Tour / 1975](https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 3:39 | 2022-09-22 | 2024-12-15 |
+| [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 | 2024-12-15 |  |
 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 | 2022-09-22 |  |
 | [Gabriel And Me](https://open.spotify.com/track/0Ct4eTeTYKYsCHCaz8Whel) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:31 | 2022-09-22 | 2024-07-13 |
 | [Geordie](https://open.spotify.com/track/6CO8QJNox6NMWcWrDeauyK) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:35 | 2022-09-25 | 2022-09-30 |
-| [Girl Of Constant Sorrow](https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:45 | 2022-09-30 | 2024-12-01 |
+| [Girl Of Constant Sorrow](https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:45 | 2022-09-30 |  |
 | [Give Me Cornbread When I'm Hungry](https://open.spotify.com/track/1Tx3MFbSzWddHQzgnOEr3W) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Dirk Powell](https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Another Day, Another Time: Celebrating the Music of 'Inside Llewyn Davis'](https://open.spotify.com/album/6t4h3psMfV6uQ49CmZklhn) | 2:43 | 2022-10-16 | 2023-06-30 |
 | [Go 'Way From My Window](https://open.spotify.com/track/2RSre4aOaeIK1Uf48olKfP) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [5](https://open.spotify.com/album/7vELrwL2rJjzn5SzaxnYQN) | 2:13 | 2023-02-01 | 2023-08-12 |
 | [God Is God](https://open.spotify.com/track/1l8Adf2L6CiKmLNH9JuTLz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:36 | 2022-09-22 | 2024-07-23 |

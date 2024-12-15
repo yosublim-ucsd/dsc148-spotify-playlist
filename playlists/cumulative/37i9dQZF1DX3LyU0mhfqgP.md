@@ -2,7 +2,7 @@
 
 ### [Best of GLOW Global 2024](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024<br/>Cover: Chappell Roan
+> Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024<br/>Cover: Gloria Groove
 
 1,387 songs - 3 day 3 hr 23 min
 

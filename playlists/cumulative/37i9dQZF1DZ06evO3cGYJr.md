@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 16 min
+48 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [fragments of your presence](https://open.spotify.com/track/0mYw7Se3zNLlTVQwwWrCdq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [fragments of your presence](https://open.spotify.com/album/1dv9nkQRXLJOwLShUvxuiP) | 2:52 | 2024-12-14 |  |
 | [Futile](https://open.spotify.com/track/6xikCzoVRP5knZLZKszqsX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:20 | 2024-12-14 |  |
 | [Halcyon](https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:40 | 2024-12-14 |  |
+| [haunting](https://open.spotify.com/track/07uHH6Qq1cqNLmKxa0ceZt) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [haunting](https://open.spotify.com/album/6UeeVUS6zYu9fhqTIMe3g4) | 2:51 | 2024-12-15 |  |
 | [I Feel It](https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [I Feel It](https://open.spotify.com/album/1PfYmdUoCZK9JfQu4z3Vy0) | 4:57 | 2024-12-14 |  |
 | [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/34R8ji5n7cAog721QglSiy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [I spend too much time on the internet to care about the small things](https://open.spotify.com/album/4PtMc2ryWi7QGi8fYRI6jY) | 3:17 | 2024-12-14 |  |
 | [indecision \- kittydog remix!!](https://open.spotify.com/track/0VZGHTNfeQ1bPYxcg7rH6Y) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [indecision \(kittydog remix!!\)](https://open.spotify.com/album/7dXjZJt3zJQWV0z8LWVVpq) | 2:00 | 2024-12-14 |  |

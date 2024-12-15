@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,666 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,673 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 9 | [Hipnose](https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Hipnose](https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6) | 3:29 |
 | 10 | [Elite](https://open.spotify.com/track/1ZkSqrikGhRosF1krrlRd3) | [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Ras Akin](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Elite](https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K) | 3:22 |
 | 11 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
-| 12 | [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 |
-| 13 | [Intensão](https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Intensão](https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm) | 3:30 |
+| 12 | [Intensão](https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Intensão](https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm) | 3:30 |
+| 13 | [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 |
 | 14 | [Lingerie Azul](https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Garotas Amam Namorar](https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD) | 2:07 |
 | 15 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
 | 16 | [Foto no Espelho](https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [De Lua](https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa) | 3:08 |

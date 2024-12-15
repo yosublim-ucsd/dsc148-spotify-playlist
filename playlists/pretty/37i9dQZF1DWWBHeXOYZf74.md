@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Fred Again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,941 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,906 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

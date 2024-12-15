@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: KSI
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,863 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,910 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 21 | [All My Friends Are Hot](https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [All My Friends Are Hot](https://open.spotify.com/album/51GkT0hEiKrbHoPwBHaTPi) | 2:38 |
 | 22 | [Grow Ill](https://open.spotify.com/track/6kDX9Vte9i8cPzMfzmcpGs) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Grow Ill](https://open.spotify.com/album/4SfT3h7VexN9XQjQcnZwMI) | 2:19 |
 | 23 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 |
-| 24 | [The Bird Song](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
+| 24 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
 | 25 | [Be Mine](https://open.spotify.com/track/4vB4e8oopvmeARMW9na82S) | [GIO DARA](https://open.spotify.com/artist/1YTaNEf5juixP1n71yQcLr) | [Be Mine](https://open.spotify.com/album/2tKkmzs0HcOUgQ5nbYjjMF) | 2:50 |
 | 26 | [Keep Your Head Up](https://open.spotify.com/track/4ZQGPNcT9FejvO0rHMGkY8) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Keep Your Head Up](https://open.spotify.com/album/1siyYbLOFkTYHKJCkGTIs2) | 2:00 |
 | 27 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |

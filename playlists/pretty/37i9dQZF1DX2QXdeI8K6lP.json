@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 279731,
+  "num_followers": 279768,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Esta Tarde Vi Llover",
         "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 143874,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Suspenso Infernal",
-      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 177866,
       "name": "Un Siglo de Ausencia - Remasterizado",
       "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Suspenso Infernal",
+      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Romanticamente Trios Vol. 9",
         "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
       },
@@ -1443,8 +1427,24 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Epoca de Oro Con los Tres Ases",
-        "url": "https://open.spotify.com/album/3cEkccsCAITDQX6wUsMXOH"
+        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Que Seas Feliz",
-      "url": "https://open.spotify.com/track/0jm8gV7Dx2DqxUdb87T9xo"
+      "duration_ms": 169440,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
-        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
-      },
-      "artists": [
-        {
-          "name": "Trio Caribe",
-          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Son De La Loma",
-      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
         "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 150146,
       "name": "Un Dia",
       "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
+        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
+      },
+      "artists": [
+        {
+          "name": "Trio Caribe",
+          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Son De La Loma",
+      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
     },
     {
       "added_at": "2024-07-11 15:48:05",

@@ -576,10 +576,28 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 168866,
       "name": "Everything Forever",
       "url": "https://open.spotify.com/track/2FQApjUJ96lxynRqrcIDiW"
+    },
+    {
+      "album": {
+        "name": "Everything Forever",
+        "url": "https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Everything Forever",
+      "url": "https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9"
     },
     {
       "album": {

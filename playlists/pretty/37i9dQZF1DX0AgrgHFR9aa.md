@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Saïf
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,022 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,041 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 24 | [FAST LIFE & FAMILLE](https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [.H.K](https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX), [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:58 |
 | 25 | [Quand le ciel pleure](https://open.spotify.com/track/7eLkES6hbPilpzuepSxtRb) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Quand le ciel pleure](https://open.spotify.com/album/6JSZjNFVq6uyTEt3XjPV7X) | 3:12 |
 | 26 | [Si tu savais](https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Si tu savais](https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt) | 2:49 |
-| 27 | [NÉVROSE](https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF) | [Ormaz](https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850) | [NÉVROSE](https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4) | 3:05 |
+| 27 | [Névrose](https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF) | [Ormaz](https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850) | [Névrose](https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4) | 3:05 |
 | 28 | [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 |
 | 29 | [FABRICS \(feat\. Jungle Jack\)](https://open.spotify.com/track/3fwjyWXsDiTFnyNpbheCf8) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Violence Culture Sport & Fashion](https://open.spotify.com/album/0NlQ2thSbdlRKgiNmHYVQr) | 3:29 |
 | 30 | [JAMAIS COMME AVANT](https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [BLACKBIRD](https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ) | 3:29 |

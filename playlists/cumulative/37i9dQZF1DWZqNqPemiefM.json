@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 431000,
       "name": "834.194",
       "url": "https://open.spotify.com/track/1YXaeVEk9RtWW2WFlCOctn"
@@ -788,6 +788,24 @@
       "duration_ms": 861000,
       "name": "An Endless Dream",
       "url": "https://open.spotify.com/track/4FLJV1TFoIWOtRLc3tqxFM"
+    },
+    {
+      "album": {
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "album": {
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 268500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3YmZ8V92nqVKx6u1lohFCC"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 244450,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/1UyGal7Xm6z6C65eUdSx2x"
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 300500,
       "name": "Delirium Hums",
       "url": "https://open.spotify.com/track/3HUbt3IU8OmoQNDmGjNlGF"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 144000,
       "name": "Digital Detox",
       "url": "https://open.spotify.com/track/7suak3E7l3TBrlhm694OSU"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 122120,
       "name": "Disintegration Loops (1.1 Excerpt I)",
       "url": "https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1"
@@ -3472,7 +3490,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 251426,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"
@@ -5354,7 +5372,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 324882,
       "name": "IQAMURAH",
       "url": "https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK"
@@ -5412,7 +5430,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 374318,
       "name": "Iyo No Hito",
       "url": "https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a"
@@ -5885,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
+    },
+    {
+      "album": {
         "name": "How My Heart Sings",
         "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
       },
@@ -6238,7 +6274,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 657749,
       "name": "Magic - Mind Games Meditation Mix",
       "url": "https://open.spotify.com/track/7604BoTHXhdcyFknJz16Ci"
@@ -6478,7 +6514,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 151111,
       "name": "Me",
       "url": "https://open.spotify.com/track/3pzdrEzmh2moHVAeHIvait"
@@ -6496,7 +6532,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 334288,
       "name": "Meiso Ongaku 2",
       "url": "https://open.spotify.com/track/4oDopy5g0n075NXo1JavuZ"
@@ -7026,7 +7062,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 331916,
       "name": "Multifolds",
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
@@ -7506,7 +7542,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 211500,
       "name": "Oath",
       "url": "https://open.spotify.com/track/4Glh13oKfSEsDL0GtAyxw6"
@@ -8042,7 +8078,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 211764,
       "name": "Peaceful Groove",
       "url": "https://open.spotify.com/track/69Dz0ru3ovqGsNuPGr9daD"
@@ -9738,7 +9774,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 93185,
       "name": "Sol A",
       "url": "https://open.spotify.com/track/1DN69EXy6QawCKo0U7upt9"
@@ -10639,6 +10675,24 @@
     },
     {
       "album": {
+        "name": "sync",
+        "url": "https://open.spotify.com/album/3E1xKyTp6qvfGkfG4jT7aL"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "sync",
+      "url": "https://open.spotify.com/track/3bmq3UVpNIuIVSgJFOGtl1"
+    },
+    {
+      "album": {
         "name": "After the noise is gone",
         "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
       },
@@ -10740,7 +10794,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 230500,
       "name": "Terra Recipe",
       "url": "https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW"
@@ -12263,6 +12317,24 @@
     },
     {
       "album": {
+        "name": "Stellar",
+        "url": "https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "Wilderness House",
+      "url": "https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG"
+    },
+    {
+      "album": {
         "name": "Pan De Sonic - Iso",
         "url": "https://open.spotify.com/album/2OvQuWIyhtHfPHS3vschY1"
       },
@@ -12930,7 +13002,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 183266,
       "name": "\u6642\u306e\u56de\u5eca",
       "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
@@ -13218,7 +13290,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 66061,
       "name": "\u91d1\u7d99\u304e",
       "url": "https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX"

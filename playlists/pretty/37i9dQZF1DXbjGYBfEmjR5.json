@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 336621,
+  "num_followers": 336685,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
+      },
+      "artists": [
+        {
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
+        }
+      ],
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "PopSlinger (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 208000,
       "name": "Static Startup",
       "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
-      },
-      "artists": [
-        {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "MOTORWAY",
+        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Stellae",
         "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 230163,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "MOTORWAY",
-        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
     },
     {
       "added_at": "2023-07-18 02:21:29",

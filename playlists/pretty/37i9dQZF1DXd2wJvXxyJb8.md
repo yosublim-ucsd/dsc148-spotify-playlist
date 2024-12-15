@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465,792 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,079 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 15 | [Ritmada Interestelar](https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [DJ Kayo Original](https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7), [MC Rondom](https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Ritmada Interestelar](https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR) | 3:12 |
 | 16 | [300 no 7](https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [300 no 7](https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB) | 3:15 |
 | 17 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
-| 18 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 |
+| 18 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 |
 | 19 | [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 |
 | 20 | [LAST NIGHT VERSÃO BH](https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde) | [DJ BIEL PRADO](https://open.spotify.com/artist/3ynR38jCIVmxY6RVrL35SN), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [C.Z](https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU), [VORTEX](https://open.spotify.com/artist/3Chj7A59w4vWBa4fdSN27E), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [LAST NIGHT VERSÃO BH](https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR) | 2:49 |
 | 21 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 |

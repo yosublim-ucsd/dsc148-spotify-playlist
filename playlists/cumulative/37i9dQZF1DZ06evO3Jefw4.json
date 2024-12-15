@@ -322,6 +322,24 @@
     {
       "album": {
         "name": "Smile",
+        "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189772,
+      "name": "Cry About It Later",
+      "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
+    },
+    {
+      "album": {
+        "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
       "artists": [

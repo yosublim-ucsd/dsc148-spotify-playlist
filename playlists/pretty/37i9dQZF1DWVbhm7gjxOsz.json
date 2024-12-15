@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 95880,
+  "num_followers": 95978,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 395200,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Presenting The Danleers",
-        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
-      },
-      "artists": [
-        {
-          "name": "The Danleers",
-          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "One Summer Night",
-      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+        "name": "Presenting The Danleers",
+        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
       },
       "artists": [
         {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+          "name": "The Danleers",
+          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+      "duration_ms": 133226,
+      "name": "One Summer Night",
+      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Breakfast Special",
-        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
-      },
-      "artists": [
-        {
-          "name": "Pete Wingfield",
-          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
-        }
-      ],
-      "duration_ms": 211001,
-      "name": "Eighteen With A Bullet",
-      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 147466,
       "name": "The One Who Really Loves You - Single Version",
       "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Breakfast Special",
+        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
+      },
+      "artists": [
+        {
+          "name": "Pete Wingfield",
+          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
+        }
+      ],
+      "duration_ms": 211001,
+      "name": "Eighteen With A Bullet",
+      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -962,6 +962,14 @@
         {
           "name": "Baby Bash",
           "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        },
+        {
+          "name": "Edward \"E-Dub\" Rios",
+          "url": "https://open.spotify.com/artist/5aDKYokRScN1okHxSZDIVS"
         }
       ],
       "duration_ms": 270856,
@@ -1227,22 +1235,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Oh, How It Hurts",
-        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Oh, How It Hurts",
-      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Bump City",
         "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
       },
@@ -1255,6 +1247,22 @@
       "duration_ms": 337040,
       "name": "You're Still a Young Man",
       "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Oh, How It Hurts",
+        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Oh, How It Hurts",
+      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1698,6 +1706,14 @@
         {
           "name": "Trish Toledo",
           "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        },
+        {
+          "name": "Frankie J.",
+          "url": "https://open.spotify.com/artist/100CtDrmzVUZoaRxconKyH"
+        },
+        {
+          "name": "Edward \"E-Dub\" Rios",
+          "url": "https://open.spotify.com/artist/5aDKYokRScN1okHxSZDIVS"
         }
       ],
       "duration_ms": 231360,
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Sisters of Soul; the Sweeter Voices of Soul",
-        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
-      },
-      "artists": [
-        {
-          "name": "The Fuzz",
-          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Love Album",
         "url": "https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A"
       },
@@ -1931,6 +1931,22 @@
       "duration_ms": 156573,
       "name": "You'll Lose a Good Thing (Rerecorded)",
       "url": "https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Sisters of Soul; the Sweeter Voices of Soul",
+        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
+      },
+      "artists": [
+        {
+          "name": "The Fuzz",
+          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2051,6 +2067,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Never Let Go, Vol. 1",
+        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
+      },
+      "artists": [
+        {
+          "name": "Vicky Tafoya and the Big Beat",
+          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Boy With the Angel Eyes",
+      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "The Entertainer",
         "url": "https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0"
       },
@@ -2071,22 +2103,6 @@
       "duration_ms": 160063,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Never Let Go, Vol. 1",
-        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya and the Big Beat",
-          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Boy With the Angel Eyes",
-      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2167,6 +2183,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "SalSoul",
+        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Mujer Mia",
+      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "I Like the Way You Love Me",
         "url": "https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR"
       },
@@ -2195,22 +2227,6 @@
       "duration_ms": 287266,
       "name": "Always and Forever - Edit",
       "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "SalSoul",
-        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Mujer Mia",
-      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
     },
     {
       "added_at": "2024-08-14 08:31:40",

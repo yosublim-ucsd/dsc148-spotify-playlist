@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 91696,
+  "num_followers": 91731,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1039,6 +1039,34 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+        }
+      ],
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "TRANSITIONS EP",
         "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
       },
@@ -1067,34 +1095,6 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Rap ap rete Rap",
-        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Medjy",
-          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
-        }
-      ],
-      "duration_ms": 236923,
-      "name": "Si Yo Vle",
-      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Bwa Kale",
         "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 185965,
       "name": "Bwa Kale",
       "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
       "artists": [
         {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "Spectrum the Originator",
+          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
         }
       ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+      "duration_ms": 166008,
+      "name": "Wine Pon Me - Remix",
+      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1875,18 +1879,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
       "artists": [
         {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
         }
       ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     }
   ],
   "unique_name": "Haitian Heat",

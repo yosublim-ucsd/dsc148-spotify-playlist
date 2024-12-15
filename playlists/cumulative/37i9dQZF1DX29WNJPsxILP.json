@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli featuring Karma",
+  "description": "Rap from the hoods of Dilli featuring Seedhe Maut",
   "name": "Dillihood",
   "tracks": [
     {
@@ -478,6 +478,32 @@
       "duration_ms": 247272,
       "name": "Blowing Up",
       "url": "https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu"
+    },
+    {
+      "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "GhAatak",
+          "url": "https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Brahamachari",
+      "url": "https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU"
     },
     {
       "album": {
@@ -1518,7 +1544,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 151826,
       "name": "Inner Circle",
       "url": "https://open.spotify.com/track/1yJyVPkov6bAAFV9jEXdEH"
@@ -1566,7 +1592,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 155236,
       "name": "JAANEJAANA",
       "url": "https://open.spotify.com/track/2T6twxFVaatlhg5Ocz08Bw"
@@ -2815,6 +2841,28 @@
     },
     {
       "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Hisab",
+          "url": "https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303937,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ"
+    },
+    {
+      "album": {
         "name": "Bhram (Deluxe)",
         "url": "https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d"
       },
@@ -3066,6 +3114,24 @@
       "duration_ms": 228777,
       "name": "Sehwag",
       "url": "https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj"
+    },
+    {
+      "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255254,
+      "name": "Shakti Aur Kshama",
+      "url": "https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8"
     },
     {
       "album": {
@@ -3364,7 +3430,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 167835,
       "name": "Tension Mat Le (feat. Mumzy Stranger & DJ LYAN)",
       "url": "https://open.spotify.com/track/4a9Lqb427Tuhl0uj5up7SR"

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 77531,
+  "num_followers": 77546,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+    },
+    {
+      "added_at": "2024-11-06 01:24:47",
+      "album": {
         "name": "Se Rumora (feat. Alu Mix)",
         "url": "https://open.spotify.com/album/7gPBXVllantu5kjBXm0D2S"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 203826,
       "name": "Se Rumora (feat. Alu Mix)",
       "url": "https://open.spotify.com/track/43YcBCml7HyoHE0iiaJDlo"
-    },
-    {
-      "added_at": "2024-11-06 01:24:47",
-      "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2024-11-06 01:24:47",

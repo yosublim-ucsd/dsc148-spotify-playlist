@@ -1,6 +1,6 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 140094,
+  "num_followers": 140120,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "The Joy of Life",
-      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 242026,
       "name": "I'm in the Mood for Love",
       "url": "https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
     },
     {
       "added_at": null,

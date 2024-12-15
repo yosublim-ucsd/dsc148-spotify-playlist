@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 78675,
+  "num_followers": 78743,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "DaKAR II",
-        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Thabsie",
-          "url": "https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
-      "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "DaKAR II",
+        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Thabsie",
+          "url": "https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
+      "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 230000,
       "name": "Umbayimbayi",
       "url": "https://open.spotify.com/track/1bmZLmDu9jkzwHInzPsYLD"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Broken Lipstick",
-        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
+        "name": "Amagama",
+        "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
       },
       "artists": [
         {
-          "name": "LaSauce",
-          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
-        },
-        {
-          "name": "Amanda Black",
-          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+          "name": "Intabayasedubai",
+          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
         }
       ],
-      "duration_ms": 313714,
-      "name": "I Do (feat. Amanda Black)",
-      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+      "duration_ms": 300773,
+      "name": "Sbali",
+      "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -843,18 +839,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Amagama",
-        "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
+        "name": "Broken Lipstick",
+        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
       "artists": [
         {
-          "name": "Intabayasedubai",
-          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
+          "name": "LaSauce",
+          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
+        },
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Sbali",
-      "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
+      "duration_ms": 313714,
+      "name": "I Do (feat. Amanda Black)",
+      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Sunday Blues",
-        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
-      },
-      "artists": [
-        {
-          "name": "Langa Mavuso",
-          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
-        }
-      ],
-      "duration_ms": 225382,
-      "name": "Sunday Blues",
-      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 281860,
       "name": "Chikwere",
       "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Sunday Blues",
+        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "duration_ms": 225382,
+      "name": "Sunday Blues",
+      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
-      },
-      "artists": [
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "No Retreat. No Surrender.",
         "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 383906,
       "name": "Sobabili",
       "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Ebusuku",
-        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
-      },
-      "artists": [
-        {
-          "name": "Th&o.",
-          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
-        }
-      ],
-      "duration_ms": 221819,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "ODO",
         "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Ebusuku",
+        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
+      },
+      "artists": [
+        {
+          "name": "Th&o.",
+          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
+        }
+      ],
+      "duration_ms": 221819,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "In The Building",
-        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
-      },
-      "artists": [
-        {
-          "name": "Hillzy",
-          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "Chargie",
-      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Zaneliza: How the Water Moves",
         "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "In The Building",
+        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
+      },
+      "artists": [
+        {
+          "name": "Hillzy",
+          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Chargie",
+      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
     },
     {
       "added_at": "2024-10-14 11:24:44",

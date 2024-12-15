@@ -128,10 +128,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5"
+    },
+    {
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252821,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
     },
     {
       "album": {
@@ -736,10 +754,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 245035,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm"
+    },
+    {
+      "album": {
+        "name": "La Fea",
+        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245035,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
     },
     {
       "album": {

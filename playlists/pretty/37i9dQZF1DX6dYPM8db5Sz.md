@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=on\-xw2v0S\_C7V\_xtXVBeAw">Porcelain Moon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,318 likes - 97 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,320 likes - 97 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

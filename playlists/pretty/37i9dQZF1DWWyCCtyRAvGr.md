@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,706 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,795 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 21 | [J.C's\. Blues](https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1) | [Michigan Curve](https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba) | [Bluesmen Don't Use Umbrellas](https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm) | 6:59 |
 | 22 | [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 |
 | 23 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
-| 24 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |
-| 25 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
+| 24 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
+| 25 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |
 | 26 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
 | 27 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
 | 28 | [I'm On My Way \- Remastered Version](https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2) | 3:09 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 74 | [Jake's Blues](https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI) | [Johnnie Red Latham](https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U) | [Jake's Blues](https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I) | 3:56 |
 | 75 | [Rainy Day Blues](https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Songbird](https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv) | 5:31 |
 | 76 | [Help Me](https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 3:30 |
-| 77 | [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 |
-| 78 | [Dynaflow Blues](https://open.spotify.com/track/5ZL5nn28AOKGDShsiJisMf) | [The Johnny Shines Blues Band](https://open.spotify.com/artist/72LpXS55YCS4rHy7NqiJ2N) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:40 |
-| 79 | [Keep On Eatin'](https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 2:37 |
-| 80 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 |
+| 77 | [Dynaflow Blues](https://open.spotify.com/track/5ZL5nn28AOKGDShsiJisMf) | [The Johnny Shines Blues Band](https://open.spotify.com/artist/72LpXS55YCS4rHy7NqiJ2N) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:40 |
+| 78 | [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 |
+| 79 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 |
+| 80 | [Keep On Eatin'](https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 2:37 |
 | 81 | [Nothing But Love](https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Contemporary](https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7) | 3:02 |
 | 82 | [Chinook Blues](https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR) | [Alice Di Micele](https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX) | [Chinook Blues](https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5) | 5:09 |
 | 83 | [Come on in This House](https://open.spotify.com/track/7odSShAbnTVHUub96z2deF) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 4:22 |

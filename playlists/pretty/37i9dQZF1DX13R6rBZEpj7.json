@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 235160,
+  "num_followers": 235278,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Rude Boyz",
-        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Rude Boyz",
-      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Really Tight",
         "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 244444,
       "name": "Really Tight",
       "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Rude Boyz",
+        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Rude Boyz",
+      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
     },
     {
       "added_at": "2024-11-29 00:00:00",

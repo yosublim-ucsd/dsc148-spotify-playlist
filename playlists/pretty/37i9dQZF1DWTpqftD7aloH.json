@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 389892,
+  "num_followers": 390149,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T"
-      },
-      "artists": [
-        {
-          "name": "Incendi\u00e1rios",
-          "url": "https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 471285,
-      "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Cuido dos Detalhes",
         "url": "https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T"
+      },
+      "artists": [
+        {
+          "name": "Incendi\u00e1rios",
+          "url": "https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 471285,
+      "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel",
         "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
       },
@@ -523,26 +539,6 @@
       "duration_ms": 395435,
       "name": "Tudo \u00e9 Poss\u00edvel",
       "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Fornalha Laura Souguellis",
-        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        },
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        }
-      ],
-      "duration_ms": 735253,
-      "name": "Em Teus Bra\u00e7os",
-      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -563,18 +559,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+        "name": "Fornalha Laura Souguellis",
+        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
       },
       "artists": [
         {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        },
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
         }
       ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
+      "duration_ms": 735253,
+      "name": "Em Teus Bra\u00e7os",
+      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 337896,
       "name": "Inexplic\u00e1vel Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Excel\u00eancia",
-        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 333546,
-      "name": "Adorador por Excel\u00eancia",
-      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+        "name": "Excel\u00eancia",
+        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 333546,
+      "name": "Adorador por Excel\u00eancia",
+      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Yeshua (Ao Vivo)",
         "url": "https://open.spotify.com/album/0FwcDAqBcPazI0Y28RHXrc"
       },
@@ -1219,18 +1235,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1251,26 +1271,6 @@
       "duration_ms": 296800,
       "name": "Mil Motivos - Ao Vivo",
       "url": "https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Cen\u00e1rio Favor\u00e1vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 342318,
       "name": "Cen\u00e1rio Favor\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Luz da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 311515,
-      "name": "Luz da Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Luz da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 311515,
+      "name": "Luz da Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Primeiro Lugar",
         "url": "https://open.spotify.com/album/4dw3smVMrJYqXZfFsG2zBo"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Brilha Tua Luz",
-        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 295997,
-      "name": "Brilha Tua Luz",
-      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
         "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 258146,
       "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
       "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "O Centro \u00c9s Tu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 345041,
+      "name": "O Centro \u00c9s Tu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Santo dos Santos",
         "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "O Centro \u00c9s Tu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 345041,
-      "name": "O Centro \u00c9s Tu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Plano Melhor",
         "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
       },
@@ -1795,6 +1795,38 @@
       "duration_ms": 288973,
       "name": "Plano Melhor",
       "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1899,38 +1931,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Jonas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Jonas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Grande Rei (Yeshua Est\u00e1 Aqui) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0D9uLgFpC7UYPG5UVwMaza"
       },
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Temporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/7rraIXg79Z1H4GPzs9vWyf"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 321506,
       "name": "Jeric\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/4MUY2SxOP6vIRaPxzl9U3P"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Gratid\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Baptista",
-          "url": "https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Gratid\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 393163,
       "name": "Amigo Incompar\u00e1vel - Ao vivo",
       "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Gratid\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Baptista",
+          "url": "https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49"
+        },
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Gratid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4"
     },
     {
       "added_at": "2024-12-13 16:42:11",

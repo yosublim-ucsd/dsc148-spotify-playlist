@@ -1,6 +1,6 @@
 {
   "description": "Hey (office) DJ, turn the music up! \ud83d\udc69\u200d\ud83d\udcbb",
-  "num_followers": 21381,
+  "num_followers": 21383,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
@@ -1251,18 +1251,30 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz"
+        "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+        "url": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 201573,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
+      "duration_ms": 195428,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
     }
   ],
   "unique_name": "9 to 5",

@@ -2160,7 +2160,7 @@
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
+          "name": "Baek Z Young",
           "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
@@ -3268,7 +3268,7 @@
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
+          "name": "Baek Z Young",
           "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
@@ -5609,28 +5609,6 @@
     },
     {
       "album": {
-        "name": "\ud310\ud0c0\uc2a4\ud2f1 \ub4c0\uc624 2 Part.14",
-        "url": "https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        },
-        {
-          "name": "Jang Ji Eun",
-          "url": "https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB"
-        }
-      ],
-      "date_added": "2022-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 329469,
-      "name": "\uc78a\uc9c0\ub9d0\uc544\uc694",
-      "url": "https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf"
-    },
-    {
-      "album": {
         "name": "Fantastic Duo 2 Part.14",
         "url": "https://open.spotify.com/album/58cixOBfn2ibkfcHyNo6OK"
       },
@@ -5650,6 +5628,28 @@
       "duration_ms": 329469,
       "name": "\uc78a\uc9c0\ub9d0\uc544\uc694",
       "url": "https://open.spotify.com/track/0TxZdtZRKeowh9F4aONLk3"
+    },
+    {
+      "album": {
+        "name": "\ud310\ud0c0\uc2a4\ud2f1 \ub4c0\uc624 2 Part.14",
+        "url": "https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        },
+        {
+          "name": "Jang Ji Eun",
+          "url": "https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329469,
+      "name": "\uc78a\uc9c0\ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf"
     },
     {
       "album": {

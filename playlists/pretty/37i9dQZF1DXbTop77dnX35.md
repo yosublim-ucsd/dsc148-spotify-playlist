@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Sarz & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,639 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,797 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 36 | [Catch Cold](https://open.spotify.com/track/65VKlVJxjMVeEzh607Gfpn) | [Pinky Jay](https://open.spotify.com/artist/0w7EOaPK7ujhclXHSsLfJh), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Catch Cold](https://open.spotify.com/album/2BJ0NDxQPVKJOdtL76C6ft) | 2:14 |
 | 37 | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/track/3joo6y0R9kahvWgj1CcwXY) | [Illbliss](https://open.spotify.com/artist/0aunKsCBtJ67KiUJ2gIwsq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/album/5pQ6xW8rlByLipibCEPhxV) | 3:34 |
 | 38 | [Ma Le Ra](https://open.spotify.com/track/53TvT5HwnGEX52PvqMNPF5) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Ma Le Ra](https://open.spotify.com/album/3aKy2LALvWVUpjXw7Nu3kc) | 2:47 |
-| 39 | [Kilon So](https://open.spotify.com/track/71OQPDjBpxoVJrTdieGKvZ) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8), [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7) | [Kilon So / Follow The Leader](https://open.spotify.com/album/3lCm8nAc20vjEmy6d73T4Y) | 2:00 |
+| 39 | [Kilon So](https://open.spotify.com/track/71OQPDjBpxoVJrTdieGKvZ) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Kilon So / Follow The Leader](https://open.spotify.com/album/3lCm8nAc20vjEmy6d73T4Y) | 2:00 |
 | 40 | [City Boiz](https://open.spotify.com/track/2BSITl2t9eWjMs29Imuxis) | [Jayfred](https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R) | [Give Me No Stress 2.0 \(Deluxe\)](https://open.spotify.com/album/3XTw2k3EutwITyNB90ostc) | 2:08 |
 | 41 | [ODG](https://open.spotify.com/track/3MSZpCh787GKXIPhkI2t84) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Rave & Adrenaline](https://open.spotify.com/album/0Cc8yhNet8BxSWLuR3RL6L) | 3:01 |
 | 42 | [Ji Masun](https://open.spotify.com/track/34PVA2J61Jqf3RXYSFdgUp) | [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Ji Masun / Demure](https://open.spotify.com/album/0KUJ6UB6rLS3zLLF9e01Qf) | 2:03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 42087,
+  "num_followers": 42100,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAABRy4QxjafvrSVVjuVfUxQv",
+  "snapshot_id": "Z1t5AAAAAABM2Jv9L/C94yCM3qQms4D9",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 145107,
       "name": "Mu\u00f1ekita de Cristal",
       "url": "https://open.spotify.com/track/2YeiiDBoqXrhq8SdMQL6oB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blunt",
+        "url": "https://open.spotify.com/album/1n9hTVqJjHQKg4bsOLU1Cx"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Blunt",
+      "url": "https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v"
     },
     {
       "added_at": null,
@@ -587,6 +607,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROMA",
+        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pipo Ti",
+          "url": "https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "No quiero que amanezca",
+      "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
       },
@@ -623,30 +667,6 @@
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROMA",
-        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pipo Ti",
-          "url": "https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "No quiero que amanezca",
-      "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
     },
     {
       "added_at": null,
@@ -867,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -895,26 +935,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
     },
     {
       "added_at": null,

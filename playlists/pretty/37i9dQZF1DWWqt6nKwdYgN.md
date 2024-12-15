@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,380 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,399 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 33 | [Me Perdí](https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Me Perdí](https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3) | 2:44 |
 | 34 | [Con la Frente en Alto](https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [Con la Frente en Alto](https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz) | 3:02 |
 | 35 | [BURN](https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [BURN](https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj) | 2:57 |
-| 36 | [LOOP ∞](https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b) | [ANOMALÍA](https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy) | 3:30 |
-| 37 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 |
+| 36 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 |
+| 37 | [LOOP ∞](https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b) | [ANOMALÍA](https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy) | 3:30 |
 | 38 | [CASI](https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE) | [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [CASI](https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu) | 2:26 |
-| 39 | [It's Okey](https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [It's Okey](https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9) | 3:17 |
-| 40 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |
+| 39 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |
+| 40 | [It's Okey](https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [It's Okey](https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9) | 3:17 |
 | 41 | [inviernos](https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i) | [Grados Bajo Cero](https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU) | 2:59 |
 | 42 | [MPD](https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [MPD](https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o) | 3:11 |
 | 43 | [Manantial](https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu) | [AEME](https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Manantial](https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3) | 3:14 |

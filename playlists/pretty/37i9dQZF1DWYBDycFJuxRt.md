@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 十明 \*👉 <a href="https://spice.eplus.jp/articles/334051">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,247 likes - 74 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,245 likes - 74 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

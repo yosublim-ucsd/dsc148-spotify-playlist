@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 510918,
+  "num_followers": 510969,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 376666,
       "name": "Gator Country",
       "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
     },
     {
       "added_at": "2024-07-05 17:03:45",

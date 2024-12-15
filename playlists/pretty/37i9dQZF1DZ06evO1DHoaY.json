@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2037720,
+  "num_followers": 2037848,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAABJiwUGzTOFaDc6TVzgjnAw",
+  "snapshot_id": "Z1t5AAAAAACzOIJVi5r2jjQLfRQpou1P",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 217800,
-      "name": "Stir It Up - Jamaican Version",
-      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
+      "duration_ms": 231773,
+      "name": "One Drop",
+      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -180,25 +196,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 231773,
-      "name": "One Drop",
-      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+      "duration_ms": 240333,
+      "name": "So Much Trouble In The World",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -244,25 +260,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 240333,
-      "name": "So Much Trouble In The World",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Easy Skanking",
-      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
+      "duration_ms": 175626,
+      "name": "Africa Unite",
+      "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 256239,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Easy Skanking",
+      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
     },
     {
       "added_at": null,
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 175626,
-      "name": "Africa Unite",
-      "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j"
+      "duration_ms": 231466,
+      "name": "Ride Natty Ride",
+      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Ride Natty Ride",
-      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 145773,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Zimbabwe",
+      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Zimbabwe",
-      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iron Lion Zion",
         "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marley (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 197840,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Ambush In The Night",
+      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Ambush In The Night",
-      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
     },
     {
       "added_at": null,

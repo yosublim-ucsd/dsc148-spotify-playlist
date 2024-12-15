@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,987 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,990 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 202 | [Moon](https://open.spotify.com/track/5Y2VkmfbOJhTKFnUkH8ZuP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:59 |
 | 203 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 |
 | 204 | [Rise Up \- Eurovision Version](https://open.spotify.com/track/0HmQrQ3whzQgMTshgDR2F5) | [Freaky Fortune](https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2) | [Rise Up](https://open.spotify.com/album/2oEUzpZoU88zdrioGuiAGR) | 3:02 |
-| 205 | [Heart of Glass](https://open.spotify.com/track/0WHd3ZHfKuwXLqAx6SAWlU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:31 |
-| 206 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 |
+| 205 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 |
+| 206 | [Heart of Glass](https://open.spotify.com/track/0WHd3ZHfKuwXLqAx6SAWlU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:31 |
 | 207 | [Baby](https://open.spotify.com/track/5x5TmxjilpvdOkdM2JgTeI) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:34 |
 | 208 | [The Final Countdown](https://open.spotify.com/track/6T3FXgh1GwDIxyXrBkrojY) | [School Reunion Band](https://open.spotify.com/artist/6psi5J7f13d8hYDUrhzBL0) | [Old School Family Road Trip Mix](https://open.spotify.com/album/6IxoNDjywEHdjpCc63AhQz) | 5:01 |
 | 209 | [Speed Dial No\. 2](https://open.spotify.com/track/7rhc9e9gzWZOj9khLQE8mb) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 3:51 |
@@ -325,9 +325,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 315 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
 | 316 | [Losing You](https://open.spotify.com/track/5SZuPkpxwgoP2pgxI76Z6Y) | [Love Hits](https://open.spotify.com/artist/4OGYWMUEByPvHnXdjSVDhB) | [Love Songs Now](https://open.spotify.com/album/6xZy4c6pJEqnQaXbHUI108) | 3:00 |
 | 317 | [Sóc de Titani \- Titanium](https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Sóc de Titani \(Titanium\)](https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0) | 3:12 |
-| 318 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
-| 319 | [Unstoppable \(Winner\)](https://open.spotify.com/track/5REbtP9VVeEZjbtoPfZKi5) | [Nicholson](https://open.spotify.com/artist/7ak5W5CiG11tI24HVUJlqw), [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY) | [Unstoppable \(Winner\)](https://open.spotify.com/album/0Q4LMMEqjbYBamGbs9ovbE) | 3:48 |
-| 320 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 318 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 319 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
+| 320 | [Unstoppable \(Winner\)](https://open.spotify.com/track/5REbtP9VVeEZjbtoPfZKi5) | [Nicholson](https://open.spotify.com/artist/7ak5W5CiG11tI24HVUJlqw), [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY) | [Unstoppable \(Winner\)](https://open.spotify.com/album/0Q4LMMEqjbYBamGbs9ovbE) | 3:48 |
 | 321 | [Up](https://open.spotify.com/track/2DmrjeW34yN2azsE2Xwj1p) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [B\. R\. Gunna](https://open.spotify.com/artist/6YIllbHGkgifcCut5A6Nrl), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Prequel to a Classic](https://open.spotify.com/album/7dSFl29aOSj3rq0fiBH2R5) | 2:47 |
 | 322 | [By Your Side \(Workout Mix + 135 BPM\)](https://open.spotify.com/track/470aIBFtqulDFlH5UtEbzr) | [Christian Workout Hits](https://open.spotify.com/artist/39HVSCCZMeqZ005U3CU1Pj) | [50 \#1 Workout Christian Hits! \(Deluxe Edition\) + Bonus Cardio Remixes + Instrumental Remixes + Classics \[2 Collection Set\]](https://open.spotify.com/album/3b8h601KQqKOiE00nOIgz5) | 5:59 |
 | 323 | [Text Me Back](https://open.spotify.com/track/0SEA2Tin86daYsOzXTGmsQ) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38), [KOOL A.D.](https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:25 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbkD9gAAAACVkfhFD3TnLYCAG1fcG7Cx`
+Snapshot ID: `AbkJyAAAAABSoS0JHtDhhenZzcsB11E0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,397 likes - 114 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 15 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 16 | [Blockbuster Stereotypes](https://open.spotify.com/track/5tdhZOFvk4RKixIDx4Qtxb) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Blockbuster Stereotypes](https://open.spotify.com/album/4X7idbpXjBQnk5VXvof32T) | 2:29 |
 | 17 | [Japanese Knife](https://open.spotify.com/track/5iOuiL2cMbu2LD74PDZ4Bw) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Japanese Knife](https://open.spotify.com/album/0m1WaLaYHRWaeDJ85po64W) | 2:36 |
-| 18 | [The Bird Song](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
+| 18 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
 | 19 | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR) | 3:40 |
 | 20 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 |
 | 21 | [STEP ON MY HEART](https://open.spotify.com/track/2x6HlMjt1PqF7nHja4HZAT) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [STEP ON MY HEART](https://open.spotify.com/album/0KZhmpRVfTjhZSlsSJolp1) | 2:40 |

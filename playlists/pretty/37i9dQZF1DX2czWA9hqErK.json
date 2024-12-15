@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1359060,
+  "num_followers": 1359022,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
+        "name": "Songs in the Gravel",
+        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 203077,
+      "name": "If I Had a Lover",
+      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
-        "name": "Songs in the Gravel",
-        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "If I Had a Lover",
-      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Life, Love & Upsets",
         "url": "https://open.spotify.com/album/5Sx0EE8htv4hV5jtSQgGdM"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 176059,
       "name": "Looking Like That",
       "url": "https://open.spotify.com/track/13LdcTEtxPwQPEirkFSGPp"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 177662,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+        "name": "When I\u2019m Leavin\u2019",
+        "url": "https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+      "duration_ms": 152073,
+      "name": "When I\u2019m Leavin\u2019",
+      "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
         "name": "Changes All The Time",
         "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
-        "name": "When I\u2019m Leavin\u2019",
-        "url": "https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 152073,
-      "name": "When I\u2019m Leavin\u2019",
-      "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Drawbridge & The Baroness",
-      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Crazymad, For Me",
         "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Drawbridge & The Baroness",
+      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
     },
     {
       "added_at": "2024-11-08 10:32:22",

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 50007,
+  "num_followers": 50019,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAABGTAVDZibC4ZUG+/zLvIUO",
+  "snapshot_id": "Z1t5AAAAAAD7hL1zy6mdHuHjzZN6tDvm",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love of God",
-        "url": "https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD"
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 324204,
-      "name": "Love Of God",
-      "url": "https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9"
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": null,
@@ -111,22 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+        "name": "Love of God (Live)",
+        "url": "https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+      "duration_ms": 468272,
+      "name": "Love of God (Live)",
+      "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 260605,
-      "name": "HOMETOWN",
-      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -607,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worthy Of My Song",
+        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 371640,
+      "name": "Worthy Of My Song",
+      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,

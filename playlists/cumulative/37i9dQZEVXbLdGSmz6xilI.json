@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "CH\u00c2N TH\u00c0NH (feat. RHYDER, Captain, Quang H\u00f9ng MasterD, WEAN & Ali Ho\u00e0ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -11464,7 +11464,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -13234,7 +13234,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -14556,7 +14556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -16106,7 +16106,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
@@ -17358,7 +17358,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -19931,6 +19931,24 @@
     },
     {
       "album": {
+        "name": "D\u1eef Li\u1ec7u Qu\u00fd",
+        "url": "https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw"
+      },
+      "artists": [
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Tr\u00e0n B\u1ed9 Nh\u1edb",
+      "url": "https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF"
+    },
+    {
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 13",
         "url": "https://open.spotify.com/album/3UFJXfvF4WRUldAWX3OOEP"
       },
@@ -21030,7 +21048,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -23536,7 +23554,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 239307,
       "name": "\u1eea Th\u00ec Chia Tay (feat. RHYDER)",
       "url": "https://open.spotify.com/track/0HAfl1uPBf5qTMiuAi6Ym7"

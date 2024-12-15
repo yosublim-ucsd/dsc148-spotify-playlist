@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Winny",
-  "num_followers": 242758,
+  "num_followers": 242804,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Qing Madi (Deluxe)",
         "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Falling/Unleash",
-        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Romeo Must Die (RMD)",
         "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Falling/Unleash",
+        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Jigga (feat. Khaid)",
-        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Jigga (feat. Khaid)",
-      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Adanna",
         "url": "https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a"
       },
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Jigga (feat. Khaid)",
+        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Jigga (feat. Khaid)",
+      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Welcome To The Pack",
-        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
-      },
-      "artists": [
-        {
-          "name": "Alpha P",
-          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1359,6 +1339,46 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Cocoa Butter",
+        "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "The Majeek",
+          "url": "https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8"
+        }
+      ],
+      "duration_ms": 113571,
+      "name": "Cocoa Butter",
+      "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -1379,22 +1399,38 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Cocoa Butter",
-        "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
-        },
-        {
-          "name": "The Majeek",
-          "url": "https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 113571,
-      "name": "Cocoa Butter",
-      "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Loner (Alone)",
+        "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Loner (Alone)",
+      "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1435,42 +1471,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Loner (Alone)",
-        "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "Loner (Alone)",
-      "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1523,26 +1523,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
+        "name": "Cold War (with FAVE)",
+        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 178310,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
+      "duration_ms": 193586,
+      "name": "Cold War (with FAVE)",
+      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
     }
   ],
   "unique_name": "Ginger Me",

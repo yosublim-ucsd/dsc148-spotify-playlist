@@ -4,12 +4,13 @@
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 38 min
+79 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2012 \(It Ain't The End\)](https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [2012 \(It Ain't The End\)](https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr) | 3:42 | 2024-06-16 |  |
-| [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W) | 3:19 | 2024-11-17 |  |
+| [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W) | 3:19 | 2024-11-17 | 2024-12-15 |
+| [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 | 2024-12-15 |  |
 | [All Eyes on You \(feat\. Chris Brown & Nicki Minaj\)](https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:43 | 2023-11-10 |  |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-11-10 | 2024-10-17 |
 | [Anaconda](https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 4:20 | 2023-11-10 |  |

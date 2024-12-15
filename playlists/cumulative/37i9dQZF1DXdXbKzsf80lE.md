@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-141 songs - 6 hr 46 min
+142 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-10-23 |  |
 | [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 | 2023-10-23 |  |
 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 | 2023-10-23 |  |
-| [Basta Você Me Ligar \- Ao Vivo](https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Conquistas \- EP 1 \(Ao Vivo\)](https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu) | 3:02 | 2023-10-23 |  |
+| [Basta Você Me Ligar \- Ao Vivo](https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Conquistas \- EP 1 \(Ao Vivo\)](https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu) | 3:02 | 2023-10-23 | 2024-12-15 |
+| [Batom De Ouro](https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:18 | 2024-07-08 |  |
 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 | 2023-10-23 |  |
 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 | 2023-10-23 |  |
 | [Bumbum Granada \- Ao Vivo](https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:46 | 2024-03-28 |  |

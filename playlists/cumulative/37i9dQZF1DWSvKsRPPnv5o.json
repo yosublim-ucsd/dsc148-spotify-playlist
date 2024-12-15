@@ -8265,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "God, i needa know",
+        "url": "https://open.spotify.com/album/2vDv4kTMuBiZ8xZftHGKY4"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "God, i needa know",
+      "url": "https://open.spotify.com/track/28FTY5mL82LDAAyMXlgUZ6"
+    },
+    {
+      "album": {
         "name": "BACK TO THE BASICS",
         "url": "https://open.spotify.com/album/0nBSBQLPQetFf06OE8OpdS"
       },

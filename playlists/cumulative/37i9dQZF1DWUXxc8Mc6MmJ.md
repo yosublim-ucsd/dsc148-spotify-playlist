@@ -309,7 +309,7 @@
 | [안녕](https://open.spotify.com/track/7sZwWzSeCtGYo5ZQcWRLlJ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2024-04-03 | 2024-04-19 |
 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 | 2024-04-03 |  |
 | [잠시 안녕처럼](https://open.spotify.com/track/53J0Y4STDwhHgFJavctNja) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [운명처럼 널 사랑해 OST Part.6](https://open.spotify.com/album/17zz25W2bkGudJfXOhrpIa) | 4:16 | 2024-04-03 | 2024-04-19 |
-| [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2022-05-11 |  |
+| [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2022-05-11 |  |
 | [파라다이스 \(꽃보다 남자OST 메인 테마\)](https://open.spotify.com/track/6HmqWhnp3mAgm8glPBzYVw) | [T\-Max](https://open.spotify.com/artist/3PwTBEkpRHd4T7UHZq94EY) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:25 | 2024-04-04 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

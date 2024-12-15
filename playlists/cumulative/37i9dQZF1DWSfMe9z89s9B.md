@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Gabriel Jacoby
 
-1,350 songs - 2 day 23 hr 5 min
+1,351 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1086,7 +1086,7 @@
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-02 | 2024-11-24 |
 | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/album/4tkmMUCsE8DE4ukjA8SBZC) | 4:29 | 2021-06-04 | 2022-01-26 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
-| [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-02 |  |
+| [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-02 | 2024-12-15 |
 | [Stop Playing](https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [The Ranch](https://open.spotify.com/album/2Gx9foKUKSHuoIDnTTlCLB) | 3:38 | 2024-08-30 | 2024-11-02 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |
 | [STRANGER](https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [ACCELERATOR](https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu) | 3:48 | 2024-06-28 |  |
@@ -1263,6 +1263,7 @@
 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-10-07 |
 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 | 2023-06-23 | 2024-06-29 |
+| [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 |  |
 | [WAISTBIN](https://open.spotify.com/track/2wTJZjPz6CXA7u6LIR3tHy) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [WAISTBIN](https://open.spotify.com/album/6iiB0qXCkVdknSw5hOrITR) | 2:56 | 2023-04-14 | 2024-02-24 |
 | [Wait](https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wait](https://open.spotify.com/album/5VMeHVPli9fPnSKznSqsDr) | 3:10 | 2021-08-13 | 2022-07-24 |
 | [WAITING](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [WAITING](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-10 | 2023-04-16 |

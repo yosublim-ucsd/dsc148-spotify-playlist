@@ -2089,6 +2089,32 @@
     },
     {
       "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
+    },
+    {
+      "album": {
         "name": "Nightvision EP",
         "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
       },

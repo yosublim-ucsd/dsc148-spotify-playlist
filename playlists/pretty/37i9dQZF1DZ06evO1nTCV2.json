@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43840,
+  "num_followers": 43842,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAAuV9mo/aDG7NCW7N45DBou",
+  "snapshot_id": "Z1t5AAAAAAAF1rWgT/aZYkm76PMVPDWf",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+        "name": "BLACKHOLE",
+        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 172186,
-      "name": "Lucky Now",
-      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
+      "duration_ms": 167426,
+      "name": "Help Us",
+      "url": "https://open.spotify.com/track/5IDCzUhE7ICppWHZFpleq2"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACKHOLE",
-        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Help Us",
-      "url": "https://open.spotify.com/track/5IDCzUhE7ICppWHZFpleq2"
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLACKHOLE",
         "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 248706,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/4MsteXmAxiVv6qqK4udNmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLACKHOLE",
+        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Tomorrowland",
+      "url": "https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 301013,
       "name": "La Cienega Just Smiled",
       "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLACKHOLE",
-        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Just You Wait",
-      "url": "https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLACKHOLE",
+        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 226693,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLACKHOLE",
-        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "For The Sun",
-      "url": "https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLACKHOLE",
+        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Just You Wait",
+      "url": "https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 185000,
       "name": "Answering Bell",
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLACKHOLE",
-        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLACKHOLE",
+        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "For The Sun",
+      "url": "https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLACKHOLE",
-        "url": "https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "Tomorrowland",
-      "url": "https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Battle",
         "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 180560,
       "name": "The Battle (feat. Ryan Adams)",
       "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Fuck The Rain",
-      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Seong-Jin Cho(\uc870\uc131\uc9c4)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4425,
+  "num_followers": 4428,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,26 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
+        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
         "name": "Mozart: Die Zauberfl\u00f6te",
         "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 249240,
       "name": "Die Zauberfl\u00f6te / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herze\"",
       "url": "https://open.spotify.com/track/74R148YlWFrVqVTM1gjq6A"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
-        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -847,6 +847,38 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
+        "name": "Make A Wish (Birthday Song) [Orchestra Version]",
+        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Make A Wish (Birthday Song) - Orchestra Version",
+      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
@@ -867,18 +899,18 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Make A Wish (Birthday Song) [Orchestra Version]",
-        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
+        "name": "Boom Boom Bass (Orchestra Version)",
+        "url": "https://open.spotify.com/album/6rxvpb7N5NXGD9PlpAwLBv"
       },
       "artists": [
         {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
         }
       ],
-      "duration_ms": 273346,
-      "name": "Make A Wish (Birthday Song) - Orchestra Version",
-      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
+      "duration_ms": 162205,
+      "name": "Boom Boom Bass - Orchestra Version",
+      "url": "https://open.spotify.com/track/4OgQ3J2o8mI82LcJOqLrX2"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -903,38 +935,6 @@
       "duration_ms": 289613,
       "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
-        "name": "Boom Boom Bass (Orchestra Version)",
-        "url": "https://open.spotify.com/album/6rxvpb7N5NXGD9PlpAwLBv"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 162205,
-      "name": "Boom Boom Bass - Orchestra Version",
-      "url": "https://open.spotify.com/track/4OgQ3J2o8mI82LcJOqLrX2"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 235160,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
       "artists": [
         {
           "name": "Hong Jin Ho",
           "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
+      "duration_ms": 305000,
+      "name": "Us, then",
+      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
           "name": "Hong Jin Ho",
           "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        },
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Us, then",
-      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Deep Sleep Deep",
-        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
       },
       "artists": [
         {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
-        },
-        {
-          "name": "Yeongene",
-          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
         }
       ],
-      "duration_ms": 198375,
-      "name": "iMessage (feat. Yeongene)",
-      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1751,18 +1747,22 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+        "name": "Deep Sleep Deep",
+        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Yeongene",
+          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
+      "duration_ms": 198375,
+      "name": "iMessage (feat. Yeongene)",
+      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
+        "name": "We Will Be One",
+        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "duration_ms": 183542,
+      "name": "We Will Be One",
+      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
         "name": "Barber, Bruch",
         "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
       },
@@ -1887,42 +1903,6 @@
       "duration_ms": 448413,
       "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
       "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
-        "name": "We Will Be One",
-        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
-      },
-      "artists": [
-        {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
-        }
-      ],
-      "duration_ms": 183542,
-      "name": "We Will Be One",
-      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
-    },
-    {
-      "added_at": "2024-12-13 06:54:39",
-      "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
-      },
-      "artists": [
-        {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        },
-        {
-          "name": "Ko Yeong Yeol",
-          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
-        }
-      ],
-      "duration_ms": 229098,
-      "name": "Aguas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1955,22 +1935,22 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
         },
         {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
         }
       ],
-      "duration_ms": 862200,
-      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
-      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
+      "duration_ms": 293409,
+      "name": "Crying for Love",
+      "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -1987,6 +1967,26 @@
       "duration_ms": 279613,
       "name": "The Red String",
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2024-12-13 06:54:39",
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2024-12-13 06:54:39",
@@ -2015,22 +2015,22 @@
     {
       "added_at": "2024-12-13 06:54:39",
       "album": {
-        "name": "Schubert: Piano Sonatas III",
-        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
+        "name": "MEMORIA: BACH-BUSONI GOLDBERG VARIATIONS",
+        "url": "https://open.spotify.com/album/0jB7eeOGjJ6FDTNSriue6x"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "William Youn",
-          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+          "name": "LEE YOON SOO",
+          "url": "https://open.spotify.com/artist/5oWxj245uF0ZvEnbL2KXAo"
         }
       ],
-      "duration_ms": 628546,
-      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
-      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
+      "duration_ms": 130506,
+      "name": "ARIA",
+      "url": "https://open.spotify.com/track/5Ancct1aNbFkvy7Dr7XEny"
     }
   ],
   "unique_name": "Classics Korea",

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127743,
+  "num_followers": 127756,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-12-12 16:54:25",
       "album": {
-        "name": "\u5de6\u908a\u7684\u4eba",
-        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "\u5de6\u908a\u7684\u4eba",
-      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
-    },
-    {
-      "added_at": "2024-12-12 16:54:25",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2024-12-12 16:54:25",
+      "album": {
+        "name": "\u5de6\u908a\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "\u5de6\u908a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
     },
     {
       "added_at": "2024-12-12 16:54:25",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-12-12 16:54:25",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
+        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
+        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
       "artists": [
         {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
+          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
         }
       ],
-      "duration_ms": 233380,
-      "name": "Love You & Your Friends - Spotify Singles",
-      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
+      "duration_ms": 300215,
+      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
+      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
     },
     {
       "added_at": "2024-12-12 16:54:25",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-12-12 16:54:25",
       "album": {
-        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
-        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
       },
       "artists": [
         {
-          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
-          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
         }
       ],
-      "duration_ms": 300215,
-      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
-      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
+      "duration_ms": 233380,
+      "name": "Love You & Your Friends - Spotify Singles",
+      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
     },
     {
       "added_at": "2024-12-12 16:54:25",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-12 16:54:25",
       "album": {
-        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
-      },
-      "artists": [
-        {
-          "name": "HAOR",
-          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
-    },
-    {
-      "added_at": "2024-12-12 16:54:25",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+    },
+    {
+      "added_at": "2024-12-12 16:54:25",
+      "album": {
+        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
+      },
+      "artists": [
+        {
+          "name": "HAOR",
+          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
     },
     {
       "added_at": "2024-12-12 16:54:25",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-12-12 16:54:25",
       "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2024-12-12 16:54:25",
+      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
-    },
-    {
-      "added_at": "2024-12-12 16:54:25",
-      "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2024-12-12 16:54:25",

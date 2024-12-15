@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,654 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,782 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 33 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 34 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
 | 35 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 36 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
+| 36 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
 | 37 | [Big Momma Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
-| 38 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
+| 38 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
 | 39 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 40 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
 | 41 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |

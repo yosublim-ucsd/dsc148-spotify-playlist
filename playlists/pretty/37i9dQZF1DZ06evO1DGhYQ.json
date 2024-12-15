@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 8012,
+  "num_followers": 8013,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAD/quXw/1spgFyinMh2M+iE",
+  "snapshot_id": "Z1t5AAAAAACEDvghtRD8tfgKxLVYlZnJ",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEYOND",
-        "url": "https://open.spotify.com/album/6kC3TwttInYBMtp7jQK06T"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "MaRI",
-          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "BEYOND",
-      "url": "https://open.spotify.com/track/0cbxHYeQrL9Bz6IjyIWSQi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEYOND",
+        "url": "https://open.spotify.com/album/6kC3TwttInYBMtp7jQK06T"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "BEYOND",
+      "url": "https://open.spotify.com/track/0cbxHYeQrL9Bz6IjyIWSQi"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 284200,
       "name": "SHOW TIME",
       "url": "https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,

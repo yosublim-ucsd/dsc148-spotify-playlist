@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -1686,6 +1686,32 @@
       "duration_ms": 347866,
       "name": "Mind Ecology (with John McLaughlin)",
       "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
+      },
+      "artists": [
+        {
+          "name": "Anjana Padmanabhan",
+          "url": "https://open.spotify.com/artist/420Mr1M4EAVToMd0puguQD"
+        },
+        {
+          "name": "Siddhesh Shrivastava",
+          "url": "https://open.spotify.com/artist/0f1ufB3uP5qiQhcNFnfyE5"
+        },
+        {
+          "name": "Harshil Gandhi",
+          "url": "https://open.spotify.com/artist/61jrNAkPzXVKsOQn8XSqDh"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263111,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo"
     },
     {
       "album": {

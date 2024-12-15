@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 23462,
+  "num_followers": 23712,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 260430,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "SHINBANGUMI",
         "url": "https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7"
       },
@@ -599,6 +579,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 260430,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ITS NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 117761,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -647,22 +663,6 @@
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "ITS NOT THAT DEEP",
-        "url": "https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 117761,
-      "name": "SUPERSTAR",
-      "url": "https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Guided Tour",
-        "url": "https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X"
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
       },
       "artists": [
         {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 265165,
-      "name": "Guided Tour",
-      "url": "https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS"
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Guided Tour",
+        "url": "https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 265165,
+      "name": "Guided Tour",
+      "url": "https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Ordinary Games",
         "url": "https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/42HRGEN5ltCezgopFl609S"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
+      "duration_ms": 164019,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/6vdu0VyKBcN7lkUcdS37mF"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -955,22 +971,6 @@
       "duration_ms": 221429,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/42HRGEN5ltCezgopFl609S"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 164019,
-      "name": "Soak",
-      "url": "https://open.spotify.com/track/6vdu0VyKBcN7lkUcdS37mF"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+        "name": "Great Doubt",
+        "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
       },
       "artists": [
         {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+      "duration_ms": 201967,
+      "name": "Do you wanna",
+      "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Great Doubt",
-        "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
         }
       ],
-      "duration_ms": 201967,
-      "name": "Do you wanna",
-      "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Dennis",
-        "url": "https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Kepko",
-      "url": "https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Water's Here In You",
         "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },
@@ -1191,34 +1175,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
         }
       ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "When a Thought Grows Wings",
-        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5"
+      "duration_ms": 192453,
+      "name": "Kepko",
+      "url": "https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1243,18 +1211,50 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "June Baby",
-        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
       },
       "artists": [
         {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 182333,
-      "name": "June Baby",
-      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "SlowMo",
+        "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lamb",
+          "url": "https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb"
+        }
+      ],
+      "duration_ms": 222741,
+      "name": "Soft Spoken",
+      "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
     }
   ],
   "unique_name": "Indie songs from 2024 you may have missed",

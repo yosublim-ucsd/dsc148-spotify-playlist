@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Michael Kaneko
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,817 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,824 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 41 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
 | 42 | [Wonderful Christmastime](https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Wonderful Christmastime](https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI) | 2:57 |
 | 43 | [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 |
-| 44 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
-| 45 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
-| 46 | [Fine Love](https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fine Love](https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh) | 4:45 |
+| 44 | [Fine Love](https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fine Love](https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh) | 4:45 |
+| 45 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
+| 46 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
 | 47 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 |
 | 48 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
 | 49 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
 | 50 | [Wan!](https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wan!](https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW) | 2:35 |
 | 51 | [Summer Days](https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Summer Days](https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu) | 3:49 |
 | 52 | [Don't make love vow](https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Don't make love vow](https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW) | 3:09 |
-| 53 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 |
-| 54 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 |
-| 55 | [Ebi Fry](https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [EUPHORIA](https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz) | 2:37 |
+| 53 | [Ebi Fry](https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [EUPHORIA](https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz) | 2:37 |
+| 54 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 |
+| 55 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 |
 | 56 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 |
 | 57 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
 | 58 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |

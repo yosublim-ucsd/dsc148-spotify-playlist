@@ -303,22 +303,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "\ud55c\ubc88\ubfd0\uc778 \uc778\uc0dd One Life to Live",
-      "url": "https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 298109,
       "name": "\uc6b0\ub9ac \uac19\uc774\ud574\uc694",
       "url": "https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "\ud55c\ubc88\ubfd0\uc778 \uc778\uc0dd One Life to Live",
+      "url": "https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -435,22 +435,38 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+        "name": "Quiet Storm: A Night Record",
+        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
       },
       "artists": [
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "\uc815\ud45c",
-          "url": "https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy"
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        },
+        {
+          "name": "Rimi",
+          "url": "https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+        },
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
         }
       ],
-      "duration_ms": 276800,
-      "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
-      "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
+      "duration_ms": 252920,
+      "name": "Airplane Music (feat. Basick, Rimi, Beenzino, Fana & San E)",
+      "url": "https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -527,38 +543,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Quiet Storm: A Night Record",
-        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         },
         {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        },
-        {
-          "name": "Rimi",
-          "url": "https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Fana",
-          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
-        },
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+          "name": "\uc815\ud45c",
+          "url": "https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy"
         }
       ],
-      "duration_ms": 252920,
-      "name": "Airplane Music (feat. Basick, Rimi, Beenzino, Fana & San E)",
-      "url": "https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19"
+      "duration_ms": 276800,
+      "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
+      "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "\ub6f0\uc5b4\uac00 Run (feat. Tiger JK & Jinbo)",
+      "url": "https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 293041,
       "name": "\ub7a9\uad50 1\ub9c9",
       "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "\ub208\uc744 \ub728\uba74",
-      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -723,22 +723,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         },
         {
-          "name": "Tiger JK",
-          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 235960,
-      "name": "\ub6f0\uc5b4\uac00 Run (feat. Tiger JK & Jinbo)",
-      "url": "https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH"
+      "duration_ms": 254640,
+      "name": "\ub208\uc744 \ub728\uba74",
+      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -827,18 +827,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Bizzionary",
-        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
+        "name": "Quiet Storm: A Night Record",
+        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
       },
       "artists": [
         {
-          "name": "Bizzy",
-          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
         }
       ],
-      "duration_ms": 477231,
-      "name": "Movement 4",
-      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
+      "duration_ms": 218893,
+      "name": "Stars (feat. Verbal Jint & Swings)",
+      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -863,26 +871,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+        "name": "Bizzionary",
+        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
       },
       "artists": [
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Bobby Kim",
-          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
-        },
-        {
-          "name": "Sean2Slow",
-          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
         }
       ],
-      "duration_ms": 264733,
-      "name": "Climb High",
-      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
+      "duration_ms": 477231,
+      "name": "Movement 4",
+      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -979,26 +979,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Quiet Storm: A Night Record",
-        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         },
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
         },
         {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
         }
       ],
-      "duration_ms": 218893,
-      "name": "Stars (feat. Verbal Jint & Swings)",
-      "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
+      "duration_ms": 264733,
+      "name": "Climb High",
+      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
+      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 172421,
       "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
       "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
-      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Outsider",
+          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
         }
       ],
-      "duration_ms": 239052,
-      "name": "Drama - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
+      "duration_ms": 191360,
+      "name": "\uc678\ud1a8\uc774",
+      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1347,22 +1347,6 @@
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "MAESTRO",
-        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
-      },
-      "artists": [
-        {
-          "name": "Outsider",
-          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "\uc678\ud1a8\uc774",
-      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1395,6 +1379,22 @@
       "duration_ms": 231235,
       "name": "\uc990\uac70\uc6b4 \uc0dd\ud65c",
       "url": "https://open.spotify.com/track/1497gstQL5iceFZJ5vb2ti"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 239052,
+      "name": "Drama - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Eobusa \uc5b4\ubd80\uc0ac (Fisherman's Song)",
-        "url": "https://open.spotify.com/album/7n2NOSEVPIuiwgIGqIS4uP"
-      },
-      "artists": [
-        {
-          "name": "\uc6d0\uc36c",
-          "url": "https://open.spotify.com/artist/7dy2Iukbsr1ds1cxHfSpP3"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
-      "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "\uc870PD. Net / Best In East",
         "url": "https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 256574,
       "name": "Never Give Up \u2161 (Feat. \uc190\ubc15\uc0ac, \uc624\uc804\ub3c4\uc0ac, DJ Uzi, Rich)",
       "url": "https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Eobusa \uc5b4\ubd80\uc0ac (Fisherman's Song)",
+        "url": "https://open.spotify.com/album/7n2NOSEVPIuiwgIGqIS4uP"
+      },
+      "artists": [
+        {
+          "name": "\uc6d0\uc36c",
+          "url": "https://open.spotify.com/artist/7dy2Iukbsr1ds1cxHfSpP3"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
+      "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",

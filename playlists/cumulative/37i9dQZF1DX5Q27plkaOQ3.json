@@ -2011,6 +2011,44 @@
     },
     {
       "album": {
+        "name": "Boss (Kill Safari Remix)",
+        "url": "https://open.spotify.com/album/5d8SMMZdjc9mWtzC3ZeLfv"
+      },
+      "artists": [
+        {
+          "name": "Kill Safari",
+          "url": "https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        },
+        {
+          "name": "Cody Ray",
+          "url": "https://open.spotify.com/artist/7nqVEhD14JLieCcN2n3CiB"
+        },
+        {
+          "name": "AFK",
+          "url": "https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL"
+        },
+        {
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118019,
+      "name": "Boss (Kill Safari Remix)",
+      "url": "https://open.spotify.com/track/5UhX7ZL6inBOGtTlPQYwXF"
+    },
+    {
+      "album": {
         "name": "BOSS FIGHT",
         "url": "https://open.spotify.com/album/5nZXNqdF0BInnCkJwFA5a5"
       },
@@ -7118,7 +7156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 185600,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/0MwLwN2dFTMOZUZ0msjXOv"

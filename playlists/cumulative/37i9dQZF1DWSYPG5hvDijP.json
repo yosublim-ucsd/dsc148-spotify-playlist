@@ -5353,6 +5353,28 @@
     },
     {
       "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Gourmet Shit!",
+      "url": "https://open.spotify.com/track/5J9a8TXC2zF4KuUdm7CgT6"
+    },
+    {
+      "album": {
         "name": "GT Durango",
         "url": "https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ"
       },
@@ -6168,6 +6190,24 @@
       "duration_ms": 168292,
       "name": "ICE",
       "url": "https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK"
+    },
+    {
+      "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159870,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/3iNGpMjhIcTqrAliwmSaaH"
     },
     {
       "album": {
@@ -9201,6 +9241,28 @@
     },
     {
       "album": {
+        "name": "Kshama",
+        "url": "https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Moon Comes Up",
+      "url": "https://open.spotify.com/track/66GDabumuepCIWCl1xAWKL"
+    },
+    {
+      "album": {
         "name": "MTCD",
         "url": "https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq"
       },
@@ -11936,7 +11998,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 109714,
       "name": "Sultan Rahi",
       "url": "https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ"
@@ -12370,7 +12432,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 171481,
       "name": "Thanks For Nothing",
       "url": "https://open.spotify.com/track/7pZQjFWuS0aDHSdZk7FOo8"
@@ -13842,7 +13904,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 140145,
       "name": "Zindagi Mast Hai",
       "url": "https://open.spotify.com/track/6JZOllYZRNENfISJ4sU7rg"

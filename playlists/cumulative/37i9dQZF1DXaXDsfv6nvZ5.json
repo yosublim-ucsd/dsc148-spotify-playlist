@@ -8350,7 +8350,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
@@ -12446,6 +12446,24 @@
       "duration_ms": 189333,
       "name": "WHY - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
+    },
+    {
+      "album": {
+        "name": "FIELDNOTES: COMPLETE",
+        "url": "https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp"
     },
     {
       "album": {

@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "TRANSFORMANDO",
+        "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
+    },
+    {
+      "album": {
         "name": "Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 251200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc"

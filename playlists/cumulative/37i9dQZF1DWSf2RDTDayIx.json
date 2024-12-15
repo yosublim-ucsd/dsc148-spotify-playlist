@@ -265,6 +265,32 @@
     },
     {
       "album": {
+        "name": "Akon's Beautiful Day (David Guetta & Hypaton Remix)",
+        "url": "https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175846,
+      "name": "Akon's Beautiful Day - David Guetta & Hypaton Remix",
+      "url": "https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ"
+    },
+    {
+      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -2148,7 +2174,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/62102D1yfhWdzW39Vj06FR"

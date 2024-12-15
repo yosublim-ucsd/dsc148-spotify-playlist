@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181254,
+  "num_followers": 181265,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
       "artists": [
         {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
         }
       ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Prospect Hill: The American Songster Omnibus",
-        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Georgia Drumbeat",
-      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Between the Dirt and the Stars",
         "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 463133,
       "name": "Between the Dirt and the Stars",
       "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Prospect Hill: The American Songster Omnibus",
+        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Georgia Drumbeat",
+      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Come and Fill My Soul",
-        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
-      },
-      "artists": [
-        {
-          "name": "Samson For President",
-          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
-        }
-      ],
-      "duration_ms": 223418,
-      "name": "Come and Fill My Soul",
-      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Strip Me Bare",
         "url": "https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 285472,
       "name": "Lawrence of Arcadia",
       "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Come and Fill My Soul",
+        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
+      },
+      "artists": [
+        {
+          "name": "Samson For President",
+          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
+        }
+      ],
+      "duration_ms": 223418,
+      "name": "Come and Fill My Soul",
+      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
-      },
-      "artists": [
-        {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Lorraine",
         "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 273893,
       "name": "Lorraine",
       "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Pacific Northwest Bound",
+        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
+      },
+      "artists": [
+        {
+          "name": "Mike McKenna Jr.",
+          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Pacific Northwest Bound",
+      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
     }
   ],
   "unique_name": "Contemporary Folk",

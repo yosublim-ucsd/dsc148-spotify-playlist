@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,723 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,914 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 91 | [Noël brille encore](https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Noël brille encore](https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A) | 3:26 |
 | 92 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 |
 | 93 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
-| 94 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
-| 95 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 |
+| 94 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 |
+| 95 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
 | 96 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 | 97 | [Père Noël arrive ce soir](https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:24 |
 | 98 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 |

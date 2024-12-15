@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Prim
 
-242 songs - 11 hr 52 min
+243 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-07 |  |
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 | 2024-10-25 |
+| [AMORETABACCO](https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [AMORETABACCO](https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6) | 2:34 | 2024-12-12 |  |
 | [Anche i Cowboy Piangono](https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Anche i Cowboy Piangono](https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2) | 2:54 | 2024-09-26 |  |
 | [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 | 2024-12-03 |
 | [Andando Molto Piano](https://open.spotify.com/track/5cxkweImoqytdiJ2GF3SB4) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Andando Molto Piano](https://open.spotify.com/album/7uW2mwzJ2fvg8iFWRLWJPg) | 2:41 | 2024-06-27 | 2024-07-12 |
@@ -92,7 +93,7 @@
 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [Giornata vuota](https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Giornata vuota](https://open.spotify.com/album/5O4q3gA9yOLHZbB2nINGz3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [Godspeed / Fili d'Erba](https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ora](https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn) | 1:50 | 2024-11-21 |  |
-| [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 |  |
+| [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 | 2024-12-15 |
 | [Grazie](https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Grazie](https://open.spotify.com/album/6yaWr4a1XS8pKSqkOfszKC) | 2:54 | 2024-11-28 |  |
 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 | 2024-09-05 | 2024-09-27 |
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 |  |

@@ -103,22 +103,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Mrs. Cold",
-        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183766,
-      "name": "Mrs. Cold",
-      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Mrs. Cold",
+        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183766,
+      "name": "Mrs. Cold",
+      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 214301,
       "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
       "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Dare That Dream",
         "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 256972,
       "name": "You Must Believe In Spring",
       "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Take a Giant Step",
-      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "The Sound the Rhythm",
         "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 444573,
       "name": "Tangorrus Field",
       "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Take a Giant Step",
+      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "Time for Ballads - The Maene Sessions",
+        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Roaring Heights",
+      "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Time for Ballads - The Maene Sessions",
-        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Roaring Heights",
-      "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
     },
     {
       "added_at": "2024-06-13 12:59:10",

@@ -1141,6 +1141,28 @@
     },
     {
       "album": {
+        "name": "SUKHA",
+        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172239,
+      "name": "MEDICINA NATURAL",
+      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },

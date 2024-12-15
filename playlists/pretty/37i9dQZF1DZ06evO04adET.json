@@ -1,41 +1,13 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 767670,
+  "num_followers": 768090,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACdkcbmD8KJbqZA8bpGf6q6",
+  "snapshot_id": "Z1t5AAAAAAALaXUqw9G9fzHkW5T//knw",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kamikaze (feat. Victor Mendivil)",
-        "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Uriel Gaxiola",
-          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
-        },
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 248362,
-      "name": "Kamikaze (feat. Victor Mendivil)",
-      "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
-    },
     {
       "added_at": null,
       "album": {
@@ -159,6 +131,34 @@
       "duration_ms": 211352,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kamikaze (feat. Victor Mendivil)",
+        "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        },
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 248362,
+      "name": "Kamikaze (feat. Victor Mendivil)",
+      "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 288367,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 128893,
       "name": "El de La Codeina",
       "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 288367,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
     },
     {
       "added_at": null,
@@ -975,30 +975,6 @@
       "duration_ms": 275659,
       "name": "Paso En Culiacan",
       "url": "https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 170901,
-      "name": "Lucky Charms",
-      "url": "https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y"
     }
   ],
   "unique_name": "This Is Natanael Cano",

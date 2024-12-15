@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,435 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,528 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si, Es Así](https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [SI, ES ASÍ](https://open.spotify.com/album/3DZASLonCv5I6Kld58eq51) | 3:08 |
 | 2 | [Con Sonido](https://open.spotify.com/track/2AGfk7IjFHZLJldj5v4FAC) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Con Sonido](https://open.spotify.com/album/7rwsVPRfcq886nwJsnDEvP) | 2:02 |
 | 3 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
-| 4 | [Tu Quiere Bailar](https://open.spotify.com/track/2E402UKUx9geWqtRpMj5oX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Tu Quiere Bailar](https://open.spotify.com/album/3V0VfbPq775O3a0tNK2FIX) | 2:03 |
+| 4 | [TU QUIERE BAILAR](https://open.spotify.com/track/2E402UKUx9geWqtRpMj5oX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [TU QUIERE BAILAR](https://open.spotify.com/album/3V0VfbPq775O3a0tNK2FIX) | 2:03 |
 | 5 | [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 |
 | 6 | [Cachorra](https://open.spotify.com/track/1DnXqeP1IOg9MKVIDE19zQ) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Cachorra](https://open.spotify.com/album/0YbwYxJtqaWuygvF5scTfw) | 2:28 |
 | 7 | [Ou Ou](https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Ou Ou](https://open.spotify.com/album/1JWFlOflVOdPslc9sPjfBJ) | 2:26 |

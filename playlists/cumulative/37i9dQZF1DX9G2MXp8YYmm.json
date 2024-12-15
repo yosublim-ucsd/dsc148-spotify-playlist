@@ -905,6 +905,28 @@
     },
     {
       "album": {
+        "name": "C\u00fcmlenin Sonu",
+        "url": "https://open.spotify.com/album/5WXqwMNjpZPqgz0NTH5JX9"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "Mavzer Tabancas",
+          "url": "https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144300,
+      "name": "C\u00fcmlenin Sonu",
+      "url": "https://open.spotify.com/track/6EmI2OLfK6Q1rFOMLtt75T"
+    },
+    {
+      "album": {
         "name": "Daha K\u00f6t\u00fc Ne Olabilir Ki",
         "url": "https://open.spotify.com/album/4CeYzfOsE9OQi39hQV5f0i"
       },
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 187930,
       "name": "Kar\u0131\u015ft\u0131r\u0131cam O Uykular\u0131n\u0131",
       "url": "https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp"
@@ -2182,7 +2204,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 176863,
       "name": "Olmaz Senden",
       "url": "https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ"
@@ -2998,6 +3020,28 @@
       "duration_ms": 153613,
       "name": "Yeri Var",
       "url": "https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5"
+    },
+    {
+      "album": {
+        "name": "Yerine Sevemem",
+        "url": "https://open.spotify.com/album/54PlqcEztTsO9Dm5o1FFb6"
+      },
+      "artists": [
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        },
+        {
+          "name": "Galip \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/47EffAmIS4aq0q6yUyXiVt"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164069,
+      "name": "Yerine Sevemem",
+      "url": "https://open.spotify.com/track/52YofYBLBIErQ8r8yhtesx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: For Revenge, More on Mumbles
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,311 likes - 118 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,307 likes - 118 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

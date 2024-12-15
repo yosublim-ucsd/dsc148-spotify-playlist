@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa PMMP ja KUUMAA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,365 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,373 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 42 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 43 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 | 44 | [Buffaa buffaa](https://open.spotify.com/track/5Uqfwg3kclgjETnpKUuW8v) | [Nea Neuroosi](https://open.spotify.com/artist/0xQXEYDhEL3ookEBqlmSpZ), [Oiva Vedätys](https://open.spotify.com/artist/4A0rp1tGx06eW6QU3QvoDs), [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr) | [Buffaa buffaa](https://open.spotify.com/album/1xmvB3GfHFUtqkSYrng1Bh) | 5:07 |
-| 45 | [The Bird Song](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
+| 45 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 |
 | 46 | [Good Night Honey](https://open.spotify.com/track/1OzMRIUD7FCCq9AJ0NzPAE) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Good Night Honey](https://open.spotify.com/album/2hrpq1AEsJbcM5FBofF4Og) | 1:39 |
 | 47 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 |
 | 48 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 67 | [Me Free My Way \- Live from European Tour](https://open.spotify.com/track/3WJuS1jCrlLfuhXYAQuikw) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Me Free My Way \(Live from European Tour\)](https://open.spotify.com/album/2In23jPnpl8QEIwIzk8FNR) | 4:04 |
 | 68 | [Hurts When It's Healing](https://open.spotify.com/track/3D3Uao82eAZoPjCCdGruLK) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Hurts When It's Healing](https://open.spotify.com/album/30xALgunGSZmINEVL15UED) | 3:15 |
 | 69 | [Edelleen Kylil](https://open.spotify.com/track/6ZHzAvJXlA41yVgGGWWPGo) | [Antti Karsee](https://open.spotify.com/artist/6YijeCCZDuweMA7lm55yhS), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [SUO](https://open.spotify.com/album/6breM8leRaAfFNvFwTEkdj) | 3:54 |
-| 70 | [Throwback](https://open.spotify.com/track/4Bku6Y4hBOOMLCGq3S4R1V) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Throwback](https://open.spotify.com/album/1dSxvTiCGeHebqUNjw30lK) | 2:27 |
+| 70 | [Throwback](https://open.spotify.com/track/4Bku6Y4hBOOMLCGq3S4R1V) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Throwback](https://open.spotify.com/album/1dSxvTiCGeHebqUNjw30lK) | 2:32 |
 | 71 | [I Hate Myself](https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [I Hate Myself](https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR) | 3:15 |
 | 72 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
 | 73 | [Prison Of My Mind](https://open.spotify.com/track/2GEpjJUAoYyzjwwF1DnFfF) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Prison Of My Mind](https://open.spotify.com/album/7KjcExgKkHZu4O370P7Ujq) | 4:23 |

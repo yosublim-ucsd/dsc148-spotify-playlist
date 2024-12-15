@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Dayo Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,855 likes - 217 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,853 likes - 217 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

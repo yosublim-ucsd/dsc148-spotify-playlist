@@ -1,41 +1,13 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 152461,
+  "num_followers": 152489,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAABim17tG9mSx7xZP76ngEUN",
+  "snapshot_id": "Z1t5AAAAAAAdrMl5Qb+i7uxS4m9Mmq5Y",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Constant",
-        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Anthony Gargiula",
-          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 292185,
-      "name": "Constant (feat. Chandler Moore)",
-      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
-    },
     {
       "added_at": null,
       "album": {
@@ -247,6 +219,34 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 299509,
       "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 726770,
-      "name": "Most Beautiful / So in Love",
-      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -908,25 +908,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         },
         {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        },
-        {
-          "name": "Za Smith",
-          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
-        },
-        {
-          "name": "Roman Collins",
-          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
         }
       ],
-      "duration_ms": 225768,
-      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
-      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -959,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
       "artists": [
         {
@@ -968,17 +960,25 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Roman Collins",
+          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
         }
       ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+      "duration_ms": 225768,
+      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
+      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
     },
     {
       "added_at": null,
@@ -1191,8 +1191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -1200,13 +1200,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 513188,
-      "name": "Yes & Amen",
-      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
+      "duration_ms": 449446,
+      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
     },
     {
       "added_at": null,
@@ -1231,8 +1235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
       "artists": [
         {
@@ -1240,17 +1244,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 449446,
-      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
-      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
+      "duration_ms": 513188,
+      "name": "Yes & Amen",
+      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
     },
     {
       "added_at": null,
@@ -1299,30 +1299,6 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Melody Adorno",
-          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
-        }
-      ],
-      "duration_ms": 515963,
-      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
-      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
     }
   ],
   "unique_name": "This Is Maverick City Music",

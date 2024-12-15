@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,565 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,652 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 44 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 45 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 |
 | 46 | [Mil Horas](https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 7\)](https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m) | 3:46 |
-| 47 | [Tierra Mala](https://open.spotify.com/track/4TTYsYuhG7W8JpM1tBrwwI) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amín Martínez](https://open.spotify.com/artist/4rrusW2YNQ5PMDRDOXaGXz) | [Mano a Mano Vallenato](https://open.spotify.com/album/40iM1VcdPsIaAJu1Ox0tmd) | 4:48 |
-| 48 | [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 |
-| 49 | [Amapola](https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Amapola](https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW) | 3:12 |
-| 50 | [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 |
+| 47 | [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 |
+| 48 | [Amapola](https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Amapola](https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW) | 3:12 |
+| 49 | [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 |
+| 50 | [Tierra Mala](https://open.spotify.com/track/4TTYsYuhG7W8JpM1tBrwwI) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amín Martínez](https://open.spotify.com/artist/4rrusW2YNQ5PMDRDOXaGXz) | [Mano a Mano Vallenato](https://open.spotify.com/album/40iM1VcdPsIaAJu1Ox0tmd) | 4:48 |
 | 51 | [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 |
 | 52 | [Nuestra Pobreza](https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [Pídeme](https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU) | 3:21 |
 | 53 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 94 | [Tania](https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 3:39 |
 | 95 | [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 |
 | 96 | [El Aguardientosky](https://open.spotify.com/track/0jusHNguMSIgQvIVhiMzr3) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Éxitos Música Parrandera](https://open.spotify.com/album/7dRlwm5NsDXtaGPjbOaLEr) | 3:20 |
-| 97 | [Cuerpo a Cuerpo](https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR) | [Grupo Cariaco](https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip) | [Bailables del Año \(Vol\. 19\)](https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT) | 3:46 |
+| 97 | [El Año Viejo](https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 3:04 |
 | 98 | [Sin Rencores](https://open.spotify.com/track/1noWzwzuuWRClbaOX8Rbx7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:31 |
-| 99 | [El Año Viejo](https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 3:04 |
+| 99 | [Cuerpo a Cuerpo](https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR) | [Grupo Cariaco](https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip) | [Bailables del Año \(Vol\. 19\)](https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT) | 3:46 |
 | 100 | [Las Caleñas Son Como las Flores \- Remix](https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:54 |
 
 Snapshot ID: `ZyRBqAAAAABHm/khV99Nx2YXZV242ui5`

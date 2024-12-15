@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: El Buen Hijo.",
-  "num_followers": 23248,
+  "num_followers": 23257,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
         "name": "Himno de las flores",
         "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 228995,
       "name": "Himno de las flores",
       "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
         "name": "Joven Ciudad",
         "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 191691,
       "name": "Joven Ciudad",
       "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
+        "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
+        "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 188682,
+      "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
+      "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1247,18 +1279,18 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "\u00a1Que te pares!",
-        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+        "name": "Entre las nubes",
+        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
         }
       ],
-      "duration_ms": 193754,
-      "name": "\u00a1Que te pares!",
-      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
+      "duration_ms": 155592,
+      "name": "Entre las nubes",
+      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "Entre las nubes",
-        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
-      },
-      "artists": [
-        {
-          "name": "Hiperg\u00e9minis",
-          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
-        }
-      ],
-      "duration_ms": 155592,
-      "name": "Entre las nubes",
-      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
         "name": "Al Final",
         "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
@@ -1327,54 +1343,6 @@
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
-      },
-      "artists": [
-        {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
-        }
-      ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
-        "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
-        "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 188682,
-      "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
-      "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1395,18 +1363,50 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "Sangre Azul",
-        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
       },
       "artists": [
         {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
         }
       ],
-      "duration_ms": 144664,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "duration_ms": 187816,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
+        "name": "Sangre Azul",
+        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
       },
       "artists": [
         {
-          "name": "PELIGRO!",
-          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
         }
       ],
-      "duration_ms": 187816,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
+      "duration_ms": 144664,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1475,6 +1475,22 @@
       "duration_ms": 176640,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1QFIGt5aDUuXL5Aqk1dRXO"
+    },
+    {
+      "added_at": "2024-12-12 23:00:14",
+      "album": {
+        "name": "La decadencia del mant\u00f3n de manila",
+        "url": "https://open.spotify.com/album/0fy2BoOYsVZW2Ygrd7mJAt"
+      },
+      "artists": [
+        {
+          "name": "Cuarto Mundo",
+          "url": "https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx"
+        }
+      ],
+      "duration_ms": 149832,
+      "name": "La decadencia del mant\u00f3n de manila",
+      "url": "https://open.spotify.com/track/1UstjK4LvcbTtLLRt7Pzyx"
     },
     {
       "added_at": "2024-12-12 23:00:14",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "Baimen gabe",
-        "url": "https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG"
-      },
-      "artists": [
-        {
-          "name": "Izaki Gardenak",
-          "url": "https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh"
-        }
-      ],
-      "duration_ms": 311266,
-      "name": "Baimen gabe",
-      "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
-    },
-    {
-      "added_at": "2024-12-12 23:00:14",
-      "album": {
         "name": "Vacaciones Permanentes",
         "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-12-12 23:00:14",
       "album": {
-        "name": "La decadencia del mant\u00f3n de manila",
-        "url": "https://open.spotify.com/album/0fy2BoOYsVZW2Ygrd7mJAt"
+        "name": "Baimen gabe",
+        "url": "https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG"
       },
       "artists": [
         {
-          "name": "Cuarto Mundo",
-          "url": "https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx"
+          "name": "Izaki Gardenak",
+          "url": "https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh"
         }
       ],
-      "duration_ms": 149832,
-      "name": "La decadencia del mant\u00f3n de manila",
-      "url": "https://open.spotify.com/track/1UstjK4LvcbTtLLRt7Pzyx"
+      "duration_ms": 311266,
+      "name": "Baimen gabe",
+      "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
     },
     {
       "added_at": "2024-12-12 23:00:14",

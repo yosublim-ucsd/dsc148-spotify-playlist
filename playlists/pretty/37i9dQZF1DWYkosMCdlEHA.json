@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 145972,
+  "num_followers": 146007,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
+        "name": "Rosa Flor (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S"
       },
       "artists": [
         {
-          "name": "Viegas",
-          "url": "https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 261724,
-      "name": "Pra Voar / Posso Ser - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X"
+      "duration_ms": 199134,
+      "name": "Rosa Flor (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Rosa Flor (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S"
+        "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Viegas",
+          "url": "https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he"
         }
       ],
-      "duration_ms": 199134,
-      "name": "Rosa Flor (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7"
+      "duration_ms": 261724,
+      "name": "Pra Voar / Posso Ser - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X"
     },
     {
       "added_at": "2024-07-05 13:49:13",

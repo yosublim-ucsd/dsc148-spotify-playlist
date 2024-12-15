@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22847,
+  "num_followers": 22854,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAAO3SV1EKqEKQqXri2+KkCo",
+  "snapshot_id": "Z1t5AAAAAACIH2FFd53wDrpWrhrfTzU2",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 203508,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 213644,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 203508,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "One Look - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 245919,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Asks Pleasure First",
-        "url": "https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 182577,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Asks Pleasure First",
+        "url": "https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
     },
     {
       "added_at": null,

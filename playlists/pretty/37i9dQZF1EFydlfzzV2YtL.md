@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 171 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415 likes - 171 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 80 | [New Rules x Are You That Somebody?](https://open.spotify.com/track/0M2ASyWJhjvc4AzneR7sG6) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 2:58 |
 | 81 | [Already Gone](https://open.spotify.com/track/6x1I3zQyA5cUCsxPrGHHrP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 2:42 |
 | 82 | [Nobody Else](https://open.spotify.com/track/2iK6RzhARWY8A6YlYPYksZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 |
-| 83 | [Someone Singing Along](https://open.spotify.com/track/4R3f6mYEfSZHrgt3BOWtks) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:33 |
-| 84 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
+| 83 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
+| 84 | [Someone Singing Along](https://open.spotify.com/track/4R3f6mYEfSZHrgt3BOWtks) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:33 |
 | 85 | [Using \(with Emily Warren\) \- MEDUZA Remix](https://open.spotify.com/track/7c6tga0CoT6IHhHt16EcBd) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Using \(MEDUZA Remix\)](https://open.spotify.com/album/27nYr7tyo7mcRG2KjD34z1) | 2:46 |
 | 86 | [Fear Of Being Alone](https://open.spotify.com/track/3QGk8QfPKlpCCcdOUGRpMA) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:51 |
 | 87 | [Gold](https://open.spotify.com/track/6u51lb1jfWMN3Q2ZYrMbcG) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:32 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 151 | [Circles](https://open.spotify.com/track/40EouT4GbFzSTyxs447pBv) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:41 |
 | 152 | [Dani](https://open.spotify.com/track/3LenEVr696gWMr77z0T9rx) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:54 |
 | 153 | [Poking Holes](https://open.spotify.com/track/1OOB6fyNlCwKLcx7zYiEfs) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:50 |
-| 154 | [How It Ends](https://open.spotify.com/track/3j0HALT5ZAp2z7a8MfctmR) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:36 |
-| 155 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
+| 154 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
+| 155 | [How It Ends](https://open.spotify.com/track/3j0HALT5ZAp2z7a8MfctmR) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:36 |
 | 156 | [No Filter](https://open.spotify.com/track/3q1YFeOkPzB1N66WnKvZr3) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:00 |
 | 157 | [I Love Your Girl](https://open.spotify.com/track/4GO8S3iZlSLwdsyf1XEOmA) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:09 |
 | 158 | [The Point](https://open.spotify.com/track/0jvo85AH33ruP3757RIFdX) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:18 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 170 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 171 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbkEAAAAAADaHdqOVs7gHWcqkott6he7`
+Snapshot ID: `AbkJyAAAAADJTksLWMA4zn66RqBHq00m`

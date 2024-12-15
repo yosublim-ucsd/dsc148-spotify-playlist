@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30824,
+  "num_followers": 30866,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
-        "name": "If I Dey Lie (with Crayon)",
-        "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
-      },
-      "artists": [
-        {
-          "name": "Almost Joey",
-          "url": "https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "If I Dey Lie (with Crayon)",
-      "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
-    },
-    {
-      "added_at": "2024-12-06 05:37:17",
-      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2024-12-06 05:37:17",
+      "album": {
+        "name": "If I Dey Lie (with Crayon)",
+        "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
+      },
+      "artists": [
+        {
+          "name": "Almost Joey",
+          "url": "https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "If I Dey Lie (with Crayon)",
+      "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
     },
     {
       "added_at": "2024-12-06 05:37:17",

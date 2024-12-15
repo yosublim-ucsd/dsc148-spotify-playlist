@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,417 likes - 106 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,477 likes - 106 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

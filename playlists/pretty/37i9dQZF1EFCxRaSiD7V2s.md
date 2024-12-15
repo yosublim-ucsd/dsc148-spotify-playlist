@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 278 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 278 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 29 | [Last Person](https://open.spotify.com/track/3uVH59Q8AF1nB7P6D7H6ZJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:15 |
 | 30 | [Love For Long](https://open.spotify.com/track/7xQxYu9ACcFBQNiQWJw3TL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 2:53 |
 | 31 | [Dreaming on the Bus \- Ra Ra Riot Remix](https://open.spotify.com/track/5I0GTKXNY5Cr5jBnNP7L8V) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 4:59 |
-| 32 | [Drinking Song](https://open.spotify.com/track/52X6p19n5gwm9w5JjeAMfk) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:38 |
-| 33 | [Fireside](https://open.spotify.com/track/2yCCYSZ7ZdVHSeEZTs8NMZ) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:58 |
+| 32 | [Fireside](https://open.spotify.com/track/2yCCYSZ7ZdVHSeEZTs8NMZ) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:58 |
+| 33 | [Drinking Song](https://open.spotify.com/track/52X6p19n5gwm9w5JjeAMfk) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:38 |
 | 34 | [Little Bird](https://open.spotify.com/track/6A82phvHzrtOROC66doRou) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 2:50 |
 | 35 | [ambrosia](https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:02 |
 | 36 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 277 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 278 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AbkEAAAAAAAj9LDG3qYNs97CjWaaIO4J`
+Snapshot ID: `AbkJyAAAAADkSKC5BvXAykozQYRpjZyH`

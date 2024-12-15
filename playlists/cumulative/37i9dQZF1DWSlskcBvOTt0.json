@@ -11859,6 +11859,24 @@
     },
     {
       "album": {
+        "name": "Pakpak",
+        "url": "https://open.spotify.com/album/0tjFvdoQwSFsMZg2VOYPpm"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221311,
+      "name": "Pakpak",
+      "url": "https://open.spotify.com/track/7Kvm5VfGbb4IEwsHo4UO5Q"
+    },
+    {
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC"
       },
@@ -13677,6 +13695,28 @@
     },
     {
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "album": {
         "name": "Si Te Portas Bonito",
         "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
@@ -14476,7 +14516,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 218360,
       "name": "Sunrise Generation",
       "url": "https://open.spotify.com/track/4m98UJ9M2jC3S3qUhJKy3z"
@@ -17008,7 +17048,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 231989,
       "name": "Who Loves The Sun - (Everyone\u2019s Mix)",
       "url": "https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg"

@@ -6,7 +6,7 @@
     "name": "charlie",
     "url": "https://open.spotify.com/user/blank808"
   },
-  "snapshot_id": "AAAFRPzAvoLwzR7iSGX6cobQsceJg4km",
+  "snapshot_id": "AAAFRtaoy9/1jDM49nk0bcOpIfMWN9j2",
   "tracks": [
     {
       "added_at": "2024-09-16 13:04:52",
@@ -23595,6 +23595,38 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
+    },
+    {
+      "added_at": "2024-12-14 18:40:26",
+      "album": {
+        "name": "Ice Slippin",
+        "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 255920,
+      "name": "Ice Slippin",
+      "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    {
+      "added_at": "2024-12-14 23:37:30",
+      "album": {
+        "name": "Saaheem",
+        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lost All My Feelings",
+      "url": "https://open.spotify.com/track/5dqfwupDEoz7s8m4TWaAJC"
     }
   ],
   "unique_name": "on repeat + repeat rewind",

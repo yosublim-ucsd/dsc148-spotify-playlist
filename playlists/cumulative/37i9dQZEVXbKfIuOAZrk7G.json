@@ -24644,7 +24644,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
@@ -26988,7 +26988,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 153053,
       "name": "I'm Gettin Nuttin for Christmas",
       "url": "https://open.spotify.com/track/1Aw7qXuLCpQDmcSZ456o2g"
@@ -28990,7 +28990,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 237043,
       "name": "I\u2019m Not That Girl",
       "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
@@ -51765,6 +51765,24 @@
     },
     {
       "album": {
+        "name": "Some Of Your Love",
+        "url": "https://open.spotify.com/album/1zVydl04lKKEqHNgreRtsq"
+      },
+      "artists": [
+        {
+          "name": "PND",
+          "url": "https://open.spotify.com/artist/2sD3FFiyiynSOBtLuFr2IR"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164977,
+      "name": "Some Of Your Love",
+      "url": "https://open.spotify.com/track/7AFHpxmIYKRKlleCPpiCWi"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -52792,7 +52810,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 247279,
       "name": "Stand By Me - Live at The Print Shop",
       "url": "https://open.spotify.com/track/67hKxSwcDqnccdCBzYaLsS"
@@ -58556,7 +58574,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1NzNNQuppVgVYrm2hvrPK2"

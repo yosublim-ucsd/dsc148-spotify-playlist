@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "RIP LU MIKE",
+        "url": "https://open.spotify.com/album/58sqfVSb7XhyNB91p4c4cE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168607,
+      "name": "RIP LU MIKE",
+      "url": "https://open.spotify.com/track/03uziM8djjbeijRpcXKTEJ"
+    },
+    {
+      "album": {
         "name": "Youngest N Charge 2",
         "url": "https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx"
       },

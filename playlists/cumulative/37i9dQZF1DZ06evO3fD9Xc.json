@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3oapm4AXLMjdBafY90vZ4R"
+    },
+    {
+      "album": {
         "name": "Para No Pensar en Ti",
         "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
       },

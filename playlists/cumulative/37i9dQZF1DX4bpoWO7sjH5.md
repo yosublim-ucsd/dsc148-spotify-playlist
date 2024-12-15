@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-233 songs - 15 hr 18 min
+234 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 | 2021-12-24 | 2024-04-19 |
 | [No Me Soltarás](https://open.spotify.com/track/27gBMppFLRjY0B0xmAYyIY) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6) | 5:01 | 2021-12-24 | 2024-07-30 |
 | [No Me Soltarás](https://open.spotify.com/track/7y1szuVdtgBTKLXdghRYvH) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/5r3sFTx1iKXxoUFbeZ9iCU) | 5:01 | 2021-12-24 | 2022-11-13 |
+| [Noche de Paz](https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG) | [Celeste & Wilber](https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF) | [Noche de Paz](https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0) | 4:37 | 2024-12-13 |  |
 | [Noche de paz](https://open.spotify.com/track/1FgGbxn7dhxkjxivVUxF96) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/3ASFoKaxRtfLItf3UthC91) | 3:06 | 2021-12-24 | 2024-11-17 |
 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 | 2021-12-24 | 2024-04-19 |
 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 | 2021-12-24 |  |
@@ -195,7 +196,7 @@
 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 | 2024-04-19 |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2024-11-30 |
 | [Santa la Noche](https://open.spotify.com/track/3dCHDETB0ddcWtRDMRqiM7) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:19 | 2023-12-15 | 2024-07-30 |
-| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 |  |
+| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 | 2024-12-15 |
 | [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 | 2021-12-24 | 2024-04-19 |
 | [Santa la Noche](https://open.spotify.com/track/4KraBnnnVo6dlqavv7fnF6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:18 | 2021-12-24 | 2024-07-30 |
 | [Santa la Noche](https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:18 | 2021-12-24 | 2024-04-19 |

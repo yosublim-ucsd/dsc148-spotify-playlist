@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 163080,
+  "num_followers": 163130,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -475,22 +475,6 @@
       "duration_ms": 177133,
       "name": "Good On You - Acoustic",
       "url": "https://open.spotify.com/track/6dijZIbS0hXPjb8AQpxufp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "You (Acoustic)",
-        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "You - Acoustic",
-      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -515,6 +499,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "WHAT I HAVE",
         "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 178681,
       "name": "WHAT I HAVE",
       "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -563,34 +547,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Like It Ain't (Stripped)",
-        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
         }
       ],
-      "duration_ms": 156690,
-      "name": "Like It Ain't - Stripped",
-      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Acoustic Sessions EP",
-        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251170,
-      "name": "Wilder Days - Acoustic",
-      "url": "https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU"
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -611,6 +579,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251170,
+      "name": "Wilder Days - Acoustic",
+      "url": "https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 175639,
       "name": "Half Of Me - Acoustic",
       "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Like It Ain't (Stripped)",
+        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Like It Ain't - Stripped",
+      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Bluebird (Acoustic)",
-        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 220637,
-      "name": "Bluebird - Acoustic",
-      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+        "name": "Bluebird (Acoustic)",
+        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+      "duration_ms": 220637,
+      "name": "Bluebird - Acoustic",
+      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Beautiful As U",
-        "url": "https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 163161,
-      "name": "Beautiful As You - Acoustic",
-      "url": "https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 133906,
       "name": "No Horse To Ride - demo version",
       "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Beautiful As U",
+        "url": "https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163161,
+      "name": "Beautiful As You - Acoustic",
+      "url": "https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "One Percent (Acoustic)",
+        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 204900,
+      "name": "One Percent (Acoustic)",
+      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "One Percent (Acoustic)",
-        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 204900,
-      "name": "One Percent (Acoustic)",
-      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Standing Room Only (Acoustic)",
         "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 226440,
       "name": "Standing Room Only - Acoustic",
       "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me (Piano)",
+        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Something's Gonna Kill Me - Piano",
+      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
     },
     {
       "added_at": "2024-10-04 04:00:00",

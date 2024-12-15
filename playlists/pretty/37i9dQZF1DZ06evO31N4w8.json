@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 60487,
+  "num_followers": 60515,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACJZTDaziGwBKp5hVPPz+H8",
+  "snapshot_id": "Z1t5AAAAAACIkI2UjnUKrXUR52+9TZGn",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Historicos, Vol. 2",
         "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 191546,
       "name": "Renunciacion",
       "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Desde la Otra Mesa",
-      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 159840,
       "name": "Mi Amor No Lo Mereces",
       "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
     },
     {
       "added_at": null,

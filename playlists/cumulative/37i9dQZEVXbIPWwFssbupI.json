@@ -3941,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -14347,6 +14365,32 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
+      "album": {
         "name": "VV5",
         "url": "https://open.spotify.com/album/5uUFOGf7Ia6F3j2t1NhB4H"
       },
@@ -15158,7 +15202,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -15763,6 +15807,24 @@
     },
     {
       "album": {
+        "name": "Essonne History X",
+        "url": "https://open.spotify.com/album/0LZJn4oks6WRz4Use9vegj"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "Grabba",
+      "url": "https://open.spotify.com/track/1udbAgkp5HmFu4JYhYObnk"
+    },
+    {
+      "album": {
         "name": "JVLIVS II",
         "url": "https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7"
       },
@@ -16154,7 +16216,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 158208,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
@@ -21420,7 +21482,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -25906,7 +25968,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 186640,
       "name": "Miroirs",
       "url": "https://open.spotify.com/track/7nRCeBY3Oyqu94Nav3ViTT"
@@ -25986,7 +26048,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 256066,
       "name": "Missiles",
       "url": "https://open.spotify.com/track/6rZ8Y8JTBZXIBwr78abvEw"
@@ -28974,7 +29036,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
@@ -28992,7 +29054,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/7EOSnXbF5vxwm4L1T20lfk"
@@ -29680,7 +29742,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 169256,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
@@ -35420,7 +35482,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 254666,
       "name": "Soldi famiglia (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6NyBfy5d0b8cAf8oPY6LoA"
@@ -36104,7 +36166,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 293746,
       "name": "Stigmates",
       "url": "https://open.spotify.com/track/6AEd14DP46Dtn7Y0pXwjYf"
@@ -37510,7 +37572,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

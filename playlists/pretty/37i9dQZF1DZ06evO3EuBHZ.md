@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,391 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,409 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 48 | [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 |
 | 49 | [No Jody for Me](https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:46 |
 
-Snapshot ID: `Z1ongAAAAAAqrxHydDsnpzNcXyyZ7tyv`
+Snapshot ID: `Z1t5AAAAAAByy//7CWtXy10PuqWOqEc5`

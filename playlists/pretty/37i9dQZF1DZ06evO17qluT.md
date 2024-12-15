@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,078 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,123 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Outra Hora \(Remix\)](https://open.spotify.com/track/4CzY9IOwpNuDycKKvioSWd) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:36 |
 | 50 | [Bloco 7](https://open.spotify.com/track/0VsjCKvZFvfPieM8x0HRKe) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:46 |
 
-Snapshot ID: `Z1ongAAAAAB1NzT49/LpLGNch7JVhwIh`
+Snapshot ID: `Z1t5AAAAAADiepL0pP4KtdFIwsw53zs6`

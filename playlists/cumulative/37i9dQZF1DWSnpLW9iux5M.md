@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-168 songs - 11 hr 11 min
+169 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:40 | 2021-12-24 |  |
 | [I'll Be Thinking of You](https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN) | [I'll Be Thinking of You](https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5) | 4:45 | 2021-12-24 |  |
 | [I'm So Glad It's Christmas](https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g) | [I'm So Glad It's Christmas](https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3) | 3:39 | 2021-12-24 |  |
-| [It Came Upon a Midnight Clear](https://open.spotify.com/track/2He6pRzFecj20ERLuqk5b5) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [The Gift of Christmas](https://open.spotify.com/album/1o6bELQCbdJaBMMVqVNPM6) | 3:33 | 2021-12-24 |  |
+| [It Came Upon a Midnight Clear](https://open.spotify.com/track/2He6pRzFecj20ERLuqk5b5) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [The Gift of Christmas](https://open.spotify.com/album/1o6bELQCbdJaBMMVqVNPM6) | 3:33 | 2021-12-24 | 2024-12-15 |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 | 2021-12-24 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Christmas with Mahalia](https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0) | 3:24 | 2021-12-24 |  |
 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 | 2021-12-24 |  |
@@ -96,6 +96,7 @@
 | [Joyful, Joyful](https://open.spotify.com/track/1msKaoGQtek67evpapFJAF) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Very McCrary Christmas](https://open.spotify.com/album/3cadYbVxIyNYQ88aWR45jg) | 3:30 | 2022-11-26 | 2024-04-19 |
 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 | 2021-12-24 |  |
 | [Let Us Adore Him](https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 3:39 | 2021-12-24 |  |
+| [Lift You Up](https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf), [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Lift You Up](https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u) | 3:38 | 2024-12-13 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 | 2021-12-24 |  |
 | [Love's Holiday](https://open.spotify.com/track/1CLKbZfiNy5LoSOsJtOE4c) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Men Of Standard](https://open.spotify.com/artist/1DXIt1yDO207SmcSFAVEeS), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn) | [Hello Christmas](https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly) | 5:21 | 2021-12-24 |  |
 | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/track/5trAlg2Ejz3ISXt50oVbP2) | [Writing Rounds](https://open.spotify.com/artist/5T2nw36a1BS7bxpvciTIve), [AB Vital\-Herne](https://open.spotify.com/artist/3slc5Z3v1tiBUP7VKGAa4I) | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/album/3dkSaBic2mMrkF1oSYN8sb) | 4:16 | 2023-12-15 | 2024-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,070 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,056 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 49 | [Stereo Love \- Edit](https://open.spotify.com/track/2Xf4RoFpi7n06ppsGKbxiq) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/5kRrvgSyY0eyuCIoeQZN2S) | 3:04 |
 | 50 | [Let's Twist Again](https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [It's Pony Time/Let's Twist Again](https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0) | 2:17 |
 | 51 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
-| 52 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
-| 53 | [Bamboléo](https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl) | 3:23 |
+| 52 | [Bamboléo](https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl) | 3:23 |
+| 53 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 54 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 55 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
 | 56 | [Suavemente](https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq) | 4:27 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 146 | [La Canción Del Velero](https://open.spotify.com/track/1wV4Iied30083fVXBMJpJV) | [La Fiesta](https://open.spotify.com/artist/4eYgRQtOzycNEUh4pwp1wf) | [Dicen](https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM) | 3:35 |
 | 147 | [Salsa Con Reggaetón](https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR) | [Hombres Con Pañales](https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT) | 3:25 |
 | 148 | [Limbo](https://open.spotify.com/track/6EIO3HCU6WmnRk2rEX86aN) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/2I4tV7CMavQflSlHJ52RX1) | 3:44 |
-| 149 | [No me llames iluso](https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Ni jaulas ni peceras](https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw) | 3:11 |
-| 150 | [Mujer Latina](https://open.spotify.com/track/4jNQhO0UX7rwoJ1dqDrH7x) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Greatest Hits](https://open.spotify.com/album/54NZEGiJSOn0xbXNx2vacd) | 3:37 |
+| 149 | [Mujer Latina](https://open.spotify.com/track/4jNQhO0UX7rwoJ1dqDrH7x) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Greatest Hits](https://open.spotify.com/album/54NZEGiJSOn0xbXNx2vacd) | 3:37 |
+| 150 | [No me llames iluso](https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Ni jaulas ni peceras](https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw) | 3:11 |
 
 Snapshot ID: `ZnGETAAAAACrAIQwSVEnKlKlr3H1Rqhz`

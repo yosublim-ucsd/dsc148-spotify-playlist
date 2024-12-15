@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936738,
+  "num_followers": 936766,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "BANG BANG POW!",
         "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 133406,
       "name": "BANG BANG POW!",
       "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "2HEARTs dlux",
         "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
       },
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Hypnotize EP",
-        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+      "duration_ms": 205714,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "You Ate That",
         "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 196875,
       "name": "You Ate That",
       "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1203,22 +1223,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         },
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 182109,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/7Ig7sOUzR1Y2SShye9Pn1U"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
       },
@@ -1347,6 +1331,26 @@
       "duration_ms": 150128,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7dKrKWuGF9vUyj8cUXND7G"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/3Nk2ri6nQaaQakeT0msPuR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/7dKrKWuGF9vUyj8cUXND7G"
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
       "artists": [
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 166406,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/3Nk2ri6nQaaQakeT0msPuR"
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Run It!",
+        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 184320,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Run It!",
-        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
-      },
-      "artists": [
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "Run It!",
-      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1647,42 +1663,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "808",
         "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+        "name": "Dancin'",
+        "url": "https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
         }
       ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
+      "duration_ms": 144193,
+      "name": "Dancin'",
+      "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
     }
   ],
   "unique_name": "Shuffle Syndrome",

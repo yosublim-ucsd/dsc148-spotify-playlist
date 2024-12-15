@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,071 likes - 123 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,072 likes - 123 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 12 | [死穴](https://open.spotify.com/track/5GugIRufdtrzgt8kKI2BV6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [死穴](https://open.spotify.com/album/5stxelEZPKQnROTp1MvN43) | 3:37 |
 | 13 | [魔法愛情](https://open.spotify.com/track/5qvacFLkHM9jcbVPwDslUe) | [青井](https://open.spotify.com/artist/2Xs6HmQzPV5EhAtqZ8xVzP) | [CityRonin 城市浪人](https://open.spotify.com/album/3sL64hzNDtT18xX7yv1wTb) | 2:17 |
 | 14 | [慢一點](https://open.spotify.com/track/3GJz0ScOQdBph0qgWNRcaA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [情歌比情人還懂](https://open.spotify.com/album/438bdVyICtXLEOqjneVJwd) | 3:53 |
-| 15 | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/track/0eFmVTOQD3H95o2f3VJBB1) | [許亮宇](https://open.spotify.com/artist/151lJvu2zwkkwwqcvMLQQp), [Priscilla Abby](https://open.spotify.com/artist/6Dc8x4dXJFlim35sPhnte5) | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/album/2oRwRrbe8VL454Q6oXXvEz) | 3:37 |
+| 15 | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/track/0eFmVTOQD3H95o2f3VJBB1) | [許亮宇](https://open.spotify.com/artist/151lJvu2zwkkwwqcvMLQQp), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [梵谷的星空（电影8块钱富豪主题曲）](https://open.spotify.com/album/2oRwRrbe8VL454Q6oXXvEz) | 3:37 |
 | 16 | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc) | 4:28 |
 | 17 | [過氣歌手](https://open.spotify.com/track/1PwHXxvPxGcnLfl1WSbrmu) | [陳修澤](https://open.spotify.com/artist/667GMC5UUjVDe6IrsGhg2l) | [迷惑的夜晚](https://open.spotify.com/album/2LiJInvwFK6XyQYbBRW5qq) | 5:49 |
 | 18 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 |

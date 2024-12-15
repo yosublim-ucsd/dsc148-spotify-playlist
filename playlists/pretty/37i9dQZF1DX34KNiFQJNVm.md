@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano com Grupo Menos é Mais, ANAVITÓRIA, WIU e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974,834 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975,293 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 43 | [Todo Dia Quer Pagodear](https://open.spotify.com/track/0tsy34zlXehhax7IHSN6bi) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ) | [Todo Dia Quer Pagodear](https://open.spotify.com/album/63ygmHcj39JCVmhCcEHc49) | 3:01 |
 | 44 | [Território](https://open.spotify.com/track/1Yn2Z7tF9UoeSltaTVZjvp) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [É Tudo no Pagode \(EP1\)](https://open.spotify.com/album/1cqCg3hi6u79aHXvJBMDNm) | 2:18 |
 | 45 | [Amostradinha \- Ao Vivo](https://open.spotify.com/track/4ndzLabxX8IowvZrTExDzy) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Amostradinha \(Ao Vivo\)](https://open.spotify.com/album/6q9Hkkp0yzgceMwqcbtY1l) | 2:30 |
-| 46 | [Caiu No Papo](https://open.spotify.com/track/6KYQmiS6SaTB7LfUuPqPLu) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Mc Tetéu](https://open.spotify.com/artist/2pKepPl4Vm2GswuEban8ic), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Caiu No Papo](https://open.spotify.com/album/0PHfHA00h2tUjaVRAk5jKb) | 2:47 |
+| 46 | [Caiu No Papo](https://open.spotify.com/track/6KYQmiS6SaTB7LfUuPqPLu) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Menor Teteu](https://open.spotify.com/artist/6kf1jBO0aUukDulMz7Yjtu), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Caiu No Papo](https://open.spotify.com/album/0PHfHA00h2tUjaVRAk5jKb) | 2:47 |
 | 47 | [Give It to Me](https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. I\)](https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF) | 3:08 |
 | 48 | [Dancefloor \(with Alex D’Rosso\)](https://open.spotify.com/track/4NLZnXw1QJVoofvXWgmGc1) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [PUGO](https://open.spotify.com/artist/5P2osTcHMMIZ9RZYQFOYmZ), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Dancefloor \(with Alex D’Rosso\)](https://open.spotify.com/album/2Arqz266Hx6PyK0IJWJuGw) | 2:29 |
 | 49 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 |

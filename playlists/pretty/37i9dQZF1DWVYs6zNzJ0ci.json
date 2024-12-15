@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Pure Negga",
-  "num_followers": 1205582,
+  "num_followers": 1205604,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,26 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Caney",
-        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Caney",
-      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -475,26 +479,22 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Verte",
-        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 157418,
-      "name": "Verte",
-      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+      "duration_ms": 230186,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 172590,
-      "name": "The Heaven",
-      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 172590,
+      "name": "The Heaven",
+      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2024-11-29 04:59:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2024-11-29 04:59:00",
       "album": {
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
+    },
+    {
+      "added_at": "2024-11-29 04:59:00",
+      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 231933,
       "name": "Celebration (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
-    },
-    {
-      "added_at": "2024-11-29 04:59:00",
-      "album": {
-        "name": "Pericos & Friends (Extended)",
-        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mucha Experiencia - Su Reggaeton Mix",
-      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2024-11-29 04:59:00",

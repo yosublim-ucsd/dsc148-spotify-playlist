@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60395,
+  "num_followers": 60401,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -343,26 +359,6 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 230141,
-      "name": "Oil (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -387,18 +383,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 276317,
-      "name": "Kimosab\u00e8",
-      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
+      "duration_ms": 230141,
+      "name": "Oil (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "true",
-        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "true",
-      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Trippin Up",
         "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177851,
       "name": "Trippin Up",
       "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "true",
+        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "true",
+      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
     },
     {
       "added_at": "2023-12-19 09:07:27",

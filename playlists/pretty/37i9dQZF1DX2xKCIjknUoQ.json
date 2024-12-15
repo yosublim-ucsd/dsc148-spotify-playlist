@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 47658,
+  "num_followers": 47672,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb"
+      },
+      "artists": [
+        {
+          "name": "Detroit",
+          "url": "https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Droit Dans Le Soleil",
+      "url": "https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Street Trash",
         "url": "https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 248013,
       "name": "Mar\u00e9e haute",
       "url": "https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb"
-      },
-      "artists": [
-        {
-          "name": "Detroit",
-          "url": "https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Droit Dans Le Soleil",
-      "url": "https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu"
     },
     {
       "added_at": "2024-06-24 19:56:15",

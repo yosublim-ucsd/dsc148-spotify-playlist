@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 141538,
+  "num_followers": 141554,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
+      },
+      "artists": [
+        {
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
-      },
-      "artists": [
-        {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "nice 2 me",
-        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "nice 2 me",
-      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Keep On It",
         "url": "https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ"
       },
@@ -1143,26 +1123,6 @@
       "duration_ms": 257075,
       "name": "Keep On It",
       "url": "https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
-      },
-      "artists": [
-        {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "\u00c7a fait du bien - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
     },
     {
       "added_at": "2024-03-07 19:13:49",
@@ -1187,6 +1147,46 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+      },
+      "artists": [
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "\u00c7a fait du bien - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -1313,28 +1337,20 @@
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2023-12-12 19:01:54",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
         }
       ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1351,22 +1367,6 @@
       "duration_ms": 196676,
       "name": "It's alright",
       "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-12-12 19:01:54",
-      "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rain Check",
         "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Mopedbart",
+        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
+      },
+      "artists": [
+        {
+          "name": "Hubbabubbaklubb",
+          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Mopedbart",
+      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Mopedbart",
-        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
-      },
-      "artists": [
-        {
-          "name": "Hubbabubbaklubb",
-          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Mopedbart",
-      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1729,22 +1729,6 @@
       "url": "https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu"
     },
     {
-      "added_at": "2023-10-28 00:57:17",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Station Romance",
@@ -1777,6 +1761,22 @@
       "url": "https://open.spotify.com/track/5M7XyAAxB0WFLnN8zsMEn5"
     },
     {
+      "added_at": "2023-10-28 00:57:17",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Juice (Breakbot Mix)",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
-      },
-      "artists": [
-        {
-          "name": "Nathan Behrens",
-          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
-        }
-      ],
-      "duration_ms": 208446,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Looking for the Sea",
         "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 213133,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
+      },
+      "artists": [
+        {
+          "name": "Nathan Behrens",
+          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
+        }
+      ],
+      "duration_ms": 208446,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
     },
     {
       "added_at": "2023-08-14 14:58:41",

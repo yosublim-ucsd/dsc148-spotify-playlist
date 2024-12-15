@@ -5062,7 +5062,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 186000,
       "name": "Bad Girls Like You",
       "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
@@ -5886,7 +5886,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -7290,7 +7290,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -11130,7 +11130,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
@@ -12614,7 +12614,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 215920,
       "name": "Dame La Verde",
       "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
@@ -21702,7 +21702,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -31464,6 +31464,24 @@
       "duration_ms": 187510,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/5dQVCKjXLD4GdnWnrTswJO"
+    },
+    {
+      "album": {
+        "name": "Me Llueven Las Barbies",
+        "url": "https://open.spotify.com/album/3Uy5dCqbvDxpxN6cLUtela"
+      },
+      "artists": [
+        {
+          "name": "TRIP MUSIC",
+          "url": "https://open.spotify.com/artist/07UfFVZ1XRWV7TRNWbt1pU"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145162,
+      "name": "Me Llueven Las Barbies",
+      "url": "https://open.spotify.com/track/1716lvEJYr3XWpHNnkE0Xv"
     },
     {
       "album": {
@@ -54872,7 +54890,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW"

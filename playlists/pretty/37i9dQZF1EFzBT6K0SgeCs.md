@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,295 likes - 139 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,297 likes - 139 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 108 | [Medieval](https://open.spotify.com/track/3As49dIhYQCYViJiaxR4nF) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:51 |
 | 109 | [Hollywood Forever](https://open.spotify.com/track/0XBLfPaacvrxbn84yo5rTO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Hollywood Forever](https://open.spotify.com/album/6lZXJbxsk5IdnGqfHJr4RR) | 4:11 |
 | 110 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 |
-| 111 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 |
-| 112 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
+| 111 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
+| 112 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 |
 | 113 | [Lotus Eater](https://open.spotify.com/track/2E1C3NlPA0AfmiFJE4MTXT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:51 |
 | 114 | [Around My Neck](https://open.spotify.com/track/0ZIXzljb3OyZQBORi4hUf9) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:55 |
 | 115 | [Ocean Eyes \- Cautious Clay Remix](https://open.spotify.com/track/3bM4b4P6QFDnjdXXI2zufO) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 3:11 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 121 | [The Ending](https://open.spotify.com/track/6n2AXXSIDoVIrCBRSTM8Zo) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [VIII](https://open.spotify.com/album/1WLT9X55scygUSpb304x4L) | 3:35 |
 | 122 | [My Future](https://open.spotify.com/track/4VIYTieBvN8PvCAqnyLj6Y) | [Shirley Adamson](https://open.spotify.com/artist/7ywDFbZlIr7lF1kvKlENXp), [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [My Future](https://open.spotify.com/album/5UYMRq0acjM6O8FGVPQKka) | 2:32 |
 | 123 | [Family Feud](https://open.spotify.com/track/46i6pyJSyfcyU265SSgv7a) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:33 |
-| 124 | [Home](https://open.spotify.com/track/758bSg93OazKDrAbemPk8i) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 3:45 |
-| 125 | [2001](https://open.spotify.com/track/2Fq319Q8JT19QgBqpAg0le) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:20 |
+| 124 | [2001](https://open.spotify.com/track/2Fq319Q8JT19QgBqpAg0le) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:20 |
+| 125 | [Home](https://open.spotify.com/track/758bSg93OazKDrAbemPk8i) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 3:45 |
 | 126 | [What’s It Gonna Take To Break Your Heart?](https://open.spotify.com/track/0QoCMq7JXnitBZ5SFpVWRu) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 4:49 |
 | 127 | [Starfucker](https://open.spotify.com/track/7cnJI66NSyPs5biD1Lgjco) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
 | 128 | [Start Forgetting Death](https://open.spotify.com/track/2yT3SUxa8Xgrow5I7NLq5P) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:44 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [True Blue](https://open.spotify.com/track/613vBSqpLBri5QONztpUSt) | [bbygirl](https://open.spotify.com/artist/7COWUsAnHT3kAyHpDUoFxM) | [Blue](https://open.spotify.com/album/6GOsMwTFJh6GcPfX0EK8xK) | 2:45 |
 | 139 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 
-Snapshot ID: `AbkD9gAAAACLpJGlnkwogUg1rTrmeEaP`
+Snapshot ID: `AbkJ0gAAAABLYZf4lmLM6qFOMdQ9qidl`

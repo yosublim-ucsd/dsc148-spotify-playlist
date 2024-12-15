@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,864 likes - 297 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,934 likes - 297 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 95 | [I Had Some Help](https://open.spotify.com/track/51qlmIzRQ4umywvb5O3eUX) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [I Had Some Help](https://open.spotify.com/album/0g4y8DkKHPBewuVozOUU7a) | 2:59 |
 | 96 | [CANDY](https://open.spotify.com/track/6ADZxFi3cHh1Que8qDMUx5) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [CANDY](https://open.spotify.com/album/21VloN9yVEpABvqBVslxX7) | 2:11 |
 | 97 | [Better Together](https://open.spotify.com/track/2tSuMrCGuLmFlhbco6AQYx) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [The Best of Tell Your Tale](https://open.spotify.com/album/7rKShLsnwihmy0oQpt9dtM) | 2:32 |
-| 98 | [At The Beach Party \- Summertime Jam Remix](https://open.spotify.com/track/5NZP8333AVlBMuQgcoHJKa) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Face from Nick Jr.](https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj), [Animal Kingdom Creatives](https://open.spotify.com/artist/5CclvupzmbUSfA2doJhQt6) | [Nick Jr\. Mix it Up! Vol\. 14: Face’s Summertime Jam \(The Remixes\)](https://open.spotify.com/album/7BuFtLLrHSBiUCJ3wXld1e) | 2:09 |
+| 98 | [At The Beach Party \- Summertime Jam Remix](https://open.spotify.com/track/5NZP8333AVlBMuQgcoHJKa) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Face from Nick Jr.](https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj), [Animal Kingdom Creatives](https://open.spotify.com/artist/5CclvupzmbUSfA2doJhQt6) | [Nick Jr\. Mix it Up! Vol\. 15: Face’s Summertime Jam \(The Remixes\)](https://open.spotify.com/album/7BuFtLLrHSBiUCJ3wXld1e) | 2:09 |
 | 99 | [Lyla in the Loop Theme Song](https://open.spotify.com/track/7nGboqSUZN4wulhkTWkzh9) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Lyla in the Loop Theme Song](https://open.spotify.com/album/0QJ3tPei9ccVhIID8YhzkD) | 1:16 |
 | 100 | [On Top of Spaghetti](https://open.spotify.com/track/1DQuCk1DJjjxrSXc34Hmni) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [On Top of Spaghetti](https://open.spotify.com/album/7JOdBzuwWb25aEDz3HmGcm) | 2:10 |
 | 101 | [Tom Tom The Plumber's Son](https://open.spotify.com/track/0N93qWW4ODc16gXdTGwc0p) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Tom Tom the Plumber’s Son](https://open.spotify.com/album/66UC2JVcervp4CelY5wBhm) | 1:42 |

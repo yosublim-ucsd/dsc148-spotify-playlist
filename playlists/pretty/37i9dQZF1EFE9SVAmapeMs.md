@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,085 likes - 64 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,088 likes - 64 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 24 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
 | 25 | [Rockstar Knights \(with Trippie Redd\)](https://open.spotify.com/track/4J9SI7do4KOEsCexqEbjmR) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:51 |
 | 26 | [Scott and Ramona](https://open.spotify.com/track/7egGWCqoxtAuo7QgsWw3tm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:41 |
-| 27 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
-| 28 | [JACKBOYS](https://open.spotify.com/track/62zKJrpbLxz6InR3tGyr7o) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 0:46 |
+| 27 | [JACKBOYS](https://open.spotify.com/track/62zKJrpbLxz6InR3tGyr7o) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 0:46 |
+| 28 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
 | 29 | [This Ain't Love](https://open.spotify.com/track/5Y7dUgG3vyx3541JagbWvv) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:44 |
 | 30 | [Too Gone \(feat\. Khalid\)](https://open.spotify.com/track/7weyB4Zuj9QDwQrFbveSpG) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The World Is Yours](https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6) | 3:04 |
 | 31 | [4 Da Kidz](https://open.spotify.com/track/2ZDRkJrKbceJRgLKkuex14) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:04 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 63 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 64 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AbkEAAAAAACTcgnLLpf7yeMXPJSzQLx0`
+Snapshot ID: `AbkJ0gAAAAD0DiqCp+vGO3oGFZ/xzJBE`

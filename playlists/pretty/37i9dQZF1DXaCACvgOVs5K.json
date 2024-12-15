@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 613778,
+  "num_followers": 614006,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "World, Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World, Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 162748,
       "name": "On My Mind - Enzo is Burning Remix",
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "World, Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "World, Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -995,22 +995,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
         },
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1183,26 +1183,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Alma de Ibiza (WEPA)",
-        "url": "https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj"
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
       "artists": [
         {
-          "name": "Kayote",
-          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         },
         {
-          "name": "LonelyBrothers",
-          "url": "https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f"
-        },
-        {
-          "name": "Kush Rust",
-          "url": "https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         }
       ],
-      "duration_ms": 172741,
-      "name": "Alma de Ibiza (WEPA)",
-      "url": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf"
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1227,22 +1223,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+        "name": "Alma de Ibiza (WEPA)",
+        "url": "https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
         },
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "LonelyBrothers",
+          "url": "https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f"
+        },
+        {
+          "name": "Kush Rust",
+          "url": "https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1"
         }
       ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+      "duration_ms": 172741,
+      "name": "Alma de Ibiza (WEPA)",
+      "url": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Es Vedr\u00e0",
+        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "Es Vedr\u00e0",
+      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 210693,
       "name": "How Do You Love? (feat. Mougleta)",
       "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Es Vedr\u00e0",
-        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 197593,
-      "name": "Es Vedr\u00e0",
-      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Who's That Girl (JL & Afterman Mix)",
         "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "1+1=11",
         "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
       },
@@ -1639,6 +1639,30 @@
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 214575,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1683,30 +1707,6 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -2023,22 +2023,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Shake Body",
-        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
       },
       "artists": [
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Shake Body",
-      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
+      "duration_ms": 223384,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
     }
   ],
   "unique_name": "Ibiza 2024",

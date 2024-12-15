@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 179148,
+  "num_followers": 179158,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "MAX 20",
-        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 253100,
-      "name": "L'universo tranne noi",
-      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -291,6 +295,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "MAX 20",
+        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+      },
+      "artists": [
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "L'universo tranne noi",
+      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Buoni O Cattivi (Remastered 2017)",
         "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 209093,
       "name": "E...",
       "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "Alla Mia Et\u00e0",
+        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Il Regalo Pi\u00f9 Grande",
+      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Alla Mia Et\u00e0",
-        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Il Regalo Pi\u00f9 Grande",
-      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Le Vibrazioni",
-        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
       "artists": [
         {
-          "name": "Le Vibrazioni",
-          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Dedicato A Te",
-      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+        "name": "Le Vibrazioni",
+        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
       },
       "artists": [
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Le Vibrazioni",
+          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+      "duration_ms": 208466,
+      "name": "Dedicato A Te",
+      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+        "name": "Oltre",
+        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Claudio Baglioni",
+          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
         }
       ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+      "duration_ms": 336960,
+      "name": "Mille giorni di te e di me",
+      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Oltre",
-        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
       },
       "artists": [
         {
-          "name": "Claudio Baglioni",
-          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
         }
       ],
-      "duration_ms": 336960,
-      "name": "Mille giorni di te e di me",
-      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2024-06-25 13:56:23",

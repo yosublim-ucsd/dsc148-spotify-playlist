@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-124 songs - 6 hr 35 min
+125 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Sacrifice](https://open.spotify.com/track/39O8UbOREp97r6eP0KsBd2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:43 | 2023-12-13 | 2024-02-08 |
 | [See You On The Dancefloor](https://open.spotify.com/track/7CAKhC9pd2xM5mBg7HtJbr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [See You On The Dancefloor EP](https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k) | 3:14 | 2022-02-05 | 2022-10-13 |
 | [Sensation](https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sensation](https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs) | 2:54 | 2023-12-13 |  |
+| [Sign](https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sign](https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS) | 3:21 | 2024-12-15 |  |
 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-12-13 | 2024-06-15 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-27 | 2024-09-18 |
 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 | 2021-12-20 |  |

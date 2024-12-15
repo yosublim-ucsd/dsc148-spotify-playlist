@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Bebe Cool
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,023 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,035 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dawa \- Remix](https://open.spotify.com/track/7zzFvz0n4YK0hjZVAtx0PS) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [Swangz Avenue Presents: Swangz All Star, Vol\. 1](https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3) | 3:12 |
 | 2 | [Style](https://open.spotify.com/track/3jz26JiyTxs2YHaFuPFNkn) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Style](https://open.spotify.com/album/1ejJGAXCYrOooZwBsiB9nq) | 2:46 |
-| 3 | [Circumfrence](https://open.spotify.com/track/6XfMAbAVYqr6cunKIHSRNb) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Circumference](https://open.spotify.com/album/4mu1bf3gPiyPbKh5x4etSJ) | 2:54 |
+| 3 | [Circumference](https://open.spotify.com/track/6XfMAbAVYqr6cunKIHSRNb) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Circumference](https://open.spotify.com/album/4mu1bf3gPiyPbKh5x4etSJ) | 2:54 |
 | 4 | [Tompa](https://open.spotify.com/track/6MopLDu0gQs38srcOJyWqv) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [K&K](https://open.spotify.com/artist/0u1iQxzpvXUIc2U6uQttEn) | [Tompa](https://open.spotify.com/album/1NsrqpQKmh3uWkHV1pt3Q9) | 2:55 |
 | 5 | [TEACH ME](https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [TEACH ME](https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf) | 3:05 |
 | 6 | [Kitumbugulu](https://open.spotify.com/track/6Q74SY0pWZQ3HWTWlyQ4PY) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Kitumbugulu](https://open.spotify.com/album/5Es6ITFUgx8CQPxxAHuzfA) | 3:00 |

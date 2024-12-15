@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie](https://open.spotify.com/user/blank808) - 0 like - 1,375 songs - 3 day 9 hr 19 min
+[charlie](https://open.spotify.com/user/blank808) - 0 like - 1,377 songs - 3 day 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1383,5 +1383,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1373 | [Headshots \(4r da Locals\)](https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:13 |
 | 1374 | [Sincerity Is Scary](https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:45 |
 | 1375 | [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
+| 1376 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 |
+| 1377 | [Lost All My Feelings](https://open.spotify.com/track/5dqfwupDEoz7s8m4TWaAJC) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 |
 
-Snapshot ID: `AAAFRPzAvoLwzR7iSGX6cobQsceJg4km`
+Snapshot ID: `AAAFRtaoy9/1jDM49nk0bcOpIfMWN9j2`

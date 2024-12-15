@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92583,
+  "num_followers": 92581,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Home (Truckstops and Airports)",
         "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 222864,
       "name": "Home (Truckstops and Airports)",
       "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "Ge inte upp p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Ge inte upp p\u00e5 mig",
+      "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Ge inte upp p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Ge inte upp p\u00e5 mig",
-      "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -719,38 +719,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "En kv\u00e4ll i tunnelbanan",
-        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "En kv\u00e4ll i tunnelbanan",
-      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "The Player",
         "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "En kv\u00e4ll i tunnelbanan",
+        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "Ljusare moln",
         "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+        "name": "No More You",
+        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+      "duration_ms": 176366,
+      "name": "No More You",
+      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
@@ -1099,38 +1131,6 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "No More You",
-        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "No More You",
-      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Little Human",
-        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Little Human",
-      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Little Human",
+        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 235598,
+      "name": "Little Human",
+      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
     },
     {
       "added_at": "2024-12-12 23:00:05",

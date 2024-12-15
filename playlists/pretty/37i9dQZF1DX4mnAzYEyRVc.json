@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: RAT BOY",
-  "num_followers": 56698,
+  "num_followers": 56722,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Hard Band For Dead",
-        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "2-Tone Army",
-      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
+        "name": "Ruder Than Rude",
+        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
       "artists": [
         {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
+          "name": "The Busters",
+          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
         }
       ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
+      "duration_ms": 177800,
+      "name": "Don't Worry, Be Happy",
+      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Ruder Than Rude",
-        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
       },
       "artists": [
         {
-          "name": "The Busters",
-          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
+          "name": "Makua Rothman",
+          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Don't Worry, Be Happy",
-      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Dye My Heart Red",
-        "url": "https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm"
-      },
-      "artists": [
-        {
-          "name": "Nonoka Obuchi",
-          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Dye My Heart Red",
-      "url": "https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo"
+      "duration_ms": 183725,
+      "name": "The One And Only",
+      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Dye My Heart Red",
+        "url": "https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm"
+      },
+      "artists": [
+        {
+          "name": "Nonoka Obuchi",
+          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Dye My Heart Red",
+      "url": "https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Rudes Against",
+        "url": "https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j"
+      },
+      "artists": [
+        {
+          "name": "Skassapunka",
+          "url": "https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG"
+        }
+      ],
+      "duration_ms": 168688,
+      "name": "Bella ciao",
+      "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Reggae gordo for days and extra days",
         "url": "https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Rudes Against",
-        "url": "https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j"
+        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
       },
       "artists": [
         {
-          "name": "Skassapunka",
-          "url": "https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 168688,
-      "name": "Bella ciao",
-      "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
+      "duration_ms": 233893,
+      "name": "I'd Do Anything (If I Could)",
+      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1647,18 +1663,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+        "name": "Yes It's True",
+        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
         }
       ],
-      "duration_ms": 233893,
-      "name": "I'd Do Anything (If I Could)",
-      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
+      "duration_ms": 243615,
+      "name": "Yes It's True",
+      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1675,22 +1695,6 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "St. Pauli - Einhundert",
-        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
-      },
-      "artists": [
-        {
-          "name": "Dubtari",
-          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Forza St. Pauli",
-      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     }
   ],
   "unique_name": "Ska Around The Globe",

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 12 min
+115 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/track/1YjZFZwlfS2NiEh1HSWxC2) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hit](https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7) | 3:26 | 2024-08-22 | 2024-09-20 |
 | [PRAY YOU DIE IN SURGERY](https://open.spotify.com/track/2AvNHy4uWeLEoCwBgQNDvS) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 3:19 | 2023-03-19 | 2024-10-03 |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2022-10-28 |  |
+| [RIP LU MIKE](https://open.spotify.com/track/03uziM8djjbeijRpcXKTEJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [RIP LU MIKE](https://open.spotify.com/album/58sqfVSb7XhyNB91p4c4cE) | 2:48 | 2024-12-15 |  |
 | [Roll Em Up \(feat\. EST Gee\)](https://open.spotify.com/track/60eNYiXDmnc8Lv0Grqsqm7) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Youngest N Charge 2](https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx) | 2:44 | 2024-01-19 | 2024-03-15 |
 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 | 2022-10-30 |  |
 | [ROTTEN \(feat\. EST Gee\)](https://open.spotify.com/track/15jg4vt123axobdGleLugn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:10 | 2022-10-28 |  |

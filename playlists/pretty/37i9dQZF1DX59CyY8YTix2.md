@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,200 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,209 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 51 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 |
 | 52 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
 | 53 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 |
-| 54 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
-| 55 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
+| 54 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
+| 55 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
 | 56 | [君のヒーロー](https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [君のヒーロー](https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh) | 3:32 |
 | 57 | [シナモン](https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [シナモン](https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA) | 3:53 |
 | 58 | [ヘントウタイ](https://open.spotify.com/track/5acubt3tZ9wsDNM2wSM89d) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ヘントウタイ](https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ) | 3:48 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 63 | [愛が満ちるまで](https://open.spotify.com/track/2ukabT6A7TPbbOqqisktaE) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig), [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [愛が満ちるまで](https://open.spotify.com/album/2KohcXG9rfrV5s0WdSfX1w) | 5:00 |
 | 64 | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1) | 5:43 |
 | 65 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
-| 66 | [合鍵とアイロニー](https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [合鍵とアイロニー](https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf) | 2:52 |
-| 67 | [消えちゃう前に](https://open.spotify.com/track/3BD3gEngtnvHJnwEq1yAhr) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [7 Deadly Guilt](https://open.spotify.com/album/0AZlFiD8WXjtUvUwCfP9oj) | 3:44 |
+| 66 | [消えちゃう前に](https://open.spotify.com/track/3BD3gEngtnvHJnwEq1yAhr) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [7 Deadly Guilt](https://open.spotify.com/album/0AZlFiD8WXjtUvUwCfP9oj) | 3:44 |
+| 67 | [合鍵とアイロニー](https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [合鍵とアイロニー](https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf) | 2:52 |
 | 68 | [花一匁](https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [TOYS](https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4) | 4:36 |
 | 69 | [アウト](https://open.spotify.com/track/0YMfHLifgez6XrLKrUfo1k) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [アウト](https://open.spotify.com/album/3oMZR2UaMhxcZcdwLW27ly) | 3:19 |
 | 70 | [3036](https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [3036](https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX) | 1:10 |
 | 71 | [リベリオン](https://open.spotify.com/track/67fZ9ZOO5gLFCJjLwocwgx) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [リベリオン](https://open.spotify.com/album/0gUR3ZvPFgZ58cO5dKL80r) | 1:55 |
-| 72 | [Forbidden tale](https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Epic Narratives](https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO) | 4:34 |
-| 73 | [Amber blue](https://open.spotify.com/track/6sli2ivzjDhuswcxoqG4zf) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Amber blue](https://open.spotify.com/album/1QX19dgstoCV9U41Ja38e3) | 3:50 |
-| 74 | [セナカアワセ](https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [セナカアワセ](https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f) | 3:16 |
-| 75 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
+| 72 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
+| 73 | [Forbidden tale](https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Epic Narratives](https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO) | 4:34 |
+| 74 | [Amber blue](https://open.spotify.com/track/6sli2ivzjDhuswcxoqG4zf) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Amber blue](https://open.spotify.com/album/1QX19dgstoCV9U41Ja38e3) | 3:50 |
+| 75 | [セナカアワセ](https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [セナカアワセ](https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f) | 3:16 |
 
 Snapshot ID: `Z1hXcAAAAABUsOHTNvGk8LgJnd+It8K2`

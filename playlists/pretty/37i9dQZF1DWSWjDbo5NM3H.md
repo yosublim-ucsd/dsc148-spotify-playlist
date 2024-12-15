@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Sing Again3'\. \(JTBC  '싱어게인3'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 255 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,735 likes - 255 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,7 +240,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 230 | [Amor fati \- Live](https://open.spotify.com/track/0KBxBnjc4a0QWMBtWPN3sY) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers \(From the "JTBC" TV Show\) Pt.4 \[Live\]](https://open.spotify.com/album/6rhJvqdArgebSATUzhGMou) | 3:54 |
 | 231 | [Mercury lamp \- Live](https://open.spotify.com/track/7u31GgstpkgqQbLxqa4YdE) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Famous Singers \(From the "JTBC" TV Show\) Pt.4 \[Live\]](https://open.spotify.com/album/6rhJvqdArgebSATUzhGMou) | 3:55 |
 | 232 | [Youngdong Blues \- Live](https://open.spotify.com/track/22TxX3zqCk7ZY1KFKznGC8) | [Kim Junhwi](https://open.spotify.com/artist/4ybSIEGIiAGcof5xjie3lS) | [Famous Singers \(From the "JTBC" TV Show\) Pt.4 \[Live\]](https://open.spotify.com/album/6rhJvqdArgebSATUzhGMou) | 3:50 |
-| 233 | [I Won't Love Again \- Live](https://open.spotify.com/track/1wXUQLRoqXIjrabn11uaNE) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Famous Singers \(From the "JTBC" TV Show\) Pt.5 \[Live\]](https://open.spotify.com/album/1ZwcP4Aa1VO9WIzfYAVGUf) | 4:29 |
+| 233 | [I Won't Love Again \- Live](https://open.spotify.com/track/1wXUQLRoqXIjrabn11uaNE) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Famous Singers \(From the "JTBC" TV Show\) Pt.5 \[Live\]](https://open.spotify.com/album/1ZwcP4Aa1VO9WIzfYAVGUf) | 4:29 |
 | 234 | [Water \- Live](https://open.spotify.com/track/543HJINQaia1ydLoqut6SB) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers \(From the "JTBC" TV Show\) Pt.6 \[Live\]](https://open.spotify.com/album/6I7E0bs8De5BTPFyNnIzXI) | 4:00 |
 | 235 | [Laundry \- Live](https://open.spotify.com/track/5IfDa4NgpJDZLRo7MklI6A) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Famous Singers \(From the "JTBC" TV Show\) Pt.6 \[Live\]](https://open.spotify.com/album/6I7E0bs8De5BTPFyNnIzXI) | 3:58 |
 | 236 | [Dash \- Live](https://open.spotify.com/track/1AGDXrTNo6LCqrVSCv4LjK) | [Taeho](https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC) | [Famous Singers \(From the "JTBC" TV Show\) Pt.5 \[Live\]](https://open.spotify.com/album/1ZwcP4Aa1VO9WIzfYAVGUf) | 4:09 |

@@ -17013,6 +17013,24 @@
     },
     {
       "album": {
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/0H16Q6OIdh7Zz7yqMy81vB"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dancing Shadows",
+      "url": "https://open.spotify.com/track/6cMhNuYRBUjSih4JKu9DtM"
+    },
+    {
+      "album": {
         "name": "Dandelion Nights",
         "url": "https://open.spotify.com/album/1ZUK5Ak848XknGdi937sNc"
       },
@@ -86358,7 +86376,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-15",
       "duration_ms": 115955,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l"

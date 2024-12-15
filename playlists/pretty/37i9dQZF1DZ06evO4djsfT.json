@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25749,
+  "num_followers": 25755,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAAA5wPRHTHlK1NVtfAboRNEm",
+  "snapshot_id": "Z1t5AAAAAAClAYJV4W38E7TzQQkABv+R",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210783,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Be The Glory (Remix)",
         "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 228705,
       "name": "God Be The Glory (Remix)",
       "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210783,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Chains",
-        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 222651,
-      "name": "No Chains",
-      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold Me Back",
         "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 223107,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Chains",
+        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 222651,
+      "name": "No Chains",
+      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
     },
     {
       "added_at": null,
@@ -323,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -363,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes for Sale",
         "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
       },
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
       },
       "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
     },
     {
       "added_at": null,
@@ -567,26 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHECK",
-        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
       "artists": [
         {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 207000,
-      "name": "CHECK",
-      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,
@@ -607,18 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
       "artists": [
         {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+      "duration_ms": 207000,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start Right Here (HGA Version)",
-        "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 173575,
-      "name": "Start Right Here (HGA Version)",
-      "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 173179,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Start Right Here (HGA Version)",
+        "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 173575,
+      "name": "Start Right Here (HGA Version)",
+      "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Garvit\-Priyansh and Shreya Jain
 
-916 songs - 2 day 2 hr 15 min
+917 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Naina](https://open.spotify.com/track/76yEy7Sgug5eJJZagl2KVC) | [Sharad Eishita \(SE\)](https://open.spotify.com/artist/4Gc6K8DpLkIVnDwB5jcnQi) | [Naina](https://open.spotify.com/album/1iGKUFUtOo1nMUYmB5ugrU) | 3:20 | 2024-06-14 | 2024-07-13 |
 | [Naina Barse](https://open.spotify.com/track/56PNjQUwtxUN8XosS7x4RL) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi), [Raag Stereo](https://open.spotify.com/artist/73yFcIRYzv81aBZb8z2TAv), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Farozan Nizami](https://open.spotify.com/artist/7CVzB69eqH6mNB8lM7ijBm), [Mir Tafazul](https://open.spotify.com/artist/0jBzewdASgiYJ1O059T3Om), [Meera Shandilya](https://open.spotify.com/artist/4vFNuMZ1wQkkKCaQEs7oxx) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 4:02 | 2024-10-11 |  |
 | [Naraazi](https://open.spotify.com/track/2W5B2owXYHulX3HiDzy28x) | [Justin\-Uday Duo](https://open.spotify.com/artist/0dgFnJR85CxQiq9g64huN8), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Naraazi](https://open.spotify.com/album/0o7HXaoczY4RKvSrdXSUb1) | 3:56 | 2024-02-23 | 2024-03-30 |
+| [naseeb \(mila hai tu\)](https://open.spotify.com/track/4YtkEGjupVabmKhOsbNQ3C) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [lil help](https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs) | [naseeb \(mila hai tu\)](https://open.spotify.com/album/5oEpUOVPbvHRlZTWd1Fj8W) | 2:27 | 2024-12-13 |  |
 | [Naya](https://open.spotify.com/track/4rk28ykwn5z7XGvKeh3QD8) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Naya](https://open.spotify.com/album/5rsV2w5lZzUjKQD9KZZ6WY) | 3:38 | 2023-09-29 | 2023-11-25 |
 | [Naya Jahaan](https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan](https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr) | 2:23 | 2023-06-16 | 2023-07-16 |
 | [Nayaab](https://open.spotify.com/track/6cSwyNKvgFXVbJX778EN5K) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Nayaab](https://open.spotify.com/album/5e7cTMk3X7PTQLLQ9x5svG) | 4:05 | 2024-10-25 | 2024-11-30 |
@@ -729,7 +730,7 @@
 | [Sandook](https://open.spotify.com/track/6p9MlK7EEj9D5eiwrXhld4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Sandook](https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1) | 3:03 | 2024-11-08 |  |
 | [Sang Baarishon Ke](https://open.spotify.com/track/40EKNsUKSIdbXWodemplk6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Sang Baarishon Ke](https://open.spotify.com/album/1sCNpq0xg4Z1CYoWTsLLj2) | 3:38 | 2023-07-28 | 2023-08-25 |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-12-01 | 2024-02-03 |
-| [Sapno Ki Nagri](https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Haseena](https://open.spotify.com/album/0WCqZTtq0hYwfswGTyNoKq) | 2:21 | 2024-12-13 |  |
+| [Sapno Ki Nagri](https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Haseena](https://open.spotify.com/album/0WCqZTtq0hYwfswGTyNoKq) | 2:21 | 2024-12-13 | 2024-12-15 |
 | [Sata Na](https://open.spotify.com/track/2KdBrnlDBYFMvQHbZUk16P) | [Raika Sethi](https://open.spotify.com/artist/5HfvorkTs3620Rj3vHgYzm), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Sata na](https://open.spotify.com/album/07zyOybUxsyUeRApHXHPyl) | 2:49 | 2024-12-13 |  |
 | [Sau Chaand](https://open.spotify.com/track/4Vrm4pyGrY29h9kirmq3IX) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Sau Chaand](https://open.spotify.com/album/4B15LrjqGVWsEqTCfheblM) | 2:02 | 2024-07-12 | 2024-08-17 |
 | [sau dafa](https://open.spotify.com/track/1zj70llHSvmKn72FU4iAQI) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [sau dafa](https://open.spotify.com/album/62UjvbblUsIpURi3JHSAkt) | 1:54 | 2024-04-05 | 2024-05-18 |

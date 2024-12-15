@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 41922,
+  "num_followers": 41940,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACLrTVXnXAiLAhwSLzHCIUB",
+  "snapshot_id": "Z1t5AAAAAACSilyb74GXynYEE04/KCZ1",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERREITO PA LLORAR",
-        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 213095,
-      "name": "PERREITO PA LLORAR",
-      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
     },
     {
       "added_at": null,
@@ -83,6 +63,26 @@
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERREITO PA LLORAR",
+        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 213095,
+      "name": "PERREITO PA LLORAR",
+      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
     },
     {
       "added_at": null,
@@ -127,30 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA SUERTE",
-        "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "MALA SUERTE",
-      "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "c\u00f3mo te va?",
         "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 218853,
       "name": "c\u00f3mo te va?",
       "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA SUERTE",
+        "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "MALA SUERTE",
+      "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
       "duration_ms": 182240,
       "name": "Nada A Nadie",
       "url": "https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CL34N",
-        "url": "https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 181696,
-      "name": "Piketaison",
-      "url": "https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv"
     }
   ],
   "unique_name": "This Is Lola Indigo",

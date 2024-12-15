@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 26527,
+  "num_followers": 26645,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "CREEK",
-      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Lost Horizons",
@@ -517,22 +501,6 @@
       "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "3D Reworks 001",
-        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
-      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Inner Song",
@@ -547,6 +515,38 @@
       "duration_ms": 285880,
       "name": "Arpeggi",
       "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "CREEK",
+      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "3D Reworks 001",
+        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
+      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
     },
     {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Nice Weather for Ducks",
+      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "A Certain Distance",
@@ -659,22 +675,6 @@
       "duration_ms": 149000,
       "name": "The Elephant Never Forgets",
       "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
-    },
-    {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Nice Weather for Ducks",
-      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "E.V.A.",
-      "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Illusion Of Time",
@@ -835,6 +815,26 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "E.V.A.",
+      "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1087,22 +1103,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1517,6 +1517,26 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 164570,
+      "name": "Walter's Jam",
+      "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Sleep Through the Storm",
@@ -1551,26 +1571,6 @@
       "duration_ms": 344120,
       "name": "Balani",
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        },
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 164570,
-      "name": "Walter's Jam",
-      "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "Sui Shop",
-      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
-    },
-    {
       "added_at": "2023-07-28 21:27:55",
       "album": {
         "name": "Zero to Sixty",
@@ -1703,6 +1687,22 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Sui Shop",
+      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2037,20 +2037,20 @@
       "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/662zh7ap5hcvQKRIG5wuE3"
+        "name": "Firstsun",
+        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Sunsick",
+          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a"
+      "duration_ms": 188802,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2069,22 +2069,6 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Firstsun",
-        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
-      },
-      "artists": [
-        {
-          "name": "Sunsick",
-          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
-        }
-      ],
-      "duration_ms": 188802,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Kpm 1000 Series: Atmospheres",
@@ -2099,6 +2083,22 @@
       "duration_ms": 129549,
       "name": "Jolly Pranks",
       "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/662zh7ap5hcvQKRIG5wuE3"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a"
     },
     {
       "added_at": "2023-02-17 01:53:11",

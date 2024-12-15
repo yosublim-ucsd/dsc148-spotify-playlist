@@ -4,7 +4,7 @@
 
 > 🍂
 
-138 songs - 7 hr 0 min
+139 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Over Deg](https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Over Deg](https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR) | 2:27 | 2024-06-27 |  |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 | 2024-09-12 | 2024-10-07 |
-| [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 | 2024-06-27 |  |
+| [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 | 2024-06-27 | 2024-12-15 |
 | [Peter Pan](https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Peter Pan](https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn) | 2:49 | 2024-06-27 | 2024-10-25 |
 | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R) | 4:46 | 2024-06-27 |  |
 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2024-10-24 |  |
@@ -106,6 +106,7 @@
 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 | 2024-10-10 |  |
 | [Rød cabriolet](https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Rød cabriolet](https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg) | 3:43 | 2024-09-16 | 2024-10-11 |
 | [Sent](https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Sent](https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3) | 2:15 | 2024-06-27 | 2024-07-16 |
+| [shine.](https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [reasons why u should text me\. \(+1 \(818\) 643\-6885\)](https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi) | 2:27 | 2024-11-28 |  |
 | [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 | 2024-09-30 |
 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 | 2024-07-11 |  |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 |  |

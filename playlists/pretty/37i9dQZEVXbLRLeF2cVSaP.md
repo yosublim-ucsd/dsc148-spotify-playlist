@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,220 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,225 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 12 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 | 13 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
 | 14 | [Страшный сон 2](https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Страшный сон 2](https://open.spotify.com/album/74R9c208EJ1YRoutQjUynU) | 1:50 |
-| 15 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 15 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
 | 16 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 17 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 |
 | 18 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 32 | [ГИМН КАЧКОВ](https://open.spotify.com/track/51Zul6dGuY47cYw0OL4kIN) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/5s4ikQzMKUG8PK0hAEIaNf) | 2:21 |
 | 33 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 |
 | 34 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 |
-| 35 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 35 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 | 36 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 |
 | 37 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 |
 | 38 | [\(не\) уходи](https://open.spotify.com/track/1jvbTfTwq3BCz0MPJA0eCo) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [\(не\) уходи](https://open.spotify.com/album/04tJjsJlFlNz9jvga2UcWS) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 |
 | 50 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
 
-Snapshot ID: `Lu+jIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvD2+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
