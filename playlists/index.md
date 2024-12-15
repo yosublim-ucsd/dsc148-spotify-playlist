@@ -1,4 +1,4 @@
-## Playlists \(8323\)
+## Playlists \(8324\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4954,6 +4954,7 @@
 - [Rompiendo: Puerto Rico](/playlists/pretty/37i9dQZF1DX5Pek6YVkLnC.md)
 - [Rompiendo: Texas](/playlists/pretty/37i9dQZF1DX39Eq6MmYdni.md)
 - [Ronnie Fieg's Taste](/playlists/pretty/37i9dQZF1DWXK5j6V2QdMz.md)
+- [Rook's Collection of Withdrawn Songs](/playlists/pretty/7CY3zbRzhGwcihHqQEXyK8.md)
 - [Rookie Cops \(너와 나의 경찰수업\)](/playlists/pretty/37i9dQZF1DXaENnZYiwROL.md)
 - [Roots Revival](/playlists/pretty/37i9dQZF1DX9crXQ0wuuXE.md)
 - [Roots Rising](/playlists/pretty/37i9dQZF1DWYV7OOaGhoH0.md)
