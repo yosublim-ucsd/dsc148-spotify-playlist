@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 15 min
+55 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2023-11-10 |  |
 | [Ardemos](https://open.spotify.com/track/3xYvnRj7fODWlrkLzpoEqf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Ardemos](https://open.spotify.com/album/5eafvTWlzP4LDb3qlSnG9W) | 2:30 | 2023-11-10 |  |
 | [Arma Perfecta](https://open.spotify.com/track/0v6L9ICzGENuWYpVwQ20CT) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Arma Perfecta](https://open.spotify.com/album/23d7EuquSOt846dFTvqu3m) | 3:28 | 2023-11-10 |  |
+| [armagedón](https://open.spotify.com/track/5RIcOnCoAAzjhXkpgOAkiY) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:47 | 2024-12-16 |  |
 | [ASTROS ݁⋆ ★ ˚｡⋆](https://open.spotify.com/track/4aVLyH6GiW1kA4db7t8Dv6) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:35 | 2024-12-01 |  |
 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 | 2023-11-10 |  |
 | [BANDERA](https://open.spotify.com/track/1RjKGXhBFlhANSZ95rc0wb) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 2:44 | 2024-12-01 |  |
@@ -31,7 +32,7 @@
 | [Ganas de Verte](https://open.spotify.com/track/0F84fAwNfEGg9ZIJZCf8cE) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:07 | 2023-11-10 |  |
 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 | 2023-11-10 |  |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-09-29 |  |
-| [LOOP](https://open.spotify.com/track/7LF6VVNbG0jB6TiP1KVOzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:49 | 2024-12-01 |  |
+| [LOOP](https://open.spotify.com/track/7LF6VVNbG0jB6TiP1KVOzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:49 | 2024-12-01 | 2024-12-16 |
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-23 |  |
 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 | 2023-11-10 |  |
 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 | 2023-11-10 |  |

@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Dương Domic
 
-305 songs - 19 hr 22 min
+306 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Nắng có mang em về](https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC) | [Shartnuss](https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9), [Tr.D](https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ), [Phankeo](https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK) | [Luv](https://open.spotify.com/album/4zz6bSF50QAYylIlckj77v) | 4:14 | 2024-06-16 |  |
 | [Nếu Anh Là Em \(feat\. Hứa Kim Tuyền\)](https://open.spotify.com/track/1G9gGCq1i7smFoaNnAdt8f) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 4:33 | 2022-11-01 | 2022-12-19 |
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-05 |  |
+| [Nỗi Đau Đính Kèm](https://open.spotify.com/track/5gn0Df0Aa7EM98shC3daR6) | [Anh Tú Atus](https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Nỗi Đau Đính Kèm](https://open.spotify.com/album/08fUKtch61dyFGk4CEkNq0) | 3:17 | 2024-12-15 |  |
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Ooh Just You](https://open.spotify.com/track/41qCPMY2yhelj8Dubjjft7) | [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/26DJDsEwqLJJkC7c22il4p) | 3:15 | 2024-05-26 | 2024-06-17 |
 | [PHÓNG ZÌN ZÌN](https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 3:22 | 2024-10-06 |  |
@@ -305,7 +306,7 @@
 | [Để Anh Không](https://open.spotify.com/track/7MsBc6TRRIqQFaZ62YvB9u) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN) | [Để Anh Không](https://open.spotify.com/album/5sYsAkO11Ty2hDBxT4ZCix) | 3:38 | 2024-01-02 | 2024-03-05 |
 | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/2anWKmV4Je8175CHvemHV9) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/album/1p3STHvnQGSVsZGiKij4Je) | 4:24 | 2023-01-31 |  |
 | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/5qbjUmVV1yOOjcMOInNPYD) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [winter warmer](https://open.spotify.com/album/2ga21N5DWcqLLiBsLADCE3) | 4:24 | 2023-04-10 | 2024-04-19 |
-| [Để Ý](https://open.spotify.com/track/4oGgxjxVOI69h9uOpHOzwn) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Để Ý](https://open.spotify.com/album/1zepqfAr5SlceotYS3bbGR) | 2:39 | 2024-06-16 |  |
+| [Để Ý](https://open.spotify.com/track/4oGgxjxVOI69h9uOpHOzwn) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Để Ý](https://open.spotify.com/album/1zepqfAr5SlceotYS3bbGR) | 2:39 | 2024-06-16 | 2024-12-16 |
 | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 | 2024-03-04 | 2024-06-17 |
 | [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2024-05-26 | 2024-06-17 |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2024-05-26 | 2024-06-17 |

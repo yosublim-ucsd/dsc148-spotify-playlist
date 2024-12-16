@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1502650,
+  "num_followers": 1502606,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Oldies Station",
-      "url": "https://open.spotify.com/track/7dI0mSvbdJTynUnEkWIom1"
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dance Floor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+      "duration_ms": 228000,
+      "name": "Oldies Station",
+      "url": "https://open.spotify.com/track/7dI0mSvbdJTynUnEkWIom1"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Look At The Time",
         "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 260575,
       "name": "Look At The Time",
       "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Synchronize",
         "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "thoughts i have while lying in bed (with Beach Weather)",
         "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1459,6 +1459,22 @@
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Vienna (Everything\u2019s Fine)",
+        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 177035,
+      "name": "Vienna (Everything\u2019s Fine)",
+      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Vienna (Everything\u2019s Fine)",
-        "url": "https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ"
-      },
-      "artists": [
-        {
-          "name": "Vienna Vienna",
-          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
-        }
-      ],
-      "duration_ms": 177035,
-      "name": "Vienna (Everything\u2019s Fine)",
-      "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 199800,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1579,22 +1595,6 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "I Don't Wanna Party Anymore (Feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
       },
       "artists": [
         {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -2011,38 +2027,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Dead Club City (Deluxe)",
-        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Time :: Fate :: Karma :: God",
-      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Vandalist",
         "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
     },
     {
       "added_at": "2024-10-18 18:01:14",

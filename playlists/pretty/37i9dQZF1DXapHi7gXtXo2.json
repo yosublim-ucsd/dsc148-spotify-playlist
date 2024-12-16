@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 88061,
+  "num_followers": 88062,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -671,22 +671,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
+        "name": "Ojitos de Md (Remix)",
+        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         },
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 212044,
-      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
-      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
+      "duration_ms": 170192,
+      "name": "Ojitos de Md - Remix",
+      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -727,22 +727,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ojitos de Md (Remix)",
-        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
       "artists": [
         {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         },
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 170192,
-      "name": "Ojitos de Md - Remix",
-      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+      "duration_ms": 212044,
+      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
+      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Todo el Universo",
         "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
       },
@@ -887,26 +907,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El Milagro",
-        "url": "https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 218639,
-      "name": "El Milagro",
-      "url": "https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Primer Recreo",
         "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
       },
@@ -927,22 +927,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
+        "name": "El Milagro",
+        "url": "https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         },
         {
           "name": "Bandalos Chinos",
           "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 264250,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
+      "duration_ms": 218639,
+      "name": "El Milagro",
+      "url": "https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "C\u00e1llame",
-        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "C\u00e1llame",
-      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
+        "name": "C\u00e1llame",
+        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        },
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+      "duration_ms": 187693,
+      "name": "C\u00e1llame",
+      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1115,6 +1095,26 @@
       "duration_ms": 225938,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Llamame",
         "url": "https://open.spotify.com/album/3qx0TEK0UIW4bceOm50D8f"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Me da igual",
         "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
       },
@@ -1495,38 +1495,6 @@
       "duration_ms": 145882,
       "name": "Me da igual",
       "url": "https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 249797,
-      "name": "Coraz\u00f3n Lic\u00e1ntropo",
-      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1551,22 +1519,34 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+      "duration_ms": 249797,
+      "name": "Coraz\u00f3n Lic\u00e1ntropo",
+      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1763,18 +1763,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+        "name": "m\u00e9todos.",
+        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
         }
       ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+      "duration_ms": 207659,
+      "name": "ando chiple <\\3",
+      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
     }
   ],
   "unique_name": "Radio Indie",

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,542 songs - 3 day 21 hr 25 min
+1,543 songs - 3 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 | 2022-07-26 | 2022-09-09 |
 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 | 2023-06-20 | 2023-07-19 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-04 | 2024-09-26 |
+| [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 | 2024-12-10 |  |
 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 | 2024-04-16 | 2024-05-15 |
 | [Phenomeno](https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l) | 2:45 | 2024-04-12 | 2024-04-19 |
 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
@@ -1498,7 +1499,7 @@
 | [生きてみるわ](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 | 2022-08-12 |
 | [生きる](https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 4:01 | 2022-05-26 | 2022-06-15 |
 | [生きる者](https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [生きる者](https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi) | 4:41 | 2023-01-24 | 2023-06-22 |
-| [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 | 2024-04-16 |  |
+| [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 | 2024-04-16 | 2024-12-16 |
 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 | 2023-11-21 | 2023-11-29 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-11 | 2022-10-05 |
 | [真夏の果実 \- Cover](https://open.spotify.com/track/3Fs7I1kToxhafKWDtU39Pw) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Micro](https://open.spotify.com/artist/5YgjUcPpadiQTJvck01mE5) | [by the Sea 3](https://open.spotify.com/album/20A1c3QFeS6SSUkwtffzWJ) | 4:32 | 2023-11-28 | 2023-11-30 |

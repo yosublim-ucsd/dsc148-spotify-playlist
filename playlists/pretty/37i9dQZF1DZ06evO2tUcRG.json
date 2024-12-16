@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 264915,
+  "num_followers": 264934,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABe8MYpywmpTmkil/QlGFUw",
+  "snapshot_id": "Z1zKgAAAAAAIISdQGuzrgGYj50zFu8xZ",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fernandinho Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": null,

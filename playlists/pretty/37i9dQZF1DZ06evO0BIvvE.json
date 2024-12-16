@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 10829,
+  "num_followers": 10833,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADPBKyhq1egSA3YFDjW91vR",
+  "snapshot_id": "Z1zKgAAAAADEBXGszFrTHRrNl1/UD0OU",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 329106,
-      "name": "July, July, July, July",
-      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 275240,
       "name": "Brown Baby",
       "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 329106,
+      "name": "July, July, July, July",
+      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "I'm Gonna Make It This Time",
+      "url": "https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 308103,
       "name": "Me and Mrs. Jones (1895 Jazz Remix)",
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "I'm Gonna Make It This Time",
-      "url": "https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Thank You (For This Blessing)",
-      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 219320,
       "name": "Love Buddies",
       "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 257279,
-      "name": "People Power",
-      "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
     },
     {
       "added_at": null,
@@ -571,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 257279,
+      "name": "People Power",
+      "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Thank You (For This Blessing)",
+      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feelin' Good at the Cadillac Club",
         "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 438986,
-      "name": "I Was Married",
-      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255053,
       "name": "This Is Your Life",
       "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 438986,
+      "name": "I Was Married",
+      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ebony Woman",
-        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ebony Woman",
+        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
     },
     {
       "added_at": null,

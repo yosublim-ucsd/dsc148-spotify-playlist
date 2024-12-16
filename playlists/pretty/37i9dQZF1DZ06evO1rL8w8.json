@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 215767,
+  "num_followers": 215811,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABVCzCvjQrv+158EoD5n2p3",
+  "snapshot_id": "Z1zKgAAAAAAwUOdj0BKPuEepf3F7G68a",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Movimiento Alterado Vol. 3",
+        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -619,6 +635,38 @@
       "duration_ms": 229982,
       "name": "Me Gustas Mucho (En Vivo)",
       "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -667,54 +715,6 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Movimiento Alterado Vol. 3",
-        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 154357,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 125956,
       "name": "La Chapiza - En Vivo",
       "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     }
   ],
   "unique_name": "This Is El Komander",

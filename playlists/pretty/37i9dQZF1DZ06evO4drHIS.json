@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 14096,
+  "num_followers": 14106,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ongAAAAACTAKSskOAg3hZhSrvIUxFW",
+  "snapshot_id": "Z1zKgAAAAABrE0DUEwtPLj1qg/4npAJi",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Te Super\u00e9 (Volumen 2)",
         "url": "https://open.spotify.com/album/7nEzOAzKWf168xcYxPLSPa"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 196013,
       "name": "Ya Te Super\u00e9 - Volumen 2",
       "url": "https://open.spotify.com/track/0Imn72HDv2VWXLiQcK8iGr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "T\u00f3mbola",
+        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+      "duration_ms": 165906,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00f3mbola",
-        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 165906,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Toda La Chapa",
-        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 177053,
-      "name": "En Toda La Chapa",
-      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "added_at": null,

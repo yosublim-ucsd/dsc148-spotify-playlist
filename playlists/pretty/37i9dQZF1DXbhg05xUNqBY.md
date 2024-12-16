@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,466 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,444 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 24 | [Show Me What It Means](https://open.spotify.com/track/7rA6eHljnanyoQ5QyHWQrv) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Show Me What It Means](https://open.spotify.com/album/0WJ9VhlvVj1U0QADkAz02d) | 4:30 |
 | 25 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 |
 | 26 | [Rest](https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Mental Help](https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1) | 3:44 |
-| 27 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 |
-| 28 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 |
+| 27 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 |
+| 28 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 |
 | 29 | [You Are My Salvation](https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [You Are My Salvation](https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd) | 3:02 |
 | 30 | [Good Shepherd](https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 4:24 |
 | 31 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 46 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
 | 47 | [You Are Fullness](https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:20 |
 | 48 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
-| 49 | [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 |
+| 49 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 |
 | 50 | [Weight of Your Glory](https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN) | [Dustin Scarbrough](https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9) | [Weight of Your Glory](https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82) | 4:08 |
-| 51 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 |
+| 51 | [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 |
 | 52 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh) | 2:41 |
 | 53 | [Yahweh](https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Yahweh](https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09) | 9:15 |
 | 54 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 |

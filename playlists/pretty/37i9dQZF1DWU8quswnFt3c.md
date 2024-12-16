@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,008 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,011 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 44 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 | 45 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 |
-| 46 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
-| 47 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
+| 46 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
+| 47 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
 | 48 | [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 |
 | 49 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 |
 | 50 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 |
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [Нітрогліцерин](https://open.spotify.com/track/4O9DsRSsHcZDB93PRQ1qwS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:33 |
 | 58 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 |
 | 59 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 |
-| 60 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 |
-| 61 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 60 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 61 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 |
 | 62 | [空白題](https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 3:04 |
-| 63 | [泥潭](https://open.spotify.com/track/6lXfUj8MOzI6yVddYQJi7F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [泥潭](https://open.spotify.com/album/74TdPe8k0JuWpDD7CTsGkF) | 3:15 |
-| 64 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 |
+| 63 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 |
+| 64 | [泥潭](https://open.spotify.com/track/6lXfUj8MOzI6yVddYQJi7F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [泥潭](https://open.spotify.com/album/74TdPe8k0JuWpDD7CTsGkF) | 3:15 |
 | 65 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 |
 | 66 | [PLATONIK](https://open.spotify.com/track/3yXbWResBOuRKxX7hK5Na7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [PLATONIK](https://open.spotify.com/album/3CDkl5DzNF9LdbdDDxlj7s) | 2:41 |
 | 67 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 |
-| 68 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
-| 69 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
+| 68 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
+| 69 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
 | 70 | [ZARI](https://open.spotify.com/track/0sD3HkFhhQcvCv7gAVyZD3) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/6E7dzyj0tF8FTdSHCLUFN5) | 3:00 |
 | 71 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
 | 72 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
-| 73 | [somebody's daughter](https://open.spotify.com/track/1uiQGvgzMLTWjI8SKcegLw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 2:54 |
-| 74 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
+| 73 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
+| 74 | [somebody's daughter](https://open.spotify.com/track/1uiQGvgzMLTWjI8SKcegLw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 2:54 |
 | 75 | [Grande Amore](https://open.spotify.com/track/0ajLxVGDrivAsmnUcNGKGA) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Grande Amore](https://open.spotify.com/album/3uisoWygLYZsnXrPDasPVY) | 4:43 |
 
 Snapshot ID: `Z1BKwwAAAAAgiNmEpO7NkiJ6JjEfyajZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 86859,
+  "num_followers": 86893,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADQpWtPxR82u6J+PX7EddYl",
+  "snapshot_id": "Z1zKgAAAAADMf0EoP3f2rkeubFGuPhQY",
   "tracks": [
     {
       "added_at": null,
@@ -227,50 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "If It\u2019s Okay (feat. David Guetta & Davido)",
-      "url": "https://open.spotify.com/track/7uFi3inTvFSPIJPnalgmI3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "NO COMPETITION (feat. Asake)",
-      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -295,6 +251,50 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "NO COMPETITION (feat. Asake)",
+      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "If It\u2019s Okay (feat. David Guetta & Davido)",
+      "url": "https://open.spotify.com/track/7uFi3inTvFSPIJPnalgmI3"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -623,6 +643,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208427,
+      "name": "One Ticket",
+      "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
     },
     {
       "added_at": null,
@@ -651,42 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
         {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 208427,
-      "name": "One Ticket",
-      "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -707,26 +727,6 @@
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -782,15 +782,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 172500,
-      "name": "D & G (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+      "duration_ms": 203505,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
     },
     {
       "added_at": null,
@@ -854,11 +850,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 203505,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
+      "duration_ms": 172500,
+      "name": "D & G (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
       "added_at": null,
@@ -955,6 +955,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 217069,
+      "name": "PrAy",
+      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
       },
@@ -991,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 182791,
       "name": "Stand Strong (feat. Sunday Service Choir)",
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     }
   ],
   "unique_name": "This Is Davido",

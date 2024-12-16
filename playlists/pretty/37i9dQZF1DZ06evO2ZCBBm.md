@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,657 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,658 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 11 | [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 |
 | 12 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 |
 | 13 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
-| 14 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 |
-| 15 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 |
+| 14 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 |
+| 15 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 |
 | 16 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 |
 | 17 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 |
 | 18 | [Fuck You](https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:57 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 46 | [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 |
 | 47 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
 
-Snapshot ID: `Z1t5AAAAAAAf8Mmv4mh6KES2h3u82Ed+`
+Snapshot ID: `Z1zKgAAAAAC/LuIg6OVFrt6eplEXkCIq`

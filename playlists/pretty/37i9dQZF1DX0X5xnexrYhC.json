@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: LISA, ROSAL\u00cdA",
-  "num_followers": 83634,
+  "num_followers": 83631,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -267,6 +283,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -283,22 +315,6 @@
       "duration_ms": 197142,
       "name": "GORGEOUS (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -323,38 +339,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "Slut Pop",
         "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "what it means to be a girl / this is how i learn to say no",
-        "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "what it means to be a girl",
-      "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "what it means to be a girl / this is how i learn to say no",
+        "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "what it means to be a girl",
+      "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "Not Another Rockstar",
+        "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 149053,
+      "name": "Not Another Rockstar",
+      "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "killer queen",
-        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 178888,
-      "name": "killer queen",
-      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Not Another Rockstar",
-        "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
+        "name": "killer queen",
+        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 149053,
-      "name": "Not Another Rockstar",
-      "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+      "duration_ms": 178888,
+      "name": "killer queen",
+      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "Aston",
         "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 176413,
       "name": "I am not a woman, I'm a god",
       "url": "https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "Lady Jesus",
+        "url": "https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "Thriving",
+      "url": "https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 165916,
       "name": "hurt less",
       "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
-        "name": "Lady Jesus",
-        "url": "https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 135533,
-      "name": "Thriving",
-      "url": "https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "internet baby",
-        "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 157070,
-      "name": "internet baby",
-      "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "The Saint And The Sinner",
         "url": "https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192862,
       "name": "The Saint And The Sinner",
       "url": "https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "internet baby",
+        "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 157070,
+      "name": "internet baby",
+      "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Not ur fkn fan",
-        "url": "https://open.spotify.com/album/78gtm9P5nt1Nw0kOpEfvZd"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
-        }
-      ],
-      "duration_ms": 197112,
-      "name": "Not ur fkn fan",
-      "url": "https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "Children In The Dark",
         "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 178842,
       "name": "Children In The Dark",
       "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "Time of my Life",
+        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 136066,
+      "name": "Time of my Life",
+      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
     }
   ],
   "unique_name": "POP EDGE",

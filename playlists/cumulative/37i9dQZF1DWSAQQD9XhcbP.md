@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Lyn Lapid
 
-147 songs - 8 hr 9 min
+148 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-23 |  |
 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-12-13 | 2024-04-19 |
 | [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 | 2021-12-23 | 2022-11-23 |
-| [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 | 2021-12-23 |  |
+| [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 | 2021-12-23 | 2024-12-16 |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Blue Christmas](https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO) | 3:49 | 2022-11-12 |  |
 | [Blue Christmas](https://open.spotify.com/track/1SGNpO62EqT1KC1K8B8lFw) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Blue Christmas](https://open.spotify.com/album/4KRdBwVmISlc4j5EVmDBpe) | 2:28 | 2021-12-23 | 2022-11-12 |
@@ -96,6 +96,7 @@
 | [Love to Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-23 | 2024-10-19 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2021-12-23 | 2024-04-19 |
 | [Mary, Did You Know?](https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight](https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg) | 3:43 | 2024-11-15 |  |
+| [Maybe This Christmas](https://open.spotify.com/track/3oef7EIlHHOXYIM1OMQAaH) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Maybe This Christmas](https://open.spotify.com/album/1qf65cYlsoY4AcGXW5a2k6) | 3:28 | 2024-12-15 |  |
 | [Meet Me Next Christmas](https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Meet Me Next Christmas](https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx) | 2:43 | 2024-11-04 |  |
 | [Merry Christmas, Darling](https://open.spotify.com/track/6dehwS2DnlgK0S5EDg4p7X) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:04 | 2021-12-23 |  |
 | [Mistletoe](https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Mistletoe](https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco) | 3:51 | 2022-11-12 |  |

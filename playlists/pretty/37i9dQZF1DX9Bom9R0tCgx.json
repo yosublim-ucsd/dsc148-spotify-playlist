@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 397904,
+  "num_followers": 397997,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Tell Me Why (Maddix Remix)",
-        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
       "artists": [
         {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Tell Me Why - Maddix Remix",
-      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -663,6 +643,26 @@
       "duration_ms": 187394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Tell Me Why (Maddix Remix)",
+        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Tell Me Why - Maddix Remix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Forever Melancholia",
         "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
       },
@@ -1351,6 +1327,30 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
@@ -1371,6 +1371,30 @@
       "duration_ms": 134749,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1403,30 +1427,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
-        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 145032,
-      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
-      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1443,6 +1443,54 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        }
+      ],
+      "duration_ms": 125058,
+      "name": "Dance Therapy",
+      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1467,50 +1515,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+        "name": "My Mama Dropped LSD in the 90's",
+        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
       "artists": [
         {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "watch your tone",
-        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
-      },
-      "artists": [
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
         {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "watch your tone",
-      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Dance Therapy",
-        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
-      },
-      "artists": [
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
         {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+          "name": "blazey",
+          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
         }
       ],
-      "duration_ms": 125058,
-      "name": "Dance Therapy",
-      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
+      "duration_ms": 176817,
+      "name": "My Mama Dropped LSD in the 90's",
+      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1535,30 +1559,6 @@
       "duration_ms": 137250,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "My Mama Dropped LSD in the 90's",
-        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        },
-        {
-          "name": "blazey",
-          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
-        }
-      ],
-      "duration_ms": 176817,
-      "name": "My Mama Dropped LSD in the 90's",
-      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "LA DI DA",
-        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "DJane HouseKat",
-          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "LA DI DA",
-      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 156169,
       "name": "LSD",
       "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "LA DI DA",
+        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1907,6 +1907,30 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/6LkCDo093ojmj9N7j3JCqr"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
+        }
+      ],
+      "duration_ms": 113147,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/6AxTUAahRApuTumX0NXzDt"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
         "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
       },
@@ -1931,30 +1955,6 @@
       "duration_ms": 162857,
       "name": "Never Going Home Tonight (feat. Madison Love) - KAAZE Remix",
       "url": "https://open.spotify.com/track/0znQfZSluraTNVo8Fg6mHs"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/6LkCDo093ojmj9N7j3JCqr"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
-        }
-      ],
-      "duration_ms": 113147,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/6AxTUAahRApuTumX0NXzDt"
     },
     {
       "added_at": "2024-12-12 23:00:06",

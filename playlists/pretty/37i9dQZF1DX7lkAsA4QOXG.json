@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 139102,
+  "num_followers": 139156,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 228190,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ZcDIHP2IAuluC75GAZkz2"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Rock Swings",
         "url": "https://open.spotify.com/album/0lu611O6t7E8sd9E2LkImh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 214080,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
+      "duration_ms": 243906,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -679,6 +663,22 @@
       "duration_ms": 288880,
       "name": "Steer Your Way (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Viva la Vida",
-        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
         "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 226093,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 549600,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "J for Jazz",
-          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
         }
       ],
-      "duration_ms": 168466,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1595,6 +1599,22 @@
       "duration_ms": 526533,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
+      },
+      "artists": [
+        {
+          "name": "J for Jazz",
+          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1619,26 +1639,6 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1799,26 +1799,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "With a Little Help from My Friends",
-        "url": "https://open.spotify.com/album/2ZZYwV5bwFEPqKKg5MvHkG"
+        "name": "If It's Magic",
+        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
       },
       "artists": [
         {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Billy Hart",
-          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
         }
       ],
-      "duration_ms": 273946,
-      "name": "With a Little Help from My Friends",
-      "url": "https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA"
+      "duration_ms": 209338,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1839,18 +1831,26 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "If It's Magic",
-        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+        "name": "With a Little Help from My Friends",
+        "url": "https://open.spotify.com/album/2ZZYwV5bwFEPqKKg5MvHkG"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
         }
       ],
-      "duration_ms": 209338,
-      "name": "If It's Magic",
-      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
+      "duration_ms": 273946,
+      "name": "With a Little Help from My Friends",
+      "url": "https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225335,
-      "name": "Exile",
-      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225335,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
     },
     {
       "added_at": "2024-06-13 12:46:03",

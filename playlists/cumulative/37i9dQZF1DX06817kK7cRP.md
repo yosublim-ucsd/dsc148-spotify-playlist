@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-210 songs - 9 hr 12 min
+211 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 |  |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 | 2024-10-10 |
-| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 |  |
+| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 | 2024-12-16 |
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 | 2023-07-22 |
 | [Move Around](https://open.spotify.com/track/4heW9iwtsMVkUXkX0sxGac) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [Move Around](https://open.spotify.com/album/1NlyMIeGd01ovIX5XCWRXq) | 1:54 | 2024-08-23 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 | 2024-11-16 |
@@ -163,6 +163,7 @@
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2023-01-12 |  |
 | [Refractions](https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [mishingo](https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK) | [Refractions](https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT) | 2:16 | 2023-01-12 |  |
 | [Relaxin'](https://open.spotify.com/track/2N4F5dWQr2CYrcDRjpj1ee) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Relaxin'](https://open.spotify.com/album/681QQ5zebjpnMWMrdttUNl) | 2:03 | 2024-07-12 |  |
+| [Riverside Jazz](https://open.spotify.com/track/5UjyNKVjHdSexaiI7mxHZn) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Riverside Jazz](https://open.spotify.com/album/0kLy3T7H21CFpd2XceGweo) | 1:56 | 2024-11-12 |  |
 | [Riviera Nights](https://open.spotify.com/track/6BtRzObrcOEv2jTTGaNp25) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Riviera Nights](https://open.spotify.com/album/1rtz7vWTxLfwWOd9dkwPd5) | 3:33 | 2023-01-12 | 2023-03-10 |
 | [Roller Rink](https://open.spotify.com/track/14OGFMljamRhGrkNPI1IoH) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Roller Rink](https://open.spotify.com/album/3bWYM84vycenn6bzW3IuOp) | 2:30 | 2023-03-23 |  |
 | [Rush Hour](https://open.spotify.com/track/5O6z2ai9ZENm9XywrUjZZU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Rush Hour](https://open.spotify.com/album/4Ly3M4zMNlO5dpUeHpg1Pq) | 2:39 | 2023-01-12 | 2023-08-25 |

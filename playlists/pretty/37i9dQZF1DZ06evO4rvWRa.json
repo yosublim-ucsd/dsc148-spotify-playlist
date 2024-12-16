@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640621,
+  "num_followers": 1640570,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACQtxamCqOSbr6guLwY3KOL",
+  "snapshot_id": "Z1zKgAAAAAAIGkiAXLXJ0tnyr8C/j7kL",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 136421,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Melody (Edward Artemyev) (feat. Leony)",
         "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
       },
@@ -795,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thick Of It All",
-        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
       "artists": [
         {
@@ -804,17 +784,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Thick Of It All",
-      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": null,
@@ -835,6 +811,30 @@
       "duration_ms": 142909,
       "name": "sickly sweet - Alan Walker Remix",
       "url": "https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": null,

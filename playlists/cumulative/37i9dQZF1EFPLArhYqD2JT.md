@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-408 songs - 20 hr 44 min
+409 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [How Many Times?](https://open.spotify.com/track/1JtXlpLQNowEToxofguYXE) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [The Golden Age Of The Andrews Sisters \- The Unmistakable Voices Of The Swing Era](https://open.spotify.com/album/4Hn4fWsfXDoS9eB3oEQO5H) | 2:38 | 2024-07-26 |  |
 | [I Beg Your Pardon, Dear Old Broadway](https://open.spotify.com/track/1BPM4VIoLnU02EFO1z2nwe) | [Jackson Demott Hill](https://open.spotify.com/artist/2XPPff9bg6PFYIM6J8z8nB), [Alex Dreier](https://open.spotify.com/artist/2gndnq12MpluBeIfY1IHWS) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:33 | 2024-07-26 | 2024-11-17 |
 | [I Can't Do Without You](https://open.spotify.com/track/5I0bQmdP8zMhacVg1iVW9a) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/album/3KhhvEzva69q1LDabGo3ru) | 3:25 | 2024-07-26 |  |
-| [I Can't Remember](https://open.spotify.com/track/0KdlDVIvKgT5cFLE58IVLM) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [Old Man Harlem \(1931 \- 1933\)](https://open.spotify.com/album/6PiZzTyHDSS6GlI2NGao1I) | 3:17 | 2024-07-26 |  |
+| [I Can't Remember](https://open.spotify.com/track/0KdlDVIvKgT5cFLE58IVLM) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [Old Man Harlem \(1931 \- 1933\)](https://open.spotify.com/album/6PiZzTyHDSS6GlI2NGao1I) | 3:17 | 2024-07-26 | 2024-12-16 |
+| [I Can't Remember](https://open.spotify.com/track/3kJZbWkmO6T6x04M7kHsh7) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [I Can't Remember](https://open.spotify.com/album/5xRUU9ts6jRnHk42y5q5F5) | 3:17 | 2024-12-15 |  |
 | [I Can't Tell A Lie](https://open.spotify.com/track/6dqDPqUGonBNzIV4c9kYSd) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:40 | 2024-07-26 |  |
 | [I Got Lost In His Arms](https://open.spotify.com/track/3tTp5FKwX0agtCH6NdINaJ) | [Annie Get Your Gun \- 1999 Broadway Cast](https://open.spotify.com/artist/0w34yGDpcmJF0GK1dp14tw), [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Tom Wopat](https://open.spotify.com/artist/7vgw2PRsF1Ouh9i7r8bTJu) | [Annie Get Your Gun: The New Broadway Cast Recording](https://open.spotify.com/album/2SxCtvFthZqPOkja0lo6yh) | 4:12 | 2024-07-26 |  |
 | [I Got The Sun In The Morning](https://open.spotify.com/track/5pMsuq5HmKpHC62veXH9gK) | [Annie Get Your Gun \- 1999 Broadway Cast](https://open.spotify.com/artist/0w34yGDpcmJF0GK1dp14tw), [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Tom Wopat](https://open.spotify.com/artist/7vgw2PRsF1Ouh9i7r8bTJu) | [Annie Get Your Gun: The New Broadway Cast Recording](https://open.spotify.com/album/2SxCtvFthZqPOkja0lo6yh) | 4:30 | 2024-07-26 |  |

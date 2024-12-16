@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 67442,
+  "num_followers": 67451,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAbCrG8Heu2ah5MhltK19o8",
+  "snapshot_id": "Z1zKgAAAAAACqGilB/rHjrKq944Y+Onh",
   "tracks": [
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "Busc\u00e1ndote",
+        "url": "https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
+      "duration_ms": 241684,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busc\u00e1ndote",
-        "url": "https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 241684,
-      "name": "Busc\u00e1ndote",
-      "url": "https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F"
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
     },
     {
       "added_at": null,
@@ -163,22 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 197076,
-      "name": "Mi Pecadito",
-      "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
     },
     {
       "added_at": null,
@@ -199,22 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Att: Amor",
-      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Falta",
         "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 188412,
       "name": "La Falta",
       "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 123954,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUKHA",
         "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 172239,
       "name": "MEDICINA NATURAL",
       "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Depre",
-        "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 123954,
-      "name": "La Depre",
-      "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jame",
         "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189679,
       "name": "D\u00e9jame",
       "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,

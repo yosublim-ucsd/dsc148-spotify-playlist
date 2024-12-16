@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-926 songs - 2 day 0 hr 55 min
+927 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [cONTRA><Mi](https://open.spotify.com/track/0TSeUlki6qsc7YYS9vRORy) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:39 | 2023-06-24 | 2023-06-26 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-08 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-24 | 2024-12-10 |
-| [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 | 2024-12-10 |  |
+| [Cosa Linda](https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:30 | 2024-12-10 | 2024-12-16 |
 | [Cosas Malas \- Remix](https://open.spotify.com/track/7hiAGGyiLaLBTVroaE08hx) | [Jona Mix](https://open.spotify.com/artist/766vvKS4M2b7XuaEzfkCs8) | [Cosas Malas \(Remix\)](https://open.spotify.com/album/7EDSu2ktxKYf8ZMm0NQFPP) | 2:59 | 2021-12-27 | 2022-03-04 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-05-02 | 2023-05-04 |
 | [CSIpher \(audio latino\)](https://open.spotify.com/track/39jHhYnMF65lncV4agV5dX) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 4:10 | 2023-06-24 | 2023-06-26 |
@@ -591,6 +591,7 @@
 | [OJITOS ROJOS](https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:41 | 2023-08-04 | 2023-09-01 |
 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-29 | 2023-08-05 |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-30 |  |
+| [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K) | 2:37 | 2024-12-15 |  |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-05-08 |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-03 | 2024-04-14 |
 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 | 2024-04-13 | 2024-05-19 |

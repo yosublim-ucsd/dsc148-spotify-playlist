@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 86500,
+  "num_followers": 86510,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABacAdJhROGpO77IZtNfhvZ",
+  "snapshot_id": "Z1zKgAAAAACpY8TrSnxb9iGPsB+gcPn1",
   "tracks": [
     {
       "added_at": null,
@@ -1035,22 +1035,6 @@
       "duration_ms": 195483,
       "name": "My Life Is Music - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
     }
   ],
   "unique_name": "This Is Jonas Blue",

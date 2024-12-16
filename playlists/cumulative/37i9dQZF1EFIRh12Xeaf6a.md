@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-296 songs - 15 hr 23 min
+298 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Eagle](https://open.spotify.com/track/5XDIXl4gjvb3DiD9F7lV2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:41 | 2023-12-30 |  |
 | [Easy To Love \(So Hard To Get\)](https://open.spotify.com/track/38Flz4Xg7TKy13KUbzIHR5) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Let Me Get Close To You \(With Bonus Tracks\)](https://open.spotify.com/album/0qiT0Yzyqwe884pSk75BU6) | 2:12 | 2023-12-30 |  |
 | [Echoes](https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Presenting Teddy Randazzo](https://open.spotify.com/album/46cFy8s2CRTfIQkL6vnukg) | 2:48 | 2023-12-30 | 2024-12-12 |
-| [Echoes](https://open.spotify.com/track/4H4HjQzUdn4KXqO1mDxqVh) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Anthology](https://open.spotify.com/album/3cv3KYemlKiULGa8DPJnDj) | 2:48 | 2024-12-11 |  |
+| [Echoes](https://open.spotify.com/track/3oKZoKI2ROktaQJBoZ2KGs) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [For All We Know](https://open.spotify.com/album/2UiHZVwRtWVOycWFftoFxf) | 2:48 | 2024-12-15 |  |
+| [Echoes](https://open.spotify.com/track/4H4HjQzUdn4KXqO1mDxqVh) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Anthology](https://open.spotify.com/album/3cv3KYemlKiULGa8DPJnDj) | 2:48 | 2024-12-11 | 2024-12-16 |
 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 | 2023-12-30 |  |
 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 | 2023-12-30 |  |
 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 | 2023-12-30 |  |
@@ -157,7 +158,8 @@
 | [Let's Start the Party Again](https://open.spotify.com/track/7kD0nK8s5uPVf43t4o5lpU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:48 | 2023-12-30 | 2024-12-12 |
 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 | 2023-12-30 |  |
 | [Long Way To Be Happy](https://open.spotify.com/track/6rS2B0RwdfPLcMWHuugcoY) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 | 2023-12-30 |  |
-| [Look Down](https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:29 | 2023-12-30 |  |
+| [Look Down](https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:29 | 2023-12-30 | 2024-12-16 |
+| [Look Down](https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Only Love Me](https://open.spotify.com/album/0HfnGYuGW980ynBFAUKEqi) | 2:29 | 2024-12-15 |  |
 | [Love Eyes \- Remastered](https://open.spotify.com/track/5qJeIzaoIodrrKSOeugESh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 1:58 | 2023-12-30 |  |
 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 | 2023-12-30 |  |
 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 | 2023-12-30 |  |

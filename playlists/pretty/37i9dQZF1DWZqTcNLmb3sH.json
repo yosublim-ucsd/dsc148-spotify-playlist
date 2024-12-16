@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 61554,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Max",
+  "num_followers": 61581,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1qMJgAAAADfbi8c0O4PliGkjRjk0c9Z",
+  "snapshot_id": "Z17f6QAAAAAUzQ2C0+jrMqxtYHQebyir",
   "tracks": [
+    {
+      "added_at": "2024-12-15 13:55:53",
+      "album": {
+        "name": "Lion's Roar (From \"Max\") (Kannada)",
+        "url": "https://open.spotify.com/album/1G5jaPHxSXDiZMkh8L1xPm"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Lion's Roar (From \"Max\") (Kannada)",
+      "url": "https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ"
+    },
     {
       "added_at": "2024-11-07 07:34:58",
       "album": {

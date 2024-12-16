@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With Joshua Lanuarii, glitterpop!, STYXVII and more",
+  "description": "With glitterpop!, Joshua Lanuarii, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 192000,
       "name": "adhd music for FURRIES!!!",
       "url": "https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 155897,
       "name": "FURRIES JUST WANNA HAVE FUN!",
       "url": "https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk"
@@ -322,6 +322,24 @@
       "duration_ms": 278700,
       "name": "i'm down",
       "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
+    },
+    {
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99596,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
     },
     {
       "album": {
@@ -442,10 +460,28 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
+    },
+    {
+      "album": {
+        "name": "JuiceBox",
+        "url": "https://open.spotify.com/album/7aVYiNPz1HtCitbhFBg5V2"
+      },
+      "artists": [
+        {
+          "name": "Daxbak",
+          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "JuiceBox",
+      "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
     },
     {
       "album": {
@@ -634,7 +670,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/5cCxIwMcjhYVWHGu5RLn5G"
@@ -674,6 +710,32 @@
       "duration_ms": 121874,
       "name": "no response",
       "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
+    },
+    {
+      "album": {
+        "name": "NYA NYA DANCE",
+        "url": "https://open.spotify.com/album/69NebO2NdKaiwvmXAA8xbF"
+      },
+      "artists": [
+        {
+          "name": "glitterpop!",
+          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        },
+        {
+          "name": "R00SEVELT",
+          "url": "https://open.spotify.com/artist/2nNGFqHyJ0DpWpeN9D4yns"
+        },
+        {
+          "name": "jammies",
+          "url": "https://open.spotify.com/artist/3CzrUsrqxA97pyVVGrRyAX"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "NYA NYA DANCE",
+      "url": "https://open.spotify.com/track/5tKj1qinFKbvRIzRmgK5fG"
     },
     {
       "album": {
@@ -786,6 +848,24 @@
       "duration_ms": 173337,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t"
+    },
+    {
+      "album": {
+        "name": "ppl go blush",
+        "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73395,
+      "name": "ppl go blush",
+      "url": "https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY"
     },
     {
       "album": {
@@ -930,7 +1010,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
@@ -1013,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "VICTIMiZED",
+      "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
+    },
+    {
+      "album": {
         "name": "GLITTER IN THE BIG CITY!",
         "url": "https://open.spotify.com/album/3caKl4lh0NPHT3YwOW5jT9"
       },
@@ -1024,7 +1122,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 274186,
       "name": "WAG UR TAIL 2 THIS! (PAWS UP ON THE DANCEFLOOR!)",
       "url": "https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0"

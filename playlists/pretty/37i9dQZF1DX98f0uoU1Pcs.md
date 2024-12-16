@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a unique mix of rock, punk, alt & indie\. Cover: Pixies
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,760 likes - 105 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,767 likes - 105 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

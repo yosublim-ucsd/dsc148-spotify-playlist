@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1811617,
+  "num_followers": 1811680,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "added_at": "2024-09-20 14:05:33",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
     },
     {
       "added_at": "2024-09-20 14:05:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
     },
     {
       "added_at": "2024-09-20 14:05:33",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "And I Love Her - Remastered 2009",
+      "url": "https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "And I Love Her - Remastered 2009",
-      "url": "https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1"
     },
     {
       "added_at": "2024-09-20 14:05:33",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 222926,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-09-20 14:05:33",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-09-20 14:05:33",
       "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
+    },
+    {
+      "added_at": "2024-09-20 14:05:33",
+      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 200940,
       "name": "Dear August",
       "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
-    },
-    {
-      "added_at": "2024-09-20 14:05:33",
-      "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
     },
     {
       "added_at": "2024-09-20 14:05:33",

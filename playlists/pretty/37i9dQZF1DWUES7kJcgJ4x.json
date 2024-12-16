@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 17596,
+  "num_followers": 17600,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 118480,
-      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
-      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "The Best Of Bardot",
         "url": "https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 122400,
       "name": "Siempre es domingo - 2015 Remaster",
       "url": "https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 118480,
+      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
+      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "T\u00fa No Eres Ye Y\u00e9",
-        "url": "https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0"
-      },
-      "artists": [
-        {
-          "name": "Blanca Aurora",
-          "url": "https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "T\u00fa No Eres Ye Y\u00e9 (J\u00e4gerlatein)",
-      "url": "https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Cuando Espa\u00f1a Bailaba el Twist",
         "url": "https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 152746,
       "name": "Muy Cerca de T\u00ed",
       "url": "https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "T\u00fa No Eres Ye Y\u00e9",
+        "url": "https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0"
+      },
+      "artists": [
+        {
+          "name": "Blanca Aurora",
+          "url": "https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "T\u00fa No Eres Ye Y\u00e9 (J\u00e4gerlatein)",
+      "url": "https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "The \"In\" Crowd",
-      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Grabaciones Completas (Remastered)",
         "url": "https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 132680,
       "name": "Johnny - Remastered",
       "url": "https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "The \"In\" Crowd",
+      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "Profesor",
+        "url": "https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc"
+      },
+      "artists": [
+        {
+          "name": "Alicia Granados",
+          "url": "https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft"
+        }
+      ],
+      "duration_ms": 128325,
+      "name": "El Juguete Extraordinario",
+      "url": "https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Profesor",
-        "url": "https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc"
+        "name": "Marisol. La Peque\u00f1a Estrella",
+        "url": "https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT"
       },
       "artists": [
         {
-          "name": "Alicia Granados",
-          "url": "https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft"
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
         }
       ],
-      "duration_ms": 128325,
-      "name": "El Juguete Extraordinario",
-      "url": "https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen"
+      "duration_ms": 152053,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -559,6 +575,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "M\u00e1s Bonita Que Ninguna",
+        "url": "https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "M\u00e1s Bonita Que Ninguna",
+      "url": "https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "Marisol. La Peque\u00f1a Estrella",
-        "url": "https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT"
-      },
-      "artists": [
-        {
-          "name": "Marisol",
-          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
-        }
-      ],
-      "duration_ms": 152053,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -619,22 +635,6 @@
       "duration_ms": 163106,
       "name": "To Sir With Love",
       "url": "https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "M\u00e1s Bonita Que Ninguna",
-        "url": "https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "M\u00e1s Bonita Que Ninguna",
-      "url": "https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT"
     },
     {
       "added_at": "2021-01-18 18:58:11",

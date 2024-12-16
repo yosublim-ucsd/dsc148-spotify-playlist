@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 200146,
       "name": "Smile Again",
       "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
@@ -902,6 +902,28 @@
       "duration_ms": 113320,
       "name": "warawara",
       "url": "https://open.spotify.com/track/3uLbLFMk7VeOwVdv8J6Y1I"
+    },
+    {
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54"
+      },
+      "artists": [
+        {
+          "name": "Roy Avital",
+          "url": "https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP"
+        },
+        {
+          "name": "Grape",
+          "url": "https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158641,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
     },
     {
       "album": {
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 199615,
       "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
       "url": "https://open.spotify.com/track/2QdmP4yEgD0uwb1kSSPjb1"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 190259,
       "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"

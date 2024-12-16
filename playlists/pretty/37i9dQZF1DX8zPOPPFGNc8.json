@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 17860,
+  "num_followers": 17879,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,38 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -187,6 +219,26 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -211,24 +263,8 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
@@ -236,9 +272,9 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -283,26 +319,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -315,38 +331,6 @@
       "duration_ms": 272186,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -367,6 +351,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 314075,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -379,6 +379,38 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -423,6 +455,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
@@ -459,70 +507,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Hotel Diablo",
         "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 177813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Broken Silence",
         "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 260825,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Total Reggae: Summer Hits",
         "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 190080,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+      },
+      "artists": [
+        {
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 179626,
       "name": "Sucky Ducky",
       "url": "https://open.spotify.com/track/2h44QUzS5IscTJX4Rndrmg"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
     },
     {
       "added_at": "2022-10-01 04:00:00",

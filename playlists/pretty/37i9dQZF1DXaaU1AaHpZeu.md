@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Vanessa Zamora y Ximena Sariñana  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,950 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,973 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 7 | [Catro Cousas](https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F) | [Caamaño & Ameixeiras](https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Catro Cousas](https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY) | 4:25 |
 | 8 | [Cielo muerto](https://open.spotify.com/track/0Fq4HmISfPdf3s3nAwp3Zz) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Origen y Conmigo, Vol\. 2](https://open.spotify.com/album/6FKtz2bfjoGmQ751VoYN9M) | 3:05 |
 | 9 | [hermosillo](https://open.spotify.com/track/6mk8LSlElsFcDh2mStA8Ns) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [hermosillo](https://open.spotify.com/album/4qeIxsxw8zZbiyr6BQ0C3o) | 3:06 |
-| 10 | [INVISIBLE](https://open.spotify.com/track/6fOvSv6KEZoRG6b5faYKBK) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [INVISIBLE](https://open.spotify.com/album/06yxeVEJxrVhGTMU76Owu7) | 4:23 |
+| 10 | [Invisible](https://open.spotify.com/track/6fOvSv6KEZoRG6b5faYKBK) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Invisible](https://open.spotify.com/album/06yxeVEJxrVhGTMU76Owu7) | 4:23 |
 | 11 | [Canción para la Memoria](https://open.spotify.com/track/7CqSrXuSRwxJ4W6q5La8cc) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Canción para la Memoria](https://open.spotify.com/album/30Vhts7mUIPLg5O0rAgs69) | 3:03 |
 | 12 | [Silencio](https://open.spotify.com/track/5NUa74C1UhHLsZMTDT5Xbt) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Silencio](https://open.spotify.com/album/3rMRF7ZouGPAJ0IK2LES0l) | 4:38 |
 | 13 | [mi navidad :\(](https://open.spotify.com/track/5EAB5z9ONHSOnBJdWAEWBU) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [mi navidad :\(](https://open.spotify.com/album/1Vbr57XIz53aANSxLOlogu) | 5:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,840 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,846 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 30 | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 |
 | 31 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 32 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 |
-| 33 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 |
-| 34 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
+| 33 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
+| 34 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 |
 | 35 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 |
 | 36 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
 | 37 | [i see america](https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 2:44 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 42 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
 | 43 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 | 44 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
-| 45 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
-| 46 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
+| 45 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
+| 46 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
 | 47 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 48 | [Spotlight](https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 3:15 |
 
-Snapshot ID: `Z1t5AAAAAABbSTaT+a42YW+H7Th3O46m`
+Snapshot ID: `Z1zKgAAAAAAESG3/66Q955ks023wiLNN`

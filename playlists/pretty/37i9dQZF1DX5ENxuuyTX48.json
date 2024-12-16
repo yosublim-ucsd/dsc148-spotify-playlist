@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 22129,
+  "num_followers": 22144,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -759,38 +759,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Penyangkalan",
-        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
-      },
-      "artists": [
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        }
-      ],
-      "duration_ms": 240607,
-      "name": "Penyangkalan",
-      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
-        "name": "Kau Rumahku",
-        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Kau Rumahku",
-      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Sampai Menutup Mata",
         "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 226956,
       "name": "Semenjak Ada Dirimu",
       "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Penyangkalan",
+        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "duration_ms": 240607,
+      "name": "Penyangkalan",
+      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Kau Rumahku",
+        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Kau Rumahku",
+      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
     },
     {
       "added_at": "2024-10-03 17:00:00",

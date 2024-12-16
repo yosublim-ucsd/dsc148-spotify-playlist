@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 269614,
+  "num_followers": 269672,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -279,22 +295,6 @@
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' The Joint",
         "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Best Of The Diamonds",
-        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
-      },
-      "artists": [
-        {
-          "name": "The Diamonds",
-          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Little Darlin'",
-      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 109960,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Best Of The Diamonds",
+        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+      },
+      "artists": [
+        {
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Little Darlin'",
+      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 131973,
       "name": "Lotta Lovin'",
       "url": "https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockin' The Joint",
+        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "New Rock The Joint",
+      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 112280,
       "name": "Love Potion No.9",
       "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockin' The Joint",
-        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "New Rock The Joint",
-      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Shoobie Oobie / Cheese and Crackers",
         "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 137201,
       "name": "Ten Cats Down",
       "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' with My Baby / It's Me Baby",
-        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 140984,
-      "name": "Rockin' with My Baby",
-      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly",
         "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
       },
@@ -1655,6 +1639,38 @@
       "duration_ms": 156088,
       "name": "Bop With Me Baby",
       "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' with My Baby / It's Me Baby",
+        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 140984,
+      "name": "Rockin' with My Baby",
+      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 119368,
+      "name": "Rockin Daddy",
+      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
-        }
-      ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - Rockabilly Archive",
         "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 119368,
-      "name": "Rockin Daddy",
-      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 141785,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1899,38 +1899,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/3BVjcVyGYi1yQN8hVmAFlO"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Boppin' the Blues",
-      "url": "https://open.spotify.com/track/0YmHUmDF5y9TQcnDxYdvpw"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rhino Hi-Five: The Coasters",
-        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe"
       },
@@ -1947,6 +1915,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/3BVjcVyGYi1yQN8hVmAFlO"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Boppin' the Blues",
+      "url": "https://open.spotify.com/track/0YmHUmDF5y9TQcnDxYdvpw"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Frankie Lymon & The Teenagers Greatest Hits",
         "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 140826,
       "name": "Why Do Fools Fall In Love",
       "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rhino Hi-Five: The Coasters",
+        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Life Could Be A Dream",
-        "url": "https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom - Life Could Be A Dream - Sh-Boom",
-      "url": "https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Life Could Be A Dream",
+        "url": "https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Sh-Boom - Life Could Be A Dream - Sh-Boom",
+      "url": "https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA"
     },
     {
       "added_at": "2022-06-07 05:25:13",

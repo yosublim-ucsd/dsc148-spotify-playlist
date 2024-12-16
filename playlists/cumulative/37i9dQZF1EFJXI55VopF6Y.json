@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "POUR DE VRAI",
+        "url": "https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160314,
+      "name": "ENTRE NOUS",
+      "url": "https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu"
+    },
+    {
+      "album": {
         "name": "ENTRE NOUS",
         "url": "https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 160314,
       "name": "ENTRE NOUS",
       "url": "https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI"
@@ -646,10 +664,32 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 141576,
       "name": "Z\u00c9RO PAR MOIS",
       "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
+    },
+    {
+      "album": {
+        "name": "POUR DE VRAI",
+        "url": "https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141576,
+      "name": "Z\u00c9RO PAR MOIS",
+      "url": "https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFJXI55VopF6Y"

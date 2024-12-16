@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 547452,
+  "num_followers": 547511,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -1383,58 +1399,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Lola",
-        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "Crocodile",
-      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "S\u00e9quences (Remixes)",
-        "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "S\u00e9quences - Parcels Remix",
-      "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1451,6 +1415,22 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1483,6 +1463,42 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "S\u00e9quences (Remixes)",
+        "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "S\u00e9quences - Parcels Remix",
+      "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1643,18 +1659,34 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ode to rahsaan",
+        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "ode to rahsaan",
+      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1671,22 +1703,6 @@
       "duration_ms": 153005,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1731,38 +1747,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/5EK6n7sdrX36kMSvH6kYIB"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/0SNZQGjBcvetKgBC0pQWP8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "ode to rahsaan",
-        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "ode to rahsaan",
-      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1787,6 +1771,38 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5EK6n7sdrX36kMSvH6kYIB"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/0SNZQGjBcvetKgBC0pQWP8"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 164510,
       "name": "Keep On Moving (All Night Long)",
       "url": "https://open.spotify.com/track/35G2b6JZTfvSE7RxVCyM1s"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "If We Go Down",
-        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "If We Go Down",
-      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
     }
   ],
   "unique_name": "golden hour",

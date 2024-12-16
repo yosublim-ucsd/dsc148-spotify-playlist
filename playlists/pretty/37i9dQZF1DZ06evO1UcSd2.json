@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 72916,
+  "num_followers": 72924,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADYeDvXpUZcEnM4oZwyQQ+r",
+  "snapshot_id": "Z1zKgAAAAADK8TRYEl4em18rf4QKtmfB",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
-        "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
+        "name": "24/7 Dolido",
+        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
       "artists": [
-        {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Cuento Chino",
-      "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24/7 Dolido",
-        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
+        "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
+        "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
       },
       "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
+      "duration_ms": 240640,
+      "name": "Cuento Chino",
+      "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
     },
     {
       "added_at": null,

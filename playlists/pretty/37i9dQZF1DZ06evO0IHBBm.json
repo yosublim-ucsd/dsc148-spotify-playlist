@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30209,
+  "num_followers": 30210,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADD/ZUI5p5x1tmrKG6eIc84",
+  "snapshot_id": "Z1zKgAAAAAAF/QWgEKmwhScojMnXywMr",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 221146,
-      "name": "T\u00f4 na Estrada",
-      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
+      "duration_ms": 260013,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 316159,
       "name": "O Processo",
       "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
+      "duration_ms": 221146,
+      "name": "T\u00f4 na Estrada",
+      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
     },
     {
       "added_at": null,

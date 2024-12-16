@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5310,
+  "num_followers": 5311,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -312,22 +312,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Hush \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -339,22 +323,6 @@
       "duration_ms": 173641,
       "name": "California Dreamin' - Spotify Singles",
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -400,6 +368,22 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156819,
+      "name": "Hush \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
       "artists": [
@@ -411,6 +395,22 @@
       "duration_ms": 215480,
       "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Hora Loca Remix - Spotify Singles (with Piso 21)",
         "url": "https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 194755,
       "name": "Hora Loca Remix - Spotify Singles (with Piso 21)",
       "url": "https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -795,6 +795,34 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Prende el Arbolito - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "duration_ms": 170163,
+      "name": "Prende el Arbolito - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -827,34 +855,6 @@
       "duration_ms": 216112,
       "name": "La tua canzone - Recorded at Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Prende el Arbolito - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Shelow Shaq",
-          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
-        }
-      ],
-      "duration_ms": 170163,
-      "name": "Prende el Arbolito - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Telepat\u00eda - Spotify Singles",
-      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 269061,
       "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1208,17 +1208,21 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Bestia Peque\u00f1a - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45"
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     }
   ],
   "unique_name": "Spotify Singles: Latin",

@@ -4,7 +4,7 @@
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-86 songs - 5 hr 0 min
+87 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Besalo](https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [El Androide](https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG) | 2:43 | 2023-07-18 | 2024-04-19 |
 | [Bichiyal](https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:16 | 2023-05-24 | 2023-12-23 |
 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 | 2023-05-24 | 2023-06-13 |
-| [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 | 2023-05-24 |  |
+| [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 | 2023-05-24 | 2024-12-16 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2023-05-24 |  |
 | [Candy](https://open.spotify.com/track/2YAQa5dl4GWo0GuVliWvdR) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Candy](https://open.spotify.com/album/3c4X405pSWuBiJBN3xzPjd) | 3:27 | 2023-07-18 |  |
 | [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 | 2023-05-24 | 2024-04-19 |
@@ -87,6 +87,7 @@
 | [Trueno: Bzrp Freestyle Sessions, Vol\. 6](https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Trueno: Bzrp Freestyle Sessions, Vol\. 6](https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH) | 3:19 | 2023-07-18 | 2024-10-25 |
 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 | 2023-05-24 |  |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2023-07-18 |  |
+| [TURRA](https://open.spotify.com/track/4w3R0drhPCc7zeO2OtBV8r) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [TURRA](https://open.spotify.com/album/2g1zRrhhMX2cnyoP8HvgH7) | 3:26 | 2023-07-18 |  |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-24 |  |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-05-24 | 2023-12-14 |
 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 | 2023-05-24 | 2024-02-20 |

@@ -1,6 +1,6 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 195126,
+  "num_followers": 195166,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -195,6 +215,22 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -219,26 +255,6 @@
       "duration_ms": 197160,
       "name": "On The Beach - Mauro Picotto's CRW Remix",
       "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -271,22 +287,6 @@
       "duration_ms": 190426,
       "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "L'Amour Toujour",
-        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'amour Toujours (Small Mix)",
-      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "I Have a Dream / Bellissima",
-        "url": "https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd"
-      },
-      "artists": [
-        {
-          "name": "DJ Quicksilver",
-          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Bellissima - Radio Mix",
-      "url": "https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "I Believe / Follow Me",
         "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 392560,
       "name": "Follow Me - Lange's Club Mix",
       "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "I Have a Dream / Bellissima",
+        "url": "https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd"
+      },
+      "artists": [
+        {
+          "name": "DJ Quicksilver",
+          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "Bellissima - Radio Mix",
+      "url": "https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Paradoxx (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R"
-      },
-      "artists": [
-        {
-          "name": "666",
-          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "AmokK - Radio Edit",
-      "url": "https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "Swipe Me",
         "url": "https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 232466,
       "name": "It's A Fine Day",
       "url": "https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "50 Best Trance Hits Ever",
+        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
+      },
+      "artists": [
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Proximus - Radio Edit",
+      "url": "https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "50 Best Trance Hits Ever",
-        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
+        "name": "Paradoxx (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R"
       },
       "artists": [
         {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
         }
       ],
-      "duration_ms": 211253,
-      "name": "Proximus - Radio Edit",
-      "url": "https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2"
+      "duration_ms": 233733,
+      "name": "AmokK - Radio Edit",
+      "url": "https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Paradoxx (Special Edition)",
-        "url": "https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92"
-      },
-      "artists": [
-        {
-          "name": "666",
-          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
-        }
-      ],
-      "duration_ms": 237040,
-      "name": "Paradoxx - Original Album Version",
-      "url": "https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "The Ultimate Ride",
         "url": "https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 690373,
       "name": "Xpander",
       "url": "https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Paradoxx (Special Edition)",
+        "url": "https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92"
+      },
+      "artists": [
+        {
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
+        }
+      ],
+      "duration_ms": 237040,
+      "name": "Paradoxx - Original Album Version",
+      "url": "https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc"
+      },
+      "artists": [
+        {
+          "name": "Richi M.",
+          "url": "https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Perfect World - Richi's Single Version",
+      "url": "https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "Gouryella",
         "url": "https://open.spotify.com/album/0qRJZ8hAlDxAVrnJpzqL6O"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 216426,
       "name": "On The Move - Radio Edit",
       "url": "https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc"
-      },
-      "artists": [
-        {
-          "name": "Richi M.",
-          "url": "https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Perfect World - Richi's Single Version",
-      "url": "https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "Resurection Legacy",
+        "url": "https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg"
+      },
+      "artists": [
+        {
+          "name": "PPK",
+          "url": "https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z"
+        }
+      ],
+      "duration_ms": 196648,
+      "name": "Resurection (Radio Edit)",
+      "url": "https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "A State Of Trance 650 (Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia)",
         "url": "https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 204146,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/0KeUidAZVdvTbM553K7809"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "Resurection Legacy",
-        "url": "https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg"
-      },
-      "artists": [
-        {
-          "name": "PPK",
-          "url": "https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z"
-        }
-      ],
-      "duration_ms": 196648,
-      "name": "Resurection (Radio Edit)",
-      "url": "https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "30 Best Trance Anthems Best Ever",
+        "url": "https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax"
+      },
+      "artists": [
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        }
+      ],
+      "duration_ms": 424973,
+      "name": "Carte Blanche - Original Mix",
+      "url": "https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "Protect Your Mind (Braveheart)",
         "url": "https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "30 Best Trance Anthems Best Ever",
-        "url": "https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax"
-      },
-      "artists": [
-        {
-          "name": "Veracocha",
-          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
-        }
-      ],
-      "duration_ms": 424973,
-      "name": "Carte Blanche - Original Mix",
-      "url": "https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "Cantaditas De Luxe Vol.2",
         "url": "https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 390600,
       "name": "Will I (Extended Mix)",
       "url": "https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "La Cream",
-        "url": "https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ"
-      },
-      "artists": [
-        {
-          "name": "La Cream",
-          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 206053,
       "name": "Believe - Radio Version",
       "url": "https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "La Cream",
+        "url": "https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ"
+      },
+      "artists": [
+        {
+          "name": "La Cream",
+          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A"
     },
     {
       "added_at": "2022-06-10 12:01:48",

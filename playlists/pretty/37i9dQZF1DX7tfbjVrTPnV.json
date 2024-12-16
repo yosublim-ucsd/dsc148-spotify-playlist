@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 218806,
+  "num_followers": 218872,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Gone Gone Gone (Done Moved On)",
+      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
         "url": "https://open.spotify.com/album/1mLpBp6D3h869hhvLsb52a"
       },
@@ -531,42 +551,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Gone Gone Gone (Done Moved On)",
-      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 245202,
       "name": "Red Dirt Girl",
       "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -659,22 +659,6 @@
       "duration_ms": 318293,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 207841,
       "name": "Merely Avoiding",
       "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1235,6 +1219,38 @@
       "duration_ms": 173453,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "I Contain Multitudes",
         "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 276600,
       "name": "I Contain Multitudes",
       "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 198840,
       "name": "Whole Lotta Highway (With A Million Miles to Go)",
       "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Dumplin' Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
@@ -1539,22 +1515,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "Dumplin' Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 298520,
-      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+      "duration_ms": 148960,
+      "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1587,6 +1567,26 @@
       "duration_ms": 173960,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 248920,
-      "name": "I'll Get Away",
-      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Damage",
         "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 241739,
       "name": "The Damage",
       "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 248920,
+      "name": "I'll Get Away",
+      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1915,18 +1915,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Color of the Blues (feat. Susan Tedeschi)",
+        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 174626,
+      "name": "Color of the Blues (feat. Susan Tedeschi)",
+      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1947,6 +1951,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Happy Prisoner: The Bluegrass Sessions",
         "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
       },
@@ -1959,26 +1979,6 @@
       "duration_ms": 214293,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Color of the Blues (feat. Susan Tedeschi)",
-        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Color of the Blues (feat. Susan Tedeschi)",
-      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 274506,
       "name": "The City of New Orleans - Original Version",
       "url": "https://open.spotify.com/track/7jbb0XkDk6cuif7AVu3gdW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "House of the White Rose Bouquet",
-        "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 203845,
-      "name": "House of the White Rose Bouquet",
-      "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Gentle On My Mind",
         "url": "https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 341026,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/6mbysbfuqANksuseTIwWiy"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "House of the White Rose Bouquet",
+        "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203845,
+      "name": "House of the White Rose Bouquet",
+      "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
     },
     {
       "added_at": "2024-08-30 04:00:00",

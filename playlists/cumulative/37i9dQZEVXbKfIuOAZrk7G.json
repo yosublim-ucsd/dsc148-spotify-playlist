@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "2s n 3s",
+        "url": "https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "2s n 3s",
+      "url": "https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG"
+    },
+    {
+      "album": {
         "name": "Goodbye Horses",
         "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
       },
@@ -36378,7 +36400,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 152041,
       "name": "Messed Up Kid - Live",
       "url": "https://open.spotify.com/track/0oljYM45cNinhkPINHgMx1"
@@ -37208,10 +37230,28 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/3yoE5bmZGNKa2YAu6pb9vw"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247209,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/4hYEqEhLxEmKB30ZDcW1Xa"
     },
     {
       "album": {
@@ -42309,6 +42349,32 @@
     },
     {
       "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Alus",
+          "url": "https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159580,
+      "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+      "url": "https://open.spotify.com/track/2NQgPPXMmpmLPzxxfbTh9V"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -46750,7 +46816,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"

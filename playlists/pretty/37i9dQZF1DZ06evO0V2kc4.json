@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 66198,
+  "num_followers": 66202,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAPWa2MxuL3FHhoLaGybAb2",
+  "snapshot_id": "Z1zKgAAAAAAvJwieRfxikUBn+39avXn9",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+      "duration_ms": 216000,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT"
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 445880,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
     },
     {
       "added_at": null,
@@ -403,34 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez, Vol. Ii",
-        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
-      },
-      "artists": [
+        },
         {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 190973,
-      "name": "Plaisir D' Amour",
-      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
+      "duration_ms": 445880,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,

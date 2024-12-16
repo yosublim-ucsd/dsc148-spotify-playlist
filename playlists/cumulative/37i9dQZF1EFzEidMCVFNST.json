@@ -6086,10 +6086,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 195658,
       "name": "Recompensa",
       "url": "https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB"
+    },
+    {
+      "album": {
+        "name": "O Ferinha da Bahia (Ao Vivo no Embu, SP)",
+        "url": "https://open.spotify.com/album/4mbYsbdgR0aDqQsaHak3Je"
+      },
+      "artists": [
+        {
+          "name": "Ac\u00e1cio",
+          "url": "https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195658,
+      "name": "Recompensa",
+      "url": "https://open.spotify.com/track/7wO4Jar587uqPloRcHzT1z"
     },
     {
       "album": {

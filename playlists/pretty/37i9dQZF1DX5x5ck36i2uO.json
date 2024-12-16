@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 5485,
+  "num_followers": 5491,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
         "name": "Where It All Started Remix",
         "url": "https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 180972,
       "name": "Girl, Interrupted",
       "url": "https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Unknown guy",
-      "url": "https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 193494,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Unknown guy",
+      "url": "https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "YESMAN (feat. Roh Yun Ha)",
+      "url": "https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
         "name": "Flower Cafe",
         "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "YESMAN (feat. Roh Yun Ha)",
-      "url": "https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
         "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -759,26 +779,6 @@
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
     },
     {
       "added_at": "2024-10-10 09:26:02",

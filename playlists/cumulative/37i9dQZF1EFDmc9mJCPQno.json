@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Kiss My Troubles Away",
+      "url": "https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh"
+    },
+    {
+      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },

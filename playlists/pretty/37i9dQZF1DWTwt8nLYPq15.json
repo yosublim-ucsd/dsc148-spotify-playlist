@@ -1,6 +1,6 @@
 {
   "description": "summer heat \ud83e\udd75\ud83d\udd25\n",
-  "num_followers": 2248,
+  "num_followers": 2245,
   "original_name": "MELT",
   "owner": {
     "name": "Spotify",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
+      "added_at": "2023-06-16 06:51:48",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Late Nights: The Album",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
-      "added_at": "2023-06-16 06:51:48",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Made In Lagos",
@@ -327,22 +327,6 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-05-31 19:46:57",
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-05-31 19:46:57",
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2023-06-15 04:00:00",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2024-07-13 04:00:00",
@@ -447,6 +431,22 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2023-06-15 04:00:00",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2023-06-15 04:00:00",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "RENAISSANCE",
@@ -563,22 +579,6 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2023-06-15 04:00:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "Bryson Tiller",
-        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 125039,
-      "name": "Ciao!",
-      "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
-    },
-    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "Fell In Love",
@@ -663,6 +647,22 @@
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 125039,
+      "name": "Ciao!",
+      "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
     },
     {
       "added_at": "2024-07-13 04:00:00",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
     },
     {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
       "added_at": "2023-06-15 04:00:00",
       "album": {
         "name": "A Seat at the Table",
@@ -767,22 +783,6 @@
       "duration_ms": 368758,
       "name": "VIRGO'S GROOVE",
       "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2023-06-15 04:00:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2024-05-31 19:46:57",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Wake Up (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
         },
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 250725,
-      "name": "TYRANT",
-      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+      "duration_ms": 173440,
+      "name": "Wake Up (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
     }
   ],
   "unique_name": "MELT",

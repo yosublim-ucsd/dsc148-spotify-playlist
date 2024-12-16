@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1126035,
+  "num_followers": 1126142,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
         "name": "Dos Idolos Cantando",
         "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
       },
@@ -163,38 +179,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "15 Exitos De Federico Villa - Versiones Originales",
-        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -207,22 +191,6 @@
       "duration_ms": 207360,
       "name": "Cu\u00e1ndo sale la luna",
       "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -259,22 +227,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Fiesta Mexicana",
-        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "M\u00e9xico Lindo",
-      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -291,34 +243,34 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "15 Exitos Con Mariachi - Cornelio Reyna",
-        "url": "https://open.spotify.com/album/0jSAdduL3crAhdTYDm58Ga"
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 168533,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/4zlYTXsDIa4Q5pqj1GO1KO"
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Brillantes - Cuco Sanchez",
-        "url": "https://open.spotify.com/album/5nLm178bYpz1EQ3zY6HimL"
+        "name": "15 Exitos De Federico Villa - Versiones Originales",
+        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
         }
       ],
-      "duration_ms": 132266,
-      "name": "Cama de Piedra",
-      "url": "https://open.spotify.com/track/2xh52cfS7acmXT4a3DowKc"
+      "duration_ms": 209666,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -339,22 +291,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -367,54 +303,6 @@
       "duration_ms": 188720,
       "name": "Flor sin reto\u00f1o",
       "url": "https://open.spotify.com/track/14B84dgQLpq7av8d62UdY9"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -435,8 +323,24 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
-        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
       },
       "artists": [
         {
@@ -444,25 +348,9 @@
           "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Coplas de dos tipos de cuidado (remastered)",
-      "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+      "duration_ms": 191293,
+      "name": "M\u00e9xico Lindo",
+      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -476,25 +364,9 @@
           "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 114277,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/067tYDiITzM7qXS8iRSB8J"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+      "duration_ms": 168533,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/4zlYTXsDIa4Q5pqj1GO1KO"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -515,8 +387,24 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
       "artists": [
         {
@@ -524,9 +412,105 @@
           "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 129400,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "15 Exitos Con Mariachi - Cornelio Reyna",
+        "url": "https://open.spotify.com/album/0jSAdduL3crAhdTYDm58Ga"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 114277,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/067tYDiITzM7qXS8iRSB8J"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 161186,
+      "name": "Mi cari\u00f1ito",
+      "url": "https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
+        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Coplas de dos tipos de cuidado (remastered)",
+      "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -547,8 +531,56 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Brillantes - Cuco Sanchez",
+        "url": "https://open.spotify.com/album/5nLm178bYpz1EQ3zY6HimL"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 132266,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/2xh52cfS7acmXT4a3DowKc"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Miguel Aceves Mej\u00eda",
+        "url": "https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6"
       },
       "artists": [
         {
@@ -556,9 +588,25 @@
           "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 137493,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
+      "duration_ms": 179840,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -607,54 +655,6 @@
       "duration_ms": 159333,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 161186,
-      "name": "Mi cari\u00f1ito",
-      "url": "https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Miguel Aceves Mej\u00eda",
-        "url": "https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "El Jinete",
-      "url": "https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G"
     },
     {
       "added_at": "2024-09-12 23:26:02",

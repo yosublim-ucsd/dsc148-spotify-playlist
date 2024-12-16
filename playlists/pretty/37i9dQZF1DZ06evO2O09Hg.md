@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,615,174 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,615,564 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 28 | [Cavalier](https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 2:32 |
 | 29 | [Black & White](https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:06 |
 | 30 | [Love Letter](https://open.spotify.com/track/0B8N3M6SaJGwP9upZCpuWz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:39 |
-| 31 | [Hide \(feat\. Seezyn\)](https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Seezyn](https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:25 |
+| 31 | [Feeling](https://open.spotify.com/track/2uTrdatngtB000duMrfbiV) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:21 |
 | 32 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
-| 33 | [Feeling](https://open.spotify.com/track/2uTrdatngtB000duMrfbiV) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:21 |
+| 33 | [Hide \(feat\. Seezyn\)](https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Seezyn](https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:25 |
 | 34 | [KTM Drip](https://open.spotify.com/track/0IWi2ZDDldYKBHYmG7mqPm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 4:00 |
 | 35 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 |
 | 36 | [Suicidal \(feat\. Juice WRLD\) \- Remix](https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH) | 3:45 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 52 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
 | 53 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 
-Snapshot ID: `Z1t5AAAAAAC/AHkTdDoVfNCIISmgT7va`
+Snapshot ID: `Z1zKgAAAAACIfiRq0AKPQcX8RBBQP0kP`

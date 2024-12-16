@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Ethel Cain",
-  "num_followers": 297333,
+  "num_followers": 297383,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 299613,
       "name": "Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Coastline (Vancouver Sleep Clinic Remix)",
         "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Girlfriend Is Better",
         "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 185333,
       "name": "Girlfriend Is Better",
       "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "The Georgia EP",
+        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 126343,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Georgia EP",
-        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Reptilia",
+        "url": "https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 221296,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Reptilia",
-        "url": "https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU"
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 221296,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp"
+      "duration_ms": 182080,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Songs That Aren't Mine",
-        "url": "https://open.spotify.com/album/1ClEe8WmunfbeTkmG5sHsC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        },
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 178584,
-      "name": "Cosmic Dancer (with Dora Jar)",
-      "url": "https://open.spotify.com/track/039Mnm9c2b2zI5j1iENJ7P"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
         "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
       },
@@ -1283,26 +1263,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
+        "name": "Songs That Aren't Mine",
+        "url": "https://open.spotify.com/album/1ClEe8WmunfbeTkmG5sHsC"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         },
         {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
+      "duration_ms": 178584,
+      "name": "Cosmic Dancer (with Dora Jar)",
+      "url": "https://open.spotify.com/track/039Mnm9c2b2zI5j1iENJ7P"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1339,18 +1315,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mystery Of Love",
-        "url": "https://open.spotify.com/album/2t3fofrXdoBzWxG250eSDb"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
       "artists": [
         {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 373168,
-      "name": "Mystery Of Love",
-      "url": "https://open.spotify.com/track/5CuWULrznCaEQn6AIWszFB"
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+        "name": "Mystery Of Love",
+        "url": "https://open.spotify.com/album/2t3fofrXdoBzWxG250eSDb"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
         }
       ],
-      "duration_ms": 294078,
-      "name": "agora hills - Spotify Singles",
-      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
+      "duration_ms": 373168,
+      "name": "Mystery Of Love",
+      "url": "https://open.spotify.com/track/5CuWULrznCaEQn6AIWszFB"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 176853,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 294078,
+      "name": "agora hills - Spotify Singles",
+      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Bad Religion / A Pair Of Brown Eyes",
+        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Bad Religion",
+      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Charm You (Blondshell Version)",
         "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Bad Religion / A Pair Of Brown Eyes",
-        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
+      "duration_ms": 175500,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1579,18 +1595,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Covered In Hether",
-        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
       },
       "artists": [
         {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
+      "duration_ms": 249789,
+      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1623,42 +1643,6 @@
       "duration_ms": 296715,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 249789,
-      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1707,6 +1691,22 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     }
   ],
   "unique_name": "Indie Covers",

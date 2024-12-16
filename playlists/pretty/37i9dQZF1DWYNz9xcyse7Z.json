@@ -1,6 +1,6 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 136599,
+  "num_followers": 136753,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 155882,
-      "name": "Qu\u00e9 Caro Estoy Pagando",
-      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "La Iguana",
         "url": "https://open.spotify.com/album/2dk85Srmd9lUhPQ7u4AoqG"
       },
@@ -139,18 +123,34 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 172040,
-      "name": "Cruz De Madera",
-      "url": "https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA"
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Anda Alterada La Gente",
+        "url": "https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "El Cajoncito",
+      "url": "https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -187,34 +187,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Anda Alterada La Gente",
-        "url": "https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa"
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
       "artists": [
         {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 212586,
-      "name": "El Cajoncito",
-      "url": "https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Exitos Y Leyendas",
-        "url": "https://open.spotify.com/album/3qrfmoSGspCOVjgzCh2ID4"
-      },
-      "artists": [
-        {
-          "name": "Los Cuates de Sinaloa",
-          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/43LVcSyviitiS5Kv0vzZDD"
+      "duration_ms": 172040,
+      "name": "Cruz De Madera",
+      "url": "https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "Exitos Y Leyendas",
+        "url": "https://open.spotify.com/album/3qrfmoSGspCOVjgzCh2ID4"
+      },
+      "artists": [
+        {
+          "name": "Los Cuates de Sinaloa",
+          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/43LVcSyviitiS5Kv0vzZDD"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "'10 Exitazos \"A Cada Instante\"",
         "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 137733,
       "name": "Pideme La Luna",
       "url": "https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Seguimos Sumando",
-        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Ni\u00e9game",
-      "url": "https://open.spotify.com/track/3A3En2MIrcY4S6aKVCBTQo"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -287,18 +271,34 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Millas Y Millas",
-        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
+      "duration_ms": 154640,
+      "name": "El 24",
+      "url": "https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Seguimos Sumando",
+        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Ni\u00e9game",
+      "url": "https://open.spotify.com/track/3A3En2MIrcY4S6aKVCBTQo"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "El 24",
-      "url": "https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "Ultimas Noticias",
         "url": "https://open.spotify.com/album/3Hl1IiF7mJuQ8GFxojPDaU"
       },
@@ -351,6 +335,38 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "'10 Exitazos \"A Cada Instante\"",
+        "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "A Cada Instante",
+      "url": "https://open.spotify.com/track/5ctwUz8zOUrkuAhIDZ6r2n"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Millas Y Millas",
+        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "Para Reconquistarte",
         "url": "https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP"
       },
@@ -363,6 +379,102 @@
       "duration_ms": 159600,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/0NZ4QDyau19VUO9dSZuyWA"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Los Chiquinarcos",
+      "url": "https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 212205,
+      "name": "Por No Perderte Te Perdi",
+      "url": "https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Puros Trancazos",
+        "url": "https://open.spotify.com/album/08dcA7ua0W4qrkIUTuZ5VU"
+      },
+      "artists": [
+        {
+          "name": "Los Sierre\u00f1os",
+          "url": "https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Paz En Este Amor",
+      "url": "https://open.spotify.com/track/1Xbm5nIzaassAYgdAxYhs0"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Con Cartitas Y Whatsapp",
+      "url": "https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Mirandote En Las Estrellas",
+        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos",
+          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Eres Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/2PlKMLi8sdNqwwpWVMzt4l"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -396,105 +508,9 @@
           "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         }
       ],
-      "duration_ms": 164226,
-      "name": "A Cada Instante",
-      "url": "https://open.spotify.com/track/5ctwUz8zOUrkuAhIDZ6r2n"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Puros Trancazos",
-        "url": "https://open.spotify.com/album/08dcA7ua0W4qrkIUTuZ5VU"
-      },
-      "artists": [
-        {
-          "name": "Los Sierre\u00f1os",
-          "url": "https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Paz En Este Amor",
-      "url": "https://open.spotify.com/track/1Xbm5nIzaassAYgdAxYhs0"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 212205,
-      "name": "Por No Perderte Te Perdi",
-      "url": "https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Los Chiquinarcos",
-      "url": "https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Mirandote En Las Estrellas",
-        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos",
-          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Eres Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/2PlKMLi8sdNqwwpWVMzt4l"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Con Cartitas Y Whatsapp",
-      "url": "https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6"
+      "duration_ms": 215920,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -515,6 +531,22 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "Por Las Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "Mi Guitarra y Yo Vol. 2",
         "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
       },
@@ -531,38 +563,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Aferrado",
-        "url": "https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "'10 Exitazos \"A Cada Instante\"",
-        "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "El Karma",
         "url": "https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap"
       },
@@ -575,54 +575,6 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Mirandote En Las Estrellas",
-        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos",
-          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Por Las Calles Enlodadas",
-        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -675,18 +627,34 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Como Duele Saber",
-        "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
+        "name": "Aferrado",
+        "url": "https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH"
       },
       "artists": [
         {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 198586,
-      "name": "La Canelera",
-      "url": "https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1"
+      "duration_ms": 169266,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Mirandote En Las Estrellas",
+        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos",
+          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -700,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 297200,
-      "name": "Chuy Y Mauricio",
-      "url": "https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq"
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -723,18 +691,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Para Reconquistarte",
-        "url": "https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP"
+        "name": "Como Duele Saber",
+        "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
       },
       "artists": [
         {
-          "name": "Los Nietos",
-          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq"
+      "duration_ms": 198586,
+      "name": "La Canelera",
+      "url": "https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -775,18 +743,34 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
+        "name": "Para Reconquistarte",
+        "url": "https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP"
       },
       "artists": [
         {
-          "name": "Ulises Quintero",
-          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
+          "name": "Los Nietos",
+          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
         }
       ],
-      "duration_ms": 178666,
-      "name": "No Existe Amor Igual - Versiones con Guitarras",
-      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
+      "duration_ms": 192866,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 297200,
+      "name": "Chuy Y Mauricio",
+      "url": "https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Ulises Quintero",
+          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Sentimiento De Dolor",
-      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
+      "duration_ms": 178666,
+      "name": "No Existe Amor Igual - Versiones con Guitarras",
+      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -855,26 +839,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
-      },
-      "artists": [
-        {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
-        }
-      ],
-      "duration_ms": 156942,
-      "name": "Rama Verde",
-      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -895,6 +859,26 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+      },
+      "artists": [
+        {
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+        }
+      ],
+      "duration_ms": 156942,
+      "name": "Rama Verde",
+      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
         "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146906,
       "name": "Esta Cobardia",
       "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -927,54 +927,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Ni Te Imaginas",
-        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
-      },
-      "artists": [
-        {
-          "name": "Los Parientes",
-          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Aunque No Seas Para Mi",
-      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
-      },
-      "artists": [
-        {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
       },
@@ -991,34 +943,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "De La Sierra A La Playa",
-        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
       "artists": [
         {
-          "name": "Los Grandes Del Pardito",
-          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 215301,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
-        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE"
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1043,18 +979,66 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Intentare Olvidarte",
-        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
+        "name": "Ni Te Imaginas",
+        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
       },
       "artists": [
         {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+          "name": "Los Parientes",
+          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
         }
       ],
-      "duration_ms": 161466,
-      "name": "Esta Libertad",
-      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
+      "duration_ms": 192480,
+      "name": "Aunque No Seas Para Mi",
+      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
+        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "De La Sierra A La Playa",
+        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
+      },
+      "artists": [
+        {
+          "name": "Los Grandes Del Pardito",
+          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1107,34 +1091,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "Intentare Olvidarte",
+        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 150146,
-      "name": "Siempre Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "De La Sierra A La Playa",
-        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
-      },
-      "artists": [
-        {
-          "name": "Los Grandes Del Pardito",
-          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Tus Verdades",
-      "url": "https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e"
+      "duration_ms": 161466,
+      "name": "Esta Libertad",
+      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1159,6 +1127,22 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "Siempre Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+        "name": "De La Sierra A La Playa",
+        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
       },
       "artists": [
         {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+          "name": "Los Grandes Del Pardito",
+          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
         }
       ],
-      "duration_ms": 279520,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
+      "duration_ms": 163448,
+      "name": "Tus Verdades",
+      "url": "https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "La Sombra Del Arbol",
+        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Ramon Massiaca Y Los Dos Plebes",
+          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
         }
       ],
-      "duration_ms": 146613,
-      "name": "Ayer Baj\u00e9 De La Sierra",
-      "url": "https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0"
+      "duration_ms": 154226,
+      "name": "Que Te Casas",
+      "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "La Sombra Del Arbol",
-        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
       "artists": [
         {
-          "name": "Ramon Massiaca Y Los Dos Plebes",
-          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 154226,
-      "name": "Que Te Casas",
-      "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
+      "duration_ms": 146613,
+      "name": "Ayer Baj\u00e9 De La Sierra",
+      "url": "https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Qui\u00e9reme Como Te Quiero",
-      "url": "https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
-        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "Mi Virgencita",
-      "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "10 Anos De Exito - 10TH Anniversary",
         "url": "https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6"
       },
@@ -1367,34 +1335,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog"
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
       "artists": [
         {
-          "name": "Los Sierrenos De Sinaloa",
-          "url": "https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF"
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Equivocacion (En Vivo)",
-      "url": "https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Como le hago",
-        "url": "https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9"
-      },
-      "artists": [
-        {
-          "name": "Los Paisanos de Sinaloa",
-          "url": "https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "A puro dolor",
-      "url": "https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv"
+      "duration_ms": 203346,
+      "name": "Qui\u00e9reme Como Te Quiero",
+      "url": "https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1415,6 +1367,38 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog"
+      },
+      "artists": [
+        {
+          "name": "Los Sierrenos De Sinaloa",
+          "url": "https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Equivocacion (En Vivo)",
+      "url": "https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
+        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "Siguen los Exitos",
         "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+        "name": "Como le hago",
+        "url": "https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9"
       },
       "artists": [
         {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+          "name": "Los Paisanos de Sinaloa",
+          "url": "https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ"
         }
       ],
-      "duration_ms": 184386,
-      "name": "Las Lluvias",
-      "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
+      "duration_ms": 194826,
+      "name": "A puro dolor",
+      "url": "https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1459,6 +1443,22 @@
       "duration_ms": 151858,
       "name": "La chuparrosas",
       "url": "https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Las Lluvias",
+      "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "100% Sierre\u00f1os",
-        "url": "https://open.spotify.com/album/3Rppcvwk1wAd3wpuzFx3Or"
-      },
-      "artists": [
-        {
-          "name": "Los Diamantes De Sinaloa",
-          "url": "https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz"
-        }
-      ],
-      "duration_ms": 199876,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/6dxYc4d5URZybMYvJD68yV"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
         "name": "Hombres de rancho",
         "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
-        "name": "Judiciales y Malandrines",
-        "url": "https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm"
+        "name": "100% Sierre\u00f1os",
+        "url": "https://open.spotify.com/album/3Rppcvwk1wAd3wpuzFx3Or"
       },
       "artists": [
         {
-          "name": "Los Ciclones del Arroyo",
-          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+          "name": "Los Diamantes De Sinaloa",
+          "url": "https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz"
         }
       ],
-      "duration_ms": 228746,
-      "name": "Quedate Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE"
+      "duration_ms": 199876,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/6dxYc4d5URZybMYvJD68yV"
     },
     {
       "added_at": "2024-07-03 18:44:36",
@@ -1635,6 +1619,22 @@
       "duration_ms": 238236,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/6NETkoMrUpxhog5VhRhl1s"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
+        "name": "Judiciales y Malandrines",
+        "url": "https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm"
+      },
+      "artists": [
+        {
+          "name": "Los Ciclones del Arroyo",
+          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "Quedate Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE"
     }
   ],
   "unique_name": "Sierre\u00f1as Viejitas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Tokischa y Nathy Peluso
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,641 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,612 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [Verte De Cerca](https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Verte De Cerca](https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD) | 3:03 |
 | 47 | [Blunt](https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v) | [Anthony Sanchez](https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Blunt](https://open.spotify.com/album/1n9hTVqJjHQKg4bsOLU1Cx) | 3:09 |
 | 48 | [VUSCANDOTE](https://open.spotify.com/track/6IN6OQ9xjsG2LSGTtWpNUR) | [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [KITIPONES THE MIX TAPE](https://open.spotify.com/album/5q4T6xlPXfXazxck5Tg2oB) | 2:44 |
-| 49 | [Bonita Remix \(feat\. JvnRoman, Skar NS & Pushi\)](https://open.spotify.com/track/7zB9kIY70QtukfmL86xyVh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [Franco Lionti](https://open.spotify.com/artist/5syJcgmRuTIKIPWurrbdf5), [JVN Roman](https://open.spotify.com/artist/7nWZnbm9kIsFyJEVn5qPOG), [Skar NS](https://open.spotify.com/artist/5UXmlky6PRGcHJJObjOuPv), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Bonita Remix \(feat\. JvnRoman, Skar NS & Pushi\)](https://open.spotify.com/album/587OI8VAezG31rmsLvb5Wl) | 2:57 |
+| 49 | [Bonita Remix \(feat\. JvnRoman, Skar NS & Pushi\)](https://open.spotify.com/track/7zB9kIY70QtukfmL86xyVh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [Franco Lionti](https://open.spotify.com/artist/5syJcgmRuTIKIPWurrbdf5), [JvnRoman](https://open.spotify.com/artist/5QdqKQ0RTopSWMOuZVUkIO), [Skar NS](https://open.spotify.com/artist/5UXmlky6PRGcHJJObjOuPv), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Bonita Remix \(feat\. JvnRoman, Skar NS & Pushi\)](https://open.spotify.com/album/587OI8VAezG31rmsLvb5Wl) | 2:57 |
 
 Snapshot ID: `Z1u/cAAAAAAMHg8yZdL2T73E9txaC0Vp`

@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 225269,
+  "num_followers": 225331,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACS99ASakpNKLf4Olhbq5P2",
+  "snapshot_id": "Z1zKgAAAAADn1wYGnuR64xD5Gsbx3J/j",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 163961,
+      "name": "The No.3",
+      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 314683,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 163961,
-      "name": "The No.3",
-      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,

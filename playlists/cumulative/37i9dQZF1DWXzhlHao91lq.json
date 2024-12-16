@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Adam & Eve",
+        "url": "https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Adam & Eve",
+      "url": "https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd"
+    },
+    {
+      "album": {
         "name": "Aisle 6",
         "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 191953,
       "name": "Blue",
       "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
@@ -941,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
+    },
+    {
+      "album": {
         "name": "Don't Grow Up Too Fast",
         "url": "https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE"
       },
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 192542,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
@@ -1804,6 +1840,24 @@
       "duration_ms": 206506,
       "name": "How to Say I Love You",
       "url": "https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84"
+    },
+    {
+      "album": {
+        "name": "Howl's",
+        "url": "https://open.spotify.com/album/5Ceqr1e2gw83C2lxzow6uH"
+      },
+      "artists": [
+        {
+          "name": "ChuChlo\u00eb",
+          "url": "https://open.spotify.com/artist/6Asek6SyFmeSpRD0vsQYfY"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190460,
+      "name": "Howl's",
+      "url": "https://open.spotify.com/track/0afhm0LseruwDcTTFp2Y6T"
     },
     {
       "album": {
@@ -4706,7 +4760,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 257669,
       "name": "Yard Sale",
       "url": "https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw"

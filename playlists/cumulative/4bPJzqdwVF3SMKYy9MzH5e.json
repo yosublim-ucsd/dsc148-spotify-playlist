@@ -24915,6 +24915,32 @@
     },
     {
       "album": {
+        "name": "Outside (feat. Eladio Carrion)",
+        "url": "https://open.spotify.com/album/0ubXd0RwDuOGGvezK1izo5"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220131,
+      "name": "Outside (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/3Q8VqnLSMUU8nD0wZ1KQsT"
+    },
+    {
+      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/7mTf6AXzDt1q7Iy4Vig1U5"
       },

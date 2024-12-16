@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 541022,
+  "num_followers": 541080,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 213613,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "La Trenza",
+      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -495,38 +511,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "La Trenza",
-      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
         "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 196895,
       "name": "Yo Nunca Te Ment\u00ed",
       "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -711,76 +711,8 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/46JRqOqaXFKy27NSbiSx7y"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -788,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -815,6 +747,42 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/46JRqOqaXFKy27NSbiSx7y"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "La Barca",
         "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
       },
@@ -831,6 +799,22 @@
       "duration_ms": 192123,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -867,22 +851,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o Menos",
-        "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 162209,
-      "name": "Cada Vez Te Extra\u00f1o Menos",
-      "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -903,6 +883,26 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Cada Vez Te Extra\u00f1o Menos",
+        "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 162209,
+      "name": "Cada Vez Te Extra\u00f1o Menos",
+      "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -955,22 +971,6 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 200773,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Viejitos",
-        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 225476,
-      "name": "Viejitos",
-      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Noche Sensacional",
         "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Viejitos",
+        "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 225476,
+      "name": "Viejitos",
+      "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Tambi\u00e9n de dolor se canta",
-        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "Tambi\u00e9n de dolor se canta",
-      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
       },
       "artists": [
         {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1675,26 +1675,6 @@
       "duration_ms": 189320,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Mi Alma Gemela Muri\u00f3",
-        "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 195728,
-      "name": "Mi Alma Gemela Muri\u00f3",
-      "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1779,6 +1759,26 @@
       "duration_ms": 235453,
       "name": "No Olvides Recordarme - En Vivo",
       "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Mi Alma Gemela Muri\u00f3",
+        "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 195728,
+      "name": "Mi Alma Gemela Muri\u00f3",
+      "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
     },
     {
       "added_at": "2024-12-06 17:29:46",

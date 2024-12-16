@@ -1,12 +1,12 @@
 {
   "description": "Cozy Christmas vibes. Cover: Lyn Lapid",
-  "num_followers": 52544,
+  "num_followers": 52984,
   "original_name": "Mellow Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KMQgAAAABgwMwfdS6qJrVMDpwxpUpy",
+  "snapshot_id": "Z17pxAAAAAAFX+bhN4f0jiXGc8hJ+0gN",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -91,22 +107,6 @@
       "duration_ms": 242826,
       "name": "Under the Tree (from \u201cThat Christmas\u201d)",
       "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
-        "name": "Driving Home for Christmas - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 166551,
-      "name": "Driving Home for Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
-        "name": "Meet Me Next Christmas",
-        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 163922,
-      "name": "Meet Me Next Christmas",
-      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -223,6 +207,26 @@
       "duration_ms": 216220,
       "name": "Night Before Christmas",
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
+    },
+    {
+      "added_at": "2024-12-15 14:37:56",
+      "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/1qf65cYlsoY4AcGXW5a2k6"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/3oef7EIlHHOXYIM1OMQAaH"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -243,42 +247,6 @@
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Naturally 7",
-          "url": "https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi"
-        }
-      ],
-      "duration_ms": 189281,
-      "name": "Silver Bells (feat. Naturally 7)",
-      "url": "https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
@@ -291,6 +259,22 @@
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -315,6 +299,26 @@
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Naturally 7",
+          "url": "https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi"
+        }
+      ],
+      "duration_ms": 189281,
+      "name": "Silver Bells (feat. Naturally 7)",
+      "url": "https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd"
       },
@@ -327,6 +331,22 @@
       "duration_ms": 208800,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -1383,22 +1403,6 @@
       "duration_ms": 242866,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 243031,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp"
     },
     {
       "added_at": "2024-11-04 15:46:39",

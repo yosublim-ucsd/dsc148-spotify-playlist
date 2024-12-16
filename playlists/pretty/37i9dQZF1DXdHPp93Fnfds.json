@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Mica Sotera.",
-  "num_followers": 142961,
+  "num_followers": 142964,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 205281,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Aurora Y Enrique",
         "url": "https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
       "artists": [
         {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
         }
       ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+      "duration_ms": 155744,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
         }
       ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1211,6 +1195,22 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Mi Coraz\u00f3n y Yo",
         "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
       },
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Todo Va A Cambiar",
-        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
+        "name": "Te Traigo Flores",
+        "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 147386,
-      "name": "Todo Va A Cambiar",
-      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
+      "duration_ms": 231278,
+      "name": "Te Traigo Flores",
+      "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
     }
   ],
   "unique_name": "Mujeres del Indie",

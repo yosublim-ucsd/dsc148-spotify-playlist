@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 26 | [Thank Me](https://open.spotify.com/track/2AR2YoJ6fViZbtptWZxbvm) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Thank Me](https://open.spotify.com/album/6RfoQKzpApTFlzB9txv7YZ) | 2:17 |
 | 27 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
 | 28 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 |
-| 29 | [GIRLZ](https://open.spotify.com/track/3pWZZrTyZo3WSVkSIOWFu6) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ \(secs on the beach remix\)](https://open.spotify.com/album/700XrAzXjvhqICEnLE9OgD) | 2:21 |
-| 30 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
+| 29 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
+| 30 | [GIRLZ](https://open.spotify.com/track/3pWZZrTyZo3WSVkSIOWFu6) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ \(secs on the beach remix\)](https://open.spotify.com/album/700XrAzXjvhqICEnLE9OgD) | 2:21 |
 | 31 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 |
 | 32 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 |
 | 33 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 52 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
 | 53 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AbkJyAAAAAB7Sg0ZTfLMMoCN/4UiSUQ7`
+Snapshot ID: `AbkPaAAAAAByYycOJ33BXMK/FwoifvXJ`

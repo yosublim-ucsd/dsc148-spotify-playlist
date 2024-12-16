@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95317,
+  "num_followers": 95313,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADjc+Ib6c4uCPKyMoIZVswV",
+  "snapshot_id": "Z1zKgAAAAAD5dOawNdCXJGpXVEI3Tk6M",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 194843,
       "name": "Leaders (feat. NAV)",
       "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,

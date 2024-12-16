@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1365459,
+  "num_followers": 1365816,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABf2spWAG7OeNeZJuqFiqzZ",
+  "snapshot_id": "Z1zKgAAAAAAXXUs2+DDyNzHzvLpQmpPY",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 323960,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crossroads",
-        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 152013,
-      "name": "No Bad News (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crossroads",
+        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 152013,
+      "name": "No Bad News (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
     },
     {
       "added_at": null,

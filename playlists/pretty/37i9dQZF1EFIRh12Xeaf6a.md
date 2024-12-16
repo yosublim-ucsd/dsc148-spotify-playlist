@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,946 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 50 | [Keep Your Hands off My Baby](https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion](https://open.spotify.com/album/52S2Bfn5L5v5W1X8ltnj7I) | 2:32 |
 | 51 | [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 |
 | 52 | [I'd Never Find Another You](https://open.spotify.com/track/0mdCa3f0hJVCe02B54okhM) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [The Billy Fury Hit Parade](https://open.spotify.com/album/6fRNMCvZ3lp5XOUvLTvPAx) | 2:37 |
-| 53 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 |
-| 54 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 |
+| 53 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 |
+| 54 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 |
 | 55 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
 | 56 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 57 | [Cindy's Birthday](https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb) | [Johnny Crawford](https://open.spotify.com/artist/48QdHdRanCXdBt6lygsDES) | [A Young Man's Fancy](https://open.spotify.com/album/3VNpShZrCWsR61aBORHSgh) | 2:08 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 136 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
 | 137 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
 | 138 | [Screaming and Yelling](https://open.spotify.com/track/6yb7kTRhtmdE5hQvA5VQRU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:16 |
-| 139 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
-| 140 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 139 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 140 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
 | 141 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
 | 142 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 143 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 165 | [Haywood](https://open.spotify.com/track/7E60F1oyjoFq8UGwuhwp7I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 4:46 |
 | 166 | [Can't You Be Real](https://open.spotify.com/track/2D9auftJn0Q6PmKzZDOyjE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:56 |
 | 167 | [So Many Ways](https://open.spotify.com/track/7scWRQNIqipbmrcngQfwmf) | [Crash Kings](https://open.spotify.com/artist/08QZWYiCiN62cbBoq8JR5I) | [Dark Of The Daylight](https://open.spotify.com/album/70uumErsWpotWrGrfmkqiH) | 4:06 |
-| 168 | [Look Down](https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:29 |
+| 168 | [Look Down](https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Only Love Me](https://open.spotify.com/album/0HfnGYuGW980ynBFAUKEqi) | 2:29 |
 | 169 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 1:59 |
 | 170 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 |
 | 171 | [Honey and Wine \- 2003 Remaster](https://open.spotify.com/track/11qM9odmMGoDOfHMOM65se) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [In The Hollies Style \(Expanded Edition\)](https://open.spotify.com/album/1juitqjWhK1iPIQ6aSiuVc) | 2:29 |
@@ -256,7 +256,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 246 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 247 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
 | 248 | [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 |
-| 249 | [Echoes](https://open.spotify.com/track/4H4HjQzUdn4KXqO1mDxqVh) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Anthology](https://open.spotify.com/album/3cv3KYemlKiULGa8DPJnDj) | 2:48 |
+| 249 | [Echoes](https://open.spotify.com/track/3oKZoKI2ROktaQJBoZ2KGs) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [For All We Know](https://open.spotify.com/album/2UiHZVwRtWVOycWFftoFxf) | 2:48 |
 | 250 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
 | 251 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
 | 252 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbkJyAAAAAApXlrEYYFXzefa/f/j2rKG`
+Snapshot ID: `AbkPaAAAAABe6xPqrJao7IPLqs0F64Jt`

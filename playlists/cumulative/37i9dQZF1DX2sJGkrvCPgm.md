@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-448 songs - 1 day 4 hr 1 min
+449 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 | 2022-12-11 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3DuIxCNLv9H0lZX9TNGhbX) | [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Auld Lang Syne](https://open.spotify.com/album/45mEBa1g8I8rsOO2wgk9y2) | 4:20 | 2021-12-24 | 2024-11-30 |
 | [Away In A Manger](https://open.spotify.com/track/4KaeuZrZE9mk2fyAUuhUBU) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Away In A Manger](https://open.spotify.com/album/3Y3681sbw2hCiPsVAXLw07) | 2:29 | 2024-11-29 |  |
+| [Away in a Manger](https://open.spotify.com/track/2UN1AXWKmalDgTawYPoIOK) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Praise Sah'Laana](https://open.spotify.com/album/0tRBCHj38VbZWCEbI3wTDw) | 2:59 | 2024-12-13 |  |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2021-12-24 | 2022-07-29 |
 | [Baby Boy](https://open.spotify.com/track/3ha3nc33NRkZyNAc9BHCar) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \| The EP](https://open.spotify.com/album/1CVBbMq1j6uDcoMtlsuOt8) | 3:39 | 2021-12-24 | 2022-07-23 |
 | [Baby Boy](https://open.spotify.com/track/7atqrGoJ3dNj8vnzY68cqi) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \(Extended\)](https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB) | 3:39 | 2021-12-24 | 2024-04-19 |
@@ -80,7 +81,7 @@
 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 | 2021-12-24 | 2024-04-19 |
 | [Christmas Eve](https://open.spotify.com/track/53aC15UvgXEsdhXEpwL6rQ) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Christmas Eve](https://open.spotify.com/album/4r5X5CaEXaj7Uh0bJYoCkF) | 3:18 | 2023-12-02 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2023-11-25 |
-| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-24 |  |
+| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-24 | 2024-12-16 |
 | [Christmas Hits Different](https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Christmas Hits Different](https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m) | 3:28 | 2023-12-02 | 2024-08-02 |
 | [Christmas in the Mountains](https://open.spotify.com/track/0wfzeSobPJiekeAWgBQhE9) | [The Primitive Quartet](https://open.spotify.com/artist/3iqTj2ISCCfGIAN2ZyggJO) | [Through the Years, Christmas](https://open.spotify.com/album/5drZy0K2aXgwzbZOvoE4ut) | 1:58 | 2021-12-24 | 2022-07-29 |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-24 | 2022-07-11 |

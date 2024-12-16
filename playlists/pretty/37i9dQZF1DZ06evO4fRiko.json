@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 893557,
+  "num_followers": 893891,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABoc8unrPBC+P7x8ziGz8uJ",
+  "snapshot_id": "Z1zKgAAAAADabaayvnLsvbM9QS7l9ISE",
   "tracks": [
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chixtape 5",
-        "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 221492,
-      "name": "The Take (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/0Odu228D0yGcFySGuxU4rY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 197031,
       "name": "Already Best Friends (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chixtape 5",
+        "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 221492,
+      "name": "The Take (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0Odu228D0yGcFySGuxU4rY"
     },
     {
       "added_at": null,

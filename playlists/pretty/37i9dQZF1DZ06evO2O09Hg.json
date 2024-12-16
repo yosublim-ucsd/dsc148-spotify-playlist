@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1615174,
+  "num_followers": 1615564,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAC/AHkTdDoVfNCIISmgT7va",
+  "snapshot_id": "Z1zKgAAAAACIfiRq0AKPQcX8RBBQP0kP",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Seezyn",
-          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Hide (feat. Seezyn)",
-      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
+      "duration_ms": 201920,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Seezyn",
+          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
         }
       ],
-      "duration_ms": 201920,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
+      "duration_ms": 205800,
+      "name": "Hide (feat. Seezyn)",
+      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
     },
     {
       "added_at": null,

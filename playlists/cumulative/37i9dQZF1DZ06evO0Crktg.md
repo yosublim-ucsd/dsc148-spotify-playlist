@@ -4,7 +4,7 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 58 min
+92 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-22 | 2024-05-03 |
 | [Johnny and June](https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:47 | 2023-12-13 | 2024-11-29 |
 | [Kamikaze](https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE) | [Benny Holiday](https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Kamikaze](https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I) | 2:35 | 2023-12-15 | 2024-03-21 |
-| [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 | 2024-08-07 |  |
+| [Last Dance With Mary Jane \(feat\. Tom Petty & Jelly Roll\)](https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:05 | 2024-12-16 |  |
+| [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 | 2024-08-07 | 2024-12-16 |
 | [Liar](https://open.spotify.com/track/0BKLYnngsUyaEwWPOJjGxc) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/0L7WPQBymCeeXmbWiWQBxX) | 3:24 | 2024-08-21 | 2024-11-01 |
 | [Liar](https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:24 | 2024-11-01 |  |
 | [Liar](https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp) | 3:24 | 2024-08-06 | 2024-08-21 |

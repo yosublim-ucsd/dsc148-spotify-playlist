@@ -2,39 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 ### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Get ready for an evening filled with iconic hits and real feels\.  Cover: Afgan
+> Welcome Home\.  Cover: lullaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,774 likes - 28 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rollercoaster](https://open.spotify.com/track/3fkXzVlhPnHjef1m5yuiDu) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Sides](https://open.spotify.com/album/34hJ0rr98blqOHIJjEq16e) | 3:44 |
-| 2 | [Pesan Cinta](https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:23 |
-| 3 | [Wajahmu Mengalihkan Duniaku](https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:09 |
-| 4 | [Tanpa Bahasa](https://open.spotify.com/track/0FG88ZPNbSrTdVbeP99nr3) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 3:27 |
-| 5 | [Kunci Hati](https://open.spotify.com/track/4coEIOJzz6eJsFvrzdYo4y) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:38 |
-| 6 | [Shallow Water](https://open.spotify.com/track/7fl4pphY3eHf4JqBPLrdgK) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:43 |
-| 7 | [Dia Dia Dia](https://open.spotify.com/track/3dAXKbmsPGbAt7skuJNuqB) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:07 |
-| 8 | [Jalan Terus](https://open.spotify.com/track/0rgNxtJzKiNNdz4doadYhn) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:41 |
-| 9 | [pendam](https://open.spotify.com/track/5UpkSzjvjjXLq72J1KFv1U) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 3:46 |
-| 10 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
-| 11 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
-| 12 | [Knock Me Out](https://open.spotify.com/track/51OQ4370A7tO3y63IZpPMX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:34 |
-| 13 | [Ku Dengannya Kau Dengan Dia](https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:28 |
-| 14 | [Jodoh Pasti Bertemu](https://open.spotify.com/track/4jakiC8ooA7viuPLqY8VEQ) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:06 |
-| 15 | [Kamu Yang Kutunggu](https://open.spotify.com/track/1VbQrE5HThdiheX0ZX4Jfe) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:14 |
-| 16 | [Percayalah](https://open.spotify.com/track/2YozVLJmTEHLm0v79SrALe) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:26 |
-| 17 | [say i'm sorry](https://open.spotify.com/track/1fZOLWE0Oy4mZ6lOx65mXt) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:55 |
-| 18 | [touch me](https://open.spotify.com/track/17fihvGpsofgw9a1cGxlqG) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:59 |
-| 19 | [Escape \(feat\. Jessi\)](https://open.spotify.com/track/2Tp8vm7MZIb1nnx1qEGYv5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:07 |
-| 20 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
-| 21 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 |
-| 22 | [Lenggang Puspita](https://open.spotify.com/track/0mB5VPfAyvtBJnqw8pcFAA) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lenggang Puspita](https://open.spotify.com/album/4LnLFxcpm4PUDYRa3nHdft) | 4:51 |
-| 23 | [Bukan Cinta Biasa \- Dekade Version](https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:38 |
-| 24 | [Sudah](https://open.spotify.com/track/42r4DLlpc8rJkrxFBhcX6h) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:31 |
-| 25 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
-| 26 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
-| 27 | [Mengertilah Kasih](https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengertilah Kasih](https://open.spotify.com/album/2DPXenmakHEKVRShv74Nvp) | 5:19 |
-| 28 | [Setia Menunggu](https://open.spotify.com/track/2w15WAw8vHkPfkGDxfAmtr) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
+| 1 | [gone too long](https://open.spotify.com/track/0LkWbtH4CUZShIkpGY7zZQ) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:27 |
+| 2 | [cool](https://open.spotify.com/track/5sWmLMxcZLIOlsU2oWhysh) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:25 |
+| 3 | [van gogh](https://open.spotify.com/track/72kFgF0HJpAggrbNA8UTta) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 2:53 |
+| 4 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
+| 5 | [blind](https://open.spotify.com/track/7jcuULQWzMwrNeYaVy0dyc) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 4:05 |
+| 6 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 |
+| 7 | [the boy](https://open.spotify.com/track/5OMMSd42ZRQdOJoZwC4g4L) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:36 |
+| 8 | [personal](https://open.spotify.com/track/0gE7IgQ0vsiV8KwJuvLjHt) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:06 |
+| 9 | [only in my dreams](https://open.spotify.com/track/0bUcL84dojQU3fk6AN2DaB) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:59 |
+| 10 | [pictures from afar](https://open.spotify.com/track/0NojykDZchtz64eBxeltjg) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 4:00 |
+| 11 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 |
+| 12 | [nervous](https://open.spotify.com/track/1IoFHQNdaIlQWR9tJ9Oj5Q) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nervous](https://open.spotify.com/album/76D3s0Tyv80NQISLIIryEx) | 3:34 |
+| 13 | [r&r](https://open.spotify.com/track/5F9PY53AsSFXO6vNWW14UG) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:07 |
+| 14 | [3 new words](https://open.spotify.com/track/3Cb6ugHGixDiw1KDWn2CFp) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 2:54 |
+| 15 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
+| 16 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 |
+| 17 | [life with u](https://open.spotify.com/track/00FncmbU5PCKfrSXmRE0AS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:25 |
+| 18 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 |
+| 19 | [honest \(ft\. lullaboy\)](https://open.spotify.com/track/0pQRf6Sxz1qT0VBykFFCN7) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [could've been us](https://open.spotify.com/album/1d8M3ddK5Qrr10M17wjXRQ) | 3:21 |
+| 20 | [shortcut to heaven](https://open.spotify.com/track/3ynNOuFyjyhzfKVYbWM8dp) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:04 |
 
-Snapshot ID: `Zy+HAAAAAAByiOsYKu3Wu3uPN0CJ8lwg`
+Snapshot ID: `Z19/RgAAAACL15WHk0NtUiPgIO+CX8lZ`

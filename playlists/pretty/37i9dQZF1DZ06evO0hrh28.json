@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 203386,
+  "num_followers": 203702,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAB/+A+Z6v4XTKg7ZA+/KgnA",
+  "snapshot_id": "Z1zKgAAAAAD1QW7bOopqozAriGMIM6BU",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Enero a Diciembre",
         "url": "https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl"
       },
@@ -631,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 165959,
+      "name": "la balada",
+      "url": "https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perreito Salvaje",
         "url": "https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK"
       },
@@ -647,22 +683,6 @@
       "duration_ms": 171428,
       "name": "Perreito Salvaje",
       "url": "https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 165959,
-      "name": "la balada",
-      "url": "https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN"
     },
     {
       "added_at": null,
@@ -711,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 166799,
+      "name": "latin girl",
+      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
       },
@@ -731,22 +767,6 @@
       "duration_ms": 209203,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 166799,
-      "name": "latin girl",
-      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
     },
     {
       "added_at": null,
@@ -859,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moana 2 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
+      "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -899,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moana 2 (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
-      "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion",
         "url": "https://open.spotify.com/album/52wcnAEamts2IYdOxpDMcm"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 179040,
       "name": "Billion",
       "url": "https://open.spotify.com/track/0LX3DnrnDI7dkiKsfWbgj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     }
   ],
   "unique_name": "This Is Emilia",

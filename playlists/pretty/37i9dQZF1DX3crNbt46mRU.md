@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,502 likes - 111 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,504 likes - 111 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 78 | [cupido](https://open.spotify.com/track/2rxv2y7ojb4HmXrno8KWp3) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [cupido](https://open.spotify.com/album/2GhSl6PaFKVTe0YBibFfds) | 3:09 |
 | 79 | [Step by Step](https://open.spotify.com/track/5M51V3WORhfTzuFHjJzayB) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Step by Step](https://open.spotify.com/album/19vnY3rwthzsGQrzY24MbS) | 3:05 |
 | 80 | [Celular](https://open.spotify.com/track/28Dw5KTUvyauj8RZnc8r2N) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Celular](https://open.spotify.com/album/3kHP7PgLP8XL0iDOLOVbv5) | 3:42 |
-| 81 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/4ZWNYnZKcNkMlQYjkK7UOM) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
+| 81 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 82 | [MÜTTER](https://open.spotify.com/track/6Ng0CIhBR7SndfW0LWYYOK) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Pintendari](https://open.spotify.com/artist/66Kv6hQepRROlkoN8nnpd4), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [MÜTTER](https://open.spotify.com/album/3C5SoJifuWhxVk4brEncKe) | 2:06 |
 | 83 | [Archangel](https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Archangel](https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw) | 3:22 |
 | 84 | [TINDER <3 \(feat\. Eva Bloo\)](https://open.spotify.com/track/0uYv4rXb7sZ0beWuukvPMA) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Eva Bloo](https://open.spotify.com/artist/61Um32QN2K3bFQaLu6t6Of) | [ERA](https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc) | 2:13 |

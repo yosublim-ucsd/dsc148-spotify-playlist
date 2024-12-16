@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: MEDUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,679 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,687 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 24 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
 | 25 | [You Make Me Feel Wild](https://open.spotify.com/track/0Fa8e5v5Jzw74PKKM4gQjT) | [Spacer Woman](https://open.spotify.com/artist/67FhwI60e0eCfogunrIi71), [PALMU](https://open.spotify.com/artist/6nCzYhXEhckbmQnpqcbAtp) | [You Make Me Feel Wild](https://open.spotify.com/album/1Dbw2Ogm88XwWbeUyu3RYU) | 2:51 |
 | 26 | [Die Welt in allen Farben \(feat\. Heavent\)](https://open.spotify.com/track/1EWTNPaFX1RxihBakg7tvN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Die Welt in allen Farben \(feat\. Heavent\)](https://open.spotify.com/album/23wAisrvyGJEjeTvJIwdwb) | 2:25 |
-| 27 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/4ZWNYnZKcNkMlQYjkK7UOM) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
+| 27 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 28 | [More Than A Feeling](https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [More Than A Feeling](https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma) | 4:02 |
 | 29 | [Better Way](https://open.spotify.com/track/7uHNSHM4Y41gme5tn4k6dZ) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Better Way](https://open.spotify.com/album/4yBegX4nzIMs1XETwA3Xp3) | 2:59 |
 | 30 | [Menina de Vermelho \- HUGEL Version](https://open.spotify.com/track/5Cgtp8w0f6ayLuOEcZHPAe) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Menina de Vermelho \(HUGEL Version\)](https://open.spotify.com/album/0RRSS6ClbfA1mLFlENGcXk) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 👀 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a>  👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,800 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,785 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

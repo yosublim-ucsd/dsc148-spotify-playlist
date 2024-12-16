@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Las mejores canciones de EQUAL España este año\. Foto: Aitana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,491 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,550 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 72 | [Como en las películas](https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [El imperio de la sombra](https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp) | 3:07 |
 | 73 | [Abrázame](https://open.spotify.com/track/3qq0QNVPiGhRnWdeWFByH1) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Abrázame](https://open.spotify.com/album/3tauWlqcavn28hVM2UFqpr) | 3:15 |
 | 74 | [EL BOLERO](https://open.spotify.com/track/2DD6ldbzYjEPNX3MHgWX4Q) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [SIEMPRE PURA](https://open.spotify.com/album/4EFoY4FvYH38KI9N77poc9) | 2:46 |
-| 75 | [Besitos de otro](https://open.spotify.com/track/5Dlnq9qNGz1S0o7SWmYHLK) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ) | [Besitos de otro](https://open.spotify.com/album/1mHlIcBk7WLB02mlgM9Ann) | 3:03 |
+| 75 | [BESITOS DE OTRO](https://open.spotify.com/track/5Dlnq9qNGz1S0o7SWmYHLK) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ) | [BESITOS DE OTRO](https://open.spotify.com/album/1mHlIcBk7WLB02mlgM9Ann) | 3:03 |
 
 Snapshot ID: `Z1BHxAAAAADEmAtZj2xgrJjagMGoOJYz`

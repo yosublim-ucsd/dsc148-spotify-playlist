@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Prim",
-  "num_followers": 33940,
+  "num_followers": 33945,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "La Storia Della Nostra Vita",
+        "url": "https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp"
+      },
+      "artists": [
+        {
+          "name": "Spacehippiez",
+          "url": "https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh"
+        }
+      ],
+      "duration_ms": 166868,
+      "name": "La Storia Della Nostra Vita",
+      "url": "https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Scarpe",
         "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 173545,
       "name": "Come mare",
       "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "La Storia Della Nostra Vita",
-        "url": "https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp"
-      },
-      "artists": [
-        {
-          "name": "Spacehippiez",
-          "url": "https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh"
-        }
-      ],
-      "duration_ms": 166868,
-      "name": "La Storia Della Nostra Vita",
-      "url": "https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "bimbapazza",
+        "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
+      },
+      "artists": [
+        {
+          "name": "sonoalaska",
+          "url": "https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP"
+        }
+      ],
+      "duration_ms": 141855,
+      "name": "bimbapazza",
+      "url": "https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "BELLA BALLA",
         "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "bimbapazza",
-        "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
+        "name": "sconosciuti",
+        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
       },
       "artists": [
         {
-          "name": "sonoalaska",
-          "url": "https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP"
+          "name": "nube",
+          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
         }
       ],
-      "duration_ms": 141855,
-      "name": "bimbapazza",
-      "url": "https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1"
+      "duration_ms": 170880,
+      "name": "sconosciuti",
+      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -531,22 +547,6 @@
       "duration_ms": 343138,
       "name": "Posto Nuovo",
       "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "sconosciuti",
-        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
-      },
-      "artists": [
-        {
-          "name": "nube",
-          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "sconosciuti",
-      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Piccolo Tornado",
-        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Toscano",
-          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Piccolo Tornado",
-      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "i miei fiumi",
         "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 184534,
       "name": "i miei fiumi",
       "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "Piccolo Tornado",
+        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Toscano",
+          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Piccolo Tornado",
+      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "Ondeggiando",
+        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "duration_ms": 154046,
+      "name": "Ondeggiando",
+      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Anche i Cowboy Piangono",
         "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 174300,
       "name": "Anche i Cowboy Piangono",
       "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "Un'ora di sole",
-        "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "Un'ora di sole",
-      "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Ondeggiando",
-        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+        "name": "Un'ora di sole",
+        "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
       },
       "artists": [
         {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
         }
       ],
-      "duration_ms": 154046,
-      "name": "Ondeggiando",
-      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
+      "duration_ms": 156857,
+      "name": "Un'ora di sole",
+      "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Soli per errore",
-        "url": "https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK"
-      },
-      "artists": [
-        {
-          "name": "LYSA",
-          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Soli per errore",
-      "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "Pennette alla vodka",
         "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "Soli per errore",
+        "url": "https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Soli per errore",
+      "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Perdo Il Tuo Amore",
         "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 164514,
       "name": "Perdo Il Tuo Amore",
       "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "AMORETABACCO",
+        "url": "https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6"
+      },
+      "artists": [
+        {
+          "name": "Still Charles",
+          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "AMORETABACCO",
+      "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Canzone poco originale sulla solitudine",
-        "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
-      },
-      "artists": [
-        {
-          "name": "EDEL",
-          "url": "https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah"
-        }
-      ],
-      "duration_ms": 215075,
-      "name": "Canzone poco originale sulla solitudine",
-      "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "anna se la sente ancora",
         "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+        "name": "Canzone poco originale sulla solitudine",
+        "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
       },
       "artists": [
         {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+          "name": "EDEL",
+          "url": "https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah"
         }
       ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+      "duration_ms": 215075,
+      "name": "Canzone poco originale sulla solitudine",
+      "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Sette di Cuori",
         "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 201253,
       "name": "Siviglia",
       "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "AMORETABACCO",
-        "url": "https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6"
-      },
-      "artists": [
-        {
-          "name": "Still Charles",
-          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "AMORETABACCO",
-      "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "brivido",
-        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
-      },
-      "artists": [
-        {
-          "name": "Sedici",
-          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
-        }
-      ],
-      "duration_ms": 158239,
-      "name": "brivido",
-      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "Luna in acquario ascendente sagittario",
         "url": "https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 169747,
       "name": "Farci la guerra",
       "url": "https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "brivido",
+        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
+      },
+      "artists": [
+        {
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
+        }
+      ],
+      "duration_ms": 158239,
+      "name": "brivido",
+      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
     },
     {
       "added_at": "2024-12-12 23:01:33",

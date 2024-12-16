@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34268,
+  "num_followers": 34272,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
+        "name": "\u5f35\u5b87\u6232\u5287\u4e3b\u984c\u66f2\u7cbe\u9078 (2008-2011)",
+        "url": "https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe"
+      },
+      "artists": [
+        {
+          "name": "Phil Chang",
+          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
+        }
+      ],
+      "duration_ms": 279379,
+      "name": "\u5098\u4e0b - \u96fb\u8996\u5287\u300a\u6b61\u559c\u4f86\u9017\u9663\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
         "name": "\u4e00\u842c\u5c0f\u6642",
         "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 256826,
       "name": "\u85cd\u96e8",
       "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "\u5f35\u5b87\u6232\u5287\u4e3b\u984c\u66f2\u7cbe\u9078 (2008-2011)",
-        "url": "https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe"
-      },
-      "artists": [
-        {
-          "name": "Phil Chang",
-          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
-        }
-      ],
-      "duration_ms": 279379,
-      "name": "\u5098\u4e0b - \u96fb\u8996\u5287\u300a\u6b61\u559c\u4f86\u9017\u9663\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
         "name": "\u98db\u884c\u90e8\u843d",
         "url": "https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 272216,
       "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
       "url": "https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u600e\u6a23",
-        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "\u96e8\u548c\u592a\u967d",
-      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70\uff0c\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 252000,
       "name": "\u88ab\u96e8\u50b7\u900f - \u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70\uff0c\u5411\u53f3\u8d70\u300d\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u600e\u6a23",
+        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "\u96e8\u548c\u592a\u967d",
+      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u660f\u6c89\u4e0b\u96e8\u5929 (Dizzy Drizzle)",
-        "url": "https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv"
-      },
-      "artists": [
-        {
-          "name": "Bad Sweetheart",
-          "url": "https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN"
-        }
-      ],
-      "duration_ms": 295720,
-      "name": "\u660f\u6c89\u4e0b\u96e8\u5929 (Dizzy Drizzle)",
-      "url": "https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u98a8\u548c\u65e5\u9e97\u5f71\u97f3\u6982\u5ff5\u66f8",
         "url": "https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 232888,
       "name": "\u4e0b\u96e8\u591c",
       "url": "https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u660f\u6c89\u4e0b\u96e8\u5929 (Dizzy Drizzle)",
+        "url": "https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv"
+      },
+      "artists": [
+        {
+          "name": "Bad Sweetheart",
+          "url": "https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN"
+        }
+      ],
+      "duration_ms": 295720,
+      "name": "\u660f\u6c89\u4e0b\u96e8\u5929 (Dizzy Drizzle)",
+      "url": "https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u660e\u660e",
+        "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
+      },
+      "artists": [
+        {
+          "name": "xumingming",
+          "url": "https://open.spotify.com/artist/7JM5mZKgSaGtDNvnJVuUc2"
+        }
+      ],
+      "duration_ms": 267078,
+      "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
+      "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u660e\u660e",
-        "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
-      },
-      "artists": [
-        {
-          "name": "xumingming",
-          "url": "https://open.spotify.com/artist/7JM5mZKgSaGtDNvnJVuUc2"
-        }
-      ],
-      "duration_ms": 267078,
-      "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
-      "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u611b\u5728\u96e8\u5b63",
-        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u6620\u9999",
-          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
-        }
-      ],
-      "duration_ms": 166304,
-      "name": "\u611b\u5728\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u591a\u96e8\u7684\u57ce\u5e02 (2020)",
         "url": "https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 326440,
       "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
       "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u611b\u5728\u96e8\u5b63",
+        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u6620\u9999",
+          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
+        }
+      ],
+      "duration_ms": 166304,
+      "name": "\u611b\u5728\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
     },
     {
       "added_at": "2024-11-21 17:08:53",

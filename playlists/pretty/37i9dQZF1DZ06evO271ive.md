@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,670 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,693 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 41 | [Ova Bad](https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:11 |
 | 42 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5) | [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX) | 1:24 |
 | 43 | [Bent \(Remix\) \(with Kyle Richh, Jenn Carter, TaTa & Sexyy Red\)](https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 3:37 |
-| 44 | [Grape Trees \(feat\. Sexyy Red\)](https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 5:03 |
-| 45 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 44 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 45 | [Grape Trees \(feat\. Sexyy Red\)](https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 5:03 |
 | 46 | [Clouted Up](https://open.spotify.com/track/0L4ar279c2jy2bPg9WAcsi) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 1:57 |
 | 47 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 |
 | 48 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:00 |
 | 49 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
 | 50 | [Slob on My Ckat](https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Slob on My Ckat](https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1) | 2:28 |
-| 51 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 |
-| 52 | [FYM](https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FYM](https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG) | 2:40 |
+| 51 | [FYM](https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FYM](https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG) | 2:40 |
+| 52 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 |
 
-Snapshot ID: `Z1t5AAAAAACHmQKwgp6xPJDA3An9sX34`
+Snapshot ID: `Z1zKgAAAAADKmRPL3kN4JQfntT0bhDZq`

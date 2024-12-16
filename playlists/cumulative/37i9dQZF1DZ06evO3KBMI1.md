@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-111 songs - 7 hr 46 min
+112 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [ONE LIFE](https://open.spotify.com/track/0jZuZviZ9DjdgoOgGxDxKd) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [無双Collaborations \-The undefeated\-](https://open.spotify.com/album/43YpGTcUo1dDHgGyGftoBC) | 3:40 | 2022-08-22 | 2024-10-08 |
 | [One stroke for freedom](https://open.spotify.com/track/5Ucz24aUo02729n6aLz9mV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:13 | 2022-06-09 | 2023-07-21 |
 | [OUR ALWAYS](https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 4:23 | 2022-06-09 | 2022-08-17 |
-| [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 | 2024-10-19 |  |
+| [PHOENIX](https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX](https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc) | 3:01 | 2024-12-16 |  |
+| [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 | 2024-10-19 | 2024-12-16 |
 | [PLOT](https://open.spotify.com/track/6nw2b6JtDb2A7vUwMrSPDA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE](https://open.spotify.com/album/1sKDBoYMLDPx74Ktp5tnJ1) | 3:27 | 2022-08-09 | 2022-08-11 |
 | [PRAYING RUN](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 | 2022-06-09 |  |
 | [Q.E.D.](https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:42 | 2022-06-09 |  |

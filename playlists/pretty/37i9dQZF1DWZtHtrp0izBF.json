@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 24584,
+  "num_followers": 24658,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -155,22 +139,6 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -195,6 +163,38 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Aqui No Se Sienta Nadie!",
         "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
@@ -207,22 +207,6 @@
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -255,22 +239,6 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -311,6 +279,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -375,38 +375,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/7CV3xQzREhrKHzipageL3n"
       },
@@ -439,6 +407,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Viceversa",
+        "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Sigo Siendo Yo",
         "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 302946,
       "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
       "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -571,8 +587,8 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Viceversa",
-        "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
       },
       "artists": [
         {
@@ -580,9 +596,25 @@
           "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 273880,
-      "name": "Un Mont\u00f3n de Estrellas",
-      "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -615,22 +647,6 @@
       "duration_ms": 289586,
       "name": "No Me Acostumbro",
       "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -679,22 +695,6 @@
       "duration_ms": 253253,
       "name": "Anacaona",
       "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2024-09-06 20:51:37",

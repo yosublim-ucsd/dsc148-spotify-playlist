@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mustafa
 
-220 songs - 13 hr 20 min
+222 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Awful Lightning](https://open.spotify.com/track/0IEFpjJF5MuURYFL4CAJd0) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 5:42 | 2023-11-03 | 2024-03-30 |
 | [Baby Teeth](https://open.spotify.com/track/5DZQx7Dty5uqJQV9L05rOg) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Baby Teeth](https://open.spotify.com/album/79qhXBZUFvDZ90kj5svopV) | 3:34 | 2023-11-03 | 2024-02-24 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-11-03 | 2024-05-18 |
-| [Backwater, NW](https://open.spotify.com/track/33lqFzJbtBA327o0kWH8GW) | [Menno Versteeg](https://open.spotify.com/artist/4krUuWnPOX99EcqPB8tRcl) | [Backwater, NW](https://open.spotify.com/album/7xYQ6pbLnGnBN0aqXOPq7w) | 3:23 | 2024-11-01 |  |
+| [Backwater, NW](https://open.spotify.com/track/33lqFzJbtBA327o0kWH8GW) | [Menno Versteeg](https://open.spotify.com/artist/4krUuWnPOX99EcqPB8tRcl) | [Backwater, NW](https://open.spotify.com/album/7xYQ6pbLnGnBN0aqXOPq7w) | 3:23 | 2024-11-01 | 2024-12-16 |
 | [Bad News](https://open.spotify.com/track/1nvmIf2NpdUdIJ65qsW0fr) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 2:54 | 2024-04-26 | 2024-10-19 |
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-11-03 | 2023-11-18 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2023-11-03 |  |
@@ -63,6 +63,7 @@
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-11-03 | 2023-12-09 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-11-25 |
 | [carSick \(feat\. Seago\)](https://open.spotify.com/track/684n2I12xPPSTv47wOqD1t) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [carSick \(feat\. Seago\)](https://open.spotify.com/album/3YVmLYyeNaBz0OlO6NrYzf) | 1:59 | 2023-11-03 | 2023-12-09 |
+| [Change A Tire](https://open.spotify.com/track/4a1GNxjxI7OKqlp4xm6I9e) | [Menno Versteeg](https://open.spotify.com/artist/4krUuWnPOX99EcqPB8tRcl) | [Why We Run](https://open.spotify.com/album/1lYroR8JZqe373WwkIvNJi) | 2:39 | 2024-12-15 |  |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 | 2024-06-15 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-03 | 2024-05-11 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-11-03 |  |
@@ -105,6 +106,7 @@
 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 | 2024-06-07 | 2024-10-19 |
 | [Hotel](https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:17 | 2023-11-03 | 2024-07-27 |
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-27 |  |
+| [hudson \- demo](https://open.spotify.com/track/3fLSTZwKza9Wjb3wzj7K2u) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE \(5 Year Anniversary Edition\)](https://open.spotify.com/album/00xS2v4q9DUBBLlslZX6pG) | 2:50 | 2024-12-15 |  |
 | [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 | 2024-02-16 |  |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 |  |
 | [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-09-27 | 2024-10-26 |
@@ -226,7 +228,7 @@
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-11-03 | 2024-06-29 |
 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-18 |  |
 | [Wish I Was In Bed](https://open.spotify.com/track/1rRX7pIQwG9bBKl3sWeuPJ) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Wish I Was In Bed](https://open.spotify.com/album/0FTJ60RoxdCndutBG1bN5A) | 3:10 | 2024-09-06 | 2024-10-26 |
-| [Year of the Rabbit](https://open.spotify.com/track/2JMdRzCGOGhtmatWgJsohW) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Year of the Rabbit](https://open.spotify.com/album/1PIxh2URO0rWAr8aUvZUuE) | 4:06 | 2024-10-11 |  |
+| [Year of the Rabbit](https://open.spotify.com/track/2JMdRzCGOGhtmatWgJsohW) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Year of the Rabbit](https://open.spotify.com/album/1PIxh2URO0rWAr8aUvZUuE) | 4:06 | 2024-10-11 | 2024-12-16 |
 | [Yoke \(with Julien Baker\)](https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Yoke \(with Julien Baker\)](https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW) | 3:53 | 2024-10-25 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

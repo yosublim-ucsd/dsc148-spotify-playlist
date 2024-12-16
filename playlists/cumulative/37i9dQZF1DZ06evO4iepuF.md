@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-51 songs - 1 hr 32 min
+52 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 |  |
 | [COPE](https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [COPE](https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY) | 1:49 | 2024-12-14 |  |
 | [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 |  |
+| [crystal spray \- Remastered](https://open.spotify.com/track/5e31ls6AAuRNkcEGmSGcMX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crystal spray \(Remastered\)](https://open.spotify.com/album/5d5yLJ4vUxUG74VRYnae95) | 1:57 | 2024-12-16 |  |
 | [Death At Your Expense](https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:23 | 2024-12-14 | 2024-12-15 |
 | [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 |  |
 | [dissociated fantasy](https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [dissociated fantasy](https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y) | 1:52 | 2024-12-14 |  |
@@ -27,7 +28,7 @@
 | [floating!](https://open.spotify.com/track/2aNSeFTOT0g94FsTYFhZpn) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [floating!](https://open.spotify.com/album/25bETwAaO6uWv6RtDiLxD9) | 1:04 | 2024-12-14 |  |
 | [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 | 2024-12-14 |  |
 | [heartbreaker feelings](https://open.spotify.com/track/5UDJZgIyoF6vvAbWeXsd0c) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:32 | 2024-12-15 |  |
-| [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 |  |
+| [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 | 2024-12-16 |
 | [i only got one](https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i only got one](https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7) | 1:10 | 2024-12-14 |  |
 | [i'm done wasting my time](https://open.spotify.com/track/3R8sCNH2lPWFe58PAadQBd) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:59 | 2024-12-14 |  |
 | [im part of the PAWblem​!​!](https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [im part of the PAWblem​!​!](https://open.spotify.com/album/660oyPv15JOys26fZXNdE7) | 1:40 | 2024-12-14 |  |

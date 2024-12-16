@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Junggigo Quintet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,509 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,517 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

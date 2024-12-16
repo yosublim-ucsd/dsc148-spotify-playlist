@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Chris Lebron & Manuel Turizo",
-  "num_followers": 1895256,
+  "num_followers": 1895206,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 134637,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 208057,
       "name": "EL LOBBY",
       "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 344666,
+      "name": "Vivir Sin Aire - Unplugged",
+      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "escrita (deluxe)",
-        "url": "https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 206494,
-      "name": "m\u00e1ndame un beso",
-      "url": "https://open.spotify.com/track/46fedM2fTd59tUabilqlUk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "escrita (deluxe)",
+        "url": "https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 206494,
+      "name": "m\u00e1ndame un beso",
+      "url": "https://open.spotify.com/track/46fedM2fTd59tUabilqlUk"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
         }
       ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Los Lugares M\u00e1s Bonitos",
-        "url": "https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
       "artists": [
         {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Los Lugares M\u00e1s Bonitos",
-      "url": "https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW"
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1235,22 +1215,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -1263,6 +1227,42 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Los Lugares M\u00e1s Bonitos",
+        "url": "https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Los Lugares M\u00e1s Bonitos",
+      "url": "https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Maye",
-        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 172659,
-      "name": "Maye",
-      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 255650,
       "name": "La Carretera - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Maye",
+        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "duration_ms": 172659,
+      "name": "Maye",
+      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
-      },
-      "artists": [
-        {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
-        }
-      ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Underdog (Acoustic Version)",
         "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+      },
+      "artists": [
+        {
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+        }
+      ],
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2024-12-13 05:00:32",

@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 30135,
+  "num_followers": 30145,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+      },
+      "artists": [
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2024-12-03 22:48:09",
+      "album": {
         "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2024-12-03 22:48:09",
-      "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2024-12-03 22:48:09",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
       },
       "artists": [
         {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2024-12-03 22:48:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
-        "name": "New Horizon",
-        "url": "https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F"
-      },
-      "artists": [
-        {
-          "name": "The Hey Song",
-          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Greenfield",
-      "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
-    },
-    {
-      "added_at": "2024-12-03 22:48:09",
-      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+        "name": "New Horizon",
+        "url": "https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F"
       },
       "artists": [
         {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+          "name": "The Hey Song",
+          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
         }
       ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
+      "duration_ms": 146760,
+      "name": "Greenfield",
+      "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
     },
     {
       "added_at": "2024-12-03 22:48:09",
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
+        "name": "Phantasia",
+        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "duration_ms": 279013,
+      "name": "Infinite Mirror",
+      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
+    },
+    {
+      "added_at": "2024-12-03 22:48:09",
+      "album": {
         "name": "Re:Tokage",
         "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
       },
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
-        "name": "Phantasia",
-        "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
       },
       "artists": [
         {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Infinite Mirror",
-      "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2024-12-03 22:48:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-03 22:48:09",
       "album": {
-        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
-        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
-      },
-      "artists": [
-        {
-          "name": "PE'Z",
-          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Hale no sola sita -LA YELLOW SAMBA-",
-      "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
-    },
-    {
-      "added_at": "2024-12-03 22:48:09",
-      "album": {
         "name": "color & monochrome 2",
         "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 318240,
       "name": "Golden Forest",
       "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+    },
+    {
+      "added_at": "2024-12-03 22:48:09",
+      "album": {
+        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
+        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Hale no sola sita -LA YELLOW SAMBA-",
+      "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
     },
     {
       "added_at": "2024-12-03 22:48:09",

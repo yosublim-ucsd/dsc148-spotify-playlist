@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: DENNIS, LUDMILLA, Felipe Amorim\n",
-  "num_followers": 586204,
+  "num_followers": 586663,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "Do Job",
+        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Do Job",
+      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -231,42 +251,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Do Job",
-        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Do Job",
-      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "S\u00f3 F\u00e9",
-      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "S\u00f3 F\u00e9",
+      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -351,34 +351,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Gata (Barbie)",
-        "url": "https://open.spotify.com/album/2YTyARkpj4fzGY7l4Hf9SH"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Gata - Barbie",
-      "url": "https://open.spotify.com/track/4UADn7KrfGSr4KjqMrvGzd"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
       },
@@ -391,22 +363,6 @@
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "De Gra\u00e7a ou Pagando",
-      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -455,6 +411,50 @@
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Gata (Barbie)",
+        "url": "https://open.spotify.com/album/2YTyARkpj4fzGY7l4Hf9SH"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Gata - Barbie",
+      "url": "https://open.spotify.com/track/4UADn7KrfGSr4KjqMrvGzd"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "Dano Sarrada (Remix)",
         "url": "https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k"
       },
@@ -743,6 +759,70 @@
       "duration_ms": 73423,
       "name": "Beijos, Blues e Poesia",
       "url": "https://open.spotify.com/track/2LA2EvpxdC33cignxvKkNt"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Tem Caf\u00e9",
+        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Andrezin Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf"
+        },
+        {
+          "name": "Dj Kevin Oficial",
+          "url": "https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "Tem Caf\u00e9",
+      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Digo Ou N\u00e3o Digo",
+        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 153958,
+      "name": "Dengo",
+      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "RAM TCHUM",
+        "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 129418,
+      "name": "RAM TCHUM",
+      "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -783,114 +863,6 @@
       "duration_ms": 367499,
       "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
       "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Tem Caf\u00e9",
-        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Andrezin Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf"
-        },
-        {
-          "name": "Dj Kevin Oficial",
-          "url": "https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "Tem Caf\u00e9",
-      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "RAM TCHUM",
-        "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 129418,
-      "name": "RAM TCHUM",
-      "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Digo Ou N\u00e3o Digo",
-        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 153958,
-      "name": "Dengo",
-      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Tenho que Me Decidir",
-        "url": "https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Tenho que Me Decidir",
-      "url": "https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -963,46 +935,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Coisas Que Eu Sei",
-        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "CAVALINHO",
-        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Gasparzinho",
-          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "CAVALINHO",
-      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Pra Quebrar a Cara",
         "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
       },
@@ -1035,6 +967,26 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "Pane no Sistema",
         "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
       },
@@ -1059,22 +1011,30 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+        "name": "Tenho que Me Decidir",
+        "url": "https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
         }
       ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+      "duration_ms": 183960,
+      "name": "Tenho que Me Decidir",
+      "url": "https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1091,6 +1051,30 @@
       "duration_ms": 141388,
       "name": "S\u00f3 um Pagode - Ao Vivo",
       "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "CAVALINHO",
+        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Gasparzinho",
+          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "CAVALINHO",
+      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1131,62 +1115,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 152078,
-      "name": "Lugar Perfeito",
-      "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "PEDRIN",
-        "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        }
-      ],
-      "duration_ms": 127846,
-      "name": "PEDRIN",
-      "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Botada \u00e0 Luz de Velas (Ao Vivo)",
         "url": "https://open.spotify.com/album/1zRz9hnkuq4NdevmJL7oHI"
       },
@@ -1223,6 +1151,58 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 152078,
+      "name": "Lugar Perfeito",
+      "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
+        "name": "PEDRIN",
+        "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "duration_ms": 127846,
+      "name": "PEDRIN",
+      "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
         "name": "Botadinha Saliente",
         "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 158000,
       "name": "Botadinha Saliente",
       "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1287,26 +1303,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Reivete-se 3.0",
         "url": "https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G"
       },
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "Halls na L\u00edngua",
-        "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Halls na L\u00edngua",
-      "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Xand's Bar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0n14Pl9OyJY3gElbMoQgU9"
       },
@@ -1411,6 +1395,62 @@
       "duration_ms": 347769,
       "name": "Sempre Ser\u00e1 / Tenta\u00e7\u00e3o / Nossa Guerra Santa / T\u00e1 Na Cara - Ao Vivo",
       "url": "https://open.spotify.com/track/6NVxSsPCFVBvxUI7Pix8mv"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Halls na L\u00edngua",
+        "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Halls na L\u00edngua",
+      "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "MF em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Monogamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/20ar34rCdVHdtvmbuHVxgu"
+    },
+    {
+      "added_at": "2024-12-13 15:50:06",
+      "album": {
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 171100,
+      "name": "Cama Repetida",
+      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-12-13 15:50:06",
@@ -1447,26 +1487,6 @@
     {
       "added_at": "2024-12-13 15:50:06",
       "album": {
-        "name": "MF em Sampa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Monogamia - Ao Vivo",
-      "url": "https://open.spotify.com/track/20ar34rCdVHdtvmbuHVxgu"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
         "name": "Acabou O Sossego",
         "url": "https://open.spotify.com/album/0toBC6zKZKiimstNK2XtZk"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 117576,
       "name": "QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q"
-    },
-    {
-      "added_at": "2024-12-13 15:50:06",
-      "album": {
-        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "Cama Repetida",
-      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-12-13 15:50:06",

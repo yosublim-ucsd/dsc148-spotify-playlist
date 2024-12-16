@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,035 likes - 86 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,024 likes - 86 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 52 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 53 | [Step by Step](https://open.spotify.com/track/5M51V3WORhfTzuFHjJzayB) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Step by Step](https://open.spotify.com/album/19vnY3rwthzsGQrzY24MbS) | 3:05 |
 | 54 | [Celular](https://open.spotify.com/track/28Dw5KTUvyauj8RZnc8r2N) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Celular](https://open.spotify.com/album/3kHP7PgLP8XL0iDOLOVbv5) | 3:42 |
-| 55 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/4ZWNYnZKcNkMlQYjkK7UOM) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
+| 55 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 56 | [MÜTTER](https://open.spotify.com/track/6Ng0CIhBR7SndfW0LWYYOK) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Pintendari](https://open.spotify.com/artist/66Kv6hQepRROlkoN8nnpd4), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [MÜTTER](https://open.spotify.com/album/3C5SoJifuWhxVk4brEncKe) | 2:06 |
 | 57 | [Archangel](https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Archangel](https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw) | 3:22 |
 | 58 | [Silberfische](https://open.spotify.com/track/7j75SHkFKpSK7tReiWrezg) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr), [Levi Penell](https://open.spotify.com/artist/4UnfNJn6ho5oiHPPDzYXHz) | [Silberfische](https://open.spotify.com/album/6ezm8Z0KfRFoWax5fANrwC) | 2:03 |

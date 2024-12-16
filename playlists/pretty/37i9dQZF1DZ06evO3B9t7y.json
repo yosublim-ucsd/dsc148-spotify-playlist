@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 995521,
+  "num_followers": 996004,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACxS5WGGrX5jOXXu1Jo55x0",
+  "snapshot_id": "Z1zKgAAAAAAP0pAtHVaIwECnzoDuZxEc",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "QUE VUELVAS",
-      "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "QUE VUELVAS",
+      "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "El Amor De Mi Herida",
+      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 154420,
       "name": "Secuelas De Amor",
       "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - En Vivo",
-      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 127500,
-      "name": "El Amor De Mi Herida",
-      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - En Vivo",
+      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
       },
@@ -827,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Lado Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
       },
@@ -839,22 +871,6 @@
       "duration_ms": 203816,
       "name": "Amorcito Mio - En Vivo",
       "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
     },
     {
       "added_at": null,
@@ -931,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chancleta",
-        "url": "https://open.spotify.com/album/4F17JOxOh0m4lMrwgJS6iy"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "La Chancleta",
-      "url": "https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -964,9 +956,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Lado Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     }
   ],
   "unique_name": "This Is Carin Leon",

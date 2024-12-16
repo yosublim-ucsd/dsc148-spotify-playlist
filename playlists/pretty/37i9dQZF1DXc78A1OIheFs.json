@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
-  "num_followers": 18637,
+  "num_followers": 18638,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "My Dawgs",
-        "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
-      },
-      "artists": [
-        {
-          "name": "Hp Boyz",
-          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
-        },
-        {
-          "name": "Stallyano",
-          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
-        }
-      ],
-      "duration_ms": 175542,
-      "name": "My Dawgs",
-      "url": "https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Under One Roof",
         "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+        "name": "My Dawgs",
+        "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
         }
       ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+      "duration_ms": 175542,
+      "name": "My Dawgs",
+      "url": "https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "pinky boy",
         "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Commit",
-        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 201580,
-      "name": "Commit",
-      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Commit",
+        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 201580,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "AKL Girls",
-        "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
-      },
-      "artists": [
-        {
-          "name": "Church & AP",
-          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
-        }
-      ],
-      "duration_ms": 259625,
-      "name": "AKL Girls",
-      "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "AKL Girls",
+        "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        }
+      ],
+      "duration_ms": 259625,
+      "name": "AKL Girls",
+      "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1015,38 +1015,6 @@
       "duration_ms": 221000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Slo Mo",
-        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 494760,
-      "name": "Slo Mo",
-      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1089,6 +1057,22 @@
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "MELLOW CALM & CHILL",
@@ -1111,6 +1095,22 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Slo Mo",
+        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 494760,
+      "name": "Slo Mo",
+      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 149234,
-      "name": "Time Of My Life",
-      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "HIRL",
         "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 149234,
+      "name": "Time Of My Life",
+      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
     },
     {
       "added_at": "2024-10-24 13:00:00",

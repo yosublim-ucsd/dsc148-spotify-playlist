@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 86 | [Drink the World Dry](https://open.spotify.com/track/36FjsJeZkpMnzZ92JoQeFw) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:00 |
 | 87 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
 | 88 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
-| 89 | [Fear Of Missing Out](https://open.spotify.com/track/3SuYCsNMFa61CxlLU6ukNV) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:55 |
-| 90 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 89 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 90 | [Fear Of Missing Out](https://open.spotify.com/track/3SuYCsNMFa61CxlLU6ukNV) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:55 |
 | 91 | [Need You Like This](https://open.spotify.com/track/6XS0MhQCtr1Sjvifptm5cv) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:25 |
 | 92 | [Full Moon](https://open.spotify.com/track/4nes2cElxP6FFb8LMwKI6a) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:01 |
 | 93 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 115 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 116 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `AbkJyAAAAAD0j4vAMyJcwYh136qFybDh`
+Snapshot ID: `AbkPXgAAAADMX5SJYfUNnJVMzulGpdG8`

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Tayc",
-  "num_followers": 43065,
+  "num_followers": 43063,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "PROBATION",
-        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
         }
       ],
-      "duration_ms": 219584,
-      "name": "PROBATION",
-      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -175,26 +179,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "These Walls (feat. Pierre de Maere)",
-        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 217597,
-      "name": "These Walls (feat. Pierre de Maere)",
-      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "J'AI MENTI.",
         "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
@@ -207,22 +191,6 @@
       "duration_ms": 216973,
       "name": "Laisse-moi tranquille.",
       "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Mauvais gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Mauvais gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -243,6 +211,38 @@
       "duration_ms": 197200,
       "name": "02:00",
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "PROBATION",
+        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 219584,
+      "name": "PROBATION",
+      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Chaque seconde (Edition deluxe)",
         "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
       },
@@ -295,26 +311,6 @@
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "POP (feat. La Mano 1.9)",
-        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 216261,
-      "name": "POP (feat. La Mano 1.9)",
-      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -355,6 +351,42 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "POP (feat. La Mano 1.9)",
+        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 216261,
+      "name": "POP (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "1 Minute",
         "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
       },
@@ -371,22 +403,6 @@
       "duration_ms": 186746,
       "name": "1 Minute",
       "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -491,6 +507,26 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "CARR\u00c9 OK",
+        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 160628,
+      "name": "CARR\u00c9 OK",
+      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -527,22 +563,6 @@
       "duration_ms": 154285,
       "name": "En rapide",
       "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -667,26 +687,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "CARR\u00c9 OK",
-        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 160628,
-      "name": "CARR\u00c9 OK",
-      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "STACKS",
         "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Un v\u0153u",
-        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 238683,
-      "name": "Un v\u0153u",
-      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Un v\u0153u",
+        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 238683,
+      "name": "Un v\u0153u",
+      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "LA VIE CONTINUE",
         "url": "https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI"
       },
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Faux Paradis",
+        "url": "https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Faux Paradis",
+      "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Je me demande (feat. Louane)",
         "url": "https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ"
       },
@@ -859,22 +879,6 @@
       "duration_ms": 195545,
       "name": "Je me demande (feat. Louane)",
       "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "CRASH C\u0152UR+",
-        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "petite musique",
-      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

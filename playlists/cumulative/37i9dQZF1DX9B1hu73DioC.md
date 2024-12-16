@@ -4,7 +4,7 @@
 
 > put it on and let it play\. cover: jessica pratt
 
-849 songs - 2 day 2 hr 24 min
+850 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-07-25 | 2023-03-18 |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-05-03 | 2022-12-06 |
 | [Fall Again](https://open.spotify.com/track/60vMLy9tlMQ3pjQsLPn5m8) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Fall Again](https://open.spotify.com/album/11ghUcZqVZfQYnV1vMFHdR) | 4:10 | 2022-03-07 | 2022-07-15 |
+| [Falling Down a Well](https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Blue Desert](https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X) | 2:53 | 2024-11-15 |  |
 | [Fast Lovers](https://open.spotify.com/track/2x66KY9ZtoZsMv4z6KgLkV) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Fast Lovers](https://open.spotify.com/album/5jx4Wd5TNwMvDfNCANHlHm) | 2:55 | 2020-10-05\* | 2020-10-06 |
 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 | 2024-11-15 |  |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-19 | 2022-04-21 |
@@ -301,7 +302,7 @@
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 | 2023-04-07 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2024-01-12 | 2024-08-16 |
 | [GARDEN 2 \- Spencer\. Remix](https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 1:29 | 2021-06-04 | 2022-06-03 |
-| [Gemini](https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Gemini](https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT) | 4:31 | 2024-11-15 |  |
+| [Gemini](https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Gemini](https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT) | 4:31 | 2024-11-15 | 2024-12-16 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-06-25 | 2022-07-21 |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
 | [Get High](https://open.spotify.com/track/1lfKSD8h3GeCx1VGJ2IyZM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/0y9F8lNPOSq9tN8lhPwl1I) | 3:42 | 2021-06-04 | 2022-06-15 |

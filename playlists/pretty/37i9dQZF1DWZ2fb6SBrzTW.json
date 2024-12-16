@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 41199,
+  "num_followers": 41287,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "KANTE (feat. Fave)",
-      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
     },
     {
       "added_at": "2024-12-06 06:04:13",
@@ -491,6 +491,58 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Feel Am",
+        "url": "https://open.spotify.com/album/3VmyWLePyLxyzDn4C8mUBi"
+      },
+      "artists": [
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/505HMXR6geya6f1891Hy1A"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -523,58 +575,6 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
-        "name": "Feel Am",
-        "url": "https://open.spotify.com/album/3VmyWLePyLxyzDn4C8mUBi"
-      },
-      "artists": [
-        {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/505HMXR6geya6f1891Hy1A"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -595,6 +595,26 @@
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-12-06 06:04:13",
@@ -715,6 +735,26 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -739,46 +779,6 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
-        "name": "Stubborn (with Asake)",
-        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Stubborn (with Asake)",
-      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
         "name": "Finish Me (AEIOU)",
         "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-12-06 06:04:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
-        "name": "DUMP ON DEM",
-        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "1 WORK",
-      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 285663,
       "name": "Komasava (Comment \u00c7a Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
       "url": "https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "DUMP ON DEM",
+        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "1 WORK",
+      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
     },
     {
       "added_at": "2024-12-06 06:04:13",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-12-06 06:04:13",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2024-12-06 06:04:13",
-      "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2024-12-06 06:04:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 111190,
+  "num_followers": 111192,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAPaghpiw/ijqQxNXEXTb9t",
+  "snapshot_id": "Z1zKgAAAAAAm81ZPQW2MAUtD/1qB0bwL",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171989,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 154409,
+      "name": "El Me\u00f1o",
+      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Belicones (En vivo)",
         "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 154409,
-      "name": "El Me\u00f1o",
-      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gustoso Y Contento (En Vivo)",
         "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
       },
@@ -683,34 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+        "name": "El Rey Del Desierto",
+        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
       "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 175673,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132328,
-      "name": "Aqui En Mi Corazon Tu Mandas",
-      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
+      "duration_ms": 179733,
+      "name": "El Rey Del Desierto",
+      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey Del Desierto",
-        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
       "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179733,
-      "name": "El Rey Del Desierto",
-      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,

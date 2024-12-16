@@ -2441,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172055,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV"
+    },
+    {
+      "album": {
         "name": "The Island",
         "url": "https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9"
       },

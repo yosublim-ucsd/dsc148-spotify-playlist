@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-186 songs - 12 hr 38 min
+187 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [El Burrito De Belén Aka El Burrito Sabanero](https://open.spotify.com/track/2ChTE6URGjseyhwGzUnalu) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 3:04 | 2022-11-25 | 2022-12-30 |
 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 | 2022-11-25 | 2023-11-18 |
 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 | 2022-12-18 |  |
-| [El Cuerpo Me Pide](https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Cantares de Navidad](https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF) | 4:59 | 2022-11-25 |  |
+| [El Cuerpo Me Pide](https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Cantares de Navidad](https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF) | 4:59 | 2022-11-25 | 2024-12-16 |
 | [El envío navideño](https://open.spotify.com/track/5MDow7yE7yj5dA1wN48uU6) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Merengue On](https://open.spotify.com/album/63aZn7WBMRf51fq1OW9jtF) | 4:19 | 2023-12-19 | 2024-09-30 |
 | [El Guayabo de la Ye](https://open.spotify.com/track/0rDw3cIlcXAzfs3rSttbp4) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Una Historia una Leyenda](https://open.spotify.com/album/0LRokwF90cBI9I16p5uldZ) | 3:39 | 2022-11-25 | 2023-08-17 |
 | [El Guayabo de la Ye](https://open.spotify.com/track/4ZZYF38rwSmsFR61G07953) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Inocente](https://open.spotify.com/album/7LPDVaGHgqr876Av8TUyyD) | 3:36 | 2023-08-16 | 2024-04-19 |
@@ -111,6 +111,7 @@
 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 | 2022-11-25 |  |
 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2022-11-25 | 2024-04-19 |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2022-11-25 |  |
+| [La Olla Navideña](https://open.spotify.com/track/3Y97hfTMjCPlXF4r2rUzQG) | [Sol Caliente](https://open.spotify.com/artist/1POX55DusR2weUbAm2JEMv) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:36 | 2024-12-13 |  |
 | [La Papa Caliente](https://open.spotify.com/track/6JvveQNekakCeboK5QN9Wv) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ), [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Salsa Gorda..\. En Navidad](https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF) | 8:02 | 2022-11-25 |  |
 | [La Parranda](https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 4:20 | 2022-12-18 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-11-25 | 2023-11-18 |

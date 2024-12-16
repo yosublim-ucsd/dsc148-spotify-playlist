@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 51014,
+  "num_followers": 51059,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Weval",
-        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 172252,
       "name": "Babe",
       "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Weval",
+        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
     },
     {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
       "added_at": "2024-02-29 17:58:01",
       "album": {
         "name": "XXYYXX",
@@ -1059,6 +1043,22 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Simmer Down",
         "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 219736,
       "name": "Could",
       "url": "https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 245585,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1455,18 +1455,34 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
       "artists": [
         {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+      "duration_ms": 245585,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 431520,
+      "name": "Get Innocuous!",
+      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 282906,
       "name": "I'll Take Care of U",
       "url": "https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 431520,
-      "name": "Get Innocuous!",
-      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "All In All",
+        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 468113,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 164626,
       "name": "Auntie's Lock/Infinitum",
       "url": "https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "All In All",
-        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 468113,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Attack Decay Sustain Release",
         "url": "https://open.spotify.com/album/6G56ZV8joonDhjTRlnwrIc"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 198560,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/23SsE9a9AdbIwawJ6beUVk"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2023-12-08 21:38:00",

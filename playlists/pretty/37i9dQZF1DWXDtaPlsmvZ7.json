@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 112886,
+  "num_followers": 112911,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 169613,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -343,6 +343,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN"
       },
@@ -377,26 +397,6 @@
       "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
     },
     {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Traicionero",
-        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        },
-        {
-          "name": "Media Naranja",
-          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
-        }
-      ],
-      "duration_ms": 204216,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
-    },
-    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "De los Besos Que Te Di",
@@ -415,22 +415,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+        "name": "Traicionero",
+        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         },
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Media Naranja",
+          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
         }
       ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+      "duration_ms": 204216,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Coraz\u00f3n Part\u00edo",
         "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
       },
@@ -555,6 +523,38 @@
       "duration_ms": 199680,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Mil Horas",
         "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227943,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Corazon, Perro Fiel, Echame La Culpa,",
-        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
-      },
-      "artists": [
-        {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
-        }
-      ],
-      "duration_ms": 193736,
-      "name": "Corazon, Perro Fiel, Echame La Culpa,",
-      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Que No Quede Huella",
         "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191205,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Corazon, Perro Fiel, Echame La Culpa,",
+        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
+      },
+      "artists": [
+        {
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+        }
+      ],
+      "duration_ms": 193736,
+      "name": "Corazon, Perro Fiel, Echame La Culpa,",
+      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "LemonChamp",
-        "url": "https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 127128,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Escapate Conmigo",
         "url": "https://open.spotify.com/album/0NkYH6Y00QR1Cds5nRZIHZ"
       },
@@ -1277,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2QebKAsE19YlK3AIMw0wHQ"
     },
     {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Miticos del Ritmo (Soundway Records)",
-        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo - Another One Bites the Dust",
-      "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
-    },
-    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "Huguito Flores: Sin Miedo Session #31",
@@ -1315,6 +1283,46 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Los Miticos del Ritmo (Soundway Records)",
+        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo - Another One Bites the Dust",
+      "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
+      },
+      "artists": [
+        {
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
+        },
+        {
+          "name": "Agu Cartier",
+          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
+        },
+        {
+          "name": "Cande Grau",
+          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "LemonChamp",
         "url": "https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm"
       },
@@ -1324,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
         }
       ],
-      "duration_ms": 140538,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/3pMbfN9l3T4gfUH3UPGPvE"
+      "duration_ms": 127128,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT"
     }
   ],
   "unique_name": "Cumbia Covers",

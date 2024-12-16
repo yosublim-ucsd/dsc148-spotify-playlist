@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26312,
+  "num_followers": 26313,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -803,30 +803,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -907,6 +883,30 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -943,26 +943,6 @@
       "duration_ms": 184558,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1095,8 +1075,8 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
       "artists": [
         {
@@ -1104,13 +1084,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1251,6 +1231,26 @@
       "duration_ms": 225972,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "All The Lies",
-        "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "All The Lies",
-      "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Call Me Now",
         "url": "https://open.spotify.com/album/2DAC8ojG0pgvJUoiwmcS3F"
       },
@@ -1639,6 +1615,30 @@
       "duration_ms": 161188,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "All The Lies",
+        "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "All The Lies",
+      "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1707,30 +1707,6 @@
       "duration_ms": 169094,
       "name": "You (with Marshmello & Vance Joy)",
       "url": "https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Don't Cry For Me (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Don't Cry For Me (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1807,6 +1783,30 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
       "added_at": "2024-07-03 14:32:39",

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Laundry Day",
-  "num_followers": 1688141,
+  "num_followers": 1688173,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Guess featuring billie eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -531,6 +535,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Guess featuring billie eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -677,38 +677,6 @@
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -731,18 +699,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
       "artists": [
         {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -759,6 +727,38 @@
       "duration_ms": 239181,
       "name": "My House Is Not A Home",
       "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -829,6 +813,22 @@
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Pushing Daisies",
@@ -847,6 +847,22 @@
       "duration_ms": 207189,
       "name": "Pushing Daisies",
       "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -897,38 +913,6 @@
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "There Goes My Baby",
-        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "After the First Kiss",
@@ -961,6 +945,22 @@
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Love Me Not (feat. Rex Orange County)",
@@ -979,22 +979,6 @@
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
       "added_at": "2024-09-27 23:58:00",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 183189,
-      "name": "Scumbag",
-      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 178569,
       "name": "OMG",
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 183189,
+      "name": "Scumbag",
+      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "2DK",
-        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 196343,
-      "name": "2DK",
-      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "DIVE",
@@ -1271,6 +1255,22 @@
       "duration_ms": 182380,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Occasional Stoner",
-        "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 183881,
-      "name": "Occasional Stoner",
-      "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Wally",
@@ -1367,6 +1351,22 @@
       "duration_ms": 128332,
       "name": "Wally",
       "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Occasional Stoner",
+        "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 183881,
+      "name": "Occasional Stoner",
+      "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Good Neighbours",
@@ -1487,6 +1471,22 @@
       "duration_ms": 171731,
       "name": "Weekend Boy",
       "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2024-09-13 04:00:00",

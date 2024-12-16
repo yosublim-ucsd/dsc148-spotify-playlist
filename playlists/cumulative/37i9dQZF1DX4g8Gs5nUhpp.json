@@ -3871,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
+        "url": "https://open.spotify.com/album/08fUKtch61dyFGk4CEkNq0"
+      },
+      "artists": [
+        {
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
+      "url": "https://open.spotify.com/track/5gn0Df0Aa7EM98shC3daR6"
+    },
+    {
+      "album": {
         "name": "Ooh Just You",
         "url": "https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v"
       },
@@ -6150,7 +6172,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 159164,
       "name": "\u0110\u1ec3 \u00dd",
       "url": "https://open.spotify.com/track/4oGgxjxVOI69h9uOpHOzwn"

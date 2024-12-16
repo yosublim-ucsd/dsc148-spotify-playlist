@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129735,
+  "num_followers": 129734,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -863,6 +883,22 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -879,26 +915,6 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -935,38 +951,6 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
-      },
-      "artists": [
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 202248,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
+      "duration_ms": 202248,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2024-12-09 02:48:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-09 02:48:10",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 202356,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
-    },
-    {
-      "added_at": "2024-12-09 02:48:10",
-      "album": {
         "name": "Craziest thing happened in my backyard",
         "url": "https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 192233,
       "name": "Here We Go Again / Fanboi",
       "url": "https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v"
+    },
+    {
+      "added_at": "2024-12-09 02:48:10",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2024-12-09 02:48:10",

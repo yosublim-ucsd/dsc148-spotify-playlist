@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Hoang
 
-706 songs - 1 day 18 hr 20 min
+707 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Become The Storm](https://open.spotify.com/track/1Oa9BnPJjYaajvnJQWfK8S) | [TWLGHT](https://open.spotify.com/artist/4Eyc4dYx7gntRbbZapIXVS), [ELUSID](https://open.spotify.com/artist/0NG0DTJxNSjH5BTQxDTSQo), [ZØ](https://open.spotify.com/artist/6moIRDZDPOYs6NIGnM5b0e), [Sydney Grimm](https://open.spotify.com/artist/4jqQOZ9uKl5w7FfgkLn7oy) | [Become The Storm](https://open.spotify.com/album/3x4jxjGKpRF2ORFGAAoZq7) | 4:28 | 2024-05-10 | 2024-06-22 |
 | [Before We Say Goodbye](https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Before We Say Goodbye](https://open.spotify.com/album/4700dcBAB51SCGMQR79bEW) | 3:40 | 2024-05-03 |  |
 | [Before You Leave](https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Before You Leave](https://open.spotify.com/album/2Kl375ovgfhqoKTEzbb7es) | 4:47 | 2023-08-11 | 2023-12-16 |
+| [BLACK & BLUE](https://open.spotify.com/track/7pet4WXP1UDy4OIonkpPp7) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Jessy Covets](https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV) | [BLACK & BLUE](https://open.spotify.com/album/5KTm8wzQqetK8yfFslfW30) | 3:56 | 2024-12-13 |  |
 | [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 | 2023-08-15 |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2022-07-08 | 2022-08-06 |
 | [Bloodsucker](https://open.spotify.com/track/3jI15dUbd7QdjffANtYetx) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Bloodsucker](https://open.spotify.com/album/44pb7yDe2yfXP4G89ZBmz3) | 3:34 | 2024-09-20 | 2024-11-06 |
@@ -493,7 +494,7 @@
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-07-08 | 2023-05-27 |
 | [PART OF ME](https://open.spotify.com/track/1Hn4Yt7ByliodvxeanCQkS) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/53ZBt5Wzau79tfbpKAupE6) | 2:32 | 2022-07-29 | 2023-05-17 |
 | [PART OF ME](https://open.spotify.com/track/2wW67KaLBLCaLxeyCNBEjo) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/0Bgx5cjJDNSeC7n54K7LPX) | 2:32 | 2022-07-08 | 2022-07-29 |
-| [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-06 |  |
+| [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-06 | 2024-12-16 |
 | [Phantoms](https://open.spotify.com/track/0WUVe3Nkd1BMuGecBkGGLr) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Phantoms](https://open.spotify.com/album/5TuRd84g8N14luBq3Jbwkg) | 3:19 | 2023-06-16 | 2023-11-08 |
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-18 | 2023-10-14 |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |

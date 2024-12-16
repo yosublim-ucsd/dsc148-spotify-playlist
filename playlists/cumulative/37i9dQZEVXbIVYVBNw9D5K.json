@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Ac\u0131t\u0131r gibi severek",
+        "url": "https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH"
+      },
+      "artists": [
+        {
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Ac\u0131t\u0131r gibi severek",
+      "url": "https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a"
+    },
+    {
+      "album": {
         "name": "Sirenler",
         "url": "https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf"
       },
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 192000,
       "name": "Bi Polar - SAYGI1",
       "url": "https://open.spotify.com/track/0aVCvzCsi8Cj34zTyTaRvB"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 333313,
       "name": "Bir Ate\u015fe Att\u0131n Beni",
       "url": "https://open.spotify.com/track/4XJBF284vDYKpkAXbMQgUf"
@@ -9808,7 +9826,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 110400,
       "name": "I WANNA DANCE",
       "url": "https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k"
@@ -14782,7 +14800,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 287927,
       "name": "Olsun",
       "url": "https://open.spotify.com/track/4lwfABJjnJYPIgLjuGiB63"

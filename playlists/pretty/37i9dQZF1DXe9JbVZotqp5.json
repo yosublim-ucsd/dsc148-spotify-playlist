@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 648250,
+  "num_followers": 648217,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -731,6 +715,22 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+      },
+      "artists": [
+        {
+          "name": "The Connells",
+          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "'74-'75",
+      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Collective Soul",
         "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
       },
       "artists": [
         {
-          "name": "The Connells",
-          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 278973,
-      "name": "'74-'75",
-      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Wish You Were Here (Remastered Version)",
         "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 304200,
       "name": "Wish You Were Here - 2011 Remaster",
       "url": "https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329666,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Eyes Without A Face - Remastered 1999",
+      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1531,38 +1547,6 @@
       "duration_ms": 208560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Eyes Without A Face - Remastered 1999",
-      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1611,6 +1595,22 @@
       "duration_ms": 266066,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
     }
   ],
   "unique_name": "Easy Rock",

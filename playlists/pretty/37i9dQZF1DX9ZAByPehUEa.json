@@ -1,6 +1,6 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 326014,
+  "num_followers": 326044,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Dance With You (All Night)",
-        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 188072,
-      "name": "Dance With You (All Night)",
-      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Hi Life",
         "url": "https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 129407,
       "name": "Hi Life",
       "url": "https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Dance With You (All Night)",
+        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 188072,
+      "name": "Dance With You (All Night)",
+      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 198508,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Lift You Up",
         "url": "https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 227520,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 198508,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "YoYo Disco (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 147187,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/7ikaNXd2hseoALG4yu0rsy"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "After Five",
         "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 216253,
       "name": "After Five",
       "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1151,22 +1151,6 @@
       "duration_ms": 213095,
       "name": "All For You",
       "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Just Try It",
-        "url": "https://open.spotify.com/album/5E2gTX99i8y5GSrUtj5QGi"
-      },
-      "artists": [
-        {
-          "name": "Baccus",
-          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Just Try It",
-      "url": "https://open.spotify.com/track/6PMQSn5rYo1wc0vk8b6cPR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "MUY FINITO",
         "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 165875,
       "name": "MUY FINITO",
       "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Just Try It",
+        "url": "https://open.spotify.com/album/5E2gTX99i8y5GSrUtj5QGi"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Just Try It",
+      "url": "https://open.spotify.com/track/6PMQSn5rYo1wc0vk8b6cPR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl"
-      },
-      "artists": [
-        {
-          "name": "Tollef",
-          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
-        },
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
-        }
-      ],
-      "duration_ms": 130476,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Disco Tool",
         "url": "https://open.spotify.com/album/3tkIKiqUu0h52cckCm0jJ3"
       },
@@ -1403,6 +1379,30 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl"
+      },
+      "artists": [
+        {
+          "name": "Tollef",
+          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "duration_ms": 130476,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Needed You",
         "url": "https://open.spotify.com/album/77p4bfiwgQNLVyVkwAz40t"
       },
@@ -1415,26 +1415,6 @@
       "duration_ms": 154218,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/6FZLvtLYpnVGMv5Aqrs19B"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Back On My Love",
-        "url": "https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        },
-        {
-          "name": "Sharlene Hector",
-          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Back On My Love",
-      "url": "https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1479,6 +1459,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Back On My Love",
+        "url": "https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Sharlene Hector",
+          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Back On My Love",
+      "url": "https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 139872,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Mixed Signals EP",
         "url": "https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "with you love",
-        "url": "https://open.spotify.com/album/6b8VvCIhRdBzttbucwp8kd"
+        "name": "Love, Lust & Lofi",
+        "url": "https://open.spotify.com/album/3IjRz2DL6iBGq7CZy8BvXR"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
         }
       ],
-      "duration_ms": 215458,
-      "name": "with you love",
-      "url": "https://open.spotify.com/track/12puR1dGT6gaaFHwZ5st4J"
+      "duration_ms": 177230,
+      "name": "Love, Lust & Lofi",
+      "url": "https://open.spotify.com/track/4rOH5fB52sxSQtNOtKC7Zu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Love, Lust & Lofi",
-        "url": "https://open.spotify.com/album/3IjRz2DL6iBGq7CZy8BvXR"
+        "name": "with you love",
+        "url": "https://open.spotify.com/album/6b8VvCIhRdBzttbucwp8kd"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Love, Lust & Lofi",
-      "url": "https://open.spotify.com/track/4rOH5fB52sxSQtNOtKC7Zu"
+      "duration_ms": 215458,
+      "name": "with you love",
+      "url": "https://open.spotify.com/track/12puR1dGT6gaaFHwZ5st4J"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 211088,
       "name": "I Take What's Mine",
       "url": "https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Outta My Mind",
-        "url": "https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 139872,
-      "name": "Outta My Mind",
-      "url": "https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1707,30 +1707,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/7c3lIXqJlyyV2HQSEbVul5"
-      },
-      "artists": [
-        {
-          "name": "Tollef",
-          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
-        },
-        {
-          "name": "Deerock",
-          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
-        },
-        {
-          "name": "RVLE",
-          "url": "https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Slowly (feat. RVLE)",
-      "url": "https://open.spotify.com/track/2sJlklZ3wN2Y5dv6aE2JPo"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Archaeology",
         "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
       },
@@ -1775,6 +1751,30 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/7c3lIXqJlyyV2HQSEbVul5"
+      },
+      "artists": [
+        {
+          "name": "Tollef",
+          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
+        },
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "RVLE",
+          "url": "https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Slowly (feat. RVLE)",
+      "url": "https://open.spotify.com/track/2sJlklZ3wN2Y5dv6aE2JPo"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Love You Till Tomorrow",
         "url": "https://open.spotify.com/album/72NH9Th0pAIbgAHgUHJvWw"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 171744,
       "name": "Love You Till Tomorrow",
       "url": "https://open.spotify.com/track/6IKujTZgwUur3VTNJOM38T"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "BONKERS",
-        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "BONKERS",
-      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Love On Repeat",
         "url": "https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ"
       },
@@ -1863,58 +1863,6 @@
       "duration_ms": 142297,
       "name": "Love On Repeat",
       "url": "https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "V1",
-        "url": "https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY"
-      },
-      "artists": [
-        {
-          "name": "Coucheron",
-          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
-        }
-      ],
-      "duration_ms": 165047,
-      "name": "V1",
-      "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Finally Ready (feat. Billy Porter)",
-        "url": "https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 236730,
-      "name": "Finally Ready (feat. Billy Porter)",
-      "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Hypnotizin'",
-        "url": "https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig"
-      },
-      "artists": [
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        }
-      ],
-      "duration_ms": 238355,
-      "name": "Hypnotizin'",
-      "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1943,6 +1891,58 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Finally Ready (feat. Billy Porter)",
+        "url": "https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 236730,
+      "name": "Finally Ready (feat. Billy Porter)",
+      "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "V1",
+        "url": "https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY"
+      },
+      "artists": [
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ],
+      "duration_ms": 165047,
+      "name": "V1",
+      "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Hypnotizin'",
+        "url": "https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        }
+      ],
+      "duration_ms": 238355,
+      "name": "Hypnotizin'",
+      "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/3VJbditouBXMEdqgsbNyaC"
       },
@@ -1959,30 +1959,6 @@
       "duration_ms": 149625,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/3XICoeVKdERVx4XwHefjl8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Disco Nights",
-        "url": "https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        },
-        {
-          "name": "Yogi",
-          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "New Way",
-      "url": "https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2031,34 +2007,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pick Up The Pieces",
-        "url": "https://open.spotify.com/album/6jE9BNnlGqQjJ9DZIXXxkf"
+        "name": "Disco Nights",
+        "url": "https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p"
       },
       "artists": [
         {
-          "name": "Doche",
-          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
-        }
-      ],
-      "duration_ms": 129877,
-      "name": "Pick Up The Pieces",
-      "url": "https://open.spotify.com/track/0AFWgdVAOq0hG0hYhzclhN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Are You Ready For Me",
-        "url": "https://open.spotify.com/album/30dKnVX8TKgReLFnTuzwjH"
-      },
-      "artists": [
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
         {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
         }
       ],
-      "duration_ms": 170196,
-      "name": "Are You Ready For Me",
-      "url": "https://open.spotify.com/track/0JJJOJwGlzxGYhyQhz4OLh"
+      "duration_ms": 181500,
+      "name": "New Way",
+      "url": "https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2079,6 +2047,82 @@
       "duration_ms": 154500,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3B7hSnr8orVp9tMF5Nt8we"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Pick Up The Pieces",
+        "url": "https://open.spotify.com/album/6jE9BNnlGqQjJ9DZIXXxkf"
+      },
+      "artists": [
+        {
+          "name": "Doche",
+          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
+        }
+      ],
+      "duration_ms": 129877,
+      "name": "Pick Up The Pieces",
+      "url": "https://open.spotify.com/track/0AFWgdVAOq0hG0hYhzclhN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I've Got The Music In Me",
+        "url": "https://open.spotify.com/album/6kQ4jiPztYDp9UtKvJiF7s"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        },
+        {
+          "name": "Marcia Hines",
+          "url": "https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "I've Got The Music In Me",
+      "url": "https://open.spotify.com/track/1xjNMYhO4d2ksWrgFaM1X2"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Baciami",
+        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Produkkt",
+          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
+        },
+        {
+          "name": "Giorgi",
+          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
+        }
+      ],
+      "duration_ms": 176063,
+      "name": "Baciami",
+      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2111,62 +2155,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Baciami",
-        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
+        "name": "Are You Ready For Me",
+        "url": "https://open.spotify.com/album/30dKnVX8TKgReLFnTuzwjH"
       },
       "artists": [
         {
-          "name": "Lorenzo_BITW",
-          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
-        },
-        {
-          "name": "Produkkt",
-          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
-        },
-        {
-          "name": "Giorgi",
-          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
         }
       ],
-      "duration_ms": 176063,
-      "name": "Baciami",
-      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "I've Got The Music In Me",
-        "url": "https://open.spotify.com/album/6kQ4jiPztYDp9UtKvJiF7s"
-      },
-      "artists": [
-        {
-          "name": "Sgt Slick",
-          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
-        },
-        {
-          "name": "Marcia Hines",
-          "url": "https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "I've Got The Music In Me",
-      "url": "https://open.spotify.com/track/1xjNMYhO4d2ksWrgFaM1X2"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Dancing Shoes (Take Me Higher)",
-        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Dancing Shoes (Take Me Higher)",
-      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+      "duration_ms": 170196,
+      "name": "Are You Ready For Me",
+      "url": "https://open.spotify.com/track/0JJJOJwGlzxGYhyQhz4OLh"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2423,22 +2423,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Night Time (Bad Milk Remix)",
-        "url": "https://open.spotify.com/album/5egZEVizf7vaTBvW3hpjny"
+        "name": "Fill Your Soul",
+        "url": "https://open.spotify.com/album/7fOwx609ecsPz8GWOEp7Ub"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        },
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/68pfAx9ScJhEfTjrEmiM8X"
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         }
       ],
-      "duration_ms": 136912,
-      "name": "Night Time - Bad Milk Remix",
-      "url": "https://open.spotify.com/track/4NFRVdkss14n6jEJ40fUKZ"
+      "duration_ms": 216785,
+      "name": "Fill Your Soul",
+      "url": "https://open.spotify.com/track/3GSehBmdlLPsHovQkm47pJ"
     }
   ],
   "unique_name": "DISCOLAND",

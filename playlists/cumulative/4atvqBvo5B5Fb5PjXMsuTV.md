@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Dec 23:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Dec 09:03 UTC.
 
-3,749 songs - 8 day 16 hr 34 min
+3,751 songs - 8 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,7 +852,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 | 2024-08-14 |
 | [Difference](https://open.spotify.com/track/23TWYNU4pD7bcyjbgUZxyr) | [Deniro Farrar](https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p) | [Difference](https://open.spotify.com/album/3mqROfXtbmGwNBLq2ibMVY) | 2:41 | 2024-06-25 | 2024-06-27 |
 | [Different Kind of Blue](https://open.spotify.com/track/0FQhqhcTobwSJdOqsoigXY) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7), [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Different Kind of Blue](https://open.spotify.com/album/7yJZxHfcYu2yuyl3g7Fs23) | 3:32 | 2024-07-16 | 2024-07-18 |
-| [Different Shit](https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Different Shit](https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu) | 3:12 | 2024-12-13 |  |
+| [Different Shit](https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Different Shit](https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu) | 3:12 | 2024-12-13 | 2024-12-16 |
 | [Dig Your Man](https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Dig Your Man](https://open.spotify.com/album/7rKNpL7tkiKJmCklMkzvSA) | 3:03 | 2024-07-26 | 2024-07-31 |
 | [Digital Gravestone](https://open.spotify.com/track/3Jk6Oaj8m8tCBHyhLKQSq3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Digital Gravestone](https://open.spotify.com/album/1FgCsjWCcBu6lvm6yv6gN6) | 4:30 | 2024-12-04 | 2024-12-06 |
 | [Dimensions](https://open.spotify.com/track/1mhHT5QsjR5V9govgYZUq0) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Dimensions](https://open.spotify.com/album/2R2AputSp2mC92uemMWXFM) | 3:45 | 2024-05-22 | 2024-05-24 |
@@ -1148,6 +1148,7 @@
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-04-26 | 2024-04-30 |
 | [Fishy](https://open.spotify.com/track/30It125amFRwlRSliu8OAU) | [Brennan Jones](https://open.spotify.com/artist/4PaHlM2H2hC3VQV4BfLo4B) | [Fishy](https://open.spotify.com/album/7uw5dobX640fPwiUkXFvuv) | 1:15 | 2024-12-13 | 2024-12-15 |
 | [Fit Check \(feat\. VonOff1700\)](https://open.spotify.com/track/5SDhxMtn5Gd87eeMg4gI1H) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Fit Check \(feat\. VonOff1700\)](https://open.spotify.com/album/7rHLiaVnSaN3satk0iFc5Z) | 2:20 | 2024-06-28 | 2024-07-03 |
+| [Five Years](https://open.spotify.com/track/6SYJz0PaK4XQA87dJE1gHz) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Five Years](https://open.spotify.com/album/5tBuk2MNQjP4i8EJ8DYitO) | 2:49 | 2024-12-15 |  |
 | [FIYA FIYA!](https://open.spotify.com/track/5opGQYkDivuOyf11N7BdoV) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [FIYA FIYA!](https://open.spotify.com/album/3Yi4Ub8FpsOgZBkDyhw7Hf) | 1:56 | 2024-07-17 | 2024-07-19 |
 | [FLAG](https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [FLAG](https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td) | 4:36 | 2024-12-12 | 2024-12-14 |
 | [Flagpole Sitta](https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Flagpole Sitta](https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm) | 3:43 | 2024-09-13 | 2024-09-19 |
@@ -2002,7 +2003,7 @@
 | [Mad as F\*ck](https://open.spotify.com/track/3hpB20yL4LC0EfUflmnMEa) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Mad as F\*ck](https://open.spotify.com/album/26aLyJdQxUhAEbWKKapk2f) | 3:42 | 2024-10-11 | 2024-10-17 |
 | [Mad POPCORN World!](https://open.spotify.com/track/7I70OekQ4HtfWMLpUTwFh9) | [戌神ころね](https://open.spotify.com/artist/6EFbQU0BE4wGLdqBjey64b) | [Mad POPCORN World!](https://open.spotify.com/album/1eoshnTtGtdnIeY2uJk1GH) | 3:49 | 2024-10-02 | 2024-10-05 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-03 | 2024-07-06 |
-| [Madam](https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Madam](https://open.spotify.com/album/6KMJA6jl70X6ROJCJ5IzRc) | 2:22 | 2024-12-13 |  |
+| [Madam](https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Madam](https://open.spotify.com/album/6KMJA6jl70X6ROJCJ5IzRc) | 2:22 | 2024-12-13 | 2024-12-16 |
 | [Made Out Of Memory](https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Made Out Of Memory](https://open.spotify.com/album/1329EWe2YqVTTfdNLxVKKy) | 3:34 | 2024-09-02 | 2024-09-06 |
 | [Made to order](https://open.spotify.com/track/0FwhWEoErD7OXxJoCeI6fk) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Made to order](https://open.spotify.com/album/39EJXEYGjkRGDsg4wleKe9) | 3:09 | 2024-10-04 | 2024-10-10 |
 | [Madhouse](https://open.spotify.com/track/6fncL94phV8WHdIiQSmNLC) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Madhouse](https://open.spotify.com/album/2LkAUpW4iMdRhDCKOnHwIw) | 3:04 | 2024-08-16 | 2024-08-21 |
@@ -2278,6 +2279,7 @@
 | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3) | 3:32 | 2024-07-05 | 2024-07-07 |
 | [Noah Shebib \(Kangaroo\)](https://open.spotify.com/track/7fD4hFwbGug4anfkqkcX9e) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Noah Shebib \(Kangaroo\)](https://open.spotify.com/album/5Ib0TMsdefvgbNE0FNXHHr) | 2:03 | 2024-07-10 | 2024-07-12 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-12 | 2024-09-14 |
+| [Nobody Knows You, Stepbro.](https://open.spotify.com/track/6w5LSDDJ4VS9493R35QHLE) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [SadGirlsVsTheWorld](https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Nobody Knows You, Stepbro.](https://open.spotify.com/album/5qIC8bWpXLAU6Ix18FOUmd) | 2:51 | 2024-12-15 |  |
 | [Nobody's Perfect](https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Nobody's Perfect](https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK) | 2:40 | 2024-10-30 | 2024-11-02 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-21 | 2024-10-25 |
 | [Noisy Boys](https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Noisy Boys](https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV) | 3:15 | 2024-10-03 | 2024-10-05 |

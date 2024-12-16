@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,225 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,226 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 12 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 | 13 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
 | 14 | [Страшный сон 2](https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Страшный сон 2](https://open.spotify.com/album/74R9c208EJ1YRoutQjUynU) | 1:50 |
-| 15 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
+| 15 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
 | 16 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 17 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 |
 | 18 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 |
 | 50 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
 
-Snapshot ID: `LvD2+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvJIeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

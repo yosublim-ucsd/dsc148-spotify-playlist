@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 72507,
+  "num_followers": 72512,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADh9/rZgn+PZNsAtXJqU9fQ",
+  "snapshot_id": "Z1zKgAAAAACJe02Vs8m9q6EUB776HWDg",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+      "duration_ms": 212137,
+      "name": "Aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 212137,
-      "name": "Aos Teus P\u00e9s",
-      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fara\u00f3 ou Deus?",
+        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 295530,
+      "name": "Fara\u00f3 ou Deus?",
+      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 377998,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fara\u00f3 ou Deus?",
-        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 295530,
-      "name": "Fara\u00f3 ou Deus?",
-      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 231230,
-      "name": "Toca-me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Toca-me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
     },
     {
       "added_at": null,

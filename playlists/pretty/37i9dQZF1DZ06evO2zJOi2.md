@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,506 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,628 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 35 | [This Side Of A Dust Cloud](https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album \(Bonus\)](https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX) | 3:19 |
 | 36 | [Turn You Down \(HARDY feat\. Morgan Wallen, Zakk Wylde\)](https://open.spotify.com/track/395Vms42bEvN38TBqsXGO3) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 2:34 |
 
-Snapshot ID: `Z1t5AAAAAACaw072aLaeqYt95EnfDPp3`
+Snapshot ID: `Z1zKgAAAAACTJM8Ug980m7xti8kBa1T8`

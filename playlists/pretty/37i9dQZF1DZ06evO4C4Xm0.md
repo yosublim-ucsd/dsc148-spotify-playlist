@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,188 likes - 41 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,195 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 32 | [The Big Ship \- 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
 | 33 | [An Echo Of Night \- 2005 Digital Remaster](https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:28 |
 | 34 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
-| 35 | [Silver Morning \- Remastered 2005](https://open.spotify.com/track/5HzfnZhtGRSenfvmdnY7aV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:39 |
-| 36 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
+| 35 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
+| 36 | [Silver Morning \- Remastered 2005](https://open.spotify.com/track/5HzfnZhtGRSenfvmdnY7aV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:39 |
 | 37 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
 | 38 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
 | 39 | [A Clearing \- Remastered 2004](https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:07 |
-| 40 | [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 |
-| 41 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
+| 40 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
 
-Snapshot ID: `Z1t5AAAAAAC1X9Oeb7+3SS0/80qN43fF`
+Snapshot ID: `Z1zKgAAAAACq5i7yfxabYFkiLJ0kKtKu`

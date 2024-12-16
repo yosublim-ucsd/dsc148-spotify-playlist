@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,882 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,908 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 34 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 |
 | 35 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 |
 | 36 | [El General](https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El General](https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg) | 3:47 |
-| 37 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 |
-| 38 | [Despreciado](https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Despreciado](https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA) | 3:30 |
+| 37 | [Despreciado](https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Despreciado](https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA) | 3:30 |
+| 38 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 |
 | 39 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 |
 
-Snapshot ID: `Z1t5AAAAAAC2bIpChZVZe7++hvCdAFIq`
+Snapshot ID: `Z1zKgAAAAABC/yTuZ3x3fqeegbnIf8xm`

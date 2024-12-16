@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,281 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,505 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 44 | [No Llega el Olvido \(En Vivo\)](https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:32 |
 | 45 | [Me Canse de Amarte](https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [Me Canse de Amarte](https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD) | 3:18 |
 | 46 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 |
-| 47 | [DOMPERI](https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [AXL](https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH) | [DOMPERI](https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM) | 2:05 |
-| 48 | [Acábame de Matar \(En Vivo\)](https://open.spotify.com/track/2q97QNo5IKXQwdlHKtDfSV) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Acábame de Matar \(En Vivo\)](https://open.spotify.com/album/1U6JHKNnyVkN7i7aE6zsrC) | 3:34 |
+| 47 | [Acábame de Matar \(En Vivo\)](https://open.spotify.com/track/2q97QNo5IKXQwdlHKtDfSV) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Acábame de Matar \(En Vivo\)](https://open.spotify.com/album/1U6JHKNnyVkN7i7aE6zsrC) | 3:34 |
+| 48 | [DOMPERI](https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [AXL](https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH) | [DOMPERI](https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM) | 2:05 |
 | 49 | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG) | 3:52 |
 | 50 | [El Patrocinador](https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Patrocinador](https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne) | 3:26 |
 | 51 | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd) | 3:52 |
 | 52 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
 
-Snapshot ID: `Z1t5AAAAAAA9zOdE188KwKy3QCnI9bJT`
+Snapshot ID: `Z1zKgAAAAADMBwkx1XEDzXVkUb80Q+93`

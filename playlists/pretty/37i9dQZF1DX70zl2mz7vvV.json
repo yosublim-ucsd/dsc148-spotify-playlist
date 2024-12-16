@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 58102,
+  "num_followers": 58128,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Reggae Gold 2007",
         "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 222960,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
-        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
-      },
-      "artists": [
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Babylon Too Rough",
-      "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Don't Haffi Dread",
         "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 238550,
       "name": "Don't Haffi Dread",
       "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
+        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Babylon Too Rough",
+      "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
-      },
-      "artists": [
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "It's Growing",
         "url": "https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 219240,
       "name": "It's Growing",
       "url": "https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "One Man Against The World",
-        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
-      },
-      "artists": [
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -595,6 +579,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Sweep Over My Soul",
         "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 219960,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
+      },
+      "artists": [
+        {
+          "name": "Cocoa Tea",
+          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -659,26 +679,6 @@
       "duration_ms": 230573,
       "name": "Man Is The Least",
       "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
-      },
-      "artists": [
-        {
-          "name": "Cocoa Tea",
-          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
     },
     {
       "added_at": "2020-10-19 09:02:25",

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 64369,
+  "num_followers": 64373,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "Multiply (Feat. Luedji Luna)",
         "url": "https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG"
       },
@@ -115,38 +131,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Vai dar Bom",
         "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 204500,
       "name": "VAI DAR BOM",
       "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "PornStar",
+      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -315,42 +331,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "M\u00fasica",
-        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "M\u00fasica",
-      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "PornStar",
-      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Candeia",
         "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "\u00cdndigo (Te Venero)",
         "url": "https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     }
   ],
   "unique_name": "su\u00edte.",

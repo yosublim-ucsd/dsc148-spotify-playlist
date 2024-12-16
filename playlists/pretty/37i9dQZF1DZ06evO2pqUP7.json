@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADUR3mN6tY+foOWP/1Z9d6N",
+  "snapshot_id": "Z1zKgAAAAAAf1Y5Ftx1zvFtlc7xMoRQz",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cuando Sera",
-      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 157142,
       "name": "Hot (with Lunay)",
       "url": "https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cuando Sera",
+      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
     },
     {
       "added_at": null,
@@ -899,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOTORIUS",
-        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },
       "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 186786,
-      "name": "MEZCALITO EN COPA",
-      "url": "https://open.spotify.com/track/6hBs6gXEtN6wvqArXw4h4e"
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -939,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
       },
       "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+      "duration_ms": 186786,
+      "name": "MEZCALITO EN COPA",
+      "url": "https://open.spotify.com/track/6hBs6gXEtN6wvqArXw4h4e"
     },
     {
       "added_at": null,

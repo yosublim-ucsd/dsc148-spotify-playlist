@@ -4,13 +4,13 @@
 
 > Whale song from the deep underwater world of the oceans
 
-66 songs - 3 hr 1 min
+67 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abyss Whales](https://open.spotify.com/track/6EH7wcBsac2lV6eXa0m2Vs) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 3:12 | 2022-07-08 |  |
-| [Aqua Serenade](https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ) | [Free Willy](https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR) | [Ocean Lullaby](https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax) | 2:36 | 2024-08-23 |  |
-| [Aquatic Whales](https://open.spotify.com/track/673YfOTf2UL8MQzamexc0z) | [OrcWard](https://open.spotify.com/artist/0xwz3aW7q8aGq2JJ6hLpBg) | [Aquatic Whales](https://open.spotify.com/album/4AkeTK8g8AGqrzOUKDox3V) | 2:49 | 2023-06-20 | 2024-11-30 |
+| [Aqua Serenade](https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ) | [Free Willy](https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR) | [Ocean Lullaby](https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax) | 2:36 | 2024-08-23 | 2024-12-16 |
+| [Aquatic Whales](https://open.spotify.com/track/673YfOTf2UL8MQzamexc0z) | [OrcWard](https://open.spotify.com/artist/0xwz3aW7q8aGq2JJ6hLpBg) | [Aquatic Whales](https://open.spotify.com/album/4AkeTK8g8AGqrzOUKDox3V) | 2:49 | 2023-06-20 |  |
 | [Balaenoptera Musculus](https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ) | [ORCA](https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq) | [Songs Of The Sea](https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM) | 3:00 | 2022-07-08 |  |
 | [Beautiful Whales](https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Whales](https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV) | 2:02 | 2022-07-08 |  |
 | [Binaural Whales Sound](https://open.spotify.com/track/0V5EyXsFNT1FxJoHch6m8p) | [Binaural reality](https://open.spotify.com/artist/3KpX5Ou0IqshHEM41e3AOn) | [Binaural Whales Sound](https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b) | 1:49 | 2022-07-08 | 2023-06-21 |
@@ -35,6 +35,7 @@
 | [North Atlantic Whales](https://open.spotify.com/track/43RXQFu2Iu62DWhpBXvSOY) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Whales in the Wild](https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL) | 3:23 | 2022-07-08 |  |
 | [Ocean Atmosphere](https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [Whale Sounds](https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk) | 2:52 | 2022-07-08 |  |
 | [Ocean Journey](https://open.spotify.com/track/3Qp0mndfcpcGvai0Pyh4pZ) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Whales](https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV) | 1:54 | 2022-07-08 | 2023-06-21 |
+| [Ocean Lullaby](https://open.spotify.com/track/7BBNspDcmR6RHQc9uIWO8g) | [Free Willy](https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR) | [Ocean Lullaby](https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax) | 2:56 | 2024-08-23 |  |
 | [Ocean Whale Song](https://open.spotify.com/track/4aDaGIKwl9YdB5IyqtDVE9) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Ocean Whale Song](https://open.spotify.com/album/3zYQ9n3zNQ0e490ALvxqB2) | 2:54 | 2022-07-08 |  |
 | [Ocean Whales](https://open.spotify.com/track/0MfWxklDqgV1g06b5GTNH6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Ocean Whales](https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW) | 3:16 | 2022-07-08 |  |
 | [Peaceful Underwater Sounds](https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws) | [Winds of Spirits](https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv) | [Whale Sounds for Sleep](https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m) | 2:22 | 2022-07-08 |  |
@@ -48,7 +49,7 @@
 | [Submerged Whale Sounds](https://open.spotify.com/track/4z87x01bT7ToVPmCP6MQv6) | [Harbour Porpoise](https://open.spotify.com/artist/68BRfPFIXtYxZGApUBNxvc) | [Submerged Whale Sounds](https://open.spotify.com/album/6ntAl2qEq1chs5bOZd4W1T) | 2:42 | 2023-06-20 |  |
 | [The Whale Below](https://open.spotify.com/track/0d5JhifUU7IH5h4PdgEfzO) | [Ultrasounds](https://open.spotify.com/artist/2B5NIVHxzNI47SrkFBARnN) | [The Whale Below](https://open.spotify.com/album/0sxG8jeqLoyCZ3mHYaCHuw) | 3:11 | 2024-01-22 | 2024-08-10 |
 | [Tone of Whales](https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Tone of Whales](https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc) | 2:12 | 2022-07-08 |  |
-| [Under The Sea \(Whales\)](https://open.spotify.com/track/5ppHJrFzKI9JzLwjyIdPwF) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Sea](https://open.spotify.com/album/3BLwO4dp26cZAqEYPmqeUj) | 3:16 | 2024-01-22 |  |
+| [Under The Sea \(Whales\)](https://open.spotify.com/track/5ppHJrFzKI9JzLwjyIdPwF) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Sea](https://open.spotify.com/album/3BLwO4dp26cZAqEYPmqeUj) | 3:16 | 2024-01-22 | 2024-12-16 |
 | [Underwater Orchestra](https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe) | [The Marine Mammals](https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ) | [Underwater Orchestra](https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD) | 2:18 | 2023-06-20 |  |
 | [Wandering Whales](https://open.spotify.com/track/0Ng5p0qxoxb3y9WBZsAuTM) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 3:12 | 2022-07-08 |  |
 | [Whale Ambience](https://open.spotify.com/track/5SxLUl5mYk8MYdH71x9Bx1) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [Whale Sounds](https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk) | 2:42 | 2022-07-08 |  |

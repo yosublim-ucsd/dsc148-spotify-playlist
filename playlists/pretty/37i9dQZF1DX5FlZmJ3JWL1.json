@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 771337,
+  "num_followers": 771340,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -351,30 +351,6 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -391,6 +367,26 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -415,22 +411,26 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 155070,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
+        "name": "Poker Face",
+        "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        },
+        {
+          "name": "Joe Kox",
+          "url": "https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G"
+        }
+      ],
+      "duration_ms": 157804,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/10aoLyfcDY7b9zSRogaSLa"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/5Y8mnPgyb9hOJxY1M0OJdx"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "Poker Face",
-        "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        },
-        {
-          "name": "Joe Kox",
-          "url": "https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G"
-        }
-      ],
-      "duration_ms": 157804,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "Don't You Cry",
-        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 246758,
-      "name": "Don't You Cry",
-      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 151858,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
         "name": "BASS DOWN LOW",
         "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
       },
@@ -983,6 +963,42 @@
       "duration_ms": 166124,
       "name": "BASS DOWN LOW",
       "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "PHANTOMA",
+          "url": "https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2024-12-13 17:09:52",
@@ -1011,6 +1027,26 @@
     {
       "added_at": "2024-12-13 17:09:52",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "duration_ms": 151858,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
+    },
+    {
+      "added_at": "2024-12-13 17:09:52",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -1031,42 +1067,6 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
-    },
-    {
-      "added_at": "2024-12-13 17:09:52",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "PHANTOMA",
-          "url": "https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     }
   ],
   "unique_name": "Fit Beats ",

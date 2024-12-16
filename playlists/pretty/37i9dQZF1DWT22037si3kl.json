@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145571,
+  "num_followers": 145569,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -267,34 +267,6 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -319,6 +291,34 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -451,26 +451,26 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
-        "name": "DIAS ANTES DO CAOS",
-        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+        "name": "Mixtape Supernova Vol.1",
+        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
         },
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
         }
       ],
-      "duration_ms": 124651,
-      "name": "GLOCK DE COR",
-      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
+      "duration_ms": 162634,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -491,6 +491,30 @@
       "duration_ms": 200757,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 124651,
+      "name": "GLOCK DE COR",
+      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -539,30 +563,6 @@
       "duration_ms": 184277,
       "name": "cora\u00e7\u00e3o gelado",
       "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
-        "name": "Mixtape Supernova Vol.1",
-        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
-      },
-      "artists": [
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        }
-      ],
-      "duration_ms": 162634,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -895,6 +895,62 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
+        "name": "MAGIC SHOW (DELUXE)",
+        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 166449,
+      "name": "C.E.O'S (B\u00d4NUS TRACK)",
+      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "N\u00e9 Segredo",
+      "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -931,34 +987,6 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
-        "name": "MAGIC SHOW (DELUXE)",
-        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 166449,
-      "name": "C.E.O'S (B\u00d4NUS TRACK)",
-      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -987,34 +1015,6 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "N\u00e9 Segredo",
-      "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1035,6 +1035,30 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -1063,30 +1087,6 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
-        "name": "Diesel Dior",
-        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Diesel Dior",
-      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-12-13 16:54:19",

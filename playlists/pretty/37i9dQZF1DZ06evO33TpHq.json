@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 50019,
+  "num_followers": 50033,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAD7hL1zy6mdHuHjzZN6tDvm",
+  "snapshot_id": "Z1zKgAAAAAD1mh5Ua7QONeFuO79nhlRB",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Then Christ Came (feat. Phil Wickham)",
+        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
       "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+      "duration_ms": 235921,
+      "name": "Then Christ Came (feat. Phil Wickham)",
+      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then Christ Came (feat. Phil Wickham)",
-        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 235921,
-      "name": "Then Christ Came (feat. Phil Wickham)",
-      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 258946,
       "name": "Isn't He Good",
       "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
     },
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phil Wickham",
-        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 298026,
-      "name": "Divine Romance",
-      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+      "duration_ms": 287533,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
+        "name": "Phil Wickham",
+        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 287533,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+      "duration_ms": 298026,
+      "name": "Divine Romance",
+      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 302923,
+  "num_followers": 302953,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -235,34 +235,38 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 258733,
-      "name": "Coward Of The County",
-      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -287,18 +291,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -383,6 +387,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "Coward Of The County",
+      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -399,38 +419,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Summertime Dream",
+        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 389280,
+      "name": "The Wreck of the Edmund Fitzgerald",
+      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "Country Greats",
         "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 171761,
       "name": "Wasted Days And Wasted Nights",
       "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "By The Time I Get To Phoenix (Remastered)",
         "url": "https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 164200,
       "name": "By The Time I Get To Phoenix - Remastered 2001",
       "url": "https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "Honky Tonk Girl: The Loretta Lynn Collection",
         "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -915,22 +931,6 @@
       "duration_ms": 169266,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
+      "duration_ms": 179586,
+      "name": "Southern Nights",
+      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Southern Nights",
-      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 144733,
       "name": "This Time",
       "url": "https://open.spotify.com/track/03T4H6czLK426qcW870hBZ"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "Oak Ridge Boys Greatest Hits",
+        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
     }
   ],
   "unique_name": "70s Country",

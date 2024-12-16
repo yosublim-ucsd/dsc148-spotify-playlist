@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Shabir Sulthan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925 likes - 114 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,923 likes - 114 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

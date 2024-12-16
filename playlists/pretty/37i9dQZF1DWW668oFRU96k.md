@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,415 likes - 93 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,430 likes - 93 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 24 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 |
 | 25 | [To The Finish Line \- From "Game Of Life"](https://open.spotify.com/track/3AoZ7DKk42WePEvS62khAX) | [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn), [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [To The Finish Line \(From "Game Of Life"\)](https://open.spotify.com/album/1oa5aoAZ0WFt1lKlzDizce) | 2:38 |
 | 26 | [Sanba Yo Pran Pale \- Ankhoï Remix](https://open.spotify.com/track/6kvfpr9hVnv3MrZoS3ctbH) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Anjunadeep The Remixes 2024](https://open.spotify.com/album/1HXTSBQlkAghjQTWZxIPgH) | 3:59 |
-| 27 | [Together \(feat\. LVQ\)](https://open.spotify.com/track/4dt7hqN8VhCUd0Jsum6fX6) | [NOBILEE](https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [LVQ](https://open.spotify.com/artist/7JJn7Jvydkju8gkTgWGec8) | [Together \(feat\. LVQ\)](https://open.spotify.com/album/780aiWcCYP5LMUF3MTo93i) | 2:30 |
+| 27 | [Together \(feat\. LVQ\)](https://open.spotify.com/track/4dt7hqN8VhCUd0Jsum6fX6) | [NOBILEE](https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [LVQ](https://open.spotify.com/artist/0jslgkj7jUVFu5am1648Vo) | [Together \(feat\. LVQ\)](https://open.spotify.com/album/780aiWcCYP5LMUF3MTo93i) | 2:30 |
 | 28 | [nightfall](https://open.spotify.com/track/7oXg3Q2oK9qNT1RAfKuwwL) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [nightfall](https://open.spotify.com/album/2fPJXp4uhHBYXwZWvm8KYc) | 4:01 |
 | 29 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
 | 30 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |

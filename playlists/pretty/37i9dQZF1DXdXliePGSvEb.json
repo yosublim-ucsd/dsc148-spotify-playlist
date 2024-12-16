@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 65765,
+  "num_followers": 65927,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Sweet Devotion",
-        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Sweet Devotion - Edit",
-      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "LOYAL",
         "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
       },
@@ -679,6 +659,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Sweet Devotion - Edit",
+      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "system",
         "url": "https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9"
       },
@@ -691,6 +691,30 @@
       "duration_ms": 232239,
       "name": "system",
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "tell me (K edit)",
+        "url": "https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        }
+      ],
+      "duration_ms": 163532,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -727,30 +751,6 @@
       "duration_ms": 204760,
       "name": "ok </3",
       "url": "https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "tell me (K edit)",
-        "url": "https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 163532,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex"
     },
     {
       "added_at": "2024-12-04 12:15:00",

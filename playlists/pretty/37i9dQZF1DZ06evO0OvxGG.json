@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6871,
+  "num_followers": 6868,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADXh8AFcF/VkSXVrCa0dahl",
+  "snapshot_id": "Z1zKgAAAAAAlXz14gF6ICsJokkOPAIdk",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+        "name": "B\u00d4NUS TRACK",
+        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
       },
       "artists": [
-        {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+      "duration_ms": 228000,
+      "name": "B\u00d4NUS TRACK",
+      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
     },
     {
       "added_at": null,
@@ -803,26 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00d4NUS TRACK",
-        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
       },
       "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "b o u t",
-          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
         }
       ],
-      "duration_ms": 228000,
-      "name": "B\u00d4NUS TRACK",
-      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 645226,
+  "num_followers": 645212,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -343,38 +343,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "You're Perfect",
-        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "You're Perfect",
-      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 198032,
       "name": "Higher Life",
       "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "You're Perfect",
+        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "You're Perfect",
+      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -415,6 +399,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
         "url": "https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 195476,
       "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
       "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -491,6 +475,38 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Talibhan",
         "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 183673,
       "name": "Talibhan",
       "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -623,6 +623,78 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Man With No Door",
+        "url": "https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/0VQCtoStmIbr3IS5lvDRiG"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Out Of This World",
+        "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Out Of This World",
+      "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "WiFi",
         "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
       },
@@ -659,22 +731,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO"
       },
@@ -687,62 +743,6 @@
       "duration_ms": 185000,
       "name": "History",
       "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Man With No Door",
-        "url": "https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/0VQCtoStmIbr3IS5lvDRiG"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Out Of This World",
-        "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Out Of This World",
-      "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Born Fighter",
-        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
-      },
-      "artists": [
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 208928,
-      "name": "Born Fighter",
-      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Likkle Miss",
         "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
@@ -827,6 +811,26 @@
       "duration_ms": 134452,
       "name": "Likkle Miss",
       "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -871,22 +875,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+        "name": "Born Fighter",
+        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
         }
       ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+      "duration_ms": 208928,
+      "name": "Born Fighter",
+      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
     },
     {
       "added_at": "2024-07-16 11:23:58",

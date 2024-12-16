@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,501 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,507 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 29 | [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 |
 | 30 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
 | 31 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
-| 32 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
-| 33 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
+| 32 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
+| 33 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
 | 34 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
 | 35 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:15 |
 | 36 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 50 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 | 51 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
 
-Snapshot ID: `Z1t5AAAAAABKaNJD7/TbVb8tdneVpml2`
+Snapshot ID: `Z1zKgAAAAABdFBT7cSwjOp813O1tWST5`

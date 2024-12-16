@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 141433,
+  "num_followers": 141449,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "Nas Chagas",
-        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 256390,
-      "name": "Nas Chagas",
-      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Nas Chagas",
+        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 256390,
+      "name": "Nas Chagas",
+      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -319,26 +319,6 @@
       "duration_ms": 136083,
       "name": "O Perfeito Mundo Imperfeito",
       "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -379,6 +359,26 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
@@ -391,6 +391,38 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
+      },
+      "artists": [
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 197936,
+      "name": "Na Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -435,22 +467,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 4)",
         "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 397750,
       "name": "H\u03a3R\u039eGE",
       "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
-      },
-      "artists": [
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 197936,
-      "name": "Na Contram\u00e3o",
-      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "For\u00e7a",
-        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 284693,
       "name": "Na Corte do Egito - Ao Vivo",
       "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "Cantem os Anjos",
         "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
@@ -875,6 +859,38 @@
       "duration_ms": 309425,
       "name": "Nova criatura (AO VIVO)",
       "url": "https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Pr\u00f3digo",
+        "url": "https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 234198,
+      "name": "Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -967,38 +983,6 @@
     {
       "added_at": "2024-12-13 16:44:16",
       "album": {
-        "name": "Pr\u00f3digo",
-        "url": "https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 234198,
-      "name": "Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
-        "name": "Grito de Katsbarnea",
-        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
-      },
-      "artists": [
-        {
-          "name": "Katsbarnea",
-          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Grito de Katsbarnea",
-      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 240805,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Ele \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9 Music",
+          "url": "https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL"
+        }
+      ],
+      "duration_ms": 461500,
+      "name": "Ele \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -1031,22 +1031,6 @@
       "duration_ms": 290655,
       "name": "All Your Days",
       "url": "https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K"
-    },
-    {
-      "added_at": "2024-12-13 16:44:16",
-      "album": {
-        "name": "Ele \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9 Music",
-          "url": "https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL"
-        }
-      ],
-      "duration_ms": 461500,
-      "name": "Ele \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm"
     },
     {
       "added_at": "2024-12-13 16:44:16",
@@ -1099,6 +1083,22 @@
       "duration_ms": 562285,
       "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37"
+    },
+    {
+      "added_at": "2024-12-13 16:44:16",
+      "album": {
+        "name": "Grito de Katsbarnea",
+        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
+      },
+      "artists": [
+        {
+          "name": "Katsbarnea",
+          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Grito de Katsbarnea",
+      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
     },
     {
       "added_at": "2024-12-13 16:44:16",

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Abby Powledge",
-  "num_followers": 81234,
+  "num_followers": 81244,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "crooked the road.",
-        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 175609,
-      "name": "crooked the road.",
-      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "crooked the road.",
+        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 175609,
+      "name": "crooked the road.",
+      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -579,22 +579,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+        "name": "Never Better",
+        "url": "https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You",
+      "url": "https://open.spotify.com/track/6VnosvUghW97WXBPTWHDet"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Never Better",
-        "url": "https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct"
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Anyways, I Love You",
-      "url": "https://open.spotify.com/track/6VnosvUghW97WXBPTWHDet"
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Seed of a Seed",
-        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 164366,
-      "name": "Seed of a Seed",
-      "url": "https://open.spotify.com/track/0QQJqEdKs0jMm0ASyChDKn"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Peace of Mind (Morning)",
         "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 164366,
+      "name": "Seed of a Seed",
+      "url": "https://open.spotify.com/track/0QQJqEdKs0jMm0ASyChDKn"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
@@ -1035,6 +1035,38 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "And They Called Her California",
+      "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1071,38 +1103,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "And They Called Her California",
-      "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley",
       "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1155,26 +1171,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Fighting For (Hailey Whitters Version)",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 249523,
-      "name": "Fighting For - (Hailey Whitters Version)",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Certainty",
         "url": "https://open.spotify.com/album/6QXE65FTcJ6DnuitqQXJhd"
       },
@@ -1187,22 +1183,6 @@
       "duration_ms": 192200,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/32pBzQg0BYuLZnAVTDcmeW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Fighting For (Hailey Whitters Version)",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 154340,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

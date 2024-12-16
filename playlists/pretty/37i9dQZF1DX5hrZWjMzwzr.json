@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10071,
+  "num_followers": 10066,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,42 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Czarny \u015al\u0105sk",
+        "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
+      },
+      "artists": [
+        {
+          "name": "Kaliber 44",
+          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
+        },
+        {
+          "name": "Grubson",
+          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
+        },
+        {
+          "name": "Fokus",
+          "url": "https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck"
+        },
+        {
+          "name": "Rahim",
+          "url": "https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY"
+        },
+        {
+          "name": "Abradab",
+          "url": "https://open.spotify.com/artist/0wip5D37aCfjuD39Pmbp1q"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+        }
+      ],
+      "duration_ms": 278636,
+      "name": "Czarny \u015al\u0105sk",
+      "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "ZERO SNU",
         "url": "https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG"
       },
@@ -831,42 +867,6 @@
       "duration_ms": 195555,
       "name": "ZERO SNU",
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Czarny \u015al\u0105sk",
-        "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
-      },
-      "artists": [
-        {
-          "name": "Kaliber 44",
-          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
-        },
-        {
-          "name": "Grubson",
-          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
-        },
-        {
-          "name": "Fokus",
-          "url": "https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck"
-        },
-        {
-          "name": "Rahim",
-          "url": "https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY"
-        },
-        {
-          "name": "Abradab",
-          "url": "https://open.spotify.com/artist/0wip5D37aCfjuD39Pmbp1q"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
-        }
-      ],
-      "duration_ms": 278636,
-      "name": "Czarny \u015al\u0105sk",
-      "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Park (DJ Eprom Version)",
-        "url": "https://open.spotify.com/album/1E8RMvtqQeteUrVyzPgSAU"
-      },
-      "artists": [
-        {
-          "name": "Wzg\u00f3rze Ya-Pa 3",
-          "url": "https://open.spotify.com/artist/6Y7PAikeXzdbuEPjRACgX1"
-        },
-        {
-          "name": "Borixon",
-          "url": "https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
-        }
-      ],
-      "duration_ms": 246816,
-      "name": "Park - DJ Eprom Version",
-      "url": "https://open.spotify.com/track/3UOrC4xBfgivme5fXh7PFN"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Uwolni\u0107 Bonusa",
         "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
       },
@@ -1379,22 +1355,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "TEN HIP HOP",
-        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
+        "name": "Park (DJ Eprom Version)",
+        "url": "https://open.spotify.com/album/1E8RMvtqQeteUrVyzPgSAU"
       },
       "artists": [
         {
-          "name": "TEDE",
-          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+          "name": "Wzg\u00f3rze Ya-Pa 3",
+          "url": "https://open.spotify.com/artist/6Y7PAikeXzdbuEPjRACgX1"
         },
         {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+          "name": "Borixon",
+          "url": "https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
         }
       ],
-      "duration_ms": 165966,
-      "name": "TEN HIP HOP",
-      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
+      "duration_ms": 246816,
+      "name": "Park - DJ Eprom Version",
+      "url": "https://open.spotify.com/track/3UOrC4xBfgivme5fXh7PFN"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "TEN HIP HOP",
+        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
+      },
+      "artists": [
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        }
+      ],
+      "duration_ms": 165966,
+      "name": "TEN HIP HOP",
+      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "8' Bars",
         "url": "https://open.spotify.com/album/2viCnhdrN39rYk60PiXWC0"
       },
@@ -1435,30 +1435,6 @@
       "duration_ms": 521505,
       "name": "8' Bars",
       "url": "https://open.spotify.com/track/2hOm4YtBNcaXeZDXHJ9cF4"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "NIE MA CI\u0118",
-        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "NIE MA CI\u0118",
-      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1483,6 +1459,30 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "NIE MA CI\u0118",
+        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "NIE MA CI\u0118",
+      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
     },
     {
       "added_at": "2024-02-27 08:21:33",

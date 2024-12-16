@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 39 min
+83 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,10 @@
 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 | 2024-09-22 |  |
 | [Se Nos Va](https://open.spotify.com/track/2Xmry15rjewRCLWCCC2711) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:20 | 2024-11-17 | 2024-11-29 |
 | [Sin Ti Estoy Bien](https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89) | 3:41 | 2023-12-30 |  |
-| [Sólo Tu](https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 3:44 | 2023-12-30 |  |
-| [Te Hice Llorar](https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:34 | 2023-12-30 |  |
+| [Sólo Tu](https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 3:44 | 2023-12-30 | 2024-12-16 |
+| [Sólo Tú](https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:44 | 2024-12-16 |  |
+| [Te Hice Llorar](https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:34 | 2023-12-30 | 2024-12-16 |
+| [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 | 2024-12-16 |  |
 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 | 2023-12-30 |  |
 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 | 2023-12-30 |  |
 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 | 2024-03-16 | 2024-09-01 |

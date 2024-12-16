@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 22670,
+  "num_followers": 22693,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACHmQKwgp6xPJDA3An9sX34",
+  "snapshot_id": "Z1zKgAAAAADKmRPL3kN4JQfntT0bhDZq",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almighty So 2",
-        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Grape Trees (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shiesty (feat. Kaliii & Sexyy Red)",
         "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 216541,
       "name": "Shiesty (feat. Kaliii & Sexyy Red)",
       "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Grape Trees (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FYM",
+        "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 160175,
+      "name": "FYM",
+      "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 184311,
       "name": "Ten (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FYM",
-        "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 160175,
-      "name": "FYM",
-      "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
     }
   ],
   "unique_name": "This Is Sexyy Red",

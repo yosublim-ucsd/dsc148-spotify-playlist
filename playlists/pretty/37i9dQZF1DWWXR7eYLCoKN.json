@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 154199,
+  "num_followers": 154256,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Adoniran Barbosa",
+        "url": "https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/2lWmqGC70SKMebW1HgPGkA"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Cartola (1976)",
         "url": "https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Adoniran Barbosa",
-        "url": "https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/2lWmqGC70SKMebW1HgPGkA"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 182160,
       "name": "Samba da B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -255,22 +239,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
-      },
-      "artists": [
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Alvorecer",
         "url": "https://open.spotify.com/album/0qUIkMMgwIfJGNazMU8Ux4"
       },
@@ -283,6 +251,22 @@
       "duration_ms": 222354,
       "name": "Conto De Areia",
       "url": "https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Vou Deixar Cair...",
         "url": "https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 188026,
       "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Alerta Geral",
-        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -487,26 +471,18 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Melhor Assim",
-        "url": "https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m"
+        "name": "Alerta Geral",
+        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
       },
       "artists": [
         {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Pedro Baby",
-          "url": "https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Beijo Sem - Ao Vivo",
-      "url": "https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG"
+      "duration_ms": 245160,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -567,6 +543,30 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Melhor Assim",
+        "url": "https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m"
+      },
+      "artists": [
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Pedro Baby",
+          "url": "https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Beijo Sem - Ao Vivo",
+      "url": "https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "P\u00e9 do Meu Samba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Meu Coco",
         "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 212014,
       "name": "Sem Samba N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "P\u00e9 do Meu Samba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -803,6 +787,38 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Sambas & Bossas",
+        "url": "https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Alegria / o Sol Nascer\u00e1",
+      "url": "https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "De Umbigo a Umbigo",
         "url": "https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 157689,
       "name": "Hist\u00f3rias Pra Ninar Gente Grande",
       "url": "https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Sambas & Bossas",
-        "url": "https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Alegria / o Sol Nascer\u00e1",
-      "url": "https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Fazendo As Pazes Com o Swing",
-        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
-      },
-      "artists": [
-        {
-          "name": "Orquestra Imperial",
-          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Pode Ser",
-      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
         "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 248746,
       "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
       "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Fazendo As Pazes Com o Swing",
+        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
+      },
+      "artists": [
+        {
+          "name": "Orquestra Imperial",
+          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Pode Ser",
+      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -967,22 +967,6 @@
       "duration_ms": 145823,
       "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
       "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Mercado das Flores",
         "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
       },
@@ -1107,70 +1107,6 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "A Chave do Sucesso",
-        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
-      },
-      "artists": [
-        {
-          "name": "Orlandivo",
-          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Jura",
-      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "E o Mundo N\u00e3o Se Acabou",
-        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
-      },
-      "artists": [
-        {
-          "name": "Mimi Wankenne",
-          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
-        }
-      ],
-      "duration_ms": 124880,
-      "name": "E o Mundo N\u00e3o Se Acabou",
-      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
-        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "Vaso Quebrado",
-      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1215,6 +1151,70 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "A Chave do Sucesso",
+        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
+      },
+      "artists": [
+        {
+          "name": "Orlandivo",
+          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "E o Mundo N\u00e3o Se Acabou",
+        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
+      },
+      "artists": [
+        {
+          "name": "Mimi Wankenne",
+          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
+        }
+      ],
+      "duration_ms": 124880,
+      "name": "E o Mundo N\u00e3o Se Acabou",
+      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
+        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "Vaso Quebrado",
+      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Macieira",
         "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 241254,
       "name": "Conselheiro Calado",
       "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 228720,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Atraco",
         "url": "https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Belo E Estranho Dia Pra Se Ter Alegria",
         "url": "https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 273653,
       "name": "Samba De Um Minuto",
       "url": "https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Elegante Amanhecer",
-      "url": "https://open.spotify.com/track/5fchvll1M0q0GWroKnCVDU"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/61W8s1ybEMeJEhmEnMkZwY"
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Espiral de Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/64bUoPrhXQYwSECqVRCLci"
+      "duration_ms": 220746,
+      "name": "Elegante Amanhecer",
+      "url": "https://open.spotify.com/track/5fchvll1M0q0GWroKnCVDU"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/61W8s1ybEMeJEhmEnMkZwY"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Espiral de Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/64bUoPrhXQYwSECqVRCLci"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Circulado Vivo",
         "url": "https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm"
       },
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Tudo Est\u00e1 Dito",
+        "url": "https://open.spotify.com/album/3KqqFaexe8B72XTQk7M7tS"
+      },
+      "artists": [
+        {
+          "name": "Bruno Capinan",
+          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 181683,
+      "name": "Sambolento",
+      "url": "https://open.spotify.com/track/0DiiTyGTFPoWMUfRVWyhEP"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Braseiro",
         "url": "https://open.spotify.com/album/68gOVD4JqF8KTtYF2SfZsr"
       },
@@ -1731,22 +1751,6 @@
       "duration_ms": 198160,
       "name": "Eu Sambo Mesmo",
       "url": "https://open.spotify.com/track/0klPaP1eBcBa8xiyJlFxyu"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Marisa Monte MM",
-        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Tudo Est\u00e1 Dito",
-        "url": "https://open.spotify.com/album/3KqqFaexe8B72XTQk7M7tS"
+        "name": "Marisa Monte MM",
+        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
       },
       "artists": [
         {
-          "name": "Bruno Capinan",
-          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 181683,
-      "name": "Sambolento",
-      "url": "https://open.spotify.com/track/0DiiTyGTFPoWMUfRVWyhEP"
+      "duration_ms": 250400,
+      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
     },
     {
       "added_at": "2024-11-22 03:01:00",

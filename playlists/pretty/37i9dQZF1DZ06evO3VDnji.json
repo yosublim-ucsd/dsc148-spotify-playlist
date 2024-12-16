@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 68536,
+  "num_followers": 68568,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADwhddSMHlq3aqSQDyWO0im",
+  "snapshot_id": "Z1zKgAAAAADlIB1g0tmj5tgb49DSoc0G",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Tormenta (feat. DannyLux)",
-        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 202479,
-      "name": "Mi Tormenta (feat. DannyLux)",
-      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+      "duration_ms": 279920,
+      "name": "Decir Adios (with DannyLux)",
+      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
     },
     {
       "added_at": null,
@@ -403,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 279920,
-      "name": "Decir Adios (with DannyLux)",
-      "url": "https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f"
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 226636,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": null,
@@ -612,15 +612,15 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+      "duration_ms": 192626,
+      "name": "La Perfecta",
+      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+      "duration_ms": 237000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
     },
     {
       "added_at": null,
@@ -680,9 +680,25 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 192626,
-      "name": "La Perfecta",
-      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Viaje de Amor",
+      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Viaje de Amor",
-      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras no Vuelves",
         "url": "https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 197786,
       "name": "Mientras no Vuelves",
       "url": "https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 200955,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 113446,
+  "num_followers": 113465,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAmIKS9vOAoT/ertsuGcYSY",
+  "snapshot_id": "Z1zKgAAAAAAWWy9Slh8iAMziceXrjAeJ",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Cara De Chango",
-      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203866,
       "name": "Ska Voovee Boobie Baby",
       "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "Cara De Chango",
+      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
     },
     {
       "added_at": null,
@@ -699,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Desatinos",
-      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Soledad",
         "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
       },
@@ -751,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 212000,
       "name": "No Puedo Ser Tu Amigo",
       "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Natalia Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
-      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 172771,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Natalia Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
+      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
     },
     {
       "added_at": null,

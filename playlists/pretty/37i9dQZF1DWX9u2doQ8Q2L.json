@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 389425,
+  "num_followers": 389444,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
+        "name": "Feelin\u2019 Go(o)d",
+        "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 157200,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
+      "duration_ms": 259471,
+      "name": "Feelin\u2019 Go(o)d",
+      "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "Feelin\u2019 Go(o)d",
-        "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 259471,
-      "name": "Feelin\u2019 Go(o)d",
-      "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -347,38 +347,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO"
-      },
-      "artists": [
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
-        }
-      ],
-      "duration_ms": 157660,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -395,18 +363,18 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
         }
       ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+      "duration_ms": 157660,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -459,6 +427,38 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
         "name": "Pick you up",
         "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 218839,
       "name": "Pick you up",
       "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "MASCARA",
+        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -495,38 +511,6 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "MASCARA",
-        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "Workin' Hard",
-        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 239070,
-      "name": "Workin' Hard",
-      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "Workin' Hard",
+        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 239070,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "lazy cat",
+      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
         "name": "\u6bce\u65e5 - Every Day",
         "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 182140,
       "name": "\u6bce\u65e5 - Every Day",
       "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Fly High",
-      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "Under Blue",
-        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 155626,
-      "name": "lazy cat",
-      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u5305\u5e2f",
         "url": "https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197904,
       "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
       "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
         "url": "https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 152288,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
       "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "24/7 YOU...",
-        "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 161366,
-      "name": "24/7 YOU...",
-      "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195657,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 243177,
+      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1351,18 +1351,38 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+        "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 243177,
-      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
+      "duration_ms": 236626,
+      "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
+      "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "24/7 YOU...",
+        "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 161366,
+      "name": "24/7 YOU...",
+      "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1403,46 +1423,6 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
-        "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
-        "url": "https://open.spotify.com/album/2cPmSTET4CPxpxtNeTFYjb"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 210625,
-      "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
-      "url": "https://open.spotify.com/track/7pE0DPxq4Q0pQqGzU4qyUj"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
-      "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
         "name": "JUNK TAPE",
         "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 191194,
       "name": "Change",
       "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
+        "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
+        "url": "https://open.spotify.com/album/2cPmSTET4CPxpxtNeTFYjb"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 210625,
+      "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
+      "url": "https://open.spotify.com/track/7pE0DPxq4Q0pQqGzU4qyUj"
     },
     {
       "added_at": "2024-12-10 22:05:07",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-12-10 22:05:07",
       "album": {
+        "name": "KJ SEASON2",
+        "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "added_at": "2024-12-10 22:05:07",
+      "album": {
         "name": "GOLDENWEEK",
         "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
-    },
-    {
-      "added_at": "2024-12-10 22:05:07",
-      "album": {
-        "name": "\u751f\u547d\u4f53",
-        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "\u751f\u547d\u4f53",
-      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
     }
   ],
   "unique_name": "Tokyo Rising",

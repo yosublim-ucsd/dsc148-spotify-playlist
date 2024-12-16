@@ -4,7 +4,7 @@
 
 > 
 
-2,031 songs - 4 day 13 hr 0 min
+2,032 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1323,6 +1323,7 @@
 | [Out of Time](https://open.spotify.com/track/174NyAwu4bUBZs74OjRCSB) | [Harley Reid](https://open.spotify.com/artist/0TqMevMNn4lKNsqkqjCMB2), [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Out of Time](https://open.spotify.com/album/2bVtVkN6zFthtbfTssS3jZ) | 2:03 | 2021-08-05 |  |
 | [OUTSIDE](https://open.spotify.com/track/193WM8SfGp3y5ZQjD0qSOD) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [BEST HOUSE ON A BAD BLOCK](https://open.spotify.com/album/20S2pxu7617ZzH7lJA4kKL) | 2:32 | 2021-08-05 |  |
 | [Outside](https://open.spotify.com/track/0wv8dVb5uaLUdVrTSMbEpw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Time 'n' Place](https://open.spotify.com/album/5Az98PddCKwVoorl9pK6U7) | 1:51 | 2022-04-05 |  |
+| [Outside \(feat\. Eladio Carrion\)](https://open.spotify.com/track/3Q8VqnLSMUU8nD0wZ1KQsT) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside \(feat\. Eladio Carrion\)](https://open.spotify.com/album/0ubXd0RwDuOGGvezK1izo5) | 3:40 | 2024-12-15 |  |
 | [Outside with the Cuties](https://open.spotify.com/track/6L5ks2ivQVCLnI4JmIr9NT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/7mTf6AXzDt1q7Iy4Vig1U5) | 2:34 | 2021-08-29 |  |
 | [Over the Moon](https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:02 | 2021-08-05 |  |
 | [Oxygen](https://open.spotify.com/track/08TvXzt1TIVVQyIoQphndN) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [NoRedeemingQualities](https://open.spotify.com/album/1hlFht5cBS8MEeLvNGTN1W) | 2:22 | 2021-08-05 |  |

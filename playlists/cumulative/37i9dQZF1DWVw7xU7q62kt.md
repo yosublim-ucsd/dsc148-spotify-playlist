@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-350 songs - 17 hr 7 min
+351 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Doomed](https://open.spotify.com/track/5hSdWD0d2yWdLe8LHh7S60) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:32 | 2024-03-08 | 2024-04-19 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 |  |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 | 2024-09-09 |
-| [dust to dust](https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [dust to dust](https://open.spotify.com/album/676MUluvyjocKsfJNeD47g) | 1:56 | 2024-11-08 |  |
+| [dust to dust](https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [dust to dust](https://open.spotify.com/album/676MUluvyjocKsfJNeD47g) | 1:56 | 2024-11-08 | 2024-12-16 |
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2024-11-13 |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 | 2024-12-05 |
@@ -190,6 +190,7 @@
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 |  |
+| [Lucid Dreams](https://open.spotify.com/track/3YIxQvOdOYYts92afIZpzz) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Lucid Dreams](https://open.spotify.com/album/5NApnQmYbhyref8q5QNbpd) | 3:23 | 2024-12-13 |  |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
 | [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 | 2024-12-07 |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 | 2024-11-21 |

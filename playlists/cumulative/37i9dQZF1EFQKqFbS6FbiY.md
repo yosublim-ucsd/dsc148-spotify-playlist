@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-572 songs - 1 day 3 hr 50 min
+573 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Eu Comparo Você](https://open.spotify.com/track/5kWlYZyrH611Ex6OrWqpy2) | [Júnior Vieira](https://open.spotify.com/artist/0ByeRoxBiZivJIVxShbhGV) | [Eu Comparo Você](https://open.spotify.com/album/3Lq1ppKfruzowCRyQUTGBM) | 3:10 | 2023-12-30 |  |
 | [Eu Disfarço Mal Demais](https://open.spotify.com/track/5EUW6uY32OpXFLdLK65BWT) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Eu & Vocês](https://open.spotify.com/album/1f8YCAl0luu06wsqgr9cns) | 3:13 | 2023-12-30 |  |
 | [Eu Duvido \- Ao Vivo em Uberlândia](https://open.spotify.com/track/3G9bSmFAePJS9yveZYclWZ) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 2](https://open.spotify.com/album/54qHOtoErxSiW0DTEzqBj8) | 3:14 | 2023-12-30 |  |
-| [Eu Gosto Assim](https://open.spotify.com/track/4IRa5jZVljJ39Xt9McdWaL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:42 | 2023-12-30 |  |
+| [Eu Gosto Assim](https://open.spotify.com/track/4IRa5jZVljJ39Xt9McdWaL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:42 | 2023-12-30 | 2024-12-16 |
+| [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/1eSibsfoZQIcmofjcp0lVk) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [PPA Acústico Sem Limites \(Ao Vivo\)](https://open.spotify.com/album/0BfrOZhkQydfpMo4wosYPN) | 2:40 | 2024-12-15 |  |
 | [Eu Hein](https://open.spotify.com/track/7qbHkxuKbCvlcj4uCCWwqR) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Pra Guardar No Coração](https://open.spotify.com/album/296ZW7AZ2UizalJHQixX6V) | 2:52 | 2024-09-25 |  |
 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-12-30 |  |
 | [Eu Pirei \(Ao Vivo\)](https://open.spotify.com/track/289LaMYVjTTbkY6ZCRFRfI) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:33 | 2023-12-30 |  |

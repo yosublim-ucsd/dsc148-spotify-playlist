@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 6237,
+  "num_followers": 6257,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -383,58 +363,6 @@
       "duration_ms": 243957,
       "name": "Las Jordan",
       "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "GPS (feat. French Montana)",
-        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "GPS (feat. French Montana)",
-      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Negro Cursi",
-        "url": "https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4"
-      },
-      "artists": [
-        {
-          "name": "El Doctor",
-          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Negro Cursi",
-      "url": "https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "BYE ME FUI",
-      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -455,6 +383,62 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Negro Cursi",
+        "url": "https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Negro Cursi",
+      "url": "https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "GPS (feat. French Montana)",
+        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "GPS (feat. French Montana)",
+      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -535,8 +519,8 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Solo de Mi",
-        "url": "https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX"
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 197967,
-      "name": "Solo de Mi",
-      "url": "https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx"
+      "duration_ms": 178000,
+      "name": "BYE ME FUI",
+      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -623,6 +607,38 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Solo de Mi",
+        "url": "https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 197967,
+      "name": "Solo de Mi",
+      "url": "https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -703,42 +703,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "C\u00f3mo D\u00edmelo",
-      "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -755,18 +719,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "BUTAKAS EP",
-        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 184701,
-      "name": "LADO A LADO",
-      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -787,6 +751,22 @@
       "duration_ms": 211964,
       "name": "A tus Pies",
       "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "BUTAKAS EP",
+        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "LADO A LADO",
+      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -815,18 +795,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
       "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
         {
           "name": "Cazzu",
           "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
+      "duration_ms": 200000,
+      "name": "C\u00f3mo D\u00edmelo",
+      "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "KUN",
-        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Me Atrapa",
-      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -907,6 +891,22 @@
       "duration_ms": 202083,
       "name": "Se Termin\u00f3 (feat. Kodigo)",
       "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Me Atrapa",
+      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Parte de Mi (feat. Lit Killah)",
         "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
       },
@@ -1039,22 +1059,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         },
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1091,26 +1111,6 @@
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Cama Vacia",
         "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
       },
@@ -1351,18 +1367,46 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+        "name": "Ke Sientes",
+        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
       },
       "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
         {
           "name": "Seven Kayne",
           "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+      "duration_ms": 207146,
+      "name": "Ke Sientes",
+      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Calle 2 (Remix)",
+        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Calle 2 - Remix",
+      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1383,26 +1427,6 @@
       "duration_ms": 269589,
       "name": "Cubierto de Ti",
       "url": "https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Ke Sientes",
-        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Ke Sientes",
-      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1431,30 +1455,6 @@
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Calle 2 (Remix)",
-        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Calle 2 - Remix",
-      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CON OTRA",
-        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 181500,
-      "name": "CON OTRA",
-      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+      "duration_ms": 118746,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1531,18 +1531,34 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
+        "name": "CON OTRA",
+        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 118746,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+      "duration_ms": 181500,
+      "name": "CON OTRA",
+      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 209513,
       "name": "HISTORIA",
       "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "No Puedo Fingir",
-        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 164352,
-      "name": "No Puedo Fingir",
-      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Como Nadie",
-        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
-      },
-      "artists": [
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 136373,
-      "name": "Como Nadie",
-      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 190084,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6R3iF0udMuVWpA7RECJPYd"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 136373,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
     },
     {
       "added_at": "2024-07-26 04:59:00",

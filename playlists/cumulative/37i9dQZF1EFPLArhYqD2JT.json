@@ -2416,10 +2416,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 197280,
       "name": "I Can't Remember",
       "url": "https://open.spotify.com/track/0KdlDVIvKgT5cFLE58IVLM"
+    },
+    {
+      "album": {
+        "name": "I Can't Remember",
+        "url": "https://open.spotify.com/album/5xRUU9ts6jRnHk42y5q5F5"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee and His Connecticut Yankees",
+          "url": "https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "I Can't Remember",
+      "url": "https://open.spotify.com/track/3kJZbWkmO6T6x04M7kHsh7"
     },
     {
       "album": {

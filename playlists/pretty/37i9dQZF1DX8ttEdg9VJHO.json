@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354577,
+  "num_followers": 354589,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
-      },
-      "artists": [
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
+        "name": "Love U Again",
+        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Love U Again",
+      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
         "name": "Ain't Just a Game",
         "url": "https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
-        "name": "Love U Again",
-        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Love U Again",
-      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
     },
     {
       "added_at": "2024-12-11 08:10:11",

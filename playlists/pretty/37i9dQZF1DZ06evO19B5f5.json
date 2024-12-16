@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABa7GhxuI6tvY7Oky9STgmS",
+  "snapshot_id": "Z1zKgAAAAABPA9y0g6zPJU08XRj8V3HZ",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Tobacco In My Sheets",
-      "url": "https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World (Piano Versions)",
         "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 171438,
       "name": "Latest Ghost - Piano Version",
       "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Tobacco In My Sheets",
+      "url": "https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 356330,
+  "num_followers": 356442,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Ego Slide",
         "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "DAY&NITE",
         "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Cactus Water",
-        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Cactus Water",
-      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Things You Didn't Know",
+      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Shaken To My Soul (feat. Ruti)",
         "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
       },
       "artists": [
         {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Things You Didn't Know",
-      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Happy Ending (A.G Remix)",
         "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Golden Hour, Vol. 1",
-        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Dr. Knockout",
-      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "SOLID (Adam Swim Remix)",
         "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 311578,
       "name": "SOLID - Adam Swim Remix",
       "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Golden Hour, Vol. 1",
+        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Dr. Knockout",
+      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1367,18 +1367,30 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "MY LOVER'S MIND",
-        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+        "name": "We Aight (feat. Mayer Hawthorne)",
+        "url": "https://open.spotify.com/album/7fRxTkxPZZh0j3O7ZXMGPs"
       },
       "artists": [
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
         }
       ],
-      "duration_ms": 203200,
-      "name": "MY LOVER'S MIND",
-      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
+      "duration_ms": 222786,
+      "name": "We Aight (feat. Mayer Hawthorne)",
+      "url": "https://open.spotify.com/track/2RlfQoH0bzkRvsHwytsLiW"
     }
   ],
   "unique_name": "Soultronic",

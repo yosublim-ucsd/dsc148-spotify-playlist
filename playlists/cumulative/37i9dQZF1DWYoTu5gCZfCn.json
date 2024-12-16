@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237629,
+      "name": "If Today Doesn't Do Me In",
+      "url": "https://open.spotify.com/track/1zpEaer4WQnovwP4OfOOE8"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -344,6 +362,28 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "album": {
+        "name": "Sunshine (Western AF Version)",
+        "url": "https://open.spotify.com/album/0XH1qOwndXzeKeZa4LN6vO"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        },
+        {
+          "name": "Western AF",
+          "url": "https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257579,
+      "name": "Sunshine - Western AF Version",
+      "url": "https://open.spotify.com/track/5V7g6Fr0cUDtmVKbVLHSOb"
     },
     {
       "album": {

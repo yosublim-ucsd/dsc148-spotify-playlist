@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 153933,
+  "num_followers": 153931,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Dancing With A Stranger (With Normani) [Acoustic]",
+        "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 187621,
+      "name": "Dancing With A Stranger (With Normani) - Acoustic",
+      "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "if we never met",
         "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 144426,
       "name": "if we never met",
       "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -443,42 +443,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Dancing With A Stranger (With Normani) [Acoustic]",
-        "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 187621,
-      "name": "Dancing With A Stranger (With Normani) - Acoustic",
-      "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Wild Enough",
-        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 186658,
-      "name": "Wild Enough",
-      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Love & War",
         "url": "https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 233213,
       "name": "Red",
       "url": "https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Wild Enough",
+        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 186658,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Be Real",
         "url": "https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Lukas Graham (Blue Album)",
         "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 236866,
       "name": "What Happened To Perfect",
       "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Make Me (Cry) [Acoustic]",
         "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Black Beatles (Acoustic)",
-        "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 211781,
-      "name": "Black Beatles - Acoustic",
-      "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "1975",
         "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Black Beatles (Acoustic)",
+        "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 211781,
+      "name": "Black Beatles - Acoustic",
+      "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Sorry Would Go A Long Way",
+        "url": "https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Sorry Would Go A Long Way",
+      "url": "https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 262413,
       "name": "When Will I See Your Face Again",
       "url": "https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Sorry Would Go A Long Way",
-        "url": "https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Sorry Would Go A Long Way",
-      "url": "https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Make Me Like You",
-        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Make Me Like You",
-      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Lying To Myself",
         "url": "https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 210473,
       "name": "Lying To Myself",
       "url": "https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Make Me Like You",
+        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Make Me Like You",
+      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
     }
   ],
   "unique_name": "ren hygge",

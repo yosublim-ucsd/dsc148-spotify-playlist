@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Laufey",
-  "num_followers": 70415,
+  "num_followers": 70416,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "HOMECOMING: THE LIVE ALBUM",
-        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 167347,
-      "name": "Crazy In Love - Homecoming Live",
-      "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "I Love You, I'm Sorry (Live From Vevo)",
         "url": "https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+      "duration_ms": 167347,
+      "name": "Crazy In Love - Homecoming Live",
+      "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -239,18 +223,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live 2012",
-        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 298333,
-      "name": "Viva La Vida - Live",
-      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -271,6 +255,22 @@
       "duration_ms": 213694,
       "name": "The Way - Live from London (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live 2012",
+        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Viva La Vida - Live",
+      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
       "added_at": "2024-11-25 23:19:58",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
     },
     {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Ego Talking (Live)",
@@ -367,18 +383,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+        "name": "Imagine Dragons Live in Vegas",
+        "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+      "duration_ms": 243923,
+      "name": "Bones - Live in Vegas",
+      "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -395,22 +411,6 @@
       "duration_ms": 295544,
       "name": "Honeymoon Avenue - Live from London",
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Imagine Dragons Live in Vegas",
-        "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 243923,
-      "name": "Bones - Live in Vegas",
-      "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -459,6 +459,38 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 213068,
+      "name": "god is a woman - live",
+      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -515,38 +547,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 213068,
-      "name": "god is a woman - live",
-      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "101 (Live)",
         "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 209306,
       "name": "Budapest - Live from Spotify Stockholm",
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -641,38 +657,6 @@
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 362216,
-      "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
-      "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Touching Toes (Live At Eventim Apollo)",
@@ -691,18 +675,34 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
-        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 191820,
-      "name": "Kill This Love - Live",
-      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
+      "duration_ms": 362216,
+      "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
+      "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
+        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191820,
+      "name": "Kill This Love - Live",
+      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 285930,
       "name": "I See Fire - Live and in Session",
       "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -817,20 +817,20 @@
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Nostalgia (Live from Los Angeles)",
-        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
+        "name": "The Confessions Tour (Live)",
+        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
       "artists": [
         {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 221013,
-      "name": "Garden Life (Live)",
-      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
+      "duration_ms": 590120,
+      "name": "Hung Up - Live",
+      "url": "https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
-      "added_at": "2024-10-18 19:54:54",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "The Confessions Tour (Live)",
-        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
+        "name": "Nostalgia (Live from Los Angeles)",
+        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
         }
       ],
-      "duration_ms": 590120,
-      "name": "Hung Up - Live",
-      "url": "https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf"
+      "duration_ms": 221013,
+      "name": "Garden Life (Live)",
+      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Live \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
+      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -947,6 +963,22 @@
       "duration_ms": 436026,
       "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
       "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "The Confessions Tour (Live)",
+        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -983,38 +1015,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "The Confessions Tour (Live)",
-        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Gloria (Special Edition)",
         "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1107,6 +1091,22 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 256740,
-      "name": "Treat You Better - Live",
-      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1363,6 +1347,22 @@
       "duration_ms": 223226,
       "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
       "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 256740,
+      "name": "Treat You Better - Live",
+      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 316192,
+      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
+      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1607,22 +1623,6 @@
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 316192,
-      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
-      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
     },
     {
       "added_at": "2024-10-18 19:54:54",

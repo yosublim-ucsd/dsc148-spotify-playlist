@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1043927,
+  "num_followers": 1044076,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAApWRJCyMhE1liUlMl77lsv",
+  "snapshot_id": "Z1zKgAAAAACoI7P37cVHPfI9UPrYcRtQ",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Si Te Vas No Hay Lio",
-      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 220320,
       "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 132426,
+      "name": "Si Te Vas No Hay Lio",
+      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Un Rancho A Otro",
-        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "De un Rancho a Otro",
-      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 182746,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Un Rancho A Otro",
+        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "De un Rancho a Otro",
+      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
     },
     {
       "added_at": null,

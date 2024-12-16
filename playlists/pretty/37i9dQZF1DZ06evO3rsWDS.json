@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5406,
+  "num_followers": 5409,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAuLOS9cwoQLFzamDlWl7Ph",
+  "snapshot_id": "Z1zKgAAAAAAvd0oSfL2Vn4CVD8X0aLdU",
   "tracks": [
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP"
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         }
       ],
-      "duration_ms": 197293,
-      "name": "La Que Est\u00e1 De Moda Soy Yo",
-      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
+      "duration_ms": 166613,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP"
     },
     {
       "added_at": null,

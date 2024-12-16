@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,730 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,782 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 37 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
 | 38 | [Popurrí Ranchero \- En Vivo](https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 8:28 |
 | 39 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
-| 40 | [En la Oscuridad](https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:55 |
-| 41 | [Aprendiste a Volar](https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:52 |
+| 40 | [Aprendiste a Volar](https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:52 |
+| 41 | [En la Oscuridad](https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:55 |
 | 42 | [Esta Noche](https://open.spotify.com/track/7xWUtjDA5NSBVpKKnz8ff4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 3:25 |
 | 43 | [No Me Amenaces](https://open.spotify.com/track/5GAnjZFN208ILOkdC3yKiT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Renacer Homenaje a Lucha Villa](https://open.spotify.com/album/7jBHBCemZ9lvUwNu7KCNGO) | 2:48 |
-| 44 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 |
-| 45 | [Siete Veces, Siete Más](https://open.spotify.com/track/51ZsxJ6EKQnPjs7HB4OHLL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:48 |
-| 46 | [La Araña](https://open.spotify.com/track/6d058SNQUhMHZ8wIqre8zH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:11 |
-| 47 | [No Sabes](https://open.spotify.com/track/0FGGnLhLnAAHuLTAG0ZowO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 3:51 |
-| 48 | [Como un Lunar](https://open.spotify.com/track/32sbfWgLxSchy5OpWh0Vz2) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Eternamente](https://open.spotify.com/album/7e0qqJoTrQoTjlpUU9VO64) | 2:51 |
-| 49 | [Te Llegará Mi Olvido](https://open.spotify.com/track/3EzSY1SAUoHc8mvLSAoAwM) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:21 |
+| 44 | [Siete Veces, Siete Más](https://open.spotify.com/track/51ZsxJ6EKQnPjs7HB4OHLL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:48 |
+| 45 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 |
+| 46 | [No Sabes](https://open.spotify.com/track/0FGGnLhLnAAHuLTAG0ZowO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 3:51 |
+| 47 | [La Araña](https://open.spotify.com/track/6d058SNQUhMHZ8wIqre8zH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:11 |
+| 48 | [Te Llegará Mi Olvido](https://open.spotify.com/track/3EzSY1SAUoHc8mvLSAoAwM) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:21 |
+| 49 | [Como un Lunar](https://open.spotify.com/track/32sbfWgLxSchy5OpWh0Vz2) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Eternamente](https://open.spotify.com/album/7e0qqJoTrQoTjlpUU9VO64) | 2:51 |
 | 50 | [Reconciliación](https://open.spotify.com/track/20RbGTXTv6bPLAg1YJslvK) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:14 |
 
-Snapshot ID: `Z1t5AAAAAACs9LMzj88HtL2tU2UzJH9d`
+Snapshot ID: `Z1zKgAAAAADrnSF6p/jZs1DKPVSeNInv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=4MqpeJYnQW\-z8qLrqcXPug">Scotts Maphuma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,302 likes - 65 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,619 likes - 65 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

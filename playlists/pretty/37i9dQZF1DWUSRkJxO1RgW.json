@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 294403,
+  "num_followers": 294431,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,38 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
+        "name": "Ey!",
+        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Polaroid De Locura Ordinaria",
+      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Atado a un Sentimiento",
+      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
         "name": "Nadie Sale Vivo de Aqu\u00ed",
         "url": "https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC"
       },
@@ -235,6 +267,22 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -247,22 +295,6 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Ey!",
-        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Polaroid De Locura Ordinaria",
-      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -303,54 +335,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Atado a un Sentimiento",
-      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Amor Descartable",
-      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Yo Te Avis\u00e9",
         "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 237866,
       "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
       "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -399,22 +367,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 282840,
-      "name": "Buscando un S\u00edmbolo de Paz",
-      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Ciudad De Pobres Corazones",
         "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
       },
@@ -431,22 +383,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Himno De Mi Corazon",
         "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
       },
@@ -459,6 +395,38 @@
       "duration_ms": 304746,
       "name": "Himno De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Amor Descartable",
+      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -495,18 +463,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 140346,
-      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
+      "duration_ms": 282840,
+      "name": "Buscando un S\u00edmbolo de Paz",
+      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -527,18 +495,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "20 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
       "artists": [
         {
-          "name": "Roque Narvaja (F)",
-          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Menta y lim\u00f3n",
-      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -559,6 +527,22 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
+        "name": "20 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+      },
+      "artists": [
+        {
+          "name": "Roque Narvaja (F)",
+          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Menta y lim\u00f3n",
+      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
         "name": "Tiempos Dificiles",
         "url": "https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+      "duration_ms": 140346,
+      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -619,6 +603,22 @@
       "duration_ms": 258013,
       "name": "1-2 Ultraviolento",
       "url": "https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Ricardo Ruben",
+      "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
         "name": "Coraz\u00f3n Americano",
         "url": "https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS"
       },
@@ -919,38 +935,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Cosm\u00e9ticos",
-        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
-      },
-      "artists": [
-        {
-          "name": "Cosm\u00e9ticos",
-          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Hu Na Na",
-      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ricardo Ruben",
-      "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 226946,
       "name": "Corazones Muertos",
       "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Cosm\u00e9ticos",
+        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
+      },
+      "artists": [
+        {
+          "name": "Cosm\u00e9ticos",
+          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Hu Na Na",
+      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
     },
     {
       "added_at": "2024-06-12 23:29:42",

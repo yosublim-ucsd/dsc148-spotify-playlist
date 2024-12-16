@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 70479,
+  "num_followers": 70510,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAkU3UuYxgYCQlrjQzNwkrY",
+  "snapshot_id": "Z1zKgAAAAACl98Ewx6z7Mj8gQ3xOJ5of",
   "tracks": [
     {
       "added_at": null,
@@ -311,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! (Bonus)",
-        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
       },
       "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
         {
           "name": "Ice Spice",
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 114437,
-      "name": "GYAT",
-      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+      "duration_ms": 174545,
+      "name": "Pillsbury Dlow (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
     },
     {
       "added_at": null,
@@ -339,6 +343,22 @@
       "duration_ms": 159999,
       "name": "Popa",
       "url": "https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
     },
     {
       "added_at": null,
@@ -487,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Pillsbury Dlow (feat. Ice Spice)",
-      "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be a Lady",
         "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
       },
@@ -519,6 +519,34 @@
       "duration_ms": 81860,
       "name": "Be a Lady",
       "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
+        "url": "https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
+      "url": "https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH"
     },
     {
       "added_at": null,
@@ -551,34 +579,6 @@
       "duration_ms": 124965,
       "name": "On The Radar - Bonus",
       "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
-        "url": "https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 196884,
-      "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
-      "url": "https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH"
     }
   ],
   "unique_name": "This Is Ice Spice",

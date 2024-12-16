@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1129030,
+  "num_followers": 1129240,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -339,22 +323,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -371,6 +339,38 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -423,6 +439,22 @@
       "duration_ms": 182440,
       "name": "Chances Are (with Ray Conniff & His Orchestra)",
       "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "For Once in My Life",
+      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -463,34 +495,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "For Once in My Life",
-      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -539,26 +559,6 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -787,38 +787,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
-      },
-      "artists": [
-        {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -851,18 +819,34 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
-        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
         }
       ],
-      "duration_ms": 187453,
-      "name": "Rusty Dusty Blues",
-      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -883,6 +867,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
+        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Rusty Dusty Blues",
+      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Manilow Sings Sinatra",
-        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "You Make Me Feel So Young",
-      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Swingtime Again",
         "url": "https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 165800,
       "name": "I Let a Song Go out of My Heart",
       "url": "https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Manilow Sings Sinatra",
+        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "You Make Me Feel So Young",
+      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Big Band Classics",
         "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 212106,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
     },
     {
       "added_at": "2024-06-03 14:41:08",

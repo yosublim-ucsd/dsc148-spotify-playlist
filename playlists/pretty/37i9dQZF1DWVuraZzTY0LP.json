@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 344262,
+  "num_followers": 344285,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
         "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/5PUFhB75M0dO4X5gKpvKFB"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Te Llevo para Que Me Lleves",
-      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
     },
     {
       "added_at": "2024-11-15 06:00:00",

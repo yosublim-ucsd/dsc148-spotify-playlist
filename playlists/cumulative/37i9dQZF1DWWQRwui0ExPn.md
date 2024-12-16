@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,115 songs - 11 day 5 hr 44 min
+7,116 songs - 11 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,7 +1194,7 @@
 | [Cloudless Horizon](https://open.spotify.com/track/4lG6c9JltUjFPBXzR6PUe9) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Cloudless Horizon](https://open.spotify.com/album/2PWpUIo77qYk3IqDyIfbus) | 1:42 | 2023-02-10 | 2023-04-21 |
 | [Clouds](https://open.spotify.com/track/29MmUCFb88sdgXkot6rEb1) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Clouds](https://open.spotify.com/album/4aaFVXkEahyKrB9IMmKfzu) | 2:27 | 2023-01-13 | 2023-10-20 |
 | [Clouds](https://open.spotify.com/track/3UcgqdjXCPzjnjUdIKSEXC) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Clouds](https://open.spotify.com/album/3oDKuiGPdDLloNHgIEm3Jm) | 2:30 | 2024-01-19 |  |
-| [Clouds & Conversations](https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [Clouds & Conversations](https://open.spotify.com/album/1GrqlTqa96Qhh8oRWXWfBR) | 2:30 | 2024-01-26 | 2024-10-18 |
+| [Clouds & Conversations](https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [Clouds & Conversations](https://open.spotify.com/album/1GrqlTqa96Qhh8oRWXWfBR) | 2:30 | 2024-01-26 |  |
 | [Cloudscape](https://open.spotify.com/track/6B5KhqPjHzUsxVpWDVD8xu) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Cloudscape](https://open.spotify.com/album/1XiN8tlI4p0vAZySBdZxHX) | 2:02 | 2022-03-19 | 2022-08-19 |
 | [cloudsleeper](https://open.spotify.com/track/1f7kX0jU1nYZwb8871d78x) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [cloudsleeper](https://open.spotify.com/album/34MHDDyYAiCFinOUBYqCDB) | 2:39 | 2022-11-11 | 2022-12-16 |
 | [Cloudy](https://open.spotify.com/track/7xY6ayoe4MfRRDjBPwp3zD) | [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8) | [Cloudy](https://open.spotify.com/album/5Lc14wWODOdx9EKhlcwS35) | 1:57 | 2019-05-28 | 2020-05-17 |
@@ -1875,7 +1875,7 @@
 | [endless](https://open.spotify.com/track/1DgFzDddCvohdbma1Mgeyp) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [endless](https://open.spotify.com/album/4aSNr7wccU4oFKg3QnqjsJ) | 2:03 | 2023-11-10 |  |
 | [Endless](https://open.spotify.com/track/46hAOhJQvfYEATcUNmau38) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Endless](https://open.spotify.com/album/453CavNzLfoSfe32N9XWIJ) | 2:04 | 2022-08-05 | 2022-11-18 |
 | [Endless Ether](https://open.spotify.com/track/5k0MvADsuxZCmFXnN3BSto) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [infinite \(i\)](https://open.spotify.com/album/377ThFJEcKOtJFohEzHde5) | 3:21 | 2019-11-29 | 2021-07-29 |
-| [Endless Summer](https://open.spotify.com/track/4tRa3UrTEfuiwpTdsRSqDP) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Endless Summer](https://open.spotify.com/album/6iLC5uysPWpxIL46T8m9N8) | 2:11 | 2024-10-11 |  |
+| [Endless Summer](https://open.spotify.com/track/4tRa3UrTEfuiwpTdsRSqDP) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Endless Summer](https://open.spotify.com/album/6iLC5uysPWpxIL46T8m9N8) | 2:11 | 2024-10-11 | 2024-12-16 |
 | [Endless Thoughts](https://open.spotify.com/track/1EeD00h1nPnoX2iaEy8OzE) | [Charmayanne](https://open.spotify.com/artist/4nolUtmSB6RcPUN7rTvORD) | [Endless Thoughts](https://open.spotify.com/album/6uxCslKrd6tXkvUzarQ5Av) | 1:58 | 2022-12-16 | 2024-02-16 |
 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 | 2024-09-06 |  |
 | [Engraving](https://open.spotify.com/track/6fwWMZ8ComjwCUepX117Ct) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Engraving](https://open.spotify.com/album/1PxQ4AVrdIyt8nmEs6VCwB) | 2:00 | 2022-12-16 | 2023-06-08 |
@@ -3715,6 +3715,7 @@
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 | 2024-02-02 |
 | [MacAllan](https://open.spotify.com/track/0euz0lVXNMFmQq6tijYD1Z) | [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx), [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw) | [MacAllan](https://open.spotify.com/album/2MXfL8m6SAEmaDaeqnlZXE) | 1:58 | 2022-02-14 | 2022-07-22 |
 | [Macchiato](https://open.spotify.com/track/0wtXAu3sb3uJin9uzKB2XW) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Macchiato](https://open.spotify.com/album/1vrc6twcNejVKGHMMGKkfD) | 1:52 | 2024-10-25 |  |
+| [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 | 2024-12-13 |  |
 | [Machines](https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Machines](https://open.spotify.com/album/585g5BfKMv4XNcBYbSukzD) | 2:00 | 2023-10-13 |  |
 | [Mad Hatters](https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [Mad Hatters](https://open.spotify.com/album/3GFII7Mju4dJPaMhEGvTFi) | 2:18 | 2022-12-09 | 2024-04-27 |
 | [Made For This](https://open.spotify.com/track/6XyflmtiDVAlaEkrTJCMLE) | [Hand Made](https://open.spotify.com/artist/5sWOIwfXsjzxjU31XYCsmU) | [Made For This](https://open.spotify.com/album/3MiifWyhE5ImnvyAEuwGgl) | 2:02 | 2022-02-25 | 2022-09-30 |
@@ -3839,7 +3840,7 @@
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Melted Sidewalk](https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Melted Sidewalk](https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL) | 3:20 | 2024-01-12 |  |
-| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 |  |
+| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 | 2024-12-16 |
 | [Melting](https://open.spotify.com/track/4QvdOlz6E05lpdtTvS9ZaT) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Melting](https://open.spotify.com/album/4L4NHeuZXzT1Os2eL2MSAL) | 2:03 | 2024-08-23 | 2024-09-18 |
 | [melting clocks](https://open.spotify.com/track/7hlKb8BmabyAANk2fVxu7R) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [melting clocks](https://open.spotify.com/album/4TwRqwqGIfYW8WDHiLO6Te) | 2:21 | 2022-07-08 | 2022-10-21 |
 | [memorias](https://open.spotify.com/track/1nW1JlpnXEbt1eyuchf1kI) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5) | [memorias](https://open.spotify.com/album/2M92XDZKrz7IcKLUJkanGM) | 1:48 | 2022-09-02 | 2022-12-03 |

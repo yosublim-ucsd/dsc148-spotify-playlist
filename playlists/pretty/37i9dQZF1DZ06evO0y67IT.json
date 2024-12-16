@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8405,
+  "num_followers": 8406,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADIUkvPPfgTzd2Zoo3yo1qp",
+  "snapshot_id": "Z1zKgAAAAADAwx8XJ0VE92zA/4D8LmrU",
   "tracks": [
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 222673,
-      "name": "Holy Coast",
-      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 222673,
+      "name": "Holy Coast",
+      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
     },
     {
       "added_at": null,

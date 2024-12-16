@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,794 likes - 52 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,803 likes - 52 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 18 | [Sail On, Sailor \- Remastered 2000](https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(Remastered 2000\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 3:22 |
 | 19 | [Then I Kissed Her \- Remastered 2001](https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:17 |
 | 20 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
-| 21 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
+| 21 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 |
 | 22 | [That's Not Me](https://open.spotify.com/track/0j0y0KnYpbNSiJ0YBwRx9E) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:31 |
 | 23 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
 | 24 | [Do It Again \- Remastered 2001](https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:26 |
-| 25 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 |
+| 25 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
 | 26 | [You Still Believe In Me](https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:36 |
 | 27 | [409](https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:00 |
 | 28 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 51 | [Lady Lynda \- Remastered 2000](https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [L.A\. \(Light Album\) \[Remastered\]](https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz) | 3:59 |
 | 52 | [Please Let Me Wonder \- Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Today! \(Remastered\)](https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF) | 2:47 |
 
-Snapshot ID: `Z1t5AAAAAAC2Z0jMNHkHRGn0w1LvgamJ`
+Snapshot ID: `Z1zKgAAAAAAN1hlvrky8GBG+WGpK5i0r`

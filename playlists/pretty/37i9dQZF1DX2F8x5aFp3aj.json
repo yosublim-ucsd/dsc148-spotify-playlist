@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 217541,
+  "num_followers": 217609,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "The Head On The Door (Remastered)",
         "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2023-11-10 17:08:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "I'm Your Man",
         "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/7Fyk2UVvhtjsQOyentgLzQ"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Play For Today",
-      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "All Four One (Remastered 1999)",
         "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
       },
@@ -827,22 +811,6 @@
       "duration_ms": 196200,
       "name": "Only The Lonely - Remastered 1999",
       "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Arabian Knights",
-      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -879,6 +847,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 219933,
       "name": "I Ran (So Far Away) - Single Edit",
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Sugar Tax",
+        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Sailing On The Seven Seas",
+      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Sugar Tax",
-        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
       "artists": [
         {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Sailing On The Seven Seas",
-      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
+      "duration_ms": 185946,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Fragile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 510573,
-      "name": "Roundabout - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Colour of Spring",
         "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Original Album Series",
-        "url": "https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81"
+        "name": "Fragile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 184093,
-      "name": "Brass in Pocket",
-      "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
+      "duration_ms": 510573,
+      "name": "Roundabout - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
     },
     {
       "added_at": "2024-04-16 00:45:21",
@@ -1019,6 +1003,22 @@
       "duration_ms": 250800,
       "name": "Pearly-Dewdrops' Drops - 7\" Version",
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Original Album Series",
+        "url": "https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Brass in Pocket",
+      "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "The Very Best Of Sting And The Police",
         "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+        "name": "The B-52's",
+        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
       },
       "artists": [
         {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
+      "duration_ms": 277640,
+      "name": "Planet Claire",
+      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
     },
     {
       "added_at": "2024-04-16 00:45:21",
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 277640,
-      "name": "Planet Claire",
-      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Carved In Sand",
         "url": "https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 340800,
       "name": "Butterfly On A Wheel",
       "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
     },
     {
       "added_at": "2024-07-12 13:30:25",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/6UmFGunWzNoe7gSS3JW90v"
     },
     {
-      "added_at": "2024-04-16 00:45:21",
+      "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Garlands",
-        "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
+        "name": "Ancient Heart",
+        "url": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Tanita Tikaram",
+          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Wax And Wane",
-      "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
+      "duration_ms": 292080,
+      "name": "Twist in My Sobriety",
+      "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
     }
   ],
   "unique_name": "Oscuros 80",

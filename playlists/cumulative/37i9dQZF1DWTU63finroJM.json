@@ -3125,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "best of me & you",
+        "url": "https://open.spotify.com/album/43laZWLFhqocwIYL3AHoII"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172677,
+      "name": "best of me & you",
+      "url": "https://open.spotify.com/track/7zLJ14Pk43ci8oWTuPSLzR"
+    },
+    {
+      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -6622,7 +6640,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 168515,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE"

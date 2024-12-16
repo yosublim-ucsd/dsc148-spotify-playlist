@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,735 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,807 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Popurrí: Cardenaleando La Cumbia](https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 5:24 |
 | 50 | [Mi Amante](https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Paso A La Reina](https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K) | 3:51 |
 
-Snapshot ID: `Z1t5AAAAAADZPyw8Klhgf8z+1zDoAs6T`
+Snapshot ID: `Z1zKgAAAAABykrjbHpK1JViujMufFavN`

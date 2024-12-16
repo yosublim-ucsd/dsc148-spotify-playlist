@@ -5305,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "If I Have to Change",
+        "url": "https://open.spotify.com/album/0TuZUq16Z7K84CQ3H8xNEp"
+      },
+      "artists": [
+        {
+          "name": "Melina Malone",
+          "url": "https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236153,
+      "name": "If I Have to Change",
+      "url": "https://open.spotify.com/track/6sBHJyktb4PAbrQ2lj3w9T"
+    },
+    {
+      "album": {
         "name": "Freedom Fables",
         "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
       },
@@ -8640,7 +8658,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 222931,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 60122,
+  "num_followers": 60130,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,30 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 150306,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/45oj9RdqbdJjgZzV776NkY"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "PPP",
-        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Skrapy",
-          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -575,6 +575,26 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Prende y Pasa",
+        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Prende y Pasa",
+      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -631,26 +651,6 @@
       "duration_ms": 232542,
       "name": "Of The Void",
       "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "Prende y Pasa",
-        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Prende y Pasa",
-      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
+        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 166110,
+      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
+      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 143798,
       "name": "PVTIVUELTA",
       "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
-        "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 166110,
-      "name": "Afuera Que Tengan Miedo - Jayrick Remix",
-      "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "NO ESTABA MAL",
         "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
@@ -991,22 +971,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Not For Resale",
-        "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "DYOR Atelier",
-          "url": "https://open.spotify.com/artist/2F6DhnC0oLU9HiYCGQDMa4"
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
         }
       ],
-      "duration_ms": 264374,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/5SNLzOQqKOXqTAavIjJz0u"
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1035,22 +1015,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+        "name": "Not For Resale",
+        "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         },
         {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+          "name": "DYOR Atelier",
+          "url": "https://open.spotify.com/artist/2F6DhnC0oLU9HiYCGQDMa4"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+      "duration_ms": 264374,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/5SNLzOQqKOXqTAavIjJz0u"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1067,6 +1047,26 @@
       "duration_ms": 146976,
       "name": "CAJETA",
       "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Plata",
-        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
-      },
-      "artists": [
-        {
-          "name": "J. Cross",
-          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 172827,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "DIOSA </3",
         "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 164129,
       "name": "DIOSA </3",
       "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
+      },
+      "artists": [
+        {
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 172827,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "M\u00cdRAME",
+        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "M\u00cdRAME",
+      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "SECUELAS",
         "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "M\u00cdRAME",
-        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "M\u00cdRAME",
-      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "duelerespirar (funnynoiseclub004)",
+        "url": "https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo"
+      },
+      "artists": [
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "duelerespirar (funnynoiseclub004)",
+      "url": "https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "SIN MIRAR (Midnight Generation Remix)",
         "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "duelerespirar (funnynoiseclub004)",
-        "url": "https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo"
-      },
-      "artists": [
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "duelerespirar (funnynoiseclub004)",
-      "url": "https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
     }
   ],
   "unique_name": "EDM\u00e9xico",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Clash. The essential tracks, all in one playlist.",
-  "num_followers": 175661,
+  "num_followers": 175676,
   "original_name": "This Is The Clash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAArWPw6PaPr3BDT9XWPL1Bz",
+  "snapshot_id": "Z1zKgAAAAADWOB65oOST30t67T5Q+ipd",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Know Your Rights - Remastered",
-      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
+      "duration_ms": 150000,
+      "name": "Atom Tan - Remastered",
+      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Atom Tan - Remastered",
-      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
+      "duration_ms": 220906,
+      "name": "Know Your Rights - Remastered",
+      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
     },
     {
       "added_at": null,

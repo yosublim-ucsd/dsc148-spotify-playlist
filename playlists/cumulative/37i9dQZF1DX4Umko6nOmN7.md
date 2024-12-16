@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-146 songs - 7 hr 48 min
+147 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 | 2024-08-17 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2024-06-27 |  |
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-06-27 | 2024-07-22 |
+| [December](https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [December](https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2) | 2:41 | 2024-11-21 |  |
 | [Deep Down \- From the Film ‘The Abyss’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘The Abyss’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2024-06-27 |  |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-11-15 |
@@ -105,7 +106,7 @@
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-27 | 2024-07-05 |
 | [logical](https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:51 | 2024-06-27 | 2024-11-10 |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
-| [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 | 2024-10-24 |  |
+| [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 | 2024-10-24 | 2024-12-16 |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2024-06-27 |  |
 | [Mellanrum](https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Mellanrum](https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw) | 2:18 | 2024-06-27 | 2024-09-20 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-06-27 |  |

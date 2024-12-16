@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 252546,
       "name": "ONE to DREAM\uff01",
       "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 243106,
       "name": "POKER FAITH -\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9-",
       "url": "https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 245653,
       "name": "Radiant Letter",
       "url": "https://open.spotify.com/track/40R5PKT1WKL8W0k9bJB4So"
@@ -2188,6 +2188,24 @@
       "duration_ms": 262213,
       "name": "Singing Explorers",
       "url": "https://open.spotify.com/track/75Ir3kKNf3SASig0St0gFW"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a08 High Joker",
+        "url": "https://open.spotify.com/album/5h0lGXw6X46jqWaa0P6y2Z"
+      },
+      "artists": [
+        {
+          "name": "High\u00d7Joker",
+          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Smiles In Wonderland!",
+      "url": "https://open.spotify.com/track/6kGYNXo6lEeAC0RSd0lQt3"
     },
     {
       "album": {
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 285506,
       "name": "Undiscovered WORLD",
       "url": "https://open.spotify.com/track/073ThTzCf6W57rGRXwtxIh"
@@ -3399,7 +3417,7 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:11 FRAME",
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a11 FRAME",
         "url": "https://open.spotify.com/album/402p3mxwR4xZ557jA64z7f"
       },
       "artists": [
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 228333,
       "name": "\u30ea\u30d3\u30f3\u30b0\u30a2\u30a4\u30ba\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/1lfwRXGtNgLirpV3F1W8Wz"

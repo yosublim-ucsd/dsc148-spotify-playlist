@@ -4,45 +4,45 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,698 likes - 44 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,702 likes - 44 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
 | 2 | [Déjalo](https://open.spotify.com/track/4A197k2VxXIqb4rH3wqw1I) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:39 |
-| 3 | [Te](https://open.spotify.com/track/6vSekblfCHVVJHF9IQkPs3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:10 |
-| 4 | [Me vuelves a herir](https://open.spotify.com/track/5NgoexWTWKwhkFwWpTuXid) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:39 |
+| 3 | [Me vuelves a herir](https://open.spotify.com/track/5NgoexWTWKwhkFwWpTuXid) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:39 |
+| 4 | [Te](https://open.spotify.com/track/6vSekblfCHVVJHF9IQkPs3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:10 |
 | 5 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
 | 6 | [Te Mueres](https://open.spotify.com/track/5fbpZGY5TZ3bRhkQqTOSj0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 5:15 |
-| 7 | [Quiero hacerte feliz](https://open.spotify.com/track/0kOQ22oq5WleyioXFhTUSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:51 |
-| 8 | [Ahora me toca a mi](https://open.spotify.com/track/7xMIUfFqhpXnXmG1Mv97xd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:56 |
+| 7 | [Ahora me toca a mi](https://open.spotify.com/track/7xMIUfFqhpXnXmG1Mv97xd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:56 |
+| 8 | [Quiero hacerte feliz](https://open.spotify.com/track/0kOQ22oq5WleyioXFhTUSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:51 |
 | 9 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 |
 | 10 | [Para Ti](https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:51 |
-| 11 | [Para siempre](https://open.spotify.com/track/0fRF5Gqh8rlFmPsYCQDOJW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:18 |
-| 12 | [Eras tan para mi](https://open.spotify.com/track/4t2vV9fvmeSBUlOarB4Eiu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:50 |
+| 11 | [Eras tan para mi](https://open.spotify.com/track/4t2vV9fvmeSBUlOarB4Eiu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:50 |
+| 12 | [Para siempre](https://open.spotify.com/track/0fRF5Gqh8rlFmPsYCQDOJW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:18 |
 | 13 | [Quédate](https://open.spotify.com/track/2GpfueJjPlXJslyOMiyKSP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:37 |
 | 14 | [Abrázame](https://open.spotify.com/track/4S3Gf4ncQMAas0j90bQtQx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 4:20 |
-| 15 | [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 |
-| 16 | [Cabeza de escorpión](https://open.spotify.com/track/3aq5vlsKw8t97iSNXMMr0Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:15 |
+| 15 | [Cabeza de escorpión](https://open.spotify.com/track/3aq5vlsKw8t97iSNXMMr0Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:15 |
+| 16 | [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 |
 | 17 | [Morder](https://open.spotify.com/track/6jPWdnW1yAqgUq7T2tekiq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:22 |
 | 18 | [Domesticame](https://open.spotify.com/track/6eF5HI1s4DU3Z5b5urrVRk) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:09 |
-| 19 | [Tu recuerdo](https://open.spotify.com/track/5JrG0DZMWeb9BLuSTihPd2) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:24 |
-| 20 | [Hazme Algo](https://open.spotify.com/track/3HEZRM7OPQY5LXa7OEmD4Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 5:48 |
+| 19 | [Hazme Algo](https://open.spotify.com/track/3HEZRM7OPQY5LXa7OEmD4Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 5:48 |
+| 20 | [Tu recuerdo](https://open.spotify.com/track/5JrG0DZMWeb9BLuSTihPd2) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:24 |
 | 21 | [Partido en dos](https://open.spotify.com/track/21Zlc2QEzEKkGy6U7TtuP5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 4:20 |
 | 22 | [Esperar](https://open.spotify.com/track/78HPvwy6PFMoU7DlulMTJU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:16 |
-| 23 | [Perdóname](https://open.spotify.com/track/5Old2vvcl089PeN4o995b9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
-| 24 | [Verdad](https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 4:46 |
+| 23 | [Verdad](https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 4:46 |
+| 24 | [Perdóname](https://open.spotify.com/track/5Old2vvcl089PeN4o995b9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
 | 25 | [Adios](https://open.spotify.com/track/3jZuOu3Ng3wj1BqdkApYy4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:51 |
 | 26 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 |
-| 27 | [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
-| 28 | [Mi corazón](https://open.spotify.com/track/1URudLlOGgHV6GE5TQfMQW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:23 |
+| 27 | [Mi corazón](https://open.spotify.com/track/1URudLlOGgHV6GE5TQfMQW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:23 |
+| 28 | [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
 | 29 | [Extrañarte](https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:50 |
 | 30 | [Mar de nubes](https://open.spotify.com/track/7yUqRdOBt0my6W7WlYThhq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:04 |
-| 31 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 |
-| 32 | [No me atrevo a preguntar](https://open.spotify.com/track/1ASsOEm4V9yWkgJ573Uf8q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:39 |
+| 31 | [No me atrevo a preguntar](https://open.spotify.com/track/1ASsOEm4V9yWkgJ573Uf8q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:39 |
+| 32 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 |
 | 33 | [Esfumar](https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:27 |
-| 34 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 |
-| 35 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
+| 34 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
+| 35 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 |
 | 36 | [Látigo de fuego](https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de fuego](https://open.spotify.com/album/43zuensuw729kZhtB1emiI) | 3:51 |
 | 37 | [Fui feliz](https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:56 |
 | 38 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 43 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 | 44 | [Miel](https://open.spotify.com/track/2IbiZBpJuvY8pMzKhDtWLP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:55 |
 
-Snapshot ID: `Z1t5AAAAAACdU5K9cs97MRlNUmoUP3aZ`
+Snapshot ID: `Z1zKgAAAAAD2r3lSKvoaiblAJZ4gzjwV`

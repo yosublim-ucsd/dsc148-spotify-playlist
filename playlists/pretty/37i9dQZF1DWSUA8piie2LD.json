@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 134439,
+  "num_followers": 134538,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Work to Do",
-        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
-      },
-      "artists": [
-        {
-          "name": "Fattburger",
-          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "100 Ways",
-      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -251,6 +235,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Work to Do",
+        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
+      },
+      "artists": [
+        {
+          "name": "Fattburger",
+          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "When I Think of You",
-      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -299,6 +283,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "When I Think of You",
+      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 276400,
       "name": "Now 'Til Forever",
       "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -347,6 +331,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 284773,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -395,18 +411,18 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -475,18 +491,18 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+      "duration_ms": 283866,
+      "name": "Twice in a Lifetime",
+      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -503,22 +519,6 @@
       "duration_ms": 304000,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Twice in a Lifetime",
-      "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Face To Face (US Version)",
         "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 238800,
       "name": "Brazilia",
       "url": "https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 294733,
       "name": "Anything and Everything",
       "url": "https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+      },
+      "artists": [
+        {
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+        }
+      ],
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Excusez-Moi",
         "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
       "artists": [
         {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -831,22 +847,6 @@
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 286093,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Missin' You",
-      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Hardcastle 2",
         "url": "https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Missin' You",
+      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "The Magic of Moonlight",
         "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 320275,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/6tNoPJMjPioawoVZyhbAaT"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 242012,
+      "name": "Shelbi",
+      "url": "https://open.spotify.com/track/6rsEUK5SHTPTI7lBAC40Cz"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -1199,22 +1215,6 @@
       "duration_ms": 267400,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

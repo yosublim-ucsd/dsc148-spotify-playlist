@@ -2,9 +2,9 @@
 
 ### [SIGMA MALE TIKTOK MUSIC \- BEST SIGMA SONGS](https://open.spotify.com/playlist/3XDx4ZH82386rU1QKqWV2Q)
 
-> most popular tiktok phonk \- best phonk 2024 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
+> most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-657 songs - 1 day 4 hr 13 min
+659 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 | 2023-07-14 |
 | [amoureux de toi](https://open.spotify.com/track/77azxnmel7Us6Y1md9pZYf) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f), [PRAHA](https://open.spotify.com/artist/4kVdGUx4hjBBurEOSoV6Mb) | [amoureux de toi](https://open.spotify.com/album/0tJhMH736fwPVTm4nxTYWr) | 2:46 | 2024-04-23 | 2024-07-27 |
 | [Another World](https://open.spotify.com/track/7qlz1NpDWyPbXYiqiWBLrI) | [Mr\. Murky](https://open.spotify.com/artist/1ARE3E4tKhdyFiN1xe6EMu) | [Another World](https://open.spotify.com/album/0t3ocyWaTMksTJKGhPT6v1) | 4:16 | 2024-02-06 | 2024-02-15 |
-| [Aperture](https://open.spotify.com/track/7EuRrOxCDjGr5y0ECDLEXd) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Aperture](https://open.spotify.com/album/0AsRo0FMyqhkBplZmip85Y) | 4:46 | 2024-12-04 |  |
+| [Aperture](https://open.spotify.com/track/7EuRrOxCDjGr5y0ECDLEXd) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Aperture](https://open.spotify.com/album/0AsRo0FMyqhkBplZmip85Y) | 4:46 | 2024-12-04 | 2024-12-16 |
 | [Arcanum, Pt\. 1](https://open.spotify.com/track/4Dy6O1uMJ76Xlq43lhovpq) | [Stewart Lane](https://open.spotify.com/artist/2uT4yfMbB4pcT76tgFAQFG) | [Arcanum](https://open.spotify.com/album/75CcI9ShYQI0rI37iWa4z6) | 4:54 | 2024-11-11 |  |
 | [ARRIVAL](https://open.spotify.com/track/2usgz61lx2EYRDkwd5Sa6e) | [AM sin](https://open.spotify.com/artist/2zNAKMxHEfcdCIdnMCo94g) | [ARRIVAL](https://open.spotify.com/album/4scnIB8UCho0JtrE7Dhbny) | 5:17 | 2024-07-11 | 2024-09-28 |
 | [Astral Gate \- Aurora Remix](https://open.spotify.com/track/6oMqFy86NQ2IX9ke3BSQmw) | [Hypernoova](https://open.spotify.com/artist/0fMvl5V1BRWrRnfAkdItYl) | [Astral Gate \(Aurora Remix\)](https://open.spotify.com/album/76RH9qr5c2gDWyBhPC5IYW) | 3:15 | 2024-07-02 | 2024-09-28 |
@@ -116,9 +116,10 @@
 | [Club Memphis Mane](https://open.spotify.com/track/34AfH3hzR5XJ3dCKMKmwYd) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Club Memphis Mane](https://open.spotify.com/album/5JH573ZOS4W4xnmYdegsLz) | 2:05 | 2023-06-12 |  |
 | [Cold](https://open.spotify.com/track/64b4Dsol9Rt8yaxWX8x0vs) | [Jzzzy Jutas](https://open.spotify.com/artist/2T1HFYAK94V6aroWrRVBk8) | [Cold](https://open.spotify.com/album/129B5WtAnJAuuWeAQOlKmc) | 2:55 | 2023-06-12 | 2023-07-29 |
 | [Colder Than Snow](https://open.spotify.com/track/2RbsVSwM49sQgenzCudWVB) | [Skyvoice](https://open.spotify.com/artist/2B8lJrGfr4uVZt3xw3lgMR) | [Colder Than Snow](https://open.spotify.com/album/1hsEiNg28eds9mUQfM2Awi) | 3:05 | 2024-01-13 | 2024-02-21 |
+| [Come Alive](https://open.spotify.com/track/6nhQN858onDGpJAdfgNtKj) | [Pav](https://open.spotify.com/artist/0GY4kYjzdRVqjFpTvHUwCP) | [Come Alive](https://open.spotify.com/album/4iTSTKq9PKqaVXUAKK2F9Q) | 3:15 | 2024-12-15 |  |
 | [COPIOU](https://open.spotify.com/track/3ROBGpyIMHocqsFfU0ZEED) | [NXTRO](https://open.spotify.com/artist/2SWXA0tjWwsmGD1wszXBYy) | [COPIOU](https://open.spotify.com/album/4H9V5xuklOKx8UwGu6w7eT) | 1:31 | 2024-09-27 |  |
 | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/track/2DETANBDEstoy76foZVbxv) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN) | 1:31 | 2023-06-12 | 2024-01-14 |
-| [Count 'Em Up](https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Count 'Em Up](https://open.spotify.com/album/0pBNSxbUMsuellsLqKugOK) | 3:00 | 2024-12-04 |  |
+| [Count 'Em Up](https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Count 'Em Up](https://open.spotify.com/album/0pBNSxbUMsuellsLqKugOK) | 3:00 | 2024-12-04 | 2024-12-16 |
 | [CRASHOUTBOYZZ](https://open.spotify.com/track/5qH3XUoeXwgSmfjXHqvlFW) | [Lil Lucifer](https://open.spotify.com/artist/2uYsRcCqYPpztBUYo84wbV) | [CRASHOUTBOYZZ](https://open.spotify.com/album/7HTQ2sXb9KnRKCb8PVVS6y) | 2:07 | 2023-06-12 | 2023-08-06 |
 | [CRAZY](https://open.spotify.com/track/5vt3N5366BoSfSA60nM8SP) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [CRAZY](https://open.spotify.com/album/0YbGQbSFVPR9poBcCsbBuz) | 2:35 | 2023-06-12 | 2023-07-29 |
 | [crime city](https://open.spotify.com/track/2DCWu8qsX3NpsdU3v4QiTV) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [crime city](https://open.spotify.com/album/3x9egHnyHFbW9dpRHGYO00) | 2:05 | 2023-12-08 | 2024-01-19 |
@@ -524,6 +525,7 @@
 | [SHORT CIRCUIT](https://open.spotify.com/track/2uG7QUtz7owCcQr84JD7fG) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SHORT CIRCUIT](https://open.spotify.com/album/4q6mDmOB3YhI6xrNMQKFW8) | 1:56 | 2023-08-03 | 2023-09-26 |
 | [Show Me](https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Show Me](https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n) | 2:23 | 2023-08-26 | 2023-12-14 |
 | [Shrapnel](https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn) | [Rok Ali and the Addiction](https://open.spotify.com/artist/2LIBmNEFBvgXxkqVw91tAg) | [Rok Ali and the Addiction](https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST) | 4:16 | 2023-06-12 | 2023-07-04 |
+| [Sigma Boy \- Phonk](https://open.spotify.com/track/6lDrQrCsgXpaPlJ6sGfDE7) | [Ghostride Mane](https://open.spotify.com/artist/2y545B8DpHTDFsylzGXJz9), [FEARZ](https://open.spotify.com/artist/10xwd2RQptiwP45TIiBlCE) | [Sigma Boy \(Phonk\)](https://open.spotify.com/album/2YprR3VkHyIunUzdRTr7sw) | 1:58 | 2024-12-15 |  |
 | [Silent](https://open.spotify.com/track/3Ru6pnv0mzAdSsjxKIMp4w) | [SPYRAL](https://open.spotify.com/artist/4XNwb6ukiDzAyHxQqHR0E1) | [Silent](https://open.spotify.com/album/1VSsN9rUWvTNxocgg79Ofv) | 2:27 | 2024-05-20 | 2024-07-12 |
 | [SINISTER](https://open.spotify.com/track/6dbKJd0VW2PKdiayMDKx4h) | [Kllsignl](https://open.spotify.com/artist/1ZqhTja2DcYnQMLDywiFXb) | [SINISTER](https://open.spotify.com/album/4rtRxBQYYkeRV6s05OB4q3) | 2:57 | 2024-04-23 | 2024-06-26 |
 | [sink into you](https://open.spotify.com/track/0yx6myRdp0otpA2mL4C0EB) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 4:20 | 2024-02-05 | 2024-03-26 |

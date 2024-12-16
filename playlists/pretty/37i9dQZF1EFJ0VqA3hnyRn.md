@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 259 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 259 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,9 +151,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 141 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 142 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
 | 143 | [Secrets](https://open.spotify.com/track/5pAaXHSlxNLfS6RQBrpjm5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Secrets](https://open.spotify.com/album/3ETzU5ugHCLSTN2xCgfoBK) | 3:46 |
-| 144 | [Blow It All](https://open.spotify.com/track/3A88PZgZXXeacwWhwwtZdR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:58 |
+| 144 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
 | 145 | [Brown Skin Girl \(feat\. Sean Paul\)](https://open.spotify.com/track/037FXn5nBi0wMkAue12Jke) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 4:13 |
-| 146 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 146 | [Blow It All](https://open.spotify.com/track/3A88PZgZXXeacwWhwwtZdR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:58 |
 | 147 | [Doin' It](https://open.spotify.com/track/5bplVRLqSBllzC1kp32c3J) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Big Sleepover](https://open.spotify.com/album/1YGFt30HXv0gk27JjT7D6P) | 3:12 |
 | 148 | [A Little Work](https://open.spotify.com/track/2KaYcKk75izTyS2AGFOhyg) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 4:05 |
 | 149 | [PUSH](https://open.spotify.com/track/0otHgzhkaFOS5ueD70Rc8N) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [VALEDICTORIAN](https://open.spotify.com/album/2ZD1qbIxA3CaYNSOj049bj) | 2:03 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 258 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 259 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbkJyAAAAAAsNW1SrFYiJE0zsCxKHdTk`
+Snapshot ID: `AbkPXgAAAAA5kF4D4FCrsPPdU3yi/V0z`

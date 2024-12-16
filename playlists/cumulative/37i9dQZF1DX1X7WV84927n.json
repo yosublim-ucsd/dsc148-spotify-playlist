@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Apathy / 31.10",
+        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211230,
+      "name": "Apathy",
+      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
+    },
+    {
+      "album": {
         "name": "Application For Release From The Dream",
         "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
       },
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 202500,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/7cGCoVKVIMsq4D6ObzUpBp"

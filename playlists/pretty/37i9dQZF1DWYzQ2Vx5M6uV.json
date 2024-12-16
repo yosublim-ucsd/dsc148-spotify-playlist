@@ -1,6 +1,6 @@
 {
   "description": "Heat that will make you sweat \ud83e\udd75 Cover: YSA C",
-  "num_followers": 123480,
+  "num_followers": 123505,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -671,34 +671,6 @@
     {
       "added_at": "2024-12-13 05:00:18",
       "album": {
-        "name": "Low Key (feat. Humby)",
-        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Humby",
-          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
-        }
-      ],
-      "duration_ms": 216980,
-      "name": "Low Key (feat. Humby)",
-      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
         "name": "Somos 3",
         "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
       },
@@ -779,6 +751,50 @@
     {
       "added_at": "2024-12-13 05:00:18",
       "album": {
+        "name": "Thal\u00eda",
+        "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Thal\u00eda",
+      "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
+    },
+    {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
+        "name": "Low Key (feat. Humby)",
+        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Humby",
+          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
+        }
+      ],
+      "duration_ms": 216980,
+      "name": "Low Key (feat. Humby)",
+      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
         "name": "Awolowo (Remix)",
         "url": "https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 157999,
       "name": "On My Body",
       "url": "https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Thal\u00eda",
-        "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Thal\u00eda",
-      "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
     },
     {
       "added_at": "2024-12-13 05:00:18",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-13 05:00:18",
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
+    },
+    {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
         "name": "Sin Gato (MIAU!)",
         "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
       },
@@ -959,30 +975,6 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
     }
   ],
   "unique_name": "Afro Ritmo",

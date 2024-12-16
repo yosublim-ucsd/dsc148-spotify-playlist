@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 29275,
+  "num_followers": 29289,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
+        "name": "Rahat Wen",
+        "url": "https://open.spotify.com/album/2zVGJy2Wgq8WrsamstI0qs"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Rahat Wen",
+      "url": "https://open.spotify.com/track/4ueBwVQmqlHQ92Whn1vlq8"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
         "name": "The Siren Remixes",
         "url": "https://open.spotify.com/album/5OQFefkEtKmQnpmXHmHacc"
       },
@@ -179,18 +195,26 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Rahat Wen",
-        "url": "https://open.spotify.com/album/2zVGJy2Wgq8WrsamstI0qs"
+        "name": "Coke Studio India Season 3: Episode 1",
+        "url": "https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl"
       },
       "artists": [
         {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        },
+        {
+          "name": "Ani Choying Drolma",
+          "url": "https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI"
         }
       ],
-      "duration_ms": 199505,
-      "name": "Rahat Wen",
-      "url": "https://open.spotify.com/track/4ueBwVQmqlHQ92Whn1vlq8"
+      "duration_ms": 432893,
+      "name": "Zariya",
+      "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -227,30 +251,6 @@
       "duration_ms": 173506,
       "name": "Bent Elgiran & Haga Mestikhabya",
       "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
-        "name": "Coke Studio India Season 3: Episode 1",
-        "url": "https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        },
-        {
-          "name": "Ani Choying Drolma",
-          "url": "https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI"
-        }
-      ],
-      "duration_ms": 432893,
-      "name": "Zariya",
-      "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
+        "name": "Kounili El Musica",
+        "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "Kounili El Musica",
+      "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Kounili El Musica",
-        "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
       },
       "artists": [
         {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
         }
       ],
-      "duration_ms": 175626,
-      "name": "Kounili El Musica",
-      "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
         "name": "Khalliha Ala Allah",
         "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 252295,
       "name": "Khalliha Ala Allah",
       "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
+        "name": "Black Iris",
+        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
+      },
+      "artists": [
+        {
+          "name": "AceQuared",
+          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "OCB",
+      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -559,18 +575,18 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Black Iris",
-        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
+        "name": "Ya Saad",
+        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
       },
       "artists": [
         {
-          "name": "AceQuared",
-          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
         }
       ],
-      "duration_ms": 174315,
-      "name": "OCB",
-      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
+      "duration_ms": 244690,
+      "name": "Ya Saad",
+      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Ya Saad",
-        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "Ya Saad",
-      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
         "name": "Affon Mennik",
         "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Hadal Ahbek",
-        "url": "https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        }
-      ],
-      "duration_ms": 209684,
-      "name": "Hadal Ahbek",
-      "url": "https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
         "name": "Awlaweeti",
         "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218677,
       "name": "Awlaweeti",
       "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
+        "name": "Hadal Ahbek",
+        "url": "https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "duration_ms": 209684,
+      "name": "Hadal Ahbek",
+      "url": "https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
+        "name": "Meshta'",
+        "url": "https://open.spotify.com/album/1yMFbwnRXaQvc16EFx0Q3O"
+      },
+      "artists": [
+        {
+          "name": "Adham Nabulsi",
+          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Meshta'",
+      "url": "https://open.spotify.com/track/6gRuJhqD6d4SCrLtptBWMu"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
         "name": "Konna Sghar",
         "url": "https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Nasi",
-        "url": "https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Nasi",
-      "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
-        "name": "Meshta'",
-        "url": "https://open.spotify.com/album/1yMFbwnRXaQvc16EFx0Q3O"
-      },
-      "artists": [
-        {
-          "name": "Adham Nabulsi",
-          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Meshta'",
-      "url": "https://open.spotify.com/track/6gRuJhqD6d4SCrLtptBWMu"
-    },
-    {
-      "added_at": "2024-12-12 07:53:00",
-      "album": {
         "name": "Khusouf Al-Ard",
         "url": "https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-12-12 07:53:00",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
+        "name": "Nasi",
+        "url": "https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy"
       },
       "artists": [
         {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
+      "duration_ms": 224000,
+      "name": "Nasi",
+      "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
     },
     {
       "added_at": "2024-12-12 07:53:00",
@@ -951,6 +935,22 @@
       "duration_ms": 278351,
       "name": "Hada Ma Byentasa",
       "url": "https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ"
+    },
+    {
+      "added_at": "2024-12-12 07:53:00",
+      "album": {
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
     },
     {
       "added_at": "2024-12-12 07:53:00",

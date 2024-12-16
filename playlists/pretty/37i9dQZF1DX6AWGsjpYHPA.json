@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 160386,
+  "num_followers": 160455,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2024-07-26 04:00:00",

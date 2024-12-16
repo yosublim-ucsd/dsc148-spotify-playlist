@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 903721,
+  "num_followers": 903779,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACp2X+VZg34xIstJdfP4HZe",
+  "snapshot_id": "Z1zKgAAAAAApNM2zn1/evB3bRckm17QH",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225247,
-      "name": "Too Deep for the Intro",
-      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 193094,
-      "name": "Villematic",
-      "url": "https://open.spotify.com/track/6TrQ7Od3cuVcXLsAPkgUED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 292865,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 193094,
+      "name": "Villematic",
+      "url": "https://open.spotify.com/track/6TrQ7Od3cuVcXLsAPkgUED"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229115,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5FNs6bh3rJfayr3kaxlFzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Grown Simba",
-      "url": "https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -707,26 +675,6 @@
       "duration_ms": 209080,
       "name": "She's Mine Pt. 1",
       "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,
@@ -751,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229115,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5FNs6bh3rJfayr3kaxlFzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Grown Simba",
+      "url": "https://open.spotify.com/track/0fnFbfoLu89LhGsbXU1zrH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -767,6 +747,46 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruby Rosary (feat. J. Cole)",
         "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 97000,
-      "name": "Just To Get By",
-      "url": "https://open.spotify.com/track/4eQuX80EZDUwXmEqEiEYg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 331480,
       "name": "Change",
       "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "Just To Get By",
+      "url": "https://open.spotify.com/track/4eQuX80EZDUwXmEqEiEYg5"
     },
     {
       "added_at": null,

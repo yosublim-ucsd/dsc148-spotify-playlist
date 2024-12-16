@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 46114,
+  "num_followers": 46154,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -643,18 +643,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
       "artists": [
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         }
       ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -673,24 +677,20 @@
       "url": "https://open.spotify.com/track/7rAPaSYSMpc9uZ91Vr7oVh"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 337000,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "FREAK IN THE SHEETS",
-        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "FREAK IN THE SHEETS",
-      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Still Pushin'",
         "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Bass Up To The Top",
         "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Flawless",
-        "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "Flawless",
-      "url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 247566,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Flawless",
+        "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Handle This",
-        "url": "https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 390930,
-      "name": "Handle This",
-      "url": "https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 336504,
       "name": "Warning",
       "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Handle This",
+        "url": "https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 390930,
+      "name": "Handle This",
+      "url": "https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1227,22 +1227,6 @@
       "duration_ms": 381821,
       "name": "Bad City",
       "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Nothing Hurts",
-        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Nothing Hurts",
-      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Nothing Hurts",
+        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Nothing Hurts",
+      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Go Deeper EP",
         "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
       },
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Don't Wanna Go",
-        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
-      },
-      "artists": [
-        {
-          "name": "Stephen Kirkwood",
-          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 180412,
-      "name": "Don't Wanna Go",
-      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Lay Back EP",
         "url": "https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Don't Wanna Go",
+        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
+      },
+      "artists": [
+        {
+          "name": "Stephen Kirkwood",
+          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 180412,
+      "name": "Don't Wanna Go",
+      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Work It EP",
-        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Journey LP",
         "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 205039,
       "name": "FUTUR",
       "url": "https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 373920,
       "name": "In You",
       "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Work It EP",
+        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 369230,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Breaking Dollars EP",
         "url": "https://open.spotify.com/album/0gQRXmpuaO39p8WwTRLiRL"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 212307,
       "name": "Tribal Badman",
       "url": "https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 369230,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
     },
     {
       "added_at": "2024-11-06 22:50:08",

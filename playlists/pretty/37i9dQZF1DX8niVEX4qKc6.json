@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 187554,
+  "num_followers": 187571,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "flashi\u00e9",
-        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 154033,
-      "name": "flashi\u00e9",
-      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
         "name": "Polos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "flashi\u00e9",
+        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 154033,
+      "name": "flashi\u00e9",
+      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Amado M\u00edo (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 144425,
-      "name": "Amado M\u00edo (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "Amado M\u00edo (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 144425,
+      "name": "Amado M\u00edo (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "De Mi Flor",
-        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Juan Jos\u00e9 Vasconcellos",
-          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
-        }
-      ],
-      "duration_ms": 221651,
-      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
-      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
         "name": "Seminare",
         "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
       },
@@ -1563,26 +1543,6 @@
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
-        "name": "Mil Caminos",
-        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
-      },
-      "artists": [
-        {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 234104,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1607,22 +1567,42 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
+        "name": "De Mi Flor",
+        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Juan Jos\u00e9 Vasconcellos",
+          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
         }
       ],
-      "duration_ms": 173209,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
+      "duration_ms": 221651,
+      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
+      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "Mil Caminos",
+        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 234104,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1639,6 +1619,26 @@
       "duration_ms": 165503,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173209,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Ninja Mental - Unplugged MTV",
-        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Hermoza From Heaven",
-      "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "Ninja Mental - Unplugged MTV",
+        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Hermoza From Heaven",
+      "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

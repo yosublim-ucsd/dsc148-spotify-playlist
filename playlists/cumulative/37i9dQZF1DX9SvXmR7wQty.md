@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Tayc
 
-3,011 songs - 6 day 16 hr 7 min
+3,012 songs - 6 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-02 | 2024-04-13 |
 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-15 | 2024-05-18 |
 | [Faut s'y mettre \(tellement\)](https://open.spotify.com/track/2FFFvXx5KGaua3459AO1bz) | [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Faut s'y mettre \(tellement\)](https://open.spotify.com/album/0DpCxwwOVZ44AVV206Pk8e) | 2:49 | 2022-09-16 | 2022-09-24 |
+| [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-13 |  |
 | [Faux Soleil](https://open.spotify.com/track/0CM7NZiGAhkKKAFTOC53vD) | [Bozko](https://open.spotify.com/artist/55diYJnywqtU2R6FkjGGCS), [Taga](https://open.spotify.com/artist/3yb7X8fR1v1agIya64pWlr) | [Faux Soleil](https://open.spotify.com/album/2uHuenadoIMRD4Ss9b58aN) | 2:13 | 2022-05-27 | 2022-06-04 |
 | [Faya](https://open.spotify.com/track/4les0O6MtkBDgWlgrn3Q5j) | [J\-Ron](https://open.spotify.com/artist/2utc2XhGTLpg0RHMTtfQ9k) | [Faya](https://open.spotify.com/album/5GGK96cbzqshgbePSScGgs) | 3:05 | 2022-07-08 | 2022-07-30 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-09-15 | 2023-11-11 |
@@ -2111,7 +2112,7 @@
 | [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 | 2024-10-21 |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [Petite Dose](https://open.spotify.com/track/5sJYv4k2LCN2JFytafATyv) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Petite Dose](https://open.spotify.com/album/4GZOqf9NfaYlwZxA9viP33) | 2:10 | 2024-11-29 | 2024-12-07 |
-| [petite musique](https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR+](https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617) | 2:59 | 2024-11-08 |  |
+| [petite musique](https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR+](https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617) | 2:59 | 2024-11-08 | 2024-12-16 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |
 | [Peur d'être aimé](https://open.spotify.com/track/62F1TZLqCQKtbx1EOx1DnV) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:09 | 2023-04-28 | 2023-05-13 |

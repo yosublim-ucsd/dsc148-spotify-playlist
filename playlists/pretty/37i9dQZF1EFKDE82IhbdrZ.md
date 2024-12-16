@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245 likes - 318 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 318 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 54 | [Clouds](https://open.spotify.com/track/6ibWCCEne6WEqDBAv7BeXv) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:51 |
 | 55 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
 | 56 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
-| 57 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
-| 58 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
-| 59 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
+| 57 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
+| 58 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
+| 59 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
 | 60 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 61 | [Once in a Lifetime](https://open.spotify.com/track/1dD1aarWotVIiFo5gGdMc2) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 2:38 |
 | 62 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 247 | [Meaningless](https://open.spotify.com/track/41VUrlXNQ7Mbwv8jdsVCRs) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG) | [706](https://open.spotify.com/album/79zG8H3ljW0GGiS6tmDPqP) | 2:57 |
 | 248 | [Burnin' Bridges](https://open.spotify.com/track/5iNpZqktHa3Ero9iwqsY5r) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Jessie James](https://open.spotify.com/album/30xG0AwSqAlBjlx8vPFzkX) | 3:26 |
 | 249 | [Heroes](https://open.spotify.com/track/7nMsK2p3lMYAjRi6J4ygow) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Ocean \(Deluxe Edition\)](https://open.spotify.com/album/6AkxOYoywRR9OJx1gWGxwf) | 3:57 |
-| 250 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 |
-| 251 | [Santiladang](https://open.spotify.com/track/0GfcixRsXWPWEcbR6ZVzDL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 250 | [Santiladang](https://open.spotify.com/track/0GfcixRsXWPWEcbR6ZVzDL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 251 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 |
 | 252 | [Bottle of Pills](https://open.spotify.com/track/4jfLuPdSrnXNmO7dJuKzmS) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Bottle of Pills](https://open.spotify.com/album/456S9zdBNYA2o06IcQM6UW) | 3:22 |
 | 253 | [Pleasure & Pain](https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:01 |
 | 254 | [3 Chances](https://open.spotify.com/track/019LQpD5uQpm6gqDRDHuDQ) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 2:30 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbkJ0gAAAABViuHbPmyui4uZOCeJVFIC`
+Snapshot ID: `AbkPcgAAAAAVvYftjlWY/IL/lheAhBWn`

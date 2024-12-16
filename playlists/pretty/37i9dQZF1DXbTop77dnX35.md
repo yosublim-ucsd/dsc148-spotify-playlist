@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Sarz & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,797 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,918 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 31 | [AMABANGA](https://open.spotify.com/track/3y3YTV6hq620EANONYLF1c) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [DJ Mono P](https://open.spotify.com/artist/3K7VaI4p38ezIE7rzaDsIu) | [AMABANGA](https://open.spotify.com/album/2g5e3aJewKz6js9XmEnx07) | 2:50 |
 | 32 | [Kolorado](https://open.spotify.com/track/0DkwQaNwxRMVD4eRHGmhnp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Billionboi](https://open.spotify.com/artist/5OkssG2Pb7u2VGiRdYZtMz) | [Kolorado](https://open.spotify.com/album/1uW0dS24srLOCTkPbddWdP) | 2:30 |
 | 33 | [Bad Boyz](https://open.spotify.com/track/3SpoFuQZWflA84yHaSbok0) | [Plenty Wrld](https://open.spotify.com/artist/3bbLX26N0uilCOhBnXTUHB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Bad Boyz](https://open.spotify.com/album/5KxCZUG6hGQTgLzR4CHgjG) | 2:09 |
-| 34 | [Owo](https://open.spotify.com/track/68yZySW7UR9uOwT3aNv430) | [Lavish](https://open.spotify.com/artist/2MtnHtIYtfSJAPHxpqk9uV), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Owo](https://open.spotify.com/album/5BeacMeC85CmK2PKZ973uj) | 2:23 |
+| 34 | [Owo](https://open.spotify.com/track/68yZySW7UR9uOwT3aNv430) | [LAVISH](https://open.spotify.com/artist/2vjWJmGltQXG18r54Q12uQ), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Owo](https://open.spotify.com/album/5BeacMeC85CmK2PKZ973uj) | 2:23 |
 | 35 | [Kolobi](https://open.spotify.com/track/3kcC2SwS1Sv1G9kIjjVeDi) | [Da Chris](https://open.spotify.com/artist/1sCf1a4iPzCOIM5bFITxnQ), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Kolobi](https://open.spotify.com/album/3XYVIO8fEqiMB5P3bmJSso) | 2:59 |
 | 36 | [Catch Cold](https://open.spotify.com/track/65VKlVJxjMVeEzh607Gfpn) | [Pinky Jay](https://open.spotify.com/artist/0w7EOaPK7ujhclXHSsLfJh), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Catch Cold](https://open.spotify.com/album/2BJ0NDxQPVKJOdtL76C6ft) | 2:14 |
 | 37 | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/track/3joo6y0R9kahvWgj1CcwXY) | [Illbliss](https://open.spotify.com/artist/0aunKsCBtJ67KiUJ2gIwsq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/album/5pQ6xW8rlByLipibCEPhxV) | 3:34 |

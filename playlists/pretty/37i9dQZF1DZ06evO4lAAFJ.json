@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 636273,
+  "num_followers": 636291,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACBlsCJV8RTzPBYk+0r0ZUj",
+  "snapshot_id": "Z1zKgAAAAAB61+fDNUdXU/yJ+dcv6Ivp",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
       },
       "artists": [
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 196426,
-      "name": "PROMESA",
-      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
       "artists": [
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+      "duration_ms": 196426,
+      "name": "PROMESA",
+      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
     },
     {
       "added_at": null,
@@ -795,30 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black is Beltza (Soinu-banda)",
-        "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fcl Refree",
-          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
-        },
-        {
-          "name": "Fermin Muguruza",
-          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 57586,
-      "name": "Catalina en Gran V\u00eda",
-      "url": "https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -871,18 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+        "name": "Black is Beltza (Soinu-banda)",
+        "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
       },
       "artists": [
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
+        },
+        {
+          "name": "Fermin Muguruza",
+          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+      "duration_ms": 57586,
+      "name": "Catalina en Gran V\u00eda",
+      "url": "https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 89749,
       "name": "LAX",
       "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
       "added_at": null,

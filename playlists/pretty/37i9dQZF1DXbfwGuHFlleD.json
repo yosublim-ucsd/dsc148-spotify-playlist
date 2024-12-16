@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2019. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker",
-  "num_followers": 2444,
+  "num_followers": 2461,
   "original_name": "Best of Rock: 2019",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,30 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
+        "name": "11 Minutes (with Halsey feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 239507,
+      "name": "11 Minutes (with Halsey feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/4mGdjNMo0RonTlOEb7cYg4"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -175,30 +199,6 @@
       "duration_ms": 225600,
       "name": "Play God",
       "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
-        "name": "11 Minutes (with Halsey feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 239507,
-      "name": "11 Minutes (with Halsey feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/4mGdjNMo0RonTlOEb7cYg4"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 764456,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/2xKDKtJBLDPd7BF3VmSQQO"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Ready To Let Go",
-      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "sugar honey ice & tea",
+      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
         "name": "Ugly is Beautiful",
         "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 261560,
-      "name": "sugar honey ice & tea",
-      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
+      "duration_ms": 185231,
+      "name": "Lost in the Woods - Weezer Version",
+      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -443,22 +459,6 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 185231,
-      "name": "Lost in the Woods - Weezer Version",
-      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa"
       },
@@ -491,38 +491,6 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 817832,
-      "name": "Descending",
-      "url": "https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -567,6 +551,22 @@
       "duration_ms": 220880,
       "name": "You'll Never Find Me",
       "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 817832,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "Everything Not Saved Will Be Lost Pt. 1",
-        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
+        "name": "Help Us Stranger (With Track-by-Track Commentary)",
+        "url": "https://open.spotify.com/album/7hUXTSJ66iobSF352n2GT8"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
         }
       ],
-      "duration_ms": 357419,
-      "name": "Exits",
-      "url": "https://open.spotify.com/track/7gVGBGI4ZqvkYBlh2LdrQy"
+      "duration_ms": 218806,
+      "name": "Sunday Driver",
+      "url": "https://open.spotify.com/track/4sFqnKblhJ1Q78T5DpCVYD"
     }
   ],
   "unique_name": "Best of Rock: 2019",

@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-149 songs - 7 hr 24 min
+150 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [LAY IT DOWN \(with G Herbo\)](https://open.spotify.com/track/3q6OyOAeVbwqCZQJWP7HhR) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Walk Down World](https://open.spotify.com/album/473RR17P3qtAmh22uLUqhX) | 2:50 | 2022-11-20 | 2023-01-20 |
 | [Letter to My Love](https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:44 | 2023-05-07 | 2024-06-13 |
 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 | 2023-11-10 | 2024-05-18 |
+| [Lionhearted](https://open.spotify.com/track/065WosymqyUiVRBmQNbLWd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Strictly For My Fans 2.0](https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd) | 2:08 | 2024-12-16 |  |
 | [MALIBU \- WITH TEE GRIZZLEY & G HERBO](https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:13 | 2024-08-19 |  |
 | [Man Now](https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 3:29 | 2022-10-28 | 2024-07-22 |
 | [Me, Myself & I \(with A Boogie wit da Hoodie\)](https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me, Myself & I](https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL) | 3:41 | 2022-10-28 | 2023-02-13 |
@@ -156,6 +157,6 @@
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-10-28 | 2023-02-17 |
 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 | 2022-10-28 |  |
 | [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 |  |
-| [YN](https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:48 | 2024-10-31 |  |
+| [YN](https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:48 | 2024-10-31 | 2024-12-16 |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,221 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,248 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 44 | [day by day](https://open.spotify.com/track/6AHVa7t3XI73eK3S9cTi98) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [day by day](https://open.spotify.com/album/3k4CF66i21U9yYOZB3S5UT) | 2:13 |
 | 45 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 46 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
-| 47 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/4ZWNYnZKcNkMlQYjkK7UOM) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
+| 47 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 48 | [Philippe Petit](https://open.spotify.com/track/0gWy1JtLETbI3cIVRGEXQt) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [EIN SCHRITT UND ICH FALL](https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh) | 3:11 |
 | 49 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
 | 50 | [T\-Shirt hoch Titten raus](https://open.spotify.com/track/2fAU23vgyHytVQN92tTWrE) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [T\-Shirt hoch Titten raus](https://open.spotify.com/album/7rinDCrc7RdX0pYopIbJc9) | 1:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marracash, thasup, Tony Effe, Artie 5ive e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,788 likes - 89 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,808 likes - 89 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 29 | [DECOY](https://open.spotify.com/track/4T9DLxHMGqvc04CjR5HIub) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [ASPETTANDO LA FINE DELLA GUERRA \(Strettamente\)](https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO) | 1:43 |
 | 30 | [TWERKARE](https://open.spotify.com/track/5OC4SXVL3Zip0JSu5iHhPF) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [PACCO](https://open.spotify.com/album/7DwO5CsYyQp7vXtpS1TxfB) | 2:53 |
 | 31 | [Una brutta persona](https://open.spotify.com/track/7hAdbW8koOAlpeE7PoCVRN) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Una brutta persona](https://open.spotify.com/album/5fOt9tsQGw5q1VSIRcLupX) | 2:43 |
-| 32 | [LAMINE YAMAL](https://open.spotify.com/track/3WbTU4SPE9ptmpEcmDbqwk) | [MB](https://open.spotify.com/artist/3Q8qQ3eNcAy3T1xWidixwD), [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [LAMINE YAMAL](https://open.spotify.com/album/2NUIXzql9DvbOKup532rDk) | 2:38 |
+| 32 | [LAMINE YAMAL](https://open.spotify.com/track/3WbTU4SPE9ptmpEcmDbqwk) | [MB](https://open.spotify.com/artist/4wMdp6CbbgODDIQ1Z8QKE2), [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [LAMINE YAMAL](https://open.spotify.com/album/2NUIXzql9DvbOKup532rDk) | 2:38 |
 | 33 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
 | 34 | [non partirò](https://open.spotify.com/track/1tcquxL4R79iUjQtUiMnhq) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [non partirò](https://open.spotify.com/album/3dMWNxtf4TSGvGc4nIrMHc) | 2:28 |
 | 35 | [Il Passo Più Lungo Della Gamba](https://open.spotify.com/track/0BCctrIYEImylMy8HoNlzj) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [Il Passo Più Lungo Della Gamba](https://open.spotify.com/album/6DGPS7fAPoaCZTnCqcGsUK) | 2:36 |

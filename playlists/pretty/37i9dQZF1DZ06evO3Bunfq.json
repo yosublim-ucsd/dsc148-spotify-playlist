@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 114413,
+  "num_followers": 114433,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACVJ6vL6eX/cx1QxZdvJnyW",
+  "snapshot_id": "Z1zKgAAAAABPkYXonUeTAssl8Z2JaqL9",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+      "duration_ms": 246533,
+      "name": "Te Gustan Malos",
+      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
     },
     {
       "added_at": null,
@@ -867,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 246533,
-      "name": "Te Gustan Malos",
-      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,

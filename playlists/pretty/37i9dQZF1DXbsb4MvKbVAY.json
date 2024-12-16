@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa pehmoaino.",
-  "num_followers": 24263,
+  "num_followers": 24261,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
         "name": "2 hands",
         "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
         "name": "how could u love somebody like me?",
         "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 170021,
+      "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
+      "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
         "name": "Iha miten vaa",
         "url": "https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
-      },
-      "artists": [
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 170021,
-      "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
-      "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 184500,
       "name": "Empire",
       "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MIA (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
         "name": "Viimeinen kuulutus",
         "url": "https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz"
       },
@@ -1471,6 +1451,26 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MIA (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
         "name": "I Never Loved You",
         "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Bouquet",
-      "url": "https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
-        "name": "Miten sut mielest poistetaan",
-        "url": "https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc"
-      },
-      "artists": [
-        {
-          "name": "costee",
-          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
-        }
-      ],
-      "duration_ms": 180058,
-      "name": "Miten sut mielest poistetaan",
-      "url": "https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1535,6 +1503,38 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 151698,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
         "name": "Kaikki p\u00e4\u00e4ttyy kyyneliin",
         "url": "https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500"
       },
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1"
+        "name": "Miten sut mielest poistetaan",
+        "url": "https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
         }
       ],
-      "duration_ms": 151698,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
+      "duration_ms": 180058,
+      "name": "Miten sut mielest poistetaan",
+      "url": "https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1"
     },
     {
       "added_at": "2024-12-13 07:10:09",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-12-13 07:10:09",
       "album": {
-        "name": "Eurostar",
-        "url": "https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 165079,
-      "name": "Eurostar",
-      "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
-    },
-    {
-      "added_at": "2024-12-13 07:10:09",
-      "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 149195,
       "name": "1900's",
       "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
+    },
+    {
+      "added_at": "2024-12-13 07:10:09",
+      "album": {
+        "name": "Eurostar",
+        "url": "https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 165079,
+      "name": "Eurostar",
+      "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
     },
     {
       "added_at": "2024-12-13 07:10:09",

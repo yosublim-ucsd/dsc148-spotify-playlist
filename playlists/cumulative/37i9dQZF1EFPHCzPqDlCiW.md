@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 8 hr 9 min
+153 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Reason To Stay](https://open.spotify.com/track/7wEXKF8ltyhpiGlUfa3RGh) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/2D23kwwoy2JpZVuJwzE42B) | 3:08 | 2024-01-29 |  |
 | [Rectify](https://open.spotify.com/track/4R92vwddgoPdxQoO5D4tqs) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 2:48 | 2024-01-29 |  |
 | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/track/2P05O4MevMZFthpwZEDGBh) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/album/6DFkcVQt8csmoaKXhzBU8y) | 6:53 | 2024-01-29 |  |
+| [Roots](https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Roots](https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV) | 2:52 | 2024-12-15 |  |
 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 | 2024-09-22 |  |
 | [Shoot Down The Sun](https://open.spotify.com/track/1agXGm6VaKxT5DckyuhCJc) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Shoot Down The Sun](https://open.spotify.com/album/1E9dHNaYD5tfmslrOwNRyj) | 3:10 | 2024-01-29 |  |
 | [Signals \- Live At St Pancras Old Church](https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1) | 3:57 | 2024-01-29 |  |

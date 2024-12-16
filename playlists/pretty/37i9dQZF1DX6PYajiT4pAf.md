@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rels B y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,530 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,551 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 21 | [Abuela](https://open.spotify.com/track/2zFBUm16VUyUuOSg8b5pNU) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Abuela](https://open.spotify.com/album/3TBHeMzwW0nxDrgrnMcBPi) | 2:53 |
 | 22 | [Pa que Siempre te acuerdes de mí](https://open.spotify.com/track/1elJfq8XkPNptJV1fiyOjb) | [Maki](https://open.spotify.com/artist/65GDNtLQdPv30IljvoE2KW), [María Artés](https://open.spotify.com/artist/4gI6T5h1UQPf5hA3FdJULt) | [Pa que Siempre te acuerdes de mí](https://open.spotify.com/album/6DyqpkJ3596XRq2s5Jpilq) | 3:13 |
 | 23 | [Sabes qué te digo](https://open.spotify.com/track/0upFTvX06CLDYiaBn3ZIJV) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Sabes qué te digo](https://open.spotify.com/album/4YJG6mBDSIbDXVtqOBxLmh) | 3:33 |
-| 24 | [INVISIBLE](https://open.spotify.com/track/6fOvSv6KEZoRG6b5faYKBK) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [INVISIBLE](https://open.spotify.com/album/06yxeVEJxrVhGTMU76Owu7) | 4:23 |
+| 24 | [Invisible](https://open.spotify.com/track/6fOvSv6KEZoRG6b5faYKBK) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Invisible](https://open.spotify.com/album/06yxeVEJxrVhGTMU76Owu7) | 4:23 |
 | 25 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 |
 | 26 | [TOKYO \| Barracudas \#4](https://open.spotify.com/track/70hYSAKpLIplJ16jfxjdUt) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u) | [TOKYO \| Barracudas \#4](https://open.spotify.com/album/7tPfY9ZYW4RUPz8fVTqUVO) | 2:31 |
 | 27 | [50%](https://open.spotify.com/track/1PaH5V4T7kmkpMSrqEdEkF) | [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [50%](https://open.spotify.com/album/2MJLoPtRijhg0dMhLmBoW2) | 2:44 |

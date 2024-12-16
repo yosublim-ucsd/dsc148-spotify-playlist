@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover:  Wande Coal , Kel P",
-  "num_followers": 133233,
+  "num_followers": 133459,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,22 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "JUJU (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 157756,
-      "name": "JUJU (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -183,18 +179,26 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Lonely At The Top",
-      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -323,22 +327,18 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Awuke",
-        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+      "duration_ms": 157714,
+      "name": "Lonely At The Top",
+      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -563,22 +563,22 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+      "duration_ms": 137962,
+      "name": "Could This Be Love",
+      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -603,22 +603,38 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "[I.N.I.T] In Nasboi I Trust",
-        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
       "artists": [
         {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         },
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 137962,
-      "name": "Could This Be Love",
-      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -651,18 +667,18 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -679,22 +695,6 @@
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Pano Tona",
-        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 174107,
-      "name": "Pano Tona",
-      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -823,22 +803,6 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -863,18 +827,38 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+        "name": "Pano Tona",
+        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+      "duration_ms": 174107,
+      "name": "Pano Tona",
+      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -891,6 +875,22 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -967,22 +967,22 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
-        "name": "Xin Mao",
-        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
+        "name": "Xin Mao",
+        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
-        "name": "For Where?",
-        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "For Where?",
-      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 136132,
       "name": "Egwu",
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
     },
     {
       "added_at": "2024-12-12 22:44:08",
@@ -1343,6 +1343,46 @@
     {
       "added_at": "2024-12-12 22:44:08",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
+        "name": "Close To Me (feat. Bnxn)",
+        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "Close To Me (feat. Bnxn)",
+      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+    },
+    {
+      "added_at": "2024-12-12 22:44:08",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1379,46 +1419,6 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
-        "name": "Close To Me (feat. Bnxn)",
-        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
-      },
-      "artists": [
-        {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "Close To Me (feat. Bnxn)",
-      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
-    },
-    {
-      "added_at": "2024-12-12 22:44:08",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-12-12 22:44:08",

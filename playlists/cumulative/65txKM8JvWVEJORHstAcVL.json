@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (8/12/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (15/12/2024)",
   "tracks": [
     {
       "album": {
@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Menys mal que ja \u00e9s Nadal",
+        "url": "https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf"
+      },
+      "artists": [
+        {
+          "name": "Siderland",
+          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159705,
+      "name": "Menys mal que ja \u00e9s Nadal",
+      "url": "https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv"
+    },
+    {
+      "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -1722,6 +1740,24 @@
       "duration_ms": 151304,
       "name": "Que Vinguis",
       "url": "https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb"
+    },
+    {
+      "album": {
+        "name": "REBOBINAR",
+        "url": "https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174412,
+      "name": "REBOBINAR",
+      "url": "https://open.spotify.com/track/45r6wchHonMxHst9NwAnze"
     },
     {
       "album": {
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"

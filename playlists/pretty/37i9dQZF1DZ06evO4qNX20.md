@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,248 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,325 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Reto a la Muerte](https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [20 Exitos](https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2) | 3:01 |
 | 50 | [Quisiera Ser Pajarillo](https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:17 |
 
-Snapshot ID: `Z1t5AAAAAABtzfUvs4qOyGLBFTwMPcFo`
+Snapshot ID: `Z1zKgAAAAAB6dr1JVCKMlpgW/23s9gZe`

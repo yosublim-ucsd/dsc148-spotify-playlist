@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 114 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,399 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

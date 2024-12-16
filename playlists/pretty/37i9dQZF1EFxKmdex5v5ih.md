@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 302 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 302 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 45 | [Million Dollar Baby](https://open.spotify.com/track/3wFM8TWbbkwPuB6TyqpVDv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:04 |
 | 46 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 | 47 | [Sway \(Quien Sera\)](https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:45 |
-| 48 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 |
-| 49 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 |
+| 48 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 |
+| 49 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 |
 | 50 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
 | 51 | [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 |
 | 52 | [Drugs & The Internet](https://open.spotify.com/track/3pOSvuKA8pmBG7Ar9Y5OnK) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:58 |
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 215 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 |
 | 216 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 |
 | 217 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
-| 218 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 |
-| 219 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 218 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 219 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 |
 | 220 | [What Ifs](https://open.spotify.com/track/2R3B2XsVx0SadBO1N8dSBq) | [Angourie Rice](https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:58 |
 | 221 | [dark times](https://open.spotify.com/track/67dauMD2RclztbZPgMDBKk) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:06 |
 | 222 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 259 | [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 |
 | 260 | [Eternity](https://open.spotify.com/track/1sGPx5DZ5ADHoFxHgqVpzJ) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Memory](https://open.spotify.com/album/13xiFFc0cBN88k8Nb3X9oR) | 4:28 |
 | 261 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 |
-| 262 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 |
-| 263 | [Not of This Earth](https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:13 |
+| 262 | [Not of This Earth](https://open.spotify.com/track/1JXrbwuTbfqu5IYiyjtd5z) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [California Gold](https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3) | 3:13 |
+| 263 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 |
 | 264 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
 | 265 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
 | 266 | [Happy Sad Song](https://open.spotify.com/track/45IE0eGMtljSg9ZmN61I5t) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song](https://open.spotify.com/album/7r7vD3A2yDWlFJ4NYk2tbk) | 3:06 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 301 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 | 302 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbkJ0gAAAAAIcRquG/eg9BgbSEp7QCEC`
+Snapshot ID: `AbkPcgAAAADCYdS1/cu3OdX4gi6kmTSI`

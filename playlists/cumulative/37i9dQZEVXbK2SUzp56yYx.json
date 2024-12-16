@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 150588,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/35pAZQU6X9WjIlUyuej4DF"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 197760,
       "name": "Because I Got High",
       "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 101533,
       "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4TGZTPJ50VXfqCIEwf6Bmm"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 101533,
       "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
@@ -4698,7 +4698,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Hellfire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1aFVWIGU2MUJXaRqcxEaBQ"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
@@ -5000,6 +5000,24 @@
       "duration_ms": 187842,
       "name": "Hypnodancer",
       "url": "https://open.spotify.com/track/7wnmLScYurZbketCXxyWBw"
+    },
+    {
+      "album": {
+        "name": "Ich hab' Dich lieb",
+        "url": "https://open.spotify.com/album/0w43STxwgAf76F6EYP5egY"
+      },
+      "artists": [
+        {
+          "name": "Schnuffel",
+          "url": "https://open.spotify.com/artist/5DGYCbg2g2iBsGL0klVz0A"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/7a3Aqdc4cx6UAjSqEeQIGP"
     },
     {
       "album": {
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 112083,
       "name": "lazit po stenam",
       "url": "https://open.spotify.com/track/4Ro4O1feGQwjPGqYocrjVj"
@@ -6610,7 +6628,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -6640,7 +6658,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -6870,10 +6888,28 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 75692,
       "name": "MAZKO",
       "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
+    },
+    {
+      "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84980,
+      "name": "MAZKO - Slowed",
+      "url": "https://open.spotify.com/track/6I184loW1MvmI9IPDUpL8j"
     },
     {
       "album": {
@@ -7666,7 +7702,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 75642,
       "name": "NA KOLENI FUNK",
       "url": "https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx"
@@ -8288,7 +8324,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 122826,
       "name": "OKAY BABY",
       "url": "https://open.spotify.com/track/4BpxlUs94r8DKtisHcDyna"
@@ -8470,7 +8506,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 114600,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4cCeHTJcKQU9PCuQ2jiYlI"
@@ -9104,7 +9140,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
@@ -9156,7 +9192,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 122053,
       "name": "Remember Me - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3NqW1FtYalkdAr7gz7Btwh"
@@ -9272,7 +9308,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
@@ -10728,7 +10764,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 224293,
       "name": "Sucker (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T"
@@ -10780,7 +10816,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 224293,
       "name": "Sucker - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
@@ -11364,7 +11400,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1NzNNQuppVgVYrm2hvrPK2"
@@ -11416,7 +11452,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 245626,
       "name": "To Ashes and Blood - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
@@ -13763,6 +13799,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u043e\u0431\u0440",
+        "url": "https://open.spotify.com/album/7ihIjzahqp7DpxBhAR5se5"
+      },
+      "artists": [
+        {
+          "name": "SLAVA SKRIPKA",
+          "url": "https://open.spotify.com/artist/2SCKCFVeamQC1Dk2fdX4VT"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129756,
+      "name": "\u0411\u043e\u0431\u0440",
+      "url": "https://open.spotify.com/track/3M7TcCC5bdrgLZeYms1x3Y"
+    },
+    {
+      "album": {
         "name": "PHLORA",
         "url": "https://open.spotify.com/album/5hYqMXq8qMf6FKPFGxl6Sm"
       },
@@ -16089,6 +16143,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
+        "url": "https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u043e\u043d\u044f \u041c\u0430\u0442\u0432\u0456\u0454\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163224,
+      "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
+      "url": "https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW"
+    },
+    {
+      "album": {
         "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043e\u0442",
         "url": "https://open.spotify.com/album/0kA9HsMf3OHZJcI18O79Ts"
       },
@@ -17254,7 +17326,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
@@ -17486,7 +17558,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 165903,
       "name": "\u041e\u0431\u043d\u0438\u043c\u0430\u044e - \u0442\u0430\u044e",
       "url": "https://open.spotify.com/track/0T6gHBm5WfSm0YwvzsXWrm"

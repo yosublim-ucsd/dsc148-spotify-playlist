@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-441 songs - 20 hr 58 min
+442 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [RASCUNHO](https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:43 | 2024-09-29 |  |
 | [RASCUNHO](https://open.spotify.com/track/5qY6KlNVjy04tR7a3PqZ1K) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/5EJ3c9jg1lTDl8tzELC4nV) | 2:43 | 2024-08-04 | 2024-09-30 |
 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 | 2024-01-29 |  |
-| [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 | 2024-01-29 |  |
+| [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 | 2024-01-29 | 2024-12-16 |
+| [Recompensa](https://open.spotify.com/track/7wO4Jar587uqPloRcHzT1z) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/4mbYsbdgR0aDqQsaHak3Je) | 3:15 | 2024-12-15 |  |
 | [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 | 2024-01-29 | 2024-08-18 |
 | [Relógio](https://open.spotify.com/track/5YvDixjQY71lOqysRBDrGM) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/2Yt9Tp1AYoG77Rp7bv9RZP) | 2:53 | 2024-08-17 |  |
 | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb) | 3:00 | 2024-01-29 |  |

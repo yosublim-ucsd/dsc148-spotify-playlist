@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,638 likes - 85 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,757 likes - 85 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 84 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
 | 85 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 
-Snapshot ID: `Z1apiwAAAACRxsu+rVAgxEWFLkWnCAan`
+Snapshot ID: `Z19qAAAAAAAA0X9lqc53GYeZxE4UEF7O`

@@ -4,7 +4,7 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-78 songs - 4 hr 29 min
+79 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,11 @@
 | [Power Trip](https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Power Trip](https://open.spotify.com/album/37OnzPfxo28Jfcgd9hVdan) | 3:15 | 2024-12-04 |  |
 | [Price On Fun](https://open.spotify.com/track/3Hf0FdUs6M72wuzvmUGqDA) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/1l4BHtwsAmmLTkiP1dP3k9) | 3:22 | 2024-12-04 |  |
 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 | 2024-12-04 |  |
-| [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 | 2024-12-04 |  |
+| [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 | 2024-12-04 | 2024-12-16 |
 | [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 | 2024-12-04 |  |
 | [Sad In Carolina](https://open.spotify.com/track/7mPrr3n1aRFRxIOS7qZlJc) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Western Space Grunge](https://open.spotify.com/album/4mlKggiLCcQHagOfwSDALt) | 3:10 | 2024-12-04 |  |
 | [Safety Pin](https://open.spotify.com/track/5Lvh16D0FEzm8MMo4qJb33) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:18 | 2024-12-04 |  |
+| [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 | 2024-12-04 |  |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-12-04 |  |
 | [Sick Kinda WRLD](https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Let's Live a Life Better Than This](https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe) | 3:38 | 2024-12-04 | 2024-12-11 |
 | [Slow Rotting, Fast Decay](https://open.spotify.com/track/1JFNCe65E14HLhMqDiqUju) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Slow Rotting, Fast Decay](https://open.spotify.com/album/59hV6wC7pMB7U6AXKLxOxm) | 3:17 | 2024-12-04 |  |

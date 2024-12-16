@@ -1,45 +1,13 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 6570364,
+  "num_followers": 6601023,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z10Q3QAAAAAWFbhWyPdbU1yPPvUyIdk0",
+  "snapshot_id": "Z17mdgAAAABdGFO2a/iy9lqzug7NSGr7",
   "tracks": [
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
@@ -75,34 +43,34 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 153099,
-      "name": "A Nonsense Christmas",
-      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 151933,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -123,18 +91,34 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "The Definite Best",
+        "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -155,6 +139,22 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
         "name": "Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "The Definite Best",
-        "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Holiday Road - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+        "name": "Christmas (Baby, Please Come Home)",
+        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
         }
       ],
-      "duration_ms": 125196,
-      "name": "Holiday Road - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -291,22 +307,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Christmas (Baby, Please Come Home)",
-        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0gtE70KEjYETTUYPsctiae"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 117586,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/1prYSRBfwPvE3v8jSRZL3Q"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -455,22 +471,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Do They Know It\u2019s Christmas?",
-        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Driving Home for Christmas - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 166551,
-      "name": "Driving Home for Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
         "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
         "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 206160,
       "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6pbS3SMfbLLrcOMR9SDpsZ"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -1331,6 +1315,22 @@
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
       "added_at": "2024-12-06 05:40:39",

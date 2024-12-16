@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 873265,
+  "num_followers": 873337,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACWVLbWZnkF46/ZHNWf+6ti",
+  "snapshot_id": "Z1zKgAAAAACubGhXd4sOKMBHMlqVwr8w",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday (Complete Edition)",
-        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Super Bass",
-      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 199073,
       "name": "AGATS2 (Insecure) [with Nicki Minaj]",
       "url": "https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2012 (It Ain't The End)",
-        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Sean",
-          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "2012 (It Ain't The End)",
-      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 179404,
       "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
     },
     {
       "added_at": null,
@@ -1071,30 +1071,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II: The Album",
-        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
+        "name": "The Pinkprint (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
       "artists": [
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 131674,
-      "name": "Runnin (with A$AP Rocky, A$AP Ferg & Nicki Minaj)",
-      "url": "https://open.spotify.com/track/23dwrzeJtEEGl2U4CPWSor"
+      "duration_ms": 220466,
+      "name": "Truffle Butter",
+      "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 49073,
+  "num_followers": 49079,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "You Never Visit Me",
         "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
       },
@@ -463,18 +447,34 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+      "duration_ms": 183160,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Little Fun (feat. Sammy Johnson)",
         "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
       },
@@ -915,6 +899,54 @@
       "duration_ms": 170106,
       "name": "Little Fun (feat. Sammy Johnson)",
       "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -939,22 +971,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Sway (Remix)",
         "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+        "name": "Hard To Get High",
+        "url": "https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD"
       },
       "artists": [
         {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
         }
       ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
+      "duration_ms": 276229,
+      "name": "Hard To Get High",
+      "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1003,22 +1019,6 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Hard To Get High",
-        "url": "https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD"
-      },
-      "artists": [
-        {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
-        }
-      ],
-      "duration_ms": 276229,
-      "name": "Hard To Get High",
-      "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Laying Low",
-        "url": "https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Laying Low",
-      "url": "https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+        "name": "Laying Low",
+        "url": "https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL"
       },
       "artists": [
         {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+      "duration_ms": 169366,
+      "name": "Laying Low",
+      "url": "https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Til My Song Is Done",
-        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
       },
       "artists": [
         {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Til My Song is Done",
-      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1203,18 +1187,46 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw"
+        "name": "Til My Song Is Done",
+        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
         }
       ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3"
+      "duration_ms": 274600,
+      "name": "Til My Song is Done",
+      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "SEE YOU TRY...",
+        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
+      },
+      "artists": [
+        {
+          "name": "Yawdoesitall",
+          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
+        },
+        {
+          "name": "Yasmina Sadiki",
+          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
+        },
+        {
+          "name": "TAWANDA",
+          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
+        },
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "SEE YOU TRY...",
+      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
     }
   ],
   "unique_name": "Soulful",

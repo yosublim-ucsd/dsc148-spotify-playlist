@@ -7392,7 +7392,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 170018,
       "name": "Caminando Por Tegucigalpa",
       "url": "https://open.spotify.com/track/0jkwlTQDffmHaDoHUbwJw1"
@@ -9687,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235020,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
       },
@@ -11480,7 +11498,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 218701,
       "name": "DEPORTIVO",
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
@@ -18668,7 +18686,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -20278,7 +20296,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
@@ -21560,7 +21578,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 196603,
       "name": "Joven De La Sierra",
       "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
@@ -27379,6 +27397,24 @@
     },
     {
       "album": {
+        "name": "Me Llueven Las Barbies",
+        "url": "https://open.spotify.com/album/3Uy5dCqbvDxpxN6cLUtela"
+      },
+      "artists": [
+        {
+          "name": "TRIP MUSIC",
+          "url": "https://open.spotify.com/artist/07UfFVZ1XRWV7TRNWbt1pU"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145162,
+      "name": "Me Llueven Las Barbies",
+      "url": "https://open.spotify.com/track/1716lvEJYr3XWpHNnkE0Xv"
+    },
+    {
+      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -29592,7 +29628,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 178336,
       "name": "Morena Canela",
       "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
@@ -33324,7 +33360,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 114600,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4cCeHTJcKQU9PCuQ2jiYlI"
@@ -45218,7 +45254,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 245626,
       "name": "To Ashes and Blood - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
@@ -50798,7 +50834,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
@@ -51636,7 +51672,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 264680,
       "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"

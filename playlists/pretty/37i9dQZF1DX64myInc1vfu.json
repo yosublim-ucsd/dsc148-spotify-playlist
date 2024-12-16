@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 91615,
+  "num_followers": 91646,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -147,42 +147,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 209652,
-      "name": "Diez Pasos Hacia Ti",
-      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Los mismos",
-        "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
-      },
-      "artists": [
-        {
-          "name": "NOREH",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Los mismos",
-      "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Como habla una mujer (feat. C. Tangana)",
         "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
       },
@@ -203,6 +167,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Los mismos",
+        "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
+      },
+      "artists": [
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Los mismos",
+      "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 209652,
+      "name": "Diez Pasos Hacia Ti",
+      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Dulcito e Coco",
-      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -251,6 +235,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Camas Separadas",
+        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Tengo Todo Contigo",
         "url": "https://open.spotify.com/album/1rtHQK6dXbLXZxdFg7iwPm"
       },
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Dulcito e Coco",
+      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Te Mata",
         "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Camas Separadas",
-        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Dos Gardenias",
         "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "TRAUMADOS",
         "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162510,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Tambi\u00e9n de dolor se canta",
         "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Por ti",
         "url": "https://open.spotify.com/album/0AmRFAG5G4Gv9QIQb3RqqY"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 187500,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/2tqdD7XgrlswALoGNA2vMu"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 279824,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2024-12-06 05:00:00",

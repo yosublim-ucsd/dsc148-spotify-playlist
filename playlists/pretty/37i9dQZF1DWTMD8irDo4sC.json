@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 71693,
+  "num_followers": 71724,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Identit\u00e9",
+        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
+      },
+      "artists": [
+        {
+          "name": "Labess",
+          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "El Kess Yaddour",
+      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "A Vava Inouva",
-        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Ssendu (Voie Lact\u00e9e)",
-      "url": "https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 268500,
       "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Identit\u00e9",
-        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
-      },
-      "artists": [
-        {
-          "name": "Labess",
-          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "El Kess Yaddour",
-      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -255,18 +239,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Ahwak ( Version)",
-        "url": "https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV"
+        "name": "A Vava Inouva",
+        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
       },
       "artists": [
         {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
         }
       ],
-      "duration_ms": 94432,
-      "name": "Ahwak - Acoustic",
-      "url": "https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID"
+      "duration_ms": 190733,
+      "name": "Ssendu (Voie Lact\u00e9e)",
+      "url": "https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -283,6 +267,22 @@
       "duration_ms": 221466,
       "name": "Mnam",
       "url": "https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Ahwak ( Version)",
+        "url": "https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 94432,
+      "name": "Ahwak - Acoustic",
+      "url": "https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "A Vava Inouva",
-        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Zwit rwit",
-      "url": "https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Bent Elgiran & Haga Mestikhabya",
         "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
       },
@@ -363,38 +347,6 @@
       "duration_ms": 173506,
       "name": "Bent Elgiran & Haga Mestikhabya",
       "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
-      },
-      "artists": [
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "HANNET LEKLOUB",
-        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Sucre",
-      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -415,58 +367,50 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
       },
       "artists": [
         {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
         }
       ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+      "duration_ms": 222440,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
     },
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Ici et ailleurs",
-        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
+        "name": "A Vava Inouva",
+        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
       },
       "artists": [
         {
           "name": "Idir",
           "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        },
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 333200,
-      "name": "La corrida (with Francis Cabrel)",
-      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
+      "duration_ms": 217346,
+      "name": "Zwit rwit",
+      "url": "https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+        "name": "HANNET LEKLOUB",
+        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
         }
       ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+      "duration_ms": 235026,
+      "name": "Sucre",
+      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -487,6 +431,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Aw'at (Acoustic Version)",
         "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
       },
@@ -499,6 +459,26 @@
       "duration_ms": 185345,
       "name": "Aw'at (Acoustic Version)",
       "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
+        }
+      ],
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -539,18 +519,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
         }
       ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -571,18 +551,38 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+        "name": "Ici et ailleurs",
+        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
       },
       "artists": [
         {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+        },
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+      "duration_ms": 333200,
+      "name": "La corrida (with Francis Cabrel)",
+      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 290730,
+      "name": "Wakfa",
+      "url": "https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Oumniya",
-        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 290730,
-      "name": "Wakfa",
-      "url": "https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Smek",
+      "url": "https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Fattah Al Ward",
         "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 237217,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Smek",
-      "url": "https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Brya",
-        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
-      },
-      "artists": [
-        {
-          "name": "Babylone",
-          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Bekitini",
-      "url": "https://open.spotify.com/track/1ufipNCGdfkkaBXg06vojb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ayech Bi Oyouni",
         "url": "https://open.spotify.com/album/5pfkDggECTlWNLL9Jf4orK"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 232048,
       "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
       "url": "https://open.spotify.com/track/6AUYfm05XSHswchPVtDEYo"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Brya",
+        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
+      },
+      "artists": [
+        {
+          "name": "Babylone",
+          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Bekitini",
+      "url": "https://open.spotify.com/track/1ufipNCGdfkkaBXg06vojb"
     },
     {
       "added_at": "2022-05-09 08:05:11",

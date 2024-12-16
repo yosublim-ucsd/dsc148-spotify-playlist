@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 13257,
+  "num_followers": 13266,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -239,42 +255,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Said Sum",
-      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 383036,
-      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 383036,
+      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Track Star",
-        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
-      },
-      "artists": [
-        {
-          "name": "Mooski",
-          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Track Star",
-      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "The Bigger Picture",
         "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 252728,
       "name": "The Bigger Picture",
       "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Track Star",
+        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
+      },
+      "artists": [
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Track Star",
+      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -619,22 +619,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Dum and Dummer 2",
-        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Aspen",
-      "url": "https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL"
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -655,62 +651,6 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "The Plugs I Met 2",
-        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "When Tony Met Sosa",
-      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Ain't It Funny ft. Meek Mill",
-      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -739,44 +679,8 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Twerksum",
-        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Twerksum",
-      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "I Hit It First - Single",
-        "url": "https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        },
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "I Hit It First",
-      "url": "https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+        "name": "Dum and Dummer 2",
+        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
       "artists": [
         {
@@ -784,13 +688,13 @@
           "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+      "duration_ms": 166333,
+      "name": "Aspen",
+      "url": "https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -811,6 +715,82 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "The Plugs I Met 2",
+        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "When Tony Met Sosa",
+      "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Twerksum",
+        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Twerksum",
+      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Ain't It Funny ft. Meek Mill",
+      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "I Hit It First - Single",
+        "url": "https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        },
+        {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "I Hit It First",
+      "url": "https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -867,6 +847,26 @@
       "duration_ms": 190731,
       "name": "Flewed Out",
       "url": "https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     },
     {
       "added_at": "2022-10-01 16:09:56",

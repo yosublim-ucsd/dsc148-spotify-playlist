@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > TOMTEN BETALAR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,284 likes - 120 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,273 likes - 120 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 23 | [Be för mig \- J.O.X Remix](https://open.spotify.com/track/79vPX0GhXYaT46L2LgEHuc) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Be för mig \(J.O.X Remix\)](https://open.spotify.com/album/02BnX6k1TNoQP8gBSaxg0U) | 2:26 |
 | 24 | [BITCH PLEASE](https://open.spotify.com/track/3lXgJrdPWbiBX7CKy1OM1J) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [BITCH PLEASE](https://open.spotify.com/album/2aAn4FknqedyICsu3qyDAP) | 2:01 |
 | 25 | [FYLLESVIN 2](https://open.spotify.com/track/5qMwpTq5wRGqgXoPB2z24b) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [FYLLESVIN 2](https://open.spotify.com/album/4sOfbCTq7kZvHFlNMTFx8n) | 2:04 |
-| 26 | [FYLLESVIN](https://open.spotify.com/track/3bKSXxafwbeSPKqaRKVcbQ) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [NORDBØYZ](https://open.spotify.com/artist/2H9dd8N0kNRa2vp3BathAV) | [FYLLESVIN](https://open.spotify.com/album/19jO8qfChBzU3h31KZ8iAh) | 2:27 |
+| 26 | [FYLLESVIN](https://open.spotify.com/track/3bKSXxafwbeSPKqaRKVcbQ) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y) | [FYLLESVIN](https://open.spotify.com/album/19jO8qfChBzU3h31KZ8iAh) | 2:27 |
 | 27 | [ALLTING BLIR NOG BRA](https://open.spotify.com/track/1KycrYHlXiTwW4g5Xeuxt6) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [YWB](https://open.spotify.com/artist/5lBsK5xIl9HCUgSYtgUuBi) | [ALLTING BLIR NOG BRA](https://open.spotify.com/album/7LlaxLT8gRlpE4sEQ4qKeF) | 2:30 |
 | 28 | [Tio Glas Tequila \- Dunk Remix](https://open.spotify.com/track/6yiRIPgXJWB8px80bWaSyW) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Tio Glas Tequila \(Dunk Remix\)](https://open.spotify.com/album/7r1tYoKWDYU7dyFUuWs0Eu) | 1:54 |
 | 29 | [ÖL](https://open.spotify.com/track/1Gq5yYrIbbhzlBUmcqdjtI) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [ÖL](https://open.spotify.com/album/2RgHP6D1dTMdb8jjqe2pML) | 2:26 |

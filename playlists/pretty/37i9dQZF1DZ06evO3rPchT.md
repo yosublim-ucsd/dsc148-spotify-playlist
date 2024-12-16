@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,887 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,908 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 |
 | 50 | [Some Things Never Change \(feat\. HARDY\)](https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Timeless](https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE) | 2:51 |
 
-Snapshot ID: `Z1t5AAAAAAB42ct3wmtO51+IW+Bc4TlB`
+Snapshot ID: `Z1zKgAAAAAAHDHTPOtXjmvX85Zz9io6E`

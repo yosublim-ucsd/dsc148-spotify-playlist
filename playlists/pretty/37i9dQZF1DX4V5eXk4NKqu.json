@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 166292,
+  "num_followers": 166317,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "HENRY",
-        "url": "https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb"
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Persona Favorita",
-      "url": "https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J"
+      "duration_ms": 181546,
+      "name": "Ay No Puedo",
+      "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -147,34 +143,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "bien hecho",
-        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+        "name": "HENRY",
+        "url": "https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 181546,
-      "name": "Ay No Puedo",
-      "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
+      "duration_ms": 207150,
+      "name": "Persona Favorita",
+      "url": "https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -231,18 +215,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 164771,
-      "name": "BRUJERIA!",
-      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -259,6 +243,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 164771,
+      "name": "BRUJERIA!",
+      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Terapia (Remix)",
-        "url": "https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        },
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        }
-      ],
-      "duration_ms": 198691,
-      "name": "Terapia - Remix",
-      "url": "https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Terapia (Remix)",
+        "url": "https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "duration_ms": 198691,
+      "name": "Terapia - Remix",
+      "url": "https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Dime Precioso",
         "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 163026,
       "name": "VISTO",
       "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "dejarse querer",
         "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 182546,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Se siente bien",
-        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Se siente bien",
-      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Dime pa saber",
         "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173680,
       "name": "Dime pa saber",
       "url": "https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Amor Artificial",
-        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Amor Artificial",
-      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Frenos",
         "url": "https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189900,
       "name": "Frenos",
       "url": "https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Y SI SE ABREN LOS CIELOS",
         "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-12-06 05:00:00",

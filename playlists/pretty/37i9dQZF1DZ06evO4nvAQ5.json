@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADXuYV7/AJwDRIFxU7axWnD",
+  "snapshot_id": "Z1zKgAAAAABL74B0E4F32A5IpX0+jcw2",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 268654,
+      "name": "Aye Ok",
+      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 268654,
-      "name": "Aye Ok",
-      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 192168,
+      "name": "Hear Me Roar",
+      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Ever",
         "url": "https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 282052,
       "name": "If I Ever",
       "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Hear Me Roar",
-      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marching Orders",
         "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 230563,
       "name": "Mama Roots",
       "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
     },
     {
       "added_at": null,

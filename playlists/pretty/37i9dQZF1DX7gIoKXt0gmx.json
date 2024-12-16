@@ -1,6 +1,6 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2744046,
+  "num_followers": 2744045,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -427,42 +427,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 133762,
-      "name": "Yebba\u2019s Heartbreak",
-      "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -475,6 +439,22 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -515,6 +495,42 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 133762,
+      "name": "Yebba\u2019s Heartbreak",
+      "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
         "name": "Buckles Laboratories Presents: The Intermission",
         "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
       },
@@ -547,38 +563,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "You Broke My Heart",
-      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -827,6 +807,42 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -899,18 +915,34 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+      "duration_ms": 265120,
+      "name": "Doing It Wrong",
+      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 323746,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -931,58 +963,6 @@
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Doing It Wrong",
-      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 323746,
-      "name": "Wicked Games",
-      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -1031,6 +1011,26 @@
       "duration_ms": 250454,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 274226,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 222402,
       "name": "Always (feat. Summer Walker) - Bonus",
       "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 77374,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -1315,22 +1331,6 @@
       "duration_ms": 270546,
       "name": "Never Call Me",
       "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 77374,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
     },
     {
       "added_at": "2024-12-11 15:25:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-12-11 15:25:03",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2024-12-11 15:25:03",
-      "album": {
         "name": "Your Woman",
         "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 295826,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
+      "added_at": "2024-12-11 15:25:03",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2024-12-11 15:25:03",

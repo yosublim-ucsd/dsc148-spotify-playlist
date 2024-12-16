@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Carbonne
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,457 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,464 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

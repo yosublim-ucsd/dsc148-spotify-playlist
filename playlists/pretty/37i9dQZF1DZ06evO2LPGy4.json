@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 444151,
+  "num_followers": 444192,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABg8YtFn15hdUSMSTfNKpP6",
+  "snapshot_id": "Z1zKgAAAAABm+uHWgdRCL0ZNxK3798l+",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Moneda (feat. Gerardo Ortiz)",
-      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Moneda (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
     },
     {
       "added_at": null,

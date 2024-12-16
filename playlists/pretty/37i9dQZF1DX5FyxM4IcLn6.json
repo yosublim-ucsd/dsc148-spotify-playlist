@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 65th GRAMMY Awards.",
-  "num_followers": 133767,
+  "num_followers": 133763,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 130614,
-      "name": "LA PATRULLA",
-      "url": "https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ"
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -199,18 +195,18 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -231,6 +227,26 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 130614,
+      "name": "LA PATRULLA",
+      "url": "https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Here We Go (Uh Oh)",
         "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
       },
@@ -1051,6 +1035,42 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1091,26 +1111,6 @@
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 208521,
-      "name": "II MOST WANTED",
-      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257699,
-      "name": "LEVII'S JEANS",
-      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257699,
+      "name": "LEVII'S JEANS",
+      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 274766,
-      "name": "YA YA",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "the boy is mine (Remix)",
         "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 274766,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
-        "name": "Broken Man",
-        "url": "https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
     },
     {
       "added_at": "2024-11-25 20:25:59",

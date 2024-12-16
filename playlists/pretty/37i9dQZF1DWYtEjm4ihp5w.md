@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > ElGrandeToto f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,814 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,962 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
 | 2 | [112](https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:30 |
 | 3 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 |
-| 4 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
-| 5 | [Thomas Shelby](https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Thomas Shelby](https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU) | 2:12 |
-| 6 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 |
+| 4 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 |
+| 5 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
+| 6 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 |
 | 7 | [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 |
-| 8 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 |
+| 8 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 |
 | 9 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
-| 10 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
-| 11 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 |
+| 10 | [Thomas Shelby](https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Thomas Shelby](https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU) | 2:12 |
+| 11 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
 | 12 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
 | 13 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
 | 14 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 50 | [ACH KHBARKOM](https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [ACH KHBARKOM](https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71) | 3:33 |
 
-Snapshot ID: `Z1wJLAAAAABFS2JmnW4LNmfyGkW6LZo2`
+Snapshot ID: `Z16z7wAAAAApbMauO9a5801H2ZvuanOl`

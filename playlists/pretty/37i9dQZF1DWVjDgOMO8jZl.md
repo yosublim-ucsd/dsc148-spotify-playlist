@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,917 likes - 39 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,925 likes - 39 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

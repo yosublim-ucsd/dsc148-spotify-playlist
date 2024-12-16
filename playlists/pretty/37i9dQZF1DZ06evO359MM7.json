@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 421839,
+  "num_followers": 421877,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAADIe3dbPSQKzeQ3Myzvt/Km",
+  "snapshot_id": "Z1zKgAAAAAAw+/lwDkbKccjhKzioIPUQ",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162969,
-      "name": "CANZONE D'ODIO (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -315,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Fuck Fame (feat. Lil Yachty & Lil Baby)",
-      "url": "https://open.spotify.com/track/6SMlN14kkjXfr07TT6gQN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Fuck Fame (feat. Lil Yachty & Lil Baby)",
+      "url": "https://open.spotify.com/track/6SMlN14kkjXfr07TT6gQN3"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "roll da dice",
         "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PJ (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 178359,
       "name": "PJ (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Options (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 152410,
-      "name": "Options (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2step (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
       },
@@ -915,38 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Options (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 188606,
-      "name": "No Sucker (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
+      "duration_ms": 152410,
+      "name": "Options (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
     },
     {
       "added_at": null,
@@ -975,6 +939,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188606,
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -1035,6 +1015,30 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 262229,
+      "name": "False Idols (with Lil Baby, Suzanna Son)",
+      "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
     }
   ],
   "unique_name": "This Is Lil Baby",

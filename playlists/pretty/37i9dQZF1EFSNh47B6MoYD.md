@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 7 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
 | 8 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/7nM8RogwZZNccdcAh3aHmX) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 4:17 |
 | 9 | [Ataúd](https://open.spotify.com/track/4IqL5iKWFXd6h37VQgGJgd) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Ataúd](https://open.spotify.com/album/49DdpNVtmfHiFXPXzjmYCI) | 3:38 |
-| 10 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 |
-| 11 | [Candela](https://open.spotify.com/track/6aZVaIudGaHm88ydUe9k4i) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:56 |
+| 10 | [Candela](https://open.spotify.com/track/6aZVaIudGaHm88ydUe9k4i) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:56 |
+| 11 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 |
 | 12 | [Aprendí](https://open.spotify.com/track/72KlPsKLIzlZ2M4yXZkiy1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 4:22 |
 | 13 | [Tentación](https://open.spotify.com/track/5xalldFr8mKjbAE0WY2vtp) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8 \(Deluxe\)](https://open.spotify.com/album/33yUZhJNBRKhl4dbVC2h7K) | 3:12 |
 | 14 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbkJ0gAAAABgKzc8mAa8u0npIMSKys3K`
+Snapshot ID: `AbkPaAAAAAC5IwE/GOYIUxVTPHee/lvr`

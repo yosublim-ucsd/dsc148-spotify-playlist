@@ -4,7 +4,7 @@
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-272 songs - 17 hr 5 min
+277 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2021-11-15 |  |
 | [All Over the Road](https://open.spotify.com/track/7HsyyW9EbO0o2LMv161z10) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:48 | 2021-11-29 |  |
 | [Ashokan Farewell](https://open.spotify.com/track/2VjV3PRfThNjqmQg2Y8g4j) | [Jay Ungar](https://open.spotify.com/artist/54jNT6jMGDoxMSBzUDEYSB), [Evan Stover](https://open.spotify.com/artist/1v1YI1e2nv1MFe19mzaafR), [Matt Glaser](https://open.spotify.com/artist/4WYC1ZsXyTC8Jl6ovNMTju), [Molly Mason](https://open.spotify.com/artist/0fJwKh1jYgT5Fz6PzplBsv), [Russ Barenberg](https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF) | [The Civil War \(Original Soundtrack Recording\)](https://open.spotify.com/album/4gPnnu4X6iNApPtW9J9kQe) | 4:04 | 2019-06-27 |  |
+| [Ashokan Farewell](https://open.spotify.com/track/5XQDgNVOU5iaeybTgnRhYO) | [Jay Ungar And Molly Mason](https://open.spotify.com/artist/6xaS1OdlT1J9Wax83irzsH) | [Civil War Classics](https://open.spotify.com/album/27BD9wuAgm4HTsgbRm7yIL) | 5:03 | 2024-12-16 |  |
 | [Axe](https://open.spotify.com/track/4WCe8syCgpfxGb3KFCvBWk) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:16 | 2019-08-15 |  |
 | [Baby I Lost My Way, \(But I'm Going Home\)](https://open.spotify.com/track/4sithGopG72uyw6LrLsgiu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 2:55 | 2019-06-27 | 2024-04-19 |
 | [Baby I Lost My Way, \(But I'm Going Home\)](https://open.spotify.com/track/7vXj89ZD6LYofQNjTmziCt) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing at the Seams \(Deluxe Edition\)](https://open.spotify.com/album/4A2z1eFKxkLX3sI57R5y5s) | 2:55 | 2019-06-27 |  |
@@ -70,6 +71,7 @@
 | [Dreams and Gasoline](https://open.spotify.com/track/3eng6pOVl3hVdnHrvWbeJj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Swear It's the Truth](https://open.spotify.com/album/5j5erAxcsHEfXVMpnZjPky) | 4:41 | 2019-08-29 |  |
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2019-06-27 |  |
 | [Drunken Poet's Dream](https://open.spotify.com/track/2fS7XWfRXnje2uUSYCl8us) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Trouble In Mind](https://open.spotify.com/album/0c2k2ldJq0CNU1QpMFtufi) | 3:28 | 2020-07-20 |  |
+| [Duct Tape Heart](https://open.spotify.com/track/7GhlRMIT9TVSpbPqOrXjvh) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [On The Back Of My Dreams](https://open.spotify.com/album/58OONWKDrW7oJHfWUy68Vc) | 3:17 | 2024-12-16 |  |
 | [Evening Blues](https://open.spotify.com/track/69MTcCogxksQ8WdtnejFaX) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 3:59 | 2019-08-08 |  |
 | [Factories, Farms & Amphetamines](https://open.spotify.com/track/3tAiYwZoNxsIH4uswEEoZ6) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/0ActL0zLX4MYN4pOcOjm8b) | 4:24 | 2022-12-12 |  |
 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 | 2022-12-06 |  |
@@ -100,6 +102,7 @@
 | [H\-Town Turnaround](https://open.spotify.com/track/4NE7SPLiUV96VgGmbIUqmZ) | [Isaac Hoskins](https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E) | [Bender](https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk) | 3:30 | 2022-12-12 |  |
 | [Hallelujah](https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 5:00 | 2021-12-28 |  |
 | [Hands on the Wheel](https://open.spotify.com/track/6C8nBZQw7yyPQ1jkelFYX5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 4:22 | 2021-11-23 |  |
+| [Hang Tight Honey](https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Hang Tight Honey](https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2) | 3:09 | 2024-12-16 |  |
 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-11-14 |  |
 | [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 | 2024-12-02 |  |
 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 | 2024-12-09 |  |
@@ -154,6 +157,7 @@
 | [Mud](https://open.spotify.com/track/1cbAxnTZKd6GJwV9bTdIvl) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 4:11 | 2019-06-27 |  |
 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 | 2022-11-14 |  |
 | [My Diamond Is Too Rough](https://open.spotify.com/track/5wblL7xwegkfOsyJscWrU8) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 5:36 | 2019-06-27 |  |
+| [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 | 2024-12-16 |  |
 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2019-07-25 |  |
 | [New Friends](https://open.spotify.com/track/0kmeLaaMiIGBI8UhrM1bYQ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:15 | 2022-11-28 | 2024-04-19 |
 | [New Friends](https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:15 | 2022-11-28 |  |
@@ -208,6 +212,7 @@
 | [Snake Eyes](https://open.spotify.com/track/0LZ2JLzpdeNTGCYJoQF9Oe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Roadhouse Sun](https://open.spotify.com/album/2oLZMqHgX8H047wkXl23yC) | 4:36 | 2020-08-17 |  |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2019-06-27 |  |
 | [Start To Go](https://open.spotify.com/track/2YdFQVCQMgYqBA5Hk3ptJw) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Forget About Georgia EP](https://open.spotify.com/album/4yz3T443Zvukyk9zasszkN) | 3:45 | 2019-08-01 |  |
+| [Still Ragin'](https://open.spotify.com/track/0dbdy4RljYj7ZMvnUJdlsv) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Still Ragin'](https://open.spotify.com/album/20BJGeb3AXFs2fGlx8aRAL) | 3:07 | 2024-12-16 |  |
 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 | 2019-06-27 |  |
 | [Straight Up Sideways](https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 2:56 | 2020-07-29 | 2023-11-04 |
 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 | 2020-07-29 | 2024-04-19 |

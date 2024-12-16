@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485540,
+  "num_followers": 1485570,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Black Tea",
         "url": "https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 159026,
       "name": "Black Tea",
       "url": "https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Cadillac Mountain",
         "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "UH OH",
-        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
-      },
-      "artists": [
-        {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
-        }
-      ],
-      "duration_ms": 110561,
-      "name": "UH OH",
-      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 121833,
       "name": "Cove",
       "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "duration_ms": 110561,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -655,38 +655,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Raincoat",
-        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Raincoat",
-      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "LUSTER",
         "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
       },
@@ -723,6 +691,38 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "DIAMONDS & FREAKS (Instrumentals)",
         "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 269474,
       "name": "ADAM & EVE - Instrumental",
       "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
-      },
-      "artists": [
-        {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -991,38 +1007,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "michi",
-        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 158197,
-      "name": "michi",
-      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "michi",
+        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "michi",
+      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "City Strollin'",
         "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
         }
       ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Jasmine Tea",
         "url": "https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Summit",
-        "url": "https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2"
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
       },
       "artists": [
         {
-          "name": "Lowkey Vanni",
-          "url": "https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 129679,
-      "name": "Summit",
-      "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1395,22 +1375,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa"
-      },
-      "artists": [
-        {
-          "name": "The Other Guys",
-          "url": "https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X"
-        }
-      ],
-      "duration_ms": 131370,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Hotel Melancholia",
         "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
@@ -1427,18 +1391,38 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "The Other Guys",
+          "url": "https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X"
         }
       ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+      "duration_ms": 131370,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Summit",
+        "url": "https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2"
+      },
+      "artists": [
+        {
+          "name": "Lowkey Vanni",
+          "url": "https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Summit",
+      "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1455,6 +1439,22 @@
       "duration_ms": 160840,
       "name": "Awesome City",
       "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     }
   ],
   "unique_name": "Mellow Beats",

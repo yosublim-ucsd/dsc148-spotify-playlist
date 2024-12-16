@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 77283,
+  "num_followers": 77301,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
+        "name": "Gust Of Emotion",
+        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Gust Of Emotion",
+      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
         "name": "Cosmic Vibe",
         "url": "https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
-        "name": "Gust Of Emotion",
-        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Gust Of Emotion",
-      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Moonrise",
-        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
-      },
-      "artists": [
-        {
-          "name": "Asa Kora",
-          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Transform",
         "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 162627,
       "name": "Transform",
       "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "duration_ms": 208515,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "No Distractions",
-        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG"
       },
       "artists": [
         {
-          "name": "Airosa",
-          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
         }
       ],
-      "duration_ms": 183227,
-      "name": "No Distractions",
-      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
+      "duration_ms": 175423,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG"
+        "name": "No Distractions",
+        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
       },
       "artists": [
         {
-          "name": "Foora",
-          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+          "name": "Airosa",
+          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
         }
       ],
-      "duration_ms": 175423,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
+      "duration_ms": 183227,
+      "name": "No Distractions",
+      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Emerald Isles",
-        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 233383,
-      "name": "Emerald Isles",
-      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Solitude Symphony",
         "url": "https://open.spotify.com/album/61bPZCBK58fHvRb9qWNsKV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 158751,
       "name": "Solitude Symphony",
       "url": "https://open.spotify.com/track/2g39Z2r9doV4mEGwtBZcKl"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Emerald Isles",
+        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 233383,
+      "name": "Emerald Isles",
+      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Mare Silentis",
         "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 168510,
       "name": "Mare Silentis",
       "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
-      },
-      "artists": [
-        {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
-        }
-      ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "The Sun Will Rise Again",
         "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 142595,
       "name": "The Sun Will Rise Again",
       "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 238192,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
         }
       ],
-      "duration_ms": 181985,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
+      "duration_ms": 238192,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1719,6 +1703,22 @@
       "duration_ms": 156428,
       "name": "Tensions",
       "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
     },
     {
       "added_at": "2024-12-11 14:37:35",

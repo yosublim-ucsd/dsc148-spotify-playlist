@@ -1,6 +1,6 @@
 {
   "description": "From India to MENA, these hits will make you dance.",
-  "num_followers": 66507,
+  "num_followers": 66508,
   "original_name": "Bollywood Araby",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
+        "name": "Paagal",
+        "url": "https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "Paagal",
+      "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR"
+    },
+    {
+      "added_at": "2024-03-13 07:49:44",
+      "album": {
         "name": "Pukar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 425413,
       "name": "Kay Sera Sera",
       "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
-    },
-    {
-      "added_at": "2024-03-13 07:49:44",
-      "album": {
-        "name": "Paagal",
-        "url": "https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "Paagal",
-      "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR"
     },
     {
       "added_at": "2024-03-13 07:49:44",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
+        "name": "Super Star",
+        "url": "https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/7D162LQuIOp4vFQ1XMQcnd"
+        }
+      ],
+      "duration_ms": 329557,
+      "name": "Mann Tu Talbat",
+      "url": "https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG"
+    },
+    {
+      "added_at": "2024-03-13 07:49:44",
+      "album": {
         "name": "Hermosa",
         "url": "https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 203135,
       "name": "Hermosa",
       "url": "https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr"
-    },
-    {
-      "added_at": "2024-03-13 07:49:44",
-      "album": {
-        "name": "Super Star",
-        "url": "https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/7D162LQuIOp4vFQ1XMQcnd"
-        }
-      ],
-      "duration_ms": 329557,
-      "name": "Mann Tu Talbat",
-      "url": "https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG"
     },
     {
       "added_at": "2024-03-13 07:49:44",
@@ -1051,26 +1051,22 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
-        "name": "Telagena (Gerua - Arabic Version) [From \"Dilwale\"]",
-        "url": "https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX"
+        "name": "Bhoora Bhoora",
+        "url": "https://open.spotify.com/album/54c0hF6EJzvirDvfwXKe3n"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Pav Dharia",
+          "url": "https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5"
         },
         {
-          "name": "Adel Ebrahim",
-          "url": "https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+          "name": "Emperor TZZZARRR",
+          "url": "https://open.spotify.com/artist/1uvWNcWID6KLkbLYDgw6Vv"
         }
       ],
-      "duration_ms": 350454,
-      "name": "Telagena (Gerua - Arabic Version) [From \"Dilwale\"]",
-      "url": "https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63"
+      "duration_ms": 189473,
+      "name": "Bhoora Bhoora",
+      "url": "https://open.spotify.com/track/5bzK0v8khbUIe0PYLcKL3E"
     }
   ],
   "unique_name": "Bollywood Araby",

@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259272,
+  "num_followers": 259271,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Girassol (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 65059,
       "name": "Girassol - Ac\u00fastico",
       "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "A Gente S\u00f3 Conhece Quando Termina",
         "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 156774,
       "name": "A Gente S\u00f3 Conhece Quando Termina",
       "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
+        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
-        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
-      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
+        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 187364,
+      "name": "Sagrado Profano - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 166400,
       "name": "Coast (feat. Anderson .Paak) [Acoustic]",
       "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
-        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 187364,
-      "name": "Sagrado Profano - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Blame It On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Blame It On Me - Acoustic",
+      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Caf\u00e9 Ac\u00fastico",
         "url": "https://open.spotify.com/album/6RtA8ArfE1jCUAY5cTNrkN"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 101739,
       "name": "Bem Que Eu Te Avisei",
       "url": "https://open.spotify.com/track/01IPPUDKgtlTn8fbeji3Hn"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
     },
     {
       "added_at": "2024-11-22 15:03:16",

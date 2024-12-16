@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1703743,
+  "num_followers": 1703668,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -211,22 +227,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 391376,
       "name": "Hotel California - 2013 Remaster",
       "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 125666,
       "name": "Yesterday - Remastered 2009",
       "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 177933,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 255733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1839,38 +1839,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "I Will Survive (Phil Kelsey Remix)",
-        "url": "https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "I Will Survive - Original 7\" Version",
-      "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1887,6 +1855,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 202026,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "I Will Survive (Phil Kelsey Remix)",
+        "url": "https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "I Will Survive - Original 7\" Version",
+      "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Volare (Nel Blu di Pinto di Blu)",
+      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
         "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
       },
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Volare (Nel Blu di Pinto di Blu)",
-      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 267160,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -2219,18 +2235,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+      "duration_ms": 427800,
+      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
+      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2247,22 +2263,6 @@
       "duration_ms": 190626,
       "name": "Tu Calorro",
       "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "Live!",
-        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 427800,
-      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
-      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
-      },
-      "artists": [
-        {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
+      },
+      "artists": [
+        {
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3127,6 +3127,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Dangerously In Love (Alben f\u00fcr die Ewigkeit)",
         "url": "https://open.spotify.com/album/25hVFAxTlDvXbx2X2QkUkE"
       },
@@ -3147,18 +3163,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+        "name": "Nevermind (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 285040,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3179,22 +3195,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up - Radio Edit",
-      "url": "https://open.spotify.com/track/6g1NlCpW7fgqDnWbCCDrHl"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "El Cartel: The Big Boss",
         "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
       },
@@ -3211,6 +3211,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up - Radio Edit",
+      "url": "https://open.spotify.com/track/6g1NlCpW7fgqDnWbCCDrHl"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
         "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
       },
@@ -3223,22 +3239,6 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "Nevermind (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
     },
     {
       "added_at": "2024-07-09 14:42:11",

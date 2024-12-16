@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 350024,
+  "num_followers": 350059,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABkTYBKW9UOdAqr82RXWTUm",
+  "snapshot_id": "Z1zKgAAAAAAsmg4tH76VpcPkavMZRklw",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CULTO",
-        "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "R.I.C.O",
-      "url": "https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Verano",
         "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
@@ -795,26 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUMETEO (Remix)",
-        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
+        "name": "CULTO",
+        "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 214880,
-      "name": "FUMETEO - Remix",
-      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+      "duration_ms": 185750,
+      "name": "R.I.C.O",
+      "url": "https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od"
     },
     {
       "added_at": null,
@@ -839,6 +815,30 @@
       "duration_ms": 184405,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUMETEO (Remix)",
+        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "FUMETEO - Remix",
+      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz Care Package",
+        "url": "https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 215745,
       "name": "77",
       "url": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz Care Package",
-        "url": "https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49"
     },
     {
       "added_at": null,

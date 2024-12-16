@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 187146,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Still into You",
-      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 214506,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+      "duration_ms": 195200,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -315,22 +315,6 @@
       "duration_ms": 201240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -427,22 +411,6 @@
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -463,6 +431,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -479,34 +463,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+      "duration_ms": 186813,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -527,6 +495,38 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Tear in My Heart",
+      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 324466,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Hotel Diablo",
         "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
       },
@@ -631,6 +599,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 324466,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 179160,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 239215,
-      "name": "Princess of China",
-      "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+      "duration_ms": 239215,
+      "name": "Princess of China",
+      "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -775,6 +759,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 298266,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 246209,
-      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
-      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Walk The Moon",
         "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 246209,
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209703,
-      "name": "Sham Pain",
-      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Going to Hell",
         "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
       },
@@ -1335,22 +1319,6 @@
       "duration_ms": 224854,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 231896,
-      "name": "High",
-      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1375,6 +1343,38 @@
       "duration_ms": 209120,
       "name": "BLOW (with Chris Stapleton & Bruno Mars)",
       "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 231896,
+      "name": "High",
+      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "How Did We Get So Dark?",
-        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/1060gzllf4b0UETAXisR5l"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Cage The Elephant (Expanded Edition)",
         "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 241320,
       "name": "In One Ear",
       "url": "https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1060gzllf4b0UETAXisR5l"
     },
     {
       "added_at": "2024-07-12 15:00:09",

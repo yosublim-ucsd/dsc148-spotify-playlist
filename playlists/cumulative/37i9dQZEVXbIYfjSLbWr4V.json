@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 183706,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/4IjDmInimVIKoStoedFO1J"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 139724,
       "name": "Chuchuka",
       "url": "https://open.spotify.com/track/6R0CVsepzUgMrcnzf7cP40"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 163093,
       "name": "HALLUCINATION (I.N)",
       "url": "https://open.spotify.com/track/6tVyzdoIKEtPQmhC1oZB7d"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 90315,
       "name": "Pose",
       "url": "https://open.spotify.com/track/0xS08Lk8uNc84YCx1cJtHV"
@@ -3086,6 +3086,24 @@
     {
       "album": {
         "name": "HOP",
+        "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Railway (Bang Chan)",
+      "url": "https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2"
+    },
+    {
+      "album": {
+        "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
       },
       "artists": [
@@ -3096,7 +3114,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 173640,
       "name": "Railway (Bang Chan)",
       "url": "https://open.spotify.com/track/4vNhzQfgfWIzOxbB8HfIHa"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -3484,7 +3502,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 168640,
       "name": "So Good (Hyunjin)",
       "url": "https://open.spotify.com/track/18CEEhZoQBHBiGfGANm0zJ"
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 163520,
       "name": "U (Feat. TABLO)",
       "url": "https://open.spotify.com/track/6l2V3Ik6Q6YZ4M1soUbU4s"
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 168146,
       "name": "Unfair (Felix)",
       "url": "https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT"
@@ -4166,6 +4184,24 @@
     {
       "album": {
         "name": "HOP",
+        "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg"
+    },
+    {
+      "album": {
+        "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
       },
       "artists": [
@@ -4176,7 +4212,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 148810,
       "name": "Walkin On Water",
       "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
@@ -4514,7 +4550,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 120215,
       "name": "\u0410\u043d\u0442\u0438\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0430\u043d\u0442",
       "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
@@ -4642,7 +4678,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 193253,
       "name": "\u0411\u0430\u0442\u0430\u0440\u0435\u0438",
       "url": "https://open.spotify.com/track/0Oj8rpo6eiGvJmnLs4ZrkH"
@@ -7214,7 +7250,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"

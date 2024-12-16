@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 263 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 263 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 77 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:44 |
 | 78 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 |
 | 79 | [Hottest in the City](https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hottest in the City](https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z) | 3:03 |
-| 80 | [SHINE](https://open.spotify.com/track/1yHdfeCpeKPmSzQdfqHtq8) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:43 |
-| 81 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
-| 82 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 |
+| 80 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
+| 81 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 |
+| 82 | [SHINE](https://open.spotify.com/track/1yHdfeCpeKPmSzQdfqHtq8) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:43 |
 | 83 | [SoIcyBoyz 3 \(feat\. Gucci Mane, Pooh Shiesty, Foogiano & Tay Keith\)](https://open.spotify.com/track/72ziZoo6V8N1TpusTXXJGO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 3:24 |
 | 84 | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1) | 3:54 |
 | 85 | [Hasta La Vista](https://open.spotify.com/track/2LZTj14T3XQaODkrtJhDHk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter V \(Deluxe\)](https://open.spotify.com/album/4ljsev5vUnwB2BUFAMvwwy) | 2:51 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 262 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 263 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbkJyAAAAAAuRXAXVvBKzlHKBsYLSXnS`
+Snapshot ID: `AbkPaAAAAADSDQCKqK7N02uXvKkp5zZt`

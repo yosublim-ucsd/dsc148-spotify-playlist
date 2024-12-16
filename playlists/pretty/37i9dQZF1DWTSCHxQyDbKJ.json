@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32388,
+  "num_followers": 32391,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Always Forever",
-        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Good Bi",
         "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 194005,
       "name": "Good Bi",
       "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Matriarchy",
+        "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "Matriarchy",
+      "url": "https://open.spotify.com/track/4Jj9LnTBWvY9v7wbj3c6iJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 290001,
       "name": "Ever New - Single Version",
       "url": "https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Matriarchy",
-        "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "Matriarchy",
-      "url": "https://open.spotify.com/track/4Jj9LnTBWvY9v7wbj3c6iJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Is It Cold In The Water?",
-      "url": "https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Thank Goodness",
         "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Is It Cold In The Water?",
+      "url": "https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 250306,
       "name": "Shadow of a Doubt",
       "url": "https://open.spotify.com/track/1ztIebjhmfFdYPhH4m6ORE"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 119706,
       "name": "STRAP!",
       "url": "https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 215631,
-      "name": "I Want What I Don't Need",
-      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Meditations",
         "url": "https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 357047,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "RIDE",
-        "url": "https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "RIDE",
-      "url": "https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Warping",
         "url": "https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 219332,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "RIDE",
+        "url": "https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Die Happy",
-        "url": "https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK"
-      },
-      "artists": [
-        {
-          "name": "Emily Burns",
-          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "Balcony Floor",
-      "url": "https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 200403,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "Balcony Floor",
+      "url": "https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY"
     },
     {
       "added_at": "2024-12-04 12:15:00",

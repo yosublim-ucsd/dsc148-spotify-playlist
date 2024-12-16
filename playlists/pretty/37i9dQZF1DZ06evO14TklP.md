@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,384 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,407 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 9 | [Terapia](https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:58 |
 | 10 | [Maserati](https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:48 |
 | 11 | [SXO](https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGM](https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb) | 2:57 |
-| 12 | [ELAS PINTAM](https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ELAS PINTAM](https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7) | 3:14 |
+| 12 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
 | 13 | [Megalomaníaca](https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:57 |
-| 14 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
+| 14 | [ELAS PINTAM](https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ELAS PINTAM](https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7) | 3:14 |
 | 15 | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd) | 2:27 |
 | 16 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 |
 | 17 | [Hentai](https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:22 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 46 | [Important](https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [I.E.](https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Never Ghost](https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W) | 3:32 |
 | 47 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 
-Snapshot ID: `Z1t5AAAAAABwIx2mJFRbxbd/37EMtEb5`
+Snapshot ID: `Z1zKgAAAAAC5tnqRbzg2qJW5tXRACfBD`

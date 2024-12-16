@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACoApdbveR03ma7yQVanfwP",
+  "snapshot_id": "Z1zKgAAAAAA7vowDEKxB3w1pkwBloT14",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 237066,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
+      "duration_ms": 146000,
+      "name": "Skinny (It's Overflowing)",
+      "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Skinny (It's Overflowing)",
-      "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
+      "duration_ms": 237066,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 395591,
+  "num_followers": 395643,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -239,22 +223,6 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -279,6 +247,22 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "Amman",
         "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
-      },
-      "artists": [
-        {
-          "name": "We Architects",
-          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
-        },
-        {
-          "name": "Moav",
-          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
+      },
+      "artists": [
+        {
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+        },
+        {
+          "name": "Moav",
+          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
@@ -655,38 +639,18 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
         }
       ],
-      "duration_ms": 230163,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
-        "name": "Hopecore",
-        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 180219,
-      "name": "Hopecore",
-      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -711,6 +675,22 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
+        "name": "Hopecore",
+        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 180219,
+      "name": "Hopecore",
+      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
         "name": "Touching My Body / Down Shovel",
         "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
@@ -731,6 +711,42 @@
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -775,42 +791,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
-        "name": "Gave You Everything",
-        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
-      },
-      "artists": [
-        {
-          "name": "Modern Living",
-          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
+        "name": "Gave You Everything",
+        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
+      },
+      "artists": [
+        {
+          "name": "Modern Living",
+          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "A Different Path",
-        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Trippynova",
-          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "A Different Path",
-      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -1103,6 +1087,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
+      },
+      "artists": [
+        {
+          "name": "Future Soundscapes",
+          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
+    },
+    {
+      "added_at": "2024-11-18 12:01:10",
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 190000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
-    },
-    {
-      "added_at": "2024-11-18 12:01:10",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
-      },
-      "artists": [
-        {
-          "name": "Future Soundscapes",
-          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
     },
     {
       "added_at": "2024-11-18 12:01:10",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2024-11-18 12:01:10",
       "album": {
-        "name": "Above the Salt",
-        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
+        "name": "Inhale / Exhale (with Sabrina Claudio)",
+        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
       "artists": [
         {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 226690,
-      "name": "Above the Salt",
-      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+      "duration_ms": 168888,
+      "name": "Inhale / Exhale (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
     }
   ],
   "unique_name": "Just Chill",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43842,
+  "num_followers": 43841,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAF1rWgT/aZYkm76PMVPDWf",
+  "snapshot_id": "Z1zKgAAAAAApu/6WoITxO6yCir1kX55x",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 157706,
-      "name": "Tomorrowland",
-      "url": "https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v"
+      "duration_ms": 211880,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 211880,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO"
+      "duration_ms": 157706,
+      "name": "Tomorrowland",
+      "url": "https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Just You Wait",
-      "url": "https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW"
+      "duration_ms": 144000,
+      "name": "For The Sun",
+      "url": "https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 144000,
-      "name": "For The Sun",
-      "url": "https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv"
+      "duration_ms": 159386,
+      "name": "Just You Wait",
+      "url": "https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW"
     },
     {
       "added_at": null,
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
       "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
         {
           "name": "Ryan Adams",
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 174120,
-      "name": "Doylestown Girl",
-      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
+      "duration_ms": 180560,
+      "name": "The Battle (feat. Ryan Adams)",
+      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
     },
     {
       "added_at": null,
@@ -507,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Battle",
-        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
       },
       "artists": [
-        {
-          "name": "Caitlin Cary",
-          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
-        },
         {
           "name": "Ryan Adams",
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 180560,
-      "name": "The Battle (feat. Ryan Adams)",
-      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+      "duration_ms": 174120,
+      "name": "Doylestown Girl",
+      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
     },
     {
       "added_at": null,

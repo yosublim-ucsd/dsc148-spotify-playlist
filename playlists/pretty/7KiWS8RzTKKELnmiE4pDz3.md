@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 151 songs - 7 hr 22 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 157 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 149 | [Unicorn Purp \(feat\. Young Thug & Gunna\)](https://open.spotify.com/track/2U3LJfQB0ALLxC7Yy0QW7l) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 4:06 |
 | 150 | [Splash Warning \(feat\. Future, Roddy Ricch and Young Thug\)](https://open.spotify.com/track/6cPnE82DKBLd7sg02ZNg8K) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 2:48 |
 | 151 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
+| 152 | [Shotz to Tha Double Glock](https://open.spotify.com/track/2vdOqUsfp9PAOHumYZhh3l) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 4:42 |
+| 153 | [Cheese and Dope](https://open.spotify.com/track/5o0GRUA7okGPALKyEyQabz) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 3:25 |
+| 154 | [528\-CASH](https://open.spotify.com/track/5ignItAI99TRC9NWluxrtX) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 2:18 |
+| 155 | [Gold Shine \(feat\. Three 6 Mafia\)](https://open.spotify.com/track/38rCYQyqFwL2JImdrTpEbe) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 3:55 |
+| 156 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 |
+| 157 | [Risk It All, Pt.2](https://open.spotify.com/track/1FQMwCRlnmp6lLPrThtS8J) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Perfect](https://open.spotify.com/album/4HPAVn3Z1jGwZLRXadqOKO) | 2:58 |
 
-Snapshot ID: `AAAduMIwc3sUFfZsOAmCsBX2jB6Jmdm6`
+Snapshot ID: `AAAdvgtrgDne/MwqhE0050xw+4GopdmQ`

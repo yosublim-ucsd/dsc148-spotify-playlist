@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 240916,
       "name": "Comerte a Besos - Remix",
       "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -5990,7 +5990,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 192102,
       "name": "DULCINEA",
       "url": "https://open.spotify.com/track/4OICN5sRSvH7sbfqPZqEAZ"
@@ -8224,7 +8224,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 167760,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
@@ -12808,7 +12808,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 287146,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
@@ -14172,7 +14172,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -17392,6 +17392,24 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u"
+    },
+    {
+      "album": {
+        "name": "Pero Te Quiero",
+        "url": "https://open.spotify.com/album/4QMR1aUJuisPOeqGGDDBa7"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Pero Te Quiero",
+      "url": "https://open.spotify.com/track/2BPqm5yVZhXpQmZhoAw6Ql"
     },
     {
       "album": {

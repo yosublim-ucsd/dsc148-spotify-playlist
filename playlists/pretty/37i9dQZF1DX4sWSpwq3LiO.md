@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,642,318 likes - 197 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,642,875 likes - 197 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 21 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 |
 | 22 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 |
 | 23 | [day by day](https://open.spotify.com/track/50G6irpZApduau5QFZhicP) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [day by day](https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s) | 2:17 |
-| 24 | [between the mountains](https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq) | [Nadav Cohen](https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV) | [between the mountains](https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC) | 1:55 |
+| 24 | [between the mountains](https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [between the mountains](https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC) | 1:55 |
 | 25 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 |
 | 26 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 |
 | 27 | [Les rêveries élusives](https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Les rêveries élusives](https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC) | 2:23 |

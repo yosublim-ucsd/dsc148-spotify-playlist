@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34086,
+  "num_followers": 34095,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAAAmPLmQk4N2R8oPnudIjXjz",
+  "snapshot_id": "Z1zKgAAAAAB7o/j7HWuRmB9VHziyasH3",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "I've Witnessed It - Single Version",
-      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 415768,
       "name": "Fall Like Rain - Live From Passion 2024",
       "url": "https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "I've Witnessed It - Single Version",
+      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 508800,
-      "name": "Revelation Song - Live",
-      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 242840,
       "name": "Shout Hosanna - Live",
       "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Let The Future Begin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 508800,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
     },
     {
       "added_at": null,
@@ -664,17 +664,17 @@
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 629368,
-      "name": "Holy Forever - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
+      "duration_ms": 1209226,
+      "name": "Agnus Dei - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
     },
     {
       "added_at": null,
@@ -744,17 +744,17 @@
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         }
       ],
-      "duration_ms": 1209226,
-      "name": "Agnus Dei - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
+      "duration_ms": 629368,
+      "name": "Holy Forever - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+        "name": "A Thousand Hallelujahs",
+        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         },
         {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         }
       ],
-      "duration_ms": 323666,
-      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
-      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
+      "duration_ms": 310409,
+      "name": "A Thousand Hallelujahs - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
+      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 340572,
       "name": "Yesterday, Today And Forever - Live From Passion 2022",
       "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Thousand Hallelujahs",
-        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 310409,
-      "name": "A Thousand Hallelujahs - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+        "name": "Chris Tomlin Collection",
+        "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
       },
       "artists": [
         {
@@ -996,13 +996,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 420826,
-      "name": "Worthy Of Your Name - Live",
-      "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"
+      "duration_ms": 278452,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
     },
     {
       "added_at": null,
@@ -1027,8 +1027,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Tomlin Collection",
-        "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
       "artists": [
         {
@@ -1036,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
         }
       ],
-      "duration_ms": 278452,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
+      "duration_ms": 420826,
+      "name": "Worthy Of Your Name - Live",
+      "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"
     },
     {
       "added_at": null,

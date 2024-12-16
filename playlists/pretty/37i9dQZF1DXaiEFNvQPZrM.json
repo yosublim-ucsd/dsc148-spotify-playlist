@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 785061,
+  "num_followers": 785163,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+        "name": "Wait Til I Get My Money Up",
+        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+      "duration_ms": 158872,
+      "name": "Doublewide",
+      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wait Til I Get My Money Up",
-        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
       "artists": [
         {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 158872,
-      "name": "Doublewide",
-      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 165013,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Put Yourself In My Place",
         "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 239173,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Ultimate Clint Black",
         "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Some People Change",
         "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 261826,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
     },
     {
       "added_at": "2024-12-06 05:00:00",

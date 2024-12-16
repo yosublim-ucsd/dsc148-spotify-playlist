@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 29 min
+36 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Dive](https://open.spotify.com/track/512JeaMcrXJK2eKzu2VOHG) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Dive](https://open.spotify.com/album/0wBh4uyMd0R0r6g75AMYPg) | 2:41 | 2024-09-15 |  |
 | [Downtown](https://open.spotify.com/track/1FkXVtAp8pkRwJC5dDluGS) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8) | 2:11 | 2024-09-12 |  |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2024-03-22 | 2024-09-13 |
-| [ENTRE NOUS](https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [ENTRE NOUS](https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc) | 2:40 | 2024-03-30 |  |
+| [ENTRE NOUS](https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:40 | 2024-12-15 |  |
+| [ENTRE NOUS](https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [ENTRE NOUS](https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc) | 2:40 | 2024-03-30 | 2024-12-16 |
 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 | 2024-03-22 |  |
 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 | 2024-07-14 |  |
 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 | 2024-03-22 | 2024-07-15 |
@@ -41,6 +42,7 @@
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-11-09 |  |
 | [Waterfall](https://open.spotify.com/track/5XsNOHjFwJ3d0AYWLX69nr) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Waterfall](https://open.spotify.com/album/62QpeoF9Go7z0aG334JjcA) | 2:55 | 2024-03-22 |  |
 | [Your Move](https://open.spotify.com/track/6HNTfx84zrNwNWcxgLFfnn) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/2hWRXUEJ7Fj3K3Dj4BOSoS) | 3:07 | 2024-03-22 |  |
-| [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 | 2024-12-11 |  |
+| [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 | 2024-12-11 | 2024-12-16 |
+| [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 | 2024-12-15 |  |
 
 \*This playlist was first scraped on 2024-03-23. Prior content cannot be recovered.

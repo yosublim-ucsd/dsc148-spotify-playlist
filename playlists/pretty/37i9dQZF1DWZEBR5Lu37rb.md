@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,743 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,808 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 24 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
 | 25 | [Only You](https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The African Gentleman](https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz) | 3:40 |
 | 26 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
-| 27 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
-| 28 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
+| 27 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
+| 28 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 29 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 30 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
 | 31 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 74 | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig) | 4:22 |
 | 75 | [Number One](https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Number One](https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or) | 3:11 |
 | 76 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
-| 77 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 |
-| 78 | [Kookoo](https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:14 |
-| 79 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
-| 80 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 77 | [Kookoo](https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:14 |
+| 78 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
+| 79 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 80 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 |
 | 81 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
 | 82 | [Line Of Fire](https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 4:15 |
 | 83 | [Zodwa](https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:09 |

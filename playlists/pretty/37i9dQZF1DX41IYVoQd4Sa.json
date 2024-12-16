@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 30989,
+  "num_followers": 31000,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
+        "name": "AYAYAY (feat. Dillom)",
+        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 179779,
+      "name": "AYAYAY (feat. Dillom)",
+      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
         "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
         "url": "https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy"
       },
@@ -359,74 +379,6 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "AYAYAY (feat. Dillom)",
-        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 179779,
-      "name": "AYAYAY (feat. Dillom)",
-      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "Doing So Much Better",
-        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Doing So Much Better",
-      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 227532,
-      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -447,18 +399,18 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u05e2\u05db\u05e9\u05d9\u05d5",
-        "url": "https://open.spotify.com/album/2ohy8UbwTwLcrHayM5dbBd"
+        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
       },
       "artists": [
         {
-          "name": "Yael Selinger",
-          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
         }
       ],
-      "duration_ms": 269500,
-      "name": "\u05e2\u05db\u05e9\u05d9\u05d5",
-      "url": "https://open.spotify.com/track/14vkQTf5qhTjAnnEmp7tpF"
+      "duration_ms": 227532,
+      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -499,22 +451,50 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
+        "name": "\u05e2\u05db\u05e9\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/2ohy8UbwTwLcrHayM5dbBd"
       },
       "artists": [
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
         }
       ],
-      "duration_ms": 248146,
-      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
+      "duration_ms": 269500,
+      "name": "\u05e2\u05db\u05e9\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/14vkQTf5qhTjAnnEmp7tpF"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "Doing So Much Better",
+        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Doing So Much Better",
+      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -535,6 +515,26 @@
       "duration_ms": 187860,
       "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
       "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -691,6 +691,42 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
+        "name": "My Baby Won't Laugh (From \"Butterfly Kiss\" Soundtrack)",
+        "url": "https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "My Baby Won't Laugh - From \"Butterfly Kiss\" Soundtrack",
+      "url": "https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
+          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
+        }
+      ],
+      "duration_ms": 159665,
+      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
         "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4"
       },
@@ -723,42 +759,6 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
-          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
-        }
-      ],
-      "duration_ms": 159665,
-      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "My Baby Won't Laugh (From \"Butterfly Kiss\" Soundtrack)",
-        "url": "https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q"
-      },
-      "artists": [
-        {
-          "name": "Hila Ruach",
-          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "My Baby Won't Laugh - From \"Butterfly Kiss\" Soundtrack",
-      "url": "https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
         "name": "Bitter Moon - \u05d9\u200b\u05e8\u200b\u05d7 \u05de\u05e8",
         "url": "https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 256812,
       "name": "Bitter Moon - \u05d9\u05e8\u05d7 \u05de\u05e8",
       "url": "https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        },
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -811,26 +831,6 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        },
-        {
-          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
-          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
         "name": "\u05d9\u05e0\u05d9\u05d1",
         "url": "https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 238867,
       "name": "\u05d9\u05e0\u05d9\u05d1",
       "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -875,22 +891,6 @@
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
         "name": "\u05d7\u05dc\u05dc",
         "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
       "artists": [
         {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
         }
       ],
-      "duration_ms": 177000,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2024-12-12 22:00:01",
@@ -1031,50 +1015,54 @@
     {
       "added_at": "2024-12-12 22:00:01",
       "album": {
-        "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/4Ypg8xywp1ct6Fb36abZGm"
-      },
-      "artists": [
-        {
-          "name": "Ziv Shachar",
-          "url": "https://open.spotify.com/artist/3iXZqQqLD0RZpOu6qHj6AX"
-        },
-        {
-          "name": "Shazamat",
-          "url": "https://open.spotify.com/artist/0uo5SLiIan9YDCQWy20wyV"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/2QdmP4yEgD0uwb1kSSPjb1"
-    },
-    {
-      "added_at": "2024-12-12 22:00:01",
-      "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
       "artists": [
         {
           "name": "Alon Eder",
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
         }
       ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
+    },
+    {
+      "added_at": "2024-12-12 22:00:01",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54"
+      },
+      "artists": [
+        {
+          "name": "Roy Avital",
+          "url": "https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP"
+        },
+        {
+          "name": "Grape",
+          "url": "https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

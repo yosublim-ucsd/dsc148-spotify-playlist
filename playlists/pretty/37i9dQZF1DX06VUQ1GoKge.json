@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553722,
+  "num_followers": 553695,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
@@ -207,18 +223,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -235,22 +251,6 @@
       "duration_ms": 278026,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -431,30 +431,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Mea Culpa (Ah! \u00c7a ira!)",
-        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        },
-        {
-          "name": "Marina Viotti",
-          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
-        },
-        {
-          "name": "Victor Le Masne",
-          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Mea Culpa (Ah! \u00c7a ira!)",
-      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -467,22 +443,6 @@
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -503,6 +463,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Soft Spine",
         "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 183990,
       "name": "Soft Spine",
       "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 247019,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -663,38 +679,6 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 247019,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
       },
@@ -779,34 +779,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
         }
       ],
-      "duration_ms": 322933,
-      "name": "Tornado Of Souls",
-      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 155286,
-      "name": "Genocidal Humanoidz",
-      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Tornado Of Souls",
+      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Brave New World",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
       "artists": [
         {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 263942,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+      "duration_ms": 155286,
+      "name": "Genocidal Humanoidz",
+      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
         "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 176040,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Titans of Creation",
-        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Night of the Witch",
-      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 338960,
       "name": "Handshake with Hell",
       "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Night of the Witch",
+      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2024-11-26 17:39:01",

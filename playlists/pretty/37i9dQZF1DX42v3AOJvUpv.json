@@ -1,6 +1,6 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 44669,
+  "num_followers": 44673,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Ey!",
         "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
       },
@@ -159,50 +175,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/70FoBmf360HzSTX2K1a4Ds"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
-      },
-      "artists": [
-        {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Bailando en las Veredas",
-      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
+      "duration_ms": 167066,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/6sBgH04G1edCBg7eC8rIdl"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -223,22 +207,6 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/70FoBmf360HzSTX2K1a4Ds"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/6sBgH04G1edCBg7eC8rIdl"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -271,34 +255,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "El Ritual De La Banana / Los Pericos",
-        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
         }
       ],
-      "duration_ms": 220760,
-      "name": "El Ritual De La Banana",
-      "url": "https://open.spotify.com/track/4ddPLpcYicUAEXLFVnqp7m"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
+      "duration_ms": 256493,
+      "name": "Bailando en las Veredas",
+      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -319,18 +287,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "20 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
       "artists": [
         {
-          "name": "Roque Narvaja (F)",
-          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Menta y lim\u00f3n",
-      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+      "duration_ms": 237866,
+      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -351,22 +319,6 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
-      },
-      "artists": [
-        {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
         "name": "Himno De Mi Corazon",
         "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
       },
@@ -383,6 +335,22 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "El Ritual De La Banana / Los Pericos",
+        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "El Ritual De La Banana",
+      "url": "https://open.spotify.com/track/4ddPLpcYicUAEXLFVnqp7m"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 140346,
       "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "Don Cornelio y La Zona",
+        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
+      },
+      "artists": [
+        {
+          "name": "Don Cornelio Y La Zona",
+          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Ella Vendr\u00e1 - Remastered",
+      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "20 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+      },
+      "artists": [
+        {
+          "name": "Roque Narvaja (F)",
+          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Menta y lim\u00f3n",
+      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Completo",
         "url": "https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx"
       },
@@ -495,38 +511,6 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "La Dicha En Movimiento",
-        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Cleopatra, La Reina Del Twist",
-      "url": "https://open.spotify.com/track/6XxKFdLiQG5g4xPfnBV1H5"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -559,18 +543,34 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Completo",
-        "url": "https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx"
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
       },
       "artists": [
         {
-          "name": "Su\u00e9ter",
-          "url": "https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 212120,
-      "name": "V\u00eda M\u00e9xico",
-      "url": "https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5"
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "La Dicha En Movimiento",
+        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Cleopatra, La Reina Del Twist",
+      "url": "https://open.spotify.com/track/6XxKFdLiQG5g4xPfnBV1H5"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -603,6 +603,22 @@
       "duration_ms": 379866,
       "name": "H\u00e9roes",
       "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "Completo",
+        "url": "https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx"
+      },
+      "artists": [
+        {
+          "name": "Su\u00e9ter",
+          "url": "https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "V\u00eda M\u00e9xico",
+      "url": "https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -655,34 +671,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+        "name": "Exhibici\u00f3n Condicionada (Remastered 2017)",
+        "url": "https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Graffiti",
+          "url": "https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ricardo Ruben",
-      "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
+      "duration_ms": 255952,
+      "name": "Recuerdo Esa Canci\u00f3n - Remastered 2017",
+      "url": "https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Exhibici\u00f3n Condicionada (Remastered 2017)",
-        "url": "https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc"
       },
       "artists": [
         {
-          "name": "Graffiti",
-          "url": "https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj"
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
         }
       ],
-      "duration_ms": 255952,
-      "name": "Recuerdo Esa Canci\u00f3n - Remastered 2017",
-      "url": "https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV"
+      "duration_ms": 203520,
+      "name": "Ricardo Ruben",
+      "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -731,22 +731,6 @@
       "duration_ms": 172973,
       "name": "Empire State",
       "url": "https://open.spotify.com/track/6z6kzUXX7kw93lDf84ofIX"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Sentidos Congelados",
-        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
-      },
-      "artists": [
-        {
-          "name": "Sobrecarga",
-          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
-        }
-      ],
-      "duration_ms": 281093,
-      "name": "Viajando Hacia el Este",
-      "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -783,22 +767,6 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Identikit",
-        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
-      },
-      "artists": [
-        {
-          "name": "Identikit",
-          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
-        }
-      ],
-      "duration_ms": 196977,
-      "name": "Solo En Una Noche De Jazz",
-      "url": "https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
         "name": "Exhibici\u00f3n Condicionada (Remastered 2017)",
         "url": "https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 238572,
       "name": "Exhibici\u00f3n Condicionada - Remastered 2017",
       "url": "https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "La Dicha En Movimiento",
+        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Jugando Hulla Hulla",
+      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "duration_ms": 281093,
+      "name": "Viajando Hacia el Este",
+      "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
     }
   ],
   "unique_name": "Jet Set",

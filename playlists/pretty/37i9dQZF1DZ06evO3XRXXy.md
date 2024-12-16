@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,120 likes - 45 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,151 likes - 45 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 44 | [That Somebody Was You \(with Toni Braxton\)](https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:02 |
 | 45 | [The Girl from Ipanema \(feat\. Bebel Gilberto\)](https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 4:05 |
 
-Snapshot ID: `Z1ongAAAAAAeAVcS7ahWnGjMrncQnKtZ`
+Snapshot ID: `Z1zKgAAAAAA+naf/TuO3a51/DoGsXnS1`

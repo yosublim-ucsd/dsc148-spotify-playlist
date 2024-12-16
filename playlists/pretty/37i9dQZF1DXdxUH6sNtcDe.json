@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 874026,
+  "num_followers": 874164,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
+      "duration_ms": 276320,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 276320,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -467,22 +467,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         },
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
-      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242733,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 266920,
       "name": "She's Everything",
       "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "I Hope You Dance",
-        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 294533,
-      "name": "I Hope You Dance",
-      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -939,18 +939,34 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -967,22 +983,6 @@
       "duration_ms": 183960,
       "name": "I Wanna Talk About Me",
       "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "I'll Stay Me",
         "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 242800,
       "name": "All My Friends Say",
       "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
       },
       "artists": [
         {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
         }
       ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Keep On Loving You",
         "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 220106,
       "name": "Consider Me Gone",
       "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Chris Cagle",
+        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Chicks Dig It - Single Edit",
+      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Hits Alive",
         "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Chris Cagle",
-        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Chicks Dig It - Single Edit",
-      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
         "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
       },
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Smoke Rings In The Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 257646,
-      "name": "Smoke Rings In The Dark",
-      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
+      "duration_ms": 217733,
+      "name": "My Next Thirty Years",
+      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1903,34 +1903,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "Smoke Rings In The Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
         }
       ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Modern Day Drifter",
-        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
+      "duration_ms": 257646,
+      "name": "Smoke Rings In The Dark",
+      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1967,18 +1951,38 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Making Memories Of Us",
-      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+      "duration_ms": 248800,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Modern Day Drifter",
+        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Come A Little Closer",
+      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1999,6 +2003,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Making Memories Of Us",
+      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Brand New Girlfriend",
         "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
       },
@@ -2011,22 +2031,6 @@
       "duration_ms": 220186,
       "name": "Brand New Girlfriend",
       "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Rascal Flatts",
-        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Prayin' For Daylight",
-      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
     }
   ],
   "unique_name": "2000s Country",

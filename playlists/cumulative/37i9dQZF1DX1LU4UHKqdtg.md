@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-1,304 songs - 2 day 21 hr 52 min
+1,305 songs - 2 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [The TRICKY’s Secret](https://open.spotify.com/track/719ak1xDEREpIxuHlGYKh6) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 1:47 | 2023-03-30 | 2023-05-24 |
 | [The Wind of Spring](https://open.spotify.com/track/3YRAamoGT0CR4jxIpbfk8q) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind of Spring](https://open.spotify.com/album/3NLkq7WSClMnISogy9NBzf) | 4:10 | 2024-03-05 | 2024-03-13 |
 | [The Wind Of Spring](https://open.spotify.com/track/61T72vch0ZAkU4C5vaCDZV) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind Of Spring](https://open.spotify.com/album/17dHnBkaszXRiSYn569CD2) | 4:10 | 2024-03-05 | 2024-03-07 |
+| [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-15 |  |
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-07-26 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-25 | 2023-02-09 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-12-23 | 2022-01-26 |

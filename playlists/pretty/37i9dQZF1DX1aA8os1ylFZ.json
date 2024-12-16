@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 244018,
+  "num_followers": 244026,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "act iii: on god? (she like)",
         "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 180023,
       "name": "Songs About U",
       "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 238185,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "act iv: fckin u again (18+)",
         "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 238185,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Cranes in the Sky (Spotify Singles)",
         "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 268875,
       "name": "Cranes in the Sky - Spotify Singles",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Luv 4 U",
-        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -659,6 +639,26 @@
       "duration_ms": 239600,
       "name": "Room Full Of Love",
       "url": "https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Luv 4 U",
+        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "FYS",
-        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "FYS",
-      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 200920,
       "name": "It's All There (Secrets)",
       "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "FYS",
+        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 209202,
+      "name": "FYS",
+      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Waiting On You",
-        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 215152,
       "name": "Slide",
       "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 235732,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Relax your mind",
         "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 149647,
       "name": "Major Minor",
       "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Make You Remember Me",
+        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 145751,
+      "name": "Make You Remember Me",
+      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 172691,
       "name": "Players Voicemail",
       "url": "https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Make You Remember Me",
-        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 145751,
-      "name": "Make You Remember Me",
-      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "SHADES",
-        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
-      },
-      "artists": [
-        {
-          "name": "Giefa Sparkle",
-          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Shades Prayer",
-      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 133534,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "SHADES",
+        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
+      },
+      "artists": [
+        {
+          "name": "Giefa Sparkle",
+          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Shades Prayer",
+      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
     },
     {
       "added_at": "2024-12-05 10:25:46",

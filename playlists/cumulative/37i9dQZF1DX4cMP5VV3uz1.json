@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 252413,
       "name": "Different",
       "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 226086,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
@@ -2454,6 +2454,28 @@
       "duration_ms": 202543,
       "name": "Game Over Vip",
       "url": "https://open.spotify.com/track/2IdSPeaDRwdHpa5r70P5bK"
+    },
+    {
+      "album": {
+        "name": "Geeked Up (feat. Tayylor Made)",
+        "url": "https://open.spotify.com/album/210Qa4bQUZbdp5eap1EgqA"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Tayylor Made",
+          "url": "https://open.spotify.com/artist/57Py1vm6mJqT1bfG7pZM7S"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182079,
+      "name": "Geeked Up (feat. Tayylor Made)",
+      "url": "https://open.spotify.com/track/0fzOjto8tbCRRu8lbI8tll"
     },
     {
       "album": {
@@ -3388,7 +3410,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 178466,
       "name": "Killamanjaro",
       "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
@@ -4840,6 +4862,28 @@
       "duration_ms": 187112,
       "name": "Party President",
       "url": "https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220124,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
     },
     {
       "album": {
@@ -6320,6 +6364,24 @@
       "duration_ms": 201204,
       "name": "Spillage",
       "url": "https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb"
+    },
+    {
+      "album": {
+        "name": "Spire",
+        "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Spire",
+      "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
     },
     {
       "album": {

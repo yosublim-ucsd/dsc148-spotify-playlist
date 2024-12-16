@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,773 songs - 4 day 0 hr 16 min
+1,774 songs - 4 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Berani](https://open.spotify.com/track/02LsjyEhRszT50M3zqBsbQ) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Berani](https://open.spotify.com/album/2lPgDRjtMqX8KtysPcxCJB) | 3:17 | 2022-03-21 | 2023-04-18 |
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-04-19 | 2024-05-11 |
 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 | 2023-01-06 | 2023-09-09 |
+| [best of me & you](https://open.spotify.com/track/7zLJ14Pk43ci8oWTuPSLzR) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [best of me & you](https://open.spotify.com/album/43laZWLFhqocwIYL3AHoII) | 2:52 | 2024-12-13 |  |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-26 | 2024-10-26 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-03 | 2024-09-07 |
 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 | 2024-09-06 | 2024-12-15 |
@@ -357,7 +358,7 @@
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-05-03 | 2024-06-11 |
 | [Day Dream](https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Day Dream](https://open.spotify.com/album/1l7BFF3Fy4deMeJNv8gB6z) | 2:47 | 2024-10-11 |  |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-24 | 2024-07-27 |
-| [Daylight](https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Daylight](https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ) | 2:48 | 2024-08-02 |  |
+| [Daylight](https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Daylight](https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ) | 2:48 | 2024-08-02 | 2024-12-16 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 | 2024-05-03 | 2024-08-03 |

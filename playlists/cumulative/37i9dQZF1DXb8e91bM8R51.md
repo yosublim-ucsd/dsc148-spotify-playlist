@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-382 songs - 21 hr 49 min
+383 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ain't Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/22sJiw8rbuiiDEpdKNMRVP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain't Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/3yj2uESNcngIeP0BdISs58) | 2:46 | 2023-10-29 | 2024-04-19 |
 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 | 2022-04-08 | 2022-08-30 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-28 | 2023-10-26 |
+| [All Good](https://open.spotify.com/track/0rOx5AT657O5E4tCKx0YOp) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Party Is Goin' On, Vol\. 2](https://open.spotify.com/album/0bvcLiGrCY9gXLv2dDRfdS) | 5:00 | 2024-12-13 |  |
 | [All Good?](https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Art Official Intelligence: Mosaic Thump](https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM) | 4:59 | 2023-04-21 | 2024-04-19 |
 | [All I Really Wanted](https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [All I Really Wanted](https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo) | 3:11 | 2022-09-09 | 2022-10-01 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2022-01-14 | 2022-03-05 |
@@ -336,7 +337,7 @@
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2022-01-14 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-08-02 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2022-01-14 | 2023-03-03 |
-| [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-22 |  |
+| [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-22 | 2024-12-16 |
 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 | 2022-07-08 | 2024-04-02 |
 | [Tha Realness](https://open.spotify.com/track/6PWWyWEnQI5wZOslzWDr8K) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX) | [Livin' Proof](https://open.spotify.com/album/3fbcKscWKVKFcgdX1XaWFf) | 4:32 | 2022-01-14 | 2022-07-19 |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-08-07 |  |

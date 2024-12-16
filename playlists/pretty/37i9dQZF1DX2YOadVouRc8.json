@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30866,
+  "num_followers": 30892,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2024-12-06 05:37:17",
+      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 143882,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
-    },
-    {
-      "added_at": "2024-12-06 05:37:17",
-      "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2024-12-06 05:37:17",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 232500,
-      "name": "ADDICTED (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-12-06 05:37:17",
@@ -335,18 +331,22 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+      "duration_ms": 232500,
+      "name": "ADDICTED (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
       "added_at": "2024-12-06 05:37:17",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
+        "name": "mo de ma [by any minz]",
+        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "mo de ma [by any minz]",
+      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+    },
+    {
+      "added_at": "2024-12-06 05:37:17",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 136800,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g"
-    },
-    {
-      "added_at": "2024-12-06 05:37:17",
-      "album": {
-        "name": "mo de ma [by any minz]",
-        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "mo de ma [by any minz]",
-      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
     },
     {
       "added_at": "2024-12-06 05:37:17",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "added_at": "2024-12-06 05:37:17",
+      "album": {
         "name": "Painless Melody",
         "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
-    },
-    {
-      "added_at": "2024-12-06 05:37:17",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-12-06 05:37:17",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-12-06 05:37:17",
       "album": {
+        "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
+        "url": "https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
+      "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"
+    },
+    {
+      "added_at": "2024-12-06 05:37:17",
+      "album": {
         "name": "What Happens After",
         "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 150857,
       "name": "Streets",
       "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
-    },
-    {
-      "added_at": "2024-12-06 05:37:17",
-      "album": {
-        "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
-        "url": "https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
-      "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"
     },
     {
       "added_at": "2024-12-06 05:37:17",

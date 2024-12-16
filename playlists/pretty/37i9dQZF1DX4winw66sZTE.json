@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 24322,
+  "num_followers": 24337,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "MOVE - The 2nd Album",
         "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 205192,
-      "name": "ALWAYS",
-      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 214380,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 205192,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Odd - The 4th Album",
         "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 190821,
       "name": "View",
       "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Lucifer - The 2nd Album",
-        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -807,38 +807,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "My Last Love OST Part.4",
-        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 195216,
-      "name": "Hold my hand",
-      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -855,18 +823,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
-        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 239186,
-      "name": "\ubbf8\uc778\uc544 Bonamana",
-      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+      "duration_ms": 195216,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -887,6 +855,38 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "NU'EST The First Album \"Re:BIRTH\"",
         "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
       },
@@ -899,38 +899,6 @@
       "duration_ms": 220134,
       "name": "FACE",
       "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 282806,
-      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
-      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Hot Summer - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -951,18 +919,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -979,6 +947,38 @@
       "duration_ms": 221371,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "/// (You, Clouds, Rain)",
         "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 202520,
       "name": "The Chaser",
       "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "SOBER - KR Ver.",
+      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "THE SECRET",
         "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "ONE SHOT",
-        "url": "https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U"
-      },
-      "artists": [
-        {
-          "name": "B.A.P",
-          "url": "https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk"
-        }
-      ],
-      "duration_ms": 237923,
-      "name": "ONE SHOT",
-      "url": "https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Act. 7",
         "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 216333,
       "name": "Hate",
       "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "ONE SHOT",
+        "url": "https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U"
+      },
+      "artists": [
+        {
+          "name": "B.A.P",
+          "url": "https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk"
+        }
+      ],
+      "duration_ms": 237923,
+      "name": "ONE SHOT",
+      "url": "https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1267,22 +1283,6 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream",
       "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "SOBER - KR Ver.",
-      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "NU ABO",
-        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "NU ABO",
-      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Grown-Up",
         "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 230008,
       "name": "Volume Up",
       "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "NU ABO",
+        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "NU ABO",
+      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 242207,
+      "name": "Every End of the Day",
+      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 196853,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 242207,
-      "name": "Every End of the Day",
-      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Modern Times",
         "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 254249,
       "name": "The Red Shoes",
       "url": "https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
     },
     {
       "added_at": "2024-08-05 16:58:20",

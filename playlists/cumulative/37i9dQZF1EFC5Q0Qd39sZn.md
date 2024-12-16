@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-627 songs - 1 day 19 hr 24 min
+630 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 | 2023-12-30 |  |
 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 | 2023-12-30 |  |
 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 | 2023-12-30 |  |
-| [Daylight](https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 4:32 | 2023-12-30 |  |
+| [Daylight](https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 4:32 | 2023-12-30 | 2024-12-16 |
+| [Daylight](https://open.spotify.com/track/3e77KhgFsECoLi2E96wyXQ) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasil '86](https://open.spotify.com/album/2TWdw6Wv1MQfijDukYyUqm) | 4:33 | 2024-12-15 |  |
 | [Deck the Halls](https://open.spotify.com/track/5fE1bUqFcRQaY5H3e5oPxp) | [Mario Lanza](https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL), [Paul Baron Orchestra](https://open.spotify.com/artist/2TXeeTg3ZGNpNFUSO1lgd2) | [L'incredibile Mario Lanza](https://open.spotify.com/album/7a6PfW4c24KZGBGWKZz0Pr) | 1:19 | 2024-07-10 | 2024-10-29 |
 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 | 2023-12-30 |  |
 | [Dein Lied in mir \- Spanish Guitar](https://open.spotify.com/track/3PIZ7Y9GXAcGtWUtNF3Xd4) | [Isabel Varell](https://open.spotify.com/artist/7x7KzRIrx3os6s2zHGFuEL) | [Heut ist mein Tag](https://open.spotify.com/album/4OaGSN8f9ITyPQ7Ui7TYP8) | 4:16 | 2023-12-30 |  |
@@ -148,7 +149,8 @@
 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 | 2023-12-30 |  |
 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 | 2024-07-10 |  |
 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 | 2023-12-30 |  |
-| [For You I Will](https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:54 | 2023-12-30 |  |
+| [For You I Will](https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:54 | 2023-12-30 | 2024-12-16 |
+| [For You I Will](https://open.spotify.com/track/5CcsCiyP4sdHMq5RWyz9Kp) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/0aj4GGjLOlbmUgv4SZQaqU) | 4:54 | 2024-12-15 |  |
 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 | 2024-07-10 |  |
 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 | 2023-12-30 |  |
 | [Forward Motion \- From The Original Motion Picture “Late Night”](https://open.spotify.com/track/6nsBFtGvc9R5ZuUAhbxxIG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Forward Motion \(From The Original Motion Picture “Late Night”\)](https://open.spotify.com/album/5EEfa7yCUXXJkaNcLQcZoV) | 3:56 | 2023-12-30 |  |
@@ -281,7 +283,8 @@
 | [In Walked Love](https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:54 | 2023-12-30 | 2024-07-11 |
 | [Inescapable \- Youngboyz Mix](https://open.spotify.com/track/23fecagpmaDqzJzf0nDWRS) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 3:35 | 2023-12-30 |  |
 | [Insecurious](https://open.spotify.com/track/5PVCtgNjWVGCDckerpyqWY) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 3:30 | 2023-12-30 |  |
-| [Inside](https://open.spotify.com/track/7uTU17dr9MzTYo639ifHrQ) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:12 | 2023-12-30 |  |
+| [Inside](https://open.spotify.com/track/3N6rgE1UZj3g3T3bKPKnpB) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/0aj4GGjLOlbmUgv4SZQaqU) | 4:12 | 2024-12-15 |  |
+| [Inside](https://open.spotify.com/track/7uTU17dr9MzTYo639ifHrQ) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:12 | 2023-12-30 | 2024-12-16 |
 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 | 2023-12-30 |  |
 | [Invincible](https://open.spotify.com/track/47L1khhpejms6i2YyRGQrq) | [Michelle McManus](https://open.spotify.com/artist/3HRDoScuuaIimxb59Bd2FX) | [The Meaning Of Love](https://open.spotify.com/album/3z5AXLOIe9PJHmwvqsOUnZ) | 4:43 | 2023-12-30 |  |
 | [Io Si](https://open.spotify.com/track/1ZC1rLiUiCniGzqSCjZbuD) | [Magdalena Giemza](https://open.spotify.com/artist/0AZZ9TxZRc0nhjV6Lbro74), [Wojciech Zielinski](https://open.spotify.com/artist/4P0Hhjxw5bVtmTIRV9YLcy) | [Io Si](https://open.spotify.com/album/5e6g1BMBPbwXZqjoMbxJwy) | 4:15 | 2023-12-30 | 2024-07-11 |

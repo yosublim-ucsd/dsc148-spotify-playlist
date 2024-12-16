@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 201142,
       "name": "purepurepure",
       "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
@@ -1102,6 +1102,24 @@
       "duration_ms": 138576,
       "name": "Safety Pin",
       "url": "https://open.spotify.com/track/5Lvh16D0FEzm8MMo4qJb33"
+    },
+    {
+      "album": {
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
+      },
+      "artists": [
+        {
+          "name": "Ava Maybee",
+          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
     },
     {
       "album": {

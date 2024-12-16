@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 347406,
+  "num_followers": 347482,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 391202,
       "name": "Highlands (Song of Ascent)",
       "url": "https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 274373,
       "name": "How Can I",
       "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Kingdoms",
         "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+      },
+      "artists": [
+        {
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "King of Eternity",
         "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 408430,
       "name": "King of Eternity",
       "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
-      },
-      "artists": [
-        {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
     },
     {
       "added_at": "2024-08-03 00:38:12",

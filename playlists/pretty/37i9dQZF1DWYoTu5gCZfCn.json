@@ -1,13 +1,49 @@
 {
   "description": "Welcome to the oil business. Listen to the music from Landman, now streaming on Paramount+. ",
-  "num_followers": 7843,
+  "num_followers": 8410,
   "original_name": "Landman Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1U14AAAAABY+9vKwcmG5TIRUoadVVsk",
+  "snapshot_id": "Z15wawAAAAA9UWOysBip9J8pWWjOcgHt",
   "tracks": [
+    {
+      "added_at": "2024-12-15 06:00:11",
+      "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 237629,
+      "name": "If Today Doesn't Do Me In",
+      "url": "https://open.spotify.com/track/1zpEaer4WQnovwP4OfOOE8"
+    },
+    {
+      "added_at": "2024-12-15 06:00:11",
+      "album": {
+        "name": "Sunshine (Western AF Version)",
+        "url": "https://open.spotify.com/album/0XH1qOwndXzeKeZa4LN6vO"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        },
+        {
+          "name": "Western AF",
+          "url": "https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK"
+        }
+      ],
+      "duration_ms": 257579,
+      "name": "Sunshine - Western AF Version",
+      "url": "https://open.spotify.com/track/5V7g6Fr0cUDtmVKbVLHSOb"
+    },
     {
       "added_at": "2024-12-08 06:00:00",
       "album": {

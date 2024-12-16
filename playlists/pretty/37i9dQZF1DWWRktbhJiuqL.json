@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2012466,
+  "num_followers": 2012456,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -123,22 +139,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -419,22 +435,6 @@
       "duration_ms": 145866,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "News Of The World (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Jailhouse Rock",
-      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 334906,
-      "name": "I Am the Highway",
-      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 334906,
+      "name": "I Am the Highway",
+      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
         }
       ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+      "duration_ms": 189133,
+      "name": "Blame It on the Boom Boom",
+      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 188581,
       "name": "(Make My) Country Rock (feat. Sully Erna of Godsmack, Travis Tritt, and Mick Mars)",
       "url": "https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
-        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Blame It on the Boom Boom",
-      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 224480,
       "name": "Sinister Kid",
       "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Your Master",
-        "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Your Master",
-      "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "the garden",
         "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Your Master",
+        "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Your Master",
+      "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Can't Stop Talking",
-        "url": "https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "Can't Stop Talking",
-      "url": "https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Tanx (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 221240,
       "name": "20th Century Boy",
       "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Can't Stop Talking",
+        "url": "https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "Can't Stop Talking",
+      "url": "https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Natural Woman",
         "url": "https://open.spotify.com/album/6zT7gulN4APadlmslo2UHI"
       },
@@ -2347,18 +2363,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+        "name": "Superblood Wolfmoon",
+        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
       },
       "artists": [
         {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
+      "duration_ms": 229466,
+      "name": "Superblood Wolfmoon",
+      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2383,22 +2399,6 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Superblood Wolfmoon",
-        "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Superblood Wolfmoon",
-      "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 258122,
-      "name": "Picture Of You (X+W)",
-      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Black Haired Girl",
         "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 177160,
       "name": "Black Haired Girl",
       "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 258122,
+      "name": "Picture Of You (X+W)",
+      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Learn to Say Goodbye",
-        "url": "https://open.spotify.com/album/32Ss862MwwfqXv7gJeahK9"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Learn to Say Goodbye",
-      "url": "https://open.spotify.com/track/6538q47hdOo4SUuuaKKZ3s"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "\"Filthy\"",
         "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 181447,
       "name": "\"Filthy\"",
       "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Learn to Say Goodbye",
+        "url": "https://open.spotify.com/album/32Ss862MwwfqXv7gJeahK9"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Learn to Say Goodbye",
+      "url": "https://open.spotify.com/track/6538q47hdOo4SUuuaKKZ3s"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Quick Escape",
-        "url": "https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Quick Escape",
-      "url": "https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Everyone's On Dope",
         "url": "https://open.spotify.com/album/3M1Z7Qh9FgQ0muxhshho87"
       },
@@ -2763,18 +2747,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Longest Kiss (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
+        "name": "Quick Escape",
+        "url": "https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY"
       },
       "artists": [
         {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 164047,
-      "name": "The Longest Kiss - Radio Edit",
-      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
+      "duration_ms": 286573,
+      "name": "Quick Escape",
+      "url": "https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2791,6 +2775,22 @@
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Longest Kiss (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 164047,
+      "name": "The Longest Kiss - Radio Edit",
+      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE"
-      },
-      "artists": [
-        {
-          "name": "SWEET SPINE",
-          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
-        }
-      ],
-      "duration_ms": 168204,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "PIECES (BROKEN DOWN)",
         "url": "https://open.spotify.com/album/669eJjbq9WjGCpFTqaxML3"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/7B4vwrAzEfD9Wj9xqJCHvz"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "duration_ms": 168204,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Blizzard of Ozz (Expanded Edition)",
         "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
       },
@@ -3039,6 +3023,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Charlie Patton Highway (Turn it Up, Pt. 1)",
         "url": "https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs"
       },
@@ -3051,6 +3051,22 @@
       "duration_ms": 260360,
       "name": "Charlie Patton Highway (Turn it Up, Pt. 1)",
       "url": "https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Goin' Back Where I Came From",
+        "url": "https://open.spotify.com/album/0psPRMswWP2YrKN26weCIl"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Goin' Back Where I Came From",
+      "url": "https://open.spotify.com/track/1c5q7DAa1EoEDf4qVymvMs"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3099,22 +3115,6 @@
       "duration_ms": 204378,
       "name": "10,000 Volts",
       "url": "https://open.spotify.com/track/36LNprdUkpqTHWGw0P3OoQ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Goin' Back Where I Came From",
-        "url": "https://open.spotify.com/album/0psPRMswWP2YrKN26weCIl"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Goin' Back Where I Came From",
-      "url": "https://open.spotify.com/track/1c5q7DAa1EoEDf4qVymvMs"
     },
     {
       "added_at": "2024-11-08 05:00:00",

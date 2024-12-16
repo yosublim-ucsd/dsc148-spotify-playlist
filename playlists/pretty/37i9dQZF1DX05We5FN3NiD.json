@@ -1,6 +1,6 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 45854,
+  "num_followers": 45868,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 202192,
-      "name": "Doin' Time",
-      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -187,6 +171,38 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 202192,
+      "name": "Doin' Time",
+      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -239,6 +255,30 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -248,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+      "duration_ms": 185306,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -287,26 +327,34 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
+      "duration_ms": 162600,
+      "name": "Will We Talk?",
+      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -327,38 +375,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Will We Talk?",
-      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 271200,
       "name": "Fallingwater",
       "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Ready To Let Go",
-      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 292267,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "DYSFUNCTIONAL",
         "url": "https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 240757,
       "name": "DYSFUNCTIONAL",
       "url": "https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -819,38 +851,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Cheap Queen",
         "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 202280,
       "name": "Ain't Together",
       "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -895,22 +911,6 @@
       "duration_ms": 210293,
       "name": "Salted Caramel Ice Cream",
       "url": "https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
       },
       "artists": [
         {
@@ -1132,13 +1132,13 @@
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 199579,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
+      "duration_ms": 223909,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1195,42 +1195,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i'll die anyway.",
-        "url": "https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "i'll die anyway.",
-      "url": "https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 223909,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1279,18 +1243,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Fuzzybrain",
-      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1323,6 +1287,42 @@
       "duration_ms": 265920,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199579,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Fuzzybrain",
+      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "U.F.O.F.",
+        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "UFOF",
+      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
     },
     {
       "added_at": "2022-09-16 04:53:36",

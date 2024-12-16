@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 666465,
+  "num_followers": 666471,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Frente al Mar",
         "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 254705,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 237853,
       "name": "S E X P L A Y L I S T 1",
       "url": "https://open.spotify.com/track/7w3G5VXJLLbuaWylG7hvVi"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "KM 33",
-        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "RAPAPA",
-      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "A Veces A Besos",
         "url": "https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 218613,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "KM 33",
+        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "RAPAPA",
+      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1075,6 +1075,26 @@
       "duration_ms": 221714,
       "name": "Gitana (feat. Bryartz)",
       "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "2 K 1 6",
+      "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "2 K 1 6",
-      "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Tu Silueta",
         "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
       },
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1211,26 +1191,6 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Si, Aj\u00e1",
-      "url": "https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1255,6 +1215,46 @@
       "duration_ms": 166880,
       "name": "RD",
       "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Si, Aj\u00e1",
+      "url": "https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "PA K",
         "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119354,
+      "name": "Detr\u00e1s del DJ",
+      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 200631,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 119354,
-      "name": "Detr\u00e1s del DJ",
-      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
       "artists": [
         {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+      "duration_ms": 172503,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1655,22 +1655,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
         }
       ],
-      "duration_ms": 172503,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 213877,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1699,26 +1719,6 @@
       "duration_ms": 339547,
       "name": "Slow (feat. Lyanno) - Remix",
       "url": "https://open.spotify.com/track/4mN6iJIEEpPu2AcyHPfXbj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 213877,
-      "name": "VENENO",
-      "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "ETA",
+        "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Lo Intent\u00e9",
         "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 199139,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "ETA",
-        "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1939,22 +1939,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Somos 3",
-        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 165545,
-      "name": "Somos 3",
-      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
     }
   ],
   "unique_name": "Vibras",

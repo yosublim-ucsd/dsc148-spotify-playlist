@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 61858,
+  "num_followers": 61869,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -237,54 +237,6 @@
       "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bernalejo",
-        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
-      },
-      "artists": [
-        {
-          "name": "Mexkla",
-          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
       "added_at": "2023-03-16 20:51:30",
       "album": {
         "name": "Ascendentes",
@@ -299,6 +251,22 @@
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -319,6 +287,38 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bernalejo",
+        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
+      },
+      "artists": [
+        {
+          "name": "Mexkla",
+          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
       "artists": [
         {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
         }
       ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",

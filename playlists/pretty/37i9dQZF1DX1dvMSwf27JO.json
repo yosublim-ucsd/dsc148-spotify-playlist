@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 565741,
+  "num_followers": 565732,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -275,22 +275,6 @@
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -327,6 +311,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in My Mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Fisherrr (Remix)",
         "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 225653,
-      "name": "oh my love",
-      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
+      "duration_ms": 176930,
+      "name": "Picture in My Mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 58801,
       "name": "60 Seconds",
       "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "oh my love",
+      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 106102,
-      "name": "Romanticist",
-      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 106102,
+      "name": "Romanticist",
+      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "M79",
-      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Wildin'",
         "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 139613,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "M79",
+      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "I Love You Jennifer B",
-        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Greatest Hits",
-      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Cry Alone",
         "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 102492,
       "name": "Cry Alone",
       "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Greatest Hits",
+      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "GREENZONE 108",
         "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 190706,
       "name": "Feint",
       "url": "https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "VIRGINIA CREEPER",
+        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "VIRGINIA CREEPER",
+      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     }
   ],
   "unique_name": "'fit check",

@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-24 songs - 1 hr 29 min
+26 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 | 2024-12-01 |  |
 | [Hunt You Down](https://open.spotify.com/track/6ks9ln2vMb5XIO3e4ncoRh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:24 | 2024-11-24 |  |
 | [i blame the bar](https://open.spotify.com/track/3AqTDfGgH2jrTVTS1EUux7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:57 | 2024-12-01 |  |
+| [If Today Doesn't Do Me In](https://open.spotify.com/track/1zpEaer4WQnovwP4OfOOE8) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:57 | 2024-12-15 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-11-17 |  |
 | [Lord Bury Me In Texas](https://open.spotify.com/track/3CD7XIqytaQJgaLtt6xwOe) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Lord Bury Me In Texas](https://open.spotify.com/album/1XS1br0MnEWSPoufPujJkV) | 3:49 | 2024-11-24 |  |
 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 | 2024-11-17 |  |
@@ -27,6 +28,7 @@
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2024-11-17 |  |
 | [Snakebite](https://open.spotify.com/track/3DmVV5vWnmswl6ZBNVWzbs) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Snakebite](https://open.spotify.com/album/45fU9PwOnq38Nhg3rLJjLF) | 3:48 | 2024-11-17 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2024-12-08 |  |
+| [Sunshine \- Western AF Version](https://open.spotify.com/track/5V7g6Fr0cUDtmVKbVLHSOb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [Sunshine \(Western AF Version\)](https://open.spotify.com/album/0XH1qOwndXzeKeZa4LN6vO) | 4:17 | 2024-12-15 |  |
 | [Take Me Home](https://open.spotify.com/track/1MLcWGkyKGra0HnG0i25Ao) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/5ybUt3YH4ZbN8fEetQvqQg) | 3:29 | 2024-11-17 |  |
 | [The Housefire](https://open.spotify.com/track/1jICs7TEAcJ8Wv9Yev9hq7) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Long Way from Your Heart](https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9) | 3:39 | 2024-11-17 |  |
 | [The Rut](https://open.spotify.com/track/3qdbDVZ7xsdvq4ouPtoGr4) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:33 | 2024-11-24 |  |

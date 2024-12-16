@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Que comience el Guadalupe\-Reyes! Beben y beben y vuelven a beber 🍻 Calle 24 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,945 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,110 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 12 | [Chilling](https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [De Moda](https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz) | 2:04 |
 | 13 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
 | 14 | [Tu Héroe](https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Tu Héroe](https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn) | 4:01 |
-| 15 | [Película \- En Vivo](https://open.spotify.com/track/6wD1ucQaxjILIxOOgkwIpH) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Sabino en Vivo desde el Palacio de los Deportes](https://open.spotify.com/album/1LhFRwXc9ix2h1v7Q7j9vw) | 4:47 |
+| 15 | [Película \- En Vivo desde el Palacio de los Deportes](https://open.spotify.com/track/6wD1ucQaxjILIxOOgkwIpH) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Sabino en Vivo desde el Palacio de los Deportes](https://open.spotify.com/album/1LhFRwXc9ix2h1v7Q7j9vw) | 4:47 |
 | 16 | [Efímero](https://open.spotify.com/track/65752X0pjHO407mHsCTjwn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Efímero](https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq) | 3:29 |
 | 17 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
 | 18 | [Perdida](https://open.spotify.com/track/0eWq7RZAsW5K9HguP9R3E5) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Velveta](https://open.spotify.com/artist/6k0FM5lvukpP68GlodFQcA) | [Perdida](https://open.spotify.com/album/7qmxx9Va0pLkr5VojoadKs) | 3:54 |

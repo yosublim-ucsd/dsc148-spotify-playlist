@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3162,
+  "num_followers": 3163,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAABD39tdEjgwBdmH1QOb3POJ",
+  "snapshot_id": "Z1zKgAAAAABGMGNKE3SaQa5qccImnSxc",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DTF (Different Type Freak)",
-        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "DTF (Different Type Freak)",
-      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
         "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 130098,
       "name": "In Person (With OG Parker feat. Tyga)",
       "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DTF (Different Type Freak)",
+        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "DTF (Different Type Freak)",
+      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,
@@ -478,11 +478,15 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 152094,
-      "name": "Young and Ratchet",
-      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+      "duration_ms": 154230,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R"
     },
     {
       "added_at": null,
@@ -550,15 +554,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 154230,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R"
+      "duration_ms": 152094,
+      "name": "Young and Ratchet",
+      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
     },
     {
       "added_at": null,

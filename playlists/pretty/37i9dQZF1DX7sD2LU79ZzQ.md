@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Hanin Dhiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,446 likes - 97 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,484 likes - 97 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92581,
+  "num_followers": 92587,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -399,22 +415,6 @@
       "duration_ms": 210687,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Swallow My Tears",
-        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Swallow My Tears",
-      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Somliga av oss",
         "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "Swallow My Tears",
+        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Swallow My Tears",
+      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -659,6 +643,22 @@
       "duration_ms": 204506,
       "name": "Ge inte upp p\u00e5 mig",
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Akta dig",
-        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
-      },
-      "artists": [
-        {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Akta dig",
-      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
         "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+        "name": "Akta dig",
+        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+      "duration_ms": 140571,
+      "name": "Akta dig",
+      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1095,6 +1079,22 @@
       "duration_ms": 190328,
       "name": "R\u00f6r vid mig",
       "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Little Human",
-        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Little Human",
-      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Little Human",
+        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 235598,
+      "name": "Little Human",
+      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Hoppas du m\u00e5r bra",
-        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Hoppas du m\u00e5r bra",
-      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 172166,
       "name": "Ge En Sol",
       "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "One More Tequila",
+        "url": "https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG"
+      },
+      "artists": [
+        {
+          "name": "Northlake Shivers",
+          "url": "https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "One More Tequila",
+      "url": "https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "One More Tequila",
-        "url": "https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG"
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
       "artists": [
         {
-          "name": "Northlake Shivers",
-          "url": "https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 180857,
-      "name": "One More Tequila",
-      "url": "https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm"
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1471,22 +1487,6 @@
       "duration_ms": 213753,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-42 songs - 3 hr 7 min
+43 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [La Boda](https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:49 | 2024-03-01 |  |
 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 | 2024-03-01 |  |
 | [La Pelicula](https://open.spotify.com/track/4MSVpbF5oOFyOxpsmbFAsH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 5:32 | 2024-03-01 |  |
+| [La Tormenta](https://open.spotify.com/track/2d4rnjrHTPdLTFRGz4ccim) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:35 | 2024-12-16 |  |
 | [Llorar](https://open.spotify.com/track/4M4oSbEjB8Z94039uyjXuO) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:10 | 2024-03-01 |  |
 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 | 2024-03-01 |  |
 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 | 2024-03-01 |  |
@@ -45,7 +46,7 @@
 | [Su Veneno](https://open.spotify.com/track/709hAukJxapqTU9VhsiQm0) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:00 | 2024-03-01 |  |
 | [Te Invito](https://open.spotify.com/track/5UdT2XVZPgZDMi7vxQBgRN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 3:33 | 2024-03-01 |  |
 | [Todavía Me Amas](https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:45 | 2024-03-01 |  |
-| [Tu Jueguito](https://open.spotify.com/track/6Ezrvk64WB6scceSL3lDjp) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:42 | 2024-03-01 |  |
+| [Tu Jueguito](https://open.spotify.com/track/6Ezrvk64WB6scceSL3lDjp) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:42 | 2024-03-01 | 2024-12-16 |
 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 | 2024-03-01 |  |
 | [Un Poeta Enamorado](https://open.spotify.com/track/3UGmjwwOSioDqkeszNycGC) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:14 | 2024-03-01 |  |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2024-03-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33342,
+  "num_followers": 33344,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1t5AAAAAACklATkQduRAs+YsqWO5dPC",
+  "snapshot_id": "Z1zKgAAAAABpta45eJlLuUSlFZrfTx1x",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 199302,
+      "name": "Write Your Name",
+      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Swerv 2.0",
         "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 199302,
-      "name": "Write Your Name",
-      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 219788,
-      "name": "In The Air (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -639,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Traumatic",
-        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 193768,
-      "name": "Swerv (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
+      "duration_ms": 219788,
+      "name": "In The Air (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193768,
+      "name": "Swerv (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 233736,
-      "name": "In the A (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+      "duration_ms": 233736,
+      "name": "In the A (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
       "duration_ms": 208422,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
     },
     {
       "added_at": null,
@@ -847,26 +867,6 @@
       "duration_ms": 174266,
       "name": "Chiraq Demons (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 162217,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 182705,
-      "name": "Strike You",
-      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 167965,
       "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
       "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 182705,
+      "name": "Strike You",
+      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
     },
     {
       "added_at": null,
@@ -1035,18 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "Strictly For My Fans 2.0",
+        "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 168073,
-      "name": "YN",
-      "url": "https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw"
+      "duration_ms": 128824,
+      "name": "Lionhearted",
+      "url": "https://open.spotify.com/track/065WosymqyUiVRBmQNbLWd"
     }
   ],
   "unique_name": "This Is G Herbo",

@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 196524,
       "name": "El Ni\u00f1o del Tambor",
       "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 190764,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/6CLg2TOhryzRqOm5VJfN8O"
@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Otra Cartita Mas",
+        "url": "https://open.spotify.com/album/5DAL1DZfYGDGgsKiYuQMtQ"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192313,
+      "name": "Otra Cartita Mas",
+      "url": "https://open.spotify.com/track/5jsouAuWLpGKKn2LglAEBw"
+    },
+    {
+      "album": {
         "name": "Otra Cartita M\u00e1s",
         "url": "https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4"
       },
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-16",
       "duration_ms": 182598,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/0SLJQuE1QvGq4Q2VWH43ZG"
@@ -2732,6 +2750,24 @@
       "duration_ms": 229226,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/2x9qQjHD4sFNhvN16ggapy"
+    },
+    {
+      "album": {
+        "name": "Navidad Desde El Meritito Norte",
+        "url": "https://open.spotify.com/album/2cc9qlyxbrsjmRFmyYsrfI"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/3ng23lO9QJIS6VLWJRSqWL"
     },
     {
       "album": {

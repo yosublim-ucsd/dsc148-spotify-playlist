@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Winny",
-  "num_followers": 242804,
+  "num_followers": 242844,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 193567,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "ADDICTED (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -815,22 +795,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Bad Decisions & Foreplay",
         "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
       },
@@ -843,6 +807,26 @@
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "ADDICTED (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -903,46 +887,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -971,6 +915,30 @@
       "duration_ms": 184267,
       "name": "Olufunmi Reimagined",
       "url": "https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1011,22 +979,34 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 155934,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/4VmZWEvWcmWFqg7GciQM88"
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1051,38 +1031,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
+      "duration_ms": 155934,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/4VmZWEvWcmWFqg7GciQM88"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1099,6 +1063,26 @@
       "duration_ms": 124076,
       "name": "Anabella",
       "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Jigga (feat. Khaid)",
+        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Jigga (feat. Khaid)",
+      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Adanna",
         "url": "https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a"
       },
@@ -1275,46 +1295,6 @@
       "duration_ms": 216923,
       "name": "Adanna",
       "url": "https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Jigga (feat. Khaid)",
-        "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Jigga (feat. Khaid)",
-      "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1359,22 +1339,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Welcome To The Pack",
-        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
       "artists": [
         {
-          "name": "Alpha P",
-          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 141030,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1395,6 +1375,26 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 163665,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Tete",
-        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 163665,
-      "name": "Tete",
-      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
     },
     {
       "added_at": "2024-12-06 00:01:00",

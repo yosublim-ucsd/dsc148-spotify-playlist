@@ -4,11 +4,12 @@
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 4 min
+53 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2020](https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA) | 4:43 | 2023-08-25 |  |
+| [A Nadie Le Importa](https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 3:13 | 2024-12-16 |  |
 | [A Nadie Le Importa](https://open.spotify.com/track/3LEYugA9C1pV8MCfw2eLFK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [A Nadie Le Importa](https://open.spotify.com/album/3fsAoJjDwnkroW6remnUhS) | 3:13 | 2023-08-25 | 2024-12-08 |
 | [Ahora Volaré](https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 2:59 | 2023-08-25 |  |
 | [Blues Ciego](https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:39 | 2023-08-25 |  |

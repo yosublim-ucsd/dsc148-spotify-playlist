@@ -603,6 +603,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossi\u00e8re ind\u00e9cence",
+      "url": "https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "L'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 262720,
       "name": "Le coup d'\u00e9tat",
       "url": "https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossi\u00e8re ind\u00e9cence",
-      "url": "https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
