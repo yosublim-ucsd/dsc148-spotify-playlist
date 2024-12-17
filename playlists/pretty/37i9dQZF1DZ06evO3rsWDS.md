@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,409 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,415 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 42 | [Bienvenida De Soltera](https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:38 |
 | 43 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
 | 44 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
-| 45 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
+| 45 | [Soy De Esas](https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 2:35 |
 | 46 | [FUERTE](https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 |
 | 47 | [Con La Misma Bala](https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:38 |
 | 48 | [Los Chismes](https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:46 |
-| 49 | [Soy De Esas](https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 2:35 |
+| 49 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
 | 50 | [No Regresarás](https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [No Regresarás](https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB) | 2:50 |
 
-Snapshot ID: `Z1zKgAAAAAAvd0oSfL2Vn4CVD8X0aLdU`
+Snapshot ID: `Z14cAAAAAAAQyUFpQ3zI+CRBBft5ZxWU`

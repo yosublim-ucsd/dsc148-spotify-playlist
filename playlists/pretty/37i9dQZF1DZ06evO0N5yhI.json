@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 131878,
+  "num_followers": 131929,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAqHkg7GtwlJvQhjaNPCX9q",
+  "snapshot_id": "Z14cAAAAAAC5QDV6AHFPKTB0hga/Q85U",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+        "name": "The Night We Met",
+        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 258812,
-      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+      "duration_ms": 209081,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
     },
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night We Met",
-        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 209081,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
+      "duration_ms": 258812,
+      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Claw Machine",
-        "url": "https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP"
-      },
-      "artists": [
-        {
-          "name": "Sloppy Jane",
-          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Claw Machine",
-      "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 243226,
       "name": "Didn't Know What I Was In For",
       "url": "https://open.spotify.com/track/31nH2FO5og83YmI3K845Jn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Claw Machine",
+        "url": "https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jane",
+          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "Claw Machine",
+      "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
     },
     {
       "added_at": null,

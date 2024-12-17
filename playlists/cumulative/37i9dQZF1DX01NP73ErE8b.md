@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 thasup e Mara Sattei in cover
 
-146 songs - 7 hr 32 min
+147 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-07-01 | 2024-11-27 |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-07-01 | 2024-10-25 |
 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 | 2024-12-05 |  |
-| [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-13 |  |
+| [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-13 | 2024-12-17 |
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-09-19 |  |
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-07-01 | 2024-11-21 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-07-01 | 2024-11-29 |
@@ -154,5 +154,6 @@
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 |  |
 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 | 2024-11-01 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 | 2024-11-29 |
+| [È FINITA LA PACE](https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 2:58 | 2024-12-16 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

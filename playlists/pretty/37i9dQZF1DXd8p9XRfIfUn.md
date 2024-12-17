@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Lexxx Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,557 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,565 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
 | 57 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |
 | 58 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
-| 59 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
-| 60 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 59 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 60 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 
 Snapshot ID: `ZyrFXwAAAAC9NUDccdF1IpH3KWdORaI3`

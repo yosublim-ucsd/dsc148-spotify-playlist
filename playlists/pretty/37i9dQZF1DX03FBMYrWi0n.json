@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: La S\u00e9curit\u00e9",
-  "num_followers": 5893,
+  "num_followers": 5900,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Sainte-Col\u00e8re",
-        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 155982,
-      "name": "Fant\u00f4mes",
-      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202996,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Sainte-Col\u00e8re",
+        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 155982,
+      "name": "Fant\u00f4mes",
+      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 182880,
       "name": "Un peu de magie",
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
       "artists": [
         {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
         }
       ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+      "duration_ms": 286826,
+      "name": "La hi\u00e9rarchill",
+      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
         }
       ],
-      "duration_ms": 286826,
-      "name": "La hi\u00e9rarchill",
-      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Attaque \u00e0 cinq",
         "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "tu penses-tu + veux veux pas",
-        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
+        "name": "Piscine hors terre",
+        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
         }
       ],
-      "duration_ms": 190284,
-      "name": "veux veux pas",
-      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
+      "duration_ms": 211570,
+      "name": "Piscine hors terre",
+      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Piscine hors terre",
-        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+        "name": "tu penses-tu + veux veux pas",
+        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
       },
       "artists": [
         {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
         }
       ],
-      "duration_ms": 211570,
-      "name": "Piscine hors terre",
-      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+      "duration_ms": 190284,
+      "name": "veux veux pas",
+      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
       "added_at": "2024-11-29 05:00:00",

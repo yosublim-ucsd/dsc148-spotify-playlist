@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAGNvLnpOAIgY5R4FuN1oGC",
+  "snapshot_id": "AAAAAAAAAABvhHmQ2JQ+iyc1FZCyiE/7",
   "tracks": [
     {
       "added_at": "2024-12-13 03:00:00",
@@ -203,34 +203,18 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Brotherhood (Definitive Edition)",
-        "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Touched by the Hand of God - Salvation Version",
-      "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
+      "duration_ms": 312546,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -275,18 +259,34 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
+        "name": "Brotherhood (Definitive Edition)",
+        "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
       },
       "artists": [
         {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 312546,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
+      "duration_ms": 302666,
+      "name": "Touched by the Hand of God - Salvation Version",
+      "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -403,38 +403,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 177022,
-      "name": "Rollin' At Twilight",
-      "url": "https://open.spotify.com/track/0FqyUb2hys84hcHcTwmU67"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Universal Tales",
-        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Universal - Orchestral Version",
-      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "all we get is life",
         "url": "https://open.spotify.com/album/47sI5yYyYUmTTNo0CyMDAm"
       },
@@ -467,18 +435,50 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+        "name": "Universal Tales",
+        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+      "duration_ms": 292373,
+      "name": "Live The Tale",
+      "url": "https://open.spotify.com/track/6pXI4ION5W0dEH28GniiD9"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 177022,
+      "name": "Rollin' At Twilight",
+      "url": "https://open.spotify.com/track/0FqyUb2hys84hcHcTwmU67"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 174288,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
+        "name": "Breathless (Warren Remix)",
+        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        },
+        {
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Breathless - Warren Remix",
+      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
         "name": "Universo De Ley",
         "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
       },
@@ -603,26 +623,6 @@
     {
       "added_at": "2024-12-13 03:00:00",
       "album": {
-        "name": "Breathless (Warren Remix)",
-        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Warren",
-          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Breathless - Warren Remix",
-      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
         "name": "Navidad De Locos",
         "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 176432,
       "name": "Navidad De Locos",
       "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
-    },
-    {
-      "added_at": "2024-12-13 03:00:00",
-      "album": {
-        "name": "Angels In The Snow (Discotastique! Mix)",
-        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Angels In The Snow - Discotastique! Mix",
-      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
     },
     {
       "added_at": "2024-12-13 03:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+    },
+    {
+      "added_at": "2024-12-13 03:00:00",
+      "album": {
+        "name": "Angels In The Snow (Discotastique! Mix)",
+        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "Angels In The Snow - Discotastique! Mix",
+      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
     },
     {
       "added_at": "2024-12-13 03:00:00",

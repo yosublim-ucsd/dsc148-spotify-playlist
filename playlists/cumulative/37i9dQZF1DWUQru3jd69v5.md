@@ -4,7 +4,7 @@
 
 > Ele A in cover della playlist con la nuova generazione del rap italiano.
 
-1,471 songs - 2 day 15 hr 5 min
+1,472 songs - 2 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [Damo ça va pètèr](https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 | 2023-07-20 | 2023-09-01 |
 | [Birthday Song](https://open.spotify.com/track/6eYI2bdb4wbw60hYQsFAYg) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [Birthday Song](https://open.spotify.com/album/4hTjDk6RK1rFxF1QS4Nk5l) | 2:07 | 2022-11-10 | 2023-01-13 |
 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/5V5If9EDJrHSDpM5bkcALZ) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/album/3H37JmWNvnEu27FP6IEh32) | 2:37 | 2024-05-09 | 2024-06-14 |
+| [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/6qNCZ0Ysk6TD3oJ6DRqvYP) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX](https://open.spotify.com/album/58v5Q9JRtuSs8URAEO0wL1) | 2:37 | 2024-12-16 |  |
 | [BISMILLAH](https://open.spotify.com/track/34wOtsmoa9jkdy5khFlZzV) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [BISMILLAH](https://open.spotify.com/album/0UJAtPIoDgzOU8EpiqKd5f) | 2:13 | 2024-10-31 | 2024-12-13 |
 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 | 2022-05-10 | 2022-09-23 |
 | [BLA](https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [BLA](https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n) | 2:17 | 2023-07-13 | 2023-10-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22862,
+  "num_followers": 22864,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADl3sQlyp/SPDFyKcCmktq4",
+  "snapshot_id": "Z14cAAAAAABLK4t4P1ncX/m8y8Ir/av2",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+      "duration_ms": 213644,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 213644,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 190308,
-      "name": "Shine - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+      "duration_ms": 206740,
+      "name": "Forever Song - Solo Piano Version",
+      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 206740,
-      "name": "Forever Song - Solo Piano Version",
-      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
+      "duration_ms": 190308,
+      "name": "Shine - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
     },
     {
       "added_at": null,

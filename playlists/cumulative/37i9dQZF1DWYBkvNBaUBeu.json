@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Future hits in the Philippines! Cover: Khalid, Ayra Starr",
+  "description": "Future hits in the Philippines! Cover: Ne-Yo",
   "name": "Pop Rising Philippines",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
@@ -252,6 +252,24 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202336,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
     },
     {
       "album": {
@@ -310,6 +328,42 @@
       "duration_ms": 171243,
       "name": "BABY I'M BACK",
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "album": {
+        "name": "Bad Girls Like You",
+        "url": "https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Bad Girls Like You",
+      "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
+    },
+    {
+      "album": {
+        "name": "Love Your Enemy OST Part 5",
+        "url": "https://open.spotify.com/album/1PBN1fQvVPWWWtxq72Cl4t"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133982,
+      "name": "Be in love",
+      "url": "https://open.spotify.com/track/3Fumvvu3upHBQ4DznLhIO2"
     },
     {
       "album": {
@@ -846,6 +900,24 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
     },
     {
       "album": {
@@ -1606,7 +1678,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 188702,
       "name": "HOWLING",
       "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
@@ -1642,7 +1714,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
@@ -2237,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -2534,7 +2624,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
@@ -2552,7 +2642,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
@@ -2924,7 +3014,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -2964,6 +3054,24 @@
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217417,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
     },
     {
       "album": {
@@ -3373,6 +3481,36 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
@@ -3486,7 +3624,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 174213,
       "name": "Swallow My Tears",
       "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
@@ -3526,7 +3664,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -3606,6 +3744,28 @@
       "duration_ms": 188901,
       "name": "Texas",
       "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
+    },
+    {
+      "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163722,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
     },
     {
       "album": {
@@ -4082,6 +4242,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
     },
     {
       "album": {

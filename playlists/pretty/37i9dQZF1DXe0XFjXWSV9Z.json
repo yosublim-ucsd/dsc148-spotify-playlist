@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 45426,
+  "num_followers": 45440,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
+      "added_at": "2023-03-10 22:34:25",
+      "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Los Charapas de Oro",
@@ -415,22 +431,6 @@
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2023-03-10 22:34:25",
-      "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
-      "added_at": "2022-11-18 17:45:57",
-      "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Je pense \u00e0 toi",
@@ -551,6 +535,22 @@
       "duration_ms": 272590,
       "name": "Je Pense \u00e0 Toi",
       "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2022-11-18 17:45:57",
+      "album": {
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
       "added_at": "2023-12-12 18:56:56",
       "album": {
         "name": "Yellow Laces - Another Life",
@@ -663,22 +679,6 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Guadalupe",
         "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2022-03-11 03:28:26",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Legado: Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 156366,
       "name": "El Pinochito Saltarin",
       "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -931,6 +931,22 @@
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+        "name": "Abya Yala",
+        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
       },
       "artists": [
         {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
         }
       ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+      "duration_ms": 344333,
+      "name": "Dame Tu Mano",
+      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1015,22 +1031,6 @@
       "duration_ms": 192232,
       "name": "Me Robaron Mi Runa Mula",
       "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Abya Yala",
-        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 344333,
-      "name": "Dame Tu Mano",
-      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
       "added_at": "2022-02-12 05:43:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Chacho",
-        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
-      },
-      "artists": [
-        {
-          "name": "Carmelo Torres & Los Toscos",
-          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
-        }
-      ],
-      "duration_ms": 241639,
-      "name": "La Camisola",
-      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "El Nuevo Bugalu",
         "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 270000,
       "name": "Bicicleta Intergalactica",
       "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Chacho",
+        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
+      },
+      "artists": [
+        {
+          "name": "Carmelo Torres & Los Toscos",
+          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
+        }
+      ],
+      "duration_ms": 241639,
+      "name": "La Camisola",
+      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Mientras Unos Mueren",
         "url": "https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 224559,
       "name": "Mientras Unos Mueren",
       "url": "https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
     },
     {
       "added_at": "2023-01-07 02:51:44",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
     },
     {
-      "added_at": "2022-03-11 03:32:16",
-      "album": {
-        "name": "Levante la Mano",
-        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 188817,
-      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
-      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
-    },
-    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1549,20 +1533,20 @@
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     },
     {
-      "added_at": "2022-09-03 04:03:52",
+      "added_at": "2022-03-11 03:32:16",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+        "name": "Levante la Mano",
+        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
       },
       "artists": [
         {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+      "duration_ms": 188817,
+      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
+      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1579,6 +1563,22 @@
       "duration_ms": 193955,
       "name": "Dios",
       "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
+    },
+    {
+      "added_at": "2022-09-03 04:03:52",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2022-01-11 02:45:58",

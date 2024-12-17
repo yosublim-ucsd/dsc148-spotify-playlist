@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,317 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,439 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 14 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
 | 15 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 |
 | 16 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
-| 17 | [iAAM](https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:03 |
-| 18 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
+| 17 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
+| 18 | [iAAM](https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:03 |
 | 19 | [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 |
 | 20 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
 | 21 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 63 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 |
 | 64 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 |
 | 65 | [MIKOTO \~SUN NO KUNI\~ \(feat\. Tsubaki & Awich\)](https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:58 |
-| 66 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
-| 67 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 66 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 67 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
 | 68 | [Gangsta](https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG) | 3:14 |
 | 69 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 70 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |

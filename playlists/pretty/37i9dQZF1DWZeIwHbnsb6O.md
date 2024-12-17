@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,439 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,513 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 36 | [El Triste](https://open.spotify.com/track/4ig3SdzkxcUK7VU4cuMGu0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mis Favoritas](https://open.spotify.com/album/5CfyHYtpAK1MWTuL4YTOwy) | 4:11 |
 | 37 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 |
 | 38 | [Smog](https://open.spotify.com/track/6MzXulC37YZkShGJLXYR14) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Smog](https://open.spotify.com/album/1QQZWTHIDvquxXLSqCaq9L) | 3:21 |
-| 39 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
+| 39 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
 | 40 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9) | 2:43 |
 | 41 | [Ciudad Perdida](https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 4:34 |
 | 42 | [Adoro](https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89) | [Carlos Lico](https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba) | [Serie 3X4 \(Los Angeles Negros, Altemar Dutra, Carlos Lico\)](https://open.spotify.com/album/1S1zJAXDxGM6HqXMj1aS7F) | 3:04 |
-| 43 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
+| 43 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
 | 44 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
 | 45 | [Divina Ilusión](https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Tan Cerca ..\. Tan Lejos](https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj) | 4:08 |
 | 46 | [Corazon de roca](https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 4428,
+  "num_followers": 4464,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "LINDA",
         "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 224210,
       "name": "LINDA",
       "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG Efeitos",
+        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "LELIS",
+          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "MTG Efeitos",
+      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "DOMPERI",
         "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 125747,
       "name": "DOMPERI",
       "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG Efeitos",
-        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "LELIS",
-          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "MTG Efeitos",
-      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "SaxoSuelta Oriente Tribe",
+        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
+      },
+      "artists": [
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Darek Sotelo",
+          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "SaxoSuelta Oriente Tribe",
+      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Deixa Ela Passar Vs Ela \u00c9 Top",
         "url": "https://open.spotify.com/album/6k6x4Wtpyw5wyR6kLDKJ7N"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 118204,
       "name": "Mtg Deixa Ela Passar Vs Ela \u00c9 Top",
       "url": "https://open.spotify.com/track/2aXgnQz63y5Xgufvg84oag"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "SaxoSuelta Oriente Tribe",
-        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
-      },
-      "artists": [
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Darek Sotelo",
-          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "SaxoSuelta Oriente Tribe",
-      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1755,8 +1755,8 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
       },
       "artists": [
         {
@@ -1764,13 +1764,17 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
         }
       ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1923,8 +1927,8 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "GOZANDO",
-        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
       "artists": [
         {
@@ -1932,17 +1936,13 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 171692,
-      "name": "GOZANDO",
-      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Puxo seu cabelinho",
         "url": "https://open.spotify.com/album/0erwZWDFK9pltr66sFNuqb"
       },
@@ -2079,26 +2099,6 @@
       "duration_ms": 135317,
       "name": "MTG Puxo seu cabelinho",
       "url": "https://open.spotify.com/track/3yD3gpXl5jQkwumhWYa5Ap"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Puro 3 Letras",
+        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Puro 3 Letras",
+      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG A CULPA \u00c9 SUA",
         "url": "https://open.spotify.com/album/1LJxDunEIUS3WuIwwWh7hd"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 163153,
       "name": "MTG A CULPA \u00c9 SUA",
       "url": "https://open.spotify.com/track/2D364Fgzm5aWfNUyMpfWBw"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Puro 3 Letras",
-        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Silva",
-          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Puro 3 Letras",
-      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Aluc\u00edn",
+        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Aluc\u00edn",
+      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "La Bebe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 158739,
       "name": "La Bebe - David Guetta Remix",
       "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Aluc\u00edn",
-        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Aluc\u00edn",
-      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2791,22 +2791,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg S\u00f3 F\u00e9 (Funk BH)",
-        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
+        "name": "Vamo a Jugar Al Goloso",
+        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
       },
       "artists": [
         {
-          "name": "DJ Ryder",
-          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
-        },
-        {
-          "name": "Yan Pablo DJ",
-          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
+          "name": "Guaracha",
+          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
         }
       ],
-      "duration_ms": 147361,
-      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
-      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
+      "duration_ms": 153808,
+      "name": "Vamo a Jugar Al Goloso",
+      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2831,22 +2827,6 @@
       "duration_ms": 133138,
       "name": "MTG Manda Um Oi",
       "url": "https://open.spotify.com/track/1tXdYQEmJ141Qt4uwHOsqQ"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Vamo a Jugar Al Goloso",
-        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
-      },
-      "artists": [
-        {
-          "name": "Guaracha",
-          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "Vamo a Jugar Al Goloso",
-      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2887,6 +2867,26 @@
       "duration_ms": 136615,
       "name": "MTG Nosso Xote",
       "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Mtg S\u00f3 F\u00e9 (Funk BH)",
+        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryder",
+          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
+        },
+        {
+          "name": "Yan Pablo DJ",
+          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
+        }
+      ],
+      "duration_ms": 147361,
+      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
+      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3007,6 +3007,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
         "url": "https://open.spotify.com/album/6voF5crlfYDAIeC3lMAQhD"
       },
@@ -3027,22 +3043,6 @@
       "duration_ms": 115183,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
       "url": "https://open.spotify.com/track/6HC2oHUAbDJmffYKPZKtTg"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-09-30 22:44:34",

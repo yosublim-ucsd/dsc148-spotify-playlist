@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-703 songs - 1 day 12 hr 26 min
+704 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Jump Up Skirt](https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Jump Up Skirt](https://open.spotify.com/album/4fc7TNhO0DWeE9eosCps7D) | 1:58 | 2024-03-22 | 2024-05-09 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-02-17 |
 | [Karolina](https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Karolina](https://open.spotify.com/album/2GcjAAeJVgKHCyLWTZLkCV) | 2:49 | 2022-06-24 | 2022-08-14 |
+| [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-16 |  |
 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-05-26 | 2024-08-31 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-01-13 | 2023-02-11 |
 | [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-24 | 2022-10-01 |
@@ -352,7 +353,7 @@
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-24 | 2023-02-11 |
 | [Love In Me](https://open.spotify.com/track/6uT0CYISZil3WQorOCZrfl) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Love In Me](https://open.spotify.com/album/5ZVTS7eOqgLP5CX9GpGclp) | 2:52 | 2024-03-01 | 2024-06-10 |
 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 | 2022-12-08 | 2023-02-17 |
-| [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 | 2024-09-20 |  |
+| [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 | 2024-09-20 | 2024-12-17 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-25 | 2023-11-03 |
 | [LOVE POTION](https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [LOVE POTION](https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN) | 3:19 | 2024-10-18 | 2024-11-22 |

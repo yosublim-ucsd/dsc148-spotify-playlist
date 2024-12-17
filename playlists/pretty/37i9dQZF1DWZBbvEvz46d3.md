@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,225 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,232 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 58 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
 | 59 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 60 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
-| 61 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |
-| 62 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
+| 61 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
+| 62 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |
 | 63 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
 | 64 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 65 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |

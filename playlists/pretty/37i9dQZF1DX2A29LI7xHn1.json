@@ -1,33 +1,13 @@
 {
   "description": "Crossing over like Allen I. Cover: BabyChiefDoIt",
-  "num_followers": 2112236,
+  "num_followers": 2112470,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1x0kAAAAAAYSrJqW3hhYfhu6Ny9xYcb",
+  "snapshot_id": "Z2BuIgAAAAC5S9t2Q/2O+tdxoDtaB2r0",
   "tracks": [
-    {
-      "added_at": "2024-12-13 05:00:38",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 229745,
-      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
-    },
     {
       "added_at": "2024-12-13 05:00:38",
       "album": {
@@ -219,6 +199,26 @@
       "duration_ms": 146326,
       "name": "Pose For Me",
       "url": "https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T"
+    },
+    {
+      "added_at": "2024-12-13 05:00:38",
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 229745,
+      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
     },
     {
       "added_at": "2024-12-13 05:00:38",

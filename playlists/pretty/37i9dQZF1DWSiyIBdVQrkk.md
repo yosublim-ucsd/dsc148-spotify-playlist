@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,242,820 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,242,930 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 12 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 13 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
 | 14 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
-| 15 | [Rasta Love Feat\. Ky\-Mani Marley](https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [The Seven Year Itch](https://open.spotify.com/album/785pirNtohI84EfviUaGkq) | 3:05 |
-| 16 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
+| 15 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
+| 16 | [Rasta Love Feat\. Ky\-Mani Marley](https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [The Seven Year Itch](https://open.spotify.com/album/785pirNtohI84EfviUaGkq) | 3:05 |
 | 17 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
 | 18 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 |
 | 19 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 39 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 40 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
 | 41 | [Wanted Dread and Alive \- 2002 Remaster](https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Wanted Dread and Alive](https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK) | 4:28 |
-| 42 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
-| 43 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 42 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 43 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 44 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 45 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
 | 46 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:13 |

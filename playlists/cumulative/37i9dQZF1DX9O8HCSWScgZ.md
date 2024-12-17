@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-92 songs - 3 hr 33 min
+93 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Light of October](https://open.spotify.com/track/0bT0KigMA1yirlMo7EBZqp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Light of October](https://open.spotify.com/album/0BmL2ieDWhMalFMmle2HEu) | 1:42 | 2024-11-15 | 2024-11-30 |
 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 | 2024-10-18 |  |
 | [Long Road Home](https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Long Road Home](https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9) | 2:13 | 2024-10-18 |  |
+| [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 | 2024-12-11 |  |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-10-18 |  |
 | [Maple Sunsets](https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Maple Sunsets](https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2) | 1:58 | 2024-10-18 |  |
 | [Marupe Blues](https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Marupe Blues](https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32) | 2:12 | 2024-10-18 |  |
@@ -83,7 +84,7 @@
 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 |  |
 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 | 2024-10-18 | 2024-10-21 |
 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 | 2024-11-23 |
-| [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 |  |
+| [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2024-12-17 |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-18 |  |
 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 | 2024-10-18 |  |

@@ -1,13 +1,77 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 09:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Dec 23:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAN62xhobJWR9T/shyABmXmQ7rVqwdc",
+  "snapshot_id": "AAAN8zL7TGVkzpuqThe1MZEu+FnqVRuA",
   "tracks": [
+    {
+      "added_at": "2024-12-16 09:03:01",
+      "album": {
+        "name": "The wish",
+        "url": "https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "The wish",
+      "url": "https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV"
+    },
+    {
+      "added_at": "2024-12-16 09:03:01",
+      "album": {
+        "name": "\u65e5\u3005",
+        "url": "https://open.spotify.com/album/2y4ZfXD2h06wKJ7sp0QbK0"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "\u65e5\u3005",
+      "url": "https://open.spotify.com/track/4WUKgMcBX3Oso7nband6BB"
+    },
+    {
+      "added_at": "2024-12-16 19:03:12",
+      "album": {
+        "name": "Body Moves",
+        "url": "https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 207722,
+      "name": "Body Moves",
+      "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
+    },
+    {
+      "added_at": "2024-12-16 23:02:49",
+      "album": {
+        "name": "medicine",
+        "url": "https://open.spotify.com/album/6ho1jSYajeUBewSAUqAThy"
+      },
+      "artists": [
+        {
+          "name": "Kiryano",
+          "url": "https://open.spotify.com/artist/0WaGvrYLTIEpc4pjdgETP6"
+        }
+      ],
+      "duration_ms": 133718,
+      "name": "medicine",
+      "url": "https://open.spotify.com/track/3jMmndhHTYfh6KLQWGN3cd"
+    },
     {
       "added_at": "2024-12-14 23:02:53",
       "album": {
@@ -51,6 +115,26 @@
       "duration_ms": 171529,
       "name": "Nobody Knows You, Stepbro.",
       "url": "https://open.spotify.com/track/6w5LSDDJ4VS9493R35QHLE"
+    },
+    {
+      "added_at": "2024-12-16 14:03:28",
+      "album": {
+        "name": "Happy Birthday To Me!",
+        "url": "https://open.spotify.com/album/4pzRMtLdIbbjFM7wT04cSi"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Happy Birthday To Me!",
+      "url": "https://open.spotify.com/track/01aWaUusWGKcwLyap339mA"
     },
     {
       "added_at": "2024-12-15 09:03:22",
@@ -111,6 +195,26 @@
       "duration_ms": 208220,
       "name": "Order Up",
       "url": "https://open.spotify.com/track/2LHXiCbjINmIwvE3HRlfTi"
+    },
+    {
+      "added_at": "2024-12-16 14:03:28",
+      "album": {
+        "name": "RISKY MISSIONS",
+        "url": "https://open.spotify.com/album/3MwEW0xZIBBBN34TE6WMt4"
+      },
+      "artists": [
+        {
+          "name": "2shanez",
+          "url": "https://open.spotify.com/artist/3WJh6tiFV4GzcwBPrjsH2v"
+        },
+        {
+          "name": "Bassius",
+          "url": "https://open.spotify.com/artist/5gmjR5ZSCEWMT4VMIATZdV"
+        }
+      ],
+      "duration_ms": 181776,
+      "name": "RISKY MISSIONS",
+      "url": "https://open.spotify.com/track/5Xubqz8m9EafFwyijfTtsF"
     },
     {
       "added_at": "2024-12-13 09:03:52",
@@ -799,110 +903,6 @@
       "duration_ms": 267232,
       "name": "Dr\u00f6m S\u00e5ng",
       "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
-    },
-    {
-      "added_at": "2024-12-14 04:03:32",
-      "album": {
-        "name": "Something We Regret",
-        "url": "https://open.spotify.com/album/0w8odPTzOWgbwF0sYmtzri"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 171906,
-      "name": "Something We Regret",
-      "url": "https://open.spotify.com/track/6HgVhL2FZiA2dSd6pyK3Uc"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "The Bird Song (with Em Beihold)",
-        "url": "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "The Bird Song (with Em Beihold)",
-      "url": "https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8"
-    },
-    {
-      "added_at": "2024-12-12 23:04:42",
-      "album": {
-        "name": "What's Wrong?",
-        "url": "https://open.spotify.com/album/6swybrrhYJrQHXKX726Vw2"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "What's Wrong?",
-      "url": "https://open.spotify.com/track/5lq4X3bgERmY1ata9H3h9Y"
-    },
-    {
-      "added_at": "2024-12-13 14:03:21",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
-    },
-    {
-      "added_at": "2024-12-13 09:03:52",
-      "album": {
-        "name": "Miles To Go",
-        "url": "https://open.spotify.com/album/1iB0mL4HIdTEtViUK23pC8"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 238967,
-      "name": "Miles To Go",
-      "url": "https://open.spotify.com/track/4W74tWSlxoncSwi6dLTO0G"
-    },
-    {
-      "added_at": "2024-12-13 19:03:56",
-      "album": {
-        "name": "permanent glue",
-        "url": "https://open.spotify.com/album/4e1SZWpKbeHnVPCwKzGTxl"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 141593,
-      "name": "permanent glue",
-      "url": "https://open.spotify.com/track/7Ey7bPcJQeFWiXGrCEIbaT"
     }
   ],
   "unique_name": "New Singles Now",

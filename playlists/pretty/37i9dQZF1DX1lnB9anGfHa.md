@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,516 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,581 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 26 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
 | 27 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 28 | [Mommy](https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:16 |
-| 29 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
-| 30 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
+| 29 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
+| 30 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
 | 31 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
 | 32 | [Drip Coda](https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Drïpsody](https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf) | 3:32 |
 | 33 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 34 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
 | 35 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
 | 36 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
-| 37 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
-| 38 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 37 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 38 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
 | 39 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
 | 40 | [Andiamo](https://open.spotify.com/track/0GPqCGCznoaNLVdW59HYMV) | [Nídia & Valentina](https://open.spotify.com/artist/1zLsxkqMVKSKE8A4WhzZtV) | [Estradas](https://open.spotify.com/album/7wNdvXT62MA5VF6EdK2ozB) | 4:58 |
 | 41 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 56 | [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 |
 | 57 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
 | 58 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
-| 59 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 59 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
 | 60 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
-| 61 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
-| 62 | [Šcune](https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs) | 3:57 |
-| 63 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
+| 61 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 62 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
+| 63 | [Šcune](https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs) | 3:57 |
 | 64 | [Além do tempo](https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi) | [sús](https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc) | [Além do tempo](https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj) | 3:59 |
 | 65 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
 | 66 | [Marte](https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Marte](https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s) | 2:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 70 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 71 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
 | 72 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 73 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
-| 74 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
-| 75 | [VOAR](https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr) | [Marianne](https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme) | [INVERTIDO](https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB) | 4:53 |
+| 73 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
+| 74 | [VOAR](https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr) | [Marianne](https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme) | [INVERTIDO](https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB) | 4:53 |
+| 75 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 
 Snapshot ID: `Z05fagAAAADbtPdmQZxHhUAVSbfXVB+/`

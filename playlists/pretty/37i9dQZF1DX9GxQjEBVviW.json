@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 234286,
+  "num_followers": 234303,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best Of Dion & The Belmonts",
-        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
       "artists": [
         {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+        },
+        {
+          "name": "The Limelites",
+          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
         }
       ],
-      "duration_ms": 138960,
-      "name": "I Wonder Why - Remastered",
-      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
+        "name": "The Best Of Dion & The Belmonts",
+        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
       },
       "artists": [
         {
-          "name": "Shep",
-          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
-        },
-        {
-          "name": "The Limelites",
-          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
         }
       ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
+      "duration_ms": 138960,
+      "name": "I Wonder Why - Remastered",
+      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
     },
     {
       "added_at": "2024-07-14 11:36:52",

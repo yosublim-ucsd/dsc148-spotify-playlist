@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAaqxR7H8UDbMwpbKAZQ0h2k7E9vC+/",
+  "snapshot_id": "AAAasiqK1vBfy8dF9H2JC4MLA1BON0Fu",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -25,24 +25,68 @@
       "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
     },
     {
-      "added_at": "2024-12-15 04:07:46",
+      "added_at": "2024-12-14 03:37:42",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+        "name": "High & On The Run",
+        "url": "https://open.spotify.com/album/1xDzsNJQHF9F4fWLyWD8ef"
       },
       "artists": [
         {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "MARDI MAYHEM",
+          "url": "https://open.spotify.com/artist/2kTocVbn1xWvkv3nz49466"
         }
       ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
+      "duration_ms": 163809,
+      "name": "High & On The Run",
+      "url": "https://open.spotify.com/track/0W3QnTHk9HoLrcT0fn4436"
+    },
+    {
+      "added_at": "2024-12-14 17:25:56",
+      "album": {
+        "name": "New Phone Who Dis",
+        "url": "https://open.spotify.com/album/09RCYjzbzingRBkYWGA5fd"
+      },
+      "artists": [
+        {
+          "name": "Jvck Mormon",
+          "url": "https://open.spotify.com/artist/5duM6kBaOa8gkrtS7xcOW1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "New Phone Who Dis - Radio Edit",
+      "url": "https://open.spotify.com/track/3L5o1q53CWdysoC3Y8eXlT"
+    },
+    {
+      "added_at": "2024-12-14 20:33:40",
+      "album": {
+        "name": "The Cat",
+        "url": "https://open.spotify.com/album/447lDXEjq8LdP83LKQ36On"
+      },
+      "artists": [
+        {
+          "name": "SINO",
+          "url": "https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "The Cat",
+      "url": "https://open.spotify.com/track/6mp0k2ECsL1lRzCyNyjF66"
+    },
+    {
+      "added_at": "2023-11-20 21:07:03",
+      "album": {
+        "name": "Mental // Insane Asylum",
+        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
     },
     {
       "added_at": "2024-12-15 04:08:00",
@@ -83,22 +127,6 @@
       "duration_ms": 206050,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
-    },
-    {
-      "added_at": "2023-11-20 21:07:03",
-      "album": {
-        "name": "Mental // Insane Asylum",
-        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
-      },
-      "artists": [
-        {
-          "name": "Houseium",
-          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
     },
     {
       "added_at": "2024-12-15 04:07:34",
@@ -249,54 +277,6 @@
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
-      "added_at": "2024-12-14 03:37:42",
-      "album": {
-        "name": "High & On The Run",
-        "url": "https://open.spotify.com/album/1xDzsNJQHF9F4fWLyWD8ef"
-      },
-      "artists": [
-        {
-          "name": "MARDI MAYHEM",
-          "url": "https://open.spotify.com/artist/2kTocVbn1xWvkv3nz49466"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "High & On The Run",
-      "url": "https://open.spotify.com/track/0W3QnTHk9HoLrcT0fn4436"
-    },
-    {
-      "added_at": "2024-12-14 17:25:56",
-      "album": {
-        "name": "New Phone Who Dis",
-        "url": "https://open.spotify.com/album/09RCYjzbzingRBkYWGA5fd"
-      },
-      "artists": [
-        {
-          "name": "Jvck Mormon",
-          "url": "https://open.spotify.com/artist/5duM6kBaOa8gkrtS7xcOW1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "New Phone Who Dis - Radio Edit",
-      "url": "https://open.spotify.com/track/3L5o1q53CWdysoC3Y8eXlT"
-    },
-    {
-      "added_at": "2024-12-14 20:33:40",
-      "album": {
-        "name": "The Cat",
-        "url": "https://open.spotify.com/album/447lDXEjq8LdP83LKQ36On"
-      },
-      "artists": [
-        {
-          "name": "SINO",
-          "url": "https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "The Cat",
-      "url": "https://open.spotify.com/track/6mp0k2ECsL1lRzCyNyjF66"
-    },
-    {
       "added_at": "2024-12-15 04:08:47",
       "album": {
         "name": "Miracle",
@@ -321,6 +301,42 @@
       "url": "https://open.spotify.com/track/3JG6S7FbXNWwyW2uJgcJEC"
     },
     {
+      "added_at": "2024-12-15 04:08:41",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/3QXqLSZOI9kVjDuEuu7Hxk"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5s0BJQA5fFGbEJOcpeMA5K"
+    },
+    {
+      "added_at": "2024-12-16 22:29:23",
+      "album": {
+        "name": "MY TYPE",
+        "url": "https://open.spotify.com/album/0QzG8T7TedFy2nt1B2ZNAK"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "MY TYPE",
+      "url": "https://open.spotify.com/track/0NEgkALTriBpIiuCAXWfuS"
+    },
+    {
       "added_at": "2024-12-09 05:24:26",
       "album": {
         "name": "Left To Right (James Hype Edit)",
@@ -343,22 +359,6 @@
       "duration_ms": 140776,
       "name": "Left To Right (James Hype Edit)",
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
-    },
-    {
-      "added_at": "2024-12-15 04:08:41",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/3QXqLSZOI9kVjDuEuu7Hxk"
-      },
-      "artists": [
-        {
-          "name": "BURNR",
-          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5s0BJQA5fFGbEJOcpeMA5K"
     },
     {
       "added_at": "2024-12-09 05:23:44",

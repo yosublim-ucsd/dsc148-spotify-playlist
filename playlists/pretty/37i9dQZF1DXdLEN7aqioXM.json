@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1064206,
+  "num_followers": 1064334,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Video Knights",
+        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
+      },
+      "artists": [
+        {
+          "name": "spring gang",
+          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
+        }
+      ],
+      "duration_ms": 252729,
+      "name": "Video Knights",
+      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 218787,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Video Knights",
-        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
-      },
-      "artists": [
-        {
-          "name": "spring gang",
-          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
-        }
-      ],
-      "duration_ms": 252729,
-      "name": "Video Knights",
-      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 190998,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2bCp88gEYdTDe9fHdhvXZP"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 176248,
       "name": "A Promise to Die",
       "url": "https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 190998,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Flashbacks (Arcade High Remix)",
         "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 182954,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Defender",
-        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Defender",
-      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Fundamentals, Vol. III",
         "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 316129,
       "name": "Pel\u00e9e",
       "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
-      },
-      "artists": [
-        {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 180559,
       "name": "End",
       "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+      },
+      "artists": [
+        {
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Dreaming of the Deep",
-        "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Tigers",
-          "url": "https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy"
-        }
-      ],
-      "duration_ms": 207143,
-      "name": "Ocean of Love - Ben's Gentle Re-Rub",
-      "url": "https://open.spotify.com/track/2MPd4ZQH9WNQ6IIuYTFa13"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Ghost Conductor",
         "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 230062,
       "name": "Ghost Conductor",
       "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Dreaming of the Deep",
+        "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Tigers",
+          "url": "https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy"
+        }
+      ],
+      "duration_ms": 207143,
+      "name": "Ocean of Love - Ben's Gentle Re-Rub",
+      "url": "https://open.spotify.com/track/2MPd4ZQH9WNQ6IIuYTFa13"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
-      },
-      "artists": [
-        {
-          "name": "Mezhdunami",
-          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
-        }
-      ],
-      "duration_ms": 169988,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "I Don't Need a Hero (Cody Crump Remix)",
         "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 232000,
       "name": "E.P.R.O.M.",
       "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
+      },
+      "artists": [
+        {
+          "name": "Mezhdunami",
+          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
+        }
+      ],
+      "duration_ms": 169988,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "F-zero",
-        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "F-zero",
-      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Disco on the Baltic Sea",
         "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197000,
       "name": "Disco on the Baltic Sea",
       "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "F-zero",
+        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "F-zero",
+      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Polarity",
-        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
-      },
-      "artists": [
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Days Away",
-      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Try / Dark Strings",
         "url": "https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 224001,
       "name": "Try",
       "url": "https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
+      },
+      "artists": [
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Days Away",
+      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Power Light",
+        "url": "https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg"
+      },
+      "artists": [
+        {
+          "name": "\u00c67",
+          "url": "https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO"
+        }
+      ],
+      "duration_ms": 261614,
+      "name": "Power Light",
+      "url": "https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "We Find Ourselves",
         "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 219609,
       "name": "We Find Ourselves - Edit",
       "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Power Light",
-        "url": "https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg"
-      },
-      "artists": [
-        {
-          "name": "\u00c67",
-          "url": "https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO"
-        }
-      ],
-      "duration_ms": 261614,
-      "name": "Power Light",
-      "url": "https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Nightbreed (2022 Remastered Version)",
-        "url": "https://open.spotify.com/album/4kk0hAgJdMz0HF3sHEoix9"
+        "name": "Teenage Dreams",
+        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
       },
       "artists": [
         {
-          "name": "Chris Keya",
-          "url": "https://open.spotify.com/artist/7zCJiVQxxnpXTnIDVMihPl"
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Nightbreed - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/51PxMHeX2V5ID89IEqjtT5"
+      "duration_ms": 208032,
+      "name": "Teenage Dreams",
+      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Teenage Dreams",
-        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
+        "name": "Nightbreed (2022 Remastered Version)",
+        "url": "https://open.spotify.com/album/4kk0hAgJdMz0HF3sHEoix9"
       },
       "artists": [
         {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+          "name": "Chris Keya",
+          "url": "https://open.spotify.com/artist/7zCJiVQxxnpXTnIDVMihPl"
         }
       ],
-      "duration_ms": 208032,
-      "name": "Teenage Dreams",
-      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
+      "duration_ms": 231000,
+      "name": "Nightbreed - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/51PxMHeX2V5ID89IEqjtT5"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Timeshift / Cronos",
-        "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
-      },
-      "artists": [
-        {
-          "name": "Pfeffermouse",
-          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
-        }
-      ],
-      "duration_ms": 313034,
-      "name": "Timeshift",
-      "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 263076,
       "name": "Sin",
       "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Timeshift / Cronos",
+        "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
+      },
+      "artists": [
+        {
+          "name": "Pfeffermouse",
+          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
+        }
+      ],
+      "duration_ms": 313034,
+      "name": "Timeshift",
+      "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Wavefinder",
-        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
-      },
-      "artists": [
-        {
-          "name": "Makeup And Vanity Set",
-          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
-        },
-        {
-          "name": "Sferro",
-          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "Innercomm",
-      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Turnover",
         "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 144000,
       "name": "Redux",
       "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Wavefinder",
+        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
+      },
+      "artists": [
+        {
+          "name": "Makeup And Vanity Set",
+          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+        },
+        {
+          "name": "Sferro",
+          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "Innercomm",
+      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
     },
     {
       "added_at": "2024-09-11 17:46:02",

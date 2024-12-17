@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 95015,
+  "num_followers": 95196,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
-      "added_at": "2024-11-25 23:21:46",
-      "album": {
-        "name": "Where Are You",
-        "url": "https://open.spotify.com/album/0AO7R74FUnnp5xQC1uG6tR"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Where Are You",
-      "url": "https://open.spotify.com/track/6aa4emYU5yVslynTksTR1Q"
-    },
-    {
       "added_at": "2024-10-04 17:28:20",
       "album": {
         "name": "Queen Alone",
@@ -1143,6 +1127,22 @@
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2024-11-25 23:21:46",
+      "album": {
+        "name": "Where Are You",
+        "url": "https://open.spotify.com/album/0AO7R74FUnnp5xQC1uG6tR"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Where Are You",
+      "url": "https://open.spotify.com/track/6aa4emYU5yVslynTksTR1Q"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Teatro L\u00facido",
-        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 180601,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Teatro L\u00facido",
+        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
     },
     {
       "added_at": "2024-10-04 17:28:20",

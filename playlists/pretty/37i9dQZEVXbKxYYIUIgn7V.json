@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Austria.",
-  "num_followers": 12423,
+  "num_followers": 12424,
   "original_name": "Viral 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LvJGIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Verwandtschaftstreffen",
         "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
         "url": "https://open.spotify.com/album/2ozK2VQLvCKTEh4OEU3oXQ"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
@@ -189,59 +189,7 @@
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato",
-        "url": "https://open.spotify.com/album/1aiCFo4xwwYp9J7qHOy1Mb"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 187403,
-      "name": "il filo rosso",
-      "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Spin The Wheel (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Vaiana 2 (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/3fF0inqDQBO8NVlGicJT0r"
-      },
-      "artists": [
-        {
-          "name": "david mayonga",
-          "url": "https://open.spotify.com/artist/16r71KgKj6W7Sfv4b3DmNy"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Gib mir ein Chee Hoo",
-      "url": "https://open.spotify.com/track/0P1V9naTbwy5UbZxiWkESX"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
         "url": "https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2"
@@ -257,7 +205,7 @@
       "url": "https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
@@ -277,7 +225,119 @@
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Spin The Wheel (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato",
+        "url": "https://open.spotify.com/album/1aiCFo4xwwYp9J7qHOy1Mb"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "il filo rosso",
+      "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Vaiana 2 (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/3fF0inqDQBO8NVlGicJT0r"
+      },
+      "artists": [
+        {
+          "name": "david mayonga",
+          "url": "https://open.spotify.com/artist/16r71KgKj6W7Sfv4b3DmNy"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Gib mir ein Chee Hoo",
+      "url": "https://open.spotify.com/track/0P1V9naTbwy5UbZxiWkESX"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Menina do Job X Viciada em Sentar",
+        "url": "https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb"
+      },
+      "artists": [
+        {
+          "name": "Dj Junior Sales",
+          "url": "https://open.spotify.com/artist/0nVx67ccaVKabUD03FBrZU"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 115055,
+      "name": "Menina do Job X Viciada em Sentar",
+      "url": "https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Fantastic (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
         "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
@@ -301,43 +361,7 @@
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Fantastic (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
@@ -377,31 +401,7 @@
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Menina do Job X Viciada em Sentar",
-        "url": "https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb"
-      },
-      "artists": [
-        {
-          "name": "Dj Junior Sales",
-          "url": "https://open.spotify.com/artist/0nVx67ccaVKabUD03FBrZU"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 115055,
-      "name": "Menina do Job X Viciada em Sentar",
-      "url": "https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "home/daheim (demo)",
         "url": "https://open.spotify.com/album/3La5XRtytbfr7N7E6L6nqL"
@@ -417,26 +417,10 @@
       "url": "https://open.spotify.com/track/7rSwCQ1L0YsnbVilZ8pkSq"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Head n' Shoulders",
-        "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Head n' Shoulders",
-      "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "MATUSHKA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/22jiNHxkorPWR1yUtojdwr"
+        "url": "https://open.spotify.com/album/3rqBLadhpdulTQK47p60bj"
       },
       "artists": [
         {
@@ -454,26 +438,10 @@
       ],
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/2IUz7BAQ42KwbRhHmBYenS"
+      "url": "https://open.spotify.com/track/5yksNLORrfAe65mqKZ52rS"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
-        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
-          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
-      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Drink in Moderation",
         "url": "https://open.spotify.com/album/5NUUa5rNKMGLgOC7eRIaL8"
@@ -489,55 +457,7 @@
       "url": "https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "\u041a\u0430\u043a \u0415\u0441\u0435\u043d\u0438\u043d",
-        "url": "https://open.spotify.com/album/1aNxDCQgv3lq1oGAj4j8nQ"
-      },
-      "artists": [
-        {
-          "name": "Navai",
-          "url": "https://open.spotify.com/artist/73VKEgMtKpysM3ITNxkXDa"
-        },
-        {
-          "name": "MONA",
-          "url": "https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj"
-        }
-      ],
-      "duration_ms": 170675,
-      "name": "\u0415\u0441\u0435\u043d\u0438\u043d",
-      "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY"
@@ -553,23 +473,39 @@
       "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
-        "name": "Mut",
-        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
+        "name": "Head n' Shoulders",
+        "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
       },
       "artists": [
         {
-          "name": "Marlo Grosshardt",
-          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
         }
       ],
-      "duration_ms": 229790,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/294X2ZEWvP7CPsexJ7x6Wn"
+      "duration_ms": 122826,
+      "name": "Head n' Shoulders",
+      "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
+        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
+          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
@@ -601,7 +537,59 @@
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "\u041a\u0430\u043a \u0415\u0441\u0435\u043d\u0438\u043d",
+        "url": "https://open.spotify.com/album/1aNxDCQgv3lq1oGAj4j8nQ"
+      },
+      "artists": [
+        {
+          "name": "Navai",
+          "url": "https://open.spotify.com/artist/73VKEgMtKpysM3ITNxkXDa"
+        },
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj"
+        }
+      ],
+      "duration_ms": 170675,
+      "name": "\u0415\u0441\u0435\u043d\u0438\u043d",
+      "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Mut",
+        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "duration_ms": 229790,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/294X2ZEWvP7CPsexJ7x6Wn"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -621,7 +609,35 @@
       "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -641,43 +657,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Wasteland (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
-      },
-      "artists": [
-        {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
-        }
-      ],
-      "duration_ms": 144113,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Fliegen",
         "url": "https://open.spotify.com/album/5Z9fgbNT54fpXKYRvhwMw5"
@@ -693,23 +673,7 @@
       "url": "https://open.spotify.com/track/4lnLVhGxv1YnJEJIComb9x"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "bis einer weint",
-        "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa"
-      },
-      "artists": [
-        {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
-        }
-      ],
-      "duration_ms": 162001,
-      "name": "Tanzen",
-      "url": "https://open.spotify.com/track/19LgPZ2stzql56OSeF37Jy"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Heart Skips Beat",
         "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
@@ -725,27 +689,7 @@
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/4BuyJljs4G2O4I986ZbsOO"
-      },
-      "artists": [
-        {
-          "name": "Nvrsoft",
-          "url": "https://open.spotify.com/artist/6Gu5Gfw17v1AdykImz5owS"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/3xPgk9mh2Jth22VTDjYQ95"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -765,23 +709,23 @@
       "url": "https://open.spotify.com/track/5xvjnyg8FHPGRSkbAhjJh6"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+        "name": "bis einer weint",
+        "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
         }
       ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+      "duration_ms": 162001,
+      "name": "Tanzen",
+      "url": "https://open.spotify.com/track/19LgPZ2stzql56OSeF37Jy"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -792,16 +736,16 @@
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 264680,
-      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"
+      "duration_ms": 161133,
+      "name": "Wasteland (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
@@ -817,7 +761,43 @@
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/4BuyJljs4G2O4I986ZbsOO"
+      },
+      "artists": [
+        {
+          "name": "Nvrsoft",
+          "url": "https://open.spotify.com/artist/6Gu5Gfw17v1AdykImz5owS"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/3xPgk9mh2Jth22VTDjYQ95"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "money",
         "url": "https://open.spotify.com/album/3DXbRemwBJTQ8cPybFBLXp"
@@ -841,7 +821,7 @@
       "url": "https://open.spotify.com/track/0M02KarGlX2UACt6BJQb8S"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "An\u0111eo (From \"Sram\")",
         "url": "https://open.spotify.com/album/69uqqJ6T4B6OQAhE9gi9cK"
@@ -861,7 +841,75 @@
       "url": "https://open.spotify.com/track/4w6fEGrluheE0MtiPUe0hJ"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Was erlebt (KomaCasper Remix)",
+        "url": "https://open.spotify.com/album/3H2LnlSGViEU5SJIOOjNTy"
+      },
+      "artists": [
+        {
+          "name": "KomaCasper",
+          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Was erlebt - KomaCasper Remix",
+      "url": "https://open.spotify.com/track/5AyO3iIWYUcGcuM3wR7vb0"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -881,23 +929,23 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
-        "name": "Was erlebt (KomaCasper Remix)",
-        "url": "https://open.spotify.com/album/3H2LnlSGViEU5SJIOOjNTy"
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
       },
       "artists": [
         {
-          "name": "KomaCasper",
-          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Was erlebt - KomaCasper Remix",
-      "url": "https://open.spotify.com/track/5AyO3iIWYUcGcuM3wR7vb0"
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
@@ -921,23 +969,7 @@
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
-      },
-      "artists": [
-        {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
+      "added_at": "2024-12-16 13:54:16",
       "album": {
         "name": "Romantic Piano",
         "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
@@ -951,38 +983,6 @@
       "duration_ms": 94946,
       "name": "Hinoki Wood",
       "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/0l16hAQv1dq0RWhR7ZhNms"
-      },
-      "artists": [
-        {
-          "name": "Cadance",
-          "url": "https://open.spotify.com/artist/67ENGXeHYzLuvLJMHWfj6B"
-        }
-      ],
-      "duration_ms": 188809,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/62u7Qqim2hVpu1tlDK2Q9R"
-    },
-    {
-      "added_at": "2024-12-15 13:45:41",
-      "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     }
   ],
   "unique_name": "Viral 50 - Austria",

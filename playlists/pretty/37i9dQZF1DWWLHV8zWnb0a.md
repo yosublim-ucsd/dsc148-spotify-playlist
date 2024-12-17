@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,598 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,701 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 69 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 70 | [Nobody but You](https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Songs For Drella](https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk) | 3:45 |
 | 71 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
-| 72 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
-| 73 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 |
+| 72 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 |
+| 73 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
 | 74 | [Diane](https://open.spotify.com/track/7xcdm6MybPgVeYgGewJzdE) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Infernal Love](https://open.spotify.com/album/31KNGmbreLRbNfmEXRnXTl) | 4:59 |
 | 75 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
 

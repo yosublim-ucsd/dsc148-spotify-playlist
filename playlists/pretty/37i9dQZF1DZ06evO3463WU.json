@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149468,
+  "num_followers": 149482,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAA1G0UBlIDcCWhGc1EwdnzN",
+  "snapshot_id": "Z14cAAAAAADUWR4o/nEynTSCedzhI06W",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Mis Canciones De Amor",
-      "url": "https://open.spotify.com/track/5ttZh9rIWewrlBShMUYZsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre Enamorado",
         "url": "https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 211417,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Mis Canciones De Amor",
+      "url": "https://open.spotify.com/track/5ttZh9rIWewrlBShMUYZsZ"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 165903,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1rchate",
-        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 165903,
-      "name": "M\u00e1rchate",
-      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
     },
     {
       "added_at": null,

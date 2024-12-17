@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Shaboozey
+> The biggest hits in country music\. Cover: Luke Bryan, Quavo & Teddy Swims
 
 776 songs - 1 day 18 hr 9 min
 
@@ -720,7 +720,7 @@
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-16 | 2023-06-24 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-09-01 | 2024-06-29 |
 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2024-11-15 |  |
-| [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-12-06 |  |
+| [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-12-06 | 2024-12-17 |
 | [What A Song Can Do](https://open.spotify.com/track/6370O8YLLVTdcnE457lhhY) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:41 | 2022-03-02 | 2022-06-25 |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-10 | 2024-02-10 |
 | [What Colour You Drive](https://open.spotify.com/track/5Zp4gbFOTHdzuTCdiTbRdn) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [What Colour You Drive](https://open.spotify.com/album/0pcnBEavBIxMwpz7Oi46Ro) | 3:48 | 2023-05-12 | 2023-08-12 |

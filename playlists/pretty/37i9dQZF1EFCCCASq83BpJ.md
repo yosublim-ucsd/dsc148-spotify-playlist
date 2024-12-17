@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,611 likes - 116 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,613 likes - 116 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 60 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 |
 | 61 | [the light is coming \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0sdbFOyfgAhAhWq8DpzkaW) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:48 |
 | 62 | [Tattooed Heart](https://open.spotify.com/track/7JmIjOsRish3vYBSLTytEC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:14 |
-| 63 | [Heatstroke \(feat\. Young Thug, Pharrell Williams & Ariana Grande\)](https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:49 |
-| 64 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
+| 63 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
+| 64 | [Heatstroke \(feat\. Young Thug, Pharrell Williams & Ariana Grande\)](https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:49 |
 | 65 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/4yyX2Iu4xJjW9xMvBZKSBi) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:24 |
 | 66 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 |
 | 67 | [obvious](https://open.spotify.com/track/0q85C1JiECyYIQthz1posA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 115 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
 | 116 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `AbkPaAAAAAAeM3KsAatM8pWOqIZjPdC6`
+Snapshot ID: `AbkVCAAAAADI9tAaDPApaglrHNhPmWJk`

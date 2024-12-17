@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2024-03-22 | 2024-10-08 |
+| [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2024-03-22 |  |
 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 | 2023-03-17 | 2024-05-05 |
 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2022-06-23 | 2023-07-19 |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-11-12 | 2022-07-29 |
@@ -99,7 +99,7 @@
 | [Evelyn](https://open.spotify.com/track/0C0YCeV0rYv315z8twysDt) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Evelyn](https://open.spotify.com/album/3xyqWaDeh8TQ9PMK6noL7i) | 3:21 | 2023-04-27 | 2023-08-16 |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-08-12 | 2023-01-22 |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-03-31 | 2022-07-28 |
-| [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2022-06-06 |  |
+| [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2022-06-06 | 2024-12-17 |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-11-12 |  |
 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6XZNMTmnxXuuYPNUjKMmbP) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Everything is Different \(To Me\)](https://open.spotify.com/album/5kGUb7l3xISthWVpu1lWKw) | 4:24 | 2021-11-12 | 2022-07-29 |
 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 | 2022-06-23 | 2023-01-05 |

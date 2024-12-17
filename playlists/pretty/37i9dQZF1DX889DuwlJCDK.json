@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Maverick Mom",
-  "num_followers": 16638,
+  "num_followers": 16647,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "\u51a5\u51a5",
-        "url": "https://open.spotify.com/album/76a759u25fWITdpdjqidXn"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "\u51a5\u51a5",
-      "url": "https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe"
-    },
-    {
-      "added_at": "2024-12-10 15:26:48",
-      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 268235,
       "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
+    },
+    {
+      "added_at": "2024-12-10 15:26:48",
+      "album": {
+        "name": "\u51a5\u51a5",
+        "url": "https://open.spotify.com/album/76a759u25fWITdpdjqidXn"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "\u51a5\u51a5",
+      "url": "https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "\u3081\u3061\u3083\u304f\u3061\u3083\u597d\u304d\u306a\u4eba\u3092\u611b\u3059\u3088\u3046\u306b\u4e16\u754c\u3092\u611b\u3057\u3066\uff01",
-        "url": "https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC"
-      },
-      "artists": [
-        {
-          "name": "neguse.",
-          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "\u3081\u3061\u3083\u304f\u3061\u3083\u597d\u304d\u306a\u4eba\u3092\u611b\u3059\u3088\u3046\u306b\u4e16\u754c\u3092\u611b\u3057\u3066\uff01",
-      "url": "https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3"
-    },
-    {
-      "added_at": "2024-12-10 15:26:48",
-      "album": {
         "name": "\u541b\u306b\u5922\u4e2d!!",
         "url": "https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 233037,
       "name": "\u541b\u306b\u5922\u4e2d!!",
       "url": "https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu"
+    },
+    {
+      "added_at": "2024-12-10 15:26:48",
+      "album": {
+        "name": "\u3081\u3061\u3083\u304f\u3061\u3083\u597d\u304d\u306a\u4eba\u3092\u611b\u3059\u3088\u3046\u306b\u4e16\u754c\u3092\u611b\u3057\u3066\uff01",
+        "url": "https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "\u3081\u3061\u3083\u304f\u3061\u3083\u597d\u304d\u306a\u4eba\u3092\u611b\u3059\u3088\u3046\u306b\u4e16\u754c\u3092\u611b\u3057\u3066\uff01",
+      "url": "https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
+        "name": "Now is the best!!!",
+        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
       },
       "artists": [
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
         }
       ],
-      "duration_ms": 239970,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
+      "duration_ms": 146896,
+      "name": "Now is the best!!!",
+      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "Now is the best!!!",
-        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
       },
       "artists": [
         {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
         }
       ],
-      "duration_ms": 146896,
-      "name": "Now is the best!!!",
-      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
+      "duration_ms": 239970,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "sanagi",
-        "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
+        "name": "\u5024\u5343\u91d1",
+        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
       },
       "artists": [
         {
-          "name": "Kei Sugawara",
-          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 195493,
-      "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
-      "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
+      "duration_ms": 286225,
+      "name": "\u5024\u5343\u91d1",
+      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -1499,34 +1499,18 @@
     {
       "added_at": "2024-12-10 15:26:48",
       "album": {
-        "name": "\u5024\u5343\u91d1",
-        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
+        "name": "sanagi",
+        "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
         }
       ],
-      "duration_ms": 286225,
-      "name": "\u5024\u5343\u91d1",
-      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
-    },
-    {
-      "added_at": "2024-12-10 15:26:48",
-      "album": {
-        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
-      },
-      "artists": [
-        {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
-        }
-      ],
-      "duration_ms": 181170,
-      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
+      "duration_ms": 195493,
+      "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
+      "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
     },
     {
       "added_at": "2024-12-10 15:26:48",
@@ -1543,6 +1527,22 @@
       "duration_ms": 179026,
       "name": "SUMMER PLANNING",
       "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
+    },
+    {
+      "added_at": "2024-12-10 15:26:48",
+      "album": {
+        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "duration_ms": 181170,
+      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
     },
     {
       "added_at": "2024-12-10 15:26:48",

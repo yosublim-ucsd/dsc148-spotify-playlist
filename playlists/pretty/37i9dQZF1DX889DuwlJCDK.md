@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Maverick Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,638 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,647 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,23 +61,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 51 | [NOISE](https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [NOISE](https://open.spotify.com/album/6D7onfgcykBliyAvMcMx5Q) | 3:18 |
 | 52 | [Scoop!](https://open.spotify.com/track/3fccsKwQvFMV38W4zrx8TU) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Scoop!](https://open.spotify.com/album/0brj4UWdmeAkIGeOAkOnOB) | 2:56 |
 | 53 | [先輩](https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [先輩](https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA) | 3:21 |
-| 54 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 |
-| 55 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 |
+| 54 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 |
+| 55 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 |
 | 56 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
 | 57 | [poole](https://open.spotify.com/track/7qWNXlAaH8NSn0oa1w3Wor) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ぼくらの涙なら空に埋めよう](https://open.spotify.com/album/3X53glEtwCpJcpTw4TVSrv) | 3:34 |
 | 58 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 |
 | 59 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 |
-| 60 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 |
-| 61 | [君に夢中!!](https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [君に夢中!!](https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m) | 3:53 |
+| 60 | [君に夢中!!](https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [君に夢中!!](https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m) | 3:53 |
+| 61 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 |
 | 62 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 |
 | 63 | [アウトフォーカス](https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [アウトフォーカス](https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx) | 3:21 |
 | 64 | [夏は巡る](https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 2:09 |
 | 65 | [アクション！](https://open.spotify.com/track/6q6GQ80tEo8yZdq8yUiG6w) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [アクション！](https://open.spotify.com/album/0Qe5TTbno7M0N61aIg0VcY) | 3:10 |
 | 66 | [夢みるスーパーマン](https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 3:12 |
 | 67 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:56 |
-| 68 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 |
+| 68 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 |
 | 69 | [花筏](https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花筏](https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf) | 4:35 |
-| 70 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 |
+| 70 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 |
 | 71 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
 | 72 | [私的幸福論](https://open.spotify.com/track/4fLiqr8OyysFvF4zhWt6H1) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Three](https://open.spotify.com/album/4GeiVCFuFw3Ifk95sZM1vg) | 3:12 |
 | 73 | [愛の轍](https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [愛の轍](https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA) | 3:12 |
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 89 | [会いたくなったら](https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [会いたくなったら](https://open.spotify.com/album/5E3CquCa3c6NH3Z4mtGS9B) | 3:45 |
 | 90 | [Musica](https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Musica](https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA) | 3:03 |
 | 91 | [エキストラ](https://open.spotify.com/track/1GzJQkdWo8v4v21K0mEhHG) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [エキストラ](https://open.spotify.com/album/4lUyJSKjpBpd15h5pP2TLL) | 3:16 |
-| 92 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
+| 92 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
 | 93 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
-| 94 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
-| 95 | [ポップスター](https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ポップスター](https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN) | 3:01 |
-| 96 | [SUMMER PLANNING](https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ユースレスマシン](https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO) | 2:59 |
+| 94 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
+| 95 | [SUMMER PLANNING](https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ユースレスマシン](https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO) | 2:59 |
+| 96 | [ポップスター](https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ポップスター](https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN) | 3:01 |
 | 97 | [愛の乾燥機](https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [愛の乾燥機](https://open.spotify.com/album/2PGNDSl1PFdTECL3AJn9VD) | 3:54 |
 | 98 | [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 |
 | 99 | [君と癖](https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [君と癖](https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7) | 3:58 |

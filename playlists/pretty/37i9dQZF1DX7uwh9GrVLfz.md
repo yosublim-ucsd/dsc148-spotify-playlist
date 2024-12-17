@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ROTTENGRAFFTY × dustbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,707 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,717 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 62 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 63 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 64 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
-| 65 | [作戦会議](https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:44 |
-| 66 | [Place of Fire \- Beginning mix](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 |
+| 65 | [Place of Fire \- Beginning mix](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 |
+| 66 | [作戦会議](https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:44 |
 | 67 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
 | 68 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
 | 69 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 86 | [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 |
 | 87 | [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 |
 | 88 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 |
-| 89 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
+| 89 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 |
 | 90 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 91 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
-| 92 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 |
+| 92 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
 | 93 | [morning glow](https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g) | 3:02 |
 | 94 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 |
 | 95 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |

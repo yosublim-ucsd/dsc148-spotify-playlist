@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,221 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,284 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 40 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/63BroH3HiwxYD8T5qTZiJn) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/3c1EWuqoXW71z03rvyogVr) | 3:21 |
 | 41 | [Solteiro Iniciante](https://open.spotify.com/track/4Do0PK6qXYO28ifX9Y1Cle) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Solteiro Iniciante](https://open.spotify.com/album/0ZNWiUgxc4c4DwCPQYlWqe) | 2:34 |
 | 42 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
-| 43 | [Banquinho \- Ao Vivo](https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Banquinho \(Ao Vivo\)](https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl) | 2:38 |
+| 43 | [Banquinho \- Ao Vivo](https://open.spotify.com/track/1sZDpNDBC4VUUKiVrJ6lBe) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Sertanejo As Estouradas](https://open.spotify.com/album/7LkQLbECvEVhchNrbWgMFk) | 2:38 |
 | 44 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
 | 45 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/7ghRkxJXkQCFO0l8Kn8i8U) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 3:12 |
 | 46 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Última Noite](https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Estilo Nattanzinho \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO) | 2:37 |
 | 50 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 
-Snapshot ID: `LvJGIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

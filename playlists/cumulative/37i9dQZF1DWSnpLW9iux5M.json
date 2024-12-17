@@ -23,6 +23,54 @@
     },
     {
       "album": {
+        "name": "A Cali Christmas (Live)",
+        "url": "https://open.spotify.com/album/4mVSm8mTjekvNy6xx7ZLSq"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Vincent Tharpe & Kenosis",
+          "url": "https://open.spotify.com/artist/1DMyF4RpZun2Ps98wCy59T"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398661,
+      "name": "A King Is Born - Live",
+      "url": "https://open.spotify.com/track/74ZufttGwUKBX9lZjTN4Zq"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Child",
+        "url": "https://open.spotify.com/album/1tatgsoU3vbGuAGLuvBCHI"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrew Wilson",
+          "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
+        },
+        {
+          "name": "Dorothy Norwood",
+          "url": "https://open.spotify.com/artist/3B2PSZmAw3xz6cQ2XMXta7"
+        },
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "A Wonderful Child",
+      "url": "https://open.spotify.com/track/5jA2SXtVOHSSspPxI9K0P9"
+    },
+    {
+      "album": {
         "name": "A Red Guerrilla CHRISTmas, Vol. 2",
         "url": "https://open.spotify.com/album/6a4PIxgqppsT0bgOTMe3ca"
       },
@@ -1588,7 +1636,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 326297,
       "name": "Joy To The World (feat. Eryka Edmund)",
       "url": "https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx"
@@ -1972,7 +2020,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 259026,
       "name": "Merry Christ-Mas (feat. Cory Condrey, Vashawn Mitchell, William Mcdowell, Zebulon Ellis, Joann Rosario Condrey & Erica Cumbo)",
       "url": "https://open.spotify.com/track/2m1QvyW8nEGt8lvd460ol1"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
-  "num_followers": 530734,
+  "num_followers": 530743,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-12-05 20:52:42",
       "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214945,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2024-12-05 20:52:42",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-12-05 20:52:42",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214945,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
       "added_at": "2024-12-05 20:52:42",
@@ -1791,18 +1791,22 @@
     {
       "added_at": "2024-12-05 20:52:42",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw"
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 162139,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn"
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "added_at": "2024-12-05 20:52:42",
@@ -1839,62 +1843,18 @@
     {
       "added_at": "2024-12-05 20:52:42",
       "album": {
-        "name": "Sin Querer",
-        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw"
       },
       "artists": [
         {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 141071,
-      "name": "Sin Querer",
-      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
-    },
-    {
-      "added_at": "2024-12-05 20:52:42",
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2024-12-05 20:52:42",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+      "duration_ms": 162139,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn"
     },
     {
       "added_at": "2024-12-05 20:52:42",
@@ -1919,6 +1879,46 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+    },
+    {
+      "added_at": "2024-12-05 20:52:42",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+    },
+    {
+      "added_at": "2024-12-05 20:52:42",
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2024-12-05 20:52:42",

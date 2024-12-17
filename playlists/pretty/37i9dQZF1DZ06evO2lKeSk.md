@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,782 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,820 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 27 | [Hice Bien Quererte \(Lambada\) \- Versión Corta](https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:02 |
 | 28 | [La Cárcel del Amor](https://open.spotify.com/track/6tF9tY9Ywd4WeCUK3Xja2W) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mis Favoritas](https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF) | 4:22 |
 | 29 | [Yo Te Perdono](https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:26 |
-| 30 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 |
-| 31 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/19YOYiblp6AUqNjQ5x5nGx) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Cosas Del Amor](https://open.spotify.com/album/0J2xl543WsdW0rmRSbHwf0) | 4:13 |
+| 30 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/19YOYiblp6AUqNjQ5x5nGx) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Cosas Del Amor](https://open.spotify.com/album/0J2xl543WsdW0rmRSbHwf0) | 4:13 |
+| 31 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 |
 | 32 | [La Farsante](https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 3:14 |
 | 33 | [México Lindo y Querido / Cielito Lindo \- En Vivo](https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 5:52 |
 | 34 | [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Como un Lunar](https://open.spotify.com/track/32sbfWgLxSchy5OpWh0Vz2) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Eternamente](https://open.spotify.com/album/7e0qqJoTrQoTjlpUU9VO64) | 2:51 |
 | 50 | [Reconciliación](https://open.spotify.com/track/20RbGTXTv6bPLAg1YJslvK) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:14 |
 
-Snapshot ID: `Z1zKgAAAAADrnSF6p/jZs1DKPVSeNInv`
+Snapshot ID: `Z14cAAAAAAA9Xf2E62HBjdC/kT9V7NR0`

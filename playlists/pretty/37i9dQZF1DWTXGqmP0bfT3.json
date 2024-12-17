@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 452652,
+  "num_followers": 453109,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
         "name": "Prophecy of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 222373,
       "name": "Prophecy of Ragnar\u00f6k",
       "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 477026,
-      "name": "All Nightmare Long",
-      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 477026,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
-        "name": "Brave New World",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Blood of the Nations",
-        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 324746,
-      "name": "Beat the Bastards",
-      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 253863,
       "name": "Beyond the Pale",
       "url": "https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Blood of the Nations",
+        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 324746,
+      "name": "Beat the Bastards",
+      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "The Scandinavian Dream",
         "url": "https://open.spotify.com/album/0daUzI3im2AmhdJuCA0X9M"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 211555,
       "name": "The Scandinavian Dream",
       "url": "https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "I, the Mask",
-        "url": "https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "Bloodworm",
         "url": "https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 194576,
       "name": "Bloodworm",
       "url": "https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "I, the Mask",
+        "url": "https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "The Seventh Sun",
-        "url": "https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "Heretic (feat. Loz Taylor)",
-      "url": "https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "Tasty Nasty",
         "url": "https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 217720,
       "name": "Dumptruck",
       "url": "https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "The Seventh Sun",
+        "url": "https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "Heretic (feat. Loz Taylor)",
+      "url": "https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe"
     },
     {
       "added_at": "2024-11-15 06:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 263 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 263 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 90 | [Ion Get You](https://open.spotify.com/track/0iHqaHGCRwxtaJTOOPjSHy) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:37 |
 | 91 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 |
 | 92 | [Andale](https://open.spotify.com/track/1X1xjiyToNBcCwA3Ehjran) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/4AlDW3X24TV6bpBh4T4bhk) | 2:48 |
-| 93 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 94 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 |
+| 93 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 |
+| 94 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
 | 95 | [Wat Be Wrong??](https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:11 |
 | 96 | [Stay Ur Distance \- Bonus](https://open.spotify.com/track/6guglW3GUtF0z7ecX79cHg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 2:47 |
 | 97 | [Mercedes](https://open.spotify.com/track/5LPI0nfzndJ6mjGkCTDPNv) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:01 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 262 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 263 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbkPaAAAAADSDQCKqK7N02uXvKkp5zZt`
+Snapshot ID: `AbkVCAAAAABbvho0S1Q48ocnPcn9L8xE`

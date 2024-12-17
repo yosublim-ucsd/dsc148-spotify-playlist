@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,457 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,463 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 23 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 24 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
 | 25 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
-| 26 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
-| 27 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 26 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 27 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 28 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 29 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 | 30 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 33 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 |
 | 34 | [All I Wanna Do](https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:08 |
 | 35 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 36 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
-| 37 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
+| 36 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
+| 37 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
 | 38 | [Ordinary Ending](https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [982](https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO) | 2:33 |
 | 39 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |
 | 40 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,012 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,030 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 51 | [O Lord, My Rock and My Redeemer \- Live](https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [Prayers of the Saints \(Live\)](https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR) | 4:06 |
 | 52 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 |
 | 53 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 5:32 |
-| 54 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 |
-| 55 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
+| 54 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
+| 55 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 |
 | 56 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 |
 | 57 | [Fierce \- Live](https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:06 |
 | 58 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 90 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 91 | [Fall Afresh](https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden \(Deluxe Edition\)](https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa) | 5:29 |
 | 92 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
-| 93 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
-| 94 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
+| 93 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
+| 94 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
 | 95 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
 | 96 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 97 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 98 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 99 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
-| 100 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
+| 100 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 
 Snapshot ID: `ZoNTaQAAAACB4XiDDL5CoaLjy9hoh4X+`

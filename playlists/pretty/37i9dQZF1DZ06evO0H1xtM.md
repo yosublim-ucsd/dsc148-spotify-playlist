@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,362 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,523 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 27 | [A ti](https://open.spotify.com/track/1PMFC2sESWeDrIwUqjOgBD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4wj7qlN91z14QO2p5g3bnp) | 2:47 |
 | 28 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
 | 29 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
-| 30 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
-| 31 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
+| 30 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
+| 31 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
 | 32 | [Emprendedor](https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:26 |
 | 33 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 |
 | 34 | [BUGATTI CHIRON](https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BUGATTI CHIRON](https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY) | 3:26 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 50 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 51 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 |
 
-Snapshot ID: `Z1zKgAAAAACBXdcGcOGbIdejA6nZk5ur`
+Snapshot ID: `Z14cAAAAAAA2Hskmzf/ULDpoHYoFyEJX`

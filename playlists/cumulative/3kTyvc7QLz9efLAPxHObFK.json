@@ -6629,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "COME WITH ME",
+        "url": "https://open.spotify.com/album/3DhwCHHmokAF5E3k313URg"
+      },
+      "artists": [
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "COME WITH ME",
+      "url": "https://open.spotify.com/track/3RlhZf7ZUSRfWZEaY5vgDv"
+    },
+    {
+      "album": {
         "name": "Shinonome",
         "url": "https://open.spotify.com/album/4PJUeaC2rUe8eEC8ZCWo9p"
       },

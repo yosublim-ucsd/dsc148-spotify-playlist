@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,173 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,213 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 55 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |
 | 56 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
 | 57 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
-| 58 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
-| 59 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
+| 58 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
+| 59 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
 | 60 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
-| 61 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
-| 62 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
+| 61 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
+| 62 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 63 | [Beautiful As You \- Acoustic](https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As U](https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL) | 2:43 |
 | 64 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
 | 65 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |

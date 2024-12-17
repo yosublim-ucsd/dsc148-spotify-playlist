@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 25696,
+  "num_followers": 25721,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "So\u00f1\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -603,22 +603,18 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 198642,
-      "name": "Lugar ideal",
-      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -639,18 +635,22 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+      "duration_ms": 198642,
+      "name": "Lugar ideal",
+      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Balboa",
-        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 220629,
-      "name": "Quiero Sentirlo Todo",
-      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Balboa",
+        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 220629,
+      "name": "Quiero Sentirlo Todo",
+      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
       },
       "artists": [
         {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 244515,
-      "name": "A las 9:05",
-      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
+      "duration_ms": 205226,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
       },
       "artists": [
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
         }
       ],
-      "duration_ms": 205226,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
+      "duration_ms": 244515,
+      "name": "A las 9:05",
+      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Oh, Sweet Honey",
-        "url": "https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 230153,
-      "name": "Oh, Sweet Honey",
-      "url": "https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Qu\u00e9 Problema",
         "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Oh, Sweet Honey",
+        "url": "https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 230153,
+      "name": "Oh, Sweet Honey",
+      "url": "https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt"
     },
     {
       "added_at": "2024-12-13 05:00:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-13 05:00:42",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Aguaceros",
-      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:42",
-      "album": {
         "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
         "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 235531,
       "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
       "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "added_at": "2024-12-13 05:00:42",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Aguaceros",
+      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
     },
     {
       "added_at": "2024-12-13 05:00:42",

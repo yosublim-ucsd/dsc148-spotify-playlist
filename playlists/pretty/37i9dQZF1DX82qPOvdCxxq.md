@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  Haynza   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,688 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,704 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

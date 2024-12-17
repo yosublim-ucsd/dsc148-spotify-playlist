@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27583,
+  "num_followers": 27585,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAClysfBpbjhKnwm8FGvwwsb",
+  "snapshot_id": "Z14cAAAAAAA03bVERZ0ZJ7g7WmdLumH9",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Team",
         "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186506,
       "name": "Team",
       "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 227539,
       "name": "zer0",
       "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,

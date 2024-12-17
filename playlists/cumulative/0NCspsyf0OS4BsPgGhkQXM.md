@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,103 songs - 2 day 8 hr 55 min
+1,105 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [bad guy](https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ) | [bad guy](https://open.spotify.com/album/3Au2Jv6CGEyc9FLVT7moz9) | 2:18 | 2022-01-14 | 2022-02-10 |
 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 | 2022-11-22 |  |
 | [Bad Karma \- MEMBA Remix](https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Bad Karma \(MEMBA Remix\)](https://open.spotify.com/album/7ajmIWq3o3ef9qyBkFeF1w) | 2:18 | 2024-09-30 | 2024-11-07 |
-| [Bad Karma \- VIP](https://open.spotify.com/track/5iyCikM91efwKUlK6FAtBB) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma \(VIP\)](https://open.spotify.com/album/1mt6b5YpeXL65TZ1kxbIdv) | 2:52 | 2024-09-30 |  |
+| [Bad Karma \- VIP](https://open.spotify.com/track/5iyCikM91efwKUlK6FAtBB) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma \(VIP\)](https://open.spotify.com/album/1mt6b5YpeXL65TZ1kxbIdv) | 2:52 | 2024-09-30 | 2024-12-17 |
 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 | 2023-08-18 | 2023-09-07 |
 | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/track/3v0uz2vv9JmVMVyppnHC7n) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/album/0QZBvLW6rPnsKH72NoXa5e) | 3:52 | 2023-03-18 | 2023-07-29 |
 | [Bass In Yo Face](https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Bass In Yo Face](https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra) | 3:07 | 2023-12-01 |  |
@@ -985,6 +985,7 @@
 | [tokyo krush](https://open.spotify.com/track/3XQWpleMWKD4aNffwrmSR6) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [tokyo krush](https://open.spotify.com/album/7gGxiUC15UnVBk5CDDcqkl) | 1:24 | 2024-01-29 | 2024-08-14 |
 | [Told U So](https://open.spotify.com/track/4eNW7QJkdtFHKUs7q8BXsB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Faith](https://open.spotify.com/album/6GGeR0GX67AccF89odFVll) | 2:43 | 2022-12-16 | 2022-12-27 |
 | [Tolls](https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Tolls](https://open.spotify.com/album/4t1DUWa5cMmf8JW0VsXxRZ) | 3:09 | 2023-03-31 | 2023-08-26 |
+| [Tonight](https://open.spotify.com/track/3q8cHHfOVlcilIpvfoAn1h) | [Highway Gloom](https://open.spotify.com/artist/0ohZI3gXk1CQiyoTpcSyT1) | [Tonight](https://open.spotify.com/album/73UKS3QbVugiekYb4ktOfy) | 2:18 | 2024-12-16 |  |
 | [Too Late To Love You](https://open.spotify.com/track/1XP6izZrqT8FsMaLKDAnUP) | [Ex Habit](https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT) | [Too Late To Love You](https://open.spotify.com/album/2asDslP57oQT3SnErAPyRE) | 2:25 | 2022-07-01 | 2022-07-29 |
 | [Top Now](https://open.spotify.com/track/74yhIeJp5nF6TSngZBPVhQ) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Top Now](https://open.spotify.com/album/5iLlpCTNZy90Q536qcl9iX) | 2:18 | 2022-06-24 | 2022-07-29 |
 | [Touch Me](https://open.spotify.com/track/3OKrYET176YDfFvbEA05hr) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Touch Me](https://open.spotify.com/album/67Vv0WIob1W67obkI8P0B9) | 2:33 | 2024-02-16 | 2024-04-05 |
@@ -1026,6 +1027,7 @@
 | [Vem DJ](https://open.spotify.com/track/0H86ggZBO7GtQ0Kf560ijY) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Vem DJ](https://open.spotify.com/album/39hjtTpq8n1o4Th2Z0OHrv) | 2:17 | 2023-10-13 | 2023-12-09 |
 | [Venom](https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Venom](https://open.spotify.com/album/1lgRPhvyHG092PPPN6b9V1) | 3:18 | 2022-12-14 | 2023-01-28 |
 | [Vibration](https://open.spotify.com/track/5iVCcci2NZMEbQEi4cSXKQ) | [Alban Chela](https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Vibration](https://open.spotify.com/album/2XUwPTz8pbtfggtSR66Os7) | 2:09 | 2023-10-12 | 2023-12-19 |
+| [VICTIM TO MY BRAIN](https://open.spotify.com/track/5Ukh3ip8IXv7ASEFtXCtRI) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [VICTIM TO MY BRAIN](https://open.spotify.com/album/0v9UFbGvyMwOdGhHO1Dy5K) | 2:10 | 2024-12-16 |  |
 | [Visions](https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Visions](https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp) | 2:44 | 2022-03-10 | 2022-04-09 |
 | [VIVINHA](https://open.spotify.com/track/3FTlbsFazH2mP4oBxuyzAI) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [VIVINHA](https://open.spotify.com/album/0sKfW7CQViUMFjTb8XUCgt) | 1:19 | 2023-08-25 | 2023-10-14 |
 | [Voices](https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Voices](https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx) | 2:52 | 2022-08-28 | 2022-10-08 |

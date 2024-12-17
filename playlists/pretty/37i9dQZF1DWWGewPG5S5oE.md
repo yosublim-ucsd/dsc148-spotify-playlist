@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 上原ひろみ, 矢野顕子
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,590 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,612 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 43 | [スパルタカス ～愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 |
 | 44 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 |
 | 45 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
-| 46 | [Day 1](https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Day 1](https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq) | 8:53 |
-| 47 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
+| 46 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
+| 47 | [Day 1](https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Day 1](https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq) | 8:53 |
 | 48 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
 | 49 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
 | 50 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,471 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,483 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 17 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 18 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
 | 19 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
-| 20 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
-| 21 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
+| 20 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
+| 21 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 22 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 23 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
 | 24 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 39 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 40 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 41 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
-| 42 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
-| 43 | [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 |
+| 42 | [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 |
+| 43 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
 | 44 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 45 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 |
 | 46 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |

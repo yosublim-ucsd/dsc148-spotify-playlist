@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 404461,
+  "num_followers": 404528,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABRyZIVAH+mr4RQJdQdN1nr",
+  "snapshot_id": "Z14cAAAAAADVuzcCLWJn+APYOylrmvQw",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
     },
     {
       "added_at": null,

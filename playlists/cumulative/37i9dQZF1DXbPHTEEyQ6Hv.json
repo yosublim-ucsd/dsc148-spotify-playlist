@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Hjemme",
+        "url": "https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD"
+      },
+      "artists": [
+        {
+          "name": "Kj\u00f8pmann",
+          "url": "https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149125,
+      "name": "Hjemme",
+      "url": "https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ"
+    },
+    {
+      "album": {
         "name": "Home for the Holidays",
         "url": "https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH"
       },

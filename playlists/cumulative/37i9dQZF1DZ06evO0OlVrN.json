@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Llorar por Amor",
+      "url": "https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR"
+    },
+    {
+      "album": {
         "name": "Explosion Norte\u00f1a",
         "url": "https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr"
       },

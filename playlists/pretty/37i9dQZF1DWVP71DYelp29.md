@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,850 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,826 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 77 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 |
 | 78 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 79 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 |
-| 80 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
+| 80 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 |
 | 81 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
-| 82 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 |
+| 82 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
 | 83 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
 | 84 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 |
 | 85 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 107 | [T\-Shirt \(Spotify Mix\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Spotify Singles](https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe) | 2:43 |
 | 108 | [I Wanna Dance With Somebody \- Spotify Singles](https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Spotify Singles](https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh) | 2:44 |
 | 109 | [Creep](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 |
-| 110 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 |
-| 111 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
+| 110 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
+| 111 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 |
 | 112 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 |
 | 113 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI) | 4:39 |
 | 114 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |

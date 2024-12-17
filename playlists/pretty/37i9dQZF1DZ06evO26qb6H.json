@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABRWx4bDBY4W0rnYe8RVYGX",
+  "snapshot_id": "Z14cAAAAAABpjYRNvKMd4qzOQJoiL0X+",
   "tracks": [
     {
       "added_at": null,
@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 143941,
-      "name": "Contacts",
-      "url": "https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 181626,
       "name": "DOCTORS",
       "url": "https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 143941,
+      "name": "Contacts",
+      "url": "https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD"
     },
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "On You",
-      "url": "https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 143960,
       "name": "Stuck in Between",
       "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 177588,
-      "name": "A Lot of Miles",
-      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 137640,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 177588,
+      "name": "A Lot of Miles",
+      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Ride With Shordie, Pt. 2",
-      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 61600,
       "name": "Ride With Shordie",
       "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Ride With Shordie, Pt. 2",
+      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 138680,
       "name": "Same Niggas",
       "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156819,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 148464,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 153546,
       "name": "Seattle",
       "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 148464,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 136306,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
     },
     {
       "added_at": null,

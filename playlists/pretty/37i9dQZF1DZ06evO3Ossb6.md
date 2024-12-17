@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,558 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,623 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 43 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
 | 44 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
 | 45 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
-| 46 | [No Es Que Me Quiera Ir](https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Es Que Me Quiera Ir](https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl) | 4:04 |
-| 47 | [Dos Corazones, Dos Historias \(Dos Corações E Uma Historia\)](https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noche De Cuatro Lunas](https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX) | 3:55 |
+| 46 | [Dos Corazones, Dos Historias \(Dos Corações E Uma Historia\)](https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noche De Cuatro Lunas](https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX) | 3:55 |
+| 47 | [No Es Que Me Quiera Ir](https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Es Que Me Quiera Ir](https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl) | 4:04 |
 | 48 | [Mentirosos](https://open.spotify.com/track/5P00gBfGxu2SyAD0M8yAMn) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:18 |
 | 49 | [Se Me Va la Voz \(feat\. Alejandro Fernández\)](https://open.spotify.com/track/5ylcXem4LXLoWgSlNgaVSl) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Oblígame](https://open.spotify.com/album/5JPdCMOzCQS4gU1juHqZB5) | 3:17 |
 | 50 | [Perdón \(with Alejandro Fernández\) \- Remasterizado 2005](https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:34 |
 
-Snapshot ID: `Z1zKgAAAAADzGXF72dsacEbNdHI2i96G`
+Snapshot ID: `Z14cAAAAAACT6MsOn7pweZt4sEPciZF/`

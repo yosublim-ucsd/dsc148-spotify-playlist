@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 168202,
+  "num_followers": 168270,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,26 @@
     {
       "added_at": "2024-12-13 16:41:58",
       "album": {
-        "name": "Ele \u00e9 Exaltado",
-        "url": "https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq"
+        "name": "Comprou",
+        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "William Augusto",
+          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6"
+      "duration_ms": 282760,
+      "name": "Comprou",
+      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
     },
     {
       "added_at": "2024-12-13 16:41:58",
@@ -171,26 +179,18 @@
     {
       "added_at": "2024-12-13 16:41:58",
       "album": {
-        "name": "Comprou",
-        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
+        "name": "Ele \u00e9 Exaltado",
+        "url": "https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq"
       },
       "artists": [
         {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Comprou",
-      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
+      "duration_ms": 197120,
+      "name": "Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6"
     },
     {
       "added_at": "2024-12-13 16:41:58",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-12-13 16:41:58",
       "album": {
+        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "Santo, Santo, Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
+    },
+    {
+      "added_at": "2024-12-13 16:41:58",
+      "album": {
         "name": "Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 249917,
       "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
-    },
-    {
-      "added_at": "2024-12-13 16:41:58",
-      "album": {
-        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "Santo, Santo, Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
     },
     {
       "added_at": "2024-12-13 16:41:58",

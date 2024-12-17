@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 408292,
+  "num_followers": 408321,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Desnudate - Remix",
         "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 243999,
       "name": "Desnudate - Remix",
       "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Pa' Gozar - Zona Rika",
-        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
-      },
-      "artists": [
-        {
-          "name": "Zona Rika",
-          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
-        }
-      ],
-      "duration_ms": 235821,
-      "name": "Spanish Girl",
-      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 259466,
       "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
       "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Dominando y Controlando",
-        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "El baile del gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Dinamitazos Tropicales de Siempre",
         "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 189954,
       "name": "Oye",
       "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Dominando y Controlando",
+        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
+      },
+      "artists": [
+        {
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "El baile del gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
-        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 136812,
-      "name": "TAPITA",
-      "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
+        "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 136812,
+      "name": "TAPITA",
+      "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "ELEUSECA",
-        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "ELEUSECA",
-      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Mirame (feat. Blessd) [Remix]",
         "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 193605,
       "name": "Mirame (feat. Blessd) - Remix",
       "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "ELEUSECA",
+        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "ELEUSECA",
+      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
     },
     {
       "added_at": "2024-10-04 20:34:22",

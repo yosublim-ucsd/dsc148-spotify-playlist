@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,265 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,273 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 13 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
 | 14 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 15 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
-| 16 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
+| 16 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
 | 17 | [When love passes by](https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 4:00 |
-| 18 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
+| 18 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
 | 19 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 20 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 21 | [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 |

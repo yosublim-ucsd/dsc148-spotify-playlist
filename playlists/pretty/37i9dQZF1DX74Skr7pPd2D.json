@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 45332,
+  "num_followers": 45331,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Breeze From The East",
         "url": "https://open.spotify.com/album/3VUnIk2AAjvnUb4N8SI1WY"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 192200,
       "name": "Black Orchid",
       "url": "https://open.spotify.com/track/1Xrlr0CvpV1dFakpGJDzLI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "A Generation Ago Today",
-        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -759,6 +759,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Samba Para Dos",
         "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 606413,
       "name": "Samba Para Dos",
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Soul Sauce",
-      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Very Best of Chris Botti",
@@ -843,6 +827,22 @@
       "duration_ms": 299066,
       "name": "First Wish",
       "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -975,38 +991,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
       },
       "artists": [
         {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Samba Para Dos",
-        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 120813,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1029,20 +1025,24 @@
       "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "An Image: Lee Konitz With Strings",
-        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 319666,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
+      "duration_ms": 120813,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
       "added_at": "2019-10-04 16:01:14",

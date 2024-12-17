@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1wN04stbxdr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wN04stbxdr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1wN04stbxdr)
 
-### [Hver gang vi møtes 2024](https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr)
+### [Hver gang vi møtes 2025](https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr)
 
-> Hør alle låtene fra Hver gang vi møtes 2024.
+> Mens vi venter på ny sesong!
 
-48 songs - 2 hr 25 min
+49 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Smil pent](https://open.spotify.com/track/5kGOb2y182jxhPAI2ujCht) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Smil pent](https://open.spotify.com/album/1tGl6VmEldQoc4Pf1Eocsm) | 2:39 | 2024-06-18 |  |
 | [Sommer\-feeling](https://open.spotify.com/track/62ZgDjIsW7eXuAIe6eU8Aj) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sommer\-feeling](https://open.spotify.com/album/3qXsg8CGbgtEhk1btnkHaM) | 2:44 | 2024-06-18 |  |
 | [Storebror ser deg](https://open.spotify.com/track/2M8LjmwjTH4MQdZY8CVo2Q) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2024](https://open.spotify.com/album/7sBdGOFaqe0UAnP2oGOkHr) | 2:54 | 2024-06-18 |  |
+| [Stranger \- Främling](https://open.spotify.com/track/243FerCOZsAHKGa7nMR0W4) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Stranger \(Främling\)](https://open.spotify.com/album/0lDM38Qyjopsv3lOpZkEvS) | 3:10 | 2024-12-16 |  |
 | [Ta tak i deg sjøl](https://open.spotify.com/track/0JDh7lAIl2i3aKn5OvagMW) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ta tak i deg sjøl](https://open.spotify.com/album/2moOnbPMMspfatSYXSmqDL) | 2:27 | 2024-06-18 |  |
 | [tir n’a noir](https://open.spotify.com/track/5RafTbs5fZsq0OBlkGhOkY) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [tir n’a noir](https://open.spotify.com/album/3OgMVRRvWfR9juLQ0X6JeG) | 3:28 | 2024-06-18 |  |
 | [Tivoli](https://open.spotify.com/track/5g5i4nbTBIGCB0jaRY0Jc8) | [Odin](https://open.spotify.com/artist/2mahtxdlhgnZfENR1k7l6Z), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tivoli](https://open.spotify.com/album/749nrxVL0u9FJ5CxsPt4Ik) | 2:59 | 2024-06-18 |  |

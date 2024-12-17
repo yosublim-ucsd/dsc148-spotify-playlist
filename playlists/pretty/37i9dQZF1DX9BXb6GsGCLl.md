@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,749 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,757 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 19 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
 | 20 | [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 |
 | 21 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 |
-| 22 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 |
-| 23 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
+| 22 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
+| 23 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 |
 | 24 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
 | 25 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 |
 | 26 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |

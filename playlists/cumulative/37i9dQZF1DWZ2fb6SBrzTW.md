@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-482 songs - 1 day 0 hr 33 min
+483 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bunda](https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Bunda](https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv) | 2:19 | 2023-12-08 | 2024-01-14 |
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-19 | 2024-07-27 |
 | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/track/5xF4mGKhhEzQTsyRq0rRa9) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/album/2vZ9iueqO6h60I0X3NHxIX) | 3:57 | 2021-12-02 | 2022-07-26 |
+| [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 |  |
 | [Can't Be Stopped](https://open.spotify.com/track/4odFsG1S8WZzvJHPRU2czt) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Gbagada Express \(Deluxe\)](https://open.spotify.com/album/23VNwQZtSyq0JZKMpugdn2) | 2:48 | 2023-07-14 | 2023-08-04 |
 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-18 | 2023-02-06 |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-03-17 |  |
@@ -489,6 +490,6 @@
 | [YOLO](https://open.spotify.com/track/5E6bsNA69z9SMXM6hOWqdU) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [YOLO](https://open.spotify.com/album/32XuYqGbCUBVWZaiMlTWdd) | 2:54 | 2023-06-02 | 2023-06-17 |
 | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 | 2024-05-10 | 2024-06-09 |
 | [Ziyasha \(feat\. LeeMcKrazy, Amu Classic & Kappie\)](https://open.spotify.com/track/40uSx0ulTsWa9Gq0M2dqHT) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC) | [Midnight In Sunnyside 3](https://open.spotify.com/album/5lY5qpLt6oEM8fBEP99FkR) | 6:21 | 2024-04-19 | 2024-06-28 |
-| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 |  |
+| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 | 2024-12-17 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

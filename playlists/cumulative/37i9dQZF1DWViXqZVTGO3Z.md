@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-438 songs - 1 day 4 hr 27 min
+439 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [He Shall Reign](https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [HFP Music](https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG) | [He Shall Reign](https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB) | 2:26 | 2023-12-15 | 2024-08-01 |
 | [He Shall Reign Forevermore](https://open.spotify.com/track/1ygVwpAVFvnkDqxto6eitX) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 2:56 | 2021-12-11 | 2023-12-16 |
 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 | 2021-12-11 |  |
+| [Heaven's Promise](https://open.spotify.com/track/2RetvNRmOGrmk75zFXTqOj) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Heaven's Promise](https://open.spotify.com/album/3fvVzf8L41NxU7sc1cirY1) | 4:57 | 2024-12-13 |  |
 | [Here Comes Heaven](https://open.spotify.com/track/7llyaJ7gnmIB19cp4hWc1g) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 4:28 | 2021-12-24 |  |
 | [Here to Stay](https://open.spotify.com/track/1bEw72sYBtcZarQ3pstrmc) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas Eve in Bethlehem \(Deluxe Edition\)](https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa) | 3:38 | 2021-12-11 | 2023-11-06 |
 | [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-11 |  |
@@ -250,7 +251,7 @@
 | [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 | 2024-11-18 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 | 2024-12-17 |
 | [Little Drummer Boy](https://open.spotify.com/track/7EeV1otijbcvoHqnvIwBn2) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Little Drummer Boy](https://open.spotify.com/album/7eJDZVgQGNFqGFIgL7hBJj) | 2:45 | 2023-11-27 | 2024-08-01 |
 | [Lo, How a Rose E'er Blooming](https://open.spotify.com/track/0MRgBqz9WuTIOlY2ybB87l) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [Lo, How a Rose E'er Blooming](https://open.spotify.com/album/0S1x9TKC6K43OR90zzaBVt) | 2:52 | 2024-11-23 |  |
 | [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2023-12-15 | 2024-11-08 |

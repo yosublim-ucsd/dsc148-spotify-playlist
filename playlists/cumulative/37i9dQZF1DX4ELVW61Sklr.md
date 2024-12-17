@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-181 songs - 11 hr 34 min
+182 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,13 +105,14 @@
 | [Mary Did You Know](https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ) | [Stevie Mackey](https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia), [THE ELEVEN](https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [The Most Wonderful Time](https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz) | 4:56 | 2021-12-15 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/47Jx4hb4cvCmJvJupInNyJ) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [CeeLo's Magic Moment](https://open.spotify.com/album/3ssspRe42CXkhPxdc12xcp) | 3:54 | 2021-12-15 | 2022-11-26 |
 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 | 2022-11-25 |  |
-| [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 | 2021-12-15 |  |
+| [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 | 2021-12-15 | 2024-12-17 |
 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382) | 3:57 | 2022-12-12 | 2024-04-19 |
 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 | 2022-12-12 | 2023-02-24 |
 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 | 2022-12-02 |  |
 | [Never Knew Christmas](https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Never Knew Christmas](https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6) | 5:34 | 2021-12-15 | 2023-04-19 |
 | [Never Knew Christmas](https://open.spotify.com/track/4bEkJ9SO6WwPP42ac3mdD6) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Never Knew Christmas](https://open.spotify.com/album/4AL9Uq8VSBMtwopFHg8CDY) | 5:34 | 2021-12-15 | 2022-07-29 |
 | [No Time Like Christmas](https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [It's Giving Christmas](https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I) | 3:16 | 2022-11-25 | 2023-12-09 |
+| [Nothing Like Christmas](https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Nothing Like Christmas](https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2) | 3:19 | 2024-12-13 |  |
 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 | 2021-12-15 | 2023-12-09 |
 | [O Come](https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:08 | 2021-12-15 | 2023-11-11 |
 | [O Come](https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Leanne Palmore](https://open.spotify.com/artist/0bdS6SH2MU4DeXusRn0dxc) | [A Timeless Christmas](https://open.spotify.com/album/1fTjNHtdfcWAKLVqQAL5rs) | 5:08 | 2021-12-15 | 2022-07-29 |

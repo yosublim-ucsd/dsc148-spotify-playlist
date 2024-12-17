@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Prim",
-  "num_followers": 33945,
+  "num_followers": 33943,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "La vita \u00e8 brutta",
-        "url": "https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM"
-      },
-      "artists": [
-        {
-          "name": "Giulia Mei",
-          "url": "https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2"
-        }
-      ],
-      "duration_ms": 181707,
-      "name": "La vita \u00e8 brutta",
-      "url": "https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "Ora",
         "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 110510,
       "name": "Godspeed / Fili d'Erba",
       "url": "https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "La vita \u00e8 brutta",
+        "url": "https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM"
+      },
+      "artists": [
+        {
+          "name": "Giulia Mei",
+          "url": "https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2"
+        }
+      ],
+      "duration_ms": 181707,
+      "name": "La vita \u00e8 brutta",
+      "url": "https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Luned\u00ec Notte (EP)",
-        "url": "https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx"
-      },
-      "artists": [
-        {
-          "name": "Luned\u00ec Notte",
-          "url": "https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM"
-        },
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Lucifero (feat. Mecna)",
-      "url": "https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "bimbapazza",
         "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 176596,
       "name": "BELLA BALLA",
       "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "Luned\u00ec Notte (EP)",
+        "url": "https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx"
+      },
+      "artists": [
+        {
+          "name": "Luned\u00ec Notte",
+          "url": "https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Lucifero (feat. Mecna)",
+      "url": "https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "girammo tutto in una macchina",
-        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
-      },
-      "artists": [
-        {
-          "name": "tinai",
-          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "nevischio su ande",
-      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
         "name": "Ondeggiando",
         "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
       },
@@ -759,18 +743,34 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Anche i Cowboy Piangono",
-        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+        "name": "AMORETABACCO",
+        "url": "https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6"
       },
       "artists": [
         {
-          "name": "nonpiangere",
-          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+          "name": "Still Charles",
+          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
         }
       ],
-      "duration_ms": 174300,
-      "name": "Anche i Cowboy Piangono",
-      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
+      "duration_ms": 154516,
+      "name": "AMORETABACCO",
+      "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "girammo tutto in una macchina",
+        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
+      },
+      "artists": [
+        {
+          "name": "tinai",
+          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "nevischio su ande",
+      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "Anche i Cowboy Piangono",
+        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Anche i Cowboy Piangono",
+      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Un'ora di sole",
         "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
       },
@@ -803,6 +819,22 @@
       "duration_ms": 156857,
       "name": "Un'ora di sole",
       "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "Pennette alla vodka",
+        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+      },
+      "artists": [
+        {
+          "name": "L'operazione Camarillo",
+          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+        }
+      ],
+      "duration_ms": 181191,
+      "name": "Pennette alla vodka",
+      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -823,22 +855,6 @@
       "duration_ms": 191250,
       "name": "Sott'acqua",
       "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "Pennette alla vodka",
-        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
-      },
-      "artists": [
-        {
-          "name": "L'operazione Camarillo",
-          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
-        }
-      ],
-      "duration_ms": 181191,
-      "name": "Pennette alla vodka",
-      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -871,22 +887,6 @@
       "duration_ms": 164514,
       "name": "Perdo Il Tuo Amore",
       "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "AMORETABACCO",
-        "url": "https://open.spotify.com/album/3QbyWWAQ1K4oZvIfvaYGx6"
-      },
-      "artists": [
-        {
-          "name": "Still Charles",
-          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "AMORETABACCO",
-      "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "Un Titolo Migliore",
-        "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
+        "name": "LE NOTTI IN CUI NON SOGNI",
+        "url": "https://open.spotify.com/album/271pDpumQgh4UysXH02FBi"
       },
       "artists": [
         {
-          "name": "Caponetti",
-          "url": "https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9"
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
         }
       ],
-      "duration_ms": 179384,
-      "name": "Un Titolo Migliore",
-      "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+      "duration_ms": 170322,
+      "name": "LE NOTTI IN CUI NON SOGNI",
+      "url": "https://open.spotify.com/track/2qN6oT3A4zolQb1qg48r2u"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
+        "name": "Un Titolo Migliore",
+        "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
+      },
+      "artists": [
+        {
+          "name": "Caponetti",
+          "url": "https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "Un Titolo Migliore",
+      "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
         "name": "Estate Inverno",
         "url": "https://open.spotify.com/album/1DpU2GPjrPpDorx2rPSO2w"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-12-12 23:01:33",
       "album": {
-        "name": "CALICE",
-        "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
       },
       "artists": [
         {
-          "name": "WALTER",
-          "url": "https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY"
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
         }
       ],
-      "duration_ms": 171176,
-      "name": "CALICE",
-      "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1095,6 +1095,22 @@
       "duration_ms": 178750,
       "name": "Parole vuote",
       "url": "https://open.spotify.com/track/6MQnM3ZlwwHvdOK943PUNz"
+    },
+    {
+      "added_at": "2024-12-12 23:01:33",
+      "album": {
+        "name": "CALICE",
+        "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
+      },
+      "artists": [
+        {
+          "name": "WALTER",
+          "url": "https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "CALICE",
+      "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
     },
     {
       "added_at": "2024-12-12 23:01:33",
@@ -1127,26 +1143,6 @@
       "duration_ms": 158239,
       "name": "brivido",
       "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
-    },
-    {
-      "added_at": "2024-12-12 23:01:33",
-      "album": {
-        "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
-        "url": "https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw"
-      },
-      "artists": [
-        {
-          "name": "eroCaddeo",
-          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
-        },
-        {
-          "name": "Zeep",
-          "url": "https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
-      "url": "https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc"
     }
   ],
   "unique_name": "Scuola Indie",

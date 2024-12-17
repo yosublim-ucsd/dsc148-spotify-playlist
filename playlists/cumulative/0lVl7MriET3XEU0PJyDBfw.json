@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 215540,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
@@ -5300,6 +5300,28 @@
       "duration_ms": 149838,
       "name": "My Room",
       "url": "https://open.spotify.com/track/4qFjNzANNzqXpgJefFEfXT"
+    },
+    {
+      "album": {
+        "name": "MY TYPE",
+        "url": "https://open.spotify.com/album/0QzG8T7TedFy2nt1B2ZNAK"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138360,
+      "name": "MY TYPE",
+      "url": "https://open.spotify.com/track/0NEgkALTriBpIiuCAXWfuS"
     },
     {
       "album": {

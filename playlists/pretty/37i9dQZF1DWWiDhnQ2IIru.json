@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3201076,
+  "num_followers": 3201668,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "City to City",
@@ -311,6 +295,22 @@
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Moondance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 274040,
       "name": "Moondance - 2013 Remaster",
       "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Jealous Guy - Remastered 2010",
-      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 247586,
       "name": "Georgy Porgy",
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Jealous Guy - Remastered 2010",
+      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
     },
     {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Station to Station (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Golden Years - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Endless Flight",
@@ -1019,22 +1035,6 @@
       "duration_ms": 289800,
       "name": "25 or 6 to 4 - 2002 Remaster",
       "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
-    },
-    {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Station to Station (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Golden Years - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Grand Illusion",
-        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 367000,
-      "name": "Come Sail Away",
-      "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Move on Up",
         "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Grand Illusion",
+        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 367000,
+      "name": "Come Sail Away",
+      "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 266826,
       "name": "Thinking of You - 1995 Remaster",
       "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     },
     {
       "added_at": "2022-07-01 04:02:00",

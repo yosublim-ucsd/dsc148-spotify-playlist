@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,935 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,936 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 29 | [Giovane e triste](https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:06 |
 | 30 | [pochi colori per rappresentarmi.](https://open.spotify.com/track/7boSLIOLKEDWb2eX9oKhDZ) | [NEVERMIND E ATMO](https://open.spotify.com/artist/5QUtV3KeHsXa6oAJXxHUjH) | [pochi colori per rappresentarmi.](https://open.spotify.com/album/5FslhF5Y1thJWVSz6uiNTv) | 1:30 |
 | 31 | [Indelebile](https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Indelebile](https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9) | 2:48 |
-| 32 | [Neve](https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [No Hooks](https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2) | 3:12 |
-| 33 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
+| 32 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
+| 33 | [Neve](https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [No Hooks](https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2) | 3:12 |
 | 34 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
 | 35 | [JAPANESE](https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP) | [ViraH](https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS) | [JAPANESE](https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP) | 3:06 |
 | 36 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
 | 37 | [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 |
-| 38 | [Lei No \(Il Tradito\)](https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo \(67 Edition\)](https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq) | 3:42 |
-| 39 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 |
-| 40 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 |
-| 41 | [RABBIA DISTILLATA](https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [CHE IO MI AIUTI](https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY) | 2:36 |
+| 38 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 |
+| 39 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 |
+| 40 | [RABBIA DISTILLATA](https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [CHE IO MI AIUTI](https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY) | 2:36 |
+| 41 | [Lei No \(Il Tradito\)](https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo \(67 Edition\)](https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq) | 3:42 |
 | 42 | [Nontiscordardimè](https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Nontiscordardimè](https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq) | 2:58 |
 | 43 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
 | 44 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 70 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
 | 71 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
 | 72 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |
-| 73 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
+| 73 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
 | 74 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 |
-| 75 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
+| 75 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 76 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
 | 77 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
 | 78 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 96 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
 | 97 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 98 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 |
-| 99 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
-| 100 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
+| 99 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
+| 100 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 
 Snapshot ID: `ZxGJHAAAAACXoI0SeTkWj+Nk+pt4MCNW`

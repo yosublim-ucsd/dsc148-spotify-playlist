@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: Kassy\(케이시\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: MARK\(마크\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-11,081 songs - 26 day 10 hr 56 min
+11,082 songs - 26 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3097,6 +3097,7 @@
 | [Fragile love](https://open.spotify.com/track/3tYoHH7boUjXbmjNOiFdoy) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Fragile love](https://open.spotify.com/album/33is9sij3MsUKoelVLn6ms) | 3:19 | 2024-12-06 |  |
 | [Fragrance](https://open.spotify.com/track/3wr3ZjZ2Rt8JlrSqBtaP78) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Fragrance](https://open.spotify.com/album/3XRC92mu53Kzw8pWfE8Ejb) | 2:37 | 2023-09-25 | 2023-11-11 |
 | [Fragrance](https://open.spotify.com/track/3XJyUV5R5UBfwTdArZjnxL) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Fragrance](https://open.spotify.com/album/7kCCABEwymxrJniX8Iir9n) | 3:30 | 2022-10-22 | 2022-11-15 |
+| [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2024-12-16 |  |
 | [Frankly Speaking](https://open.spotify.com/track/6qVOc7IG3cbSv1WJZNySrS) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6lzuaZYLkfViHxOypwKZbg) | 3:15 | 2024-05-16 | 2024-06-20 |
 | [Fraud](https://open.spotify.com/track/7AWD0vXPIpAWyohgk5dy7m) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fraud](https://open.spotify.com/album/4OeiaZolzh2cs3sfgOLM3h) | 2:28 | 2024-01-29 | 2024-03-09 |
 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 | 2022-05-02 | 2022-05-10 |

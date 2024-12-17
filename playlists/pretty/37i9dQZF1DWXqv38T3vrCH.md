@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,621 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,571 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 62 | [Creature](https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Don't Wait 'Til Tomorrow](https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf) | 3:05 |
 | 63 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 |
 | 64 | [Bartzabel](https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv) | 5:01 |
-| 65 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
-| 66 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
+| 65 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
+| 66 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
 | 67 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
 | 68 | [Burn The Witch](https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8) | 3:35 |
 | 69 | [Maxine \(Witch Queen\)](https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 3:18 |

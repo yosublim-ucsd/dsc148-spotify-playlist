@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2010s. Cover: Adele",
-  "num_followers": 1292680,
+  "num_followers": 1293243,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 196077,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "The Weekend (Funk Wav Remix)",
         "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
       },
@@ -1923,18 +1903,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1951,6 +1935,22 @@
       "duration_ms": 262680,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 223106,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2359,6 +2359,26 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "Last Year Was Complicated",
+        "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "Love Is a Four Letter Word (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
       },
@@ -2387,26 +2407,6 @@
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Last Year Was Complicated",
-        "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 223043,
-      "name": "Too Much To Ask",
-      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Lost Boy",
         "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 275280,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2775,6 +2775,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
       },
@@ -2803,22 +2819,6 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Tough Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0bmiqbjKEu7qN1o7poiN1X"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 257483,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/7fex2V7RzWl9nCKyILjibB"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Me. I Am Mariah\u2026The Elusive Chanteuse",
         "url": "https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy"
       },
@@ -3251,6 +3235,22 @@
       "duration_ms": 199946,
       "name": "#Beautiful",
       "url": "https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Tough Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0bmiqbjKEu7qN1o7poiN1X"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 257483,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/7fex2V7RzWl9nCKyILjibB"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3627,6 +3627,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -3639,22 +3655,6 @@
       "duration_ms": 221133,
       "name": "Clown",
       "url": "https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3695,6 +3695,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -3711,22 +3727,6 @@
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -4031,18 +4031,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "In the Shape of a Dream",
+        "url": "https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+      "duration_ms": 189786,
+      "name": "Stay With Me (feat. Jeremy Zucker)",
+      "url": "https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -4063,22 +4067,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "In the Shape of a Dream",
-        "url": "https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Stay With Me (feat. Jeremy Zucker)",
-      "url": "https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41"
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2024-07-15 19:36:11",

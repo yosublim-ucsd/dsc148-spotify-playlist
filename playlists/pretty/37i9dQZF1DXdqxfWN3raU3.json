@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256657,
+  "num_followers": 256666,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 253150,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 220000,
       "name": "Estetograma",
       "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 253150,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "Obra de Dios",
+        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 217936,
+      "name": "Obra de Dios",
+      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "LA PRIMERA VEZ",
         "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 171826,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "Obra de Dios",
-        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 217936,
-      "name": "Obra de Dios",
-      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Caballo Negro",
         "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
       },
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 89791,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "DAYDRMN / MOTION",
         "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 139500,
       "name": "DAYDRMN",
       "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
     }
   ],
   "unique_name": "R&B Latino",

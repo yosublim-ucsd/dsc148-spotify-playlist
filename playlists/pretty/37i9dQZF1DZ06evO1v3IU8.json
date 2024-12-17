@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1337309,
+  "num_followers": 1337390,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACGJ3gzFSKdd79oFfZuqChs",
+  "snapshot_id": "Z14cAAAAAACzQE/W5yt2GgKlXtefbb7S",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Cerrando Ciclos",
-      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+      "duration_ms": 174000,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Perfume",
-        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Tu Perfume",
-      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+      "duration_ms": 195453,
+      "name": "Cerrando Ciclos",
+      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 248120,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
-      "url": "https://open.spotify.com/track/6Yu9JjDBJzMbwfJwtVb2rH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+      "url": "https://open.spotify.com/track/6Yu9JjDBJzMbwfJwtVb2rH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Pheelz
 
-319 songs - 14 hr 45 min
+320 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Born to Win](https://open.spotify.com/track/4qEm3JiU5GkeWKtnL5FmxG) | [Ayomide](https://open.spotify.com/artist/60ugXjqZGlhC7aLMRL49Dl), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Born to Win](https://open.spotify.com/album/3WzgZdTWq4Yrm4gPyZpFCw) | 2:41 | 2024-09-20 | 2024-11-08 |
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-02 |  |
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-16 |
+| [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 |  |
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 | 2024-01-05 |
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2024-01-08 | 2024-11-17 |
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 | 2023-08-18 |
@@ -221,7 +222,7 @@
 | [Off The Planet \(OTP\)](https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet \(OTP\)](https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4) | 2:37 | 2023-11-28 | 2024-03-21 |
 | [Off The Planet \(OTP\)](https://open.spotify.com/track/6d7Y7oakb02D3Ijq8Emgeu) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet](https://open.spotify.com/album/39Tw8URr2qPFwbQctMDWUb) | 2:37 | 2024-04-05 | 2024-04-19 |
 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 | 2023-10-20 |
-| [Oghene](https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 3:04 | 2024-04-26 |  |
+| [Oghene](https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 3:04 | 2024-04-26 | 2024-12-17 |
 | [Ogo](https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Ogo](https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22) | 2:57 | 2024-05-03 |  |
 | [Oluchi](https://open.spotify.com/track/6AawOer84g4y7MovhjSKzH) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Oluchi](https://open.spotify.com/album/391gOMyDsty5F8zBLjdTgb) | 2:42 | 2023-03-10 | 2023-04-06 |
 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 | 2023-03-30 | 2023-07-01 |

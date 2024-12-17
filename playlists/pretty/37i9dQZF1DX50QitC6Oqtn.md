@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,478,954 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,478,970 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 52 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 4:10 |
 | 53 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 54 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
-| 55 | [Skinny Love](https://open.spotify.com/track/0HRshWRNAwQBROvxXqG3i9) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy \(Deluxe Version\)](https://open.spotify.com/album/3sGzkurA1fvEFqh73sWCVA) | 3:21 |
-| 56 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 |
-| 57 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 55 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 56 | [Skinny Love](https://open.spotify.com/track/0HRshWRNAwQBROvxXqG3i9) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy \(Deluxe Version\)](https://open.spotify.com/album/3sGzkurA1fvEFqh73sWCVA) | 3:21 |
+| 57 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 |
 | 58 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 |
 | 59 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:00 |
-| 60 | [six thirty](https://open.spotify.com/track/2IKJtXeR5UsaUjZB46fTOK) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:03 |
-| 61 | [Wasn't Expecting That](https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB) | 3:21 |
+| 60 | [Wasn't Expecting That](https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB) | 3:21 |
+| 61 | [six thirty](https://open.spotify.com/track/2IKJtXeR5UsaUjZB46fTOK) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:03 |
 | 62 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 |
 | 63 | [Patient](https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:10 |
 | 64 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 78 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 79 | [Easy](https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Easy](https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS) | 3:14 |
 | 80 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
-| 81 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
-| 82 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
+| 81 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
+| 82 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
 | 83 | [I Knew I Loved You](https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Truly Madly Completely \- The Best of Savage Garden](https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb) | 4:11 |
 | 84 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
 | 85 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 |

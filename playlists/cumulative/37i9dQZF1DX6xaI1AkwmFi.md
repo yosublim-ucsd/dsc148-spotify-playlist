@@ -346,7 +346,7 @@
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2023-11-28 | 2024-02-13 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-04-17 | 2024-11-28 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-23 | 2023-12-04 |
-| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2024-01-09 | 2024-12-16 |
+| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2024-01-09 |  |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-23 | 2024-08-21 |
 | [蜃気楼](https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [蜃気楼](https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS) | 3:29 | 2024-09-18 | 2024-10-09 |
 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-14 | 2024-07-13 |
@@ -365,7 +365,7 @@
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-11-23 | 2023-12-08 |
 | [飴細工を撃ち抜きたい](https://open.spotify.com/track/5gNlEIgu94NUJVh074N3oC) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [飴細工を撃ち抜きたい](https://open.spotify.com/album/7fy3aziexdhVsBJUDdPWVm) | 3:17 | 2024-05-08 | 2024-05-29 |
 | [馬鹿の一つ覚え](https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [馬鹿の一つ覚え](https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK) | 4:03 | 2024-11-13 | 2024-11-20 |
-| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-28 |  |
+| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-28 | 2024-12-17 |
 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 | 2024-04-23 | 2024-07-31 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-11-23 | 2023-12-01 |
 

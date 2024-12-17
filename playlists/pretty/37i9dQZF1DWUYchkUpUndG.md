@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3?si=csgdBpkoT7yyNSLW36uwuQ>Steve Crown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,035 likes - 77 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,049 likes - 77 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 37598,
+  "num_followers": 37610,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You - Hard Dub",
+      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Beautiful People (Remixes)",
         "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You - Hard Dub",
-      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
       },
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "The Warning - Inner Mix",
+      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 780936,
       "name": "Break Night - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "The Warning - Inner Mix",
-      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
     },
     {
       "added_at": "2022-03-03 13:59:16",

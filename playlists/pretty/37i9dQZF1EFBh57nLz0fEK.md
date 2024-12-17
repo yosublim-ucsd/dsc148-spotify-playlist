@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 107 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 107 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 64 | [White Man](https://open.spotify.com/track/5zyyicAObouqjww4FL7vsP) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:13 |
 | 65 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
 | 66 | [Dream Maker / Euphoria](https://open.spotify.com/track/5w83CZ6P8se0b0G3SsNYyG) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:46 |
-| 67 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
-| 68 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 |
+| 67 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 |
+| 68 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
 | 69 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 |
 | 70 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 71 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 106 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 107 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbkPcgAAAAD+kmW8bxk9s1+K79r5uAXX`
+Snapshot ID: `AbkU9AAAAADGICmmjjpKIGa7CcdSV4Gz`

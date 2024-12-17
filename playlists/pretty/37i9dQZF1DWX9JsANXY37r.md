@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,695 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,699 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 11 | [Midas](https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:38 |
 | 12 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 | 13 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 |
-| 14 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
+| 14 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
 | 15 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
-| 16 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
+| 16 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
 | 17 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
 | 18 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 |
 | 19 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
-| 20 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
-| 21 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |
+| 20 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |
+| 21 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
 | 22 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
 | 23 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
 | 24 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |

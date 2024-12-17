@@ -1,6 +1,6 @@
 {
   "description": "Up for a nostalgic running session?",
-  "num_followers": 853433,
+  "num_followers": 853719,
   "original_name": "Retro Running",
   "owner": {
     "name": "Spotify",
@@ -279,38 +279,6 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -331,18 +299,34 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2024-07-12 16:44:55",
@@ -359,6 +343,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2024-07-12 16:44:55",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
       "artists": [
         {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     }
   ],
   "unique_name": "Retro Running",

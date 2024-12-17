@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 57 | [Por Pensar](https://open.spotify.com/track/3g48NQArWTvDtpvBWzpmR6) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Por Pensar](https://open.spotify.com/album/1XjSCa4R8pGT3rclyzYhw2) | 2:32 |
 | 58 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `AbkPaAAAAACumLGizvyr5DgT+IK2teIp`
+Snapshot ID: `AbkU9AAAAABPZxm2mRqqBKSBOYi5nZFk`

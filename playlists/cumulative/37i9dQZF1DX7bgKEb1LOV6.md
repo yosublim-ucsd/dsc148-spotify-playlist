@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-224 songs - 12 hr 59 min
+225 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 | 2021-12-16 | 2023-05-03 |
 | [First Love](https://open.spotify.com/track/0UOO07yhSHVVVvkA4JOzPU) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/3gaBYNHHWHydyB4vDBL7xZ) | 3:00 | 2021-12-16 | 2023-05-03 |
 | [Focus](https://open.spotify.com/track/3OXAycDk6KZnCfYA0LABUr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:24 | 2021-12-16 | 2023-05-03 |
+| [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2024-12-17 |  |
 | [From Home](https://open.spotify.com/track/3SHcE3vk03KHPKHzvTKs5j) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 4:20 | 2021-12-16 | 2024-04-19 |
 | [From Home](https://open.spotify.com/track/3yF61aHt8hJrNOSPK7FYEP) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 4:20 | 2024-02-26 |  |
 | [gimme gimme](https://open.spotify.com/track/6shrCEEMcrT6Akxkk8IhLC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/3gaBYNHHWHydyB4vDBL7xZ) | 3:39 | 2021-12-16 | 2023-05-03 |

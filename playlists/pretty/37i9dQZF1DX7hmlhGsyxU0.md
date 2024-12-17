@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,045 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,101 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 21 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 22 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
 | 23 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
-| 24 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
-| 25 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
+| 24 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
+| 25 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
 | 26 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 27 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
 | 28 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |

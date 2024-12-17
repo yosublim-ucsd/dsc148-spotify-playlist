@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Christmas To Me",
+        "url": "https://open.spotify.com/album/0yRpImdY5Y7vrnV18JXghN"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241338,
+      "name": "Christmas To Me",
+      "url": "https://open.spotify.com/track/0E7AicqYU96sywESO47X0p"
+    },
+    {
+      "album": {
         "name": "Christmas Trees Like That",
         "url": "https://open.spotify.com/album/7cyfRGYWyJFBGdfgTyWNiV"
       },

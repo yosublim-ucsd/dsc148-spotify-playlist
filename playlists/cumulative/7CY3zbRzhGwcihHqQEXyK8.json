@@ -5,6 +5,90 @@
   "tracks": [
     {
       "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145789,
+      "name": "#1 pink fox",
+      "url": "https://open.spotify.com/track/3P5yrwfvPY9TVY31CYsksq"
+    },
+    {
+      "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135745,
+      "name": "#bdsmclubstar",
+      "url": "https://open.spotify.com/track/3CqUJo38KcPfX2hUzfVWfT"
+    },
+    {
+      "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173583,
+      "name": "#FAMOUS!",
+      "url": "https://open.spotify.com/track/09lSy5U4lP9r6LGn6jNSCh"
+    },
+    {
+      "album": {
+        "name": "15 Years of Aqualoop Records",
+        "url": "https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5"
+      },
+      "artists": [
+        {
+          "name": "Niels De Vries",
+          "url": "https://open.spotify.com/artist/34semg4gV4qr1BkozcOfPO"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        },
+        {
+          "name": "BASS-T",
+          "url": "https://open.spotify.com/artist/2baAhPRbRkAH58XGCBD8HG"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "12 Inch - Rocco vs. Bass-T Remix",
+      "url": "https://open.spotify.com/track/2cUVeUViGahpAZZWNBZjJs"
+    },
+    {
+      "album": {
         "name": "Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic",
         "url": "https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9"
       },
@@ -24,6 +108,50 @@
       "duration_ms": 244585,
       "name": "4 Bid in Attraction",
       "url": "https://open.spotify.com/track/6tb3leiOAb2EqRLMweC4ln"
+    },
+    {
+      "album": {
+        "name": "5 missed calls 7 missed texts",
+        "url": "https://open.spotify.com/album/1xo5WIkGrMw9Kjcqef6mhM"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        },
+        {
+          "name": "asht0nn",
+          "url": "https://open.spotify.com/artist/1MGwr7cxRdJJZkHPbJUwuA"
+        },
+        {
+          "name": "bloodpup",
+          "url": "https://open.spotify.com/artist/5KQhg7yiciKdEkGHMJcl6H"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129227,
+      "name": "5 missed calls 7 missed texts",
+      "url": "https://open.spotify.com/track/7bUbFAgTLslTS6sbA2fbkc"
+    },
+    {
+      "album": {
+        "name": "711",
+        "url": "https://open.spotify.com/album/20yeefWx8tgpBKMn82FSwf"
+      },
+      "artists": [
+        {
+          "name": "Jake Webber",
+          "url": "https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194909,
+      "name": "711",
+      "url": "https://open.spotify.com/track/0l7DvIvSAsZUQK3JdY8R2W"
     },
     {
       "album": {
@@ -168,6 +296,28 @@
       "duration_ms": 346070,
       "name": "Above We Are (interlude)",
       "url": "https://open.spotify.com/track/6UTlgQHnSrjiF8SCVtoyFA"
+    },
+    {
+      "album": {
+        "name": "ac!d tabz",
+        "url": "https://open.spotify.com/album/5Jiq1aOnYQOOvQORGLFXTs"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        },
+        {
+          "name": "syris",
+          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117996,
+      "name": "ac!d tabz",
+      "url": "https://open.spotify.com/track/3PchL7yoAB9NYuy0xyXnpm"
     },
     {
       "album": {
@@ -346,6 +496,24 @@
       "duration_ms": 60579,
       "name": "Alien Workshop",
       "url": "https://open.spotify.com/track/1mCfrJZCNP2M9QS45HL6GJ"
+    },
+    {
+      "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179278,
+      "name": "all 4s for u",
+      "url": "https://open.spotify.com/track/6l4NAA9LJ2k9VZtPpORXtM"
     },
     {
       "album": {
@@ -619,6 +787,28 @@
     },
     {
       "album": {
+        "name": "angelz in paris #44angelz",
+        "url": "https://open.spotify.com/album/26GpCuf2k0r9VRs3PzNaMm"
+      },
+      "artists": [
+        {
+          "name": "KidSnorlax",
+          "url": "https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL"
+        },
+        {
+          "name": "cholorofilm",
+          "url": "https://open.spotify.com/artist/3kLjcqFmnLnNfBJfjZYa8y"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132918,
+      "name": "angelz in paris #44angelz",
+      "url": "https://open.spotify.com/track/4ZHKOE5HhNUgNfKSP7LUyr"
+    },
+    {
+      "album": {
         "name": "What Life Really Means 2",
         "url": "https://open.spotify.com/album/3xaVoFI1RBrdIAgGGzp94H"
       },
@@ -799,6 +989,24 @@
     },
     {
       "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127389,
+      "name": "bad girl #imdyingwhenicu",
+      "url": "https://open.spotify.com/track/4JO75A8y8muhRTryx0Qnl8"
+    },
+    {
+      "album": {
         "name": "Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic",
         "url": "https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9"
       },
@@ -952,6 +1160,46 @@
       "duration_ms": 170710,
       "name": "Benny and the Jetts",
       "url": "https://open.spotify.com/track/5J6iyj1PXZWAsxwwV2ybfm"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        },
+        {
+          "name": "Squiblers",
+          "url": "https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155924,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1BDaEKty8xdW0LjN73HzWU"
+    },
+    {
+      "album": {
+        "name": "Better Off Stalking U",
+        "url": "https://open.spotify.com/album/5KD8Sh127OY7oYD4dmugOH"
+      },
+      "artists": [
+        {
+          "name": "Hospital",
+          "url": "https://open.spotify.com/artist/2M4OJxOPHE7Foqcymmbojd"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Better Off Stalking U",
+      "url": "https://open.spotify.com/track/1C1EdOfblkIxbJxuq0Bdmb"
     },
     {
       "album": {
@@ -1189,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26357,
+      "name": "Bro You Make Music? (Interlude)",
+      "url": "https://open.spotify.com/track/5JouF166jwmKuUKXmY2iz5"
+    },
+    {
+      "album": {
         "name": "What Life Really Means 2",
         "url": "https://open.spotify.com/album/3xaVoFI1RBrdIAgGGzp94H"
       },
@@ -1261,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "butterfly",
+        "url": "https://open.spotify.com/album/1ZZ4N70Tr0kIhKkOZtAvR9"
+      },
+      "artists": [
+        {
+          "name": "Slaywitme",
+          "url": "https://open.spotify.com/artist/40t4H0EU2fqH9caOKSuom8"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196209,
+      "name": "butterfly",
+      "url": "https://open.spotify.com/track/7mRQ3H0BTnoOPqtBfsbak7"
+    },
+    {
+      "album": {
         "name": "CDs",
         "url": "https://open.spotify.com/album/604N1kvCmybAqo21URz29C"
       },
@@ -1315,6 +1599,32 @@
     },
     {
       "album": {
+        "name": "Cameras",
+        "url": "https://open.spotify.com/album/22tiWyxO0s0zM81jZcQcYY"
+      },
+      "artists": [
+        {
+          "name": "swrd1e",
+          "url": "https://open.spotify.com/artist/3vIfSEUeWgCb02nu8oM0b7"
+        },
+        {
+          "name": "eurodancer07",
+          "url": "https://open.spotify.com/artist/2hHztmOu6ryfjqGgUAVW3I"
+        },
+        {
+          "name": "Nyanman310",
+          "url": "https://open.spotify.com/artist/0HSHOX2qlwF7CwHEAFJ0EI"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139790,
+      "name": "Cameras",
+      "url": "https://open.spotify.com/track/3cJRiVo3EVVeDcZJ8TQevj"
+    },
+    {
+      "album": {
         "name": "What Life Really Means",
         "url": "https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv"
       },
@@ -1330,6 +1640,24 @@
       "duration_ms": 177442,
       "name": "Can't They See How Influential You Are?",
       "url": "https://open.spotify.com/track/3LabMMv0tSJqk4omINWSlD"
+    },
+    {
+      "album": {
+        "name": "candy love",
+        "url": "https://open.spotify.com/album/3NAfGfMsu7zNPxFhrSMEia"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204016,
+      "name": "candy love",
+      "url": "https://open.spotify.com/track/7l9RvEei8NXJh5vxrsrTPS"
     },
     {
       "album": {
@@ -1709,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131892,
+      "name": "Connections",
+      "url": "https://open.spotify.com/track/1C5YjiLyeJ0YwBaHHrw5BN"
+    },
+    {
+      "album": {
         "name": "Crashed Dat Bih",
         "url": "https://open.spotify.com/album/5tzmLFleJN7bD18pBYX02K"
       },
@@ -1821,6 +2167,28 @@
     },
     {
       "album": {
+        "name": "cutting",
+        "url": "https://open.spotify.com/album/1Y91J2fgFB85gfrY7sAGOw"
+      },
+      "artists": [
+        {
+          "name": "horrormovies",
+          "url": "https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA"
+        },
+        {
+          "name": "maxo xoxo",
+          "url": "https://open.spotify.com/artist/6wSAexpxXAkRmJOA70s0jl"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212908,
+      "name": "cutting",
+      "url": "https://open.spotify.com/track/0bDTiSLRpt63GQZPHJRK8G"
+    },
+    {
+      "album": {
         "name": "cycles",
         "url": "https://open.spotify.com/album/1LeuVxs0zHpe4I8Cp3Fnvr"
       },
@@ -1839,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "DANCING WIT THE LIGHTS OFF",
+        "url": "https://open.spotify.com/album/1UxcwgL5b655aM9K3ZxTB7"
+      },
+      "artists": [
+        {
+          "name": "suddendeathovertime",
+          "url": "https://open.spotify.com/artist/486MieKiz40UIplzZBWqgW"
+        },
+        {
+          "name": "blood pup",
+          "url": "https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90115,
+      "name": "DANCING WIT THE LIGHTS OFF",
+      "url": "https://open.spotify.com/track/3k5RedVT65K8TLCNjVS7dh"
+    },
+    {
+      "album": {
         "name": "Danny DeVito",
         "url": "https://open.spotify.com/album/11MfTNFjtLAPr5v1a3NISg"
       },
@@ -1854,6 +2244,28 @@
       "duration_ms": 182697,
       "name": "Danny DeVito",
       "url": "https://open.spotify.com/track/0alGemxqL6REukdnNgIZP0"
+    },
+    {
+      "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "ughvexx",
+          "url": "https://open.spotify.com/artist/5TgoaxL9B7YcxnpE9iDzZQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Decay - ughvexx Remix",
+      "url": "https://open.spotify.com/track/2OvogFIuSaFlPDndaVKbXC"
     },
     {
       "album": {
@@ -2001,6 +2413,28 @@
     },
     {
       "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "Abstractgenesis",
+          "url": "https://open.spotify.com/artist/0UU9vko97MlnafXmL1DEmO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127884,
+      "name": "Disgusting - Abstractgenesis Remix",
+      "url": "https://open.spotify.com/track/6YgqyxiiSgeo26UuExlkc3"
+    },
+    {
+      "album": {
         "name": "Divine Justice (Lucian's Theme)",
         "url": "https://open.spotify.com/album/0VSVlMB3doMN5aJIO6ZV74"
       },
@@ -2016,6 +2450,42 @@
       "duration_ms": 190412,
       "name": "Divine Justice (Lucian's Theme)",
       "url": "https://open.spotify.com/track/2FRzbDjBoXMXJJZCau5EfO"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128809,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/2Z8Lt4VLIrjeKG6ABUC9AD"
+    },
+    {
+      "album": {
+        "name": "15 Years of Aqualoop Records",
+        "url": "https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Do You Want It Right Now - Short Mix",
+      "url": "https://open.spotify.com/track/4DBeSHlFZiMxZWVPOuEZ6b"
     },
     {
       "album": {
@@ -2037,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "don't trust me",
+        "url": "https://open.spotify.com/album/3E8dHZzmh02kWp5pH4UTLf"
+      },
+      "artists": [
+        {
+          "name": "hateoryx",
+          "url": "https://open.spotify.com/artist/0c4u1LEZWEh5UfMQkzOt4r"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163447,
+      "name": "don't trust me",
+      "url": "https://open.spotify.com/track/4hCWEOb3otEO19AjR5OnfS"
+    },
+    {
+      "album": {
         "name": "Dope Dealers",
         "url": "https://open.spotify.com/album/6lz7jvJv8M78xFlyyfnoHu"
       },
@@ -2052,6 +2540,50 @@
       "duration_ms": 189984,
       "name": "Dope Dealers",
       "url": "https://open.spotify.com/track/009BSVQJRZurzbTxPmW3aW"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        },
+        {
+          "name": "verx",
+          "url": "https://open.spotify.com/artist/10g0HX7uJFyi5m2BcPDUWV"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176090,
+      "name": "Dope in the Backrooms",
+      "url": "https://open.spotify.com/track/787pzY4jTvPcbWhp6zajWj"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        },
+        {
+          "name": "6-Below",
+          "url": "https://open.spotify.com/artist/60gkUbMV14Zm12N6i55glr"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Down the Street",
+      "url": "https://open.spotify.com/track/6WCWGspaQ8jKZ6sJaFCcNR"
     },
     {
       "album": {
@@ -2347,6 +2879,28 @@
     },
     {
       "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "ughvexx",
+          "url": "https://open.spotify.com/artist/5TgoaxL9B7YcxnpE9iDzZQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Erase This - ughvexx Remix",
+      "url": "https://open.spotify.com/track/6KkvKc85TP0r0eCcZkhUho"
+    },
+    {
+      "album": {
         "name": "snakebites",
         "url": "https://open.spotify.com/album/3VXA15K7ttUGc0uXatZbCV"
       },
@@ -2473,6 +3027,46 @@
     },
     {
       "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "A.J.",
+          "url": "https://open.spotify.com/artist/3ikkSP5mCexojk8a35nZC8"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Eyelashes on - A.J. Remix",
+      "url": "https://open.spotify.com/track/0VLYSP7yigawuVRXjapmzD"
+    },
+    {
+      "album": {
+        "name": "eyes on me",
+        "url": "https://open.spotify.com/album/7BOeLyfu1RBDxbqDP1uToD"
+      },
+      "artists": [
+        {
+          "name": "Stxlkin",
+          "url": "https://open.spotify.com/artist/5qMtVjc3NV68EhqSTKKeCQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "eyes on me",
+      "url": "https://open.spotify.com/track/5FOYrrt6HqcCMxWiiQsLIr"
+    },
+    {
+      "album": {
         "name": "F IT",
         "url": "https://open.spotify.com/album/5MXtZ5xJ5f2t4PprepGoqO"
       },
@@ -2542,6 +3136,28 @@
       "duration_ms": 175200,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/32mJwbsRHGQWSHoUp1tFVg"
+    },
+    {
+      "album": {
+        "name": "fashion *biblically accurate trapstars*",
+        "url": "https://open.spotify.com/album/2VjsSSowv5SU14FfAzDa2Y"
+      },
+      "artists": [
+        {
+          "name": "KidSnorlax",
+          "url": "https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134791,
+      "name": "fashion *biblically accurate trapstars*",
+      "url": "https://open.spotify.com/track/3f8036U04O0xkKyqFPVnq9"
     },
     {
       "album": {
@@ -2855,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162403,
+      "name": "Fresh Lemonade",
+      "url": "https://open.spotify.com/track/35ccR9LxhdnLeKKXzOcyjE"
+    },
+    {
+      "album": {
         "name": "Local",
         "url": "https://open.spotify.com/album/70ea864173ew2n5Uiqczoa"
       },
@@ -2888,6 +3522,36 @@
       "duration_ms": 116596,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/4cUIyOfaqmlcMMTBSGB7IN"
+    },
+    {
+      "album": {
+        "name": "From the dirt",
+        "url": "https://open.spotify.com/album/3hqAf0TTCjjLF61HCssvGb"
+      },
+      "artists": [
+        {
+          "name": "nick6383",
+          "url": "https://open.spotify.com/artist/5pKOLCksxMzu3xwD5G5yPd"
+        },
+        {
+          "name": "luvwillow",
+          "url": "https://open.spotify.com/artist/3QMquHHgjA58upVZerNHNx"
+        },
+        {
+          "name": "w6lker",
+          "url": "https://open.spotify.com/artist/6xqVTEk0T61sWdLX4aqljz"
+        },
+        {
+          "name": "Gothlovee",
+          "url": "https://open.spotify.com/artist/42CuZMNWbVUPSDrhP9Du0T"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215267,
+      "name": "From the dirt",
+      "url": "https://open.spotify.com/track/6PJRfkYNmrT47KCEypypLy"
     },
     {
       "album": {
@@ -2927,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135836,
+      "name": "fucked up!",
+      "url": "https://open.spotify.com/track/519kioInt8dILB8KKcf6X1"
+    },
+    {
+      "album": {
         "name": "EPIC: The Troy Saga (Original Concept Album)",
         "url": "https://open.spotify.com/album/2j94jmFiOvCwS8Oj6br91A"
       },
@@ -2954,6 +3636,24 @@
       "duration_ms": 180705,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/27otPRH67DpOsyNtSiM54v"
+    },
+    {
+      "album": {
+        "name": "furry shit",
+        "url": "https://open.spotify.com/album/6wcObx4N6TsMlDVWQZG2rD"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60682,
+      "name": "furry shit",
+      "url": "https://open.spotify.com/track/7rdPCrB1mfduKnp8JnxCBE"
     },
     {
       "album": {
@@ -3279,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "Gravestones",
+        "url": "https://open.spotify.com/album/7EMSLuYH0nVoMx4EK5Pgls"
+      },
+      "artists": [
+        {
+          "name": "Rylorie",
+          "url": "https://open.spotify.com/artist/6lRDH0njkRObV1cYMXrWaO"
+        },
+        {
+          "name": "Yong3k",
+          "url": "https://open.spotify.com/artist/6UX3hXJlKGOfp83I51YsOW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113903,
+      "name": "Gravestones",
+      "url": "https://open.spotify.com/track/46Hq3CmiChN7gRQrY45jMB"
+    },
+    {
+      "album": {
         "name": "Drop Out",
         "url": "https://open.spotify.com/album/2qbWQutwC0i5OKIxwZWzAe"
       },
@@ -3312,6 +4034,68 @@
       "duration_ms": 191146,
       "name": "GROWZ",
       "url": "https://open.spotify.com/track/6KGYDPd2rRmoROgvQCuaLk"
+    },
+    {
+      "album": {
+        "name": "H E L L O K I T T Y P S Y C H O !",
+        "url": "https://open.spotify.com/album/7j3LL0vEESEePPPxVH7RJC"
+      },
+      "artists": [
+        {
+          "name": "Scratchy",
+          "url": "https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf"
+        },
+        {
+          "name": "wasty",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83451,
+      "name": "H E L L O K I T T Y P S Y C H O !",
+      "url": "https://open.spotify.com/track/7L3trd3Xmuo9ugUDr2nWPc"
+    },
+    {
+      "album": {
+        "name": "15 Years of Aqualoop Records",
+        "url": "https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Langenhagen",
+          "url": "https://open.spotify.com/artist/2Q6WkMt4FG4ipneN0y5XVU"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Hamburg S\u00fcd - Radio Mix",
+      "url": "https://open.spotify.com/track/14JNrADgwe1j1DUJxYZ2iL"
+    },
+    {
+      "album": {
+        "name": "hands up (they made her emo)",
+        "url": "https://open.spotify.com/album/7DEKxet76Lx6WtIdqs54v4"
+      },
+      "artists": [
+        {
+          "name": "exdweb",
+          "url": "https://open.spotify.com/artist/3huLyrEy8iu5K2WOwqroWK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116587,
+      "name": "hands up (they made her emo)",
+      "url": "https://open.spotify.com/track/1PYVf3Sgh4PVOx8ZOYMI01"
     },
     {
       "album": {
@@ -3405,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "haunt u",
+        "url": "https://open.spotify.com/album/3SD165AcpsNjU4BOkaAnno"
+      },
+      "artists": [
+        {
+          "name": "KidSnorlax",
+          "url": "https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128076,
+      "name": "haunt u",
+      "url": "https://open.spotify.com/track/7mmjkcD4KMOU1zx3ll4XOL"
+    },
+    {
+      "album": {
         "name": "KNOWITALL",
         "url": "https://open.spotify.com/album/3taqQGM1QEr2Mb5zKdfFHI"
       },
@@ -3477,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88555,
+      "name": "hello kitty dress x3",
+      "url": "https://open.spotify.com/track/3h4COwxJEYJpwDybVOC9Pm"
+    },
+    {
+      "album": {
         "name": "Help",
         "url": "https://open.spotify.com/album/5r7pW5kWglDQhCbrqsTmzK"
       },
@@ -3495,6 +4315,32 @@
     },
     {
       "album": {
+        "name": "hey baby girl >.<",
+        "url": "https://open.spotify.com/album/1dVQDrNfba55zxex8bIXyH"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        },
+        {
+          "name": "disoc8",
+          "url": "https://open.spotify.com/artist/4lEE1YjJwvjoUbzBYYe4ia"
+        },
+        {
+          "name": "turntboy",
+          "url": "https://open.spotify.com/artist/6oT7LGGtp5RQAqtbL1pw5p"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124342,
+      "name": "hey baby girl >.<",
+      "url": "https://open.spotify.com/track/6XBalvUIar7lI549IhCIOJ"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST: LOST TRACKS",
         "url": "https://open.spotify.com/album/18RDbFA8eFqrjM5XZsboxm"
       },
@@ -3510,6 +4356,24 @@
       "duration_ms": 60532,
       "name": "HIKING",
       "url": "https://open.spotify.com/track/1lJsy3NnjPQoRA4bxgPIe7"
+    },
+    {
+      "album": {
+        "name": "hoes around me",
+        "url": "https://open.spotify.com/album/4iEphtOA9SpjZ7b1yAMMR6"
+      },
+      "artists": [
+        {
+          "name": "G\u00d8THB\u00d8YBABY",
+          "url": "https://open.spotify.com/artist/2eAGAlFGR0gf55YXTRnQRU"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77606,
+      "name": "hoes around me",
+      "url": "https://open.spotify.com/track/4GI9zKDjWZ4424nlXKL8k3"
     },
     {
       "album": {
@@ -3629,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136701,
+      "name": "i <3 boobies!",
+      "url": "https://open.spotify.com/track/1t3beruwKkpw26Cx1P7gx6"
+    },
+    {
+      "album": {
         "name": "What Life Really Means",
         "url": "https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv"
       },
@@ -3741,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132466,
+      "name": "i hate u sm..",
+      "url": "https://open.spotify.com/track/5ON8vyWgHQYhauonNSMIXO"
+    },
+    {
+      "album": {
         "name": "Drop Out",
         "url": "https://open.spotify.com/album/2qbWQutwC0i5OKIxwZWzAe"
       },
@@ -3756,6 +4656,28 @@
       "duration_ms": 96200,
       "name": "I Just",
       "url": "https://open.spotify.com/track/0vheY0a0nZu12EXYCGHh0R"
+    },
+    {
+      "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "Oat Blood",
+          "url": "https://open.spotify.com/artist/43ueY4UJpVZT4YHgi0jhT1"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227604,
+      "name": "i never see u - Oat Blood Remix",
+      "url": "https://open.spotify.com/track/1FDNtydnppPuYcBwRI6mar"
     },
     {
       "album": {
@@ -3795,6 +4717,46 @@
     },
     {
       "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        },
+        {
+          "name": "asht0nn",
+          "url": "https://open.spotify.com/artist/1MGwr7cxRdJJZkHPbJUwuA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130716,
+      "name": "i think i has a crush on u",
+      "url": "https://open.spotify.com/track/5uPNZjqS6QztT1mpPFBxtt"
+    },
+    {
+      "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110968,
+      "name": "i think not!",
+      "url": "https://open.spotify.com/track/34dVVgVO7ikbtfVq8zEz5e"
+    },
+    {
+      "album": {
         "name": "I Thought You Were Cool",
         "url": "https://open.spotify.com/album/14VLjwveRxNJA7RoIhLA0i"
       },
@@ -3810,6 +4772,24 @@
       "duration_ms": 160450,
       "name": "I Thought You Were Cool",
       "url": "https://open.spotify.com/track/4jrMunjWuhnpNIfbugqTYO"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151745,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0mi9asrH8cS4eQOc7rbJh1"
     },
     {
       "album": {
@@ -4016,6 +4996,24 @@
       "duration_ms": 166321,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/2Y2wth1jgwI2Zq6ZdaCI8l"
+    },
+    {
+      "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81502,
+      "name": "im the hottest shit!",
+      "url": "https://open.spotify.com/track/29w2YnsvkhBs0d9CBCRNgO"
     },
     {
       "album": {
@@ -4365,6 +5363,50 @@
     },
     {
       "album": {
+        "name": "just like you",
+        "url": "https://open.spotify.com/album/6hMEtLLXTye2b3eQoWIkVa"
+      },
+      "artists": [
+        {
+          "name": "KidSnorlax",
+          "url": "https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL"
+        },
+        {
+          "name": "Mezha",
+          "url": "https://open.spotify.com/artist/6jWqQ8Y6JaEh5BXb8JfIFi"
+        },
+        {
+          "name": "Gxner.",
+          "url": "https://open.spotify.com/artist/0NUH2RWvdkFdWSnv8iD3VW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160355,
+      "name": "just like you",
+      "url": "https://open.spotify.com/track/00MxmfrZaUYzrodZ4RiiFl"
+    },
+    {
+      "album": {
+        "name": "k9 scene hoe",
+        "url": "https://open.spotify.com/album/6gTnGjTScrgepEJmtNtYyg"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178468,
+      "name": "k9 scene hoe",
+      "url": "https://open.spotify.com/track/2GEUQbGn0QtC0M5U3xiKeu"
+    },
+    {
+      "album": {
         "name": "TA_1",
         "url": "https://open.spotify.com/album/1fv1Cgww2KOucMB9nEdW8w"
       },
@@ -4398,6 +5440,28 @@
       "duration_ms": 230773,
       "name": "KC Accidental",
       "url": "https://open.spotify.com/track/4wNKEUTSUjX7QOmeV9BP5R"
+    },
+    {
+      "album": {
+        "name": "15 Years of Aqualoop Records",
+        "url": "https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5"
+      },
+      "artists": [
+        {
+          "name": "Kevax",
+          "url": "https://open.spotify.com/artist/2FZxwzCP2ZUO2cNHPfwS2D"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Keep Forgettin - Pulsedriver Remix",
+      "url": "https://open.spotify.com/track/7seREXOhaJXtNjj1aDwMff"
     },
     {
       "album": {
@@ -4452,6 +5516,72 @@
       "duration_ms": 135370,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5kahAPkmTO4dS3kKvUEWQx"
+    },
+    {
+      "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133052,
+      "name": "kigurumi bichezZz",
+      "url": "https://open.spotify.com/track/4gCjf9fCFRnOckBK3dYZPC"
+    },
+    {
+      "album": {
+        "name": "kiss me again",
+        "url": "https://open.spotify.com/album/2urcgBDBmbWDdZWRJk1eUt"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "sltted",
+          "url": "https://open.spotify.com/artist/5uLinrOWgOheZYm1WqdlMp"
+        },
+        {
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134971,
+      "name": "kiss me again",
+      "url": "https://open.spotify.com/track/5QYTN9nhIn3byfuwX1Zkbm"
+    },
+    {
+      "album": {
+        "name": "KRAY KRAY (Pixel Hood)",
+        "url": "https://open.spotify.com/album/2zIPAjs6fQpLsqtGK0eoMz"
+      },
+      "artists": [
+        {
+          "name": "Xaxanity",
+          "url": "https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150975,
+      "name": "KRAY KRAY (Pixel Hood)",
+      "url": "https://open.spotify.com/track/4gortDzRsU9k0jfaWFvdI1"
     },
     {
       "album": {
@@ -4578,6 +5708,28 @@
       "duration_ms": 136084,
       "name": "Lean Fo Sure",
       "url": "https://open.spotify.com/track/05zJ7Rlh6hBSEVUTsS1r4r"
+    },
+    {
+      "album": {
+        "name": "RemixMe",
+        "url": "https://open.spotify.com/album/0fTFZAiYb5KO3A6dud9g6a"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/4VLu2Pdhs6iOKbxGNjrEJ3"
+        },
+        {
+          "name": "ughvexx",
+          "url": "https://open.spotify.com/artist/5TgoaxL9B7YcxnpE9iDzZQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Learn To Fly - ughvexx Remix",
+      "url": "https://open.spotify.com/track/0l3TWZCEf32xQ0zwPkdand"
     },
     {
       "album": {
@@ -4733,6 +5885,32 @@
     },
     {
       "album": {
+        "name": "LIL DISCORD CRUSH",
+        "url": "https://open.spotify.com/album/1rmT9dHiJgJn5H1jNVVj7a"
+      },
+      "artists": [
+        {
+          "name": "444pluto",
+          "url": "https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO"
+        },
+        {
+          "name": "Maestro The Dab Hand",
+          "url": "https://open.spotify.com/artist/5KFUvuwu73Gl1fBlP4QdGI"
+        },
+        {
+          "name": "44clover",
+          "url": "https://open.spotify.com/artist/2KHtBq3w8NQbzhS77kzGne"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135129,
+      "name": "LIL DISCORD CRUSH",
+      "url": "https://open.spotify.com/track/0vYVoOPXjtRA7x4vX7vWN8"
+    },
+    {
+      "album": {
         "name": "EP For Twilight",
         "url": "https://open.spotify.com/album/6L8iA30PfGsz2xuNZkajlq"
       },
@@ -4770,6 +5948,24 @@
       "duration_ms": 153048,
       "name": "little spoon anthem",
       "url": "https://open.spotify.com/track/7Dc51QR5YN5fNBIaMqEhTs"
+    },
+    {
+      "album": {
+        "name": "live leak star",
+        "url": "https://open.spotify.com/album/2jlaav1AxTF2bMmqu45eeb"
+      },
+      "artists": [
+        {
+          "name": "KidSnorlax",
+          "url": "https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "live leak star",
+      "url": "https://open.spotify.com/track/7M8QhENhrbJE6RMquxjnIc"
     },
     {
       "album": {
@@ -4824,6 +6020,28 @@
       "duration_ms": 263093,
       "name": "Looks Just Like The Sun",
       "url": "https://open.spotify.com/track/0QPoBU27mAufLpou0WJwHf"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        },
+        {
+          "name": "Jayce Maxwell",
+          "url": "https://open.spotify.com/artist/4fX1sPpCWYLEU3orqUi2J2"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224548,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5gWwFosj2Bst9WRWXvk7yN"
     },
     {
       "album": {
@@ -5043,6 +6261,42 @@
     },
     {
       "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103471,
+      "name": "lust",
+      "url": "https://open.spotify.com/track/45le4IAqOL4ugGPL2ipAKR"
+    },
+    {
+      "album": {
+        "name": "M O N S T 3 R",
+        "url": "https://open.spotify.com/album/0wM9LZpNWVVk2XKCWbWTXE"
+      },
+      "artists": [
+        {
+          "name": "Scratchy",
+          "url": "https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93112,
+      "name": "M O N S T 3 R",
+      "url": "https://open.spotify.com/track/6nQFtT1QuYMkPCx0DesdLG"
+    },
+    {
+      "album": {
         "name": "M1553D_UR_C477",
         "url": "https://open.spotify.com/album/703yWD1uGa5rY4Mqpa5XQ6"
       },
@@ -5205,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88685,
+      "name": "marvelous",
+      "url": "https://open.spotify.com/track/0IZOmGIJxXAeA37iyZj3U3"
+    },
+    {
+      "album": {
         "name": "Mary Moffett_demo",
         "url": "https://open.spotify.com/album/25epZovN7zYdDdiR0VSi9A"
       },
@@ -5242,6 +6514,36 @@
       "duration_ms": 292580,
       "name": "May The Best Brony Win (feat. Koroshi-Ya)",
       "url": "https://open.spotify.com/track/3uldXvbiyMlkki9SNQXegs"
+    },
+    {
+      "album": {
+        "name": "me or him",
+        "url": "https://open.spotify.com/album/7MTFvUkWIRGMyqhrWAKlnZ"
+      },
+      "artists": [
+        {
+          "name": "Bandiicam",
+          "url": "https://open.spotify.com/artist/0ttfNUv8LbxcpeeUj5OM8j"
+        },
+        {
+          "name": "Kaneda7",
+          "url": "https://open.spotify.com/artist/3ONCRtjXvAUCwfKSuSkuOM"
+        },
+        {
+          "name": "hoshie star",
+          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
+        },
+        {
+          "name": "Hospital",
+          "url": "https://open.spotify.com/artist/2M4OJxOPHE7Foqcymmbojd"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139517,
+      "name": "me or him",
+      "url": "https://open.spotify.com/track/2AUWUjWlCeGjChlNiHNghr"
     },
     {
       "album": {
@@ -5353,6 +6655,50 @@
     },
     {
       "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144033,
+      "name": "moan my name!",
+      "url": "https://open.spotify.com/track/2Pmao24Jm9YcZ2QccUKvrB"
+    },
+    {
+      "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        },
+        {
+          "name": "zeija",
+          "url": "https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr"
+        },
+        {
+          "name": "hoshie star",
+          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151405,
+      "name": "MollyDanceParty",
+      "url": "https://open.spotify.com/track/6yxqj84PEEVlB7Sp5WAqpQ"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red V2",
         "url": "https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY"
       },
@@ -5368,6 +6714,28 @@
       "duration_ms": 224072,
       "name": "Monday Through Sunday",
       "url": "https://open.spotify.com/track/7MBhM0yKSAXKMLQAmNr03k"
+    },
+    {
+      "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        },
+        {
+          "name": "gaptoothv4mp",
+          "url": "https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170318,
+      "name": "monster >:3",
+      "url": "https://open.spotify.com/track/3EYHVKyWmCRO43D353DskH"
     },
     {
       "album": {
@@ -5537,6 +6905,28 @@
     },
     {
       "album": {
+        "name": "my emo princess",
+        "url": "https://open.spotify.com/album/5wjlZfTO56I7XLPjzDBRHY"
+      },
+      "artists": [
+        {
+          "name": "Tr1st4n",
+          "url": "https://open.spotify.com/artist/4AEPnx9Z6fiuFDEfnQHMq7"
+        },
+        {
+          "name": "Synbx",
+          "url": "https://open.spotify.com/artist/0qizF2HQwhZKf8LKfobZdq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121351,
+      "name": "my emo princess",
+      "url": "https://open.spotify.com/track/6QzHDCb9HZEg5JAQwJpLYV"
+    },
+    {
+      "album": {
         "name": "What Life Really Means",
         "url": "https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv"
       },
@@ -5570,6 +6960,32 @@
       "duration_ms": 143567,
       "name": "My Level",
       "url": "https://open.spotify.com/track/1uZEREjjS04mqyTinKkVHd"
+    },
+    {
+      "album": {
+        "name": "myspace",
+        "url": "https://open.spotify.com/album/2idXDyfFSEBecC5aOoPRK8"
+      },
+      "artists": [
+        {
+          "name": "sylene xo",
+          "url": "https://open.spotify.com/artist/6sBtLNwZDuOWk9ogV0NCbl"
+        },
+        {
+          "name": "hateoryx",
+          "url": "https://open.spotify.com/artist/3NfxLp6wFw5TB5MU3x5jvF"
+        },
+        {
+          "name": "syris",
+          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120004,
+      "name": "myspace",
+      "url": "https://open.spotify.com/track/0UcSrSWSm7fl2Zna6AzS3g"
     },
     {
       "album": {
@@ -5714,6 +7130,28 @@
       "duration_ms": 188630,
       "name": "Nice One - Radio Edit",
       "url": "https://open.spotify.com/track/6lpwAR6LgpneySdpiFUUDR"
+    },
+    {
+      "album": {
+        "name": "niepoj\u0119ta",
+        "url": "https://open.spotify.com/album/5BbWYirw3hU3Oa8iIlhCW2"
+      },
+      "artists": [
+        {
+          "name": "G\u00d8THB\u00d8YBABY",
+          "url": "https://open.spotify.com/artist/2eAGAlFGR0gf55YXTRnQRU"
+        },
+        {
+          "name": "Jper",
+          "url": "https://open.spotify.com/artist/58vtfhD7kv8Epx2AApIUaC"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114584,
+      "name": "niepoj\u0119ta",
+      "url": "https://open.spotify.com/track/0F5udkmF9B2tpS82JcGbyo"
     },
     {
       "album": {
@@ -5989,6 +7427,42 @@
     },
     {
       "album": {
+        "name": "omfg",
+        "url": "https://open.spotify.com/album/7uTI7z38VNUss1jkftuxVx"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137325,
+      "name": "omfg",
+      "url": "https://open.spotify.com/track/3sRmjcgXtDRfAz0CZrUlNj"
+    },
+    {
+      "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92212,
+      "name": "omg i h8 him",
+      "url": "https://open.spotify.com/track/3OdfUniatSvWKb72QnYWTk"
+    },
+    {
+      "album": {
         "name": "On Land",
         "url": "https://open.spotify.com/album/56itYCgnEtdCQqvqlG1yM3"
       },
@@ -6004,6 +7478,28 @@
       "duration_ms": 173818,
       "name": "On Land",
       "url": "https://open.spotify.com/track/44bu87op6qOPqm4VWI5jLx"
+    },
+    {
+      "album": {
+        "name": "on the floor",
+        "url": "https://open.spotify.com/album/0uqOB2rM5S6GGXRlZpaxaE"
+      },
+      "artists": [
+        {
+          "name": "hateoryx",
+          "url": "https://open.spotify.com/artist/0c4u1LEZWEh5UfMQkzOt4r"
+        },
+        {
+          "name": "horrormovies",
+          "url": "https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129104,
+      "name": "on the floor",
+      "url": "https://open.spotify.com/track/12Ot4adOMLRyYdOtTzxXep"
     },
     {
       "album": {
@@ -6159,6 +7655,32 @@
     },
     {
       "album": {
+        "name": "sentimentality",
+        "url": "https://open.spotify.com/album/5tb8UTC4lmE0oDxm4yshKf"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Crescent",
+          "url": "https://open.spotify.com/artist/5bI8XKRLWRl5f4rrOsrABi"
+        },
+        {
+          "name": "d3r",
+          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115225,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/77iFuDcdlXxG0JGWxQxJ2W"
+    },
+    {
+      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -6303,6 +7825,28 @@
     },
     {
       "album": {
+        "name": "sentimentality",
+        "url": "https://open.spotify.com/album/5tb8UTC4lmE0oDxm4yshKf"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Nomark",
+          "url": "https://open.spotify.com/artist/0g3pkoWNlu6rXL487xBcH8"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "pls stop acting like u care",
+      "url": "https://open.spotify.com/track/4yaiYTSrjzHBFaGoanxJgb"
+    },
+    {
+      "album": {
         "name": "TA_1",
         "url": "https://open.spotify.com/album/1fv1Cgww2KOucMB9nEdW8w"
       },
@@ -6318,6 +7862,72 @@
       "duration_ms": 159610,
       "name": "Pocketful of Posies",
       "url": "https://open.spotify.com/track/1TZdn1Q0fYxQcsAzw5l9cu"
+    },
+    {
+      "album": {
+        "name": "poison",
+        "url": "https://open.spotify.com/album/7qEmhimJcN8TeELe3F3QYJ"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        },
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110106,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/04PPX5TbBugluvaPrB9g0M"
+    },
+    {
+      "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        },
+        {
+          "name": "disoc8",
+          "url": "https://open.spotify.com/artist/4lEE1YjJwvjoUbzBYYe4ia"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187781,
+      "name": "poledance",
+      "url": "https://open.spotify.com/track/65fdXxxaQyV17yYEFgHw2X"
+    },
+    {
+      "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        },
+        {
+          "name": "disoc8",
+          "url": "https://open.spotify.com/artist/4lEE1YjJwvjoUbzBYYe4ia"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157899,
+      "name": "poledance - sped up version",
+      "url": "https://open.spotify.com/track/0WzuKJwnLyXPzYyA226xvo"
     },
     {
       "album": {
@@ -6372,6 +7982,24 @@
       "duration_ms": 163904,
       "name": "Pretty Girls Cry",
       "url": "https://open.spotify.com/track/7CYtiE6cRdweq0mehNpOKB"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Psycho",
+        "url": "https://open.spotify.com/album/0lwTaq8oD1fJhuduortRyR"
+      },
+      "artists": [
+        {
+          "name": "Nightcore",
+          "url": "https://open.spotify.com/artist/3x2zCDQIUkNZgnasmM5R6j"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168280,
+      "name": "Pretty Little Psycho",
+      "url": "https://open.spotify.com/track/6Hw8oFpuS7LRGGPUKdvQNe"
     },
     {
       "album": {
@@ -6501,6 +8129,32 @@
     },
     {
       "album": {
+        "name": "R U S H",
+        "url": "https://open.spotify.com/album/2hBrhBAQja5CLbNyOtWl1t"
+      },
+      "artists": [
+        {
+          "name": "Scratchy",
+          "url": "https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf"
+        },
+        {
+          "name": "igi",
+          "url": "https://open.spotify.com/artist/7amW8uoVE8xnzaBQ4w8OtW"
+        },
+        {
+          "name": "blood pup",
+          "url": "https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76953,
+      "name": "R U S H",
+      "url": "https://open.spotify.com/track/2Bw67focSAexr75U0X5jd2"
+    },
+    {
+      "album": {
         "name": "Sound V Track",
         "url": "https://open.spotify.com/album/47Jl2mtHDAu7NZFErZjCKd"
       },
@@ -6613,6 +8267,28 @@
     },
     {
       "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        },
+        {
+          "name": "MouSa",
+          "url": "https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/67QHmm5PcGz72kME0blcYP"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red V2",
         "url": "https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY"
       },
@@ -6700,6 +8376,24 @@
       "duration_ms": 170549,
       "name": "Ride Around",
       "url": "https://open.spotify.com/track/30KFJT8Z9OYgVcewl26iZm"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Wolficide",
+        "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
+      },
+      "artists": [
+        {
+          "name": "Wolficide",
+          "url": "https://open.spotify.com/artist/02uuMtGWugrKLgtdDurPhk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Rockstar Dreams",
+      "url": "https://open.spotify.com/track/144zl4NikoTHAFyeGlRW44"
     },
     {
       "album": {
@@ -6847,6 +8541,28 @@
     },
     {
       "album": {
+        "name": "S T R I K E A P O S E !",
+        "url": "https://open.spotify.com/album/7rbvPYa86H4G6udzwMr9DI"
+      },
+      "artists": [
+        {
+          "name": "Scratchy",
+          "url": "https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf"
+        },
+        {
+          "name": "K1lltr4sh",
+          "url": "https://open.spotify.com/artist/5Hw71hzMeW6IIsaY8lVOi0"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121864,
+      "name": "S T R I K E A P O S E !",
+      "url": "https://open.spotify.com/track/1CW2R11H5up5JckG910orG"
+    },
+    {
+      "album": {
         "name": "Sarah (meet me in the sauna)",
         "url": "https://open.spotify.com/album/1EvyS53kdfhormmD5203fY"
       },
@@ -6862,6 +8578,28 @@
       "duration_ms": 176587,
       "name": "Sarah (meet me in the sauna)",
       "url": "https://open.spotify.com/track/2IgTjriPiMyinOpzOztuiO"
+    },
+    {
+      "album": {
+        "name": "15 Years of Aqualoop Records",
+        "url": "https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Limelight",
+          "url": "https://open.spotify.com/artist/6yCsJiCnYI7oviMAXu5T7O"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Saturday - Single Mix",
+      "url": "https://open.spotify.com/track/6g6GIBdyvQIglUupXkHJOy"
     },
     {
       "album": {
@@ -6952,6 +8690,50 @@
       "duration_ms": 128626,
       "name": "Sayulita - Demo",
       "url": "https://open.spotify.com/track/51vp0dJwIGVHFUoVsf5djd"
+    },
+    {
+      "album": {
+        "name": "scene party!",
+        "url": "https://open.spotify.com/album/1sFOqpOIBcVUd26n6zeFFB"
+      },
+      "artists": [
+        {
+          "name": "sylene xo",
+          "url": "https://open.spotify.com/artist/6sBtLNwZDuOWk9ogV0NCbl"
+        },
+        {
+          "name": "gone2farr",
+          "url": "https://open.spotify.com/artist/0R1VIbk9LjaGvDPtGQGazM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167068,
+      "name": "scene party!",
+      "url": "https://open.spotify.com/track/44fARfWZc5DsYVxnUbVp3l"
+    },
+    {
+      "album": {
+        "name": "SPARKLEDOG ANTHEM!",
+        "url": "https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        },
+        {
+          "name": "k1lltr4sh",
+          "url": "https://open.spotify.com/artist/5j2zi89x1TIAptbksJAU3j"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133041,
+      "name": "scenekidlove <3",
+      "url": "https://open.spotify.com/track/6V899nCdIDlBFQggHG47k5"
     },
     {
       "album": {
@@ -7157,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "top secret mixtape",
+        "url": "https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU"
+      },
+      "artists": [
+        {
+          "name": "Yoru Tsuki",
+          "url": "https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166144,
+      "name": "she wants 2b tied up #escapegame",
+      "url": "https://open.spotify.com/track/40Of5Fp2juSfViUKgJk9F7"
+    },
+    {
+      "album": {
         "name": "What Life Really Means",
         "url": "https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv"
       },
@@ -7208,6 +9008,24 @@
       "duration_ms": 167076,
       "name": "Shine",
       "url": "https://open.spotify.com/track/3MIkJMH2aXf34qwmX5RGo6"
+    },
+    {
+      "album": {
+        "name": "showtime",
+        "url": "https://open.spotify.com/album/50vfKSYJwjaWSjqVMo3LaT"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166455,
+      "name": "showtime",
+      "url": "https://open.spotify.com/track/7u4wjGS6WexlFz9eFzZ2ww"
     },
     {
       "album": {
@@ -7284,7 +9102,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 173666,
       "name": "Singin' in the rain",
       "url": "https://open.spotify.com/track/1ZEVSOFaWo6hWpuSsx1Xwr"
@@ -7561,6 +9379,24 @@
     },
     {
       "album": {
+        "name": "Sorry That I'm Emo",
+        "url": "https://open.spotify.com/album/1S4UHp26hWwqYFx0QfG9Gg"
+      },
+      "artists": [
+        {
+          "name": "Hair Jordan",
+          "url": "https://open.spotify.com/artist/53wCsVRbiFGzgmSjQQa0xH"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114979,
+      "name": "Sorry That I'm Emo",
+      "url": "https://open.spotify.com/track/5Y52NF5tCGBZqOhb45hlxE"
+    },
+    {
+      "album": {
         "name": "At Your Own Risk",
         "url": "https://open.spotify.com/album/0Q2ynuP0xnO77Id4reXm6d"
       },
@@ -7651,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "sparkle dog anthem ii",
+        "url": "https://open.spotify.com/album/2Eak1ciFVO1uToQE9y50VY"
+      },
+      "artists": [
+        {
+          "name": "foxxlust",
+          "url": "https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182883,
+      "name": "sparkle dog anthem",
+      "url": "https://open.spotify.com/track/3d3J9oajfGgJY4ZM5mFfVQ"
+    },
+    {
+      "album": {
         "name": "TA_1",
         "url": "https://open.spotify.com/album/1fv1Cgww2KOucMB9nEdW8w"
       },
@@ -7702,6 +9556,28 @@
       "duration_ms": 234710,
       "name": "Speakerboxx",
       "url": "https://open.spotify.com/track/3aTngKKJLFw2nzFX1ee4sv"
+    },
+    {
+      "album": {
+        "name": "spell witch",
+        "url": "https://open.spotify.com/album/0Rx0jyh5q9tC3MwxlBi6Gi"
+      },
+      "artists": [
+        {
+          "name": "syris",
+          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "spell witch",
+      "url": "https://open.spotify.com/track/1pp1qbMNJbzAJmTVeBoGKP"
     },
     {
       "album": {
@@ -8019,6 +9895,32 @@
     },
     {
       "album": {
+        "name": "Talk Shit Get Hit",
+        "url": "https://open.spotify.com/album/323OFpwafA7ssLbKMpCnfv"
+      },
+      "artists": [
+        {
+          "name": "Hair Jordan",
+          "url": "https://open.spotify.com/artist/53wCsVRbiFGzgmSjQQa0xH"
+        },
+        {
+          "name": "Mikl-Shea Of Brokencyde",
+          "url": "https://open.spotify.com/artist/5O4n2Vns4jlzGAcnMwo8jF"
+        },
+        {
+          "name": "PhatJ Of Brokencyde",
+          "url": "https://open.spotify.com/artist/6Vjqy8xybtGhh4AY26nY4M"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "Talk Shit Get Hit",
+      "url": "https://open.spotify.com/track/1zs2HGXC6UbYM3rcwIfXsa"
+    },
+    {
+      "album": {
         "name": "Sound V Track",
         "url": "https://open.spotify.com/album/47Jl2mtHDAu7NZFErZjCKd"
       },
@@ -8106,6 +10008,28 @@
       "duration_ms": 288157,
       "name": "tears on the paper",
       "url": "https://open.spotify.com/track/2hXEjJsxqIrCSSZfkjmKRm"
+    },
+    {
+      "album": {
+        "name": "TeknoraverZz",
+        "url": "https://open.spotify.com/album/2imHZ6uVkUMudB7qzfIgPQ"
+      },
+      "artists": [
+        {
+          "name": "sick.kidd",
+          "url": "https://open.spotify.com/artist/5fLXwEG6bqfjaGEI4vzTEi"
+        },
+        {
+          "name": "Vampyx",
+          "url": "https://open.spotify.com/artist/3EGYR0O3mIjTxQsVMXTSwO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158557,
+      "name": "TeknoraverZz",
+      "url": "https://open.spotify.com/track/1lYKRjDe1a1fxRN6JlIuQA"
     },
     {
       "album": {
@@ -8557,6 +10481,24 @@
     },
     {
       "album": {
+        "name": "sentimentality",
+        "url": "https://open.spotify.com/album/5tb8UTC4lmE0oDxm4yshKf"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107425,
+      "name": "traumatized",
+      "url": "https://open.spotify.com/track/5S7XIO2nqQAtft6zXNbN7e"
+    },
+    {
+      "album": {
         "name": "Triple Baka",
         "url": "https://open.spotify.com/album/1yq717IXC18P3EdBHmeIkJ"
       },
@@ -8720,6 +10662,32 @@
       "duration_ms": 160230,
       "name": "vital",
       "url": "https://open.spotify.com/track/6O1RYPDp6SeftXfhyOoQft"
+    },
+    {
+      "album": {
+        "name": "W H A T S I T L I K E ?",
+        "url": "https://open.spotify.com/album/02vhsRQ2KXNUmZouSrOBEH"
+      },
+      "artists": [
+        {
+          "name": "Scratchy",
+          "url": "https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf"
+        },
+        {
+          "name": "Pr0xy",
+          "url": "https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM"
+        },
+        {
+          "name": "wasty",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127822,
+      "name": "W H A T S I T L I K E ?",
+      "url": "https://open.spotify.com/track/1zcbJE7S1hKS90AtR2lYMH"
     },
     {
       "album": {
@@ -8926,6 +10894,50 @@
       "duration_ms": 165015,
       "name": "wavy",
       "url": "https://open.spotify.com/track/5TPZgTHIKfiURSAt7DDKSZ"
+    },
+    {
+      "album": {
+        "name": "We Don't Sleep At Night",
+        "url": "https://open.spotify.com/album/2Dx9lVLaPQ0JML9awMNnb8"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Lunatics",
+          "url": "https://open.spotify.com/artist/3JvgpJcs6cC87CGUNOLeuA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180778,
+      "name": "We Don't Sleep At Night",
+      "url": "https://open.spotify.com/track/0ZmcTfaNhEKByHBYdUphpk"
+    },
+    {
+      "album": {
+        "name": "WE GOING CRAZY!",
+        "url": "https://open.spotify.com/album/0q3QLsq4gb1bL3lUpqoZWy"
+      },
+      "artists": [
+        {
+          "name": "444pluto",
+          "url": "https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO"
+        },
+        {
+          "name": "Vyzer",
+          "url": "https://open.spotify.com/artist/5jLQxZDFd3vrRb7t8OETCA"
+        },
+        {
+          "name": "blood pup",
+          "url": "https://open.spotify.com/artist/2xq16sfAI6ZwUg9fUmPUBw"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132677,
+      "name": "WE GOING CRAZY!",
+      "url": "https://open.spotify.com/track/6HJHqqH3ZfztbDcLQL4krk"
     },
     {
       "album": {
@@ -9229,6 +11241,28 @@
     },
     {
       "album": {
+        "name": "XD",
+        "url": "https://open.spotify.com/album/0oTiTM3aBZszqm4H1hdjuH"
+      },
+      "artists": [
+        {
+          "name": "suddendeathovertime",
+          "url": "https://open.spotify.com/artist/486MieKiz40UIplzZBWqgW"
+        },
+        {
+          "name": "offaflat",
+          "url": "https://open.spotify.com/artist/7JZkks9suPNnxpvtQwfaav"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143471,
+      "name": "XD",
+      "url": "https://open.spotify.com/track/0zRvho6MdempBZQ82GYZAB"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST: LOST TRACKS",
         "url": "https://open.spotify.com/album/18RDbFA8eFqrjM5XZsboxm"
       },
@@ -9442,6 +11476,28 @@
       "duration_ms": 90913,
       "name": "Ziploc",
       "url": "https://open.spotify.com/track/1Vly8MDQpqzj9MSFHou7i6"
+    },
+    {
+      "album": {
+        "name": "\u00d6L\u00dcMLE KUMAR",
+        "url": "https://open.spotify.com/album/0KpdGX9wYNbJXxEgenwFUA"
+      },
+      "artists": [
+        {
+          "name": "husowav",
+          "url": "https://open.spotify.com/artist/4dMPZaEb0EHdsggqvvpqIu"
+        },
+        {
+          "name": "444pluto",
+          "url": "https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133725,
+      "name": "\u00d6L\u00dcMLE KUMAR",
+      "url": "https://open.spotify.com/track/5EZD6hdNRzHjoIyFBQgTPn"
     }
   ],
   "url": "https://open.spotify.com/playlist/7CY3zbRzhGwcihHqQEXyK8"

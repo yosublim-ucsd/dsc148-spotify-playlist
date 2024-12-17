@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,283 likes - 78 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,287 likes - 78 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

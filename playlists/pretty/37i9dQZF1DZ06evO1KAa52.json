@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 643205,
+  "num_followers": 643266,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABLrE4GKFgl80aOeyX6H5S1",
+  "snapshot_id": "Z14cAAAAAADoynWRI0zbrCV1R6jyN9Ip",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magna Carta... Holy Grail",
+        "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 338413,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/37jTPJgwCCmIGMPB45jrPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -807,42 +827,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magna Carta... Holy Grail",
-        "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 338413,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/37jTPJgwCCmIGMPB45jrPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
         }
       ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+      "duration_ms": 176466,
+      "name": "Together Now",
+      "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
     },
     {
       "added_at": null,
@@ -891,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything I Thought It Was",
         "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
       },
@@ -907,38 +939,6 @@
       "duration_ms": 266826,
       "name": "Paradise (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/6tcYpyw4rr5mTqDidS29IY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TROLLS Holiday In Harmony",
-        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Together Now",
-      "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
     },
     {
       "added_at": null,

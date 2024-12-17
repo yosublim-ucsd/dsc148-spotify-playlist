@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/6EK6OV6MInIWpaAF6RUO1w"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133592,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/5Rs9YwzmyOSuwwWZAmgS4B"
+    },
+    {
+      "album": {
         "name": "Clear Air",
         "url": "https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW"
       },
@@ -12944,6 +12962,24 @@
       "duration_ms": 132844,
       "name": "Time And Space",
       "url": "https://open.spotify.com/track/07ejQhAKkyJ0suOIuXsZjF"
+    },
+    {
+      "album": {
+        "name": "Time Flies By",
+        "url": "https://open.spotify.com/album/3lsJtgLyQJliG9XWbmNvhc"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156436,
+      "name": "Time Flies By",
+      "url": "https://open.spotify.com/track/3dl9zvwNgzLUon677DgdxB"
     },
     {
       "album": {

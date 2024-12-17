@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 244450,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/1UyGal7Xm6z6C65eUdSx2x"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 141431,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7Gt49VMR3f9eaeRboDVR6U"
@@ -6532,7 +6532,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 334288,
       "name": "Meiso Ongaku 2",
       "url": "https://open.spotify.com/track/4oDopy5g0n075NXo1JavuZ"
@@ -9760,6 +9760,66 @@
       "duration_ms": 334229,
       "name": "Snowy Night Tale",
       "url": "https://open.spotify.com/track/019gDw4KVN2NIFbnh32Obk"
+    },
+    {
+      "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287293,
+      "name": "Sn\u00e5cko",
+      "url": "https://open.spotify.com/track/0p6cXpEEZIv1IYIIGkwPzW"
+    },
+    {
+      "album": {
+        "name": "Small Medium Large",
+        "url": "https://open.spotify.com/album/1kx9AGaReYE7UVRqNrEkVs"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        },
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Soft Sand",
+      "url": "https://open.spotify.com/track/0v41u1Hiy29OCBXjLo63LP"
     },
     {
       "album": {

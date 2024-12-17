@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Criss & Ronny y Kapo
 
-144 songs - 7 hr 26 min
+145 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,11 +106,12 @@
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 | 2024-12-13 |
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-10-06 | 2024-04-19 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-06-19 |  |
-| [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-07-21 |  |
+| [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-07-21 | 2024-12-17 |
 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-28 |  |
 | [Pa Que Mentir](https://open.spotify.com/track/5VaT9e20yu1cjHf4yUTqgP) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Pa Que Mentir](https://open.spotify.com/album/4XDPOZ4QuiqyAn50nobLt8) | 2:30 | 2024-09-27 | 2024-12-13 |
 | [Pa' Terapia](https://open.spotify.com/track/06NiUeFCTNIZDlg2daoF8M) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pa' Terapia](https://open.spotify.com/album/0Xv4XKcJ18nioqXnNA0sbd) | 2:36 | 2023-09-29 | 2023-11-25 |
 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 | 2024-08-23 |  |
+| [Peor Que La Policía \(feat\. PMP\)](https://open.spotify.com/track/4FAV8rrbenNnfAiRCqHZ25) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Peor Que La Policía \(feat\. PMP\)](https://open.spotify.com/album/3k5CWNHoPBTCL0kjpvMiox) | 3:19 | 2024-12-16 |  |
 | [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 | 2023-07-21 |  |
 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 | 2023-10-06 | 2024-04-19 |
 | [PRIVILEGIOS](https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:05 | 2023-09-29 |  |

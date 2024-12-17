@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 91766,
+  "num_followers": 91854,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 258790,
       "name": "Mal",
       "url": "https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1171,58 +1171,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Map Rap Ak Ke Kontan",
-        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Veye Priye",
-      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Loyita (feat. Thattoo Love)",
         "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
       },
@@ -1243,6 +1191,58 @@
       "duration_ms": 228480,
       "name": "Loyita (feat. Thattoo Love)",
       "url": "https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Map Rap Ak Ke Kontan",
+        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Veye Priye",
+      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Mennaj Moun Yo",
+        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Mennaj Moun Yo",
+      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Love a Plein Temps",
         "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Mennaj Moun Yo",
-        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
       "artists": [
         {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 188035,
-      "name": "Mennaj Moun Yo",
-      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "PA KRIYE",
         "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 215172,
       "name": "PA KRIYE",
       "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
       "artists": [
         {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
         }
       ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1787,18 +1783,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
       "artists": [
         {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "White Flower",
         "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
@@ -1843,18 +1859,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
       "artists": [
         {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
         }
       ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1875,22 +1891,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     }
   ],
   "unique_name": "Haitian Heat",

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Bils
 
-527 songs - 1 day 0 hr 59 min
+528 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Gangan](https://open.spotify.com/track/7ib2fpVea0ItUz05IBGqdd) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm) | [Gangan](https://open.spotify.com/album/2ndIlZpqe64FbR0gM7HAM3) | 2:36 | 2024-05-24 | 2024-06-07 |
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 | 2023-09-29 |
 | [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 | 2024-10-25 |  |
-| [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 | 2024-11-22 |  |
+| [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 | 2024-11-22 | 2024-12-17 |
 | [German Machine \(feat\. Jeriq\)](https://open.spotify.com/track/6TEseDlC0o2lkim735xKhU) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BLESSED](https://open.spotify.com/album/0s2MBUOX5nPs0zjc7eukuZ) | 2:31 | 2024-02-23 | 2024-03-29 |
 | [Ghost Mode](https://open.spotify.com/track/1NP9rjEfsd9h6f8sVGCwRi) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Guts No Glory](https://open.spotify.com/album/5Zhg797sEPjrogcC4XXaEP) | 3:50 | 2022-10-14 | 2022-10-29 |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2024-01-12 |
@@ -531,6 +531,7 @@
 | [Yemi My Lover](https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Yemi My Lover](https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s) | 2:56 | 2024-08-02 | 2024-08-14 |
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [Yolo](https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp) | [Freezy](https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Yolo](https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A) | 3:04 | 2024-11-22 |  |
+| [YOTU Cypher](https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW) | [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB), [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Year of the Underdogs](https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p) | 3:04 | 2024-12-16 |  |
 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 | 2023-03-25 | 2024-05-25 |
 | [YOUNG PREACHER](https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:22 | 2022-10-28 | 2023-02-16 |
 | [YOUNG PREACHER](https://open.spotify.com/track/76aQdQbQYLUAp3I7ywE1jx) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 2:22 | 2022-10-28 | 2022-11-11 |

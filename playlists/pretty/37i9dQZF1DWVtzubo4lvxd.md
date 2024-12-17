@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,832 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,823 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 6 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 7 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
 | 8 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
-| 9 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
-| 10 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
+| 9 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
+| 10 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
 | 11 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
 | 12 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
 | 13 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 19 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
 | 20 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
 | 21 | [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 |
-| 22 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
-| 23 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 22 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 23 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
 | 24 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 |
 | 25 | [Friendly Faces](https://open.spotify.com/track/0th7hewFkDGdoOR1N3QNBL) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Friendly Faces & Pocket Queens](https://open.spotify.com/album/5feRhvTa6tXjlQ3JIBip2Z) | 2:59 |
 | 26 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change EP](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 31 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
 | 32 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
 | 33 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
-| 34 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 |
-| 35 | [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 |
+| 34 | [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 |
+| 35 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 |
 | 36 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
 | 37 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
 | 38 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |

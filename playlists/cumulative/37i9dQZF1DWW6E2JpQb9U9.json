@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 217403,
       "name": "14 de Julio - En Vivo",
       "url": "https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0"
@@ -1618,6 +1618,24 @@
       "duration_ms": 263000,
       "name": "Desaparecer - Vivo en Luna Park",
       "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
+    },
+    {
+      "album": {
+        "name": "DESCARTABLE (En Vivo Estadio Racing Club)",
+        "url": "https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186928,
+      "name": "DESCARTABLE - En Vivo Estadio Racing Club",
+      "url": "https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g"
     },
     {
       "album": {

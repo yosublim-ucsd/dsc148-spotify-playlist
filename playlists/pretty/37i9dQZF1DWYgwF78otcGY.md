@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,648 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,644 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 29 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 30 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 31 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
-| 32 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
-| 33 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 32 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 33 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 | 34 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 35 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 36 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
-| 37 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
-| 38 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
-| 39 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
+| 37 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
+| 38 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
+| 39 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
 | 40 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
 | 41 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 42 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |

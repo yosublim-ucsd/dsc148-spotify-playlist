@@ -1,6 +1,6 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 18482,
+  "num_followers": 18676,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "A Blues Christmas",
-        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Merry, Merry Christmas",
-      "url": "https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "His Complete Aladdin Recordings",
         "url": "https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 181466,
       "name": "Empty Stocking Blues",
       "url": "https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 268288,
+      "name": "Merry, Merry Christmas",
+      "url": "https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Have You Heard The News?",
+      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Best of Street New Orleans Xmas",
         "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Have You Heard The News?",
-      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Happy Xmas",
         "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Stony Plain's Christmas Blues",
-        "url": "https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rhodes",
-          "url": "https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl"
-        }
-      ],
-      "duration_ms": 367400,
-      "name": "Christmas 9-1-1",
-      "url": "https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "An Austin Rhythm And Blues Christmas",
         "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 146493,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Stony Plain's Christmas Blues",
+        "url": "https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rhodes",
+          "url": "https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl"
+        }
+      ],
+      "duration_ms": 367400,
+      "name": "Christmas 9-1-1",
+      "url": "https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "Washboard Pete",
-          "url": "https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "A Blues Christmas",
         "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 161779,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "Washboard Pete",
+          "url": "https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC"
     },
     {
       "added_at": "2023-11-22 12:51:56",

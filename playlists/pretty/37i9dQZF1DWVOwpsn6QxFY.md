@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,588 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,617 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 38 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
 | 39 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 40 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
-| 41 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
-| 42 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
-| 43 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
-| 44 | [Love Song](https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [One More Thing](https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB) | 3:11 |
+| 41 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
+| 42 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
+| 43 | [Love Song](https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [One More Thing](https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB) | 3:11 |
+| 44 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
 | 45 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 46 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
-| 47 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |
-| 48 | [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 |
+| 47 | [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 |
+| 48 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |
 | 49 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 50 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 |
 | 51 | [Meet me in the garden \- Alternative Version](https://open.spotify.com/track/6OUnUtn5tYFPylyiiwbW4l) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Meet me in the garden \(Alternative Version\)](https://open.spotify.com/album/0xOoSbMYuUAeNAIItJEf6g) | 2:54 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 77 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 78 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 79 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
-| 80 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
+| 80 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 |
 
 Snapshot ID: `ZtrzIAAAAACQEB0jvPXFpZERCRZZQopu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,549 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,543 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 25 | [Redesigning Women](https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:54 |
 | 26 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 | 27 | [Hard Way Home](https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:21 |
-| 28 | [Most of All](https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:51 |
-| 29 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |
+| 28 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |
+| 29 | [Most of All](https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:51 |
 | 30 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 31 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 |
 | 32 | [That Wasn't Me](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |
 | 50 | [The Things I Regret](https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:26 |
 
-Snapshot ID: `Z1zKgAAAAAC5XCmRwUSyXpoJE3prmKDF`
+Snapshot ID: `Z14cAAAAAACGbcw3E14277BNhBdVKLp2`

@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 148520,
       "name": "Cocktail Molotov (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/597xDoReZvNnlEoN0IVpVk"
@@ -34774,10 +34774,40 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
       "album": {
@@ -35742,7 +35772,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
@@ -44358,7 +44388,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -44376,7 +44406,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 108798,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
@@ -52492,10 +52522,32 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "Spin The Wheel - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1lXZpcWtuvG5epzCpN2dSz"
     },
     {
       "album": {

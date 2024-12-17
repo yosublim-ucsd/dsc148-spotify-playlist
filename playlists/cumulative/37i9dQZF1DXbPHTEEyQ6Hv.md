@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-244 songs - 9 hr 32 min
+245 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5taqXHS1T93h8aY0Qy8lhZ) | [Timothy North](https://open.spotify.com/artist/69zHQUFleLsUpHOV8pW99i) | [The Magic Of Christmas](https://open.spotify.com/album/6NTyCBRaQy3JgoClHXX6pi) | 2:50 | 2023-12-08 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/5BhgEYBl21jrcMHFH9v2ZT) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Here Comes Santa Claus](https://open.spotify.com/album/3NuTH4aDWNH2RbxOmuHJ9H) | 2:40 | 2023-10-24 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-14 | 2023-10-27 |
+| [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-16 |  |
 | [Home for the Holidays](https://open.spotify.com/track/5K5igtw94jv30oLWwv3bMg) | [Amelie Voss](https://open.spotify.com/artist/2Ccygrq1MNC7OTTjQneXBK) | [Home for the Holidays](https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH) | 2:39 | 2021-12-14 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 2:08 | 2021-12-14 |  |
 | [I Need You Christmas](https://open.spotify.com/track/00ochdoOTLDBwawDQ8AtMT) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [I Need You Christmas](https://open.spotify.com/album/5lK628Z4LcKQWCjyAvt3v4) | 2:11 | 2023-09-26 |  |

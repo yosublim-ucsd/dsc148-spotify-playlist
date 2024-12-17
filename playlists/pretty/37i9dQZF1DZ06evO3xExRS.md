@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,792 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,823 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 23 | [Estoy pintando tu sonrisa](https://open.spotify.com/track/5Q7bqhsyIM6Ns3zUWZNMqL) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Esta Es Tu Vida](https://open.spotify.com/album/04SU7UlCSrIujoewyo5P08) | 2:14 |
 | 24 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
 | 25 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
-| 26 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
-| 27 | [Una mujer de bandera](https://open.spotify.com/track/0QHmjX6DKlKLKPGqqIsRC4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:06 |
+| 26 | [Una mujer de bandera](https://open.spotify.com/track/0QHmjX6DKlKLKPGqqIsRC4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:06 |
+| 27 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
 | 28 | [Devuélveme a mi chica](https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Walls](https://open.spotify.com/artist/1rzCNvoVbMC1MKU21rqtGS), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Devuélveme a mi chica](https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT) | 3:13 |
 | 29 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
 | 30 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Se Me Sale El Corazón \(feat\. Carlos Rivera\)](https://open.spotify.com/track/09CJ7Ce51uMqYhAbNibJuo) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [La Esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 3:44 |
 | 50 | [Sin ti](https://open.spotify.com/track/6NBtgQb9zeJZYoGXmEYLtc) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:43 |
 
-Snapshot ID: `Z1zKgAAAAADuGAq/ftVNCRYhW9d6Mgje`
+Snapshot ID: `Z14cAAAAAABijRyCwGMhptaVQBVo3SE+`

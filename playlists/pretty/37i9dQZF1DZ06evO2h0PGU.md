@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,833 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,847 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 11 | [Pin](https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:00 |
 | 12 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 13 | [Hysteric](https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:50 |
-| 14 | [Cheated Hearts](https://open.spotify.com/track/10PqqH5f9vRVmwhIB5KS7n) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:58 |
+| 14 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 |
 | 15 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 16 | [Blacktop](https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:23 |
 | 17 | [Modern Romance](https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 50 | [Our Time](https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:23 |
 | 51 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
 
-Snapshot ID: `Z1zKgAAAAAASrqqGToOOGQciKe4BClqe`
+Snapshot ID: `Z14cAAAAAAD44IBCk3nzmRyOUiWcCGmN`

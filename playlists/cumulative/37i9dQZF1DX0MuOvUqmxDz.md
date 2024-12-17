@@ -4,7 +4,7 @@
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Dan + Shay
 
-341 songs - 18 hr 30 min
+342 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Christmas Night With You](https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Christmas Night With You](https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5) | 3:39 | 2024-09-13 |  |
 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 | 2021-12-16 | 2022-11-18 |
 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 | 2021-12-16 |  |
+| [Christmas To Me](https://open.spotify.com/track/0E7AicqYU96sywESO47X0p) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Christmas To Me](https://open.spotify.com/album/0yRpImdY5Y7vrnV18JXghN) | 4:01 | 2024-12-16 |  |
 | [Christmas Tree](https://open.spotify.com/track/3dyGfmBId7vsXBpmGBTRln) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Christmas Tree](https://open.spotify.com/album/26wiQL7jbokOTV5ddprDYb) | 3:43 | 2021-12-16 | 2022-07-29 |
 | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/track/3agFbERmZM62th15YW4Iru) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx) | 3:34 | 2022-12-02 | 2024-08-22 |
 | [Christmas Was Here](https://open.spotify.com/track/3xDwxCqTo98ds7AEh71igL) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here](https://open.spotify.com/album/6IC8OkHtDhj3I5s9PpwwHE) | 3:38 | 2021-12-16 | 2022-07-29 |
@@ -318,7 +319,7 @@
 | [This Christmas](https://open.spotify.com/track/6u0tR14iJ6OS3NyeRhcG2M) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:32 | 2021-12-16 |  |
 | [This Christmas](https://open.spotify.com/track/2JYmQXH4uKDonYvITIGjvl) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/7L9zj3IrPXIIj5OZA77TZx) | 3:26 | 2021-12-16 |  |
 | [This Christmas](https://open.spotify.com/track/641ODRLX1Mq1cOB9P0cBcz) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [This Christmas](https://open.spotify.com/album/6LwBtWz865RO1FsEt7ZJhV) | 3:26 | 2021-12-16 | 2024-04-19 |
-| [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 | 2021-12-16 |  |
+| [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 | 2021-12-16 | 2024-12-17 |
 | [Up on the House Top](https://open.spotify.com/track/5p3UXnTGlYfXVZZxydTDBE) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:16 | 2022-11-11 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/2WBfmxOXnDxcm7sZOE5dSE) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [What Christmas Means to Me](https://open.spotify.com/album/1wqKDHvJ8JkfRcCETLPw4c) | 2:36 | 2021-12-16 |  |
 | [What Does Christmas Mean \(feat\. The Shindellas\)](https://open.spotify.com/track/5zbEjhZhGcxXXUPePYdwXQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [The Shindellas](https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ) | [What Does Christmas Mean \(feat\. The Shindellas\)](https://open.spotify.com/album/3PIwQpIPs4FziyUcmsT9ZW) | 3:58 | 2021-12-16 | 2022-11-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,892 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,970 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 34 | [Bet Mi Money](https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Bet Mi Money \- Single](https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG) | 2:49 |
 | 35 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 36 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
-| 37 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
-| 38 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
+| 37 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
+| 38 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
 | 39 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 |
 | 40 | [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 |
 | 41 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 70 | [No Rampin \(feat\. Moelogo & Nadia Rose\)](https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:36 |
 | 71 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 |
 | 72 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
-| 73 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
-| 74 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 73 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 74 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
 | 75 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 |
 
 Snapshot ID: `ZrsgegAAAABOewh/sdT74A2wyU9kWGSE`

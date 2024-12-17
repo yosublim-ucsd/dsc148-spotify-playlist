@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > Así como lo pedí, así se me concedió\. Y se dio este amor tan bonito 💖✨🥰  Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,594 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,700 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

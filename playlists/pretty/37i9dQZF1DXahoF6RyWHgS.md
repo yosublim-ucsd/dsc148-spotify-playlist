@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,011 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,017 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 36 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 |
 | 37 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
 | 38 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
-| 39 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
-| 40 | [Michoacan](https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Court the Storm](https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr) | 2:56 |
+| 39 | [Michoacan](https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Court the Storm](https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr) | 2:56 |
+| 40 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
 | 41 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
 | 42 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
 | 43 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 60 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
 | 61 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
 | 62 | [Mambo Los Quantic](https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:43 |
-| 63 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
-| 64 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
-| 65 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
+| 63 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
+| 64 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
+| 65 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
 | 66 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Koop](https://open.spotify.com/artist/14NPkkAvH5KHqZhqFpuJEg) | [Luaka Bop Remix](https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT) | 2:46 |
 | 67 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
 | 68 | [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 |

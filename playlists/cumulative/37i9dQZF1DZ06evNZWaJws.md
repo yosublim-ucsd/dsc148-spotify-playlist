@@ -4,7 +4,7 @@
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 27 min
+67 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El MZ](https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 3:17 | 2024-01-29 | 2024-08-15 |
 | [El Papa de Los Pollitos](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Papá De Los Pollitos](https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG) | 3:19 | 2024-01-29 |  |
 | [El Pesado](https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 2:53 | 2024-01-29 |  |
-| [El Primo](https://open.spotify.com/track/3uJIy68hnOiwCsAiXIYPfI) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:06 | 2024-11-23 |  |
+| [El Primo](https://open.spotify.com/track/3uJIy68hnOiwCsAiXIYPfI) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:06 | 2024-11-23 | 2024-12-17 |
 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 | 2024-01-29 |  |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2024-01-29 |  |
 | [El Águila Blanca](https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Águila Blanca](https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso) | 2:15 | 2024-06-22 |  |
@@ -53,6 +53,7 @@
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2024-01-29 |  |
 | [La Troca](https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 3:19 | 2024-01-29 | 2024-03-01 |
 | [Las Heladas](https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:44 | 2024-01-29 |  |
+| [Las Heladas \(En Vivo\)](https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 2:46 | 2024-12-17 |  |
 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 | 2024-11-22 |  |
 | [Los Mas Buscados](https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Los Mas Buscados](https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh) | 2:54 | 2024-04-26 |  |
 | [Me Gusta Vivir De Noche](https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 3:35 | 2024-01-29 |  |

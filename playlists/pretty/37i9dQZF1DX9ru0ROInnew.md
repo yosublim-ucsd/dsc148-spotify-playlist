@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,274 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,339 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 39 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
 | 40 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 | 41 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
-| 42 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
-| 43 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
+| 42 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
+| 43 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
 | 44 | [Balenciaga](https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Balenciaga](https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj) | 3:43 |
 | 45 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
 | 46 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |

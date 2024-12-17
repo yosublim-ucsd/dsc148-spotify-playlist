@@ -1,6 +1,6 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Fontaines D.C.",
-  "num_followers": 7414,
+  "num_followers": 7454,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
+      "added_at": "2024-06-01 16:35:15",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
+    },
+    {
       "added_at": "2024-03-11 23:40:41",
       "album": {
         "name": "Bleachers",
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "PRATTS & PAIN",
         "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
       },
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
     },
     {
-      "added_at": "2024-06-01 16:35:15",
+      "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 266026,
-      "name": "Mary Boone",
-      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX"
     },
     {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
+    },
+    {
       "added_at": "2024-06-01 16:35:15",
       "album": {
         "name": "Boom Boom Back",
@@ -1115,22 +1131,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2024-03-11 23:40:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,631 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,640 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 52 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 | 53 | [Biggest Part of Me \- Remastered Version](https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Soul Hooligan](https://open.spotify.com/artist/6RnKffhIqgv8JC9Q1gNfRV) | [The Essentials: Ambrosia](https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW) | 5:26 |
 | 54 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
-| 55 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 |
-| 56 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
+| 55 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
+| 56 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 |
 | 57 | [Float On](https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 4:10 |
 | 58 | [Summer Breeze](https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Givin' It Up](https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T) | 5:01 |
 | 59 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 84 | [Oceans Of Emotions](https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt) | 3:53 |
 | 85 | [Say That You Will](https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Essential George Duke](https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L) | 3:05 |
 | 86 | [So Close](https://open.spotify.com/track/7c51mPqkeaO44KJjVuBG5J) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 4:53 |
-| 87 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
-| 88 | [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 |
+| 87 | [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 |
+| 88 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
 | 89 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
 | 90 | [It's Something](https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:31 |
 | 91 | [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 |

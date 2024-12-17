@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,020 songs - 4 day 12 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,021 songs - 4 day 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2028,5 +2028,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2018 | [Ni un Ki Ki](https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Ni un Ki Ki](https://open.spotify.com/album/1EqiiTULbIdDFSnTk8QWxS) | 1:45 |
 | 2019 | [LOKERA](https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 | 2020 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
+| 2021 | [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 |
 
-Snapshot ID: `AAADm3SSsmlb54kZ0NfjT9EoHUE3DGcw`
+Snapshot ID: `AAADnJRBH09g5XAR1NcNFC+aCypNsj6n`

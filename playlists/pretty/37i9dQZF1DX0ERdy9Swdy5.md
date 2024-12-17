@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,716 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,867 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 9 | [Si Supieras](https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Exitos Originales](https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy) | 5:10 |
 | 10 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 11 | [Apiádate de Mi](https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:04 |
-| 12 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
-| 13 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
+| 12 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
+| 13 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
 | 14 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
 | 15 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
 | 16 | [Siempre Seré](https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:24 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 68 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
 | 69 | [Necesito Amarte](https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 4:53 |
 | 70 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
-| 71 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
-| 72 | [Inolvidable](https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:35 |
+| 71 | [Inolvidable](https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:35 |
+| 72 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
 | 73 | [Dile a Ella](https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:05 |
 | 74 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 |
 | 75 | [Magdalena, Mi Amor \(Quimbara\)](https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:17 |

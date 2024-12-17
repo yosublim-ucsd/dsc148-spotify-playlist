@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Shaboozey
+> The biggest hits in country music\. Cover: Luke Bryan, Quavo & Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,188 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,192 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 67 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
 | 68 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |
 | 69 | [Coming Home](https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Coming Home](https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV) | 2:50 |
-| 70 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
-| 71 | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 |
-| 72 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
-| 73 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 |
-| 74 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 |
-| 75 | [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 |
+| 70 | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 |
+| 71 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
+| 72 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 |
+| 73 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 |
+| 74 | [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 |
 
-Snapshot ID: `Z1u/VAAAAACrMu9fTJST0OksbtY6LqlF`
+Snapshot ID: `Z2CLqQAAAACgvDAmgE0J026jF8YCO8I0`

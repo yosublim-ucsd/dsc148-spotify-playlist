@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH0qFBSJB2nQ4L2p/+thHVsv0+cgap",
+  "snapshot_id": "AAAH08qYLyDFEIsn2AAd1hgg1aQMAfkv",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1969,34 +1969,6 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
-      "added_at": "2024-07-19 00:44:03",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/4tVWABZzAWQq1ry9ikOmZs"
-      },
-      "artists": [
-        {
-          "name": "Salasnich",
-          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
-        },
-        {
-          "name": "Mike More",
-          "url": "https://open.spotify.com/artist/0LFar64SzPGHxxR8ivxhvQ"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4NSlW2vJpgSxHZ8vh50pK1"
-    },
-    {
       "added_at": "2024-11-20 00:41:04",
       "album": {
         "name": "All My Friends (Eden Prince Remix)",
@@ -2079,6 +2051,26 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2024-12-17 00:41:04",
+      "album": {
+        "name": "To Die For (Madism Remix)",
+        "url": "https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "To Die For - Madism Remix",
+      "url": "https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v"
     }
   ],
   "unique_name": "EDM Top 100",

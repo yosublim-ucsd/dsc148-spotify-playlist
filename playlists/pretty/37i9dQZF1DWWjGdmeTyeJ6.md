@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Jackie Hollander, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,717 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,656 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 199 | [hello !](https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [hello !](https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ) | 2:50 |
 | 200 | [SUPERSONICS](https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [SUPERSONICS](https://open.spotify.com/album/6hktKa9Ru7GRaF6XIKRsa0) | 2:32 |
 
-Snapshot ID: `Z1u/WQAAAABCYk9A+ed1hoMbrG4nc4x6`
+Snapshot ID: `Z2BtqwAAAACprNYyPRTm12TsCTazQlzd`

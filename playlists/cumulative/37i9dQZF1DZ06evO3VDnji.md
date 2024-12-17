@@ -4,7 +4,7 @@
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 30 min
+61 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ATRAPADO](https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:03 | 2024-08-08 |  |
 | [Belico Enamorado](https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo) | 3:08 | 2024-10-09 |  |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-08-08 | 2024-10-04 |
+| [Chilling](https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [De Moda](https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz) | 2:04 | 2024-12-17 |  |
 | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 | 2024-08-31 |  |
 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 | 2024-08-08 | 2024-08-31 |
 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 | 2024-08-08 |  |
@@ -53,7 +54,7 @@
 | [Nuestro Pasado](https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:31 | 2024-08-08 |  |
 | [para ti <3](https://open.spotify.com/track/1QHOFeU2Vqa25RtwmcVFML) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:52 | 2024-08-08 | 2024-10-04 |
 | [Perdón](https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:57 | 2024-08-08 |  |
-| [Respuestas](https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 4:19 | 2024-08-13 |  |
+| [Respuestas](https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 4:19 | 2024-08-13 | 2024-12-17 |
 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 | 2024-08-08 | 2024-09-30 |
 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 | 2024-08-08 |  |
 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 | 2024-11-29 |  |

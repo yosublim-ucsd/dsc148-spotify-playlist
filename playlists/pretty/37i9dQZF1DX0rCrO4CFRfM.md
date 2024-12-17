@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,049 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,251 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 22 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
 | 23 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 24 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
-| 25 | [Decode \- Acoustic Version](https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2) | 4:27 |
-| 26 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
+| 25 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
+| 26 | [Decode \- Acoustic Version](https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2) | 4:27 |
 | 27 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:50 |
 | 28 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 29 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 43 | [Many of Horror \- MTV Unplugged Live; Edit](https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror \(MTV Unplugged Live; Edit\)](https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu) | 4:14 |
 | 44 | [Disarm \- Acoustic](https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:18 |
 | 45 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
-| 46 | [Broken Heart of Gold \- Acoustic](https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold \(Acoustic\)](https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW) | 3:39 |
-| 47 | [mother tongue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:37 |
+| 46 | [mother tongue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:37 |
+| 47 | [Broken Heart of Gold \- Acoustic](https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold \(Acoustic\)](https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW) | 3:39 |
 | 48 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 | 49 | [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 |
 | 50 | [fleabag \- acoustic](https://open.spotify.com/track/7GOXymmseLpEUAveeA03hK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag \(acoustic\)](https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf) | 3:09 |

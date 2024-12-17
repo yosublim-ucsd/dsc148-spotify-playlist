@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,664 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,705 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 58 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
 | 59 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 |
 | 60 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 |
-| 61 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
-| 62 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
+| 61 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
+| 62 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
 | 63 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
 | 64 | [Sinmigo](https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw) | [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 3:37 |
 | 65 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 73 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 74 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
 | 75 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
-| 76 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 |
-| 77 | [Verde Selva](https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Vida Plena](https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk) | 3:44 |
+| 76 | [Verde Selva](https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Vida Plena](https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk) | 3:44 |
+| 77 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 |
 | 78 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
 | 79 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
 | 80 | [Contigo en la Distancia](https://open.spotify.com/track/7820J99MJU42DADC6DsMfh) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 2:37 |

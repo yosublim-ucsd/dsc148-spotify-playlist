@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "MILLE CONCERTI",
+        "url": "https://open.spotify.com/album/4cvqZIvVNFxEnyKsfByfmu"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "MILLE CONCERTI",
+      "url": "https://open.spotify.com/track/376QKV218XBWMzHNCo8oDh"
+    },
+    {
+      "album": {
         "name": "Mille Notti",
         "url": "https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd"
       },

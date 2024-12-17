@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marracash, thasup, Tony Effe, Artie 5ive e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,808 likes - 89 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,814 likes - 89 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,659 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,652 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 61 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
 | 62 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 63 | [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 |
-| 64 | [Horseback](https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 3:32 |
+| 64 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
 | 66 | [Damn Good Friends \(feat\. Cleto Cordero\)](https://open.spotify.com/track/4zTTPZ75hYzYpiPXnlEbnb) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [Cleto Cordero](https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3) | [Damn Good Friends](https://open.spotify.com/album/0q06gvA8Vgy2yjCg3SHdOI) | 3:48 |
-| 67 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 |
+| 67 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 68 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
-| 69 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
-| 70 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 69 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 70 | [Horseback](https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 3:32 |
 | 71 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
 | 72 | [Wild Is Her Favorite Color](https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Wild Is Her Favorite Color](https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT) | 4:06 |
-| 73 | [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 |
+| 73 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
-| 75 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 75 | [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 |
 | 76 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |

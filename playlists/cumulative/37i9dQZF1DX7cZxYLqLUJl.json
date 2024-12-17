@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Rigoletto",
+        "url": "https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166691,
+      "name": "Rigoletto",
+      "url": "https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT"
+    },
+    {
+      "album": {
         "name": "Rouen Les Essarts",
         "url": "https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf"
       },

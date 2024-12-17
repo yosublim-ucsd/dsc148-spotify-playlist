@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,504 likes - 111 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,526 likes - 111 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 71 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
 | 72 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 |
 | 73 | [Live Once](https://open.spotify.com/track/0pq16z3LHaEN95gpDYjlar) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [Live Once](https://open.spotify.com/album/6lLYty7XXkyl744PhBxnwd) | 2:24 |
-| 74 | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/track/3vaaMtvzUkeEuHB1IV4Vr5) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW), [Luca Noise](https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/album/4UIzoYad12k8WDUi80bnJG) | 3:44 |
+| 74 | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/track/3vaaMtvzUkeEuHB1IV4Vr5) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0), [Luca Noise](https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA) | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/album/4UIzoYad12k8WDUi80bnJG) | 3:44 |
 | 75 | [Unsichtbar](https://open.spotify.com/track/1g489klCJjxdRuI1UPw9q3) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Unsichtbar](https://open.spotify.com/album/1qEOluvh9AGYtwAWrk9KVm) | 2:53 |
 | 76 | [Insane](https://open.spotify.com/track/0mIhvJQw8y4rwuhOxz3RXt) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Studio Bonaparte](https://open.spotify.com/artist/3HSuzK6pXDR71ihXANrRMJ) | [The Wagner Brothers \(Original Soundtrack\)](https://open.spotify.com/album/4XW4sdAiVdBQKCDFl8mvXJ) | 3:27 |
 | 77 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |

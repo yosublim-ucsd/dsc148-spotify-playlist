@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-614 songs - 1 day 7 hr 12 min
+616 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Again](https://open.spotify.com/track/03spblZRU0wLTdHZdOIDBS) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Alone](https://open.spotify.com/album/6bVPunxwagrG4rxYpRUVCT) | 2:45 | 2024-05-10 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2021-12-07 | 2023-01-06 |
 | [Alice In Wonderland](https://open.spotify.com/track/4UJzmVIGyu3k4exTbjk5Yd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Alice In Wonderland](https://open.spotify.com/album/16Jiob3eM4vh7LSbXxyJoZ) | 4:58 | 2022-09-29 | 2022-12-02 |
-| [All Night](https://open.spotify.com/track/04OpLaQ1VBNAxdRZu43uWr) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [All Night](https://open.spotify.com/album/28SuWLMqEdXI3GWrUoFA5R) | 2:58 | 2023-08-10 |  |
+| [All Night](https://open.spotify.com/track/04OpLaQ1VBNAxdRZu43uWr) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [All Night](https://open.spotify.com/album/28SuWLMqEdXI3GWrUoFA5R) | 2:58 | 2023-08-10 | 2024-12-17 |
 | [All The Things You Are](https://open.spotify.com/track/2VsKgS4OlZ7DvfRUqDGFhg) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 2:28 | 2021-12-07 | 2022-01-14 |
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2021-12-07 | 2022-10-07 |
 | [All The Things You Are](https://open.spotify.com/track/0bAtkqBlQwiqGGJ9AwQ6bH) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [All The Things You Are](https://open.spotify.com/album/0REx5Z6ns83cNF762mDcFw) | 3:25 | 2021-12-07 | 2023-01-06 |
@@ -216,6 +216,7 @@
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-01-05 | 2024-10-09 |
 | [He’s a good kid](https://open.spotify.com/track/2tSSroZLU5ikFBZW83EC69) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [He’s a good kid](https://open.spotify.com/album/21jLquIJrmwqfcmke7ddWc) | 2:26 | 2023-04-13 |  |
 | [Home](https://open.spotify.com/track/7AdMqlP74528OF0WbsmxtV) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Home](https://open.spotify.com/album/2w0p5a6Rp09dl2cT97StKZ) | 2:02 | 2024-11-18 |  |
+| [Home for the Holidays](https://open.spotify.com/track/6pqL4DtLvzwleYwtyROl0g) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Home for the Holidays](https://open.spotify.com/album/7DHFFePclBTwB9sOOunvHK) | 2:44 | 2024-12-16 |  |
 | [How High The Moon](https://open.spotify.com/track/1COenIO3ak9ffIDzwvO1Ts) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [How High The Moon](https://open.spotify.com/album/4M2l2FXPwA6nqPWhS3JMW8) | 2:46 | 2023-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-21 |  |
 | [Hoy Como Ayer?](https://open.spotify.com/track/4zY1POF6FgffXRCQu4orYH) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Hoy Como Ayer?](https://open.spotify.com/album/20aD9JR438fFl7GfcVW2Wk) | 2:48 | 2023-08-24 |  |
@@ -502,6 +503,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Stella By Starlight](https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM) | 1:55 | 2022-09-06 | 2023-08-19 |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2021-12-07 |  |
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
+| [Still you are](https://open.spotify.com/track/0OPZaMwlqEhekiWzLinukT) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Still you are](https://open.spotify.com/album/1EclKYIjKbEMlRS2NMiy92) | 2:51 | 2024-12-16 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2021-12-07 | 2024-08-07 |
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-05-25 | 2024-05-11 |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
@@ -529,7 +531,7 @@
 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 | 2021-12-07 |  |
 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-04 |  |
 | [The Hills](https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [The Hills](https://open.spotify.com/album/2EpNaRXAmNdUmG3I40dJXv) | 2:48 | 2024-01-05 |  |
-| [The Isle of Aye](https://open.spotify.com/track/0wfCH7YhtRZl0EAfo63y74) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [The Isle of Aye](https://open.spotify.com/album/5qIgH2QDeeN1nCJL3PF4XG) | 2:31 | 2024-11-05 |  |
+| [The Isle of Aye](https://open.spotify.com/track/0wfCH7YhtRZl0EAfo63y74) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [The Isle of Aye](https://open.spotify.com/album/5qIgH2QDeeN1nCJL3PF4XG) | 2:31 | 2024-11-05 | 2024-12-17 |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2023-06-01 |  |
 | [The Last Show](https://open.spotify.com/track/6qqU4X4ylPPSvGr4z38bh5) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [The Last Show](https://open.spotify.com/album/6wJ6UaPgnEwASjFenTThhL) | 3:08 | 2024-05-10 |  |
 | [The Memories We Have](https://open.spotify.com/track/1pDs64abTrzh2xOZ5PcpA1) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [The Memories We Have](https://open.spotify.com/album/73vXfkDbtL5ce56LjZtK4z) | 2:52 | 2024-11-12 |  |

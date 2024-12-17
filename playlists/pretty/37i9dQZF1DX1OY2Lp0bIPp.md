@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,094 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,126 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 49 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 50 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 |
 | 51 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
-| 52 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
-| 53 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 |
+| 52 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 |
+| 53 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
 | 54 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
 | 55 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 |
 | 56 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |

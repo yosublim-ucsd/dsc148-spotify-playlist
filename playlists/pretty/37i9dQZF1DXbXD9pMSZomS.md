@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,776 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,881 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 40 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 41 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 42 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
-| 43 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 44 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
-| 45 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 |
+| 43 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
+| 44 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 |
+| 45 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 46 | [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 |
 | 47 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
 | 48 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |

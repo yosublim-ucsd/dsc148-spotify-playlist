@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABAURiprzIus6ZMrPUPT4cc",
+  "snapshot_id": "Z14cAAAAAACYDxQQIJ5hWrCatXb0lGv7",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no excuses.",
-        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TwoTiime",
-          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "no excuses.",
-      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG MON",
         "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 162519,
       "name": "SOLO [Hype Hop Edit]",
       "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no excuses.",
+        "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "TwoTiime",
+          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "no excuses.",
+      "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "lonely.",
-        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Swagger Rite",
-          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
-        }
-      ],
-      "duration_ms": 176751,
-      "name": "lonely.",
-      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MIX IT UP",
         "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 147153,
       "name": "MIX IT UP",
       "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lonely.",
+        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "duration_ms": 176751,
+      "name": "lonely.",
+      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EASTERISLAND",
-        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "EASTERISLAND",
-      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snakes",
         "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 221993,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EASTERISLAND",
+        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "EASTERISLAND",
+      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
     },
     {
       "added_at": null,

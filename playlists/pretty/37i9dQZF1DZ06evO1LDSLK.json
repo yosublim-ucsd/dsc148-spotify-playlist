@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70614,
+  "num_followers": 70618,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAC202xomGveqmSixP2Yh8w8",
+  "snapshot_id": "Z14cAAAAAAA6BfJdsyzZpfP00H2gfTRt",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "Gardenia",
+      "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clair Obscur",
         "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 245866,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Gardenia",
-      "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Preliminaires",
         "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 332253,
       "name": "Awful Dream feat. Iggy Pop",
       "url": "https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
       "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 269461,
-      "name": "The Pure and the Damned",
-      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+      "duration_ms": 234561,
+      "name": "Break Into Your Heart",
+      "url": "https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf"
     },
     {
       "added_at": null,
@@ -835,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 234561,
-      "name": "Break Into Your Heart",
-      "url": "https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 170280,
       "name": "Private Hell",
       "url": "https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269461,
+      "name": "The Pure and the Damned",
+      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 205721,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1ISckPYj9zSrjGv3oES9iw"
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
     }
   ],
   "unique_name": "This Is Iggy Pop",

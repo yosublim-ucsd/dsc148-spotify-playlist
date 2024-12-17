@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,090 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,128 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 22 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 |
 | 23 | [Expensive Shit](https://open.spotify.com/track/5FvggTB5kixLoOHtKIUFkg) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 13:12 |
 | 24 | [Moonlight Highlife](https://open.spotify.com/track/0VbMP1oje4fglCoKDk99GT) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [The Evil Genius Of Highlife Vol\. 2](https://open.spotify.com/album/3ODHfdhSsx7SqI1RCHFtUy) | 3:13 |
-| 25 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
-| 26 | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/track/73dfWEkovyhhWPraPvrhMG) | [Chief Stephen Osita Osadebe](https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn) | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/album/562j7cCufCWIFbsHB0TLST) | 15:15 |
+| 25 | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/track/73dfWEkovyhhWPraPvrhMG) | [Chief Stephen Osita Osadebe](https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn) | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/album/562j7cCufCWIFbsHB0TLST) | 15:15 |
+| 26 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 27 | [One Inna Million](https://open.spotify.com/track/7w7bSbZvdECMaolAIXLl3Y) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [There Is No End](https://open.spotify.com/album/4BK64Duprygx9JNpXv9dmH) | 3:20 |
 | 28 | [Kirikisi](https://open.spotify.com/track/4c0yGgAUGdtsIY0FlGk8XF) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Legend Reborn, Vol\. 2](https://open.spotify.com/album/7CoB4yPBc8n28rbw1THzEh) | 4:19 |
 | 29 | [Ja Funmi](https://open.spotify.com/track/4LidH8Kgu792vuq5avk2aL) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Ju Ju Music](https://open.spotify.com/album/73Sm0AObUMEtnCu53o6QfX) | 7:08 |

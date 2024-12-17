@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,226 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,233 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 32 | [ГИМН КАЧКОВ](https://open.spotify.com/track/51Zul6dGuY47cYw0OL4kIN) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/5s4ikQzMKUG8PK0hAEIaNf) | 2:21 |
 | 33 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 |
 | 34 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 |
-| 35 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
+| 35 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 36 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 |
 | 37 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 |
 | 38 | [\(не\) уходи](https://open.spotify.com/track/1jvbTfTwq3BCz0MPJA0eCo) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [\(не\) уходи](https://open.spotify.com/album/04tJjsJlFlNz9jvga2UcWS) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 |
 | 50 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
 
-Snapshot ID: `LvJIeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

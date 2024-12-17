@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,815 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,849 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 31 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 32 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
 | 33 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
-| 34 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
-| 35 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
+| 34 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
+| 35 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
 | 36 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
 | 37 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
 | 38 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 44 | [Y'know](https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE) | [Hoity\-Toity](https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp) | [Not Your Kind](https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh) | 4:34 |
 | 45 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 46 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
-| 47 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 |
-| 48 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
+| 47 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
+| 48 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 |
 | 49 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 |
 | 50 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
-| 51 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |
+| 51 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 | 52 | [Girls With Glasses](https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Girls With Glasses](https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY) | 2:09 |
-| 53 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
+| 53 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |
 | 54 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 | 55 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
 | 56 | [Colors](https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z) | [The Groans](https://open.spotify.com/artist/4jhD0dxLgux1cB7BN16PlT) | [Earth Dweller](https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63) | 3:49 |

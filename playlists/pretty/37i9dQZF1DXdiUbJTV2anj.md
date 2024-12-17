@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: CANDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,465 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,501 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

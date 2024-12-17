@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with L.S. Dunes (pictured), Superheaven, Footballhead, Flycatcher and more.",
+  "description": "The shape of noise to come with Teenage Wrist (pictured), Superheaven, Footballhead, Flycatcher and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225012,
+      "name": "Cold Case - Kurt Ballou Mix",
+      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
+    },
+    {
+      "album": {
         "name": "Cold Sweats",
         "url": "https://open.spotify.com/album/3qaP9Ek4EgIhr12uMi36TN"
       },
@@ -3966,6 +3984,24 @@
       "duration_ms": 200696,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2"
+    },
+    {
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/2G1ihrwJMHa3m6jNj8rWkc"
+      },
+      "artists": [
+        {
+          "name": "Love As Always",
+          "url": "https://open.spotify.com/artist/5W2qYw2mJRmrahG94eSZVp"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210417,
+      "name": "Easy Life",
+      "url": "https://open.spotify.com/track/7kQmNtk8PfmjquOzfu8j6r"
     },
     {
       "album": {
@@ -9118,7 +9154,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 194673,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7"
@@ -9806,6 +9842,24 @@
       "duration_ms": 188280,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6NoiFpWHAxvbrazTOq2ndD"
+      },
+      "artists": [
+        {
+          "name": "Head Cloud",
+          "url": "https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286500,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/790xizyegqSM8C5eGDR0ob"
     },
     {
       "album": {
@@ -12242,7 +12296,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 207168,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E"

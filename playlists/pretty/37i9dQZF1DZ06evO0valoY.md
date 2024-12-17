@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,914 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,933 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 17 | [Te Encontré](https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Te Encontré](https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX) | 3:17 |
 | 18 | [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 |
 | 19 | [Amarte a la Antigua](https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amarte a la Antigua](https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd) | 3:38 |
-| 20 | [Ando Más Que Mal](https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 5:07 |
-| 21 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 |
-| 22 | [NO VOY A ODIARTE](https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:46 |
-| 23 | [Catorce de Febrero](https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:35 |
-| 24 | [QUE DIABLOS HICE \(INTERLUDE\)](https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 1:47 |
+| 20 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 |
+| 21 | [Ando Más Que Mal](https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 5:07 |
+| 22 | [Catorce de Febrero](https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:35 |
+| 23 | [QUE DIABLOS HICE \(INTERLUDE\)](https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 1:47 |
+| 24 | [NO VOY A ODIARTE](https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:46 |
 | 25 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 |
-| 26 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
-| 27 | [Me Prendes](https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:37 |
+| 26 | [Me Prendes](https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:37 |
+| 27 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
 | 28 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 |
 | 29 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 |
 | 30 | [La Fresa](https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 49 | [Amarte Asi](https://open.spotify.com/track/58fymvrXAJyjttILYWy5G9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 4:40 |
 | 50 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
 
-Snapshot ID: `Z1zKgAAAAABw8hmdwG6ixmGbRjTfn/wB`
+Snapshot ID: `Z14cAAAAAABLcfikURofMuSCr3kxeALH`

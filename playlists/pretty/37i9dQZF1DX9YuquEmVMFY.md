@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > GUMMY Tour Concert 2024 〈LOVE〉 2024년 12월 14\~28일 \(목\) @서울, 대구, 부산, 성남
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,018 likes - 21 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,023 likes - 21 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

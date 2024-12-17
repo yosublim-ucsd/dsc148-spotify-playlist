@@ -1739,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155606,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
+    {
+      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 165947,
       "name": "Monster - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"

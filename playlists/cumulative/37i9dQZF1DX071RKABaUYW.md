@@ -4,7 +4,7 @@
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Annie\-Dog
 
-145 songs - 8 hr 2 min
+146 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Crashing](https://open.spotify.com/track/0fGnrMbEPMxfw8ih2kkeSF) | [Nukuluk](https://open.spotify.com/artist/1Et8hq133uIvzPHLhi6tCL) | [Crashing](https://open.spotify.com/album/7obR4iQNp0geAVvhkg1dyq) | 3:08 | 2024-11-29 |  |
 | [Crush2](https://open.spotify.com/track/75flZZyvLNjvm8Ir3phzRJ) | [Jazzi Bobbi](https://open.spotify.com/artist/3mfwiDvcQyWfoy2dCnwcwi) | [Crush2](https://open.spotify.com/album/6UtfZsgvpLPEdZabh2j3CW) | 2:55 | 2024-08-22 |  |
 | [Ctrl Alt Del](https://open.spotify.com/track/6K9ZAne4Z3yoyM2dGzXXPx) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Ctrl Alt Del](https://open.spotify.com/album/523CTvFbs9IixEwises6yK) | 5:18 | 2024-08-29 | 2024-11-29 |
+| [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-16 |  |
 | [Daylight Song](https://open.spotify.com/track/45DLA7sPqqGHG9NN3UPbRI) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Daylight Song](https://open.spotify.com/album/4gG8abNIluKFuWdWSKhSZb) | 3:07 | 2024-06-27 | 2024-10-11 |
 | [Deadstock](https://open.spotify.com/track/3iDlrRScT2KWbqbeuSAd0c) | [Mëi](https://open.spotify.com/artist/7ykgQNr8HTKLrEQkf3U7oi) | [Deadstock](https://open.spotify.com/album/1wxET02CcRqpcv9J5WF9ml) | 2:51 | 2024-08-22 | 2024-11-29 |
 | [devils](https://open.spotify.com/track/2CjTQ2Nn30GEoqHkWOYBFh) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [CRASH](https://open.spotify.com/album/4u4mLQ5FDOc77xCvFtCNXk) | 3:01 | 2024-07-12 |  |
@@ -63,7 +64,7 @@
 | [Fallen Tree](https://open.spotify.com/track/4zJATlQwsas32VCPwVeOKs) | [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Fallen Tree](https://open.spotify.com/album/3hsEyJ2W1c0RPxpkweiifN) | 3:30 | 2024-11-29 |  |
 | [Farewell](https://open.spotify.com/track/22MM8URvFGITOqIKkpQ7oK) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Farewell](https://open.spotify.com/album/5vGubpA5uLVZZpdvh7W90E) | 3:25 | 2024-10-10 |  |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-27 | 2024-08-23 |
-| [for frank forever](https://open.spotify.com/track/1wZuowFZLyCntcmK9x2R7f) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3c9aCVlawpqzWAKgkEN7P6) | 3:49 | 2024-11-29 |  |
+| [for frank forever](https://open.spotify.com/track/1wZuowFZLyCntcmK9x2R7f) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3c9aCVlawpqzWAKgkEN7P6) | 3:49 | 2024-11-29 | 2024-12-17 |
 | [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-04 |  |
 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 | 2024-06-27 |  |
 | [Go](https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Go](https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ) | 2:49 | 2024-06-27 |  |

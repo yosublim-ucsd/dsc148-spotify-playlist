@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 170832,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/5s3yi51O9Sj4VcMsRI2tUr"
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -9406,7 +9424,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6"
@@ -13938,7 +13956,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 191703,
       "name": "QUE ONDA",
       "url": "https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z"
@@ -15400,7 +15418,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -17522,7 +17540,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
@@ -18414,7 +18432,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 313951,
       "name": "Araw-Araw",
       "url": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 235470,
       "name": "Bighani",
       "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 233142,
       "name": "Di Bale",
       "url": "https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 242875,
       "name": "Hanap",
       "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 198000,
       "name": "Hiraya",
       "url": "https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 282666,
       "name": "Hopia",
       "url": "https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
@@ -2053,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151786,
+      "name": "Make It Up To You (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/10FtxzZh2p5sYwI3Lik5XM"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214"
       },
@@ -2592,7 +2614,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
@@ -2784,6 +2806,24 @@
       "duration_ms": 182590,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K"
+    },
+    {
+      "album": {
+        "name": "Sa 'Yo Pa Rin Uuwi",
+        "url": "https://open.spotify.com/album/05GMAbnmxdypLFhlnom1fd"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220413,
+      "name": "Sa 'Yo Pa Rin Uuwi",
+      "url": "https://open.spotify.com/track/1VwtA3bfxNEWjAlCSwXrA7"
     },
     {
       "album": {
@@ -3040,7 +3080,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 241565,
       "name": "Tangi",
       "url": "https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3"
@@ -3141,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Tumalon",
+        "url": "https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis"
+      },
+      "artists": [
+        {
+          "name": "Solace Out The Door",
+          "url": "https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218936,
+      "name": "Tumalon",
+      "url": "https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb"
+    },
+    {
+      "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
       },
@@ -3192,7 +3250,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
@@ -3228,7 +3286,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 169565,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"

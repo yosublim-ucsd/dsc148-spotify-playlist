@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,496 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,518 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 31 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 |
 | 32 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
 | 33 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
-| 34 | [At Long Last Love](https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 3:27 |
-| 35 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
+| 34 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
+| 35 | [At Long Last Love](https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 3:27 |
 | 36 | [I Love Paris](https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Latin Kick](https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2) | 5:53 |
 | 37 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 38 | [Experiment](https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:32 |

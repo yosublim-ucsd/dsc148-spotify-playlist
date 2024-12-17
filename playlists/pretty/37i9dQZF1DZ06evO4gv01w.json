@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 28986,
+  "num_followers": 28985,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACqrzxOwSa4qIhhaak+GQSE",
+  "snapshot_id": "Z14cAAAAAAApihcBgW0Jhh7TcBoOkKqw",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 193444,
       "name": "Bleach Blonde Bottle Blues",
       "url": "https://open.spotify.com/track/7dH8e4Eb8PMqDCTU20ZKRB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 111906,
-      "name": "Strangler Fig",
-      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
+      "duration_ms": 142640,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/6m9keSvNWf8XFzs5aTK1co"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 142640,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/6m9keSvNWf8XFzs5aTK1co"
+      "duration_ms": 111906,
+      "name": "Strangler Fig",
+      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 234866,
       "name": "Back Down South",
       "url": "https://open.spotify.com/track/4dIg5U5YxiSTdO2J5usw1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/2BGkIqllOR4ZfnzhdhUa5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 210040,
       "name": "Sucker Puncher",
       "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/2BGkIqllOR4ZfnzhdhUa5l"
     },
     {
       "added_at": null,
@@ -676,7 +676,7 @@
       "added_at": null,
       "album": {
         "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
     },
     {
       "added_at": null,
@@ -708,7 +708,7 @@
       "added_at": null,
       "album": {
         "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
         {
@@ -718,7 +718,7 @@
       ],
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
+      "url": "https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq"
     },
     {
       "added_at": null,
@@ -740,7 +740,7 @@
       "added_at": null,
       "album": {
         "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,

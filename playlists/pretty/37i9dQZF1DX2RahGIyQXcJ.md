@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of DHH\. Cover:  Talha Anjum
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,445 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,532 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 7 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 |
 | 8 | [REGRETS](https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS / PROMISES](https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw) | 4:02 |
 | 9 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
-| 10 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
+| 10 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
 | 11 | [Dear Who](https://open.spotify.com/track/6XnJomcOLlmWbjY07dQ6FB) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Parv Music](https://open.spotify.com/artist/350WWIB7gR7evrXTWmc1pj), [Rohith Pai Kasturi](https://open.spotify.com/artist/3Ji6vr5jQfh3mMoeVt1mFb), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [Dear Who](https://open.spotify.com/album/3lnPBdSlVs89zZCr89orZi) | 2:48 |
 | 12 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 13 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 |

@@ -8179,6 +8179,28 @@
     },
     {
       "album": {
+        "name": "Dale 2",
+        "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148850,
+      "name": "Dale 2",
+      "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
+    },
+    {
+      "album": {
         "name": "damn dirty dexhead",
         "url": "https://open.spotify.com/album/1NNhg8t7rWPtABrK2oBiEv"
       },

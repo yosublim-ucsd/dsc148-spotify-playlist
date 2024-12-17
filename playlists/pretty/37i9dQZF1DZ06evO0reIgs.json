@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81566,
+  "num_followers": 81570,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACeQ83KJoaEwaSFhZpqb9U9",
+  "snapshot_id": "Z14cAAAAAAAsog1oK7AZFXTp5sd8ZkY7",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Mundo da Lua / Abra\u00e7o",
-        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 338861,
-      "name": "No Mundo da Lua / Abra\u00e7o",
-      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diferent\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Mundo da Lua / Abra\u00e7o",
+        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 338861,
+      "name": "No Mundo da Lua / Abra\u00e7o",
+      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gado",
         "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oxig\u00eanio (Corona Disco)",
         "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 240000,
       "name": "Inverno",
       "url": "https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+      "duration_ms": 173989,
+      "name": "Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 173989,
-      "name": "Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,
@@ -1195,6 +1195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Subirusdoistiozin",
         "url": "https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 271658,
       "name": "Subirusdoistiozin",
       "url": "https://open.spotify.com/track/5F6VXrAcAC0fQ9G6D2S646"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "JEWO",
+        "url": "https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW"
+      },
+      "artists": [
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "JEWO",
+      "url": "https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
       },
@@ -717,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Nollypop",
+        "url": "https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129557,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7"
+    },
+    {
+      "album": {
         "name": "Love Life",
         "url": "https://open.spotify.com/album/1Dj0QoB1PtvVFtHH0pVFEJ"
       },
@@ -728,7 +764,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 145925,
       "name": "Love Life",
       "url": "https://open.spotify.com/track/5FD19z2xU2pnDFhP10JHHu"
@@ -786,6 +822,24 @@
       "duration_ms": 184329,
       "name": "Manyana",
       "url": "https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf"
+    },
+    {
+      "album": {
+        "name": "MEGA MONEY MEGA",
+        "url": "https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "MEGA MONEY MEGA",
+      "url": "https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ"
     },
     {
       "album": {
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 169631,
       "name": "SICK AND TIRED",
       "url": "https://open.spotify.com/track/2FDtc1HGTwPX3Wy5Mq3AMM"
@@ -1332,7 +1386,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 214560,
       "name": "To Kill a Single Girl (Tequila)",
       "url": "https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN"

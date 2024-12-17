@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33344,
+  "num_followers": 33342,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABpta45eJlLuUSlFZrfTx1x",
+  "snapshot_id": "Z14cAAAAAABAArenGmJ2VQP6aYuJrTGD",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Play Your Part (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Play Your Part (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
     },
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Swerv 2.0",
         "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
@@ -355,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2aU1tqCW4s0NM6xYSpm9Jx"
       },
       "artists": [
         {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+      "duration_ms": 163805,
+      "name": "Built Like a Soldier (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/09gIbtpXKZDU7G0WbFly25"
     },
     {
       "added_at": null,
@@ -391,26 +411,6 @@
       "duration_ms": 204750,
       "name": "Drench Gang (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/2aU1tqCW4s0NM6xYSpm9Jx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 163805,
-      "name": "Built Like a Soldier (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/09gIbtpXKZDU7G0WbFly25"
     },
     {
       "added_at": null,
@@ -956,17 +956,13 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Taurus",
-          "url": "https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9"
-        },
-        {
-          "name": "Wheezy",
-          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 177976,
-      "name": "Teflon",
-      "url": "https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM"
+      "duration_ms": 128824,
+      "name": "Lionhearted",
+      "url": "https://open.spotify.com/track/065WosymqyUiVRBmQNbLWd"
     },
     {
       "added_at": null,
@@ -995,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 182705,
-      "name": "Strike You",
-      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond Bulletproof",
         "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
@@ -1035,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 182705,
+      "name": "Strike You",
+      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strictly For My Fans 2.0",
         "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
       },
@@ -1044,13 +1040,17 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Taurus",
+          "url": "https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9"
+        },
+        {
+          "name": "Wheezy",
+          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
         }
       ],
-      "duration_ms": 128824,
-      "name": "Lionhearted",
-      "url": "https://open.spotify.com/track/065WosymqyUiVRBmQNbLWd"
+      "duration_ms": 177976,
+      "name": "Teflon",
+      "url": "https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM"
     }
   ],
   "unique_name": "This Is G Herbo",

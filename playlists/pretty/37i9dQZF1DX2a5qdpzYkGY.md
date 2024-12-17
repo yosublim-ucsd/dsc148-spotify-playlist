@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,496 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,499 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 42 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
 | 43 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 |
 | 44 | [Pulse Of Life](https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Modern Chamber Music](https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl) | 1:44 |
-| 45 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
-| 46 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
+| 45 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
+| 46 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
 | 47 | [Lenz Pianoday 2022](https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL) | [Jan Sturm](https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm), [STURM](https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL) | [Lenz Pianoday 2022](https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19) | 2:19 |
 | 48 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
 | 49 | [Sky Breaking, Clouds Falling](https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Kissing Rosy in the Rain](https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz) | 4:24 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 63 | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc) | 9:31 |
 | 64 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
 | 65 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
-| 66 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
-| 67 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
+| 66 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
+| 67 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
 | 68 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
 | 69 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
 | 70 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
 | 71 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
 | 72 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
 | 73 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
-| 74 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 |
-| 75 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 74 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 75 | [If You Could See Your Life In Reverse Pt.3](https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Redivider](https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi) | 1:07 |
 
 Snapshot ID: `Z05QugAAAADNMAd+zTlgblKkCooJYF8g`

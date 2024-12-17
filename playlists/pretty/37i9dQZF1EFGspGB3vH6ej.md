@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 249 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,126 likes - 249 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 36 | [Butterfly](https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:33 |
 | 37 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
 | 38 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 |
-| 39 | [Anytime You Need a Friend](https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:25 |
-| 40 | [Hark! The Herald Angels Sing / Gloria \(In Excelsis Deo\)](https://open.spotify.com/track/74VQqRHWXDUyErPqwdeG5D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:59 |
+| 39 | [Hark! The Herald Angels Sing / Gloria \(In Excelsis Deo\)](https://open.spotify.com/track/74VQqRHWXDUyErPqwdeG5D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:59 |
+| 40 | [Anytime You Need a Friend](https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:25 |
 | 41 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
 | 42 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 |
 | 43 | [GTFO](https://open.spotify.com/track/5GjXMhZsT6cdfRB7nurGu2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:27 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbkPcgAAAACBAVXRPRY69JyTbHjEP1R2`
+Snapshot ID: `AbkVCAAAAACnjZqE+oHcm5yZ/IQlKM70`

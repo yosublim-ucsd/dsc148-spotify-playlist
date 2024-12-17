@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,129 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,235 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 6 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 7 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 8 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
-| 9 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
+| 9 | [Outra Vida](https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Semente](https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw) | 3:14 |
 | 10 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
-| 11 | [Outra Vida](https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Semente](https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw) | 3:14 |
+| 11 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 12 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 13 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
 | 14 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |

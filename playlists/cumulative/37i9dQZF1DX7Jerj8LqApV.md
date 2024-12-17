@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-179 songs - 11 hr 44 min
+180 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 |  |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 |  |
 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 | 2023-10-18 | 2024-04-19 |
-| [Masyado Pang Maaga](https://open.spotify.com/track/0luyrm1L6gjtoLekHOf67t) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Masyado Pang Maaga](https://open.spotify.com/album/75Y2NZzYQyYpxusG8e0ZeM) | 5:06 | 2024-02-20 |  |
+| [Masyado Pang Maaga](https://open.spotify.com/track/0luyrm1L6gjtoLekHOf67t) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Masyado Pang Maaga](https://open.spotify.com/album/75Y2NZzYQyYpxusG8e0ZeM) | 5:06 | 2024-02-20 | 2024-12-17 |
 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 | 2024-02-07 | 2024-05-09 |
 | [Miles Away](https://open.spotify.com/track/7BuPLOGkN1MQG7UYt9NlLe) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Miles Away](https://open.spotify.com/album/7GSyL3dTzMhGtCSus3Z45W) | 5:11 | 2024-11-20 | 2024-11-30 |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-24 | 2024-11-07 |
@@ -117,6 +117,7 @@
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 |  |
 | [Nananaginip](https://open.spotify.com/track/5DX70OMOt1uV17YyCSWxUs) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nananaginip](https://open.spotify.com/album/7GPHsF3g1ISuCekfzxrMh6) | 4:37 | 2024-02-28 | 2024-04-04 |
 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 | 2024-07-24 | 2024-08-22 |
+| [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 | 2024-12-16 |  |
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 |  |
 | [Napaibig](https://open.spotify.com/track/28DCyWkWSCPjb8ep3IGq59) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Napaibig](https://open.spotify.com/album/6gHJZCG4Hx74KrUg5NT5kQ) | 3:24 | 2024-02-28 | 2024-04-04 |
 | [Never Close Enough](https://open.spotify.com/track/0GJNCSUYSDNyYJlbp6cLD8) | [Kristel Fulgar](https://open.spotify.com/artist/1260cBYXTbcaPim1WPOXFG) | [Never Close Enough](https://open.spotify.com/album/0rCGtPHkwr7Kvhoz0AIur2) | 4:15 | 2024-02-20 | 2024-04-04 |

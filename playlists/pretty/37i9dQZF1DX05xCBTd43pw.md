@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,854 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 15 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 |
 | 16 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 |
 | 17 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 |
-| 18 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 |
+| 18 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
 | 19 | [last dance](https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [last dance](https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX) | 3:07 |
-| 20 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
+| 20 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 |
 | 21 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 |
 | 22 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 |
 | 23 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 35 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
 | 36 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 |
 | 37 | [my religion](https://open.spotify.com/track/35NEKJnyj2waAPPSyCpgKC) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [my religion](https://open.spotify.com/album/2toUGxyi3JsWxsa2WzCzv1) | 2:18 |
-| 38 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 |
-| 39 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
+| 38 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
+| 39 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 |
 | 40 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 |
 | 41 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
 | 42 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 49 | [cause of death](https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [cause of death](https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs) | 2:28 |
 | 50 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
 | 51 | [No Good For Me](https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [No Good For Me](https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W) | 3:13 |
-| 52 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
-| 53 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 |
-| 54 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
-| 55 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 |
-| 56 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 |
+| 52 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 |
+| 53 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
+| 54 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 |
+| 55 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
+| 56 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 |
 | 57 | [Call Me in L.A.](https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Stories of the XXI](https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG) | 2:55 |
 | 58 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 59 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |

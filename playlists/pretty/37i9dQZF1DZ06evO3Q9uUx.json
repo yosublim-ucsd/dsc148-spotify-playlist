@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15056,
+  "num_followers": 15055,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAwuxIYRhLE/Nq/7tEGXe+B",
+  "snapshot_id": "Z14cAAAAAACmr5t536XYrM2qAVM5MwXN",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "It's You (feat. BIA)",
-      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
       },
@@ -451,26 +451,6 @@
       "duration_ms": 43200,
       "name": "Furious",
       "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "BIA BIA (feat. Lil Jon)",
-      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
     },
     {
       "added_at": null,
@@ -507,6 +487,26 @@
       "duration_ms": 234899,
       "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "BIA BIA (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freak Remix",
+        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Freak (Remix)",
+      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
         "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freak Remix",
-        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Freak (Remix)",
-      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
     },
     {
       "added_at": null,

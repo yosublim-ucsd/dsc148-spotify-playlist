@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,170 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,193 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 50 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
 | 51 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 
-Snapshot ID: `Z1zKgAAAAABf9XyTTfR0ZHWA5kAQMcI9`
+Snapshot ID: `Z14cAAAAAAD3cc5nxJDFmZgOrEKGyASF`

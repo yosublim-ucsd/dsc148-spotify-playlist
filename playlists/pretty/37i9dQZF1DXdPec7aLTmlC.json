@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6180208,
+  "num_followers": 6180308,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Meet The Vamps",
-        "url": "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 185097,
-      "name": "Somebody To You",
-      "url": "https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Meet The Vamps",
+        "url": "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
         }
       ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+      "duration_ms": 185097,
+      "name": "Somebody To You",
+      "url": "https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 181957,
       "name": "Whistle (feat. Calum Scott)",
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 170640,
       "name": "I Forgot That You Existed",
       "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 158899,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 158899,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+        "name": "Love Not War (The Tampa Beat)",
+        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Nuka",
+          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
         }
       ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+      "duration_ms": 192921,
+      "name": "Love Not War (The Tampa Beat)",
+      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
     }
   ],
   "unique_name": "Happy Hits!",

@@ -171,24 +171,6 @@
     },
     {
       "album": {
-        "name": "Table Manners with Jessie and Lennie Ware",
-        "url": "https://open.spotify.com/album/2SZX2oyIXVvyqEtjQ6C6z5"
-      },
-      "artists": [
-        {
-          "name": "Table Manners with Jessie and Lennie Ware",
-          "url": "https://open.spotify.com/show/2SZX2oyIXVvyqEtjQ6C6z5"
-        }
-      ],
-      "date_added": "2020-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 2748240,
-      "name": "Ep1: Sam Smith",
-      "url": "https://open.spotify.com/episode/2fd8iHge1kggPPwipAk4sV"
-    },
-    {
-      "album": {
         "name": "Popcast",
         "url": "https://open.spotify.com/album/3ugDIELXIU7erW5Xp49tWp"
       },
@@ -276,6 +258,24 @@
       "duration_ms": 2338272,
       "name": "S3E1 - Frank Ocean: A Man of Art and Mystery",
       "url": "https://open.spotify.com/episode/13qF2rux7ahDDtfz1kfCkN"
+    },
+    {
+      "album": {
+        "name": "Table Manners with Jessie and Lennie Ware",
+        "url": "https://open.spotify.com/album/2SZX2oyIXVvyqEtjQ6C6z5"
+      },
+      "artists": [
+        {
+          "name": "Table Manners with Jessie and Lennie Ware",
+          "url": "https://open.spotify.com/show/2SZX2oyIXVvyqEtjQ6C6z5"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2748240,
+      "name": "Sam Smith",
+      "url": "https://open.spotify.com/episode/2fd8iHge1kggPPwipAk4sV"
     },
     {
       "album": {

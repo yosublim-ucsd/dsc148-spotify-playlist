@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26542,
+  "num_followers": 26543,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADzy7rdOibQQDrm03KCfjFD",
+  "snapshot_id": "Z14cAAAAAACY3eaOCJr6iMtWNVF3XVQY",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "In the Room (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kingdom of Jesus",
         "url": "https://open.spotify.com/album/1Bp2MioZNIJBEJGfQnuWNo"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 345816,
       "name": "That We Might Overcome",
       "url": "https://open.spotify.com/track/3UbjooXOOlnYqLtOCkio9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "In the Room (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
     },
     {
       "added_at": null,
@@ -359,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 262946,
-      "name": "Center of All History",
-      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
+      "duration_ms": 210419,
+      "name": "Counting My Blessings - Collab Version",
+      "url": "https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR"
     },
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 210419,
-      "name": "Counting My Blessings - Collab Version",
-      "url": "https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR"
+      "duration_ms": 262946,
+      "name": "Center of All History",
+      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All The People Said Amen",
         "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
@@ -611,26 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanctuary Songs",
-        "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
       "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 356666,
-      "name": "Christ is Lower Still",
-      "url": "https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq"
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -655,6 +631,30 @@
       "duration_ms": 931610,
       "name": "Son Of Heaven",
       "url": "https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 356666,
+      "name": "Christ is Lower Still",
+      "url": "https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 375019,
-      "name": "Unconditional - Live",
-      "url": "https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 255320,
       "name": "Holy, Holy, Holy (God With Us)",
       "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 375019,
+      "name": "Unconditional - Live",
+      "url": "https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik"
     }
   ],
   "unique_name": "This Is Matt Maher",

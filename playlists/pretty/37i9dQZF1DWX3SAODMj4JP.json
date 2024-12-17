@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 149934,
+  "num_followers": 150004,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "A Igreja Canta (Ao Vivo)",
         "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 347434,
       "name": "Deus Vai Chegar Primeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
-      },
-      "artists": [
-        {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
-        }
-      ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 137333,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Caminho Estreito",
-        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Siss\u00e1",
-          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
-        },
-        {
-          "name": "Bullara",
-          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Caminho Estreito",
-      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
         "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Caminho Estreito",
+        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        },
+        {
+          "name": "Bullara",
+          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Caminho Estreito",
+      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
     },
     {
       "added_at": "2024-08-30 03:01:00",

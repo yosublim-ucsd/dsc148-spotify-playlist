@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70649,
+  "num_followers": 70658,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAB9y6vSd8kM6DP4vtBqFZk5",
+  "snapshot_id": "Z14cAAAAAAAoa95NznRhbnlHFwz/Ltzu",
   "tracks": [
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+        "name": "La Fiesta Contin\u00faa",
+        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
+      "duration_ms": 180813,
+      "name": "El Yerbero Moderno (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Contin\u00faa",
-        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 180813,
-      "name": "El Yerbero Moderno (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -558,11 +558,15 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+      "duration_ms": 257000,
+      "name": "La Farsante (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/6PtwPotNH129EOf0tEl26f"
     },
     {
       "added_at": null,
@@ -630,15 +634,11 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 257000,
-      "name": "La Farsante (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/6PtwPotNH129EOf0tEl26f"
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
       "added_at": null,

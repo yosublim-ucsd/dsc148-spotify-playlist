@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Julia Minichiello
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,532 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,371 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 69 | [tonight's the night i die to a frank ocean song](https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Abysmal EP](https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF) | 2:57 |
 | 70 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 |
 
-Snapshot ID: `Z1u/dQAAAABn2TNZYO/mxLonTD3Pd3FS`
+Snapshot ID: `Z2BvKQAAAACl8LE171Kz7ts3P90n6rYy`

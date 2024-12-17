@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,846 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,848 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 33 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
 | 34 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 |
 | 35 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 |
-| 36 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
-| 37 | [i see america](https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 2:44 |
+| 36 | [i see america](https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 2:44 |
+| 37 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
 | 38 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 |
 | 39 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
 | 40 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 47 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 48 | [Spotlight](https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 3:15 |
 
-Snapshot ID: `Z1zKgAAAAAAESG3/66Q955ks023wiLNN`
+Snapshot ID: `Z14cAAAAAACgO+HplJpogkK1R5rR53Jl`

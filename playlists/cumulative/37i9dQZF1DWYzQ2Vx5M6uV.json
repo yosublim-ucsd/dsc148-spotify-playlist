@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
+    },
+    {
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"

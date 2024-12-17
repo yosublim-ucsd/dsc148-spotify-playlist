@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAA0FTb3g49ivSIgCxf1Xs7l",
+  "snapshot_id": "Z14cAAAAAADAFl/HtONBBnEeJ8TJVl6K",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Payonazo Exoticos",
-        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Payonazo Exoticos",
-      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camioneta Alterada",
         "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 209898,
       "name": "Camioneta Alterada",
       "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Payonazo Exoticos",
+        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Payonazo Exoticos",
+      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 195305,
+      "name": "Ay Les Voy de Nuevo (En Vivo)",
+      "url": "https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quien Es Quien",
         "url": "https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j"
       },
@@ -359,38 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 195305,
-      "name": "Ay Les Voy de Nuevo (En Vivo)",
-      "url": "https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Z.B.Z.A",
-        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 174511,
-      "name": "Z.B.Z.A",
-      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bueno para Lo Mal",
         "url": "https://open.spotify.com/album/4LVOHVtCGN4OxBCmKkplpl"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 273978,
       "name": "Bueno para Lo Mal",
       "url": "https://open.spotify.com/track/32K8tXYpqGNPPcMYQyx8Ml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Z.B.Z.A",
+        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "Z.B.Z.A",
+      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 168960,
       "name": "Equipo Cannabis",
       "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Los Juniors de California",
-          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
-        }
-      ],
-      "duration_ms": 194783,
-      "name": "Hay Les Voy De Nuevo",
-      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Terminator",
         "url": "https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 175326,
       "name": "El Terminator",
       "url": "https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Los Juniors de California",
+          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
+        }
+      ],
+      "duration_ms": 194783,
+      "name": "Hay Les Voy De Nuevo",
+      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUETOS \"Made In Usa\" (En Vivo)",
-        "url": "https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t"
+        "name": "Corridos Underground 2",
+        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
       },
       "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 216483,
-      "name": "Paso Firme - En Vivo",
-      "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"
+      "duration_ms": 148528,
+      "name": "Layo Gastelum (En Vivo)",
+      "url": "https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH"
     },
     {
       "added_at": null,
@@ -747,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUETOS \"Made In Usa\" (En Vivo)",
+        "url": "https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 216483,
+      "name": "Paso Firme - En Vivo",
+      "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Underground 2",
         "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
       },
@@ -763,6 +779,22 @@
       "duration_ms": 156096,
       "name": "Turbo Cheyenne (En Vivo)",
       "url": "https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 201732,
+      "name": "EL LOS",
+      "url": "https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y"
     },
     {
       "added_at": null,
@@ -787,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
       "artists": [
         {
@@ -796,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 201732,
-      "name": "EL LOS",
-      "url": "https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y"
+      "duration_ms": 109344,
+      "name": "Humilde y Sencillo (En Vivo)",
+      "url": "https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT"
     },
     {
       "added_at": null,
@@ -815,38 +847,6 @@
       "duration_ms": 163245,
       "name": "Despu\u00e9s los Miro",
       "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground 2",
-        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 148528,
-      "name": "Layo Gastelum (En Vivo)",
-      "url": "https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 109344,
-      "name": "Humilde y Sencillo (En Vivo)",
-      "url": "https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT"
     },
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimamente Tapando Bocas",
-        "url": "https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP"
+        "name": "Mexican Mafia Corridos",
+        "url": "https://open.spotify.com/album/792fLNAl0z9jvw9q8OZljr"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
         }
       ],
-      "duration_ms": 240378,
-      "name": "Ultimamente Tapando Bocas",
-      "url": "https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm"
+      "duration_ms": 172173,
+      "name": "Gente De Accionar (feat. La Edicion De Culiacan)",
+      "url": "https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs"
     }
   ],
   "unique_name": "This Is Los Desvelados",

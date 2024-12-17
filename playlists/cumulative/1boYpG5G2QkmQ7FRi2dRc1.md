@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,920 songs - 4 day 23 hr 56 min
+1,923 songs - 5 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Can U Lose?](https://open.spotify.com/track/3fWCRNmlVnOSO4rtV3leN2) | [Lean Low](https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz) | [Can U Lose?](https://open.spotify.com/album/1jWJAhNFUtfWxJOtYAUCy2) | 3:19 | 2023-01-06 | 2023-01-14 |
 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 | 2023-11-10 | 2024-01-22 |
 | [Can You Feel It](https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Can You Feel It](https://open.spotify.com/album/3rwRwTFKLg6U4vvp0ISnVD) | 2:26 | 2023-11-17 | 2023-11-27 |
+| [Can You Feel It](https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Can You Feel It](https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f) | 2:20 | 2024-12-16 |  |
 | [Can You Feel It](https://open.spotify.com/track/4HFiExwlwhh5Owv4PhWBJC) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Can You Feel It](https://open.spotify.com/album/78MlmcHVW0a6A8pshOZ3rd) | 2:24 | 2023-01-28 | 2023-02-20 |
 | [Can't Do It Like Me](https://open.spotify.com/track/3ECgIy8mO5nFoAH29E6wMZ) | [Alexander Delanois](https://open.spotify.com/artist/1S5Kwy56W28bauQQ7cYXSR) | [Can't Do It Like Me](https://open.spotify.com/album/04WHRfGN6SWcfTFiUy5fEJ) | 5:44 | 2024-11-30 |  |
 | [Can't Find Her](https://open.spotify.com/track/6uHTykxbR6MInBeThBE8FV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [J\. Peacock](https://open.spotify.com/artist/6b4Mcps4CuXfzgKYvhuJP7) | [Can't Find Her](https://open.spotify.com/album/2EPpRnTtaWxBjdnnGifefN) | 5:11 | 2022-11-12 | 2022-11-19 |
@@ -730,6 +731,7 @@
 | [Higher Than Ever Before \- Barry Can't Swim Remix](https://open.spotify.com/track/6CZOBFhBZTd8xw004Bj1lC) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Higher Than Ever Before \(Barry Can't Swim Remix\)](https://open.spotify.com/album/1836yEMpqljb7gddjMGyQE) | 4:14 | 2023-11-26 | 2023-12-23 |
 | [Higher Than The Sky \- Feed Me Remix](https://open.spotify.com/track/5fWZhY1SpNsgSQzfjyyta7) | [Transient](https://open.spotify.com/artist/19ZtT7naINTRZzjmdFO3Ri), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [Higher Than The Sky \(Feed Me Remix\)](https://open.spotify.com/album/5AzyIsvCyfYfepqzPMB1s9) | 3:52 | 2023-02-25 | 2023-03-12 |
 | [Highly Recommended](https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Highly Recommended](https://open.spotify.com/album/7l3DslmV0uxeWut1lpgaNf) | 5:43 | 2024-05-10 | 2024-05-26 |
+| [Himalaya](https://open.spotify.com/track/6jUdm6vlTbiqEuzCcCkEoq) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Himalaya](https://open.spotify.com/album/7zzq5fe5RxidA8L36MuaCy) | 3:03 | 2024-12-16 |  |
 | [Hit It \(feat\. NEZ\)](https://open.spotify.com/track/7hLnFu1Pv6u32fOYLLEc1t) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Hit It \(feat\. NEZ\)](https://open.spotify.com/album/60TvAeH7kQLbPKxmdYFXD6) | 3:41 | 2023-01-28 | 2023-02-12 |
 | [Hit It Back](https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Hit It Back](https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK) | 2:18 | 2024-02-16 | 2024-04-08 |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-12-03 | 2023-01-07 |
@@ -1271,6 +1273,7 @@
 | [P.R.O.G.2](https://open.spotify.com/track/4lcK3zg0Du6Y09Ot8xAgyA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.2](https://open.spotify.com/album/1aTdsuEAUYDykn94WUxcCu) | 2:21 | 2023-04-21 | 2023-06-02 |
 | [Palm Trees](https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:19 | 2023-08-12 | 2023-08-27 |
 | [Panorama](https://open.spotify.com/track/6GWdR96BUJt7g1Y9kJcGfd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Panorama](https://open.spotify.com/album/2dYtwG890hbROBNO9IDl3T) | 3:35 | 2023-04-14 | 2023-05-06 |
+| [Paradise](https://open.spotify.com/track/4LKSa6eS413HVzxnZeJV3P) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Paradise](https://open.spotify.com/album/3VY0mErp4L6ZsufkFl9DSw) | 3:24 | 2024-12-16 |  |
 | [Paradise Lost](https://open.spotify.com/track/0YrLUslQDapsSlPeOdjTjq) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 3](https://open.spotify.com/album/3jwaDpSUtAgBXOTasnH7rf) | 7:13 | 2022-10-15 | 2022-11-01 |
 | [Part Of Me](https://open.spotify.com/track/1uv6iYfmG2vBotgFMR2NXY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Part Of Me](https://open.spotify.com/album/4ZRf9czIO2joiMoDBWbzul) | 2:35 | 2024-09-21 | 2024-10-06 |
 | [Part Of You](https://open.spotify.com/track/09icTkuZ3tSrUBmaSCsTZv) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 3:35 | 2024-11-22 | 2024-12-01 |

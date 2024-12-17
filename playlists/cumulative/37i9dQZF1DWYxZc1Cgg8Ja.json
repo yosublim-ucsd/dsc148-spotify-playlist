@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
@@ -2236,6 +2236,36 @@
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
+    },
+    {
+      "album": {
+        "name": "Peor Que La Polic\u00eda (feat. PMP)",
+        "url": "https://open.spotify.com/album/3k5CWNHoPBTCL0kjpvMiox"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199757,
+      "name": "Peor Que La Polic\u00eda (feat. PMP)",
+      "url": "https://open.spotify.com/track/4FAV8rrbenNnfAiRCqHZ25"
     },
     {
       "album": {

@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 256000,
       "name": "AkoNaSana",
       "url": "https://open.spotify.com/track/2A2rcqEtzWklo1aIWATgyo"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 235470,
       "name": "Bighani",
       "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "perfect view",
+        "url": "https://open.spotify.com/album/69DN81jxjmGZBhLC44esKh"
+      },
+      "artists": [
+        {
+          "name": "Yana and Yna",
+          "url": "https://open.spotify.com/artist/44MCDYvpFe8ugUCmSznxKM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "perfect view",
+      "url": "https://open.spotify.com/track/0GEvhEoA1jY1PB7JAoGICF"
+    },
+    {
+      "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
@@ -1728,6 +1746,32 @@
       "duration_ms": 212976,
       "name": "Samahan Mo Ako",
       "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"
+    },
+    {
+      "album": {
+        "name": "SANGTAWAG",
+        "url": "https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        },
+        {
+          "name": "TreyLow Baby",
+          "url": "https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "SANGTAWAG",
+      "url": "https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL"
     },
     {
       "album": {
@@ -2046,7 +2090,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 169565,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"

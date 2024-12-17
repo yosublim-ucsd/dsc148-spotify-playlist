@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 202730,
+  "num_followers": 202759,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Tlatelolco 68",
-      "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 121706,
-      "name": "Abuso de Autoridad",
-      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
+      "duration_ms": 287986,
+      "name": "Tlatelolco 68",
+      "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 255600,
       "name": "M\u00e1s Poder",
       "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "Abuso de Autoridad",
+      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,510 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,517 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 8 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 | 9 | [Mama](https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:04 |
 | 10 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
-| 11 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
-| 12 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 |
+| 11 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 |
+| 12 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
 | 13 | [Rise](https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:14 |
 | 14 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
 | 15 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 47 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 | 48 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP) | 3:15 |
 
-Snapshot ID: `Z1zKgAAAAACpY8TrSnxb9iGPsB+gcPn1`
+Snapshot ID: `Z14cAAAAAAD1fnaw513lBzXRTscrehMY`

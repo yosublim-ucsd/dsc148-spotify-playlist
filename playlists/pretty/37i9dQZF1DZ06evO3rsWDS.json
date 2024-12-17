@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5409,
+  "num_followers": 5415,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAvd0oSfL2Vn4CVD8X0aLdU",
+  "snapshot_id": "Z14cAAAAAAAQyUFpQ3zI+CRBBft5ZxWU",
   "tracks": [
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+        "name": "DIAMANTES VVS1",
+        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 197293,
-      "name": "La Que Est\u00e1 De Moda Soy Yo",
-      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
+      "duration_ms": 155466,
+      "name": "Soy De Esas",
+      "url": "https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIAMANTES VVS1",
-        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Soy De Esas",
-      "url": "https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd"
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
     },
     {
       "added_at": null,

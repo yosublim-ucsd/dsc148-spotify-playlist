@@ -1,6 +1,6 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 94997,
+  "num_followers": 95022,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-11 03:24:07",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "added_at": "2024-10-11 03:24:07",
+      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 138866,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
-    },
-    {
-      "added_at": "2024-10-11 03:24:07",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "What\u2019s Next",
-      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
     },
     {
       "added_at": "2024-10-11 03:24:07",

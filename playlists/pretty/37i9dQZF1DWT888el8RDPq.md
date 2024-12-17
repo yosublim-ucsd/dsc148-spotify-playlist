@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,825 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,823 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 77 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 78 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 |
 | 79 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
-| 80 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 |
-| 81 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
+| 80 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
+| 81 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 |
 | 82 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 83 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
 | 84 | [When The Beat Drops Out](https://open.spotify.com/track/5aJhuze13LOoLthmiG8YIA) | [Marlon Roudette](https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt) | [Electric Soul](https://open.spotify.com/album/3qwSJHTzdeESSXjKnrBjGb) | 3:24 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 90 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 91 | [Je So' Pazzo \- Remastered 2008](https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Pino Daniele \(2008 \- Remaster\)](https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr) | 2:59 |
 | 92 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
-| 93 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 |
-| 94 | [Bohémien](https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:13 |
+| 93 | [Bohémien](https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:13 |
+| 94 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 |
 | 95 | [Amarena](https://open.spotify.com/track/0nqwOIZtuWl0xVbfYiL6UW) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Banzai \(Lato blu\)](https://open.spotify.com/album/7arPTV1rzrBTdeTSmaE5eG) | 3:34 |
 | 96 | [Giro con te](https://open.spotify.com/track/7v4C0Bh0UUIr54Y7h86GPW) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:24 |
-| 97 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
-| 98 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
+| 97 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
+| 98 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
 | 99 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 |
 | 100 | [Freed from Desire](https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life](https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ) | 3:34 |
 

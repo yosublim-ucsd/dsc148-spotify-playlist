@@ -11591,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/07OphcXB8sSOaScV4RlrFW"
+      },
+      "artists": [
+        {
+          "name": "Trish Lupin",
+          "url": "https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/02KefPFoPYwQYR219MAxAT"
+    },
+    {
+      "album": {
         "name": "perfect enough",
         "url": "https://open.spotify.com/album/5CL1h5mNbbBfZp5lfSk2Iv"
       },
@@ -18572,7 +18590,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 116194,
       "name": "yeppurs",
       "url": "https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL"

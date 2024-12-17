@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 170995,
+  "num_followers": 171016,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Come prima",
+      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Guaglione",
-        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
-      },
-      "artists": [
-        {
-          "name": "Marino Marini",
-          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Come prima",
-      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Most of All",
-        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
-      },
-      "artists": [
-        {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Hits and More",
         "url": "https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 159546,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Most of All",
+        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
+      },
+      "artists": [
+        {
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Oh Baby! Best Of Volume 1 1951-1954",
-        "url": "https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2"
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
       },
       "artists": [
         {
-          "name": "The Four Knights",
-          "url": "https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74"
+          "name": "Lonnie Donegan",
+          "url": "https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n"
         }
       ],
-      "duration_ms": 127386,
-      "name": "I Get So Lonely (When I Dream About You)",
-      "url": "https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC"
+      "duration_ms": 200826,
+      "name": "Tom Dooley",
+      "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
+        "name": "Oh Baby! Best Of Volume 1 1951-1954",
+        "url": "https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2"
       },
       "artists": [
         {
-          "name": "Lonnie Donegan",
-          "url": "https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n"
+          "name": "The Four Knights",
+          "url": "https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Tom Dooley",
-      "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
+      "duration_ms": 127386,
+      "name": "I Get So Lonely (When I Dream About You)",
+      "url": "https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Rock & Roll 50s & 60s Mix",
+        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Young",
+          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
+        }
+      ],
+      "duration_ms": 166051,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 157493,
       "name": "Just Walkin' in the Rain",
       "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Rock & Roll 50s & 60s Mix",
-        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Young",
-          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
-        }
-      ],
-      "duration_ms": 166051,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Street Of Memories",
-        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Walking My Baby Back Home",
-      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Call The Midwife",
         "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216400,
       "name": "Don't Laugh at Me ('Cause I'm a Fool)",
       "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Street Of Memories",
+        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "Walking My Baby Back Home",
+      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
     },
     {
       "added_at": "2023-10-17 16:18:55",

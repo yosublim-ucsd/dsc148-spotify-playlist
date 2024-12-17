@@ -2,7 +2,7 @@
 
 ### [ECHO : Tabla Rhythms](https://open.spotify.com/playlist/37i9dQZF1DX83Qd1EZ6qTs)
 
-> Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
+> Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
 60 songs - 5 hr 13 min
 

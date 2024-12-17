@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,619 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,627 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 26 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 |
 | 27 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
 | 28 | [Pasito Tun Tun \(with Ximena Sariñana\) \- En Vivo](https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:51 |
-| 29 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
-| 30 | [Chispa Roja](https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Chispa Roja](https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn) | 3:31 |
+| 29 | [Chispa Roja](https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Chispa Roja](https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn) | 3:31 |
+| 30 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 31 | [Ojos Diamante](https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51) | 2:43 |
 | 32 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
-| 33 | [Nada Para Ti](https://open.spotify.com/track/3N1eK5Zm50v0GXF27ZknXG) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:56 |
-| 34 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 |
-| 35 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
+| 33 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
+| 34 | [Nada Para Ti](https://open.spotify.com/track/3N1eK5Zm50v0GXF27ZknXG) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:56 |
+| 35 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 |
 | 36 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
 | 37 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 |
 | 38 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [La Vida No Es Fácil](https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 3:48 |
 | 50 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
 
-Snapshot ID: `Z1zKgAAAAAApLikME+UB9dYvo43j8Bcr`
+Snapshot ID: `Z14cAAAAAABwe/fedurj06sKIp71y4Ab`

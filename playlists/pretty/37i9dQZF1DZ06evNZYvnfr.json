@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3561,
+  "num_followers": 3563,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABT5fmQjFHMk64mmFOfhcuh",
+  "snapshot_id": "Z14cAAAAAACW35lactcnQ63SxeOvGKM9",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 229343,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
+      "duration_ms": 185901,
+      "name": "Feels Like Music",
+      "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 185901,
-      "name": "Feels Like Music",
-      "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
+      "duration_ms": 229343,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
     },
     {
       "added_at": null,

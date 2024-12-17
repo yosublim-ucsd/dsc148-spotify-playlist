@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,755 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,773 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 83 | [Rubidio 37](https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 4:38 |
 | 84 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 85 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
-| 86 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
-| 87 | [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 |
-| 88 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 |
+| 86 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 |
+| 87 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
+| 88 | [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 |
 | 89 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 90 | [Rosa Mexicano](https://open.spotify.com/track/4zpaxTVeA87WHMYLvLpK5T) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 2:45 |
 | 91 | [Colmena](https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Hombre Invisible](https://open.spotify.com/album/7tIMzYdVO2381QcZMethuL) | 4:54 |

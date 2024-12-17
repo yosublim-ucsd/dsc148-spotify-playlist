@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-108 songs - 5 hr 30 min
+109 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2024-02-09 | 2024-07-13 |
 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-23 |  |
 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 | 2024-02-09 |  |
-| [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 | 2024-07-12 |  |
+| [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 | 2024-07-12 | 2024-12-17 |
 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 | 2024-02-09 | 2024-06-01 |
 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 | 2024-08-02 | 2024-11-22 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-26 |  |
@@ -54,6 +54,7 @@
 | [How Love Works \(Interlude\)](https://open.spotify.com/track/5RGvKpEAYaYF5N9UtBVb0g) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 1:00 | 2024-02-09 |  |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2024-02-09 |  |
 | [Judas](https://open.spotify.com/track/6nEBCXcL5Bh4g2fhZclX5c) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:08 | 2024-02-09 | 2024-04-19 |
+| [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-16 |  |
 | [KEEPS](https://open.spotify.com/track/6YtJ7qXFloHoIKS0GpFzIh) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 2:56 | 2024-02-09 | 2024-04-19 |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 | 2024-06-01 |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |

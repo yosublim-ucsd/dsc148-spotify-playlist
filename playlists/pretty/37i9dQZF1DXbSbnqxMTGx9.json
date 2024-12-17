@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3051748,
+  "num_followers": 3052193,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
       "artists": [
         {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
+      "duration_ms": 145933,
+      "name": "Don De Lion",
+      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
       "artists": [
         {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
         }
       ],
-      "duration_ms": 145933,
-      "name": "Don De Lion",
-      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
+      "duration_ms": 172600,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Total Reggae: Classic Roots",
-        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
-      },
-      "artists": [
-        {
-          "name": "Leroy Smart",
-          "url": "https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Ballistic Affair",
-      "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
         "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175360,
       "name": "Dr. Dekker",
       "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Total Reggae: Classic Roots",
+        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
+      },
+      "artists": [
+        {
+          "name": "Leroy Smart",
+          "url": "https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Ballistic Affair",
+      "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 154333,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Definitive Collection: You Can Get It If You Really Want",
         "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Mr Soul of Jamaica",
-        "url": "https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1"
-      },
-      "artists": [
-        {
-          "name": "Alton Ellis",
-          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Blackman's Word (Black Man's Pride)",
-      "url": "https://open.spotify.com/track/5KYdwJCvwGsAeTwUJn8ZIe"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Monkey Man",
         "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
       },
@@ -1587,38 +1587,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Legend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 225493,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "1000 Volts of Holt (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "duration_ms": 318106,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Mr Soul of Jamaica",
+        "url": "https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Blackman's Word (Black Man's Pride)",
+      "url": "https://open.spotify.com/track/5KYdwJCvwGsAeTwUJn8ZIe"
     }
   ],
   "unique_name": "Reggae Classics",

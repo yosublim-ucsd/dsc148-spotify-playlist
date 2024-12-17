@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 34896,
+  "num_followers": 34900,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADqVKdOy6PnDxg69dLBq1vh",
+  "snapshot_id": "Z14cAAAAAAA2Sq0/3cqhVFtu8j7pHLwT",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 241720,
       "name": "Malleus Maleficarum",
       "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "This Secret Ninja",
-      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFI (The Blood Album)",
         "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
       "artists": [
         {
@@ -612,9 +596,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Reivers' Music",
-      "url": "https://open.spotify.com/track/5Xehf0ZANXeSk8rm5JnChA"
+      "duration_ms": 140240,
+      "name": "This Secret Ninja",
+      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Sing The Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+      "duration_ms": 201173,
+      "name": "Reivers' Music",
+      "url": "https://open.spotify.com/track/5Xehf0ZANXeSk8rm5JnChA"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 128106,
-      "name": "The Checkered Demon",
-      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 102600,
       "name": "Wake-Up Call",
       "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 128106,
+      "name": "The Checkered Demon",
+      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
     },
     {
       "added_at": null,

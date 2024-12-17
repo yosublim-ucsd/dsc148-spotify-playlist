@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 10387,
+  "num_followers": 10386,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACfQ/80OtpRu0ka9c9R0CLV",
+  "snapshot_id": "Z14cAAAAAABeEAZKwjgsMA0riwFz3SKs",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
       "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Can't Slow Down",
-      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+      "duration_ms": 239600,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
       "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 239600,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
+      "duration_ms": 230666,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
     },
     {
       "added_at": null,

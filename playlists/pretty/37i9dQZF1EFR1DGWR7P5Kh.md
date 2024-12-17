@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 3 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 |
 | 4 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 |
 | 5 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 |
-| 6 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
+| 6 | [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 |
 | 7 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 |
 | 8 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
 | 9 | [Medicine](https://open.spotify.com/track/0dg2Lzt2LdlD8ReTSI11se) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Medicine](https://open.spotify.com/album/4u5HvbM2akj3bhSuLKBVPp) | 2:54 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 38 | [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 |
 | 39 | [Uh Oh \(Bonus Studio Track\)](https://open.spotify.com/track/0w5rxccF7Jksd3qRu8T986) | [Void Contact](https://open.spotify.com/artist/5k2EFZH6G1mDTQA4l0Sn3m) | [Live from Lockdown](https://open.spotify.com/album/0znMasMwrCk0drY9nK70XI) | 4:09 |
 
-Snapshot ID: `AbkPaAAAAAAnZgPM3EwdRHwzXGA1EqW7`
+Snapshot ID: `AbkU9AAAAACfNJaNemnVGr28KfHesy3e`

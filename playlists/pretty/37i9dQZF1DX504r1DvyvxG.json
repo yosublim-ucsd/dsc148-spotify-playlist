@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2649663,
+  "num_followers": 2649687,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157893,
       "name": "Helplessly Hoping - 2005 Remaster",
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Alice's Restaurant",
-        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
-      },
-      "artists": [
-        {
-          "name": "Arlo Guthrie",
-          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
-        }
-      ],
-      "duration_ms": 1116933,
-      "name": "Alice's Restaurant Massacree",
-      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Pieces of the Sky (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Alice's Restaurant",
+        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "duration_ms": 1116933,
+      "name": "Alice's Restaurant Massacree",
+      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
     },
     {
       "added_at": "2024-08-23 14:22:20",

@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr"
+    },
+    {
+      "album": {
         "name": "Badass Woman (From The Motion Picture \"The Hustle\")",
         "url": "https://open.spotify.com/album/3Tc9tsOEotcIxR8SPW1dxC"
       },
@@ -432,6 +454,28 @@
       "duration_ms": 167166,
       "name": "Blink",
       "url": "https://open.spotify.com/track/0HvGGQEgVtEamhhc2JgcP1"
+    },
+    {
+      "album": {
+        "name": "Timeless (Deluxe)",
+        "url": "https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148552,
+      "name": "Booty (feat. Paul Russell)",
+      "url": "https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf"
     },
     {
       "album": {
@@ -1415,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Niecy Nash",
+          "url": "https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "I Wanna Thank Me (feat. Niecy Nash)",
+      "url": "https://open.spotify.com/track/3lrwUibGeLUfMB9mlQiVVV"
+    },
+    {
+      "album": {
         "name": "Thank You (Deluxe)",
         "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
       },
@@ -1938,6 +2004,32 @@
       "duration_ms": 191805,
       "name": "Make You Dance",
       "url": "https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176584,
+      "name": "Mama Wanna Mambo (feat. NATTI NATASHA & Arturo Sandoval)",
+      "url": "https://open.spotify.com/track/5Vv6zKTsWWyZvbYUmkcEOf"
     },
     {
       "album": {
@@ -2618,6 +2710,28 @@
         {
           "name": "Meghan Trainor",
           "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178376,
+      "name": "Sensitive (feat. Scott Hoying)",
+      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
       "date_added": "2023-12-30",
@@ -2814,6 +2928,28 @@
       "duration_ms": 145501,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/4qAdUY0Ymc6cVypI2xEc8F"
+    },
+    {
+      "album": {
+        "name": "Sweet Morning Heat (from the Netflix Film \"Unfrosted\")",
+        "url": "https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193443,
+      "name": "Sweet Morning Heat (from the Netflix Film \"Unfrosted\")",
+      "url": "https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd"
     },
     {
       "album": {

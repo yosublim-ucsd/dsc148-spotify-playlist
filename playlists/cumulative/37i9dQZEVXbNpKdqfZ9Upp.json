@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -9834,7 +9834,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
@@ -11498,7 +11498,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 218701,
       "name": "DEPORTIVO",
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
@@ -20296,7 +20296,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
@@ -21578,7 +21578,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 196603,
       "name": "Joven De La Sierra",
       "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
@@ -29628,7 +29628,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 178336,
       "name": "Morena Canela",
       "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
@@ -33360,7 +33360,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 114600,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4cCeHTJcKQU9PCuQ2jiYlI"
@@ -37216,7 +37216,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -46107,6 +46107,24 @@
     },
     {
       "album": {
+        "name": "Tu para Mi",
+        "url": "https://open.spotify.com/album/1miGygC6GnI21mQ8t9D8qk"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190337,
+      "name": "Tu para Mi",
+      "url": "https://open.spotify.com/track/2ieGF9be4S5JGwHfnnTCPY"
+    },
+    {
+      "album": {
         "name": "Tu Perfume",
         "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
       },
@@ -51672,7 +51690,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 264680,
       "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"

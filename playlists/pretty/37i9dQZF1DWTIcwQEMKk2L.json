@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69773,
+  "num_followers": 69779,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "The Music Of The Night",
-        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
-      },
-      "artists": [
-        {
-          "name": "Niila Alto",
-          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "The Music Of The Night",
-      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 147029,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
+        "name": "The Music Of The Night",
+        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
+      },
+      "artists": [
+        {
+          "name": "Niila Alto",
+          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "The Music Of The Night",
+      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+        "name": "Still in Love With You",
+        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
       },
       "artists": [
         {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+          "name": "Angelina Winter",
+          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
         }
       ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+      "duration_ms": 156125,
+      "name": "Still in Love With You",
+      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Still in Love With You",
-        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
       "artists": [
         {
-          "name": "Angelina Winter",
-          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
+          "name": "Brandon Mills",
+          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
         }
       ],
-      "duration_ms": 156125,
-      "name": "Still in Love With You",
-      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
+      "duration_ms": 179810,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1079,22 +1095,6 @@
       "duration_ms": 238277,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mills",
-          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
       "artists": [
         {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
         }
       ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1447,22 +1463,6 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Swear on this Life",
-        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
-      },
-      "artists": [
-        {
-          "name": "Fabienne Willis",
-          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Swear on this Life",
-      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
-    },
-    {
-      "added_at": "2024-12-09 03:23:22",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6pjjILmogmek6JQtcFyMIP"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 152636,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR"
+    },
+    {
+      "added_at": "2024-12-09 03:23:22",
+      "album": {
+        "name": "Swear on this Life",
+        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Swear on this Life",
+      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
     },
     {
       "added_at": "2024-12-09 03:23:22",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-09 03:23:22",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
       },
       "artists": [
         {
-          "name": "Alice Frohde",
-          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
         }
       ],
-      "duration_ms": 154794,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
+      "duration_ms": 137290,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: El Cómodo Silencio De Los Que Hablan Poco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,564 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,570 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 53 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 |
 | 54 | [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 |
 | 55 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
-| 56 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
+| 56 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
 | 57 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 |
 | 58 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 |
-| 59 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
+| 59 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
 | 60 | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 |
 | 61 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 |
 | 62 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 70 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
 | 71 | [Hacia Ti](https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Hacia Ti](https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2) | 3:45 |
 | 72 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
-| 73 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
-| 74 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
+| 73 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
+| 74 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
 | 75 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
 | 76 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
 | 77 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 264934,
+  "num_followers": 264966,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAIISdQGuzrgGYj50zFu8xZ",
+  "snapshot_id": "Z14cAAAAAAC/7jOfMgkApTc8l9JbxGZ0",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Altar (Altar) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 408720,
       "name": "Altar (Altar) - Ao Vivo",
       "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pequenos Levitas",
         "url": "https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0"
       },
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,486 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,521 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 28 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 29 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
 | 30 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
-| 31 | [Amor Pra Recomeçar](https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Amor Pra Recomeçar](https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch) | 2:38 |
-| 32 | [It's Your Life](https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev) | [Isadora](https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [It's Your Life](https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A) | 2:40 |
+| 31 | [It's Your Life](https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev) | [Isadora](https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [It's Your Life](https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A) | 2:40 |
+| 32 | [Amor Pra Recomeçar](https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Amor Pra Recomeçar](https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch) | 2:38 |
 | 33 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
 | 34 | [Piloto Automático \- Gabriel Boni, Voltech & Zucchi Remix](https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Zucchi](https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul) | [Piloto Automático \(Gabriel Boni, Voltech & Zucchi Remix\)](https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk) | 6:16 |
 | 35 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |

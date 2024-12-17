@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,287 songs - 10 day 0 hr 14 min
+4,288 songs - 10 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1325,6 +1325,7 @@
 | [for a minute](https://open.spotify.com/track/1aInpA0MK66NqNEG4kPvlW) | [ilselena](https://open.spotify.com/artist/4080n5KoGfdo3p93orsGIo) | [for a minute](https://open.spotify.com/album/5OCyynWAD251PMaICcI6UL) | 4:27 | 2021-11-20 | 2021-12-11 |
 | [For Love](https://open.spotify.com/track/7zSS9Z6V4Mwvx9xcaCdeHf) | [Antone](https://open.spotify.com/artist/1oNWLC92WftObvYoV5HpYN) | [For Love](https://open.spotify.com/album/526A6Ct8ixrJWodK2OdqYl) | 4:36 | 2023-08-22 | 2023-09-01 |
 | [For Nothing](https://open.spotify.com/track/4sqwWXsA2J2V4OIkX4d1FZ) | [Nakima](https://open.spotify.com/artist/3fZKCj6O0KB0A2OHl3mT4z) | [For Nothing](https://open.spotify.com/album/31MSaR45YmVHjkbitDDjc3) | 2:45 | 2024-08-09 | 2024-08-20 |
+| [For The Children](https://open.spotify.com/track/1Xv1V2oJLuwqSTK857bu8S) | [Bench Playazz](https://open.spotify.com/artist/4I0RUzBDtpbgFsb6QWU1Eo), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t), [Vin's Da Cuero](https://open.spotify.com/artist/51Vz8wPWLm0d2qynon3pwm) | [For The Children](https://open.spotify.com/album/4fKKhl9Cgdk5HNFP7YvsZD) | 3:50 | 2024-12-16 |  |
 | [For The Money](https://open.spotify.com/track/2dGYoVUGSIJXwhV8yHbXWp) | [Jaymie Deville](https://open.spotify.com/artist/18JfXVpoIu9X7IDN9u5Jwx) | [For The Money](https://open.spotify.com/album/6T2suPHv0O76sz2JCt6WhV) | 2:53 | 2020-05-08 | 2020-05-24 |
 | [For What It's Worth](https://open.spotify.com/track/2ZBwoldduPeQoXBWePnrYV) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [For What It's Worth](https://open.spotify.com/album/4pNtsSNcYf87OeQPUALNaR) | 3:10 | 2020-08-20 | 2023-08-28 |
 | [For What?](https://open.spotify.com/track/1yKDheHjRsMOugDSA2edJn) | [Anais Chantal](https://open.spotify.com/artist/053jjj6s5jNLvPEA4HblcU) | [Recipe](https://open.spotify.com/album/1jvJ40I0ioAVt2IziPKnm0) | 3:15 | 2024-08-01 | 2024-08-13 |
@@ -2055,7 +2056,7 @@
 | [Landslide \- Live](https://open.spotify.com/track/5LPLCJpfHQaBuwYRseaicK) | [Niesja](https://open.spotify.com/artist/2vZ8xAYDRj9itu0vLpmB4R) | [Landslide \(Live\)](https://open.spotify.com/album/2ne0oFv8OlmQQsej6CEeg4) | 5:23 | 2024-07-21 | 2024-08-02 |
 | [Larga Vida](https://open.spotify.com/track/77s5oCZ0eI59BygbuicR4W) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B) | [Larga Vida](https://open.spotify.com/album/1OJa8YSZ5UYW7wb5K6K6yv) | 2:22 | 2023-08-27 | 2023-09-26 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
-| [Las Mujeres](https://open.spotify.com/track/05qQroDuZ62T0u7y8oj6uH) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [Las Mujeres](https://open.spotify.com/album/4TpB7bh1YxHJEM5oTQ0sTp) | 2:48 | 2024-12-05 |  |
+| [Las Mujeres](https://open.spotify.com/track/05qQroDuZ62T0u7y8oj6uH) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [Las Mujeres](https://open.spotify.com/album/4TpB7bh1YxHJEM5oTQ0sTp) | 2:48 | 2024-12-05 | 2024-12-17 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 | 2023-06-27 |
 | [Last Christmas](https://open.spotify.com/track/0A9BHZY9IJTAUKB6ha78V7) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Last Christmas](https://open.spotify.com/album/10dpGxoW9iHHoj0cmKAAKy) | 3:46 | 2024-11-30 | 2024-12-12 |
 | [Last Dance](https://open.spotify.com/track/70deUYDOouO8E0me5JWMGp) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Last Dance](https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M) | 3:41 | 2024-07-15 | 2024-07-27 |
@@ -2136,7 +2137,7 @@
 | [liar](https://open.spotify.com/track/5ye4eIOOiPumaYQtJE2MxO) | [ABI](https://open.spotify.com/artist/5jUAFfm2aSMWuKoxgm6nDY) | [liar](https://open.spotify.com/album/5eHfVkjLbLjT3GyRIYVPAJ) | 2:12 | 2022-06-23 | 2022-07-16 |
 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 | 2020-08-20 | 2023-08-28 |
 | [Libra](https://open.spotify.com/track/4yd9clPex4qB4M2supYKmg) | [Ruby Diamond](https://open.spotify.com/artist/57xB8Xq6QvPBEobQL72XJH) | [Twin Flames](https://open.spotify.com/album/6NPrFdmXJ6qW3SoLEtMsr4) | 3:33 | 2022-09-16 | 2022-10-04 |
-| [Lick My Body](https://open.spotify.com/track/14lMGhPuCKTJvT19gfky49) | [Atear](https://open.spotify.com/artist/3xbOCmrA0GhzSg6MTGCD85) | [Lick My Body](https://open.spotify.com/album/2CIqoe1a5sb6a6lBMPybQS) | 2:33 | 2024-09-30 |  |
+| [Lick My Body](https://open.spotify.com/track/14lMGhPuCKTJvT19gfky49) | [Atear](https://open.spotify.com/artist/3xbOCmrA0GhzSg6MTGCD85) | [Lick My Body](https://open.spotify.com/album/2CIqoe1a5sb6a6lBMPybQS) | 2:33 | 2024-09-30 | 2024-12-17 |
 | [Life Affirming \- Remix](https://open.spotify.com/track/6Q3zl74sireBnF4Q8n4n1N) | [Sophrosyne](https://open.spotify.com/artist/7vMbR5kl3EPge34VGcqXHB) | [Life Affirming](https://open.spotify.com/album/2uMTqOYFDNt22coPeaq5gI) | 3:42 | 2022-03-11 | 2022-03-31 |
 | [Life Comes from the Sun \(Dale's Radio Edit\)](https://open.spotify.com/track/6QcONDPHQjHyVPZTbsbEgP) | [Byamm](https://open.spotify.com/artist/7LrZ3vUOQx9GMBzz94CNzv), [Dale](https://open.spotify.com/artist/0qsQcIKGYlnopYZn8sSLPh) | [Life Comes from the Sun \(Dale's Radio Edit\)](https://open.spotify.com/album/4bGtyCS8xe8VvR1oSOOWMB) | 3:40 | 2024-06-16 | 2024-06-28 |
 | [Life in Outer Space](https://open.spotify.com/track/6RVUdXzaPFbAzxpNZwP1we) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Life in Outer Space](https://open.spotify.com/album/4l8bpzf2H683pRMM4odcgK) | 3:46 | 2020-06-20 | 2020-07-13 |

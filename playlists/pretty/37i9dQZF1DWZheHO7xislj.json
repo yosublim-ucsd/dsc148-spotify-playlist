@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141233,
+  "num_followers": 141229,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249745,
+      "name": "Tell Me A Tale",
+      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "The Best Of Bobby Womack - The Soul Years",
         "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 229653,
       "name": "Express Yourself - Remastered Version",
       "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 249745,
-      "name": "Tell Me A Tale",
-      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "The Complete Calla, Port and Roulette Recordings",
         "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 167413,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1807,38 +1807,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Traffic Jam",
-      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Soul Queen",
-        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Baby, I Love You",
-      "url": "https://open.spotify.com/track/36v8IF4VJv37hDMasPxX6g"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Radio Music Society",
         "url": "https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8"
       },
@@ -1863,6 +1831,38 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Baby, I Love You",
+      "url": "https://open.spotify.com/track/36v8IF4VJv37hDMasPxX6g"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Traffic Jam",
+      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -1875,22 +1875,6 @@
       "duration_ms": 298000,
       "name": "The Family",
       "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Another Side",
-        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocentelli",
-          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "You've Become a Habit",
-      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1927,6 +1911,22 @@
       "duration_ms": 166816,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Another Side",
+        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocentelli",
+          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "You've Become a Habit",
+      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "The Best Of Gwen McCrae",
         "url": "https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 174026,
       "name": "90% of Me Is You",
       "url": "https://open.spotify.com/track/4dz8fFVtr8dPMqGThk5Cbs"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
-      },
-      "artists": [
-        {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "You're Not Alone b/w I'm Gonna Get Loaded",
         "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 277292,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
+      },
+      "artists": [
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
     },
     {
       "added_at": "2024-10-25 07:46:43",

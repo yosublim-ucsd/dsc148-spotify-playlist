@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=v18DihZ1Tr221tcreJGGfw">Elandré</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,959 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,998 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 43 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 |
 | 44 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
 | 45 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
-| 46 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
-| 47 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
+| 46 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
+| 47 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
 | 48 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 |
 | 49 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
 | 50 | [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 |

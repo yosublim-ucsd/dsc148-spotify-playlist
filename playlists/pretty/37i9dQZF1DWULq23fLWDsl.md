@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,065 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,181 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 9 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 10 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 11 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
-| 12 | [Undercover Martyn](https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:46 |
-| 13 | [Riverside](https://open.spotify.com/track/7iHl6LcHD94l5VpmfrBUmG) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:48 |
+| 12 | [Riverside](https://open.spotify.com/track/7iHl6LcHD94l5VpmfrBUmG) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:48 |
+| 13 | [Undercover Martyn](https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:46 |
 | 14 | [Tighten Up](https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:31 |
 | 15 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 16 | [Congratulations](https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 3:55 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 80 | [Far Away](https://open.spotify.com/track/2PsotMzKAdxPzpsEJYQd4Z) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 2:44 |
 | 81 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
 | 82 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 |
-| 83 | [Sweetest Kill](https://open.spotify.com/track/0j3dr7U259HXTzvEKJklpd) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/0xzX9DQPOH62M4i7WdQNfF) | 5:09 |
-| 84 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
+| 83 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
+| 84 | [Sweetest Kill](https://open.spotify.com/track/0j3dr7U259HXTzvEKJklpd) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/0xzX9DQPOH62M4i7WdQNfF) | 5:09 |
 | 85 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
 | 86 | [Don't Let It Pass](https://open.spotify.com/track/0D5Dq5VGkZ2IBuHiStOxMr) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 3:57 |
 | 87 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |

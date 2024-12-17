@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-609 songs - 1 day 11 hr 49 min
+610 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Vaasam Pesum](https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/0qYC2EYGjddC8VabjWNBAz) | 3:55 | 2024-08-12 |  |
 | [Vaazhkai Paatu](https://open.spotify.com/track/4FNkWGEP77dI3OMy4wMN5Q) | [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL) | [Vaazhkai Paatu](https://open.spotify.com/album/28Khxd8aZBjmi0sELMUnCD) | 4:02 | 2022-12-02 | 2023-04-04 |
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 | 2023-02-07 |
+| [Valaiyosai](https://open.spotify.com/track/2Px95UmgIcWRCxPC0dDuOv) | [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Valaiyosai](https://open.spotify.com/album/5uqVvkhvKFL3SOUZJgnoE9) | 6:37 | 2024-12-16 |  |
 | [Valimai Kooduthey](https://open.spotify.com/track/0DB2f8fIetpuxtvz4VVHR1) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Valimai Kooduthey](https://open.spotify.com/album/0pMNdeffLwJaVnaPMnStz0) | 3:24 | 2022-06-30 | 2022-07-08 |
 | [Vanakkam Vandhanam](https://open.spotify.com/track/15RGFYJ7lf651jySnXVPjS) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Vanakkam Vandhanam](https://open.spotify.com/album/1x24yHFkgELp7EnCsCMmJH) | 1:56 | 2024-08-30 | 2024-09-20 |
 | [Vazhvatha Savatha](https://open.spotify.com/track/6XJKEahOAoz5HJkEHbWDiO) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Deshany AJS](https://open.spotify.com/artist/71iFtU6JCRgIAE8QfNySiV) | [Vazhvatha Savatha](https://open.spotify.com/album/5lN01Il4dJaDNXNmvTVRkU) | 3:03 | 2022-07-21 | 2022-08-10 |

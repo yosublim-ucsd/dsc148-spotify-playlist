@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עומר אדם
 
-95 songs - 4 hr 59 min
+97 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-07-01 | 2024-09-24 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 | 2024-09-10 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 |  |
-| [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 |  |
+| [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2024-12-17 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-08-27 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-29 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-01 | 2024-11-12 |
@@ -42,7 +42,7 @@
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2024-07-01 | 2024-07-30 |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 |  |
 | [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 | 2024-07-29 |  |
-| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-07-01 |  |
+| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-07-01 | 2024-12-17 |
 | [אין מרחק בינינו](https://open.spotify.com/track/5vrzcGVyLeru7vHm89EvRr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אין מרחק בינינו](https://open.spotify.com/album/7BdsF83eS87kdszoELUDcO) | 3:00 | 2024-09-30 |  |
 | [איפה אתה](https://open.spotify.com/track/1dkljZlzg37FoGtUJ1EsxQ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:38 | 2024-07-01 | 2024-07-30 |
 | [אל תלכי](https://open.spotify.com/track/3ZxJ11VOqtzbFPQJAGYCjC) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [אל תלכי](https://open.spotify.com/album/2KtQV0fjUDkL61f90c3Ccl) | 3:01 | 2024-09-09 | 2024-09-24 |
@@ -50,6 +50,7 @@
 | [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 | 2024-07-22 | 2024-10-01 |
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-08-05 |  |
 | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 |  |
+| [אתה אני אולי](https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אתה אני אולי](https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0) | 3:18 | 2024-12-16 |  |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-07-01 |  |
 | [בגלגול הבא](https://open.spotify.com/track/1b8Zi0VlYH3M7eeXQZ7APz) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בגלגול הבא](https://open.spotify.com/album/0GZd3y2xiKoHiTtOhItUzs) | 2:41 | 2024-07-01 | 2024-08-20 |
 | [בואי נדבר](https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [בואי נדבר](https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo) | 2:52 | 2024-07-01 | 2024-08-20 |
@@ -101,6 +102,7 @@
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-09 |  |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 | 2024-11-19 |
 | [תמיד אוהב אותי](https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [תמיד אוהב אותי](https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp) | 2:52 | 2024-09-23 |  |
+| [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 | 2024-12-16 |  |
 | [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 | 2024-09-23 |  |
 | [תרקדי \(7.10.23\)](https://open.spotify.com/track/0CBpvL8Z0NRdazbJ4HDm9M) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [תרקדי \(7.10.23\)](https://open.spotify.com/album/1qjiaeASOpQs4MJbc5k3of) | 5:00 | 2024-07-01 | 2024-07-30 |
 

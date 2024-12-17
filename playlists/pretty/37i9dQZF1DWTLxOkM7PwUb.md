@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,257 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 80 | [HISTORIA](https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [HISTORIA](https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT) | 3:29 |
 | 81 | [Sola](https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Estani](https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ) | [Chernobyl](https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn) | 2:23 |
 | 82 | [JetLag](https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [JetLag](https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu) | 4:29 |
-| 83 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
-| 84 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
+| 83 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
+| 84 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
 | 85 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
 | 86 | [Lluvia](https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Así Como Suena](https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE) | 2:57 |
 | 87 | [Tus Dudas](https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Elmabel](https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Tus Dudas](https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO) | 2:51 |

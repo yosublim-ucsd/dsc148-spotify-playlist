@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,686 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,825 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 48 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
 | 49 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 |
 | 50 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
-| 51 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
-| 52 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
-| 53 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 |
+| 51 | [What Are You Waiting For \- Sunrise Mix](https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\) \- EP](https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj) | 3:51 |
+| 52 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
+| 53 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
 | 54 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
-| 55 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 |
-| 56 | [What Are You Waiting For \- Sunrise Mix](https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\) \- EP](https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj) | 3:51 |
+| 55 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 |
+| 56 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 |
 | 57 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 58 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 |
 | 59 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |

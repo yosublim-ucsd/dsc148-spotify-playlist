@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 1945808,
+  "num_followers": 1946516,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267920,
       "name": "Consume (feat. Goon Des Garcons)",
       "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Her Love Still Haunts Me Like a Ghost",
         "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Purrr!",
         "url": "https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 199746,
       "name": "So High",
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 202536,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > These ones are taking off 🚀🚀🚀 Cover: Cynthia Erivo
 
-301 songs - 16 hr 15 min
+302 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2024-01-23 | 2024-04-06 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-22 | 2024-11-12 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 | 2024-07-05 |
-| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-22 |  |
+| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-22 | 2024-12-17 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 |  |
 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 | 2024-05-17 | 2024-07-23 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 | 2024-04-19 |
@@ -65,6 +65,7 @@
 | [Defying Gravity \- Edit](https://open.spotify.com/track/7DYH202qpZ1MwLBMd7uvb1) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/1gLo9HojTvd3vN5rqPvk0I) | 3:33 | 2024-12-09 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-30 |  |
 | [Dilemma \(feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/1IQ7SE3i5bA3Ia4f1eZz9h) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 3:23 | 2024-06-28 | 2024-07-23 |
+| [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 | 2024-12-16 |  |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-18 |  |
 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 | 2024-11-11 |  |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-09-02 |  |

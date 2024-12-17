@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145118,
+  "num_followers": 145123,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u9ed1\u00b7\u767d\u00b7\u7070",
-        "url": "https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "\u5341\u5e74",
-      "url": "https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u9ed1\u00b7\u767d\u00b7\u7070",
+        "url": "https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "\u5341\u5e74",
+      "url": "https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u98db\u5152\u6a02\u5718",
-        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
-      },
-      "artists": [
-        {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
-        }
-      ],
-      "duration_ms": 287026,
-      "name": "\u6211\u5011\u7684\u611b",
-      "url": "https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u6709\u7406\u60f3",
         "url": "https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 312997,
       "name": "\u4e0d\u5c07\u5c31 (\u96fb\u5f71\"\u4f55\u4ee5\u7b19\u7c2b\u9ed8\"\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u98db\u5152\u6a02\u5718",
+        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "\u6211\u5011\u7684\u611b",
+      "url": "https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
         "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
-      },
-      "artists": [
-        {
-          "name": "\u8521\u6069\u96e8 Priscilla Abby",
-          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
         "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 349773,
       "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u6069\u96e8 Priscilla Abby",
+          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
     },
     {
       "added_at": "2024-10-11 05:22:52",

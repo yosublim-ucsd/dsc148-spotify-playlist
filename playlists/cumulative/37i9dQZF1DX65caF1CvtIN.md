@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-220 songs - 9 hr 50 min
+221 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [The Day After](https://open.spotify.com/track/6Yw7ZegbTUDDmDkf9JWvkw) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Day After](https://open.spotify.com/album/26lOYAveXD3qUcfxiWGw8e) | 1:55 | 2023-01-09 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 | 2024-12-11 |  |
+| [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 | 2024-12-16 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Rain](https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [The Rain](https://open.spotify.com/album/1ZNO8N4VKuOTIqUuMucY1g) | 3:07 | 2022-12-06 |  |

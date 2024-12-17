@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-148 songs - 6 hr 8 min
+149 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 | 2023-08-15 | 2024-04-19 |
 | [Resting Song](https://open.spotify.com/track/5x2fu50qw3r9BMonmvq5s6) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/4i9tNd1I94lnoGx29ZAOaQ) | 2:51 | 2023-06-20 | 2023-09-11 |
 | [resting song](https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/3RwV4LNPI9WlWatCEaPtsd) | 2:51 | 2023-05-09 | 2024-07-31 |
+| [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 | 2024-12-16 |  |
 | [Rivers Run](https://open.spotify.com/track/4WYhUn9Ed37U8FtKrSlPVm) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Rivers Run](https://open.spotify.com/album/4RjEzBp3wM590XPVTqI1kr) | 2:22 | 2023-09-11 |  |
 | [Riverun](https://open.spotify.com/track/0hIyFd8XwSIrbYhxko1zYE) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Riverun](https://open.spotify.com/album/4E3ZjKxD8RVt9OPTAYEG3y) | 1:30 | 2023-05-09 |  |
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2023-05-09 |  |

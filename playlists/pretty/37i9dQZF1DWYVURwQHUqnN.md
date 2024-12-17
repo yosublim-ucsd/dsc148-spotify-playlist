@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,467 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,492 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 495189,
+  "num_followers": 495434,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 154991,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+      "duration_ms": 154991,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196435,
       "name": "H.I.E.L.O.",
       "url": "https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Dillom: Bzrp Music Sessions, Vol. 9",
         "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
       },
@@ -1387,26 +1371,6 @@
       "duration_ms": 151843,
       "name": "Dillom: Bzrp Music Sessions, Vol. 9",
       "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1443,6 +1407,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157732,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
     },
     {
       "added_at": "2024-03-08 16:14:30",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 37677,
+  "num_followers": 37728,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Oh, Noche Santa",
         "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 233296,
       "name": "Oh, Noche Santa",
       "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Jes\u00fas Naci\u00f3",
-        "url": "https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR"
-      },
-      "artists": [
-        {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
-        }
-      ],
-      "duration_ms": 228454,
-      "name": "Jes\u00fas Naci\u00f3",
-      "url": "https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "La Estrella",
         "url": "https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 286454,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Jes\u00fas Naci\u00f3",
+        "url": "https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR"
+      },
+      "artists": [
+        {
+          "name": "Nxtwave",
+          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+        }
+      ],
+      "duration_ms": 228454,
+      "name": "Jes\u00fas Naci\u00f3",
+      "url": "https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -915,6 +915,30 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Emmanuel (Radio Edit)",
+        "url": "https://open.spotify.com/album/3QOBk0cVV6JcDipDOxIKSh"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Semillas De Vida",
+          "url": "https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2"
+        },
+        {
+          "name": "ENROCA",
+          "url": "https://open.spotify.com/artist/5SyPyaMiQGvIlsrg4s2dPy"
+        }
+      ],
+      "duration_ms": 295116,
+      "name": "Emmanuel - Radio Edit",
+      "url": "https://open.spotify.com/track/7G1XliJqhJOOu3gjVvQ1uG"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Dios Anduvo en Pa\u00f1ales",
         "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 209600,
       "name": "V\u00edstete",
       "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Emmanuel (Radio Edit)",
-        "url": "https://open.spotify.com/album/3QOBk0cVV6JcDipDOxIKSh"
-      },
-      "artists": [
-        {
-          "name": "Nueva Raza",
-          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
-        },
-        {
-          "name": "Semillas De Vida",
-          "url": "https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2"
-        },
-        {
-          "name": "ENROCA",
-          "url": "https://open.spotify.com/artist/5SyPyaMiQGvIlsrg4s2dPy"
-        }
-      ],
-      "duration_ms": 295116,
-      "name": "Emmanuel - Radio Edit",
-      "url": "https://open.spotify.com/track/7G1XliJqhJOOu3gjVvQ1uG"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1023,38 +1023,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad - Jes\u00fas Es el Motivo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5eEp9QY1Uw8G10eV2X6bR8"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 177862,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/71FxVLPCWjZe6OvBbrhN6U"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Ella Dijo S\u00ed",
-        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 166375,
-      "name": "Ella Dijo S\u00ed",
-      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
       },
@@ -1071,18 +1039,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
+        "name": "Navidad - Jes\u00fas Es el Motivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5eEp9QY1Uw8G10eV2X6bR8"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+      "duration_ms": 177862,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/71FxVLPCWjZe6OvBbrhN6U"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Ya naci\u00f3",
         "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Ella Dijo S\u00ed",
+        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 166375,
+      "name": "Ella Dijo S\u00ed",
+      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 228253,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1159,22 +1175,6 @@
       "duration_ms": 228150,
       "name": "Es Navidad (O Holy Night)",
       "url": "https://open.spotify.com/track/1RVCH1Vml52aqeZUuZPIr6"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Cristianos Vayamos",
-        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
-      },
-      "artists": [
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "Cristianos Vayamos",
-      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1267,6 +1267,42 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Cantamos Gloria",
+        "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rojas",
+          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
+        },
+        {
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+        }
+      ],
+      "duration_ms": 227771,
+      "name": "Cantamos Gloria",
+      "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Santa La Noche",
+        "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
+      },
+      "artists": [
+        {
+          "name": "Carla Vidal",
+          "url": "https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi"
+        }
+      ],
+      "duration_ms": 253125,
+      "name": "Santa La Noche",
+      "url": "https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Navidad en Miami",
         "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
       },
@@ -1315,26 +1351,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Cantamos Gloria",
-        "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rojas",
-          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
-        },
-        {
-          "name": "Kairy Marquez",
-          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
-        }
-      ],
-      "duration_ms": 227771,
-      "name": "Cantamos Gloria",
-      "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Nattyvidad",
         "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 222375,
       "name": "Se Oye el Anuncio",
       "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Santa La Noche",
-        "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
-      },
-      "artists": [
-        {
-          "name": "Carla Vidal",
-          "url": "https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi"
-        }
-      ],
-      "duration_ms": 253125,
-      "name": "Santa La Noche",
-      "url": "https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Esta Navidad Eres Tu",
+        "url": "https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE"
+      },
+      "artists": [
+        {
+          "name": "Giada Valenti",
+          "url": "https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt"
+        }
+      ],
+      "duration_ms": 276128,
+      "name": "Esta Navidad Eres Tu",
+      "url": "https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Esta Navidad Eres Tu",
-        "url": "https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE"
+        "name": "Jes\u00fas Es Navidad",
+        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
       },
       "artists": [
         {
-          "name": "Giada Valenti",
-          "url": "https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt"
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
         }
       ],
-      "duration_ms": 276128,
-      "name": "Esta Navidad Eres Tu",
-      "url": "https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK"
+      "duration_ms": 157833,
+      "name": "Jes\u00fas Es Navidad",
+      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Jes\u00fas Es Navidad",
-        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "Jes\u00fas Es Navidad",
-      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Lo Que Quiero Dar",
         "url": "https://open.spotify.com/album/50cFEKt1gJlJH2g01I4wCt"
       },
@@ -1695,6 +1695,26 @@
       "duration_ms": 191893,
       "name": "Lo Que Quiero Dar",
       "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Este Amor",
+        "url": "https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa"
+      },
+      "artists": [
+        {
+          "name": "Leah Gourlie",
+          "url": "https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX"
+        },
+        {
+          "name": "Nathan Ironside",
+          "url": "https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8"
+        }
+      ],
+      "duration_ms": 323750,
+      "name": "Este Amor - Ambient Mix",
+      "url": "https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1739,22 +1759,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Este Amor",
-        "url": "https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
       },
       "artists": [
         {
-          "name": "Leah Gourlie",
-          "url": "https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX"
-        },
-        {
-          "name": "Nathan Ironside",
-          "url": "https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8"
+          "name": "Celeste & Wilber",
+          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
         }
       ],
-      "duration_ms": 323750,
-      "name": "Este Amor - Ambient Mix",
-      "url": "https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu"
+      "duration_ms": 277857,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1779,22 +1795,6 @@
       "duration_ms": 157289,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
-      },
-      "artists": [
-        {
-          "name": "Celeste & Wilber",
-          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
-        }
-      ],
-      "duration_ms": 277857,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2024-12-13 04:11:31",

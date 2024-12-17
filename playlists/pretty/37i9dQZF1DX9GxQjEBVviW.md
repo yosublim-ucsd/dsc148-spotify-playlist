@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,286 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,303 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 8 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 9 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 10 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
-| 11 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
+| 11 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 | 12 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
-| 13 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
+| 13 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 14 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
 | 15 | [A Thousand Miles Away](https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF) | [The Heartbeats](https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK) | [All the Hits and More](https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY) | 2:28 |
 | 16 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |

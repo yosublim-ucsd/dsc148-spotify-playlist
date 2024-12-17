@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 176319,
+  "num_followers": 176390,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Automechanic",
         "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 228253,
       "name": "Automechanic",
       "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 291664,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 291664,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN"
     },
     {
       "added_at": "2024-07-05 19:49:15",

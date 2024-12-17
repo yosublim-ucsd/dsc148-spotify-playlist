@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 40895,
+  "num_followers": 40896,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABa83Uf8mQ2LIONSLYkhisP",
+  "snapshot_id": "Z14cAAAAAABoHaY9WtUF9M0Ftjcs3LKB",
   "tracks": [
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 203869,
-      "name": "Party On Apocalypse",
-      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
+      "duration_ms": 134933,
+      "name": "Truck Stop Blues",
+      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 134933,
-      "name": "Truck Stop Blues",
-      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
+      "duration_ms": 203869,
+      "name": "Party On Apocalypse",
+      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make The Most Of It",
-        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 261058,
-      "name": "Dream Born Again",
-      "url": "https://open.spotify.com/track/6tJtl8IY3N7dBJ80PSeswu"
+      "duration_ms": 171533,
+      "name": "47",
+      "url": "https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN"
     }
   ],
   "unique_name": "This Is New Found Glory",

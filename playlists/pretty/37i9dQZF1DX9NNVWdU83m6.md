@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,891 likes - 129 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,910 likes - 129 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 19 | [Guns, Germs and Steel](https://open.spotify.com/track/5RUk3kvXN5UY4upA6ntmKQ) | [Strobes](https://open.spotify.com/artist/4s1eMHTAaIlDiBNMcBKq08) | [Brokespeak](https://open.spotify.com/album/51qMfFrWslTbRpBTYVFiD5) | 5:51 |
 | 20 | [Eight](https://open.spotify.com/track/6mY0cMHPRW5zom3nurTxMr) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Eight](https://open.spotify.com/album/16Nud8qE9ed5FsaT53mo7k) | 3:41 |
 | 21 | [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 |
-| 22 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
+| 22 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
 | 23 | [Vortex](https://open.spotify.com/track/5laqVYGYzUuHVqzPnVEGGk) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Vortex](https://open.spotify.com/album/3IiQIr12IWEmMEGHNxvvzg) | 4:22 |
 | 24 | [Ikigai](https://open.spotify.com/track/7tO177bfJZ1IJasWil96wD) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J) | [Ikigai](https://open.spotify.com/album/315zprf1POK89DZOYBsPtQ) | 4:25 |
 | 25 | [2020](https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [2020](https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL) | 8:03 |

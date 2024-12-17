@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dolly Parton & Family",
-  "num_followers": 164661,
+  "num_followers": 164666,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1399,22 +1399,6 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Kinetic Tone",
-        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Railroadin' & Gamblin'",
         "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Kinetic Tone",
+        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Kentucky Bluegrassed",
         "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 180570,
       "name": "Kentucky Blue",
       "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Trains, Thinkin' and Drinkin'",
-        "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
-      },
-      "artists": [
-        {
-          "name": "J.M. Clifford",
-          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Complicated Man",
-      "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Trains, Thinkin' and Drinkin'",
+        "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
+      },
+      "artists": [
+        {
+          "name": "J.M. Clifford",
+          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Complicated Man",
+      "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "This Valley",
         "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "All the Mornings Have an Echo",
         "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 235786,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "So Much For Forever",
-        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "My Little Girl in Tennessee (Live)",
         "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "So Much For Forever",
+        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
     }
   ],
   "unique_name": "Grass Roots",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064,102 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,071 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 38 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 39 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 40 | [Dead Girl Walking](https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 3:19 |
-| 41 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
-| 42 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
+| 41 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
+| 42 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 43 | [Season of Charade](https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [All Means, No End](https://open.spotify.com/album/0EMbsSxadV2BHa8h5A0OMp) | 4:29 |
 | 44 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
 | 45 | [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 61 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 62 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 63 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 64 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
-| 65 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
-| 66 | [Cherokee Rose](https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 4:38 |
+| 64 | [Cherokee Rose](https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 4:38 |
+| 65 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
+| 66 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 67 | [Tragic Magic](https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:22 |
 | 68 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
 | 69 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |

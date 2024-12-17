@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,554 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,558 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 6 | [Pedro Canoero](https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Autobiografía](https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL) | 3:22 |
 | 7 | [Puerto Pollensa](https://open.spotify.com/track/5BaoWORszQDCU5ee4frtoP) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Puerto Pollensa](https://open.spotify.com/album/6b92efJS3GCOn2wuJWqZd5) | 4:24 |
 | 8 | [Me Das Cada Día Más](https://open.spotify.com/track/0XbgL3Wzp4xzM37UOrhJyp) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Cada Dia Más](https://open.spotify.com/album/19d2wrbEdXYXWXDcl7jpKe) | 2:52 |
-| 9 | [Algo Contigo](https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [María Martha Serra Lima](https://open.spotify.com/artist/03vv0WEv8o8eeVgeXBVHdP) | [Esencia Romántica](https://open.spotify.com/album/2Wh9zZhZyzR2nfIo7NT5hE) | 3:28 |
-| 10 | [Que me quemen tus ojos](https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:39 |
-| 11 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
+| 9 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
+| 10 | [Algo Contigo](https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [María Martha Serra Lima](https://open.spotify.com/artist/03vv0WEv8o8eeVgeXBVHdP) | [Esencia Romántica](https://open.spotify.com/album/2Wh9zZhZyzR2nfIo7NT5hE) | 3:28 |
+| 11 | [Que me quemen tus ojos](https://open.spotify.com/track/5EMNfxOITCFUgYj22d1UvA) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:39 |
 | 12 | [Florcita Del Monte](https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 3:18 |
 | 13 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
 | 14 | [Sólo Se Trata de Vivir](https://open.spotify.com/track/34Z7MPUYiW2CUiCKTHWI5u) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [Más Que Loca \(Canta a Litto Nebbia\)](https://open.spotify.com/album/1STq6fA06macNb2lfkqU8D) | 3:21 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 22 | [Alma Gitana](https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Alma Gitana](https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj) | 5:40 |
 | 23 | [Garganta Con Arena](https://open.spotify.com/track/4uO4z9gb5FFOeu6ixkJHYQ) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tango en Vivo](https://open.spotify.com/album/2u1vR7Qjt1DXIgG3iaO0ch) | 4:08 |
 | 24 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |
-| 25 | [Palabras para Julia](https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesión del Viento](https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES) | 3:07 |
-| 26 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
+| 25 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
+| 26 | [Palabras para Julia](https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesión del Viento](https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES) | 3:07 |
 | 27 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 28 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
 | 29 | [Y Qué Más](https://open.spotify.com/track/5AUAwAIe2eoZfHsfUrmQqQ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Y Qué Más](https://open.spotify.com/album/0iq7409w2SDI4sbHa7Sn9q) | 3:40 |

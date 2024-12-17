@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,684 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,683 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 10 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
 | 11 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 12 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
-| 13 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
-| 14 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 13 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 14 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
 | 15 | [Devorame Otra Vez](https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:56 |
 | 16 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 17 | [Esa Muchacha](https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Esa Muchacha](https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T) | 3:57 |
-| 18 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
+| 18 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
 | 19 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 20 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
-| 21 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
+| 21 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 22 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 23 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
 | 24 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |

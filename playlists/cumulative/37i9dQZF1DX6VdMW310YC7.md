@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,708 songs - 4 day 20 hr 52 min
+1,709 songs - 4 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Hello Sun](https://open.spotify.com/track/0Q1Qacx7PAcTlVxeovkmJL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 3:35 | 2020-07-03 | 2022-04-21 |
 | [Her Theme](https://open.spotify.com/track/5Yrb9rFCDWnRSTxryTFS1n) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Her Theme](https://open.spotify.com/album/37t0eo2UQzsyTUPUDnQqJ4) | 4:06 | 2020-12-04 | 2022-02-18 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2021-11-12 | 2023-09-09 |
-| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 |  |
+| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 | 2024-12-17 |
 | [Here on My Own](https://open.spotify.com/track/3jbm6LQn2wgRPBAEFqU8Hu) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 5:50 | 2020-03-20 | 2021-02-19 |
 | [Here With U](https://open.spotify.com/track/0ybQSH5KtXbPTcH9JuXEfD) | [Michael Mason](https://open.spotify.com/artist/6FVCXAh2mxOgRQutgoHRPJ) | [Here With U](https://open.spotify.com/album/1aSZAELKMTTiOLrmdhIWfX) | 3:12 | 2020-05-20 | 2020-10-09 |
 | [Heroes \(we could be\) \- Amtrac Remix](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Heroes \(we could be\) \[The Remixes\]](https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og) | 5:08 | 2020-05-18 | 2020-07-03 |
@@ -1614,6 +1614,7 @@
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2022-08-26 | 2022-09-10 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5keheTPTVskQPPhrIkKd3i) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:36 | 2022-08-26 | 2023-05-13 |
 | [Walls \- Deeper Shades Mix](https://open.spotify.com/track/1BUrN6qW5eUvLc0rdSWHcO) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Quilla](https://open.spotify.com/artist/24psFjsCyZlTjAccGnZbaJ) | [Walls \(Deeper Shades Mix\)](https://open.spotify.com/album/3os5snJQgP9O0BWFulookz) | 3:35 | 2020-05-18 | 2020-07-03 |
+| [Wanna Be Somewhere With You](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Wanna Be Somewhere With You](https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY) | 3:40 | 2024-12-13 |  |
 | [Warped Minds \- Original Mix](https://open.spotify.com/track/0ZHlBjoFadDZVSmewEnHOl) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [On the Edge](https://open.spotify.com/album/21NXzVQakij6zNoNnbQmyJ) | 5:32 | 2020-05-18 | 2020-07-03 |
 | [wash away](https://open.spotify.com/track/1kINjR2JTBPB3KSiSNaQ6b) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [wash away](https://open.spotify.com/album/1wQ7eQvBIsDhwASexaAhdO) | 4:11 | 2022-03-18 | 2022-07-27 |
 | [Waste \(RY X Remix\)](https://open.spotify.com/track/0ZlqV4un0ncPRzrGPnCSOd) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/7LlzF5JdsgeGB88LbpSXVr) | 9:13 | 2020-03-16 | 2020-07-18 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 263900,
       "name": "Angelic Grace",
       "url": "https://open.spotify.com/track/0zJO7hUoSLutcwUAA7JsXx"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 231293,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1JfvP6CDhv0exkrjzZOBpj"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 211766,
       "name": "\u30cd\u30d3\u30e5\u30e9",
       "url": "https://open.spotify.com/track/4M6AlJLhEON9MRCLm4rwYJ"
@@ -2062,6 +2062,24 @@
       "duration_ms": 278520,
       "name": "\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd",
       "url": "https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u6d41\u661f\u968a",
+        "url": "https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a/\u5b88\u6ca2\u5343\u79cb(CV.\u5e06\u4e16\u96c4\u4e00)\u3001\u6df1\u6d77\u594f\u6c70(CV.\u897f\u5c71\u5b8f\u592a\u6717)\u3001\u5357\u96f2\u9244\u864e(CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef\u7fe0(CV.\u6e21\u8fba\u62d3\u6d77)\u3001\u4ed9\u77f3\u5fcd(CV.\u65b0\u7530\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "\u6d41\u661f\u82b1\u706b",
+      "url": "https://open.spotify.com/track/75ZhCM7iQI3I6X1qOTjXLl"
     },
     {
       "album": {

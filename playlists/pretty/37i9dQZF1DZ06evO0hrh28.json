@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 203702,
+  "num_followers": 204003,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAD1QW7bOopqozAriGMIM6BU",
+  "snapshot_id": "Z14cAAAAAACSrTIEHQ91g11ww6FCV8sf",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "r\u00e1pido lento",
-        "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 213000,
-      "name": "r\u00e1pido lento",
-      "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
       "added_at": null,
@@ -555,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+        "name": "r\u00e1pido lento",
+        "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 156325,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
+      "duration_ms": 213000,
+      "name": "r\u00e1pido lento",
+      "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+      "duration_ms": 156325,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
     },
     {
       "added_at": null,

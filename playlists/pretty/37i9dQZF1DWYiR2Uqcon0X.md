@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,564 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,569 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 35 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
 | 36 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
 | 37 | [Dance With You \- Acoustic](https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You \(Acoustic\)](https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0) | 3:10 |
-| 38 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 |
-| 39 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
+| 38 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
+| 39 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 |
 | 40 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 41 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 42 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 49 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 50 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
 | 51 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
-| 52 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
-| 53 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
+| 52 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
+| 53 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 54 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
 | 55 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 56 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 72 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
 | 73 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
 | 74 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
-| 75 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
+| 75 | [I Forget Myself](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 |
 
 Snapshot ID: `ZsOjxgAAAADWeiZpySTl6TJ4reiLPUGj`

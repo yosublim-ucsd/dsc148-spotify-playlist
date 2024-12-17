@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Aquilina. The essential tracks, all in one playlist.",
-  "num_followers": 516,
+  "num_followers": 517,
   "original_name": "This Is Lauren Aquilina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABPA9y0g6zPJU08XRj8V3HZ",
+  "snapshot_id": "Z14cAAAAAAC3VxuEz+oWlE4vGcbrgI1Z",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 237338,
-      "name": "Thinking About",
-      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+      "duration_ms": 216578,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
       "duration_ms": 192000,
       "name": "Ugly Truth",
       "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hanging By Your Halo",
-        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 195697,
-      "name": "Hanging By Your Halo",
-      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
     },
     {
       "added_at": null,
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 216578,
-      "name": "Kicks",
-      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 209896,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 237338,
+      "name": "Thinking About",
+      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hanging By Your Halo",
+        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 195697,
+      "name": "Hanging By Your Halo",
+      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 111780,
-      "name": "Teenage Self",
-      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+      "duration_ms": 204000,
+      "name": "Swap Places",
+      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Swap Places",
-      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
+      "duration_ms": 111780,
+      "name": "Teenage Self",
+      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
     },
     {
       "added_at": null,

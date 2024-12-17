@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,406 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 44 | [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 |
 | 45 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 |
 | 46 | [Thunder in Our Hearts](https://open.spotify.com/track/4lR93dysMoS3kf8QYSBwpv) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:45 |
-| 47 | [Drive](https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:06 |
-| 48 | [So Hopelessly](https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:00 |
+| 47 | [So Hopelessly](https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:00 |
+| 48 | [Drive](https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:06 |
 | 49 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 |
 | 50 | [Lucerne Valley](https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lucerne Valley](https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy) | 3:27 |
 
-Snapshot ID: `Z1zKgAAAAADAwx8XJ0VE92zA/4D8LmrU`
+Snapshot ID: `Z14cAAAAAADViIGNTZgEUMg3NE4fSrBW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,573 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,577 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 66 | [Twenty Miles](https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2) | 3:43 |
 | 67 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |
 | 68 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
-| 69 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 70 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
-| 71 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |
-| 72 | [Hawkmoon](https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 3:42 |
+| 69 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
+| 70 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 71 | [Hawkmoon](https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 3:42 |
+| 72 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |
 | 73 | [Western White Pines](https://open.spotify.com/track/6Ij3KFSEj8rlK1h1cgPJt0) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:07 |
 | 74 | [Satisfy Me](https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:35 |
 | 75 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Skyface SDW",
+  "description": "Hottest bars coming live from the 233.  Cover: Sarkodie",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -8678,6 +8678,24 @@
       "duration_ms": 204766,
       "name": "No Shiver",
       "url": "https://open.spotify.com/track/4jZ2dPpgMBEgcEJENkVKqE"
+    },
+    {
+      "album": {
+        "name": "NO SIR",
+        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "NO SIR",
+      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
     },
     {
       "album": {

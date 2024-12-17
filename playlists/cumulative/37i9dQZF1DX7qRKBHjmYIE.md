@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-841 songs - 1 day 21 hr 21 min
+842 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1UNAMORSUPREMO](https://open.spotify.com/track/1xtDTlu0gK9Gc2Y8t7uzsJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 1:47 | 2023-08-25 | 2023-09-30 |
 | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn) | 2:48 | 2022-05-25 | 2023-02-17 |
 | [2mil horas](https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [2mil horas](https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC) | 3:27 | 2024-05-17 | 2024-10-26 |
+| [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 | 2024-12-16 |  |
 | [7heaven \- A COLORS SHOW](https://open.spotify.com/track/5lhVeVnr57fveNAiE4sYvG) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [7heaven \- A COLORS SHOW](https://open.spotify.com/album/1kLWQ3VDHimakhSD31Tquu) | 2:55 | 2021-12-02 | 2022-01-25 |
 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 | 2023-09-29 | 2024-04-13 |
 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 | 2022-10-28 | 2022-12-31 |
@@ -326,7 +327,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2022-01-24 | 2022-06-04 |
 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 | 2023-03-22 | 2023-05-13 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2022-01-24 | 2022-12-31 |
-| [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 | 2024-08-23 |  |
+| [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 | 2024-08-23 | 2024-12-17 |
 | [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 | 2022-10-28 | 2023-01-11 |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-10-27 | 2023-02-17 |
 | [hate to be lame](https://open.spotify.com/track/2x6s55uyxXV59O4t95sVl6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/6lLeTIHyucDxa2dYocc8Fv) | 2:36 | 2022-11-04 | 2022-11-13 |

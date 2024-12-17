@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,949 likes - 133 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,955 likes - 133 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 69 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 70 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 71 | [The Wave \(feat\. Madcon\)](https://open.spotify.com/track/2aE5Nih0DGEVWhA9BVsiua) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [The Wave \(feat\. Madcon\)](https://open.spotify.com/album/3PXhfheqGadYFCxkz33Pmf) | 2:58 |
-| 72 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
-| 73 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 72 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 73 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
 | 74 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 75 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
 | 76 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 132 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 133 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbkPaAAAAACUlo2zpuQ+Q+WCMa97nNZM`
+Snapshot ID: `AbkU9AAAAABBtlBCByz3jzrzJYGP9qy3`

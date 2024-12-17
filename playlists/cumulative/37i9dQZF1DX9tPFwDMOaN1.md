@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: Stray Kids
 
-586 songs - 1 day 6 hr 45 min
+587 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-08 |  |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-12-20 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-24 | 2023-01-28 |
+| [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2024-12-16 |  |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-05-01 | 2024-08-20 |
 | [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-22 | 2023-07-08 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 | 2024-06-28 |
@@ -234,7 +235,7 @@
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-27 | 2022-12-22 |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Hot Sauce](https://open.spotify.com/track/6TnmKnDtpu47ENJk6urK6y) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:15 | 2022-03-09 | 2022-03-30 |
-| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 |  |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 | 2024-12-17 |
 | [How You Like That](https://open.spotify.com/track/6bvZRLLkBKkmgpBJTTj3QK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:00 | 2022-03-08 | 2022-05-10 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-24 | 2023-07-29 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-10 | 2024-03-16 |

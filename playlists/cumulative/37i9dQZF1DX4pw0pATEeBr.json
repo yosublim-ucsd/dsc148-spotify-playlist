@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
@@ -404,6 +404,28 @@
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "album": {
+        "name": "IceWeed-Man",
+        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Desvielados",
+      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,495 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,524 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 50 | [Si Las Gatas Se Amotinan](https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan](https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew) | 2:44 |
 
-Snapshot ID: `LvJGIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

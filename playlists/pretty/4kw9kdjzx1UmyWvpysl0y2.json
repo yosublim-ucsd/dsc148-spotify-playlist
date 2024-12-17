@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125632,
+  "num_followers": 125624,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATcmT5hPqmobbpV/7rPEoVMnB2UZQ4",
+  "snapshot_id": "AAATc7aay3C1ny6sKNpf2ao+izMQ2Kua",
   "tracks": [
+    {
+      "added_at": "2024-12-16 16:01:39",
+      "album": {
+        "name": "real 4 me (VIP)",
+        "url": "https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "real 4 me - VIP",
+      "url": "https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy"
+    },
     {
       "added_at": "2024-12-13 15:16:14",
       "album": {

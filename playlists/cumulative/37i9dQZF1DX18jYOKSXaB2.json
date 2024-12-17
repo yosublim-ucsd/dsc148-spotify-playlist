@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 184800,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/6tsY2AuNy68FWW6maO3lNg"
@@ -1170,6 +1170,28 @@
       "duration_ms": 192006,
       "name": "Gyal Like You",
       "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
+    },
+    {
+      "album": {
+        "name": "HANG MY BOOTS",
+        "url": "https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187110,
+      "name": "HANG MY BOOTS (feat. King Promise)",
+      "url": "https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637"
     },
     {
       "album": {

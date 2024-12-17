@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,223 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,227 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 26 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
 | 27 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 28 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 |
-| 29 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
-| 30 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
+| 29 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
+| 30 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 | 31 | [Humedad Valenciana](https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [Humedad Valenciana](https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC) | 2:58 |
 | 32 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
 | 33 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 42 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 |
 | 43 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
 | 44 | [Lejos](https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Lejos](https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ) | 3:37 |
-| 45 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
+| 45 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
 | 46 | [Backstage](https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [No hay nada más de vampiro que tener unos primos en Portugal](https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq) | 2:42 |
-| 47 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
-| 48 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
-| 49 | [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 |
-| 50 | [ASTUTA](https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/0GKzP509sadnEWkbzSnrKm) | 2:50 |
+| 47 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
+| 48 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
+| 49 | [ASTUTA](https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/0GKzP509sadnEWkbzSnrKm) | 2:50 |
+| 50 | [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 |
 
 Snapshot ID: `Z1BuqgAAAAD2iXGesDPNk+xSwKPV7NTr`

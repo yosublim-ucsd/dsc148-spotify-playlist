@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Bebe Ricota",
-        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Bebe Ricota",
-      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "A la Bim Bom Bam",
         "url": "https://open.spotify.com/album/1Aygxok69t1HTET2a1PlDF"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 128307,
       "name": "A la Bim Bom Bam",
       "url": "https://open.spotify.com/track/18QXmS1VzNzcDPrkiNrkY5"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Bebe Ricota",
+        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Bebe Ricota",
+      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
     },
     {
       "added_at": "2024-08-30 06:00:00",

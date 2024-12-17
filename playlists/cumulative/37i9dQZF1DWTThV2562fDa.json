@@ -383,6 +383,32 @@
     },
     {
       "album": {
+        "name": "The Game Don't Stop - Squid Game 2",
+        "url": "https://open.spotify.com/album/0RDfYGnsLRutj0Mkj6ETxL"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "The Game Don't Stop - Squid Game 2",
+      "url": "https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj"
+    },
+    {
+      "album": {
         "name": "Squid Game (Original Soundtrack from The Netflix Series)",
         "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
       },

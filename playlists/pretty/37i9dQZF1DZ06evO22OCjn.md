@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,095 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,206 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 50 | [More Life](https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 1:32 |
 | 51 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 
-Snapshot ID: `Z1zKgAAAAAD4T3id68NDSPR5iBO5LlrD`
+Snapshot ID: `Z14cAAAAAAD4V9zZzNCayQtEPqSbvzjm`

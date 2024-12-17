@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,891 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,057 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 12 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
 | 13 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 14 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
-| 15 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 16 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
+| 15 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
+| 16 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
 | 17 | [The Worst Day Since Yesterday](https://open.spotify.com/track/5S1qWBPGQoktlmFd6bj3JY) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:38 |
 | 18 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
 | 19 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 42 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
 | 43 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 |
 | 44 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
-| 45 | [My Pint](https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE) | [The Bastard Suns](https://open.spotify.com/artist/5Pl6l5ZS7eSQhcfH93grw4) | [The Hail Mary EP](https://open.spotify.com/album/2XXNqcmTUvhsn95c9KIqX8) | 3:09 |
-| 46 | [White Knuckle Ride](https://open.spotify.com/track/1rUiICtcJ7UpGn55gRxpdo) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off The Leash](https://open.spotify.com/album/4gOFYHgQfBZhqilL96qMtE) | 3:26 |
+| 45 | [White Knuckle Ride](https://open.spotify.com/track/1rUiICtcJ7UpGn55gRxpdo) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off The Leash](https://open.spotify.com/album/4gOFYHgQfBZhqilL96qMtE) | 3:26 |
+| 46 | [My Pint](https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE) | [The Bastard Suns](https://open.spotify.com/artist/5Pl6l5ZS7eSQhcfH93grw4) | [The Hail Mary EP](https://open.spotify.com/album/2XXNqcmTUvhsn95c9KIqX8) | 3:09 |
 | 47 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 | 48 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
 | 49 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |

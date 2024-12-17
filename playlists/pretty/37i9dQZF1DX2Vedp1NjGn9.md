@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,130 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,161 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 50 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 | 51 | [Itchin' on a Photograph](https://open.spotify.com/track/01nkjRsgpYwtbH94l7y4cg) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:19 |
 | 52 | [Two Against One \(feat\. Jack White\)](https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 2:20 |
-| 53 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
-| 54 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
+| 53 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
+| 54 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
 | 55 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 56 | [Polish Girl](https://open.spotify.com/track/7vA9zWg6fmjLZn105Uj4TE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/2N9pVEQw0ByXjNn9QSknz3) | 4:24 |
 | 57 | [You Know What I Mean](https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:30 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 85 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
 | 86 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
 | 87 | [Bedouin Dress](https://open.spotify.com/track/16vrX58E41OqkWhRbvyEsU) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 4:29 |
-| 88 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
-| 89 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
-| 90 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
-| 91 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
-| 92 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
-| 93 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
+| 88 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 89 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
+| 90 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
+| 91 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
+| 92 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
+| 93 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
 | 94 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
 | 95 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
 | 96 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
-| 97 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
+| 97 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
 | 98 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |
 | 99 | [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 |
 | 100 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |

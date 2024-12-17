@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,345 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,403 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 38 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 |
 | 39 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 |
 | 40 | [I Got You](https://open.spotify.com/track/12jjuxN1gxlm29cqL5M6MW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu) | 2:59 |
-| 41 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
-| 42 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
+| 41 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
+| 42 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
 | 43 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 44 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 45 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 |
-| 46 | [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:19 |
-| 47 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 46 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 47 | [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:19 |
 | 48 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
 | 49 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
 | 50 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 52 | [On Top Of The World](https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:09 |
 | 53 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
 | 54 | [Always Look On The Bright Side Of Life](https://open.spotify.com/track/4DEcdqqKokU7UAE4wCGQEy) | [Monty Python](https://open.spotify.com/artist/5IxfhXIHjAOAqibxl90NZO) | [Monty Python Sings](https://open.spotify.com/album/57awupvncNEIad7j0lkOuT) | 3:35 |
-| 55 | [Let The Sunshine In \(Reprise\) \- Remastered 2000](https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 1:27 |
-| 56 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:31 |
-| 57 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
+| 55 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
+| 56 | [Let The Sunshine In \(Reprise\) \- Remastered 2000](https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 1:27 |
+| 57 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:31 |
 | 58 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 |
 | 59 | [Lovely Day](https://open.spotify.com/track/1QQRBPMzXbL4z26mnIvgZD) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:14 |
 | 60 | [Eso Que Tú Me Das](https://open.spotify.com/track/6cRvHL1jwsAktcEcukPYmp) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Eso Que Tú Me Das](https://open.spotify.com/album/14AGxQitvL1hZOTtb0uiIZ) | 3:34 |

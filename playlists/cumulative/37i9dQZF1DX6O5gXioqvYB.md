@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Prim
 
-243 songs - 11 hr 54 min
+244 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
 | [Le nonne e le chiese](https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH) | [dimaggio](https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l) | [Le nonne e le chiese](https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P) | 4:22 | 2024-10-17 |  |
+| [LE NOTTI IN CUI NON SOGNI](https://open.spotify.com/track/2qN6oT3A4zolQb1qg48r2u) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [LE NOTTI IN CUI NON SOGNI](https://open.spotify.com/album/271pDpumQgh4UysXH02FBi) | 2:50 | 2024-12-12 |  |
 | [lecosepeggiori](https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [lecosepeggiori](https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn) | 2:50 | 2024-11-07 | 2024-12-06 |
 | [LEI](https://open.spotify.com/track/7uVpOf4K7e7v2Z7gDF5yJp) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [LEI](https://open.spotify.com/album/2Yx15AcchXUF7SiwyKkPuw) | 2:54 | 2024-11-21 |  |
 | [Limiti](https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o) | [Sangi](https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb) | [Limiti](https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W) | 2:19 | 2024-07-04 | 2024-07-27 |
@@ -133,7 +134,7 @@
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
-| [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5), [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl) | [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw) | 2:39 | 2024-11-07 |  |
+| [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5), [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl) | [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw) | 2:39 | 2024-11-07 | 2024-12-17 |
 | [Miele di Luna](https://open.spotify.com/track/2A3q8rufFFgqr0GnLDpAl8) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Miele di Luna](https://open.spotify.com/album/2Y0os7GZ1raFSOlJmmhg6H) | 3:36 | 2024-11-14 | 2024-11-19 |
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-28 |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |

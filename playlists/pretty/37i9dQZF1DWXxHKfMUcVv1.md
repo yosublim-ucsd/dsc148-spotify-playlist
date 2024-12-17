@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,615 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,637 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 10 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 |
 | 11 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
 | 12 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
-| 13 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
-| 14 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 13 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 14 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
 | 15 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 |
 | 16 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
 | 17 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 112911,
+  "num_followers": 112922,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Juntos a la Par",
-        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 146834,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 103284,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Juntos a la Par",
+        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 146834,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Te Robar\u00e9",
         "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
-      },
-      "artists": [
-        {
-          "name": "Latam Sonora",
-          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "El Combo Loco",
         "url": "https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 201706,
       "name": "Clavado en un Bar",
       "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre"
       },
       "artists": [
         {
-          "name": "BXS",
-          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 224298,
-      "name": "Simplemente Amigos - Electrocumbia Remix",
-      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
+      "duration_ms": 185200,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
       },
       "artists": [
         {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+          "name": "BXS",
+          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT"
+      "duration_ms": 224298,
+      "name": "Simplemente Amigos - Electrocumbia Remix",
+      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
     },
     {
       "added_at": "2022-05-06 18:26:25",

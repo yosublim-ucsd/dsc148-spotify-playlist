@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,275 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,286 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 56 | [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 |
 | 57 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 |
 | 58 | [Black Sun](https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Black Sun](https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9) | 3:26 |
-| 59 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
-| 60 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
+| 59 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
+| 60 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
 | 61 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 62 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
 | 63 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 |
 | 64 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
 | 65 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
 | 66 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
-| 67 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
-| 68 | [Barbary Coast \(Later\)](https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Ruminations](https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB) | 4:12 |
+| 67 | [Barbary Coast \(Later\)](https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Ruminations](https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB) | 4:12 |
+| 68 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
 | 69 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 | 70 | [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 |
 | 71 | [The Bird & The Rifle](https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:24 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 91 | [Lawrence of Arcadia](https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 4:45 |
 | 92 | [Come and Fill My Soul](https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4) | [Samson For President](https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb) | [Come and Fill My Soul](https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS) | 3:43 |
 | 93 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
-| 94 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
-| 95 | [Hills of Mexico](https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Hills of Mexico](https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN) | 5:51 |
+| 94 | [Hills of Mexico](https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Hills of Mexico](https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN) | 5:51 |
+| 95 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
 | 96 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 97 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
 | 98 | [Time to Give](https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [From Where I Started](https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M) | 2:34 |

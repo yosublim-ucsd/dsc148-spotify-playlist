@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 8133,
+  "num_followers": 8143,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Spiritual Cramp",
-        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "Talkin' On The Internet",
-      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Sophie",
-        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Colder in June",
         "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 231138,
       "name": "Colder in June",
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 202686,
-      "name": "A Bowl of Unripe Fruit",
-      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "No Way In",
         "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 246125,
       "name": "No Way In",
       "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2023",

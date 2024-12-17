@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1633514,
+  "num_followers": 1633821,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Mixed For Feet, Vol. 1",
+        "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
+      },
+      "artists": [
+        {
+          "name": "Andain",
+          "url": "https://open.spotify.com/artist/12hXa5arH0RHd2Ec7zjSNy"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3SbCWIF7UaSewGfGHkFEI2"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "ResuRection",
         "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Mixed For Feet, Vol. 1",
-        "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
-      },
-      "artists": [
-        {
-          "name": "Andain",
-          "url": "https://open.spotify.com/artist/12hXa5arH0RHd2Ec7zjSNy"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3SbCWIF7UaSewGfGHkFEI2"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Better Off Alone (Laidback Luke Remix)",
-        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
-      },
-      "artists": [
-        {
-          "name": "Alice DJ",
-          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
-        }
-      ],
-      "duration_ms": 215246,
-      "name": "Better Off Alone - 1999 Original Hit Radio",
-      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Come into My Life (10th Anniversary)",
         "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 213305,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Better Off Alone (Laidback Luke Remix)",
+        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
+      },
+      "artists": [
+        {
+          "name": "Alice DJ",
+          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Better Off Alone - 1999 Original Hit Radio",
+      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "presents Traffic Signs",
-        "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384983,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "presents Traffic Signs",
+        "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384983,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1727,22 +1743,6 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
+      },
+      "artists": [
+        {
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Further",
         "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Deep Inside (2009 Mixes)",
-        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
         }
       ],
-      "duration_ms": 392668,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+      "duration_ms": 254120,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1907,6 +1907,22 @@
       "duration_ms": 236706,
       "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
       "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Deep Inside (2009 Mixes)",
+        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392668,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1959,22 +1975,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1991,6 +1991,22 @@
       "duration_ms": 524933,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2015,22 +2031,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Addiction (Radio Edit)",
-        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 173634,
-      "name": "Addiction - Radio Edit",
-      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Strange Condition",
         "url": "https://open.spotify.com/album/5uXCRUQ1S45rqqSBlYfy1C"
       },
@@ -2043,6 +2043,22 @@
       "duration_ms": 213546,
       "name": "Strange Condition - Inpetto Radio Edit",
       "url": "https://open.spotify.com/track/53gU1D9rFr0OkiJRxc4xYX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Addiction (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Addiction - Radio Edit",
+      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2083,26 +2099,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Sound of Goodbye (Part 2)",
-        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Perpetuous Dreamer",
-          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
-      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -2119,18 +2115,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
+        "name": "The Sound of Goodbye (Part 2)",
+        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
       },
       "artists": [
         {
-          "name": "Those Usual Suspects",
-          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Shadows - Inpetto Edit",
-      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
+      "duration_ms": 199133,
+      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
     },
     {
       "added_at": "2024-07-12 15:40:20",

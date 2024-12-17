@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1YiLbd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1YiLbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1YiLbd)
 
-### [This Is 林ゆうき](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
+### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This is 林ゆうき\. The essential tracks, all in one playlist.
+> This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
 150 songs - 7 hr 3 min
 
@@ -44,7 +44,7 @@
 | [OKURA](https://open.spotify.com/track/0UAYtnUvYamaDyHIvF5GGZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [フジテレビ系ドラマ「オクラ～迷宮入り事件捜査～」オリジナルサウンドトラック](https://open.spotify.com/album/5Af7quoPsLy9Msbsd1CMwt) | 5:28 | 2024-12-06 |  |
 | [ONIKABUTO](https://open.spotify.com/track/59NFp3ttgar3WuBxDcFq8R) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [「SHAMAN KING FLOWERS」ORIGINAL SOUNDTRACK VOL.2](https://open.spotify.com/album/0VZxwysA2KbjwGyigYU1GR) | 3:17 | 2024-04-05 | 2024-05-02 |
 | [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Hulu Anime](https://open.spotify.com/artist/4zO0OJ7PBiY6Sy3tiji0eS), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ) | 1:53 | 2023-07-29 | 2023-08-28 |
-| [Quintuble](https://open.spotify.com/track/09hawwfdE4t6tMJcqB4boW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 2:46 | 2024-10-25 | 2024-12-07 |
+| [Quintuble](https://open.spotify.com/track/09hawwfdE4t6tMJcqB4boW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 2:46 | 2024-10-25 |  |
 | [Reminiscence](https://open.spotify.com/track/639mQVVEjmHXAGNSrnBGG5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の伍](https://open.spotify.com/album/6wYtwFjaLtHUFKpNdB79R0) | 2:37 | 2024-09-29 | 2024-11-09 |
 | [Revengers](https://open.spotify.com/track/0qWg7OtwyOJCWon829FVO0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:27 | 2022-12-23 | 2023-10-11 |
 | [Revengers \-Plus Ultra ver.\-](https://open.spotify.com/track/3Fy8JpKab720XRXOGmf4y2) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:26 | 2024-09-07 |  |
@@ -135,7 +135,7 @@
 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 | 2022-12-28 |  |
 | [熱\(ひだり\)は絶対使わねえ](https://open.spotify.com/track/20y0vpnM5rKQH5Zy5y41Aw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:00 | 2023-01-28 | 2023-02-01 |
 | [熱\(ひだり\)は絶対使わねえ](https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:00 | 2024-06-27 |  |
-| [爆殺王!!](https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:05 | 2024-05-19 |  |
+| [爆殺王!!](https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:05 | 2024-05-19 | 2024-12-17 |
 | [爆殺王!!](https://open.spotify.com/track/6RJaCS5pLDVlxuzZ7JAi3B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:05 | 2022-12-23 | 2024-04-03 |
 | [目標](https://open.spotify.com/track/0gLcLBhAQ1eolxfUaT711N) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 3:28 | 2022-12-23 | 2024-04-02 |
 | [目標](https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 3:28 | 2024-04-12 |  |

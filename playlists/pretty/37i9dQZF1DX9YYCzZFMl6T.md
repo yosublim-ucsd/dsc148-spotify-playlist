@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 41 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
 | 42 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
 | 43 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 |
-| 44 | [Christmas Whiskey](https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Chris Canterbury](https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s) | [Christmas Whiskey](https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL) | 3:40 |
-| 45 | [Merry Christmas](https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 3:31 |
+| 44 | [Merry Christmas](https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 3:31 |
+| 45 | [Christmas Whiskey](https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Chris Canterbury](https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s) | [Christmas Whiskey](https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL) | 3:40 |
 | 46 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 |
 | 47 | [Let It Snow](https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Let It Snow](https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo) | 3:02 |
 | 48 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |

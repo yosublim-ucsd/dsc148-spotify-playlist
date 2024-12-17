@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 70406,
+  "num_followers": 70449,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -159,42 +159,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -215,6 +179,42 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "405 - Metronomy x Biig Piig",
+        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "405 - Metronomy x Biig Piig",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "How Long Have You Been Away?",
-        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "How Long Have You Been Away?",
+        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Silence & Secrets",
         "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 256109,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 256109,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Mirada Speed",
-        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        },
-        {
-          "name": "Diana Flores",
-          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Mirada Speed",
-      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -687,6 +667,26 @@
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Mirada Speed",
+        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        },
+        {
+          "name": "Diana Flores",
+          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Mirada Speed",
+      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Eleuthera (Catching Flies Remix)",
-        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        },
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 263926,
-      "name": "Eleuthera - Catching Flies Remix",
-      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Eleuthera (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 263926,
+      "name": "Eleuthera - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
     },
     {
       "added_at": "2024-06-28 21:13:36",

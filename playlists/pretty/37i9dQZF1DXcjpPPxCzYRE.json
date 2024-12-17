@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 414111,
+  "num_followers": 414170,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
         "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "Casual",
-          "url": "https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 170773,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
       },
       "artists": [
         {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+          "name": "Casual",
+          "url": "https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS"
         }
       ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+      "duration_ms": 170773,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1131,6 +1115,22 @@
       "duration_ms": 171000,
       "name": "Sin Miedo a Vivir",
       "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
         }
       ],
-      "duration_ms": 200280,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
       },
       "artists": [
         {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+      "duration_ms": 200280,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Ojos de Miel",
-        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
-      },
-      "artists": [
-        {
-          "name": "Valhua",
-          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
-        },
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Ojos de Miel",
-      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Ojos de Miel",
+        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
+      },
+      "artists": [
+        {
+          "name": "Valhua",
+          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Ojos de Miel",
+      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
     },
     {
       "added_at": "2024-11-21 11:24:52",

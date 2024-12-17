@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 9 | [Skulled](https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:12 |
 | 10 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 |
 | 11 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 12 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
-| 13 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
+| 12 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
+| 13 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 14 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 15 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 |
 | 16 | [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 |
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 21 | [Ante](https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Ante](https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7) | 4:20 |
 | 22 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
 | 23 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
-| 24 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
-| 25 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
+| 24 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
+| 25 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 26 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 |
 | 27 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
 | 28 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 29 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
 | 30 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
 | 31 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
-| 32 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
-| 33 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
+| 32 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
+| 33 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
 | 34 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
 | 35 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 |
 | 36 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |

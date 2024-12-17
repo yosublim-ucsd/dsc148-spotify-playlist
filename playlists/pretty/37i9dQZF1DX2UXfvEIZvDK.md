@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,844 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,311 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 66 | [Crash](https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:19 |
 | 67 | [Ana's Song \(Open Fire\)](https://open.spotify.com/track/2VL5StiQKN8tNYSSDbjvIc) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 3:42 |
 | 68 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
-| 69 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
-| 70 | [A Symptom Of Being Human](https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [A Symptom Of Being Human \(Live\)](https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn) | 4:08 |
+| 69 | [A Symptom Of Being Human](https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [A Symptom Of Being Human \(Live\)](https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn) | 4:08 |
+| 70 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
 | 71 | [The Messenger](https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns \(Bonus Edition\)](https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02) | 3:01 |
 | 72 | [Last Orders](https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Graveyard Whistling \- EP](https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO) | 3:58 |
 | 73 | [History](https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:09 |

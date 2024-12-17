@@ -2,7 +2,7 @@
 
 ### [Best of Frequency 2024](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best of Black music in 2024\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
+> The best of Black music in 2024\. Cover: <a href="spotify:artist:6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>
 
 4,044 songs - 8 day 11 hr 55 min
 

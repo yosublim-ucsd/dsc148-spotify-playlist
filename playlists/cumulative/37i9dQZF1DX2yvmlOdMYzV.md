@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-863 songs - 1 day 22 hr 56 min
+864 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
 | [all I'll do is love you more](https://open.spotify.com/track/14928p8uoAlqgb21MWAQsV) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [all I'll do is love you more](https://open.spotify.com/album/0NYUUTEcSnMplI7TgpRblO) | 2:31 | 2023-07-14 | 2023-11-11 |
-| [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 | 2024-03-29 |  |
+| [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 | 2024-03-29 | 2024-12-17 |
 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 | 2023-08-04 |  |
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 | 2024-06-25 |
 | [ALL\-WAYS](https://open.spotify.com/track/6Q3TUkA7ZrOmZm6dzTYVEo) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [ALL\-WAYS](https://open.spotify.com/album/3LHt0fIWXbz3T65CXNSnw3) | 3:36 | 2024-07-26 | 2024-09-19 |
@@ -276,6 +276,7 @@
 | [Genius](https://open.spotify.com/track/6bFrDi7UT0FF5h4KZWxjKo) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Genius](https://open.spotify.com/album/2nPTI8iHG0LPTUTAybNO9h) | 2:33 | 2024-08-30 | 2024-10-14 |
 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 | 2023-08-26 |
 | [Get Away](https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Get Away](https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ) | 2:57 | 2024-05-31 | 2024-10-26 |
+| [GIBRAN](https://open.spotify.com/track/1xIUEsFNYtKO5cPUkEBi33) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [A YEAR](https://open.spotify.com/album/65FabSfb1WAhadP73RCBh4) | 4:00 | 2024-12-06 |  |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-10-07 |
 | [Girls Like Sade](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 | 2024-11-08 |  |
 | [Girls Like Us](https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Litany](https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz) | 2:23 | 2023-07-28 | 2023-09-03 |

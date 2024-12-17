@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,059 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,071 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 11 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 12 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 13 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 |
-| 14 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
+| 14 | [Flower Child](https://open.spotify.com/track/0xknocuUfiYGuW3BW1BDhH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:38 |
 | 15 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 16 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 17 | [Apologize \(Acoustic Version\)](https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Apologize + See You Again \(Acoustic\)](https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A) | 2:31 |
-| 18 | [Flower Child](https://open.spotify.com/track/0xknocuUfiYGuW3BW1BDhH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:38 |
+| 18 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
 | 19 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
 | 20 | [Giver / Taker](https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:10 |
 | 21 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
 | 50 | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/track/616pKgs2dHcWAygreRapKM) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S) | 2:52 |
 
-Snapshot ID: `Z1zKgAAAAACWuWWV0EsO77vl5C4JtkRd`
+Snapshot ID: `Z14cAAAAAADF9DOvTXBPT5oVf/IHetJ5`

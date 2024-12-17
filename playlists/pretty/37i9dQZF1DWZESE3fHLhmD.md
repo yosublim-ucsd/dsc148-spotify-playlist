@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,420 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,405 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 50 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 |
 | 51 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 52 | [What a Feeling](https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:20 |
-| 53 | [Vertigo](https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:59 |
-| 54 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 |
+| 53 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 |
+| 54 | [Vertigo](https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:59 |
 | 55 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 56 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
 | 57 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 72 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:54 |
 | 73 | [loslassen](https://open.spotify.com/track/684DYzMh67ioLQQ9wJAfpm) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [loslassen](https://open.spotify.com/album/0dYAetAdTEU9qtAvtIQO2v) | 2:19 |
 | 74 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
-| 75 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 |
-| 76 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
+| 75 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
+| 76 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 |
 | 77 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
 | 78 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 79 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 87 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 88 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 89 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
-| 90 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
-| 91 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
+| 90 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
+| 91 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 92 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 | 93 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 |
 | 94 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
-| 95 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
-| 96 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
+| 95 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
+| 96 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
 | 97 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 98 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 99 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 |

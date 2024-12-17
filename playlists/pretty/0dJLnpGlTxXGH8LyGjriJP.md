@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 807 songs - 1 day 17 hr 16 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 808 songs - 1 day 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -815,5 +815,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 805 | [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 |
 | 806 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 |
 | 807 | [WHO? WHAT!](https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:56 |
+| 808 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 
-Snapshot ID: `AAAD3qaQCClRUbirW0LyGGMzDD4eMePq`
+Snapshot ID: `AAAD3z/OS+GymyTl/q46PaORgWg6OfMA`

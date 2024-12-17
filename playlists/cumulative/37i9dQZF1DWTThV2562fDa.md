@@ -4,7 +4,7 @@
 
 > There's no stopping the game\. Listen to the music from Squid Game, new season coming soon to Netflix.
 
-27 songs - 1 hr 27 min
+28 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Squid Game \- acapella](https://open.spotify.com/track/2m8bm1uurVnU0lJwsahu7j) | [MayTree](https://open.spotify.com/artist/2UYUqsriy4DXV3VhrrprSs) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 1:40 | 2022-01-26 |  |
 | [The Fat and the Rats](https://open.spotify.com/track/3e0nu523E37rHg73PU6meV) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:52 | 2022-01-26 |  |
 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 | 2022-01-26 |  |
+| [The Game Don't Stop \- Squid Game 2](https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [The Game Don't Stop \- Squid Game 2](https://open.spotify.com/album/0RDfYGnsLRutj0Mkj6ETxL) | 2:35 | 2024-12-16 |  |
 | [The Rope is Tied](https://open.spotify.com/track/6TCgjFvP6Zre2D3mNLV9PU) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:18 | 2022-01-26 |  |
 | [Uh…](https://open.spotify.com/track/5PxNCkwhzYFN3Cwh4eBfS5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:38 | 2022-01-26 |  |
 | [Unfolded…](https://open.spotify.com/track/73RWDtUuIAkwR2RwRYQMdw) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:38 | 2022-01-26 |  |

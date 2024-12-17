@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 238883,
       "name": "BUENAS NOCHES",
       "url": "https://open.spotify.com/track/1JkI7KcMNuIBZZoWQkcveV"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 159311,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5Txf0ApheFvyRr1s4DxMb5"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 184432,
       "name": "estar\u00e9 millor dem\u00e0",
       "url": "https://open.spotify.com/track/7xQAF1XU7q3TlT6ICE3c0e"
@@ -6900,7 +6900,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 131332,
       "name": "LA MARINA STA MORENA",
       "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
@@ -7364,7 +7364,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 131020,
       "name": "lady madrizZz",
       "url": "https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36"
@@ -8014,7 +8014,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -8044,7 +8044,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -8496,6 +8496,24 @@
       "duration_ms": 228750,
       "name": "MEMORIAS",
       "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
+    },
+    {
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "album": {
@@ -12000,7 +12018,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 167764,
       "name": "SORT DE TU",
       "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
@@ -12986,6 +13004,24 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "album": {

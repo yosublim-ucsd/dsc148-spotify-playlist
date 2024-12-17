@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 36 min
+84 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Fallen](https://open.spotify.com/track/1uY5PG3A2gowDEzP1g703X) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:30 | 2023-04-10 |  |
 | [Fallen \-Instrumental\-](https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:30 | 2022-06-09 | 2024-09-17 |
 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 | 2022-06-09 |  |
-| [Ghost of a smile](https://open.spotify.com/track/1pZLymms07WcWgtKdhg78k) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:24 | 2022-06-09 |  |
+| [Ghost of a smile](https://open.spotify.com/track/1pZLymms07WcWgtKdhg78k) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:24 | 2022-06-09 | 2024-12-17 |
+| [Ghost of a smile](https://open.spotify.com/track/6XgQaL0b9XdmQc66hR8Zpw) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Ghost of a smile](https://open.spotify.com/album/0yVX1A6ibhmEpwtT0lLUJS) | 5:24 | 2024-12-17 |  |
 | [Ghost of a smile \-Instrumental\-](https://open.spotify.com/track/2kTIkgJpJHrNNMdE9kZjNj) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:24 | 2024-11-15 | 2024-11-26 |
 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 | 2022-06-09 |  |
 | [Gold \- TV Size](https://open.spotify.com/track/3lTlibl9njbYWxB4ta4gE4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 1:29 | 2023-08-08 | 2023-08-31 |

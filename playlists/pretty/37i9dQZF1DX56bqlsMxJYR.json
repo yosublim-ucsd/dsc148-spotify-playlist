@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1242061,
+  "num_followers": 1242244,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -799,22 +815,6 @@
       "duration_ms": 179120,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -883,8 +883,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 197093,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best of The Kingsmen",
         "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 165381,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 122866,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+      },
+      "artists": [
+        {
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
         }
       ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
       "artists": [
         {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
         }
       ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 139506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Live In Concert / All of Me",
         "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
       },
@@ -2307,18 +2291,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+      "duration_ms": 139506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2335,6 +2319,22 @@
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2024-07-12 06:11:58",

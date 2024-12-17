@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Ornella Vanoni, Mahmood
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,007 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,021 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

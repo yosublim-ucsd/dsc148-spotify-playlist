@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 219545,
       "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
@@ -6496,7 +6496,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 187200,
       "name": "Delta Force",
       "url": "https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds"
@@ -15424,7 +15424,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -16626,7 +16626,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -16682,7 +16682,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -20520,7 +20520,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 266758,
       "name": "OTKACHALKI",
       "url": "https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq"
@@ -24916,7 +24916,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Siromah",
       "url": "https://open.spotify.com/track/0P9t4y8niPdEfQdtIuqWJK"
@@ -32800,7 +32800,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 178356,
       "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
       "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
@@ -33998,7 +33998,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 168800,
       "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
@@ -34056,7 +34056,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 189473,
       "name": "\u0418\u0433\u0440\u0430\u0439",
       "url": "https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT"
@@ -35442,7 +35442,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 188373,
       "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
       "url": "https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q"
@@ -36954,6 +36954,28 @@
       "duration_ms": 240000,
       "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/5NNE4zYPnE7bcT6OCt8B3w"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0438 \u0438 \u0410\u0437",
+        "url": "https://open.spotify.com/album/3ayuLtdQIIGsuU7NM1ns1f"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263023,
+      "name": "\u0422\u0438 \u0438 \u0410\u0437",
+      "url": "https://open.spotify.com/track/25wirNNE3lbGiReM2zPSkl"
     },
     {
       "album": {

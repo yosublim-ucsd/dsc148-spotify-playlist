@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 23 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 |
 | 24 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 |
 | 25 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
-| 26 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
-| 27 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 |
+| 26 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 |
+| 27 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
 | 28 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
 | 29 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
 | 30 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 49 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
 | 50 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
 | 51 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
-| 52 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
+| 52 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
 | 53 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
-| 54 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 54 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
 | 55 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 |
 | 56 | [waste](https://open.spotify.com/track/7Kn3tgPBG36YPq4rDz6kWN) | [edphorix](https://open.spotify.com/artist/3mxFS6QPoslmTAxsiUMy06), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [waste](https://open.spotify.com/album/2TypuDjDoHxitguU3Wk4RT) | 2:25 |
 | 57 | [Way Too Good](https://open.spotify.com/track/7v7yldcasSvbwu8tE9VV84) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Way Too Good](https://open.spotify.com/album/13lH2NV2SYOH2HGgiBO66A) | 2:23 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 61 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 |
 | 62 | [Jump In The Ride](https://open.spotify.com/track/2aU3whKD3n6H9XBuVQUmFM) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:50 |
 | 63 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 |
-| 64 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
-| 65 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 |
+| 64 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 |
+| 65 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
 | 66 | [Daylight](https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daylight](https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1) | 2:07 |
 | 67 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |
-| 68 | [Yangtze](https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Yangtze](https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2) | 3:06 |
-| 69 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
+| 68 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
+| 69 | [Yangtze](https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Yangtze](https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2) | 3:06 |
 | 70 | [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 |
 | 71 | [devoted](https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [devoted](https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59) | 3:15 |
 | 72 | [North Sea Siren \(p.78\)](https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [North Sea Siren \(p.78\)](https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3) | 2:15 |

@@ -4,7 +4,7 @@
 
 > Porque el asado se prende con música.
 
-175 songs - 11 hr 41 min
+176 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,9 +178,10 @@
 | [Verano del 92](https://open.spotify.com/track/4NVKKVu4lMvxelWoH6G0JB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 7:10 | 2023-12-21 | 2024-01-14 |
 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2023-05-19 |  |
 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 | 2024-04-15 |  |
+| [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 | 2024-11-14 |  |
 | [Ya No Sos Igual](https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 3:02 | 2024-04-15 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2023-05-15 | 2024-04-19 |
-| [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-13 |  |
+| [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-13 | 2024-12-17 |
 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 | 2023-05-15 |  |
 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-14 |  |
 

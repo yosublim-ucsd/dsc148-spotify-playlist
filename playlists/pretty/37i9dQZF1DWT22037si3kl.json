@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145569,
+  "num_followers": 145568,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,30 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
+        "name": "Mixtape Supernova Vol.1",
+        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
+      },
+      "artists": [
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        }
+      ],
+      "duration_ms": 162634,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
         "name": "Morrer De Amor",
         "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 243471,
       "name": "Morrer De Amor",
       "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
-        "name": "Mixtape Supernova Vol.1",
-        "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
-      },
-      "artists": [
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        }
-      ],
-      "duration_ms": 162634,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
     },
     {
       "added_at": "2024-12-13 16:54:19",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2024-12-13 16:54:19",
       "album": {
+        "name": "A Vida De Um G\u00e2ngster",
+        "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Melt77",
+          "url": "https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "Afli\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
+    },
+    {
+      "added_at": "2024-12-13 16:54:19",
+      "album": {
         "name": "Esqueceu seu brinco",
         "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 284138,
       "name": "Esqueceu seu brinco",
       "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
-    },
-    {
-      "added_at": "2024-12-13 16:54:19",
-      "album": {
-        "name": "A Vida De Um G\u00e2ngster",
-        "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
-      },
-      "artists": [
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Melt77",
-          "url": "https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "Afli\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
     },
     {
       "added_at": "2024-12-13 16:54:19",

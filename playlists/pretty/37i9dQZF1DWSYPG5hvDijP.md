@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: Farhan Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,119 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,159 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 7 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
 | 8 | [Nazare](https://open.spotify.com/track/0hmDNLZlEHS7GL1Es38bcE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Northern Nights](https://open.spotify.com/album/1O1QvxhWr8eDP8q5FUwbKc) | 2:21 |
 | 9 | [ICE](https://open.spotify.com/track/3iNGpMjhIcTqrAliwmSaaH) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 2:39 |
-| 10 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
+| 10 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
 | 11 | [BHAI](https://open.spotify.com/track/53hxkF0EVsn9MHZ53JKpYe) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [BHAI](https://open.spotify.com/album/1suvEu9VfbAwJM7HRACaQq) | 3:08 |
 | 12 | [No Competition](https://open.spotify.com/track/0LP0Jj8V9StAqGD2dOmOBs) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Lekhak's Chaos](https://open.spotify.com/album/1Vakcnz5yQwN0Rg5muicpR) | 2:38 |
 | 13 | [Credit Card](https://open.spotify.com/track/3tuYzZG4ARwxdQmGdiRVnM) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paapi](https://open.spotify.com/album/0qXrOfDOnrlbOpuw8OM1uE) | 2:39 |

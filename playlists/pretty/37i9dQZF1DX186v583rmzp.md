@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,895,913 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,896,628 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 92 | [He Got Game](https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [He Got Game \(Soundtrack\)](https://open.spotify.com/album/265OEkRcX40ppxgHGuu4cI) | 4:46 |
 | 93 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 |
 | 94 | [Guantanamera \(feat\. Ms\. Lauryn Hill, Celia Cruz & Jeni Fujita\)](https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Jeni Fujita](https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 4:30 |
-| 95 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
-| 96 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
+| 95 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
+| 96 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 | 97 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
 | 98 | [It's Been A Long Time](https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 3:57 |
 | 99 | [Bow Down](https://open.spotify.com/track/5KA6S4auXremQLoBIsKprz) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Bow Down](https://open.spotify.com/album/3llZpeXGCVbJN51XZMhFYh) | 3:26 |

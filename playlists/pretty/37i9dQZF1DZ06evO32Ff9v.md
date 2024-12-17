@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,258 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,319 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 14 | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/track/0Q5oW0YE1kUmfYFCetQvGz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/album/3s6AnnMfnUHUVW26oI2wOQ) | 3:25 |
 | 15 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
 | 16 | [El Tony](https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 1:58 |
-| 17 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
-| 18 | [El Gavilan](https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Gavilan](https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW) | 3:20 |
+| 17 | [El Gavilan](https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Gavilan](https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW) | 3:20 |
+| 18 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
 | 19 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
 | 20 | [El Mando](https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mando](https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ) | 3:37 |
 | 21 | [Señor Miedo](https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Señor Miedo](https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 50 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
 | 51 | [Dago Perez](https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:01 |
 
-Snapshot ID: `Z1zKgAAAAACauxTra59+NkoHZCIyx84N`
+Snapshot ID: `Z14cAAAAAABAmU4lrpsFjzVpclW+97Mq`

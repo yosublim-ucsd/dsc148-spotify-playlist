@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 360122,
+  "num_followers": 360150,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABgeKwfyrSmp0ZEEHwFJTht",
+  "snapshot_id": "Z14cAAAAAAADtLEcOlL8mqLVDKuaJA9L",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 139373,
+      "name": "Rock And Roll Records",
+      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -587,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 139373,
-      "name": "Rock And Roll Records",
-      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 171013,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 171013,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
     },
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+      "duration_ms": 264333,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
     },
     {
       "added_at": null,
@@ -919,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
     },
     {
       "added_at": null,

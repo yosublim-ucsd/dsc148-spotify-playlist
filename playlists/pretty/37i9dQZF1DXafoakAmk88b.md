@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Fousheé
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,172 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,182 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 32 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 33 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
 | 34 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
-| 35 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
-| 36 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |
+| 35 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |
+| 36 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 | 37 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
 | 38 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 |
 | 39 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |

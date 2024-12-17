@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-161 songs - 8 hr 11 min
+162 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Emergency](https://open.spotify.com/track/5ab2hiVCC2fHQzc8nOa4JV) | [Toiner](https://open.spotify.com/artist/0qKplH0yrvOyQq0Vfs0iPT), [Bima](https://open.spotify.com/artist/3ezYivBdhfcqN44xLps8Kf) | [Emergency](https://open.spotify.com/album/3M2oZFtUNB8xEFVAUF0Lj9) | 3:03 | 2024-11-22 |  |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-11 | 2022-09-02 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-02-11 | 2024-06-01 |
-| [Facetime](https://open.spotify.com/track/6tsY2AuNy68FWW6maO3lNg) | [Lussh](https://open.spotify.com/artist/7dcgOecKFZRRu4ypD4Yruy) | [Facetime & I AM](https://open.spotify.com/album/4XRy6il98qAt68ybqXIgHJ) | 3:04 | 2024-10-18 |  |
+| [Facetime](https://open.spotify.com/track/6tsY2AuNy68FWW6maO3lNg) | [Lussh](https://open.spotify.com/artist/7dcgOecKFZRRu4ypD4Yruy) | [Facetime & I AM](https://open.spotify.com/album/4XRy6il98qAt68ybqXIgHJ) | 3:04 | 2024-10-18 | 2024-12-17 |
 | [Fall in Love](https://open.spotify.com/track/3h0PPi8gFxKDuTgJ97Ekjr) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [Afrobeats With Love, Vol\. 4](https://open.spotify.com/album/2nQEl6qFWDNCiBJgXNCtyw) | 3:45 | 2024-07-19 |  |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-05 | 2024-08-26 |
 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-07-26 |  |
@@ -66,6 +66,7 @@
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 |  |
 | [Gree 4 U](https://open.spotify.com/track/3JIErZlhQEi0KGQUirzqjw) | [Niashun](https://open.spotify.com/artist/7uII4FtDGyzJTTXQHZTpsz), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [The Hustler & His Heart](https://open.spotify.com/album/1Lb5Jz9uBfmDBp2H1R2Nb0) | 3:14 | 2024-03-15 | 2024-05-17 |
 | [Gyal Like You](https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Kizz Daniel](https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:12 | 2023-09-09 | 2023-10-27 |
+| [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 | 2024-12-16 |  |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 |  |
 | [Heaven](https://open.spotify.com/track/2sRdEMg7VOFVkmL8KSPC2g) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Heaven](https://open.spotify.com/album/0iDVxjbymqT0aOno6Vkg4x) | 2:26 | 2022-10-21 | 2023-03-25 |
 | [I Choose You \- Remix](https://open.spotify.com/track/1AoppA6yMI5VC4Jz2kkfm0) | [Elisha k](https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [I Choose You \(Remix\)](https://open.spotify.com/album/79F1PpGsFNcVeiaGcuJTQL) | 2:56 | 2024-04-26 | 2024-10-19 |

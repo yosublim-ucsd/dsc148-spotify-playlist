@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Que comience el Guadalupe\-Reyes! Beben y beben y vuelven a beber 🍻 Calle 24 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,110 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,278 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

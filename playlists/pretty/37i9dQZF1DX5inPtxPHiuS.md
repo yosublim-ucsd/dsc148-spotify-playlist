@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,096 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,108 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 14 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
 | 15 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 16 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 17 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
-| 18 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
+| 17 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
+| 18 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
 | 19 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
 | 20 | [Si Te Busco](https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Balas De Bebé \(Y Otras Canciones De Cuna\)](https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK) | 3:56 |
 | 21 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 49 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
 | 50 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 51 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
-| 52 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
+| 52 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
 | 53 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
-| 54 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
+| 54 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 55 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
 | 56 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 57 | [This Is War](https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [This Is War](https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd) | 3:46 |
-| 58 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
-| 59 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
-| 60 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
+| 58 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
+| 59 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
+| 60 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
 
 Snapshot ID: `Zwi6lQAAAABVR9GAf+WUbz4p0YQZik1k`

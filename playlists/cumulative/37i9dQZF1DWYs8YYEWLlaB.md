@@ -4,10 +4,11 @@
 
 > viral, trend ve yükselenler\. Kapak: Derya Bedavacı
 
-106 songs - 5 hr 24 min
+107 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Acıtır gibi severek](https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Acıtır gibi severek](https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH) | 3:45 | 2024-12-16 |  |
 | [Ait Hissetmiyorum](https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 1:50 | 2024-10-17 | 2024-12-05 |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-21 |  |
 | [Ankara Rüzgarı](https://open.spotify.com/track/7c610NPD7aqC9654KMUS2o) | [Retrobüs](https://open.spotify.com/artist/2lYjnZ0AY9sLUbCP8Vv2Vx) | [Ankara Rüzgarı](https://open.spotify.com/album/6vdGMPltRgQTYMNBJBnKOv) | 2:53 | 2024-09-12 | 2024-12-06 |
@@ -87,7 +88,7 @@
 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 | 2024-10-24 | 2024-11-22 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-09-06 |
 | [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 | 2024-07-02 |  |
-| [Sahici](https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 3:27 | 2024-11-21 |  |
+| [Sahici](https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 3:27 | 2024-11-21 | 2024-12-17 |
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-07-02 | 2024-11-22 |
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-06 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 | 2024-11-22 |

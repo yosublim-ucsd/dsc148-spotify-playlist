@@ -4,7 +4,7 @@
 
 > Let's go! 💪
 
-122 songs - 5 hr 31 min
+123 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,8 +113,9 @@
 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 | 2023-09-01 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-02-08 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/6a39HPcHKbPD536syYsRra) | [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01), [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j) | 2:28 | 2023-11-10 | 2024-02-09 |
+| [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2024-12-16 |  |
 | [The Logical Song](https://open.spotify.com/track/1pUTByFRmxwuFIl18NpUB8) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [The Logical Song](https://open.spotify.com/album/59OxVbWdo1okAbeW9RzsWt) | 2:42 | 2023-09-01 | 2023-11-29 |
-| [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 | 2023-09-01 |  |
+| [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 | 2023-09-01 | 2024-12-17 |
 | [The Way I Like It](https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm) | [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [The Way I Like It](https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u) | 2:37 | 2024-02-22 | 2024-06-07 |
 | [Together](https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Together](https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi) | 2:31 | 2024-11-18 |  |
 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 | 2023-10-27 | 2024-02-09 |

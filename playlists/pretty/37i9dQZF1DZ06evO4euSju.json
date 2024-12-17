@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1344,
+  "num_followers": 1345,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAmyL7HRABepcNmnhguzg++",
+  "snapshot_id": "Z14cAAAAAABTi9djaAzSC3JrwaWwDlCD",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
     },
     {
       "added_at": null,

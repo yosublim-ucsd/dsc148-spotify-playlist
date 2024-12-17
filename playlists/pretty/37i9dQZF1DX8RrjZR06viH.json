@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92909,
+  "num_followers": 92907,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "N\u00e5 har du meg",
         "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 221427,
       "name": "N\u00e5 har du meg",
       "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
         "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 195929,
       "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
       "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
         "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 135480,
       "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
       "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Hellig",
-        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Hellig",
-      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 167280,
       "name": "Learning as I go",
       "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Hellig",
+        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Hellig",
+      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -719,22 +719,6 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -803,24 +787,24 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Kor e du?",
-        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 200798,
-      "name": "Kor e du?",
-      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
@@ -828,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -855,22 +839,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -883,6 +851,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Kor e du?",
+        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 200798,
+      "name": "Kor e du?",
+      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Mamma sa det ordne se for snille piker",
-        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 205655,
-      "name": "Mamma sa det ordne se for snille piker",
-      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1047,34 +1047,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
+        "name": "Mamma sa det ordne se for snille piker",
+        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Head In My Hands",
-        "url": "https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00"
-      },
-      "artists": [
-        {
-          "name": "Kakkmaddafakka",
-          "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Head In My Hands",
-      "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
+      "duration_ms": 205655,
+      "name": "Mamma sa det ordne se for snille piker",
+      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Head In My Hands",
+        "url": "https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00"
+      },
+      "artists": [
+        {
+          "name": "Kakkmaddafakka",
+          "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Head In My Hands",
+      "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "reasons why u should text me. (+1 (818) 643-6885)",
+        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 147950,
+      "name": "shine.",
+      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Ti tusen",
         "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 174014,
       "name": "Marilyn Monroe",
       "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "reasons why u should text me. (+1 (818) 643-6885)",
-        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 147950,
-      "name": "shine.",
-      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
     },
     {
       "added_at": "2024-11-28 23:00:00",

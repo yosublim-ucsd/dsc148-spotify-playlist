@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 33908,
+  "num_followers": 33943,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABC/yTuZ3x3fqeegbnIf8xm",
+  "snapshot_id": "Z14cAAAAAAC4yo80aWUcXL03hkP2ooyP",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mente Activa",
-        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 169216,
-      "name": "Mente Activa",
-      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 222732,
       "name": "De A De Veras",
       "url": "https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mente Activa",
+        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 169216,
+      "name": "Mente Activa",
+      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nos Gusta La Fiesta",
+        "url": "https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Nos Gusta La Fiesta",
+      "url": "https://open.spotify.com/track/7aGZvbB9GoChhZ02CdfLA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mimimi",
         "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
       },
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusta La Fiesta",
-        "url": "https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK"
+        "name": "Despreciado",
+        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Nos Gusta La Fiesta",
-      "url": "https://open.spotify.com/track/7aGZvbB9GoChhZ02CdfLA3"
+      "duration_ms": 210951,
+      "name": "Despreciado",
+      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 227004,
       "name": "El General",
       "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despreciado",
-        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 210951,
-      "name": "Despreciado",
-      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
     },
     {
       "added_at": null,

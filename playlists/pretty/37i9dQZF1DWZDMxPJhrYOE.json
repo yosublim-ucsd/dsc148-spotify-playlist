@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105098,
+  "num_followers": 105094,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "A Minute...",
         "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
@@ -247,18 +263,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -295,26 +315,6 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 162814,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "CAVE (with Tove Lo)",
+        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 180409,
+      "name": "CAVE (with Tove Lo)",
+      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "SLOW IT DOWN",
         "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "CAVE (with Tove Lo)",
-        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 180409,
-      "name": "CAVE (with Tove Lo)",
-      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "Silverlines - prod. Labrinth",
-        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197542,
-      "name": "Silverlines - prod. Labrinth",
-      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "I'M HIS, HE'S MINE (feat. Doechii)",
         "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
+        "name": "SOMEONE TO YOU",
+        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 179854,
+      "name": "SOMEONE TO YOU",
+      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 200966,
       "name": "Someone In This Room (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
-        "name": "SOMEONE TO YOU",
-        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 179854,
-      "name": "SOMEONE TO YOU",
-      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "LIFETIMES",
         "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2024-12-12 23:00:13",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-12-12 23:00:13",
       "album": {
-        "name": "The Line (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
-    },
-    {
-      "added_at": "2024-12-12 23:00:13",
-      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 148101,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:13",
+      "album": {
+        "name": "The Line (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
     },
     {
       "added_at": "2024-12-12 23:00:13",

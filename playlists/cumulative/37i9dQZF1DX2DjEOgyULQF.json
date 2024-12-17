@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 159868,
       "name": "Corales (Forest)",
       "url": "https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq"
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170110,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW"
+    },
+    {
+      "album": {
         "name": "Golden Meadow",
         "url": "https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw"
       },
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 143902,
       "name": "Imitating Reflections",
       "url": "https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 242700,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu"

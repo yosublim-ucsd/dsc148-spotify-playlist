@@ -4,7 +4,7 @@
 
 > 
 
-816 songs - 1 day 17 hr 42 min
+817 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Tundra](https://open.spotify.com/track/2bg8vi6s9LPsEA0JRACCYS) | [993s](https://open.spotify.com/artist/3cZCsW5bKmKBi0vDBauyeB) | [Tundra](https://open.spotify.com/album/3HJN5UpxAICbtevmKzy40G) | 3:32 | 2023-12-31 |  |
 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 | 2022-12-28 |  |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 | 2023-12-23 |  |
+| [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-12-16 |  |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-14 |  |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 |  |
 | [U\-Turn](https://open.spotify.com/track/3QPtcDBumS3qC7ZQJpDxBP) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 2:24 | 2022-05-25 |  |

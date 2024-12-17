@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 34689,
+  "num_followers": 34693,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Time for a Change",
@@ -735,6 +719,22 @@
       "duration_ms": 231360,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "Why Don't We Fall in Love",
-      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "House Of Music",
@@ -1135,6 +1119,22 @@
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Why Don't We Fall in Love",
+      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
       "added_at": "2023-06-16 17:58:31",

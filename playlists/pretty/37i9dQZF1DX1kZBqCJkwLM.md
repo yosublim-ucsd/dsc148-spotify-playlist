@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,367 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,358 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 64 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 65 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 |
 | 66 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 |
-| 67 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
-| 68 | [I SEE U](https://open.spotify.com/track/01t1knKwlmGgNQbV9qhBKB) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [I SEE U](https://open.spotify.com/album/2B7fhEyxHqxx3d98Jau60i) | 2:32 |
+| 67 | [I SEE U](https://open.spotify.com/track/01t1knKwlmGgNQbV9qhBKB) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [I SEE U](https://open.spotify.com/album/2B7fhEyxHqxx3d98Jau60i) | 2:32 |
+| 68 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
 | 69 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 70 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |
 | 71 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 80 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
 | 81 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |
 | 82 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
-| 83 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
-| 84 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
+| 83 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
+| 84 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
 | 85 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
 | 86 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 87 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |

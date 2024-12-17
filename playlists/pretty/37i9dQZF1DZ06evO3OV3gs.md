@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,075 likes - 54 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,123 likes - 54 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 20 | [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 |
 | 21 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 |
 | 22 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
-| 23 | [A Cinema in Buenos Aires, 26 July 1952](https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:18 |
-| 24 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 |
+| 23 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 |
+| 24 | [A Cinema in Buenos Aires, 26 July 1952](https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:18 |
 | 25 | [Open Your Heart](https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
 | 26 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
 | 27 | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic) | 4:10 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 44 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
 | 45 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
 | 46 | [Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:43 |
-| 47 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 |
+| 47 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 |
 | 48 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 49 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 |
 | 50 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 |
-| 51 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 |
+| 51 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 |
 | 52 | [Frozen On Fire](https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen On Fire](https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac) | 3:12 |
 | 53 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 |
 | 54 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 |
 
-Snapshot ID: `Z1zKgAAAAADIUm4qNVG0d149NdmABQs4`
+Snapshot ID: `Z14cAAAAAACZYUYlHpC1g4OaJfpvd3yE`

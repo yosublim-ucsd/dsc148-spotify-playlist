@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 145059,
+  "num_followers": 145071,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACWuWWV0EsO77vl5C4JtkRd",
+  "snapshot_id": "Z14cAAAAAADF9DOvTXBPT5oVf/IHetJ5",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+      "duration_ms": 158880,
+      "name": "Flower Child",
+      "url": "https://open.spotify.com/track/0xknocuUfiYGuW3BW1BDhH"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 158880,
-      "name": "Flower Child",
-      "url": "https://open.spotify.com/track/0xknocuUfiYGuW3BW1BDhH"
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": null,

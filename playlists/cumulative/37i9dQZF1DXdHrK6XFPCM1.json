@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "An Art Gallery Could Never Be As Unique As You (In Bahasa)",
+        "url": "https://open.spotify.com/album/3l9wn18fFOo5wdHz9cMS44"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230193,
+      "name": "An Art Gallery Could Never Be As Unique As You - In Bahasa",
+      "url": "https://open.spotify.com/track/6J3MMMLXdC6iUiwxVegJ6V"
+    },
+    {
+      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 194045,
       "name": "DIE 4 YOU",
       "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 256000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"

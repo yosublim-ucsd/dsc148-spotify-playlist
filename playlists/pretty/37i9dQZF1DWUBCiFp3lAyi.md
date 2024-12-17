@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 
 > Your personalized GTA radio station.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,327 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,505 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 | 73 | [Peace of Mind](https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 5:03 |
 | 74 | [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 |
 | 75 | [Wow Freestyle \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0gV5B7zmJkS1aaH9APokrH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 2:55 |
-| 76 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
-| 77 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
+| 76 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
+| 77 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
 | 78 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
 | 79 | [It's A Vibe](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:30 |
-| 80 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
-| 81 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 |
-| 82 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
+| 80 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
+| 81 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
+| 82 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 |
 | 83 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 84 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 85 | [Mind Playing Tricks on Me](https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4) | 5:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 | 97 | [Hollywood Nights](https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 5:02 |
 | 98 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
 | 99 | [Slow Ride \- Edit](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 |
-| 100 | [Ali Bomaye](https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 6:12 |
+| 100 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 
 Snapshot ID: `ZYCKbgAAAAA68UKQaJWYG+PW8u4MuV11`

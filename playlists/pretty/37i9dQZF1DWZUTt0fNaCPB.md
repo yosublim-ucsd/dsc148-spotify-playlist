@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,457 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,485 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 67 | [Untouched](https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo) | [The Local Band](https://open.spotify.com/artist/48Na4uSLjGeKvx2AUSDmKZ) | [Locals Only \- Dark Edition](https://open.spotify.com/album/2IdQFKiNoDMDlcU9NUmJYu) | 4:11 |
 | 68 | [Run Run Run](https://open.spotify.com/track/144fBZWn4968hszzQkXV9q) | [Black Paisley](https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m) | [Late Bloomer](https://open.spotify.com/album/6ArbLISzajVrvRQ95O25il) | 4:30 |
 | 69 | [Trouble](https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Trouble](https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp) | 3:12 |
-| 70 | [Cannot Be Judged](https://open.spotify.com/track/2KxLX1zzJ6A2tgYgqdKRvh) | [Full House Brew Crew](https://open.spotify.com/artist/3KUdRZ13QmXU2FHZZFL6aL) | [Me Against You](https://open.spotify.com/album/5bzSu7IkGapeqXlXB2MgC6) | 3:37 |
-| 71 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 |
+| 70 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 |
+| 71 | [Cannot Be Judged](https://open.spotify.com/track/2KxLX1zzJ6A2tgYgqdKRvh) | [Full House Brew Crew](https://open.spotify.com/artist/3KUdRZ13QmXU2FHZZFL6aL) | [Me Against You](https://open.spotify.com/album/5bzSu7IkGapeqXlXB2MgC6) | 3:37 |
 | 72 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 |
 | 73 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
 | 74 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 |

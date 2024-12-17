@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAJ0ROSICJH175ldivpHtpD",
+  "snapshot_id": "Z14cAAAAAAD6gCqcruyWOeYFtGZZ8j9M",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMIGOS CON DERECHO",
-        "url": "https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk"
+        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
       },
       "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 216546,
-      "name": "AMIGOS CON DERECHO",
-      "url": "https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp"
+      "duration_ms": 200979,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
+        "name": "AMIGOS CON DERECHO",
+        "url": "https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk"
       },
       "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 200979,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
+      "duration_ms": 216546,
+      "name": "AMIGOS CON DERECHO",
+      "url": "https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Los Grandes",
-        "url": "https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "El Operativo",
-      "url": "https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nivel Dios",
         "url": "https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 147389,
       "name": "Brillando Bengalas",
       "url": "https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Los Grandes",
+        "url": "https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "El Operativo",
+      "url": "https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grupo T\u00e1ctico",
-        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
+        "name": "Trato De Muerte (En Vivo)",
+        "url": "https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 180600,
-      "name": "GRUPO T\u00c1CTICO",
-      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
+      "duration_ms": 250200,
+      "name": "Trato De Muerte - En Vivo",
+      "url": "https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE"
     },
     {
       "added_at": null,
@@ -587,22 +591,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trato De Muerte (En Vivo)",
-        "url": "https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu"
+        "name": "Grupo T\u00e1ctico",
+        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "GRUPO T\u00c1CTICO",
+      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esta Que Arde la Finikera",
+        "url": "https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Trato De Muerte - En Vivo",
-      "url": "https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE"
+      "duration_ms": 189453,
+      "name": "El Rival",
+      "url": "https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT"
     },
     {
       "added_at": null,
@@ -627,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "LA VIDA",
-      "url": "https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -656,29 +656,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "La F****g Ola",
-      "url": "https://open.spotify.com/track/50yN8DTwunujnOLfWnnr7Z"
+      "duration_ms": 294742,
+      "name": "El Lunar (Live)",
+      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "LA VIDA",
+      "url": "https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Pase De Lavada (En Vivo)",
         "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 198826,
       "name": "Un Pase De Lavada (En Vivo)",
       "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esta Que Arde la Finikera",
-        "url": "https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "El Rival",
-      "url": "https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT"
     },
     {
       "added_at": null,
@@ -891,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impala Tumbado",
+        "url": "https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Impala Tumbado",
+      "url": "https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Adoloridos",
         "url": "https://open.spotify.com/album/5eGnXRiE9XXI8zTVuXSI8g"
       },
@@ -911,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impala Tumbado",
-        "url": "https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Impala Tumbado",
-      "url": "https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Cumbia Style",
         "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Finix Style",
-        "url": "https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC"
+        "name": "La F****g Ola",
+        "url": "https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 258187,
-      "name": "Asi Toco Mi Vida - Live",
-      "url": "https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR"
+      "duration_ms": 207133,
+      "name": "La F****g Ola",
+      "url": "https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW"
     },
     {
       "added_at": null,
@@ -971,6 +955,22 @@
       "duration_ms": 223653,
       "name": "QUI\u00c9REME",
       "url": "https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Todo Tuyo (En Vivo)",
+        "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Soy Todo Tuyo - En Vivo",
+      "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
     }
   ],
   "unique_name": "This Is Danny Felix",

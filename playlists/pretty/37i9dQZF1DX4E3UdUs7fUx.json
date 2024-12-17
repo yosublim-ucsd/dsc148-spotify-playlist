@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2171591,
+  "num_followers": 2171526,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Saint Monica (Undone)",
-        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 146884,
-      "name": "Saint Monica - Undone",
-      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Man Overboard",
         "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 176628,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Saint Monica (Undone)",
+        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 146884,
+      "name": "Saint Monica - Undone",
+      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye"
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk"
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1507,6 +1507,38 @@
       "duration_ms": 204120,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Imperial Recordings Best Of",
+        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243867,
+      "name": "Hate the Way You Love Me",
+      "url": "https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1575,34 +1607,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
       "artists": [
         {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243867,
-      "name": "Hate the Way You Love Me",
-      "url": "https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT"
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1623,34 +1639,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Strawberry Mansion - Side A",
-        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6set2UH8XaNibl4szytQlt"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk"
     }
   ],
   "unique_name": "Afternoon Acoustic",

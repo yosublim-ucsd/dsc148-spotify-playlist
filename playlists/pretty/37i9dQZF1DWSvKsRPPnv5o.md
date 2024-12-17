@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,315 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,367 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

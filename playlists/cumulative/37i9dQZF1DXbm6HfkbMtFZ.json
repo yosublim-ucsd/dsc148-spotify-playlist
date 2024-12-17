@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 193920,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/07ro3rZJbOURKp1ZGcP8c5"
@@ -2916,6 +2916,24 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "album": {

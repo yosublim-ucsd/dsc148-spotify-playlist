@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Butterbear
 
-273 songs - 16 hr 42 min
+277 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-02 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-05 |  |
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-29 | 2024-12-13 |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-16 |  |
 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 | 2024-06-27 | 2024-07-13 |
 | [Buttery World](https://open.spotify.com/track/5zda500DzSudxLKepZQMS0) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [Buttery World](https://open.spotify.com/album/5ohEOZw0rvnLnAiMzs50y7) | 1:20 | 2024-12-12 |  |
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-07 | 2024-08-17 |
@@ -30,6 +31,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-06-27 | 2024-09-27 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-27 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 |  |
+| [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-16 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-01 | 2024-11-23 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-06-27 | 2024-08-31 |
@@ -63,7 +65,7 @@
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-22 |  |
 | [OH MY!](https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [OH MY!](https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV) | 2:37 | 2024-10-11 | 2024-10-26 |
-| [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 | 2024-09-06 | 2024-11-30 |
+| [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 | 2024-09-06 |  |
 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 | 2024-11-22 |  |
 | [Over The Moon](https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:37 | 2024-11-08 | 2024-11-16 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2024-08-31 |
@@ -74,6 +76,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 | 2024-12-13 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 | 2024-11-23 |
 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 | 2024-12-06 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2024-12-16 |  |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-27 | 2024-09-10 |
 | [Sleigh](https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Christmas Promises](https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1) | 3:08 | 2024-12-06 | 2024-12-13 |
 | [Smash or Pass \- Original Soundtrack From Out of the nest](https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Smash or Pass \(Original Soundtrack From Out of the nest\)](https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE) | 2:46 | 2024-08-02 | 2024-08-10 |
@@ -237,6 +240,7 @@
 | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/track/7Io7duTHbX22guoinFQpcx) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/album/58hZgQmEWJeJ6hoNiGqK31) | 4:40 | 2024-08-16 | 2024-10-12 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2024-06-27 | 2024-08-03 |
 | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 | 2024-11-01 | 2024-11-19 |
+| [เป็นไปได้ไหม](https://open.spotify.com/track/6EZNUMSuukeCbvqz1YtNfm) | [WanMai](https://open.spotify.com/artist/2sKT8RVQa0kT5l7OcVui2R) | [เป็นไปได้ไหม](https://open.spotify.com/album/6mnXXdmD5wdT3nZp5k5JKT) | 3:35 | 2024-12-16 |  |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-06-27 |  |
 | [เพลงที่เธอไม่ฟัง](https://open.spotify.com/track/6KRj0vz2JEk8Ykt1Q0KKZX) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:58 | 2024-06-27 |  |
 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 | 2024-10-11 |  |

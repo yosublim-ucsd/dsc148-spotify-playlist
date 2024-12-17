@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,604 likes - 99 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,751 likes - 99 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 21 | [My One and Only Love](https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ain't No Sunshine / My One and Only Love](https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC) | 4:40 |
 | 22 | [Taking a Chance on Love](https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:30 |
 | 23 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
-| 24 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 |
-| 25 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 |
+| 24 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 |
+| 25 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 |
 | 26 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 |
 | 27 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 |
 | 28 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |

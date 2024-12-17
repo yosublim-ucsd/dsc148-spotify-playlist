@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 198095,
       "name": "diament - bedroom version",
       "url": "https://open.spotify.com/track/6Qr0Cb7JYETcqQUyBX671r"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 159213,
       "name": "Listek",
       "url": "https://open.spotify.com/track/64KcpSFKRnaYLt2LVYXXql"
@@ -2776,6 +2776,24 @@
       "duration_ms": 166741,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+    },
+    {
+      "album": {
+        "name": "mo\u017ce jutro",
+        "url": "https://open.spotify.com/album/5XljoD2PB55bc5EertXoMP"
+      },
+      "artists": [
+        {
+          "name": "Senny",
+          "url": "https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "mo\u017ce jutro",
+      "url": "https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp"
     },
     {
       "album": {
@@ -3564,6 +3582,24 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "album": {
@@ -5269,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
+    },
+    {
+      "album": {
         "name": "Wsch\u00f3d",
         "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
       },
@@ -5574,7 +5628,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 204579,
       "name": "Zostan\u0119 tu z Tob\u0105",
       "url": "https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu"

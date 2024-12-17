@@ -4,7 +4,7 @@
 
 > ¡Al cien para un buen ejercicio!
 
-581 songs - 1 day 5 hr 37 min
+582 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Al Millón](https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 3:25 | 2022-02-14 | 2022-07-29 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2024-05-01 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2022-12-08 |  |
-| [Amiri](https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Amiri](https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI) | 3:31 | 2024-05-01 |  |
+| [Amiri](https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Amiri](https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI) | 3:31 | 2024-05-01 | 2024-12-17 |
 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 | 2024-05-01 |  |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-05-27 | 2024-05-02 |
 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 | 2022-02-14 | 2024-05-02 |
@@ -216,6 +216,7 @@
 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 | 2023-09-29 | 2024-05-02 |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2024-05-01 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-27 |  |
+| [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 | 2024-08-14 |  |
 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 | 2023-01-27 | 2023-05-15 |
 | [El Jami](https://open.spotify.com/track/3ZMQAcQ6OfWOWcVYNX4s9J) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/74tiD1EECHUoifQuTexkZb) | 2:59 | 2022-12-31 | 2023-02-08 |
 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 | 2022-02-14 | 2022-07-21 |

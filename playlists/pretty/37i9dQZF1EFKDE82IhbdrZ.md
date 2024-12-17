@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 318 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246 likes - 318 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,17 +62,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 52 | [Better Than Words](https://open.spotify.com/track/4qG3Um3jXlQnaQV1yVo3it) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:28 |
 | 53 | [Long Way Down](https://open.spotify.com/track/2UFOh8iMQ2DON7sl3lqGJH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
 | 54 | [Clouds](https://open.spotify.com/track/6ibWCCEne6WEqDBAv7BeXv) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:51 |
-| 55 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
-| 56 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
-| 57 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
+| 55 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
+| 56 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
+| 57 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
 | 58 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
 | 59 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
 | 60 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 61 | [Once in a Lifetime](https://open.spotify.com/track/1dD1aarWotVIiFo5gGdMc2) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 2:38 |
 | 62 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
-| 63 | [Breathing](https://open.spotify.com/track/12HgZnRqGPwIZJD0gPsUor) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:54 |
-| 64 | [Change Your Ticket](https://open.spotify.com/track/2skzofTV9Ys3eN70pghEHL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:26 |
-| 65 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 63 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 64 | [Breathing](https://open.spotify.com/track/12HgZnRqGPwIZJD0gPsUor) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:54 |
+| 65 | [Change Your Ticket](https://open.spotify.com/track/2skzofTV9Ys3eN70pghEHL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:26 |
 | 66 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/4KkjSqBzF06TS1fhasBQWH) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 3:53 |
 | 67 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 68 | [Heartbreak Weather](https://open.spotify.com/track/3jf3c9EOFam6Q15sho0XWw) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:20 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 89 | [Low Key \(feat\. Tyga\)](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Low Key \(feat\. Tyga\)](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) | 3:21 |
 | 90 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 91 | [Best 4 U](https://open.spotify.com/track/1aufVYjIKcrXfEv2rYlzrZ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:59 |
-| 92 | [Fire Away](https://open.spotify.com/track/7JyZzz4rMPMWMsb27vArSN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:26 |
-| 93 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
+| 92 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
+| 93 | [Fire Away](https://open.spotify.com/track/7JyZzz4rMPMWMsb27vArSN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:26 |
 | 94 | [Preacher Man](https://open.spotify.com/track/0t4eeCKgtrRe75g94vzQsl) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [X](https://open.spotify.com/album/7he37fPTLhn4YyQlXerHXV) | 3:39 |
 | 95 | [Blowin’ Smoke](https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:21 |
 | 96 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbkPcgAAAAAVvYftjlWY/IL/lheAhBWn`
+Snapshot ID: `AbkU9AAAAACj5DwSCf3ij1/KyEJdwoCR`

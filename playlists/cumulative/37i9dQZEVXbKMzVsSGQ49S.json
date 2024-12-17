@@ -8764,7 +8764,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -12410,7 +12410,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 180328,
       "name": "Fegurstu Bl\u00f3min Vaxa Villt",
       "url": "https://open.spotify.com/track/4MvYscYDsTEMF4mleYceGK"
@@ -12472,7 +12472,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -21772,7 +21772,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 233824,
       "name": "Komdu um j\u00f3lin",
       "url": "https://open.spotify.com/track/6zN8LsOE6lMq73nXAgVHMw"
@@ -23506,7 +23506,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 152415,
       "name": "Litlar stj\u00f6rnur",
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
@@ -30186,7 +30186,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 203254,
       "name": "PART\u00ddJ\u00d3L",
       "url": "https://open.spotify.com/track/0mnMSFmMdRHqwCs2XvBG7k"
@@ -34302,7 +34302,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 210375,
       "name": "Sexy Ru",
       "url": "https://open.spotify.com/track/6GX49qhB0OKvZ60f92jHIi"
@@ -37016,7 +37016,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 191927,
       "name": "Stingi\u00f0 Henni \u00ed Steininn",
       "url": "https://open.spotify.com/track/3odEGSOVqnsnScigAvWpgr"
@@ -39618,7 +39618,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -44430,6 +44430,24 @@
       "duration_ms": 143331,
       "name": "Winna (feat. Alex Marley)",
       "url": "https://open.spotify.com/track/2qjLsL5PVVBNbA9Wxijpkz"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
       "album": {

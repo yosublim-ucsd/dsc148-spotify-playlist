@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,512 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,527 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 69 | [I'm Just a Clown](https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 4:13 |
 | 70 | [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 |
 | 71 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
-| 72 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
+| 72 | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 |
 | 73 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 |
-| 74 | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 |
+| 74 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 75 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 |
 | 76 | [the real deal](https://open.spotify.com/track/3zfwaCUZLnssBxfJg6E2n9) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [the real deal](https://open.spotify.com/album/4RStY3dfOtZFp1x1rqVxOt) | 2:30 |
 | 77 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 94 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
 | 95 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
 | 96 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 |
-| 97 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 |
-| 98 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
+| 97 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
+| 98 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 |
 | 99 | [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 |
 | 100 | [Take It Right On](https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Take It Right On](https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH) | 2:31 |
 

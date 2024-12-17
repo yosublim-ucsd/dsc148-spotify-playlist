@@ -1,6 +1,6 @@
 {
   "description": "The best in UK Funky: celebrating 30 years of Rinse with a Katy B takeover!",
-  "num_followers": 105212,
+  "num_followers": 105221,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
@@ -755,18 +755,26 @@
     {
       "added_at": "2024-09-30 10:31:48",
       "album": {
-        "name": "Funky Flex vs Pulse",
-        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
+        "name": "Condo (feat. T-Pain) [Remixes]",
+        "url": "https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 361791,
-      "name": "Funky Flex vs Pulse",
-      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
+      "duration_ms": 232504,
+      "name": "Condo (feat. T-Pain) - Roska Remix",
+      "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
     },
     {
       "added_at": "2024-09-30 10:31:48",
@@ -791,6 +799,22 @@
     {
       "added_at": "2024-09-30 10:31:48",
       "album": {
+        "name": "Funky Flex vs Pulse",
+        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 361791,
+      "name": "Funky Flex vs Pulse",
+      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
+    },
+    {
+      "added_at": "2024-09-30 10:31:48",
+      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/0dtUARWA1xg637IQdo4BNl"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 201413,
       "name": "One More Dance (Crazy Cousinz Mix - Crazy Cousinz)",
       "url": "https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI"
-    },
-    {
-      "added_at": "2024-09-30 10:31:48",
-      "album": {
-        "name": "Condo (feat. T-Pain) [Remixes]",
-        "url": "https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 232504,
-      "name": "Condo (feat. T-Pain) - Roska Remix",
-      "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
     },
     {
       "added_at": "2024-09-30 10:31:48",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-09-30 10:31:48",
       "album": {
-        "name": "Gone (Bklava Remix)",
-        "url": "https://open.spotify.com/album/3pqO9UtBlcOd1ZKfmlHK99"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        },
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        }
-      ],
-      "duration_ms": 228008,
-      "name": "Gone - Bklava Remix",
-      "url": "https://open.spotify.com/track/2JMNzion86EWocg5WhqYeS"
-    },
-    {
-      "added_at": "2024-09-30 10:31:48",
-      "album": {
         "name": "Broken Record Remixes",
         "url": "https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 333066,
       "name": "Broken Record - Geeneus Funky Mix",
       "url": "https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt"
+    },
+    {
+      "added_at": "2024-09-30 10:31:48",
+      "album": {
+        "name": "Gone (Bklava Remix)",
+        "url": "https://open.spotify.com/album/3pqO9UtBlcOd1ZKfmlHK99"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 228008,
+      "name": "Gone - Bklava Remix",
+      "url": "https://open.spotify.com/track/2JMNzion86EWocg5WhqYeS"
     },
     {
       "added_at": "2024-09-30 10:31:48",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-09-30 10:31:48",
       "album": {
+        "name": "Fuller / Hurricane Riddim",
+        "url": "https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo"
+      },
+      "artists": [
+        {
+          "name": "FunkyStepz",
+          "url": "https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb"
+        }
+      ],
+      "duration_ms": 285460,
+      "name": "Fuller",
+      "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"
+    },
+    {
+      "added_at": "2024-09-30 10:31:48",
+      "album": {
         "name": "The Patience EP",
         "url": "https://open.spotify.com/album/7bry7cmSNMTPYKiK36Sm7Q"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 267904,
       "name": "Cheese and Bun",
       "url": "https://open.spotify.com/track/54NCFi6uvFsfhIMXkduSgT"
-    },
-    {
-      "added_at": "2024-09-30 10:31:48",
-      "album": {
-        "name": "Seiji 1",
-        "url": "https://open.spotify.com/album/4Ln7xUPsqJ2JsI0uaiyGm6"
-      },
-      "artists": [
-        {
-          "name": "Seiji",
-          "url": "https://open.spotify.com/artist/6XwHEDOkZpFRqtZDXLYHlK"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn"
     }
   ],
   "unique_name": "UK Funky",

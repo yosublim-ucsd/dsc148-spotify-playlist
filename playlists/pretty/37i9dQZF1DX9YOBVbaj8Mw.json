@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14778,
+  "num_followers": 14777,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -227,38 +227,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Madison",
-        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Mrozu. MTV Unplugged",
-        "url": "https://open.spotify.com/album/3t78lM2XV7ANPuUEa8bsu4"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 272013,
-      "name": "Nie sta\u0142o si\u0119 nic - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4AnDsx6QGmPGqBGKXdEFlE"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Akademia Pana Kleksa",
         "url": "https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 193855,
       "name": "Ca\u0142kiem Nowa Bajka",
       "url": "https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Mrozu. MTV Unplugged",
+        "url": "https://open.spotify.com/album/3t78lM2XV7ANPuUEa8bsu4"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 272013,
+      "name": "Nie sta\u0142o si\u0119 nic - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4AnDsx6QGmPGqBGKXdEFlE"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
     },
     {
       "added_at": "2024-03-25 08:52:09",

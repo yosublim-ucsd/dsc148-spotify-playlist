@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Van Zee, Bispo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,877 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,894 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 32 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 |
 | 33 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 34 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
-| 35 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
-| 36 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 35 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 36 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 37 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
 | 38 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
 | 39 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |

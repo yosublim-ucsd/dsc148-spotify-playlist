@@ -1947,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "album": {
         "name": "Gato de Madrugada",
         "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
       },
@@ -2440,6 +2462,24 @@
       "duration_ms": 226250,
       "name": "Labios de Cereza 2",
       "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Lado Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
     },
     {
       "album": {
@@ -3219,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -3562,7 +3620,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 167103,
       "name": "Noches Amargas",
       "url": "https://open.spotify.com/track/3RdIoywt4oDQgMf3L5rsDc"
@@ -3932,7 +3990,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -4540,7 +4598,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"

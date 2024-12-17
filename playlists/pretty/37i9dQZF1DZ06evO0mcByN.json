@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 4725,
+  "num_followers": 4727,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAjRgrMhJuBrCJGl+6CwSiA",
+  "snapshot_id": "Z14cAAAAAABfsywlmWgw7og8zh13a1FJ",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+        "name": "Trilo",
+        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
       },
       "artists": [
         {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        },
+        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 393986,
-      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+      "duration_ms": 318076,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
     },
     {
       "added_at": null,
@@ -391,22 +387,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilo",
-        "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
       "artists": [
         {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        },
-        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 318076,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy"
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
     },
     {
       "added_at": null,

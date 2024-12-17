@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1118284,
+  "num_followers": 1118375,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
+        "name": "&SCENE",
+        "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "if it's not you",
+      "url": "https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 375656,
       "name": "Cool with You",
       "url": "https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
-        "name": "&SCENE",
-        "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 226350,
-      "name": "if it's not you",
-      "url": "https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "bad",
-      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Untitled '91",
         "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 87966,
       "name": "Flook",
       "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy"
-      },
-      "artists": [
-        {
-          "name": "Esbie Fonte",
-          "url": "https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY"
-        }
-      ],
-      "duration_ms": 216651,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Your Day Will Come",
         "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 119666,
       "name": "Unifying Thought",
       "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy"
+      },
+      "artists": [
+        {
+          "name": "Esbie Fonte",
+          "url": "https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY"
+        }
+      ],
+      "duration_ms": 216651,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        }
+      ],
+      "duration_ms": 127409,
+      "name": "TEETH",
+      "url": "https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
         "name": "Her and All of My Friends",
         "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 177777,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj"
-      },
-      "artists": [
-        {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        }
-      ],
-      "duration_ms": 127409,
-      "name": "TEETH",
-      "url": "https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 184506,
       "name": "distance",
       "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
     },
     {
       "added_at": "2024-12-12 17:44:29",

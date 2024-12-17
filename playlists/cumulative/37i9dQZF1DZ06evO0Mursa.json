@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 263493,
       "name": "Stabat mater: Ave verum corpus",
       "url": "https://open.spotify.com/track/6VRQ8HqY4ztO34AdeP4VW2"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 550226,
       "name": "Stabat mater: I. Cantus Lacrimosus",
       "url": "https://open.spotify.com/track/1epLGnTNOCJBZWMb8Db53g"
@@ -1526,10 +1526,6 @@
         {
           "name": "Andrew Long",
           "url": "https://open.spotify.com/artist/6LMfTM8YTlq1JSAHGtA3Nv"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/6SsAexP0BjCvbFLYJuGfVv"
         },
         {
           "name": "Ian Tracey",
@@ -1558,7 +1554,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 150920,
       "name": "Stabat mater: II. Incantation",
       "url": "https://open.spotify.com/track/3gtWkE5EbMfu5t3WtYRl3g"
@@ -1964,6 +1960,32 @@
       "duration_ms": 311733,
       "name": "Stravaganza: 4. Flight \u2026 of fancy",
       "url": "https://open.spotify.com/track/7INwPED9WGKEuLIXZqtdS8"
+    },
+    {
+      "album": {
+        "name": "Karl Jenkins: Motets",
+        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242586,
+      "name": "The Armed Man - A Mass For Peace: Benedictus",
+      "url": "https://open.spotify.com/track/0bf97KEw7qJCJIc6Q1aS7O"
     },
     {
       "album": {

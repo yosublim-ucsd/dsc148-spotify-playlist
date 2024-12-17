@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,653 likes - 51 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,677 likes - 51 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,22 +33,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 23 | [Love And Affection](https://open.spotify.com/track/7zm4upLq0DrZlTHD2ELmQ6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:36 |
 | 24 | [Miss You In A Heartbeat \- Revised Version](https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:04 |
 | 25 | [Stand Up \(Kick Love Into Motion\)](https://open.spotify.com/track/0dr71rw5oIcPtUHRJES6gP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:32 |
-| 26 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
+| 26 | [Switch 625](https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 3:03 |
 | 27 | [Run Riot](https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:39 |
-| 28 | [Switch 625](https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 3:03 |
+| 28 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
 | 29 | [Heaven Is](https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 3:33 |
-| 30 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 |
+| 30 | [Mirror Mirror \(Look Into My Eyes\)](https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:07 |
 | 31 | [Don't Shoot Shot Gun](https://open.spotify.com/track/4IB9c8FQ2VNutSWdgkw0Ys) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:26 |
-| 32 | [Mirror Mirror \(Look Into My Eyes\)](https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:07 |
+| 32 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 |
 | 33 | [Stagefright](https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:44 |
 | 34 | [Wasted](https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:45 |
-| 35 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
-| 36 | [Another Hit And Run](https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:58 |
+| 35 | [Another Hit And Run](https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:58 |
+| 36 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
 | 37 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
 | 38 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
 | 39 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 |
-| 40 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
-| 41 | [Long Long Way To Go](https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:40 |
+| 40 | [Long Long Way To Go](https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:40 |
+| 41 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 42 | [Slang](https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 2:37 |
 | 43 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
 | 44 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 |
 | 51 | [Blood Runs Cold](https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 4:27 |
 
-Snapshot ID: `Z1zKgAAAAAB8ojY8u09uFq3ZXBvbfRvO`
+Snapshot ID: `Z14cAAAAAABZdoCyk/0ZVOkPA5EGlL4P`

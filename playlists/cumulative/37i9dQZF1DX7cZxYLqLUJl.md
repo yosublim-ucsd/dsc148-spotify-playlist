@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-138 songs - 6 hr 4 min
+139 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-04-05 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-04-21 | 2024-12-04 |
 | [Returning To You](https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Returning To You](https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb) | 3:21 | 2024-08-19 |  |
+| [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 | 2024-12-16 |  |
 | [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2021-04-21 |  |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-21 | 2023-09-12 |
 | [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 | 2021-04-21 | 2024-09-10 |

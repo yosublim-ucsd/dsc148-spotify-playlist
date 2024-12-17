@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Mr.FanTastiC
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,417 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,428 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 16 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
 | 17 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
 | 18 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
-| 19 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
+| 19 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 | 20 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
-| 21 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
+| 21 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
 | 22 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 23 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 24 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 40 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
 | 41 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
 | 42 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
-| 43 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 |
-| 44 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
+| 43 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
+| 44 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 |
 | 45 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 46 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 47 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 71 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 |
 | 72 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 73 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
-| 74 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 |
-| 75 | [Wonder](https://open.spotify.com/track/1RbsnRJu6FJAyRer1ADMgd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Wonder](https://open.spotify.com/album/5ApwQum2jaNFN1UsCQVdIo) | 3:47 |
+| 74 | [Wonder](https://open.spotify.com/track/1RbsnRJu6FJAyRer1ADMgd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Wonder](https://open.spotify.com/album/5ApwQum2jaNFN1UsCQVdIo) | 3:47 |
+| 75 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 |
 | 76 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
 | 77 | [smileY:\)](https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [smileY:\)](https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn) | 1:55 |
 | 78 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
-| 79 | [Come As U Are](https://open.spotify.com/track/66iB6JJWjKEW2vJUVd4Lnk) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Come As U Are](https://open.spotify.com/album/0R4cVeiKEnERTILj0E4nd6) | 3:39 |
+| 79 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
 | 80 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
-| 81 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
+| 81 | [Come As U Are](https://open.spotify.com/track/66iB6JJWjKEW2vJUVd4Lnk) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Come As U Are](https://open.spotify.com/album/0R4cVeiKEnERTILj0E4nd6) | 3:39 |
 | 82 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 83 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 |
 | 84 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |

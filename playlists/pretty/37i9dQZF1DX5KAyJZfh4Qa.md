@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Touché Amoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,501 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,546 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 25 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
 | 26 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
 | 27 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
-| 28 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
-| 29 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
+| 28 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
+| 29 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
 | 30 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 31 | [tequila redbull](https://open.spotify.com/track/0XGV6cr7MPIiLjxJ7JbMEQ) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [tequila redbull](https://open.spotify.com/album/2Kio4Gx9kNsCL2Sb7rMNCn) | 3:56 |
 | 32 | [Ephemera](https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Ephemera](https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8) | 3:09 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 48 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
 | 49 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 | 50 | [C.A.S.E.Y](https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [A Second Chance At Forever: The Brilliant Lies From Casey Diamond](https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc) | 3:11 |
-| 51 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
-| 52 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
+| 51 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
+| 52 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 | 53 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 |
-| 54 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
+| 54 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
 | 55 | [Mostly](https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Mostly](https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8) | 2:37 |
 | 56 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
 | 57 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |

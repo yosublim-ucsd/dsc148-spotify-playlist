@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Marta Santos
 
-621 songs - 1 day 7 hr 8 min
+623 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Ese Cabrón](https://open.spotify.com/track/6j8ZYGTQqc9HE6LdnmyfBg) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ese Cabrón](https://open.spotify.com/album/0Ypeuh9ArsnceRgRPt8xDT) | 3:21 | 2023-09-07 | 2023-09-19 |
 | [Espacio en Tu Corazón \- Remix](https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Espacio en Tu Corazón \(Remix\)](https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco) | 2:59 | 2024-10-04 |  |
 | [Especial](https://open.spotify.com/track/6WbNx5PkzvfYr2qHOg2TZ6) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Especial](https://open.spotify.com/album/1qYYKmUgYaoMcEvScUhpLS) | 2:44 | 2024-03-11 | 2024-03-23 |
+| [Espectacular](https://open.spotify.com/track/1zuY26Ll9TTcefOKMKxnJu) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Espectacular](https://open.spotify.com/album/6iTMrrYpDNZgw3fS4V3xyf) | 2:57 | 2024-12-16 |  |
 | [Espina](https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Espina](https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu) | 3:03 | 2024-09-17 | 2024-09-24 |
 | [Espinita Clavá](https://open.spotify.com/track/5nBPZbNLIJJqiDO1POCDGR) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Espinita Clavá](https://open.spotify.com/album/6TNvmYm1VvIgk7VkKiyiUw) | 2:46 | 2023-03-13 | 2023-09-26 |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-17 | 2023-08-02 |
@@ -331,7 +332,7 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-09-28 | 2024-02-02 |
 | [Mala Gente](https://open.spotify.com/track/6ju55V6qat6G1DIPn0yszc) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Mala Gente](https://open.spotify.com/album/73KxpUdAwS9raw5JWjkD55) | 2:33 | 2023-11-30 | 2023-12-19 |
 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 | 2023-08-31 | 2023-09-29 |
-| [MALAGRADECIDA](https://open.spotify.com/track/3zV7pG7agdG3aHmyVPKrtC) | [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [MALAGRADECIDA](https://open.spotify.com/album/55fAIpSyZCMiLugnTno4WY) | 2:14 | 2024-12-09 |  |
+| [MALAGRADECIDA](https://open.spotify.com/track/3zV7pG7agdG3aHmyVPKrtC) | [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [MALAGRADECIDA](https://open.spotify.com/album/55fAIpSyZCMiLugnTno4WY) | 2:14 | 2024-12-09 | 2024-12-17 |
 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-02-26 | 2024-05-14 |
 | [Manos Frías \(con Reik, Beéle\)](https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Manos Frías \(con Reik, Beéle\)](https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo) | 3:36 | 2023-05-30 | 2023-08-08 |
 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 | 2023-06-20 | 2023-09-22 |
@@ -362,6 +363,7 @@
 | [MI BANDERA](https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:21 | 2023-09-11 | 2023-10-31 |
 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 | 2023-10-27 | 2024-02-02 |
 | [MI BANDERA](https://open.spotify.com/track/6xQ7rp1lFACStJDpJF5KW8) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:21 | 2023-06-01 | 2023-07-26 |
+| [Mi Casa](https://open.spotify.com/track/2MmQp3JZbkGzf86Zxuot1p) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mi Casa](https://open.spotify.com/album/07K31AzBLwNejQC1dUb8Zf) | 3:01 | 2024-12-16 |  |
 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 | 2024-05-20 | 2024-06-04 |
 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-09 |  |
 | [Miami Beach](https://open.spotify.com/track/4NHHipNDZ7drpgykr6W09d) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Miami Beach](https://open.spotify.com/album/3eMcXYzlOOtbazCsrZE7b9) | 3:57 | 2023-05-19 | 2023-06-02 |
@@ -427,7 +429,7 @@
 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 | 2023-11-21 | 2024-06-29 |
 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 | 2023-11-21 | 2023-12-19 |
 | [Para qué me escribes](https://open.spotify.com/track/6SuybaaCzmRXaohQdLHn1T) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x) | [Para qué me escribes](https://open.spotify.com/album/4j5f4aVHrqhFBaZ1EVkSnN) | 3:10 | 2024-10-04 |  |
-| [Para Ti](https://open.spotify.com/track/10mSGEXh6acWFLcHmeMnnh) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Para Ti](https://open.spotify.com/album/0dykIi2Q6VJoPvmOZDym7d) | 2:45 | 2024-12-09 |  |
+| [Para Ti](https://open.spotify.com/track/10mSGEXh6acWFLcHmeMnnh) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Para Ti](https://open.spotify.com/album/0dykIi2Q6VJoPvmOZDym7d) | 2:45 | 2024-12-09 | 2024-12-17 |
 | [Paranoia](https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Paranoia](https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq) | 3:00 | 2023-09-28 | 2023-10-17 |
 | [Pared Y Espada](https://open.spotify.com/track/5PbtLcDMOl5kTIc6LtMk9H) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Pared Y Espada](https://open.spotify.com/album/1KSXm02g4woDdBbUbqFM8G) | 2:57 | 2023-04-03 | 2023-04-18 |
 | [París](https://open.spotify.com/track/2LEMMY4VZYBBAglkhYRjcZ) | [Eles](https://open.spotify.com/artist/3XSoyETJ3bgL1OZZVVPTZ6), [Porto](https://open.spotify.com/artist/1AiEOgwte8Uf207KWuGnbM) | [París](https://open.spotify.com/album/0PO6wrDNYsZeXK7QSeQmfg) | 2:52 | 2023-04-10 | 2023-04-26 |

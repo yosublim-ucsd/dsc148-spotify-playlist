@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,325 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,348 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 23 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 |
 | 24 | [Oba, Lá Vem Ela](https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Força Bruta](https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw) | 4:12 |
 | 25 | [Soledad](https://open.spotify.com/track/4icDYkM3ZwAeNV0CoQdK9n) | [Combo Los Galleros](https://open.spotify.com/artist/2vqepwfg1WGrm1knVd0nuC) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM) | 2:47 |
-| 26 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 26 | [O Que É O Que É?](https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Caminhos Do Coração](https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0) | 4:18 |
 | 27 | [Rudy, a Message to You](https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3) | 2:42 |
 | 28 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
 | 29 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
-| 30 | [O Que É O Que É?](https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Caminhos Do Coração](https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0) | 4:18 |
+| 30 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
 | 31 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 32 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 33 | [Don't Let Me Down](https://open.spotify.com/track/4Syz1PCBRXy9oAt5R3hEPu) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Play Me Sweet and Nice](https://open.spotify.com/album/0nX8xS1QkhWaHGKCgbZacn) | 3:24 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 69 | [Tau Special](https://open.spotify.com/track/0ngntzXMh8Z7scng196dWU) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [The Movers \- Vol\. 1 \- 1970\-1976 \(Analog Africa No\. 35\)](https://open.spotify.com/album/01vGEXvg6XS0ptkIBLAby4) | 2:51 |
 | 70 | [Tropical Suite: São Paulo](https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH) | [Poni Hoax](https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD) | [Tropical Suite](https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3) | 2:06 |
 | 71 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL) | 3:43 |
-| 72 | [Up From the South](https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:26 |
+| 72 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 | 73 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
 | 74 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 75 | [Sevda Çiçeği](https://open.spotify.com/track/4vmztiqUDwZGYHogu7RJ5e) | [Fikret Kızılok](https://open.spotify.com/artist/6RXvZtTyld421VPmJtLqkL) | [Zaman Zaman](https://open.spotify.com/album/4cMwQJZAYmmK6LXB4flKvL) | 4:25 |
-| 76 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
+| 76 | [Up From the South](https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:26 |
 | 77 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 |
 | 78 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
 | 79 | [Sitting on the Dock of the Bay](https://open.spotify.com/track/5Ja7SS7ATazexKz4E6dgOp) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:15 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 93 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |
 | 94 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
 | 95 | [País Tropical](https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 4:10 |
-| 96 | [Iko Iko](https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:06 |
+| 96 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Zungguzungguguzungguzeng!](https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N) | 6:28 |
 | 97 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
-| 98 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Zungguzungguguzungguzeng!](https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N) | 6:28 |
+| 98 | [Iko Iko](https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:06 |
 | 99 | [Qui c'est celui\-là ?](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 |
 | 100 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [İkimiz Bir Fidanız \(45'lik\)](https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q) | 3:30 |
 

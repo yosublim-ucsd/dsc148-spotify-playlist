@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,083 likes - 34 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,090 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 29 | [Exploration \(Ruins\)](https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:10 |
 | 30 | [Ballad 0 \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 2:59 |
 | 31 | [Psychopomp](https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:15 |
-| 32 | [Sansee \(Day\)](https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:58 |
+| 32 | [Main Menu](https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:04 |
 | 33 | [Say It Ain't So \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:17 |
 | 34 | [Lindsey \- Recorded At Electric Lady Studios](https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 3:42 |
 
-Snapshot ID: `Z1zKgAAAAACWIujX2tAe1NPzux/Archa`
+Snapshot ID: `Z14cAAAAAABl+oGsjJXa+H7E3LARZ0ja`

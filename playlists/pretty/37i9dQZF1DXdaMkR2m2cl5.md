@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,689 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,692 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 48 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
 | 49 | [Feet On The Dashboard](https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Feet On The Dashboard](https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw) | 4:44 |
 | 50 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 51 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
-| 52 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
+| 51 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
+| 52 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
 | 53 | [Little Lies](https://open.spotify.com/track/0mTJW2yluaM5hcXg86Wf5g) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Little Lies](https://open.spotify.com/album/5GjyIxg103YUxifsdLRCuw) | 3:54 |
 | 54 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 55 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 85 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 | 86 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
 | 87 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
-| 88 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
-| 89 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 88 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 89 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
 | 90 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |
 | 91 | [Friday Night Lights](https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Friday Night Lights](https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY) | 3:20 |
 | 92 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 95 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 | 96 | [Find a Way \(Acoustic\)](https://open.spotify.com/track/7H0yB7Tm1GmLdjpDDLSISE) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Find a Way \(Acoustic\) / Filling Up Our Lungs \(Acoustic\)](https://open.spotify.com/album/2ffjsINnl0jzADOrgivpXL) | 3:38 |
 | 97 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
-| 98 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 |
-| 99 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
-| 100 | [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 |
+| 98 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
+| 99 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 |
+| 100 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
 
 Snapshot ID: `ZQPWwAAAAAAM+p4Z00ENn4/CEsJCfe18`

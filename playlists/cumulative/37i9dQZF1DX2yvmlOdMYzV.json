@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
@@ -5274,6 +5274,24 @@
       "duration_ms": 177175,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1"
+    },
+    {
+      "album": {
+        "name": "A YEAR",
+        "url": "https://open.spotify.com/album/65FabSfb1WAhadP73RCBh4"
+      },
+      "artists": [
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "GIBRAN",
+      "url": "https://open.spotify.com/track/1xIUEsFNYtKO5cPUkEBi33"
     },
     {
       "album": {

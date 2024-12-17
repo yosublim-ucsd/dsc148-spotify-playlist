@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Ketan Sodha, Ash King & Jahnvi Shrimankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,495 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,509 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Mirage](https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo) | [Anjana Padmanabhan](https://open.spotify.com/artist/420Mr1M4EAVToMd0puguQD), [Siddhesh Shrivastava](https://open.spotify.com/artist/0f1ufB3uP5qiQhcNFnfyE5), [Harshil Gandhi](https://open.spotify.com/artist/61jrNAkPzXVKsOQn8XSqDh) | [Mirage](https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ) | 4:23 |
 | 48 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 49 | [Suprabhatam](https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 4:01 |
-| 50 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
+| 50 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 
 Snapshot ID: `Z1woYgAAAABzgvAEjT7LtzK5PGmdSroB`

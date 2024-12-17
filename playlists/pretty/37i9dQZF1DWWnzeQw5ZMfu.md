@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,416 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,432 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 86 | [How Will I Know \- Live from The Brit Awards](https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 4:00 |
 | 87 | [Waking Up In Vegas \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:31 |
 | 88 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 |
-| 89 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
-| 90 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
+| 89 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
+| 90 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
 | 91 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 |
 | 92 | [Stitches \- Live](https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 6:36 |
 | 93 | [New Rules \- Live](https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Live\)](https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc) | 4:35 |

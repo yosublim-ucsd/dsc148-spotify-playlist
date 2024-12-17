@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-296 songs - 16 hr 41 min
+299 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2024-09-13 |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-28 | 2024-07-06 |
 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 | 2024-11-15 |  |
-| [diament \- bedroom version](https://open.spotify.com/track/6Qr0Cb7JYETcqQUyBX671r) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament \(bedroom version\)](https://open.spotify.com/album/1ajDa0Nns7meDX8LT63McH) | 3:18 | 2024-12-09 |  |
+| [diament \- bedroom version](https://open.spotify.com/track/6Qr0Cb7JYETcqQUyBX671r) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament \(bedroom version\)](https://open.spotify.com/album/1ajDa0Nns7meDX8LT63McH) | 3:18 | 2024-12-09 | 2024-12-17 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-20 | 2024-11-22 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-09-13 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-28 | 2024-11-22 |
@@ -135,7 +135,7 @@
 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 | 2024-10-14 |  |
 | [Limbo](https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 3:35 | 2024-11-21 |  |
 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 | 2024-10-08 |
-| [Listek](https://open.spotify.com/track/64KcpSFKRnaYLt2LVYXXql) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22) | [Wszystko to czego nie da się powiedzieć](https://open.spotify.com/album/2gdfK5ZdAmaYgZEaFM8g4E) | 2:39 | 2024-11-21 |  |
+| [Listek](https://open.spotify.com/track/64KcpSFKRnaYLt2LVYXXql) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22) | [Wszystko to czego nie da się powiedzieć](https://open.spotify.com/album/2gdfK5ZdAmaYgZEaFM8g4E) | 2:39 | 2024-11-21 | 2024-12-17 |
 | [Listopad](https://open.spotify.com/track/2WhpBpERJZv3384qNExPZP) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Listopad](https://open.spotify.com/album/1nLWz8HpZNpfmqzLwYSeJF) | 3:22 | 2024-09-27 | 2024-10-08 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-09-12 | 2024-11-22 |
 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 | 2024-08-20 | 2024-09-13 |
@@ -155,6 +155,7 @@
 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 | 2024-11-21 | 2024-12-15 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-07 | 2024-11-22 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-28 | 2024-07-27 |
+| [może jutro](https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może jutro](https://open.spotify.com/album/5XljoD2PB55bc5EertXoMP) | 3:48 | 2024-12-16 |  |
 | [Mr\. Believer](https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:39 | 2024-11-21 | 2024-12-03 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-06-28 | 2024-09-13 |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 | 2024-07-19 |
@@ -197,6 +198,7 @@
 | [parasol](https://open.spotify.com/track/6alJAmpYqrl0m6vIIKXwBX) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [parasol](https://open.spotify.com/album/56fkaFJUpQ47XriXEbTHqa) | 3:22 | 2024-10-17 | 2024-10-26 |
 | [Patrz](https://open.spotify.com/track/4wyoJdxjDBYmUiH87bfThq) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Patrz](https://open.spotify.com/album/75H3ESOsR3Y4e3XefaRasA) | 2:43 | 2024-11-21 | 2024-11-30 |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-20 | 2024-11-22 |
+| [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 | 2024-12-16 |  |
 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2024-06-28 | 2024-08-04 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-28 | 2024-11-22 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-28 | 2024-09-13 |
@@ -288,6 +290,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-09-12 | 2024-11-22 |
 | [Wisła \- Magiera Lo\-fi Remix](https://open.spotify.com/track/4AOuahbJm9qZR8lf7rFwQf) | [Robert Mróz Jr](https://open.spotify.com/artist/0QQOdzcr4w488zxeSSSTaG), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Wisła \(Magiera Lo\-fi Remix\)](https://open.spotify.com/album/4M60GATA6TQcUHpYsBBx9k) | 3:07 | 2024-10-25 | 2024-11-09 |
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-11-08 |  |
+| [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-16 |  |
 | [Wschód](https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wschód](https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G) | 2:46 | 2024-08-20 | 2024-09-13 |
 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 | 2024-11-21 |  |
 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 | 2024-11-21 |  |
@@ -303,6 +306,6 @@
 | [Zdolna](https://open.spotify.com/track/32I23NQM4JHjLVZxwxXhDE) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Unikając Odpowiedzi EP](https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ) | 3:10 | 2024-11-21 | 2024-11-27 |
 | [Zima](https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Zima](https://open.spotify.com/album/3FwdYr7JH0uddOIiyKizw2) | 3:57 | 2024-11-21 | 2024-11-24 |
 | [Znak](https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Znak](https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C) | 2:53 | 2024-09-20 | 2024-10-08 |
-| [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 | 2024-11-21 |  |
+| [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 | 2024-11-21 | 2024-12-17 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

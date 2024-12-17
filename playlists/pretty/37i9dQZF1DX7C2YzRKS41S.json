@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 130532,
+  "num_followers": 130552,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "OutroEu",
-        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 258720,
-      "name": "Ai de Mim",
-      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

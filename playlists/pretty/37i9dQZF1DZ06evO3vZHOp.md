@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,059 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,108 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
-| 2 | [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 |
-| 3 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
+| 2 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
+| 3 | [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 |
 | 4 | [3 Am](https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:28 |
 | 5 | [Hola Como Vas](https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:18 |
 | 6 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 44 | [Especial](https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz Care Package](https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA) | 2:45 |
 | 45 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 |
 | 46 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
-| 47 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 |
-| 48 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
+| 47 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
+| 48 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 |
 | 49 | [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 |
 | 50 | [Adiós](https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:41 |
 
-Snapshot ID: `Z1zKgAAAAAAsmg4tH76VpcPkavMZRklw`
+Snapshot ID: `Z14cAAAAAABpOuFeNOWt/wHKJfpMejMI`

@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 51 min
+96 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Enfocado](https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:36 | 2023-04-29 | 2024-05-21 |
 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 | 2023-03-19 |  |
 | [Estar Contigo](https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Estar Contigo](https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu) | 3:48 | 2023-03-19 |  |
-| [Hola Mi Amor](https://open.spotify.com/track/6RmOerG8aJYA7mqbHxJmPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 2:38 | 2024-11-10 |  |
+| [Hola Mi Amor](https://open.spotify.com/track/6RmOerG8aJYA7mqbHxJmPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 2:38 | 2024-11-10 | 2024-12-17 |
+| [Hola Mi Amor](https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:38 | 2024-12-17 |  |
 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 | 2023-12-13 |  |
 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 | 2023-03-19 |  |
 | [La Indocumentada](https://open.spotify.com/track/3dDouxlnqK1hHcwynL8Ve7) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:15 | 2024-11-10 | 2024-12-13 |

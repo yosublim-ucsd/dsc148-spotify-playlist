@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,731 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,754 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 41 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
 | 42 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
 | 43 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
-| 44 | [Belle\-Île\-en\-Mer, Marie\-Galante](https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 3:31 |
+| 44 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 | 45 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
 | 46 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
 | 47 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 51 | [Göttingen](https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Barbara \- N°2](https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd) | 2:41 |
 | 52 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
 | 53 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
-| 54 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
+| 54 | [Belle\-Île\-en\-Mer, Marie\-Galante](https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 3:31 |
 | 55 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
 | 56 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
 | 57 | [Je te promets](https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [70eme Anniversaire](https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq) | 4:34 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 72 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 73 | [Allez reste \(feat\. Vianney\)](https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Loin des yeux](https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil) | 2:47 |
 | 74 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
-| 75 | [À toutes les filles](https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq), [Félix Gray](https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h) | [Best of](https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq) | 4:14 |
+| 75 | [La nuit \- Version acoustique](https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA) | [Piedbois](https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea) | [La nuit \(Version acoustique\)](https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S) | 3:51 |
 
 Snapshot ID: `Zv6oswAAAABlnQKZ18/ttuUbcTpQ15v/`

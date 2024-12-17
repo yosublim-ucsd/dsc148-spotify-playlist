@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 229334,
+  "num_followers": 229546,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADbDUHkZ4d4tTWcJMy8jGpQ",
+  "snapshot_id": "Z14cAAAAAABFZVSuqzHdQ83TwQXyN5op",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
       },
       "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": null,
@@ -267,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
       "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": null,

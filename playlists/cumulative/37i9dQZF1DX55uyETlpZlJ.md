@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-421 songs - 23 hr 8 min
+422 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
+| [FIDHA](https://open.spotify.com/track/4bRZCUeozVp0OUepOBz4Os) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [FIDHA](https://open.spotify.com/album/38CxDzHunFwBoSJ0xTI7LP) | 2:49 | 2024-12-16 |  |
 | [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 |  |
 | [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 | 2024-10-15 |
 | [Flex](https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Flex](https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq) | 2:39 | 2024-11-19 |  |

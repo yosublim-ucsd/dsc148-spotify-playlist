@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-841 songs - 1 day 23 hr 56 min
+842 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-01 | 2022-07-04 |
 | [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-30 | 2023-10-03 |
 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2024-01-19 | 2024-01-31 |
+| [Lucky](https://open.spotify.com/track/1uJajWMrDaBdPHxL46Rk0v) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Lucky](https://open.spotify.com/album/3PxzKsHTqxLZtjpwe7eBAT) | 2:27 | 2024-12-16 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-05 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-25 | 2024-05-27 |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 | 2024-07-30 |
@@ -609,7 +610,7 @@
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-09-27 |  |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-08-12 | 2024-11-16 |
 | [Que Difícil Es Amar](https://open.spotify.com/track/1RQDWw1096kfZpQiBEIttj) | [Diego Bertie](https://open.spotify.com/artist/3a33IdIt83Qifo4U0axHVA) | [Fuego Azul](https://open.spotify.com/album/5LfUQVbD9J7lobX7wvtV80) | 4:14 | 2022-08-07 | 2022-08-09 |
-| [QUEMA](https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:30 | 2024-11-08 |  |
+| [QUEMA](https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:30 | 2024-11-08 | 2024-12-17 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-24 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-08 | 2023-10-15 |
 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 | 2021-09-12 | 2022-05-08 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Michael Kaneko
 
-2,032 songs - 5 day 6 hr 41 min
+2,033 songs - 5 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,7 @@
 | [THINK OF SUMMER](https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [THINK OF SUMMER](https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a) | 4:38 | 2023-10-10 | 2023-10-12 |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-01-31 | 2023-03-29 |
 | [Third Summer of Love](https://open.spotify.com/track/1TymUgaexEf5hiZKvSwFIi) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [あのち](https://open.spotify.com/album/4BrADJvd35XV47vZhc4jUi) | 5:05 | 2023-01-31 | 2023-02-02 |
-| [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 | 2024-09-24 |  |
+| [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 | 2024-09-24 | 2024-12-17 |
 | [Thousand Visions](https://open.spotify.com/track/6Hk9oRnjWJeau0nZP2WIsi) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Thousand Visions](https://open.spotify.com/album/3R7V41T7GdWWoKN0fhP7Qt) | 3:57 | 2023-01-31 | 2023-02-17 |
 | [Thread](https://open.spotify.com/track/6xqXfaGotwTgv14leEilrC) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Thread](https://open.spotify.com/album/4LuYdxn4mC9D5k9noHma50) | 3:26 | 2024-01-16 | 2024-01-24 |
 | [Time Break](https://open.spotify.com/track/4IdtlYmiaNTcxXTiQCsIrS) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Time Break](https://open.spotify.com/album/3naEwDesp1Ii8QspMFxkDz) | 2:25 | 2023-11-21 | 2023-11-29 |
@@ -1955,6 +1955,7 @@
 | [羽を宿して](https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [羽を宿して](https://open.spotify.com/album/2AbE8dFrIVJf5yH7vQ9fTY) | 4:25 | 2024-11-13 | 2024-11-20 |
 | [聖者](https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [戀愛大全](https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky) | 3:26 | 2023-03-30 | 2024-01-10 |
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-04-12 |
+| [自我讃歌](https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [慈愛equal自愛](https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA) | 3:41 | 2024-12-10 |  |
 | [花とゆめ](https://open.spotify.com/track/5ZPTwZpHD9po7ScVYi7KO4) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [花とゆめ](https://open.spotify.com/album/1AKJxdnugSCoTIHMypgUHL) | 3:51 | 2023-07-11 | 2023-08-02 |
 | [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 | 2023-08-31 |
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-11-05 |  |

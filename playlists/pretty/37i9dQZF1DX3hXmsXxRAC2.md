@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,531 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,583 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 92 | [La Farsante](https://open.spotify.com/track/3pwiyLyqOb9Web9j60Dl6j) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Canciones Que Recuerdo](https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d) | 2:55 |
 | 93 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 94 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
-| 95 | [No Vale la Pena](https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 2:34 |
-| 96 | [Siempre en Mi Mente \- MTV Unplugged \[En Vivo\]](https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Pepe Aguilar MTV Unplugged \[\(MTV Unplugged\) \[En Vivo\]\]](https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp) | 4:54 |
+| 95 | [Siempre en Mi Mente \- MTV Unplugged \[En Vivo\]](https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Pepe Aguilar MTV Unplugged \[\(MTV Unplugged\) \[En Vivo\]\]](https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp) | 4:54 |
+| 96 | [No Vale la Pena](https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 2:34 |
 | 97 | [Diferentes](https://open.spotify.com/track/2cjxxNd9Tn5eMUSFazVq2d) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Personalidad](https://open.spotify.com/album/72lEnHoHSELV84JOsJLuLl) | 3:23 |
 | 98 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |
 | 99 | [Te Lo Pido Por Favor](https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Antologia De Juan Gabriel](https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc) | 3:03 |

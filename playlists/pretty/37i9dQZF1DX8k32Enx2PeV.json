@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 11988,
+  "num_followers": 11991,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -731,6 +715,26 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -755,22 +759,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Un Poco Menos Idiota",
-        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 225547,
-      "name": "Un Poco Menos Idiota",
-      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+        "name": "Un Poco Menos Idiota",
+        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
       },
       "artists": [
         {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+      "duration_ms": 225547,
+      "name": "Un Poco Menos Idiota",
+      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1199,6 +1183,22 @@
       "duration_ms": 238648,
       "name": "Ese Dinero",
       "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2024-08-09 04:23:31",

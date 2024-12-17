@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,444 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,449 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 49 | [TELÉFONO](https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [TELÉFONO](https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL) | 2:43 |
 | 50 | [Nada Sale Mal](https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:09 |
 
-Snapshot ID: `Z1zKgAAAAADtzen4Eb5uxMKZa84MiAfX`
+Snapshot ID: `Z14cAAAAAACdE7RZvzk0g3olbyga863l`

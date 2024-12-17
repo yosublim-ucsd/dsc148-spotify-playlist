@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Sergio George, Lenny Tav\u00e1rez, Christian Alicea & Rafa Pab\u00f6n",
-  "num_followers": 1916091,
+  "num_followers": 1916081,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "No Es Amor",
-        "url": "https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN"
-      },
-      "artists": [
-        {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 319180,
-      "name": "No Es Amor",
-      "url": "https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "No Es Amor",
+        "url": "https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 319180,
+      "name": "No Es Amor",
+      "url": "https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Llorar Bonito",
-        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 235951,
-      "name": "Llorar Bonito",
-      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Llorar Bonito",
+        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 235951,
+      "name": "Llorar Bonito",
+      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
     },
     {
       "added_at": "2024-11-22 05:00:00",

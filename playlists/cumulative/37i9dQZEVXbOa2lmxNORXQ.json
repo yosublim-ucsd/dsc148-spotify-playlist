@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 187045,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/4yzEzfJRG2KpT6JBed7Wzw"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 180360,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 240916,
       "name": "Comerte a Besos - Remix",
       "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
@@ -12808,7 +12808,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 287146,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
@@ -12830,7 +12830,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
@@ -15726,7 +15726,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 179344,
       "name": "No Te Rayes",
       "url": "https://open.spotify.com/track/1sc1u87B3KcsNPf0jcYwgQ"
@@ -16040,6 +16040,32 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "OH MAM\u00c1 (feat. DFZM)",
+        "url": "https://open.spotify.com/album/7rEDQOW9OCsb6MLl60Insc"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "OH MAM\u00c1",
+      "url": "https://open.spotify.com/track/2Le4TpO8PS1DwXkgEkG4sa"
     },
     {
       "album": {
@@ -19773,6 +19799,24 @@
     },
     {
       "album": {
+        "name": "Sabor a Derrota",
+        "url": "https://open.spotify.com/album/2BlHZtjDv2t6yt2X7Y7Dkb"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199328,
+      "name": "Sabor a Derrota",
+      "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"
+    },
+    {
+      "album": {
         "name": "SACUDELO",
         "url": "https://open.spotify.com/album/09UFmygEGg8wU4KVcptZSp"
       },
@@ -21946,7 +21990,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"

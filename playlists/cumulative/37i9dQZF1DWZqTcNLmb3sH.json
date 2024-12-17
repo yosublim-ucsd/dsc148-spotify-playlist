@@ -8879,6 +8879,28 @@
     },
     {
       "album": {
+        "name": "Dasarahalli",
+        "url": "https://open.spotify.com/album/2HDl9dHNAyy4OYQdUfwzR8"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Soragavi",
+          "url": "https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat"
+        },
+        {
+          "name": "Vishak Nagalapura",
+          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288782,
+      "name": "Enu Kadharu",
+      "url": "https://open.spotify.com/track/6wZBz4caM86r1IkRN1rrx8"
+    },
+    {
+      "album": {
         "name": "Dhoomam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
       },
@@ -17855,6 +17877,28 @@
     },
     {
       "album": {
+        "name": "Dasarahalli",
+        "url": "https://open.spotify.com/album/2HDl9dHNAyy4OYQdUfwzR8"
+      },
+      "artists": [
+        {
+          "name": "Vishak Nagalapura",
+          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
+        },
+        {
+          "name": "Sarayu H Rao",
+          "url": "https://open.spotify.com/artist/0PNatUuYQibk9eBQyDJQoX"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301439,
+      "name": "Maaya Jinke",
+      "url": "https://open.spotify.com/track/04tijw4Lw9C1MynKmSPH6R"
+    },
+    {
+      "album": {
         "name": "Garuda (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5H8DLlxxjTJ0X7S4059yN8"
       },
@@ -26070,6 +26114,32 @@
       "duration_ms": 209019,
       "name": "Padhe Padhe (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
       "url": "https://open.spotify.com/track/5MtySuDzWviisruGhEU8Nr"
+    },
+    {
+      "album": {
+        "name": "Paisa Paisa (From \"Forest\")",
+        "url": "https://open.spotify.com/album/23san5axgJX9gpA1HFmiWY"
+      },
+      "artists": [
+        {
+          "name": "Chandhan Shetty",
+          "url": "https://open.spotify.com/artist/6eAvxyOfvQtZWjAcILVxah"
+        },
+        {
+          "name": "Dharma Vish",
+          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
+        },
+        {
+          "name": "Chetan Kumar (Bharjari)",
+          "url": "https://open.spotify.com/artist/2THFun8Wdh9KDrZynk8Bib"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Paisa Paisa (From \"Forest\")",
+      "url": "https://open.spotify.com/track/0SKtBQKj3lFSBTsETbQW1q"
     },
     {
       "album": {

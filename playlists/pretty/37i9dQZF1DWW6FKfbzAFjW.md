@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,479 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,482 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 31 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
 | 32 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 |
 | 33 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 |
-| 34 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
+| 34 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
 | 35 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
-| 36 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
+| 36 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
 | 37 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
 | 38 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 |
 | 39 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 |

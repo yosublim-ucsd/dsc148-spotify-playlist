@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-607 songs - 1 day 12 hr 29 min
+608 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu) | 3:36 | 2021-12-16 | 2022-07-29 |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2022-02-04 |  |
 | [Down for This](https://open.spotify.com/track/13veL5R3b19decZ4T68nJH) | [Sam Gouthro](https://open.spotify.com/artist/44jLOUh67NE3q0HAwDtrvg) | [Down for This](https://open.spotify.com/album/7LNZsIzpW7w77bncnUovDA) | 3:28 | 2022-03-30 | 2022-04-20 |
-| [Dragon](https://open.spotify.com/track/07ro3rZJbOURKp1ZGcP8c5) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [The Amazing](https://open.spotify.com/album/0Ypv2UGOGLRKuVvequPBuZ) | 3:13 | 2024-12-09 |  |
+| [Dragon](https://open.spotify.com/track/07ro3rZJbOURKp1ZGcP8c5) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [The Amazing](https://open.spotify.com/album/0Ypv2UGOGLRKuVvequPBuZ) | 3:13 | 2024-12-09 | 2024-12-17 |
 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 | 2024-04-10 |  |
 | [Duck Hunting](https://open.spotify.com/track/2YQW4TM1SNEWLeTEliwMbo) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj) | [Baltus](https://open.spotify.com/album/6nJKSj8yqRNDn9r4oKn1UE) | 3:37 | 2022-09-26 | 2022-12-16 |
 | [Duck Hunting](https://open.spotify.com/track/7DPWHOe9ETqjEVl2fmYHeB) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj) | [Duck Hunting](https://open.spotify.com/album/5hbYxEi54eDB3p6JwxNy5K) | 3:37 | 2021-12-16 | 2022-07-28 |
@@ -161,6 +161,7 @@
 | [Falls on me](https://open.spotify.com/track/6XCPk5sf3HGD2oNQK0JY6n) | [Sylvie](https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ), [Marina Allen](https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu) | [Falls on me](https://open.spotify.com/album/6N1oaF48796YmM9S1gWn0o) | 4:58 | 2022-02-23 | 2022-07-29 |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2022-03-30 | 2024-12-10 |
 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 | 2024-11-22 |  |
+| [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 | 2024-12-16 |  |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:05 | 2024-03-12 | 2024-12-10 |
 | [Feel Better Now](https://open.spotify.com/track/5F5tU7gE94Kmzi7lHPCgUp) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Feel Better Now](https://open.spotify.com/album/33d0GIhGtH6VL2cLx05yIk) | 3:45 | 2021-12-16 | 2022-07-28 |
 | [Feel Good](https://open.spotify.com/track/48MBgGMN8k8ctL9MoxiZL3) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [Feel Good](https://open.spotify.com/album/2CMk0mPfIM9QH2RSiSJCsd) | 2:46 | 2022-03-30 | 2022-04-20 |

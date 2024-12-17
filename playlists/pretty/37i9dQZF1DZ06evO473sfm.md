@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,752 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,011 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 24 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 25 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 26 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV) | 2:59 |
-| 27 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
-| 28 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
+| 27 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
+| 28 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
 | 29 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 |
 | 30 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
-| 31 | [QUÉDATE BEBÉ](https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:13 |
-| 32 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
+| 31 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
+| 32 | [QUÉDATE BEBÉ](https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:13 |
 | 33 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 |
 | 34 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 |
 | 35 | [Super Poderes](https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh) | [Super Poderes](https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM) | 2:53 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 44 | [Necesito Decirte](https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Necesito Decirte](https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV) | 3:27 |
 | 45 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 |
 
-Snapshot ID: `Z1zKgAAAAABx7/V8apNB7rUo5IeW/s8c`
+Snapshot ID: `Z14cAAAAAADYWGZu62NKo+FyQSHYDMA+`

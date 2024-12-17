@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66935,
+  "num_followers": 66934,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABnYpCb8YMxHSN7Vnw2aElK",
+  "snapshot_id": "Z14cAAAAAAAsAzqLY+F5pGyZkvfUfpIB",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 442015,
+      "name": "Fiel a Mim",
+      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vigor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 266320,
       "name": "Vigor (Ao Vivo)",
       "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 442015,
-      "name": "Fiel a Mim",
-      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 324104,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 358051,
       "name": "Casa de B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 324104,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u",
         "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
       },
       "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     },
     {
       "added_at": null,
@@ -1003,26 +1023,6 @@
       "duration_ms": 313097,
       "name": "Com o Teu Fogo",
       "url": "https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Vem",
-        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 403586,
-      "name": "Ele Vem",
-      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     },
     {
       "added_at": null,

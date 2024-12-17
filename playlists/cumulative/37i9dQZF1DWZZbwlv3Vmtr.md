@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-993 songs - 1 day 14 hr 29 min
+994 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-15 |  |
 | [Pepper & Salt](https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [L0vesick / Pepper & Salt](https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR) | 4:10 | 2022-04-22 | 2024-12-07 |
 | [Peppermint](https://open.spotify.com/track/3jDAHdOLVtOHSqW6qLR41G) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Peppermint](https://open.spotify.com/album/7dhPJ5H7lkezFsgd2J8I5T) | 2:08 | 2022-10-28 |  |
+| [Perception](https://open.spotify.com/track/02KefPFoPYwQYR219MAxAT) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Perception](https://open.spotify.com/album/07OphcXB8sSOaScV4RlrFW) | 2:01 | 2024-12-13 |  |
 | [perfect enough](https://open.spotify.com/track/2RZ7FOdEaC7iXHh9b6SQtE) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [perfect enough](https://open.spotify.com/album/5CL1h5mNbbBfZp5lfSk2Iv) | 1:46 | 2024-07-04 | 2024-08-16 |
 | [peroni](https://open.spotify.com/track/2rMM3NzF4yqRIL5Mfb9ZEC) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU) | [Lava Lamps](https://open.spotify.com/album/0qZ0dqm0sPiW2U4KVTY8sp) | 1:19 | 2023-01-13 | 2023-09-22 |
 | [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-15 | 2022-06-03 |
@@ -988,7 +989,7 @@
 | [Wun](https://open.spotify.com/track/1gE2YJrgu8jRfLENtC9Bjf) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Wun](https://open.spotify.com/album/6oqzhDL5OBYl86OIMKWeKd) | 4:00 | 2022-04-15 | 2022-07-08 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-04-15 | 2022-06-10 |
-| [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 |  |
+| [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 | 2024-12-17 |
 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 | 2023-10-06 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Yesterday's Tomorrow](https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa) | 2:20 | 2023-09-22 |  |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-16 | 2023-02-16 |

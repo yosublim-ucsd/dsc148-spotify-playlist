@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,808 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,881 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 26 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 27 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
 | 28 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
-| 29 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
-| 30 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
+| 29 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
+| 30 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 31 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 |
-| 32 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 33 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
+| 32 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
+| 33 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
 | 34 | [Ngiyaz'fela Ngawe \(feat\. Thabsie\)](https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 5:28 |
 | 35 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
 | 36 | [Let Me Love You Now](https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 45 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 46 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 47 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
-| 48 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
-| 49 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 48 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 49 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
 | 50 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
 | 51 | [Sunday Blues](https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Sunday Blues](https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq) | 3:45 |
 | 52 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 55 | [Sponky Ponky](https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH) | [Jabu Khanyile](https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB), [Bayete](https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4) | [Hiyo Lento](https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql) | 5:35 |
 | 56 | [Angela](https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:07 |
 | 57 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 |
-| 58 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
-| 59 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
+| 58 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
+| 59 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
 | 60 | [Sobabili](https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F) | [No Retreat\. No Surrender.](https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa) | 6:23 |
 | 61 | [Ubuhle Bakho](https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Imali](https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy) | 3:18 |
 | 62 | [Ndiyagodola](https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 4:25 |

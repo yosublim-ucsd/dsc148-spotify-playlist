@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,106 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,323 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 31 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 |
 | 32 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 |
 | 33 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
-| 34 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
-| 35 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
+| 34 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
+| 35 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
 | 36 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
 | 37 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
 | 38 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 90 | [La P\-90](https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [La P\-90](https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We) | 1:55 |
 | 91 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
 | 92 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
-| 93 | [Next](https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Next](https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW) | 2:33 |
-| 94 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 |
+| 93 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 |
+| 94 | [Next](https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Next](https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW) | 2:33 |
 | 95 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
 | 96 | [Soy VIP](https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Soy VIP](https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV) | 3:01 |
 | 97 | [Belicamente De Acción](https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Acción](https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu) | 2:55 |
 | 98 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
-| 99 | [La Gente Del M](https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW) | [Grupo Definitivo](https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [La Gente Del M](https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO) | 2:50 |
-| 100 | [Canción](https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Canción](https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB) | 3:25 |
+| 99 | [Canción](https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Canción](https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB) | 3:25 |
+| 100 | [La Gente Del M](https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW) | [Grupo Definitivo](https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [La Gente Del M](https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO) | 2:50 |
 
 Snapshot ID: `ZzeW8AAAAADPH7HdaUqgNbgMbzJoHDTB`

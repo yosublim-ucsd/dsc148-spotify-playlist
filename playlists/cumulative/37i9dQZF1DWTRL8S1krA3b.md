@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-199 songs - 10 hr 51 min
+200 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Christmas Morning](https://open.spotify.com/track/2bR53pmpvtOS1hMjwxq6hd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 4:18 | 2024-11-01 |  |
 | [Christmas Night With You](https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Christmas Night With You](https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5) | 3:39 | 2024-09-13 |  |
 | [Christmas Tears](https://open.spotify.com/track/4XrrZWOHxCdjlb7XqiA0il) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [Christmas Tears](https://open.spotify.com/album/5NPGgEYhszymUew4nnCsvr) | 2:52 | 2024-10-18 |  |
+| [Christmas To Me](https://open.spotify.com/track/0E7AicqYU96sywESO47X0p) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Christmas To Me](https://open.spotify.com/album/0yRpImdY5Y7vrnV18JXghN) | 4:01 | 2024-12-16 |  |
 | [Christmas Trees Like That](https://open.spotify.com/track/5qDZFwamBt8Mj6J9aK2wwe) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Christmas Trees Like That](https://open.spotify.com/album/7cyfRGYWyJFBGdfgTyWNiV) | 3:41 | 2023-11-24 | 2024-10-19 |
 | [Christmas When You Call](https://open.spotify.com/track/2qgMuttdSb2iaYYO73xmQt) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Christmas When You Call](https://open.spotify.com/album/1EpcSjZWYc3rNxSK4j3xDI) | 3:16 | 2023-11-24 | 2024-10-19 |
 | [Come Go With Us](https://open.spotify.com/track/6O4bsFgDPdzkhymihwKAaa) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Come Go With Us](https://open.spotify.com/album/6nElCWjIICuKSS4lg0RUVi) | 6:40 | 2024-11-15 |  |

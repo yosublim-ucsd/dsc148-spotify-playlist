@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7202,
+  "num_followers": 7203,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAD9tZxhdIGk5znOFiUMdgW3",
+  "snapshot_id": "Z14cAAAAAAA3iuTpLYp+hAOu0aRdkBG6",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 476626,
+      "name": "Holding",
+      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 366373,
+      "name": "STS",
+      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Water People 7\"",
         "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
@@ -600,70 +664,6 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 366373,
-      "name": "STS",
-      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 317749,
-      "name": "Basement Mix",
-      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 476626,
-      "name": "Holding",
-      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
       "duration_ms": 245653,
       "name": "Cover the Long Way",
       "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     },
     {
       "added_at": null,

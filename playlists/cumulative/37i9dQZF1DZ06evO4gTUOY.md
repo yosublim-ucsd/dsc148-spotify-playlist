@@ -4,7 +4,7 @@
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 37 min
+81 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Cinderella Man](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:39 | 2023-06-07 |  |
 | [Cleanin' Out My Closet](https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2023-06-07 |  |
 | [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 | 2023-06-07 |  |
-| [Doomsday Pt\. 2 \(with Eminem\)](https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 1:50 | 2024-01-28 |  |
+| [Doomsday Pt\. 2 \(with Eminem\)](https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 1:50 | 2024-01-28 | 2024-12-17 |
 | [Drop The World](https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Rebirth](https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh) | 3:49 | 2024-04-22 | 2024-05-04 |
 | [Evil](https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-14 | 2024-09-29 |
 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 | 2023-06-07 |  |
@@ -30,6 +30,7 @@
 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 | 2023-06-07 | 2023-08-20 |
 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 | 2023-06-07 |  |
 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 | 2023-06-07 | 2024-11-16 |
+| [Gunz N Smoke \(feat\. 50 Cent & Eminem\)](https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:33 | 2024-12-17 |  |
 | [Habits](https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 4:58 | 2024-07-14 |  |
 | [Higher](https://open.spotify.com/track/3eMsgWDRq5dKl5SBTYGv2J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:42 | 2023-06-07 | 2024-09-05 |
 | [Homicide \(feat\. Eminem\)](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Confessions of a Dangerous Mind](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) | 4:05 | 2023-06-07 | 2024-07-14 |

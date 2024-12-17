@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,760 songs - 3 day 6 hr 7 min
+1,761 songs - 3 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1388,6 +1388,7 @@
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2021-02-24 | 2022-05-13 |
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-13 |  |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2019-05-26\* | 2019-10-04 |
+| [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 | 2024-12-16 |  |
 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-07-18 |  |
 | [Sous La Surface](https://open.spotify.com/track/2thjkJYDib3bBieR81IkNK) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Sous La Surface](https://open.spotify.com/album/2OomOxIuCWudeJUSjjjysM) | 4:09 | 2020-09-15 | 2020-09-22 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-08-19 | 2024-01-03 |

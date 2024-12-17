@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 35746,
+  "num_followers": 35753,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACnkGkDZtWwwHbSfXr+UgI8",
+  "snapshot_id": "Z14cAAAAAAAmXAT6A9zOWYvBq1QfnSQG",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lips On Lips",
-        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
       },
       "artists": [
         {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 226926,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+      "duration_ms": 134666,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+        "name": "Lips On Lips",
+        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
       },
       "artists": [
         {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 134666,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
+      "duration_ms": 226926,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 201528,
       "name": "Girls Night Out (with Doechii)",
       "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
       "added_at": null,
@@ -587,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAV PLENTY Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
         }
       ],
-      "duration_ms": 285333,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
+      "duration_ms": 215466,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
       "added_at": null,

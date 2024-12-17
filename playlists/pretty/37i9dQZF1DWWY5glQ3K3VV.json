@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 101205,
+  "num_followers": 101217,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "Nino Nino",
         "url": "https://open.spotify.com/album/3OX0hJW4QqgXTw8v2V7Gf5"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 172071,
       "name": "Nino Nino",
       "url": "https://open.spotify.com/track/4IAtZ4qQeXewkgSr062hfe"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -879,22 +879,30 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+        "name": "TRAPHOUSE",
+        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+      "duration_ms": 177576,
+      "name": "Freaky (feat. Shiva & Niky Savage)",
+      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -943,30 +951,22 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "TRAPHOUSE",
-        "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
       "artists": [
         {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 177576,
-      "name": "Freaky (feat. Shiva & Niky Savage)",
-      "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1027,26 +1027,6 @@
       "duration_ms": 194571,
       "name": "La Bellavita (feat. Jul)",
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "Serio (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1163,26 +1143,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
@@ -1195,6 +1155,26 @@
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1251,6 +1231,26 @@
       "duration_ms": 164327,
       "name": "BUBBLE (feat. thasup & Salmo)",
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 176000,
       "name": "Fuego (with Geolier & Lele Blade) - Prod. Poison Beatz, Tom Trigger",
       "url": "https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2024-09-20 19:52:57",

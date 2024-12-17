@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,299 likes - 50 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,314 likes - 50 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 29 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
 | 30 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 31 | [Una Mattina](https://open.spotify.com/track/42MVaS7YXlnjRqZBdDcr4Q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Una Mattina](https://open.spotify.com/album/4LYtNC6YWam4WW1KxATidg) | 3:23 |
-| 32 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
-| 33 | [one wish](https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [one wish](https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn) | 2:11 |
+| 32 | [one wish](https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [one wish](https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn) | 2:11 |
+| 33 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
 | 34 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
 | 35 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 36 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
 | 37 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
 | 38 | [my new love](https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:05 |
-| 39 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
-| 40 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 39 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 40 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
 | 41 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 42 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 43 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 |

@@ -1,6 +1,6 @@
 {
   "description": "Empowered rhymes and vibes. Cover: Tinashe",
-  "num_followers": 476524,
+  "num_followers": 476534,
   "original_name": "Work It, Own It",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/6UmKnXmG7VmYqFnmSPOfRj"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/6UmKnXmG7VmYqFnmSPOfRj"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -307,6 +307,22 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "MONTERO (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137875,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 215459,
+      "name": "ALIEN SUPERSTAR",
+      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 215459,
-      "name": "ALIEN SUPERSTAR",
-      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Last Laugh",
-        "url": "https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng"
-      },
-      "artists": [
-        {
-          "name": "Ceechynaa",
-          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -587,18 +587,34 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
+      "duration_ms": 260769,
+      "name": "HEATED",
+      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Last Laugh",
+        "url": "https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 260769,
-      "name": "HEATED",
-      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 194230,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n"
       },
@@ -731,26 +715,34 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Own Brand Freestyle",
-        "url": "https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "FelixThe1st",
-          "url": "https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg"
-        },
-        {
-          "name": "Dr\u00e9ya Mac",
-          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
-        },
-        {
-          "name": "Finch Fetti",
-          "url": "https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 153808,
-      "name": "Own Brand Freestyle",
-      "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
+      "duration_ms": 194230,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "AMERICA HAS A PROBLEM",
+      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -775,18 +767,26 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Own Brand Freestyle",
+        "url": "https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "FelixThe1st",
+          "url": "https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        },
+        {
+          "name": "Finch Fetti",
+          "url": "https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi"
         }
       ],
-      "duration_ms": 274766,
-      "name": "YA YA",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+      "duration_ms": 153808,
+      "name": "Own Brand Freestyle",
+      "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -823,6 +823,22 @@
       "duration_ms": 196420,
       "name": "SAD GIRLZ LUV MONEY",
       "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 274766,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -903,22 +919,6 @@
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "AMERICA HAS A PROBLEM",
-      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b"
-      },
-      "artists": [
-        {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b"
+      },
+      "artists": [
+        {
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8"
     },
     {
       "added_at": "2024-06-12 09:07:18",

@@ -1,12 +1,12 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: D\u01b0\u01a1ng Domic",
-  "num_followers": 174863,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Anh T\u00fa Atus, RHYDER",
+  "num_followers": 174900,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z16jQgAAAAD7xnyDdIKOOSCM1OZXrM6B",
+  "snapshot_id": "Z1+XwQAAAAC3ZxPXjqFhSAgYG3/13Zuh",
   "tracks": [
     {
       "added_at": "2024-12-15 09:37:06",
@@ -27,42 +27,58 @@
     {
       "added_at": "2024-12-15 09:37:06",
       "album": {
-        "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
-        "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
+        "name": "Ch\u0103m Hoa",
+        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
       },
       "artists": [
         {
-          "name": "MANBO",
-          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
-        },
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        }
+      ],
+      "duration_ms": 211111,
+      "name": "Ch\u0103m Hoa",
+      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
+    },
+    {
+      "added_at": "2024-12-15 09:37:06",
+      "album": {
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
+      },
+      "artists": [
         {
           "name": "HIEUTHUHAI",
           "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         },
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
         }
       ],
-      "duration_ms": 222000,
-      "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
-      "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
+      "duration_ms": 201589,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
     },
     {
       "added_at": "2024-12-15 09:37:06",
       "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+        "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
+        "url": "https://open.spotify.com/album/08fUKtch61dyFGk4CEkNq0"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
         }
       ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+      "duration_ms": 197142,
+      "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
+      "url": "https://open.spotify.com/track/5gn0Df0Aa7EM98shC3daR6"
     },
     {
       "added_at": "2024-12-15 09:37:06",
@@ -79,6 +95,22 @@
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC"
+    },
+    {
+      "added_at": "2024-12-15 09:37:06",
+      "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
     },
     {
       "added_at": "2024-12-15 09:37:06",
@@ -147,6 +179,30 @@
     {
       "added_at": "2024-12-15 09:37:06",
       "album": {
+        "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
+        "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
+      },
+      "artists": [
+        {
+          "name": "MANBO",
+          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
+      "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
+    },
+    {
+      "added_at": "2024-12-15 09:37:06",
+      "album": {
         "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
         "url": "https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2"
       },
@@ -203,26 +259,6 @@
       "duration_ms": 276016,
       "name": "Ng\u00e0y \u0110\u1ea7u Sau Chia Tay",
       "url": "https://open.spotify.com/track/6xKs4CnVadRzdNZ48vhT27"
-    },
-    {
-      "added_at": "2024-12-15 09:37:06",
-      "album": {
-        "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
-        "url": "https://open.spotify.com/album/08fUKtch61dyFGk4CEkNq0"
-      },
-      "artists": [
-        {
-          "name": "Anh T\u00fa Atus",
-          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
-        },
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "N\u1ed7i \u0110au \u0110\u00ednh K\u00e8m",
-      "url": "https://open.spotify.com/track/5gn0Df0Aa7EM98shC3daR6"
     },
     {
       "added_at": "2024-12-15 09:37:06",
@@ -447,26 +483,6 @@
     {
       "added_at": "2024-12-15 09:37:06",
       "album": {
-        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
-        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
-        }
-      ],
-      "duration_ms": 201589,
-      "name": "Exit Sign",
-      "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
-    },
-    {
-      "added_at": "2024-12-15 09:37:06",
-      "album": {
         "name": "Th\u1eb1ng \u0110i\u00ean",
         "url": "https://open.spotify.com/album/0t2YXNqz7bv7n6mPorj8HC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
-    },
-    {
-      "added_at": "2024-12-15 09:37:06",
-      "album": {
-        "name": "Ch\u0103m Hoa",
-        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Ch\u0103m Hoa",
-      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
     },
     {
       "added_at": "2024-12-15 09:37:06",

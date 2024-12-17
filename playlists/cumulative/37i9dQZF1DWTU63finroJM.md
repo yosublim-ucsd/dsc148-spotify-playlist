@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,774 songs - 4 day 0 hr 19 min
+1,775 songs - 4 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-03-24 | 2022-04-18 |
 | [Life Is A Bitch](https://open.spotify.com/track/0yanjH2Lz68bd9AZwhxgbo) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [Life Is A Bitch](https://open.spotify.com/album/7t4xftLwjzWSkNqD3PNC5G) | 2:22 | 2022-03-10 | 2022-03-17 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 | 2022-09-16 |
+| [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-13 |  |
 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 | 2024-03-15 | 2024-08-10 |
 | [Like a fool](https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Like a fool](https://open.spotify.com/album/3lbswaKF1ylYuSYUqBHFdf) | 4:20 | 2023-05-30 | 2023-06-10 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-03-21 | 2022-05-20 |
@@ -1055,7 +1056,7 @@
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-03-24 | 2022-04-20 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-03-24 | 2022-09-16 |
 | [Obvio Bien](https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Obvio Bien](https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM) | 4:14 | 2024-05-31 | 2024-10-08 |
-| [obvious](https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [obvious](https://open.spotify.com/album/0sgW7LhLJyavgI2C0p8ov0) | 2:12 | 2024-11-29 |  |
+| [obvious](https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [obvious](https://open.spotify.com/album/0sgW7LhLJyavgI2C0p8ov0) | 2:12 | 2024-11-29 | 2024-12-17 |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-04-07 | 2022-04-21 |
 | [Odejdź](https://open.spotify.com/track/2CNxXzuVRCqL27d6pBDyZv) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 4:12 | 2022-03-24 | 2022-08-02 |
 | [odpływam](https://open.spotify.com/track/362sPAroLBtYQhg4nJGton) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [odpływam](https://open.spotify.com/album/23a6rGwxVVEcFxaJdwWeQQ) | 4:08 | 2022-03-24 | 2022-04-16 |

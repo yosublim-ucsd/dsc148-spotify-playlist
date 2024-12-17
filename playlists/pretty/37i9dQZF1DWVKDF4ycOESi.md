@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Marracash in cover + tutte le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,555 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,583 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 5 | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 |
 | 6 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
 | 7 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
-| 8 | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/track/3vaaMtvzUkeEuHB1IV4Vr5) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW), [Luca Noise](https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/album/4UIzoYad12k8WDUi80bnJG) | 3:44 |
+| 8 | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/track/3vaaMtvzUkeEuHB1IV4Vr5) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0), [Luca Noise](https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA) | [ONLY YOU \(GIGI DAG & Luca Noise Magic Mix\)](https://open.spotify.com/album/4UIzoYad12k8WDUi80bnJG) | 3:44 |
 | 9 | [cupido](https://open.spotify.com/track/2rxv2y7ojb4HmXrno8KWp3) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [cupido](https://open.spotify.com/album/2GhSl6PaFKVTe0YBibFfds) | 3:09 |
 | 10 | [TINDER <3 \(feat\. Eva Bloo\)](https://open.spotify.com/track/0uYv4rXb7sZ0beWuukvPMA) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Eva Bloo](https://open.spotify.com/artist/61Um32QN2K3bFQaLu6t6Of) | [ERA](https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc) | 2:13 |
 | 11 | [È FINITA LA PACE](https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 2:58 |

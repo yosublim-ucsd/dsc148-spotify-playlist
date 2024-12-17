@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,906 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,952 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 39 | [Total Dis Order](https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U) | [Mighty Duke](https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx) | [The Mighty Duke Classic Collection 1986\-1990](https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1) | 6:50 |
 | 40 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 41 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
-| 42 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 43 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 42 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 43 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
 | 44 | [Ragga, Ragga](https://open.spotify.com/track/2eXmkQJ6N9DUkMbMMFTDf8) | [Red Plastic Bag](https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:36 |
 | 45 | [Long Time](https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:50 |
 | 46 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |

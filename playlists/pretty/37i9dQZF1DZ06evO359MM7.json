@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 421877,
+  "num_followers": 421944,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAAw+/lwDkbKccjhKzioIPUQ",
+  "snapshot_id": "Z14cAAAAAACbQJA7zh5Kp5dYOzZcC2qH",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Sum 2 Prove",
-      "url": "https://open.spotify.com/track/5f4Hy5mw5SRaUgXX9c6P5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 221979,
       "name": "Girls Want Girls (with Lil Baby)",
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Sum 2 Prove",
+      "url": "https://open.spotify.com/track/5f4Hy5mw5SRaUgXX9c6P5S"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162969,
-      "name": "CANZONE D'ODIO (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -331,6 +311,22 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 102038,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF"
     },
     {
       "added_at": null,
@@ -355,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 102038,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 169531,
       "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
       "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epidemic (Deluxe)",
+        "url": "https://open.spotify.com/album/3raeLaYMyhfb67HgnnNrsg"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "24 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0xUvi7wldroBzaZCengPa5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -479,42 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epidemic (Deluxe)",
-        "url": "https://open.spotify.com/album/3raeLaYMyhfb67HgnnNrsg"
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2"
       },
       "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 182857,
-      "name": "24 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/0xUvi7wldroBzaZCengPa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218210,
-      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+      "duration_ms": 152186,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2"
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
       "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
+      "duration_ms": 218210,
+      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PJ (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178359,
-      "name": "PJ (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PJ (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "PJ (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
     },
     {
       "added_at": null,

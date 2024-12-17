@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Megra.",
-  "num_followers": 778984,
+  "num_followers": 779060,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1163,26 +1163,6 @@
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "Water Sign (feat. Aluna)",
-        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1223,18 +1203,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
+        "name": "Water Sign (feat. Aluna)",
+        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
       },
       "artists": [
         {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 251979,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1259,6 +1243,42 @@
       "duration_ms": 204224,
       "name": "Mind Still (feat. blythe) - 1991 Remix",
       "url": "https://open.spotify.com/track/3lrrdKzUlvwglG1P350p6E"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 251979,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "The Touch",
+        "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 149817,
+      "name": "The Touch",
+      "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1291,26 +1311,6 @@
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "The Touch",
-        "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
-      },
-      "artists": [
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 149817,
-      "name": "The Touch",
-      "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "TURN YOUR HEART AROUND",
-        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
+        "name": "LOST WITH U",
+        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Brody Leigh",
+          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
         }
       ],
-      "duration_ms": 172305,
-      "name": "TURN YOUR HEART AROUND",
-      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
+      "duration_ms": 188372,
+      "name": "LOST WITH U",
+      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "LOST WITH U",
-        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+        "name": "TURN YOUR HEART AROUND",
+        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
       },
       "artists": [
         {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Brody Leigh",
-          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
         }
       ],
-      "duration_ms": 188372,
-      "name": "LOST WITH U",
-      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
+      "duration_ms": 172305,
+      "name": "TURN YOUR HEART AROUND",
+      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1511,26 +1511,18 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "disappear",
-        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
+        "name": "Tear Me Down",
+        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        },
-        {
-          "name": "dobi",
-          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
         }
       ],
-      "duration_ms": 172847,
-      "name": "disappear (feat. artemis orion & dobi)",
-      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
+      "duration_ms": 185142,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1551,18 +1543,26 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Tear Me Down",
-        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
+        "name": "disappear",
+        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        },
+        {
+          "name": "dobi",
+          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Tear Me Down",
-      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
+      "duration_ms": 172847,
+      "name": "disappear (feat. artemis orion & dobi)",
+      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
         "name": "Body Heat",
         "url": "https://open.spotify.com/album/0H1Lh75X52zxfGcHy3GGGa"
       },
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 156004,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
         "name": "GLOW (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
       },
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL"
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
       "artists": [
         {
-          "name": "Bubble Love",
-          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         },
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 279500,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ"
+      "duration_ms": 185524,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1771,22 +1771,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
       "artists": [
         {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
         },
         {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         }
       ],
-      "duration_ms": 185524,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL"
       },
       "artists": [
         {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
         },
         {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
         }
       ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+      "duration_ms": 279500,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2024-12-12 23:00:08",
       "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "1996Montana",
+          "url": "https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Supercharger",
+      "url": "https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
         "name": "SKYLINE**",
         "url": "https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 162500,
       "name": "SKYLINE**",
       "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "1996Montana",
-          "url": "https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Supercharger",
-      "url": "https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -1927,6 +1927,26 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "added_at": "2024-12-12 23:00:08",
+      "album": {
+        "name": "nothing left 2 say / give u everything",
+        "url": "https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Dazegxd",
+          "url": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL"
+        }
+      ],
+      "duration_ms": 195890,
+      "name": "nothing left 2 say",
+      "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
     },
     {
       "added_at": "2024-12-12 23:00:08",
@@ -2007,26 +2027,6 @@
       "duration_ms": 183453,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:08",
-      "album": {
-        "name": "We Are Making Out",
-        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 170975,
-      "name": "We Are Making Out",
-      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
     }
   ],
   "unique_name": "creamy",

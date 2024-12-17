@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: Destiny's Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,731,615 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,731,740 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 52 | [I Luv Your Girl](https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:27 |
 | 53 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
 | 54 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
-| 55 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
-| 56 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |
+| 55 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |
+| 56 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
 | 57 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
 | 58 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 |
 | 59 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 67 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
 | 68 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 69 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
-| 70 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 71 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
-| 72 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 70 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 71 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
+| 72 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
 | 73 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 74 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
 | 75 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 95 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
 | 96 | [Damaged](https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:04 |
 | 97 | [Unappreciated](https://open.spotify.com/track/5ZelMPn7vupvsTToUTvcbF) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:55 |
-| 98 | [Spotlight](https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP) | 4:10 |
-| 99 | [Don't Mess With My Man \(feat\. Brian Casey & Brandon Casey\)](https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG), [Brandon Casey](https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ) | [Nivea](https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt) | 3:33 |
+| 98 | [Don't Mess With My Man \(feat\. Brian Casey & Brandon Casey\)](https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG), [Brandon Casey](https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ) | [Nivea](https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt) | 3:33 |
+| 99 | [Spotlight](https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP) | 4:10 |
 | 100 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 |
 
 Snapshot ID: `Z1IV1QAAAAAuuYQl8zcuqdt4I891tYKM`

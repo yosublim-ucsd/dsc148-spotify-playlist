@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,554 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,675 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 35 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
 | 36 | [Changing](https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:00 |
 
-Snapshot ID: `Z1zKgAAAAABvHuZQdqA/pAU4MAzZFgsx`
+Snapshot ID: `Z14cAAAAAACU4KaI4tr85HG7X8nFJIF3`

@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 140500,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/5iaYHdHxU6BK4zJcdPwenZ"
@@ -1090,10 +1108,28 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "album": {
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 183494,
       "name": "Ice On My Teeth",
       "url": "https://open.spotify.com/track/1UoXctDvnI2KLshhi6SpE4"
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 176564,
       "name": "Lubel",
       "url": "https://open.spotify.com/track/11OzTLFm6S1ew5D5nsRvGd"
@@ -2561,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "MEDELLIN ARAB",
+        "url": "https://open.spotify.com/album/521DSgNE9v1B4Qn5k9by3T"
+      },
+      "artists": [
+        {
+          "name": "ARCH",
+          "url": "https://open.spotify.com/artist/7zOY1KePKq1Z2FEJ1D3nQZ"
+        },
+        {
+          "name": "BIG SKENDO",
+          "url": "https://open.spotify.com/artist/7AdZhtbTFeE4AZIMcBOpIW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133932,
+      "name": "MEDELLIN ARAB",
+      "url": "https://open.spotify.com/track/7JeDYIeMjWC6OUBhwKHXkD"
+    },
+    {
+      "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
       },
@@ -2584,6 +2642,24 @@
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
+    },
+    {
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "album": {
@@ -2863,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Caroling at Christmas",
+        "url": "https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255120,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/1Rc15RYGBIi10GrL0Zrfob"
+    },
+    {
+      "album": {
         "name": "MYKONOS",
         "url": "https://open.spotify.com/album/3Y9mR0pM4tqO4QdRs3twm8"
       },
@@ -3042,6 +3136,48 @@
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
+    },
+    {
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Andy Nyman",
+          "url": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
+        },
+        {
+          "name": "Courtney-Mae Briggs",
+          "url": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        },
+        {
+          "name": "Sharon D. Clarke",
+          "url": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
+        },
+        {
+          "name": "Jenna Boyd",
+          "url": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447991,
+      "name": "No One Mourns the Wicked",
+      "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
     },
     {
       "album": {
@@ -3746,10 +3882,28 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 207794,
       "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
       "album": {
@@ -3768,7 +3922,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
@@ -4319,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "TOP BOY STRAT",
+        "url": "https://open.spotify.com/album/76kuAbBxr8sAHmzoKEflBQ"
+      },
+      "artists": [
+        {
+          "name": "ARCH",
+          "url": "https://open.spotify.com/artist/7zOY1KePKq1Z2FEJ1D3nQZ"
+        },
+        {
+          "name": "NFNC",
+          "url": "https://open.spotify.com/artist/1L4dMEpsHOIiz4TUo60v4B"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148654,
+      "name": "TOP BOY STRAT",
+      "url": "https://open.spotify.com/track/3lRu5pjsn9o8QMasYfysf0"
+    },
+    {
+      "album": {
         "name": "I Megali Othoni Oneirevetai",
         "url": "https://open.spotify.com/album/7FYFLpTuf83K8PBB8SDWYb"
       },
@@ -4512,7 +4688,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -4670,7 +4846,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 173571,
       "name": "\u00c7a Je",
       "url": "https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN"
@@ -4754,6 +4930,24 @@
       "duration_ms": 206769,
       "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
       "url": "https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM"
+    },
+    {
+      "album": {
+        "name": "\u03a6\u03c4\u03b7\u03bd\u03ae \u03a0\u03bf\u03c0 \u0393\u03b9\u03b1 \u03a4\u03b7\u03bd \u0395\u03bb\u03af\u03c4",
+        "url": "https://open.spotify.com/album/4jv3tBqZOOegou5p6KeOVq"
+      },
+      "artists": [
+        {
+          "name": "\u039a\u03cc\u03c1\u03b5. \u038e\u03b4\u03c1\u03bf.",
+          "url": "https://open.spotify.com/artist/29fVAQGPYv364YjafzbcNh"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230437,
+      "name": "\u038c\u03c7\u03b9 \u03a0\u03b9\u03b1 \u0388\u03c1\u03c9\u03c4\u03b5\u03c2",
+      "url": "https://open.spotify.com/track/3aLClcAppX3b6pCHHFn8nQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0QfDOCxg9IE"

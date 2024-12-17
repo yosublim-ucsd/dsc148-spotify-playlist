@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 322646,
+  "num_followers": 322741,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "All Have Fallen",
         "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 269466,
       "name": "We Can Make Love",
       "url": "https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Sexpectations",
-        "url": "https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21"
-      },
-      "artists": [
-        {
-          "name": "JR Castro",
-          "url": "https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Sexpectations",
-      "url": "https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "idc bout the club, i just want you",
         "url": "https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 164101,
       "name": "idc bout the club, i just want you",
       "url": "https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Sexpectations",
+        "url": "https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21"
+      },
+      "artists": [
+        {
+          "name": "JR Castro",
+          "url": "https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Sexpectations",
+      "url": "https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG"
     },
     {
       "added_at": "2024-09-02 12:32:28",

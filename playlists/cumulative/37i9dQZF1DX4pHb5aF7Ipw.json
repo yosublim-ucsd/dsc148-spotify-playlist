@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 165333,
       "name": "Big Loss",
       "url": "https://open.spotify.com/track/76voghdL792BAy9YwEKfzw"
@@ -1676,6 +1676,32 @@
       "duration_ms": 192000,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/04wY6gPf3ACO9nxvpPuyE9"
+    },
+    {
+      "album": {
+        "name": "Different League",
+        "url": "https://open.spotify.com/album/6DuMKfBvNksZL5iwiRXUWt"
+      },
+      "artists": [
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        },
+        {
+          "name": "Asim Riaz",
+          "url": "https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V"
+        },
+        {
+          "name": "Diljan",
+          "url": "https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173409,
+      "name": "Different League",
+      "url": "https://open.spotify.com/track/3tK8v9IEB5oO07ww4zf2ND"
     },
     {
       "album": {
@@ -3120,7 +3146,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 170847,
       "name": "Jaanch",
       "url": "https://open.spotify.com/track/1Lj859rhdYI6Dvcf5mRJ7B"
@@ -3370,6 +3396,24 @@
       "duration_ms": 154285,
       "name": "Killin og",
       "url": "https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/3RMcMUuJ0YiDz6zDeRnrCO"
+      },
+      "artists": [
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3o2GS3lgHVk0F4RYC0bIA0"
     },
     {
       "album": {
@@ -4755,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Puadh Ki Vaar",
+        "url": "https://open.spotify.com/album/0LJ0Hobb9xIoVWK4BUvKy2"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288695,
+      "name": "Puadh Ki Vaar",
+      "url": "https://open.spotify.com/track/6HGtJUnsIZ8GaYkvT2tkgk"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -5816,7 +5878,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 135000,
       "name": "Times Up",
       "url": "https://open.spotify.com/track/7dALPPcnW38HrSBBJ2sBey"

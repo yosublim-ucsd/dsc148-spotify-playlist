@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "\u0643\u0646\u062a \u0641\u0627\u0643\u0631\u0643",
+        "url": "https://open.spotify.com/album/7qxc6MjDtRvHJIpviokcgq"
+      },
+      "artists": [
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167339,
+      "name": "\u0643\u0646\u062a \u0641\u0627\u0643\u0631\u0643",
+      "url": "https://open.spotify.com/track/7smW6V6oHCmWDvk5ec9ukS"
+    },
+    {
+      "album": {
         "name": "\u0644\u0627 \u0623\u0628\u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz"
       },

@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-143 songs - 7 hr 56 min
+144 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 | 2024-05-31 | 2024-07-18 |
 | [Breakup](https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [BLOOD ON THE DRUMS \(The Thorns\)](https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa) | 3:09 | 2024-06-13 | 2024-07-27 |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-22 | 2024-10-05 |
+| [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 | 2024-12-12 |  |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-31 | 2024-11-22 |
 | [Cold Treatment](https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Cold Treatment](https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ) | 3:47 | 2024-06-06 | 2024-08-23 |
 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 | 2024-09-05 |  |
@@ -39,7 +40,7 @@
 | [Discothèque Inside My Head](https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Discothèque Inside My Head](https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA) | 3:34 | 2024-07-11 | 2024-08-27 |
 | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 | 2024-12-15 |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2024-05-31 | 2024-07-27 |
-| [Don't Be A Stranger](https://open.spotify.com/track/02rCzlqdbWR3EAUvloCp0g) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Don't Be A Stranger](https://open.spotify.com/album/7JiCutogiOKnp7SKwIoEah) | 2:57 | 2024-10-31 |  |
+| [Don't Be A Stranger](https://open.spotify.com/track/02rCzlqdbWR3EAUvloCp0g) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Don't Be A Stranger](https://open.spotify.com/album/7JiCutogiOKnp7SKwIoEah) | 2:57 | 2024-10-31 | 2024-12-17 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2024-05-31 |  |
 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 | 2024-05-31 |  |
 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 | 2024-08-30 |  |

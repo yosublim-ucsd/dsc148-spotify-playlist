@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29073,
+  "num_followers": 29072,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADbOEZSYN5Q9BrVz3Ot9KkB",
+  "snapshot_id": "Z14cAAAAAAAgPlYhmSxF89TYsZK9gBg7",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 218656,
+      "name": "Prometo Olvidarte",
+      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 218656,
-      "name": "Prometo Olvidarte",
-      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,

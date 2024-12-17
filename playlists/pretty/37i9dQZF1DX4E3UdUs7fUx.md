@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,171,591 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,171,526 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 54 | [Seeds \(feat\. Carsen Gray\) \- Acoustic Version](https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Seeds \(Acoustic Version\)](https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy) | 4:34 |
 | 55 | [Friction](https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Friction](https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76) | 3:29 |
 | 56 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 |
-| 57 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
-| 58 | [Man Overboard](https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Man Overboard](https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z) | 2:56 |
+| 57 | [Man Overboard](https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Man Overboard](https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z) | 2:56 |
+| 58 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
 | 59 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
 | 60 | [Tin Man](https://open.spotify.com/track/6YgnWdREQM4gDccOYY1WpP) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 4:25 |
 | 61 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 76 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
 | 77 | [Breast of Glass](https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Breast of Glass/Frolic](https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm) | 4:01 |
 | 78 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
-| 79 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
-| 80 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
+| 79 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
+| 80 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
 | 81 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 82 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
 | 83 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 87 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 88 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 | 89 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
-| 90 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
+| 90 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
 | 91 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
-| 92 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
-| 93 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 94 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 |
-| 95 | [Resilient](https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin) | 4:10 |
-| 96 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
-| 97 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 |
-| 98 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
-| 99 | [Dreams](https://open.spotify.com/track/6set2UH8XaNibl4szytQlt) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 2:18 |
-| 100 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 |
+| 92 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 93 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 |
+| 94 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 |
+| 95 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 96 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 |
+| 97 | [Resilient](https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin) | 4:10 |
+| 98 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 |
+| 99 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
+| 100 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |
 
 Snapshot ID: `ZsilKwAAAAC25DVTGUvsEMAA2IgUi6w8`

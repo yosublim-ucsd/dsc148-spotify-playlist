@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Bad Bunny",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Yan Block, NTG, SAIKO",
   "name": "PEGAO",
   "tracks": [
     {
@@ -2823,6 +2823,28 @@
     },
     {
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/4PHBAC9jNy6iySQlT5Aqfp"
+      },
+      "artists": [
+        {
+          "name": "C Mar\u00ed",
+          "url": "https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps"
+        },
+        {
+          "name": "John Poll\u00f5n",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176774,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/7omr30ct5eLmTVhYwLtuM8"
+    },
+    {
+      "album": {
         "name": "CONTIGO LA PASO CABRON",
         "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
       },
@@ -3366,7 +3388,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
@@ -6718,7 +6740,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 210223,
       "name": "LA CYBER",
       "url": "https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU"
@@ -8800,6 +8822,32 @@
       "duration_ms": 172160,
       "name": "MIONCA AL BLOQUE",
       "url": "https://open.spotify.com/track/0mIFOa5E7widNaQ76voSN1"
+    },
+    {
+      "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
     },
     {
       "album": {

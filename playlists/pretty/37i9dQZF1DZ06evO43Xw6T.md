@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,980 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,121 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 30 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
 | 31 | [Sad Loqueron](https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:01 |
 | 32 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
-| 33 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 |
-| 34 | [Las Minitas](https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Las Minitas](https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO) | 2:45 |
+| 33 | [Las Minitas](https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Las Minitas](https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO) | 2:45 |
+| 34 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 |
 | 35 | [Lucky Charms](https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:50 |
 | 36 | [La Fresa](https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 2:54 |
 | 37 | [Más Perrón Con los Balenciaga](https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:49 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
 | 51 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
 
-Snapshot ID: `Z1zKgAAAAAATMH7Wm4QAzlfa+FwfhbWE`
+Snapshot ID: `Z14cAAAAAACHqv3umabRMiBmv14/J+H8`

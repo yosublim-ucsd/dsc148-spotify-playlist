@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,705 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,733 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 42 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
 | 43 | [Voy a Vos](https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:43 |
 | 44 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 |
-| 45 | [Carnaval Toda la Vida \- Remasterizado 2008](https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 6:04 |
-| 46 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 |
-| 47 | [Para No Verte Más](https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Colección Suprema](https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t) | 3:14 |
-| 48 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 45 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 |
+| 46 | [Carnaval Toda la Vida \- Remasterizado 2008](https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 6:04 |
+| 47 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 48 | [Para No Verte Más](https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Colección Suprema](https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t) | 3:14 |
 | 49 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
 | 50 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
 | 51 | [Bye bye](https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 5:49 |
 | 52 | [La Rubia del Avión](https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 4:12 |
 | 53 | [Me Late](https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:30 |
-| 54 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
-| 55 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
-| 56 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
-| 57 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
+| 54 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
+| 55 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
+| 56 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
+| 57 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
 | 58 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 | 59 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
 | 60 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |

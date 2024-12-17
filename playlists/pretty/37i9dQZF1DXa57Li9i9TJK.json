@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Con Camila Fern\u00e1ndez en portada ",
-  "num_followers": 19219,
+  "num_followers": 19232,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "16 Reales hits",
-        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+        "name": "Encuentro Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
         }
       ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+      "duration_ms": 223466,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Encuentro Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
       "artists": [
         {
-          "name": "Abracadabra",
-          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 223466,
-      "name": "En realidad",
-      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
     },
     {
       "added_at": "2024-12-06 06:00:00",

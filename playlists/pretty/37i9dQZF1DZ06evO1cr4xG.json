@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 80721,
+  "num_followers": 80734,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABNFwNU3g6pYi/6sbblwOwd",
+  "snapshot_id": "Z14cAAAAAAAohOvzYGkgQJmEGOzZZ2oJ",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "Other Worlds",
-      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 293093,
       "name": "Watch the World Burn",
       "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "Other Worlds",
+      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
     },
     {
       "added_at": null,

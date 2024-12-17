@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,716 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,744 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 3 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 4 | [Balada \- Ao Vivo](https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Gusttavo Lima e Você \(Ao Vivo\)](https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6) | 3:21 |
 | 5 | [O Nosso Santo Bateu \- Live](https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 3:07 |
-| 6 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
-| 7 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
+| 6 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
+| 7 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
 | 8 | [Quando a vontade bater \(Participação especial de PK Delas\)](https://open.spotify.com/track/26WpOBpHiIMoBuMEIwtOCH) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3) | [Quando a vontade bater \(Participação especial de PK Delas\)](https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp) | 2:46 |
 | 9 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 |
 | 10 | [Suíte 14 \(feat\. Mc Guimê\) \- Ao Vivo](https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov) | [Tempo Certo \(Ao Vivo em Campo Grande\)](https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB) | 2:58 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 52 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
 | 53 | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \- Ao Vivo](https://open.spotify.com/track/7vLG0D8ouHd4brF5TVJQya) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \[Ao Vivo\]](https://open.spotify.com/album/6Wd7qE3WGz6fZatTWZ1Zkj) | 3:33 |
 | 54 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
-| 55 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
-| 56 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 55 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 56 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 | 57 | [Caraca, Muleke!](https://open.spotify.com/track/5M8rc7DOM5MW1F8eP0OX9a) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Outro Dia, Outra História](https://open.spotify.com/album/78dAGSAzdGeWr7VmZIJdOB) | 2:50 |
 | 58 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
 | 59 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |

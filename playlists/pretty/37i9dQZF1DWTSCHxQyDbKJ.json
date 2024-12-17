@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32391,
+  "num_followers": 32393,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "That Golden Time",
         "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 294851,
       "name": "You Lucky One",
       "url": "https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Peanuts",
         "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 198640,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs"
-      },
-      "artists": [
-        {
-          "name": "ARXX",
-          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
-        }
-      ],
-      "duration_ms": 219806,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "I AM JORDAN",
         "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 341124,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "duration_ms": 219806,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P"
     },
     {
       "added_at": "2024-12-04 12:15:00",

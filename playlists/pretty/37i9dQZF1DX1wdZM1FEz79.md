@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Bok Dajin\(복다진\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,192 likes - 52 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,196 likes - 52 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 14 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 15 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 16 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
-| 17 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
+| 17 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
 | 18 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
-| 19 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
+| 19 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 20 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 21 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 22 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 38 | [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 |
 | 39 | [Way Back Home](https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo, First](https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V) | 3:30 |
 | 40 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
-| 41 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
-| 42 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
+| 41 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
+| 42 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
 | 43 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 |
 | 44 | [A story that will turn into a poem](https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:55 |
 | 45 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
 | 46 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
-| 47 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
-| 48 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
+| 47 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
+| 48 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 49 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 |
 | 50 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
-| 51 | [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 |
-| 52 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 51 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 52 | [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 |
 
 Snapshot ID: `Z1ftDwAAAADJiBNghsUXBFga3b/rgOHD`

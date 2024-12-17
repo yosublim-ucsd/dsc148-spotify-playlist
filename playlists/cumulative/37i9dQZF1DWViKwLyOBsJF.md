@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-113 songs - 4 hr 59 min
+114 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Jingle Bells](https://open.spotify.com/track/0zwo1TTLQ1hT1D0FSUVzJb) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [Jingle Bells](https://open.spotify.com/album/6v06rX8IKFfen73wXhIHcD) | 2:32 | 2024-11-06 |  |
 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 |  |
 | [Jingle Bells](https://open.spotify.com/track/5J0I2BZoTbwDGb0xVHeLxH) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Jingle Bells](https://open.spotify.com/album/3hhWNtsieXhLwJNUS9l5nX) | 2:01 | 2024-11-12 |  |
+| [Joy to the world](https://open.spotify.com/track/1Hc4ECj3KKTQVKhI4DeWJC) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Joy to the world](https://open.spotify.com/album/2btLOAxvbdx0LdyX51J3Vq) | 2:49 | 2024-12-16 |  |
 | [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 | 2024-11-12 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 | 2023-09-27 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 | 2023-09-28 |
@@ -103,7 +104,7 @@
 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 | 2021-11-19 |  |
 | [Silent Night \- Piano/Strings](https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:57 | 2021-11-19 | 2024-11-20 |
 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 | 2021-11-19 |  |
-| [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-11-19 |  |
+| [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-11-19 | 2024-12-17 |
 | [Sussex Carol \- Cover](https://open.spotify.com/track/0nkAOkg22GUUw7LMolGhaG) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Sussex Carol \(Cover\)](https://open.spotify.com/album/1HymBa3hWKrk9Bh2tdG7is) | 2:12 | 2024-11-19 |  |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-11-19 |  |
 | [The First Noel](https://open.spotify.com/track/427BbU2FPM1pfVWET7bCJs) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/7kDNF8TnQSaAtYoNculPbP) | 2:18 | 2024-11-26 |  |

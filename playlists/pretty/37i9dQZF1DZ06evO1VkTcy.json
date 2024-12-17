@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21834,
+  "num_followers": 21840,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAB1XPnM6JdR7iYe5J3qh5mK",
+  "snapshot_id": "Z14cAAAAAACap4lHlx8aYfWEy/8ddLa8",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frio e Vento",
-        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seja Forte",
         "url": "https://open.spotify.com/album/3mdrAMknncQfphwa2wukcx"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 410196,
       "name": "Seja Forte",
       "url": "https://open.spotify.com/track/1DPEMTb3jjjtEFtA4PyG9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5458",
-        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
-      },
-      "artists": [
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "5458",
-      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5458",
+        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
+      },
+      "artists": [
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "5458",
+      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
         "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 113442,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
       "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
     },
     {
       "added_at": null,
@@ -1227,54 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origens 3 - O Show (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy"
-      },
-      "artists": [
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 238958,
-      "name": "Liberdade - Ao Vivo",
-      "url": "https://open.spotify.com/track/0gEBQVRSsifWkXneKO4Uk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
@@ -1299,6 +1251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2"
       },
@@ -1319,6 +1291,34 @@
       "duration_ms": 181800,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origens 3 - O Show (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 238958,
+      "name": "Liberdade - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gEBQVRSsifWkXneKO4Uk5"
     },
     {
       "added_at": null,

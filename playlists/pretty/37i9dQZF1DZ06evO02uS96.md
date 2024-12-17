@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,427 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,443 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 11 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
 | 12 | [LAST STARDUST](https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 5:18 |
 | 13 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 |
-| 14 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
-| 15 | [RE:I AM](https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:45 |
+| 14 | [RE:I AM](https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:45 |
+| 15 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
 | 16 | [プロローグ](https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 5:15 |
 | 17 | [I beg you](https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4:27 |
 | 18 | [茜さす](https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "blanc"](https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
 | 50 | [Ref:rain \-3 nuits ver.\-](https://open.spotify.com/track/1qmT1zj1rNgkJCsRsDsCQY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain \-3 nuits ver.\-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 4:53 |
 
-Snapshot ID: `Z1zKgAAAAADkVdeTWon6icj/uYCQxgS1`
+Snapshot ID: `Z14cAAAAAADvjeftQ86htXiidnI7OkYm`

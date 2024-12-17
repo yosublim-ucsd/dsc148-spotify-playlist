@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "AM2TERDAM",
+        "url": "https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206464,
+      "name": "AM2TERDAM",
+      "url": "https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j"
+    },
+    {
+      "album": {
         "name": "Ama Yine Sen",
         "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
       },
@@ -78,6 +108,28 @@
       "duration_ms": 170490,
       "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
       "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
+    },
+    {
+      "album": {
+        "name": "A\u00e7\u0131k Adres (SAYGI1)",
+        "url": "https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        },
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277514,
+      "name": "A\u00e7\u0131k Adres - SAYGI1",
+      "url": "https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv"
     },
     {
       "album": {
@@ -1168,7 +1220,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -1354,7 +1406,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 205224,
       "name": "Ortak",
       "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"

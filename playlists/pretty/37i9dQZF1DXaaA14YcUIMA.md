@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,702 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,948 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 59 | [Enamorado De Tus Ojos](https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:38 |
 | 60 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
 | 61 | [Un Día Sin Ti](https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Un Día Sin Ti](https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8) | 3:34 |
-| 62 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
-| 63 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
+| 62 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
+| 63 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
 | 64 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |
 | 65 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 |
 | 66 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 91 | [Dame un Beso y Dime Adiós](https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy](https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc) | 3:38 |
 | 92 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
 | 93 | [El Golpe Traidor](https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U) | [Los Saylors](https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu) | [El Golpe Traidor](https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo) | 3:05 |
-| 94 | [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 |
-| 95 | [Tu Tienes Que Vivir Conmigo](https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [25 Años De Fama](https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw) | 2:55 |
+| 94 | [Tu Tienes Que Vivir Conmigo](https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [25 Años De Fama](https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw) | 2:55 |
+| 95 | [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 |
 | 96 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
 | 97 | [La Vi Llorar](https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b) | [Grupo Pegasso Del Pollo Esteban](https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM) | [El Pollo No Falla](https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP) | 3:27 |
 | 98 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |

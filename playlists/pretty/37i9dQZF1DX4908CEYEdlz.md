@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto:
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,988 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,955 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 56 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
 | 57 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 | 58 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
-| 59 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
-| 60 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 59 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 60 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 | 61 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 |
 | 62 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
-| 63 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
+| 63 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 |
 | 64 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
-| 65 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
-| 66 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 |
-| 67 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 |
+| 65 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
+| 66 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
+| 67 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 |
 | 68 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |
 | 69 | [Hourglass](https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:43 |
 | 70 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 |

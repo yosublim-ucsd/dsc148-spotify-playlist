@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4808127,
+  "num_followers": 4808092,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing In The Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 174800,
       "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing In The Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "13 Reasons Why (Season 2)",
         "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 210240,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -1689,22 +1689,6 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
-    },
-    {
       "added_at": "2024-12-13 05:00:36",
       "album": {
         "name": "SUPERSCAR",
@@ -1719,6 +1703,22 @@
       "duration_ms": 194040,
       "name": "SUPERSCAR",
       "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2024-10-07 14:32:04",

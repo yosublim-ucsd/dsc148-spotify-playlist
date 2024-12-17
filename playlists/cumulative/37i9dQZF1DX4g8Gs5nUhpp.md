@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Dương Domic
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Anh Tú Atus, RHYDER
 
 306 songs - 19 hr 25 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: King Perryy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,296 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,308 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 20 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
 | 21 | [Apapa](https://open.spotify.com/track/67K9m0tdDtJFrynVmVIbGn) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [The Efeleme Pack](https://open.spotify.com/album/1cbTJMZRqKSwxU77jPEhCh) | 2:44 |
 | 22 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 |
-| 23 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G), [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 |
-| 24 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 |
-| 25 | [Champagne Showers](https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:32 |
-| 26 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 |
-| 27 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
-| 28 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
-| 29 | [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 |
+| 23 | [YOTU Cypher](https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW) | [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB), [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Year of the Underdogs](https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p) | 3:04 |
+| 24 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G), [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 |
+| 25 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 |
+| 26 | [Champagne Showers](https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:32 |
+| 27 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 |
+| 28 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
+| 29 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
 | 30 | [Legacy](https://open.spotify.com/track/4zWE6JijStPqhELHKyvpyZ) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 2:55 |
 | 31 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 |
 | 32 | [Wuse Vigilante](https://open.spotify.com/track/2A9Cdu8AOCh0gAzjQVi4kv) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Double Homicide](https://open.spotify.com/album/2PoPwEzySBGSsH4XmRxQ7O) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 |
 | 60 | [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 |
 
-Snapshot ID: `Z0AZBQAAAAAbUJy9HyPYg0PxDdwpwrXe`
+Snapshot ID: `Z1/xDAAAAADq7i6XQZOkByIwkPtwfrdO`

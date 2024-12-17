@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Sued Silva, Dalete hungria
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,954 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,145 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 69 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 70 | [Eu Mais Deus \- Ao Vivo](https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Mais Deus \(Ao Vivo\)](https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX) | 6:59 |
 | 71 | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 |
-| 72 | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s) | 5:55 |
-| 73 | [Coração que Sangra \(Ao Vivo\)](https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Coração que Sangra / Vem Me Consolar \(Ao Vivo\)](https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2) | 4:18 |
+| 72 | [Coração que Sangra \(Ao Vivo\)](https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Coração que Sangra / Vem Me Consolar \(Ao Vivo\)](https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2) | 4:18 |
+| 73 | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s) | 5:55 |
 | 74 | [Em Missão de Amor](https://open.spotify.com/track/6u3BXKJdGXUKyDpti4QSGL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Em Missão de Amor](https://open.spotify.com/album/6WowcZuZLUxImUkz8Lw9X7) | 4:24 |
 | 75 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 76 | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/track/4ZDc1aKX8ldalXDH98i9ef) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Nada Pode Calar Um Adorador \(Ao Vivo\)](https://open.spotify.com/album/5ly8mUZMyQInjEq95eH31y) | 5:28 |

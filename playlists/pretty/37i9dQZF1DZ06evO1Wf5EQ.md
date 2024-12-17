@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 17 songs - 31 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 632 likes - 17 songs - 31 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 16 | [Kentucky State Championship 1963](https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 17 | [Dear Roy...](https://open.spotify.com/track/4hfGKgAnzb9jJx7cEQGfqE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:46 |
 
-Snapshot ID: `Z1zKgAAAAAAmNv/1Ph78QL86n+7PavUn`
+Snapshot ID: `Z14cAAAAAAD0iE+Rk6Ga1GoPc4AVy0sD`

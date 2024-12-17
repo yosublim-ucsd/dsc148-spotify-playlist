@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 259 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 259 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 69 | [Make Up \(feat\. Chloe Angelides\)](https://open.spotify.com/track/37k7igIs7IrMVUadwWKHJ6) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:26 |
 | 70 | [Icy](https://open.spotify.com/track/3zmzb7WcCXpEAXq1RtQ7o4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:09 |
 | 71 | [Neva End](https://open.spotify.com/track/7KyEgCM3EdWPYi5WHuhc1y) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pluto](https://open.spotify.com/album/1yNIBzlvPVBALSPkUMq1ma) | 4:22 |
-| 72 | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/track/6pISryCxMLYvUhXdntY9yW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/album/4WI8IUUkHpjolwZ2xTOpDS) | 3:58 |
-| 73 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 72 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 73 | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/track/6pISryCxMLYvUhXdntY9yW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/album/4WI8IUUkHpjolwZ2xTOpDS) | 3:58 |
 | 74 | [Runaway Love](https://open.spotify.com/track/1xgN9KBVVoTNygpYjpXnvH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:32 |
 | 75 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 76 | [Boom Boom](https://open.spotify.com/track/1HVpe3XPrCNpk2rVJT602s) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Boom Boom](https://open.spotify.com/album/3bAzsdgJZ7O0Ksg1H8Y9xP) | 4:08 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 186 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
 | 187 | [Shinin'](https://open.spotify.com/track/5B5an7jeVLFK4yQsuiF7bT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:35 |
 | 188 | [Priceless \(feat\. Birdman\)](https://open.spotify.com/track/5tZVtpHvB1JecqHLP6XuR3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:52 |
-| 189 | [You Will Be Loved](https://open.spotify.com/track/0cSEZqQELE6wPck6FD3x9a) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 4:16 |
-| 190 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 189 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 190 | [You Will Be Loved](https://open.spotify.com/track/0cSEZqQELE6wPck6FD3x9a) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 4:16 |
 | 191 | [Misses Glass](https://open.spotify.com/track/5rbbfmGWjHI3XoG3Y9wiSA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:41 |
 | 192 | [So Blue](https://open.spotify.com/track/1zvPwMSHBbqqrbUhRySxJH) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 4:23 |
 | 193 | [Broadway](https://open.spotify.com/track/1dUDMgtBlvKZODeSIqOjIA) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:57 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 258 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 259 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbkPXgAAAAA5kF4D4FCrsPPdU3yi/V0z`
+Snapshot ID: `AbkVCAAAAAD8DuH/6zEnrLC4qDu9vXVk`

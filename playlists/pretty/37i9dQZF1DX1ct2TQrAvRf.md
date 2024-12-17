@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover\- Hanumankind & A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,940 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,505 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
+| 1 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
 | 2 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
 | 3 | [Wolf](https://open.spotify.com/track/6DfSYsJs1SKzMhykTy4Q7y) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Wolf](https://open.spotify.com/album/3hHpcqbVrgUOSb4BRdWHTJ) | 2:50 |
 | 4 | [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 |

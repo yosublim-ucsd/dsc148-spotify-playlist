@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 636291,
+  "num_followers": 636321,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAB61+fDNUdXU/yJ+dcv6Ivp",
+  "snapshot_id": "Z14cAAAAAADl1FcNhvP7bN1JNwdoJSOz",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 161266,
       "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolerme",
-        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 143975,
-      "name": "Dolerme",
-      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -495,28 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "Dolerme",
+        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
       },
       "artists": [
         {
@@ -524,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 162376,
-      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
-      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
+      "duration_ms": 143975,
+      "name": "Dolerme",
+      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
       "added_at": null,
@@ -555,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
+      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "COMO UN G",
+      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 196426,
       "name": "PROMESA",
       "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "COMO UN G",
-      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 214011,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 214011,
-      "name": "Catalina",
-      "url": "https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj"
     },
     {
       "added_at": null,

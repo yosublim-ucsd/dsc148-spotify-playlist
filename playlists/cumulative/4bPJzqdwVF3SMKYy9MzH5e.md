@@ -4,7 +4,7 @@
 
 > 
 
-2,032 songs - 4 day 13 hr 3 min
+2,033 songs - 4 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2021-08-05 |  |
 | [Dai the Flu](https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:36 | 2022-04-03 |  |
 | [daisy pusher](https://open.spotify.com/track/2w0KKiXPoScpWtZwoDokqc) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pushing daisies](https://open.spotify.com/album/07naAGnFibTManFY20vcUL) | 3:32 | 2022-10-05 |  |
+| [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 | 2024-12-16 |  |
 | [damn dirty dexhead](https://open.spotify.com/track/2Ysnrb5mHOzl5l4BZKpHAg) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [damn dirty dexhead](https://open.spotify.com/album/1NNhg8t7rWPtABrK2oBiEv) | 2:21 | 2022-12-25 |  |
 | [damn.](https://open.spotify.com/track/0U6gV3JcSxArnFtd82b17n) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:17 | 2021-09-08 |  |
 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 | 2021-11-14 |  |

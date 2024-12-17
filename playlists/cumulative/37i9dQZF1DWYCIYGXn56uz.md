@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Vybes
 
-573 songs - 1 day 2 hr 35 min
+574 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Mi prenderò cura di te](https://open.spotify.com/track/3ILLcjoGf6Yb43Zegavf8u) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ) | 2:54 | 2023-03-23 | 2023-05-20 |
 | [Mi prenderò cura di te](https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO) | 2:54 | 2023-05-18 | 2023-06-16 |
 | [Milano dannata](https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Milano dannata](https://open.spotify.com/album/0FRJd1v1XYjnxqLD8CPjAL) | 3:15 | 2023-03-23 | 2023-04-28 |
+| [MILLE CONCERTI](https://open.spotify.com/track/376QKV218XBWMzHNCo8oDh) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [MILLE CONCERTI](https://open.spotify.com/album/4cvqZIvVNFxEnyKsfByfmu) | 2:45 | 2024-12-16 |  |
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-07-11 | 2024-10-25 |
 | [MISS](https://open.spotify.com/track/3vlTKfJa18JHBlzrrERz4u) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [MISS](https://open.spotify.com/album/2qXQEILrMAiwH9IdcKJNCd) | 3:05 | 2023-05-18 | 2023-07-07 |
 | [Missili](https://open.spotify.com/track/6GNG9SGlZFGNfMLNV9pts5) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [Missili](https://open.spotify.com/album/22rw08d3h189qM1d0RpOeE) | 2:10 | 2024-07-18 | 2024-08-23 |

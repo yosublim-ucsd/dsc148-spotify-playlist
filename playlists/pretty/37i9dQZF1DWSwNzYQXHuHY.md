@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,335 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,341 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 35 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
 | 36 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
 | 37 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
-| 38 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
-| 39 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
+| 38 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
+| 39 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
 | 40 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 41 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
 | 42 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |

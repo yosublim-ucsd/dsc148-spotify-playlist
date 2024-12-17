@@ -1,6 +1,6 @@
 {
   "description": "Still in rotation. Cover: SZA",
-  "num_followers": 2153528,
+  "num_followers": 2153864,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -601,26 +601,6 @@
       "url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3"
     },
     {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "I Used To Know Her",
@@ -641,6 +621,22 @@
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
+      "added_at": "2023-01-26 12:39:45",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Lost",
@@ -657,20 +653,24 @@
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
-      "added_at": "2023-01-26 12:39:45",
+      "added_at": "2022-09-24 17:12:30",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+      "duration_ms": 143226,
+      "name": "Playing Games (with Bryson Tiller) - Extended Version",
+      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
     },
     {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+    },
+    {
       "added_at": "2024-10-18 15:55:29",
       "album": {
         "name": "After Hours",
@@ -1211,22 +1227,6 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2022-03-14 17:48:22",

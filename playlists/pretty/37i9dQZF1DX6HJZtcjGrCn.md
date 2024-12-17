@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Parcels, MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,618 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,621 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,19 +71,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 61 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
 | 62 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 |
 | 63 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 |
-| 64 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 |
-| 65 | [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 |
+| 64 | [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 |
+| 65 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 |
 | 66 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
-| 67 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 |
-| 68 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
+| 67 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
+| 68 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 |
 | 69 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 |
 | 70 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 71 | [Best Friends](https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Best Friends](https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7) | 4:01 |
 | 72 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 73 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
 | 74 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
-| 75 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
-| 76 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
+| 75 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
+| 76 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
 | 77 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 78 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
 | 79 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |

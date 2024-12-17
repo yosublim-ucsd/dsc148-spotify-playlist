@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,992 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,000 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 36 | [Te Lavaste la Cara y el Mono No \(El Mono de Marciana\)](https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Estás Seleccionada](https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7) | 2:56 |
 | 37 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
 | 38 | [Besando borrachos](https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
-| 39 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
-| 40 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
+| 39 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
+| 40 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
 | 41 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
 | 42 | [El Próximo Tonto](https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:26 |
 | 43 | [La roncona](https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Me llamo Raquel](https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
 | 50 | [Volver a empezar](https://open.spotify.com/track/72TESm64s0W784aHoK4k0c) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Pedro Magdaleno](https://open.spotify.com/artist/5dhr9F9C2GXOeMqhMV9EfC) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 4:02 |
 
-Snapshot ID: `Z1zKgAAAAAAupEZRSfc4UirF+1OREHnO`
+Snapshot ID: `Z14cAAAAAAAk44dtDc+ZG6gur/icDHrZ`

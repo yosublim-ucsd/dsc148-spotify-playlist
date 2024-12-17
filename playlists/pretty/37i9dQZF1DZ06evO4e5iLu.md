@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,659 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,047 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 12 | [A Ella](https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:18 |
 | 13 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
 | 14 | [PROVENZA](https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:27 |
-| 15 | [Créeme](https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:34 |
-| 16 | [FRIKI](https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:25 |
+| 15 | [FRIKI](https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:25 |
+| 16 | [Créeme](https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:34 |
 | 17 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:25 |
 | 18 | [X SI VOLVEMOS](https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:20 |
 | 19 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 47 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |
 | 48 | [Mi Cama](https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:29 |
 
-Snapshot ID: `Z1zKgAAAAAAXq8TrOiN2ei2Fnmsd5fcf`
+Snapshot ID: `Z14cAAAAAADf7p8mQT7oNk9q7DZZHl79`

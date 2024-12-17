@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,964 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,992 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 14 | [Robbers](https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 4:14 |
 | 15 | [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 |
 | 16 | [Flawless](https://open.spotify.com/track/2Kt1XplPBQBsDKQDa6TssB) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:06 |
-| 17 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
-| 18 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
+| 17 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
+| 18 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 19 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
 | 20 | [Youth](https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 4:13 |
 | 21 | [Come A Little Closer](https://open.spotify.com/track/7oWbeO9v3Cfs900q7JhLAs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:49 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 83 | [We Exist](https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:44 |
 | 84 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |
 | 85 | [Little Games](https://open.spotify.com/track/3Z8qysUNh2Rkee72WCZlrR) | [The Colourist](https://open.spotify.com/artist/0hK26QoGcuKV3lH0x9MvUU) | [Lido](https://open.spotify.com/album/3ggtCueWcJ0Pr5tCVXgCf4) | 2:41 |
-| 86 | [Thunder Clatter](https://open.spotify.com/track/71eRCfoq3g4qeLNcR75Hig) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/3GF3QCCbcT59jeeGzHCaDU) | 4:31 |
-| 87 | [Paris](https://open.spotify.com/track/6kF2DYkORE9d17oPFomMPJ) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/6LFFAA4z6BrTDFVBxnKKjB) | 3:52 |
+| 86 | [Paris](https://open.spotify.com/track/6kF2DYkORE9d17oPFomMPJ) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/6LFFAA4z6BrTDFVBxnKKjB) | 3:52 |
+| 87 | [Thunder Clatter](https://open.spotify.com/track/71eRCfoq3g4qeLNcR75Hig) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/3GF3QCCbcT59jeeGzHCaDU) | 4:31 |
 | 88 | [Forever](https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
 | 89 | [We Sink](https://open.spotify.com/track/31IxooDVO2GR9HRUSCdcRG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:34 |
 | 90 | [Kangaroo Court](https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:43 |

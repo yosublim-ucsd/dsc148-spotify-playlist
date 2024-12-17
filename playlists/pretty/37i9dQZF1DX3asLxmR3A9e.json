@@ -1,6 +1,6 @@
 {
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
-  "num_followers": 89479,
+  "num_followers": 89585,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "Happy Idiot",
-      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Happy Idiot",
+      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 410186,
-      "name": "Weight of Love",
-      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)",
         "url": "https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 232506,
       "name": "Yellow Flicker Beat",
       "url": "https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 410186,
+      "name": "Weight of Love",
+      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "After the Disco",
-        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
+        "name": "How Do You Feel Now?",
+        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "KOPPS",
+          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Holding on for Life",
-      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
+      "duration_ms": 234773,
+      "name": "Tongues",
+      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "How Do You Feel Now?",
-        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
+        "name": "After the Disco",
+        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
       },
       "artists": [
         {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "KOPPS",
-          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 234773,
-      "name": "Tongues",
-      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
+      "duration_ms": 236866,
+      "name": "Holding on for Life",
+      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
     },
     {
       "added_at": "2024-01-24 21:21:00",

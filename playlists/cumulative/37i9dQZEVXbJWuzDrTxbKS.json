@@ -6862,7 +6862,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 68760,
       "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
@@ -9386,7 +9386,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -11172,7 +11172,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -14987,6 +14987,24 @@
     },
     {
       "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/3wysrdjrJLPTD2Fiv6I8PR"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145773,
+      "name": "Hey Santa Claus",
+      "url": "https://open.spotify.com/track/4HOQ9KMQPdaR5YrOuhrA60"
+    },
+    {
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -17770,7 +17788,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -19038,7 +19056,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 152805,
       "name": "Ko t\u0101?",
       "url": "https://open.spotify.com/track/6wB3XstB0c2yO2iMLKnCDg"
@@ -20422,7 +20440,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 186249,
       "name": "Lidojam tik augstu",
       "url": "https://open.spotify.com/track/2iaPKfLiVsnEFjqHYExHCW"
@@ -23240,6 +23258,28 @@
       "duration_ms": 213693,
       "name": "Meitenes R\u012bg\u0101",
       "url": "https://open.spotify.com/track/630hAcarC8Vj7mnGgubcPK"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "album": {
@@ -26574,7 +26614,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 169680,
       "name": "N\u0101rnija",
       "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
@@ -31326,7 +31366,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -32470,7 +32510,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -33184,7 +33224,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 142539,
       "name": "SINEPES & MEDUS",
       "url": "https://open.spotify.com/track/5ttWL4tsDft8CF0E1rAavp"
@@ -39036,7 +39076,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 213322,
       "name": "Tu Quizas",
       "url": "https://open.spotify.com/track/7hr8WWP56K2HDpAYRNU4Xo"
@@ -39280,7 +39320,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -40640,7 +40680,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 194645,
       "name": "Walau Dalam Mimpi",
       "url": "https://open.spotify.com/track/79IO3PSjcvBTej8klLEMTz"
@@ -41697,6 +41737,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -41820,7 +41878,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "Won't Stop",
       "url": "https://open.spotify.com/track/1JYPpnalrGZvn64loRRT2F"

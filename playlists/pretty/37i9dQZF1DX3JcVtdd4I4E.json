@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7075,
+  "num_followers": 7082,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "The Hype",
-        "url": "https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "The Hype",
-      "url": "https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Everytime We Touch",
         "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 141428,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "The Hype",
+        "url": "https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "The Hype",
+      "url": "https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 213752,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 171253,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 213752,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Habits (Stay High) [Stripped in France]",
         "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 224620,
       "name": "Habits (Stay High) [Stripped in France]",
       "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "glued to the floor",
         "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 173097,
       "name": "WEIGHTLESS",
       "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     },
     {
       "added_at": "2024-02-08 23:00:00",

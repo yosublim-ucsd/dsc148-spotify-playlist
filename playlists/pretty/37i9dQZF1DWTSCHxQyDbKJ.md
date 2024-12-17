@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,391 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,393 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 35 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 36 | [Why Am I Like This?](https://open.spotify.com/track/2SSnrpEz16w4bvdLqcG2Ze) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:26 |
 | 37 | [Shadow of a Doubt](https://open.spotify.com/track/1ztIebjhmfFdYPhH4m6ORE) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 4:10 |
-| 38 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
-| 39 | [You Lucky One](https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 4:54 |
+| 38 | [You Lucky One](https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 4:54 |
+| 39 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 40 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 |
 | 41 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
 | 42 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 51 | [Are You Ready Now?](https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Are You Ready Now?](https://open.spotify.com/album/6xbmpgRs0VTklRRVHIpmrn) | 3:35 |
 | 52 | [Run](https://open.spotify.com/track/5TEmq0GBkDQEoJPKEyCudq) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Run](https://open.spotify.com/album/7MNewcNr3iFbdlS9GC5e7L) | 2:42 |
 | 53 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 |
-| 54 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
-| 55 | [Strut](https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:18 |
+| 54 | [Strut](https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:18 |
+| 55 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
 | 56 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 57 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 58 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 |
-| 59 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |
-| 60 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 |
+| 59 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 |
+| 60 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |
 | 61 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 |
 | 62 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
 | 63 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 |

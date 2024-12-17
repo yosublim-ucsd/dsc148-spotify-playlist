@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 626280,
+  "num_followers": 626326,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADb79QGE59y0FqCtKVxYBqW",
+  "snapshot_id": "Z14cAAAAAACut5nRNYeCFGLm13uM5Kk6",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": null,

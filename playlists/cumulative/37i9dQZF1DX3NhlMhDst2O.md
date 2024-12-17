@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3NhlMhDst2O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3NhlMhDst2O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3NhlMhDst2O)
 
-### [Sonidos del Ayer](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
+### [Navidad Sin Ti](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
 
-> Porque el romance nunca pasará de moda.
+> otro año ya se ha ido, cuantas cosas han pasado\. algo hemos aprendido y algo hemos olvidado 🥺🥀😭
 
-169 songs - 9 hr 18 min
+172 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Tu Recuerdo](https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Lo Más Romántico De](https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ) | 3:21 | 2023-01-04 | 2024-04-19 |
 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 | 2023-11-06 |  |
 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 | 2023-01-04 |  |
+| [Acepta Mi Error](https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [15 Super Exitos Vol\. 2](https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj) | 3:24 | 2024-12-16 |  |
 | [Acepto Mi Derrota](https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 4:08 | 2023-01-04 |  |
 | [Acá Entre Nos](https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:15 | 2023-01-04 | 2023-11-07 |
 | [Al Ritmo De La Lluvia](https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:20 | 2023-11-06 | 2023-11-20 |
@@ -39,6 +40,7 @@
 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 | 2023-01-04 |  |
 | [Corazon de Roca](https://open.spotify.com/track/1zdYTb2KOgrdp0MPlcHyCl) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp) | 2:56 | 2023-01-04 | 2023-11-07 |
 | [Corazón De Roca](https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru) | [Los Fresno](https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:15 | 2023-11-06 |  |
+| [Corazón Limpio](https://open.spotify.com/track/2oziP5rlqR0kKHbGzIOL0b) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 2:59 | 2024-12-16 |  |
 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 | 2023-01-04 |  |
 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 | 2023-01-04 |  |
 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 | 2023-01-04 |  |
@@ -78,13 +80,13 @@
 | [Hay cosas inolvidables](https://open.spotify.com/track/5Hjuu63Z7WiQ6hUYx9nTXl) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:52 | 2023-01-04 |  |
 | [Hipocresía](https://open.spotify.com/track/4chqVW5pZrwhhmM6wnTZG5) | [Los Originales Pasteles Verdes Del Peru](https://open.spotify.com/artist/1ej2UXtVvZ7D6qX8mUWMw1) | [25 Aniversario](https://open.spotify.com/album/7F0eY7TbrkgXUUxlcsjbUh) | 4:13 | 2023-01-04 | 2024-04-19 |
 | [Hipocresía](https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF) | [Los Pasteles de Perú](https://open.spotify.com/artist/2UJTlvNR01oVbsigr5sCQs) | [20 Éxitos](https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE) | 4:17 | 2023-11-06 |  |
-| [Hoy](https://open.spotify.com/track/5nJhKycfoC8g3ENqwUfj4O) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/60fB7zLRVwboTovQaN1GhG) | 2:34 | 2024-11-06 |  |
+| [Hoy](https://open.spotify.com/track/5nJhKycfoC8g3ENqwUfj4O) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/60fB7zLRVwboTovQaN1GhG) | 2:34 | 2024-11-06 | 2024-12-17 |
 | [Hoy Te Confieso](https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:48 | 2023-01-04 |  |
 | [La Derrota](https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:16 | 2023-01-04 | 2023-11-07 |
 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 | 2023-01-04 | 2023-11-07 |
 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 | 2023-01-04 |  |
 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 | 2023-01-04 | 2024-03-08 |
-| [Ladrón De Buena Suerte](https://open.spotify.com/track/7ebgyO0p96LdhTWnyJgVKl) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/3UtmdjK1s3CC5EFRND6428) | 3:31 | 2024-11-06 |  |
+| [Ladrón De Buena Suerte](https://open.spotify.com/track/7ebgyO0p96LdhTWnyJgVKl) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/3UtmdjK1s3CC5EFRND6428) | 3:31 | 2024-11-06 | 2024-12-17 |
 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 | 2023-01-04 |  |
 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 | 2023-01-04 | 2023-11-07 |
 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 | 2023-01-04 |  |
@@ -136,7 +138,7 @@
 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 | 2023-01-04 |  |
 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 | 2024-11-06 |  |
 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 | 2023-01-04 |  |
-| [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 | 2024-11-06 |  |
+| [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 | 2024-11-06 | 2024-12-17 |
 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 | 2023-01-04 |  |
 | [Sufrir](https://open.spotify.com/track/5hFkKLE06GhSuqoLJR2oP7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 3:06 | 2023-01-04 |  |
 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 | 2023-01-04 |  |
@@ -160,6 +162,7 @@
 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 | 2023-01-04 |  |
 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 | 2023-01-04 |  |
 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 | 2023-01-04 |  |
+| [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 | 2024-12-16 |  |
 | [Una Sola Caída](https://open.spotify.com/track/4oJxSefLxw6t1mjqEJcXsr) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 2:53 | 2023-11-06 | 2024-04-19 |
 | [Una Sola Caída](https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 2:56 | 2023-11-06 |  |
 | [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 | 2024-11-06 |  |

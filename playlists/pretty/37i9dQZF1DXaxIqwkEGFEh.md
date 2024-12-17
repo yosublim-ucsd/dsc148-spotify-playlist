@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BossMan Dlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,736 likes - 110 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,863 likes - 110 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [46th Street](https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:01 |
+| 1 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
 | 2 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
 | 3 | [Rollin'](https://open.spotify.com/track/7zP40LKCXsiyZjMtnzo5z6) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rollin'](https://open.spotify.com/album/398Y0wqKmuUA0i9sqzMRCp) | 3:23 |
 | 4 | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl) | 3:15 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 10 | [Opportunist](https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Opportunist](https://open.spotify.com/album/6DfPfun9gjXfKQfPTe6i5P) | 2:36 |
 | 11 | [Natural Habitat](https://open.spotify.com/track/1rtY2TBTYvlTa43jpl7upq) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Natural Habitat](https://open.spotify.com/album/1qXCYJTcYlRXyZGVSMVR0o) | 2:56 |
 | 12 | [Federal Nightmares](https://open.spotify.com/track/7K43BENx9D8k0RznDLBTie) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:08 |
-| 13 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
+| 13 | [46th Street](https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:01 |
 | 14 | [PLAY DA FOOL](https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [PLAY DA FOOL](https://open.spotify.com/album/1MUIGef964rRIHwScAdq54) | 2:19 |
 | 15 | [Cheesecake](https://open.spotify.com/track/0qfmKEHGRhMN2C3kQvGTlD) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Cheesecake](https://open.spotify.com/album/5jdg34jX6zywe3PkySMcf2) | 1:39 |
 | 16 | [Tuck Your Chain](https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Tuck Your Chain](https://open.spotify.com/album/6NHj6smgIl0QMuEj0ZFY09) | 2:07 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 109 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
 | 110 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
 
-Snapshot ID: `Z1u/dQAAAACdW9CjZ4YCwJepgYBDM0DH`
+Snapshot ID: `Z2Bt4QAAAABq6N+GKEr3MpjuAvSpJ85y`

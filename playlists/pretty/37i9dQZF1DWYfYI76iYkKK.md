@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,772 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,783 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 20 | [去北極忘記你](https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [去北極忘記你](https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK) | 4:11 |
 | 21 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
 | 22 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
-| 23 | [沉默](https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh) | 5:05 |
-| 24 | [I LOVE US \(feat\. 魏如萱\)](https://open.spotify.com/track/5Hx70gaTOskx491BGtZoNR) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 3:34 |
+| 23 | [I LOVE US \(feat\. 魏如萱\)](https://open.spotify.com/track/5Hx70gaTOskx491BGtZoNR) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 3:34 |
+| 24 | [沉默](https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh) | 5:05 |
 | 25 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 26 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
 | 27 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 43 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 |
 | 44 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
 | 45 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
-| 46 | [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 |
+| 46 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 47 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
-| 48 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
-| 49 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
-| 50 | [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 |
+| 48 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
+| 49 | [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 |
+| 50 | [後視鏡](https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI) | [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [我的雷雨季電台](https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1) | 2:42 |
 
 Snapshot ID: `Z1uLIQAAAAAU2ibd1qafS0DziPKIaIro`

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1386449,
+  "num_followers": 1386996,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+        "name": "You Don\u2019t Know",
+        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Rebel Kleff",
+          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
+        },
+        {
+          "name": "Kiko Bun",
+          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
         }
       ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+      "duration_ms": 250450,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1095,26 +1103,18 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "You Don\u2019t Know",
-        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Rebel Kleff",
-          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
-        },
-        {
-          "name": "Kiko Bun",
-          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 250450,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/3VAilypndl6FcUryyLqA9I"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 144805,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "They Ain't Want Us",
-        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
-      },
-      "artists": [
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        },
-        {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        }
-      ],
-      "duration_ms": 222027,
-      "name": "PARADIGM",
-      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 216453,
       "name": "Out Of My Hands (feat. Oddisee)",
       "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "They Ain't Want Us",
+        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
+      },
+      "artists": [
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        }
+      ],
+      "duration_ms": 222027,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1691,30 +1691,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "AMALAMA",
-        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        },
-        {
-          "name": "Alcynoos",
-          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
-        },
-        {
-          "name": "Parental",
-          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
-        }
-      ],
-      "duration_ms": 109416,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -1767,6 +1743,30 @@
       "duration_ms": 105577,
       "name": "Sega",
       "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "AMALAMA",
+        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "duration_ms": 109416,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
     },
     {
       "added_at": "2024-12-13 05:00:08",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-12-13 05:00:08",
       "album": {
-        "name": "Morning Walk",
-        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
-      },
-      "artists": [
-        {
-          "name": "AzMattic",
-          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 193450,
-      "name": "Morning Walk",
-      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
-    },
-    {
-      "added_at": "2024-12-13 05:00:08",
-      "album": {
         "name": "The New Groove: The Blue Note Remix Project Vol. 1",
         "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
+    },
+    {
+      "added_at": "2024-12-13 05:00:08",
+      "album": {
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
+      },
+      "artists": [
+        {
+          "name": "AzMattic",
+          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 193450,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
     }
   ],
   "unique_name": "Jazz Rap",

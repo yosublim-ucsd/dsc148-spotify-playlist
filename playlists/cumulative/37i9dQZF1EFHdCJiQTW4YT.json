@@ -361,6 +361,28 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr"
+    },
+    {
+      "album": {
         "name": "Sing To Me Instead",
         "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
       },

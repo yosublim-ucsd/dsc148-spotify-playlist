@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,154 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,190 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 66 | [Red Alert](https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:23 |
 | 67 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
 | 68 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
-| 69 | [The Rider](https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [The Rider](https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM) | 5:42 |
-| 70 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
-| 71 | [Me, Myself & That Dancefloor](https://open.spotify.com/track/3zGcP713ZPe6OYGlOWYpKu) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Me, Myself & That Dancefloor EP](https://open.spotify.com/album/6hkRPAZb0cjySkQeSPoNPa) | 3:26 |
+| 69 | [Me, Myself & That Dancefloor](https://open.spotify.com/track/3zGcP713ZPe6OYGlOWYpKu) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Me, Myself & That Dancefloor EP](https://open.spotify.com/album/6hkRPAZb0cjySkQeSPoNPa) | 3:26 |
+| 70 | [The Rider](https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [The Rider](https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM) | 5:42 |
+| 71 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
 | 72 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
 | 73 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
 | 74 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 77 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 | 78 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 79 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
-| 80 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
-| 81 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 80 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 81 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 82 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 83 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
 | 84 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |

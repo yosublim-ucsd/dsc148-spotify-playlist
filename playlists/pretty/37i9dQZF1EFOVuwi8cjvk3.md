@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 236 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 236 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 92 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 |
 | 93 | [Seasons \(with Sjava & Reason\)](https://open.spotify.com/track/35cOyocq8Gb6UcT0NWeTwn) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 4:02 |
 | 94 | [Zaddy](https://open.spotify.com/track/7n1nLaVnTdMmUY8gj7DMY7) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:44 |
-| 95 | [Inside Out](https://open.spotify.com/track/5xi2SXmF3A5AIsuGXiUIZu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:02 |
-| 96 | [Perfect Circle / God Speed](https://open.spotify.com/track/4TlN2LSHn3DzauUe77l0ib) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 7:55 |
+| 95 | [Perfect Circle / God Speed](https://open.spotify.com/track/4TlN2LSHn3DzauUe77l0ib) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 7:55 |
+| 96 | [Inside Out](https://open.spotify.com/track/5xi2SXmF3A5AIsuGXiUIZu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:02 |
 | 97 | [Should've Said It](https://open.spotify.com/track/0sHc1EEeOnmgjP6QmsR7px) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:20 |
 | 98 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
 | 99 | [Yellow](https://open.spotify.com/track/4Hj5yNHgu2dyrnzRQN7Gld) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:00 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 151 | [We Do This Shit \(feat\. DeJ Loaf\)](https://open.spotify.com/track/4AGxqBn4ogwTgKuyUfguLh) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 3:51 |
 | 152 | [Lullaby](https://open.spotify.com/track/5iqUNtdOkCgszqAxoMFfvR) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:31 |
 | 153 | [My Oh My \(feat\. DaBaby & Gunna\) \- Remix](https://open.spotify.com/track/2ONOyrMhqho3oajY2tpC2n) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [My Oh My \(feat\. DaBaby & Gunna\) \[Remix\]](https://open.spotify.com/album/4UlrIJz4nXZBmqvkfXwfwR) | 2:59 |
-| 154 | [Bentley Truck](https://open.spotify.com/track/4SbiF0fFPbhG3it1foH7MG) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 4:35 |
-| 155 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
+| 154 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
+| 155 | [Bentley Truck](https://open.spotify.com/track/4SbiF0fFPbhG3it1foH7MG) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 4:35 |
 | 156 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
 | 157 | [Self Aware Bitch](https://open.spotify.com/track/2Ps9PNE2gwk27WW97VGswu) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 2:49 |
 | 158 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 235 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 236 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbkPaAAAAABZ1ej28gHbwHsyuXA3sJS2`
+Snapshot ID: `AbkU9AAAAAAf8ImTPx+lVuyefz3PiQNn`

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Megra.
 
-906 songs - 2 day 2 hr 5 min
+907 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Nobody Compares](https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Nobody Compares](https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA) | 4:04 | 2023-09-15 | 2024-02-26 |
 | [Nobody Knows](https://open.spotify.com/track/729gzjTEdRmzCB3SLHrUvA) | [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye), [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Nobody Knows](https://open.spotify.com/album/06S2eifTdG18TWsRwmFYg8) | 2:54 | 2024-04-18 | 2024-06-01 |
 | [NOT ANGRY](https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [NOT ANGRY](https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF) | 1:51 | 2024-08-01 | 2024-12-06 |
+| [nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [nothing left 2 say / give u everything](https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL) | 3:15 | 2024-12-12 |  |
 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 | 2023-10-06 |
 | [Nu Moon](https://open.spotify.com/track/2nRFheDcWnVjcRnQcKhFCq) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Nu Moon](https://open.spotify.com/album/3raXtfprw9tFNyGJ2CnZZY) | 4:16 | 2024-10-03 | 2024-10-18 |
 | [Oh My](https://open.spotify.com/track/6zCTxZ7se4Dp1uqY0Gnaeg) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83), [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Never Return](https://open.spotify.com/album/4NZ9O9tbUJwKzCMNLBCUvI) | 3:07 | 2023-12-22 | 2024-01-13 |
@@ -872,7 +873,7 @@
 | [waves](https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [waves](https://open.spotify.com/album/7ko2pVfTdGboSqs5EtktDS) | 3:18 | 2021-10-29 | 2022-07-26 |
 | [Waves](https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH) | [Waves](https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM) | 3:03 | 2022-05-13 | 2023-05-13 |
 | [Wavy](https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wavy](https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI) | 3:14 | 2023-08-17 | 2023-12-17 |
-| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 |  |
+| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 | 2024-12-17 |
 | [We Got This](https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm) | [⌭ IceMorph ⌬](https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z) | [We Got This](https://open.spotify.com/album/6cOUXAvS2le4C9kJclZwTe) | 4:00 | 2024-05-16 | 2024-06-07 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 | 2023-05-13 |
 | [We're Fine](https://open.spotify.com/track/7bxeNP77YS2eeamGdzmLiA) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [We're Fine](https://open.spotify.com/album/3shsnHsWg2aeVluxVeKR7O) | 3:21 | 2023-05-12 | 2023-05-20 |

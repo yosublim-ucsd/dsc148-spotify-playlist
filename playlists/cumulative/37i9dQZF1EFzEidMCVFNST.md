@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-442 songs - 21 hr 1 min
+443 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Famosinha](https://open.spotify.com/track/45N6BbYW3XVyW7XDkVzVta) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [Famosinha](https://open.spotify.com/album/4nwzmC3bG3zRkovu9xfG0X) | 2:49 | 2024-01-29 |  |
 | [Famoso Tanto Faz](https://open.spotify.com/track/3uT01sLNU9Ta8B8qbyWZQj) | [WALBER](https://open.spotify.com/artist/2vKLXoZL4XxHrbJhj9C5P5), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Famoso Tanto Faz](https://open.spotify.com/album/4aFcVzMtTg5XGwLdpiYplJ) | 2:37 | 2024-01-29 |  |
 | [Fica Com Ela \- Ao Vivo](https://open.spotify.com/track/5XSIruKcw2nMmv5AcSmlFq) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [De Portas Abertas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6fojLfpTCrcK7gLsgd7k63) | 3:23 | 2024-01-29 |  |
+| [Fica Comigo](https://open.spotify.com/track/7oBpYS3vkVeJJqGkyaHRTn) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/2xerAMTP9g0Xb4JDitakRY) | 2:21 | 2024-12-16 |  |
 | [Fica de Boaça \- Ao Vivo](https://open.spotify.com/track/78aVJXnlZSXmIq7YBcZD7R) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd), [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi) | [7550 Dias \(Ao Vivo\)](https://open.spotify.com/album/4h8Xr4AE0gZWazLvT2liCn) | 2:39 | 2024-01-29 |  |
 | [Fica Olhando Meus Stories Aí](https://open.spotify.com/track/53Dtu1CtEYuZpvx3h7cSFZ) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP), [Luiz Henrique](https://open.spotify.com/artist/4gNBOadQtSdS0TyD0p2EOT), [Caio Brito](https://open.spotify.com/artist/5xUQd7Woz4w9EATqrl0xnz) | [Fica Olhando Meus Stories Aí](https://open.spotify.com/album/7GItsZ0qwZmsOUoVNd5Y85) | 2:32 | 2024-01-29 |  |
 | [Fica Suave \(feat\. Marcos & Belutti\)](https://open.spotify.com/track/5riH91yHZnKL6Rq2ZiM5Lz) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Adivinha](https://open.spotify.com/album/4WT9D5DV3cykixlcqCLvH2) | 2:46 | 2024-01-29 |  |

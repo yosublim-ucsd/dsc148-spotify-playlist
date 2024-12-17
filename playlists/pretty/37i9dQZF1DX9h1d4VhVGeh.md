@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,455 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,538 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 52 | [Shou Hal Ayyam \- 2008 Remastered](https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:46 |
 | 53 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 54 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 |
-| 55 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
-| 56 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 |
+| 55 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 |
+| 56 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
 | 57 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
 | 58 | [Hawel Tensany](https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hawel Tensany](https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka) | 3:39 |
 | 59 | [Mum, Sing to the Wind](https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [A Time to Cry \- a Lament over Jerusalem](https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8) | 3:28 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 97 | [3abali](https://open.spotify.com/track/5IfQ6aRrUAAZvR0in4uoyA) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Amygdala \- EP](https://open.spotify.com/album/5Qo3Ex6JhkUf9W8LaiMa31) | 3:21 |
 | 98 | [Khallini Bel Jaw](https://open.spotify.com/track/4YlIyphEnQcSoMMn2WnsHc) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Eza](https://open.spotify.com/album/79554ZeLAODXiO7Yru81W4) | 4:32 |
 | 99 | [Ella Enta \- Live Session](https://open.spotify.com/track/0O1Fa5JhUMU0n8AInGOCk9) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/6s8leDjyyr6rUPpu2Qu0ds) | 4:08 |
-| 100 | [Ya Bay \(Live\)](https://open.spotify.com/track/1e5Q8Pyr4iFRtMCEB4eCYP) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Aziz Maraka](https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY) | 6:09 |
+| 100 | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/track/6M8zsNWrlFeFbLJr5OEEoy) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [Aatini Al Naya Wa Ghanni](https://open.spotify.com/album/4iiE9GALCXTvE4vzoEjdEe) | 5:05 |
 
 Snapshot ID: `Zoc2iAAAAADmB0UjjbmldYBGYY0LVf+k`

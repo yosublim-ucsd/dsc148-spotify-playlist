@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1159422,
+  "num_followers": 1159634,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-09 08:22:46",
       "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
-    },
-    {
-      "added_at": "2024-12-09 08:22:46",
-      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 211483,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+    },
+    {
+      "added_at": "2024-12-09 08:22:46",
+      "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-12-09 08:22:46",

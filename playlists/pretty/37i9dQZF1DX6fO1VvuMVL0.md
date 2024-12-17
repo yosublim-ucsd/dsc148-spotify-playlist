@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,203 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,265 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 29 | [Ghost of a Chance](https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM) | [Lennie Tristano](https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e) | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) | 6:05 |
 | 30 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
 | 31 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
-| 32 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
-| 33 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
+| 32 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
+| 33 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
 | 34 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
 | 35 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 |
 | 36 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 56 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |
 | 57 | [Angle Eyes](https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [A Pell Of A Time](https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY) | 5:39 |
 | 58 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
-| 59 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |
+| 59 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
 | 60 | [Sunflower](https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool + Tranquillity](https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ) | 8:06 |
 | 61 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
 | 62 | [Life Is a Ball](https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 To Go !](https://open.spotify.com/album/4PSGQpJEso0r7WoPiFjbbl) | 5:31 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 65 | [It Ain't Necessarily So](https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC) | [Art Farmer & Benny Golson](https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT) | [Meet the Jazztet](https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc) | 4:30 |
 | 66 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 67 | [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 |
-| 68 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 68 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |
 | 69 | [Dolphin Dance](https://open.spotify.com/track/4KGcpnAbGlvVgd2HFQvexI) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/2lM0Tamy6fq04pPCcPOZ8B) | 5:06 |
 | 70 | [For Miles And Miles](https://open.spotify.com/track/0XN5iSHAHy0qtq9tzbu5WJ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Playboys](https://open.spotify.com/album/55nUGruSrGqK7ZyjAAn4Q0) | 6:27 |
 | 71 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6xchX3noTDiAYo3xbeo9Lc) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Night At The Vanguard](https://open.spotify.com/album/0uZ93GcHxFj4e1PS2mT1Se) | 4:20 |

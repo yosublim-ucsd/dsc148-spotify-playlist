@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 219748,
+  "num_followers": 219773,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 212600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2024-07-09 20:48:06",

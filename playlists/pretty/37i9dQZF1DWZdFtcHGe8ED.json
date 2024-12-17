@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Municipal Waste",
-  "num_followers": 561521,
+  "num_followers": 561566,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "The Ultra-Violence",
+        "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Kill as One",
+      "url": "https://open.spotify.com/track/3U7bYEYs8GEAh2yyyhErly"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "No Place For Disgrace",
         "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 276106,
       "name": "Bestial Invasion",
       "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "The Ultra-Violence",
-        "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
-      },
-      "artists": [
-        {
-          "name": "Death Angel",
-          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Kill as One",
-      "url": "https://open.spotify.com/track/3U7bYEYs8GEAh2yyyhErly"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1631,38 +1631,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Crisix Session # 1: American Thrash",
-        "url": "https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf"
-      },
-      "artists": [
-        {
-          "name": "Crisix",
-          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
-        }
-      ],
-      "duration_ms": 256880,
-      "name": "World in a World",
-      "url": "https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Knee-Deep in the Dead",
-        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Mad Dictator",
-      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Unhealthy Mechanisms",
         "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
       },
@@ -1679,6 +1647,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Crisix Session # 1: American Thrash",
+        "url": "https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf"
+      },
+      "artists": [
+        {
+          "name": "Crisix",
+          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
+        }
+      ],
+      "duration_ms": 256880,
+      "name": "World in a World",
+      "url": "https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Poison for the Lost",
         "url": "https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 259053,
       "name": "Poison for the Lost",
       "url": "https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Knee-Deep in the Dead",
+        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Mad Dictator",
+      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Tango & Thrash",
-        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Intervention",
-      "url": "https://open.spotify.com/track/4PaTT8J0ktwShZ2tEaoEwZ"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Decade of Revival",
         "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 280224,
       "name": "For the Horde",
       "url": "https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Tango & Thrash",
+        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Intervention",
+      "url": "https://open.spotify.com/track/4PaTT8J0ktwShZ2tEaoEwZ"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 242660,
-      "name": "Interface with the Infinite",
-      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "The Affair of the Poisons",
         "url": "https://open.spotify.com/album/5dcBkiNfBkgdLeXseS88JM"
       },
@@ -2075,18 +2059,34 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Mochado",
-        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
+        "name": "V",
+        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
       },
       "artists": [
         {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mochado",
-      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+      "duration_ms": 242660,
+      "name": "Interface with the Infinite",
+      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Evil in the Night",
+        "url": "https://open.spotify.com/album/6VtW3HDNVxTZTZhjDIanhr"
+      },
+      "artists": [
+        {
+          "name": "Merciless Death",
+          "url": "https://open.spotify.com/artist/1e4phaOS2Rq5q2CZVauEg5"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Slaughter Lord",
+      "url": "https://open.spotify.com/track/01mexVwlEDtAbDUtdwwIYH"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Evil in the Night",
-        "url": "https://open.spotify.com/album/6VtW3HDNVxTZTZhjDIanhr"
+        "name": "Mochado",
+        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
       },
       "artists": [
         {
-          "name": "Merciless Death",
-          "url": "https://open.spotify.com/artist/1e4phaOS2Rq5q2CZVauEg5"
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Slaughter Lord",
-      "url": "https://open.spotify.com/track/01mexVwlEDtAbDUtdwwIYH"
+      "duration_ms": 175333,
+      "name": "Mochado",
+      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Flesh from Bone",
         "url": "https://open.spotify.com/album/3XAiBKyWClCBcJw64HIYHl"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 302840,
       "name": "Flesh from Bone",
       "url": "https://open.spotify.com/track/5fopcFWgDjqmqWQK83QUlQ"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 182084,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Fear Campaign",
-        "url": "https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "Fear Campaign",
-      "url": "https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Sodom & Gomorrah",
         "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 246226,
       "name": "Sodom & Gomorrah",
       "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Fear Campaign",
+        "url": "https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 237424,
+      "name": "Fear Campaign",
+      "url": "https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2639,6 +2639,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT"
+      },
+      "artists": [
+        {
+          "name": "Before The Dawn",
+          "url": "https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7"
+        }
+      ],
+      "duration_ms": 270579,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Fuel the Fire",
         "url": "https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi"
       },
@@ -2675,22 +2691,6 @@
       "duration_ms": 179796,
       "name": "Phantom Force",
       "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT"
-      },
-      "artists": [
-        {
-          "name": "Before The Dawn",
-          "url": "https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7"
-        }
-      ],
-      "duration_ms": 270579,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2743,6 +2743,30 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Metal II",
+        "url": "https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        },
+        {
+          "name": "Stu Block",
+          "url": "https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "Romeo Delight",
+      "url": "https://open.spotify.com/track/0Zl2Wx0aqXhMfFMcsLYmor"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Genesis XIX",
         "url": "https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ"
       },
@@ -2775,26 +2799,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Metal II",
-        "url": "https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw"
+        "name": "In Thrash We Trust",
+        "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
       },
       "artists": [
         {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        },
-        {
-          "name": "Stu Block",
-          "url": "https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl"
-        },
-        {
-          "name": "Dave Lombardo",
-          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+          "name": "Artillery",
+          "url": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
         }
       ],
-      "duration_ms": 260226,
-      "name": "Romeo Delight",
-      "url": "https://open.spotify.com/track/0Zl2Wx0aqXhMfFMcsLYmor"
+      "duration_ms": 249346,
+      "name": "In Thrash We Trust",
+      "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2811,22 +2827,6 @@
       "duration_ms": 337823,
       "name": "Strike Back",
       "url": "https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "In Thrash We Trust",
-        "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
-      },
-      "artists": [
-        {
-          "name": "Artillery",
-          "url": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "In Thrash We Trust",
-      "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -3095,6 +3095,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "The Force (Remastered 2011)",
+        "url": "https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 396813,
+      "name": "Metal Forces - Remastered 2011",
+      "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Ethereal Nightmare",
         "url": "https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4"
       },
@@ -3123,22 +3139,6 @@
       "duration_ms": 250413,
       "name": "Under No Illusions",
       "url": "https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "The Force (Remastered 2011)",
-        "url": "https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 396813,
-      "name": "Metal Forces - Remastered 2011",
-      "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
     },
     {
       "added_at": "2024-06-27 03:24:59",

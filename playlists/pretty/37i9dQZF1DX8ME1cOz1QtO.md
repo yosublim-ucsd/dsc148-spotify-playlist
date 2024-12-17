@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,353 likes - 100 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,390 likes - 100 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 55 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 |
 | 56 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |
 | 57 | [Canyon Sunrise](https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Desert Dawn Song](https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW) | 8:32 |
-| 58 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |
-| 59 | [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 |
+| 58 | [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 |
+| 59 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |
 | 60 | [Sunrise](https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE) | [Klaus Schønning](https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM) | [Lydglimt](https://open.spotify.com/album/37ixvLulBM547iKlOYXna0) | 3:09 |
 | 61 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
 | 62 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |

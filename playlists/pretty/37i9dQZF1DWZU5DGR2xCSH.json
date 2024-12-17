@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1141948,
+  "num_followers": 1141961,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Himno De Mi Corazon",
-        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Himno De Mi Corazon",
+        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun"
       },
       "artists": [
         {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 174973,
-      "name": "El Oso",
-      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
+      "duration_ms": 160280,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun"
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
         }
       ],
-      "duration_ms": 160280,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK"
+      "duration_ms": 174973,
+      "name": "El Oso",
+      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
-      },
-      "artists": [
-        {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
-        }
-      ],
-      "duration_ms": 463666,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Ya No Mires Atr\u00e1s",
         "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Time Fate Love (Remastered 2019)",
         "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
       },
@@ -1043,18 +1011,50 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+        }
+      ],
+      "duration_ms": 463666,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 326647,
+      "name": "Agua de R\u00edo",
+      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1071,6 +1071,22 @@
       "duration_ms": 380933,
       "name": "Desconf\u00edo - En Vivo",
       "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1119,22 +1135,6 @@
       "duration_ms": 186911,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Yo Can\u00edbal",
-      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

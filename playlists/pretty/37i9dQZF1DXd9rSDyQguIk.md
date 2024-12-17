@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,158 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,511 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 24 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
 | 25 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 |
 | 26 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
-| 27 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
-| 28 | [Rollin' Stone](https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:08 |
+| 27 | [Rollin' Stone](https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:08 |
+| 28 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 29 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 30 | [Crossroads \- Live](https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [The Cream Of Clapton](https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc) | 4:15 |
 | 31 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 |

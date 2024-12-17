@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5495,
+  "num_followers": 5494,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACKTML1pj1ylxJMeyueaHDS",
+  "snapshot_id": "Z14cAAAAAACFLKA3ZBLC/uN6BiR8eSfj",
   "tracks": [
     {
       "added_at": null,
@@ -683,34 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, The Rascals",
-        "url": "https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
         {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        },
-        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Jody Fontaine",
-          "url": "https://open.spotify.com/artist/0Os9vXfT92P7eqdqDii0f0"
-        },
-        {
-          "name": "Michael Sneed",
-          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
-        },
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
         }
       ],
-      "duration_ms": 262221,
-      "name": "Oliver (feat. AG Club, Jody Fontaine, P-Lo, Michael Sneed)",
-      "url": "https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM"
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -739,18 +723,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+        "name": "Love, The Rascals",
+        "url": "https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E"
       },
       "artists": [
         {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        },
+        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Jody Fontaine",
+          "url": "https://open.spotify.com/artist/0Os9vXfT92P7eqdqDii0f0"
+        },
+        {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
         }
       ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
+      "duration_ms": 262221,
+      "name": "Oliver (feat. AG Club, Jody Fontaine, P-Lo, Michael Sneed)",
+      "url": "https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 221287,
       "name": "Boy (feat. P-Lo)",
       "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caught In The Funk",
-        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
-      },
-      "artists": [
-        {
-          "name": "Dezzy Hollow",
-          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 120153,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 144060,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caught In The Funk",
+        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
+      },
+      "artists": [
+        {
+          "name": "Dezzy Hollow",
+          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 120153,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
     },
     {
       "added_at": null,
@@ -1115,18 +1115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
       "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     }
   ],
   "unique_name": "This Is P-Lo",

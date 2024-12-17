@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 43 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 |
 | 44 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
 | 45 | [Jacuzzi](https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Jacuzzi](https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6) | 2:02 |
-| 46 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 |
-| 47 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 46 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 47 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 |
 | 48 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
 | 49 | [Crybaby](https://open.spotify.com/track/27F4VM8xaqFeJ2C6n9D6kv) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/1b1Y7SyrrrB9aExenixvyW) | 3:00 |
 | 50 | [Simple](https://open.spotify.com/track/1faJyWGSpckvsMnyr2QJFs) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Simple](https://open.spotify.com/album/4KDLdM2hHAGb57QMR8DJQr) | 3:07 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 55 | [Slow Motion](https://open.spotify.com/track/0hCXYFry9nmwIH2eoEXmWU) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3BZ3lPJRN9DioJJrLttxQS) | 3:01 |
 | 56 | [Everyone Hurts](https://open.spotify.com/track/4684BKYqC3TVInNVrqQOCx) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [I Found You EP](https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin) | 3:25 |
 | 57 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
-| 58 | [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 |
-| 59 | [Glasheen Road](https://open.spotify.com/track/50Y6DDQlOLdVOFHIktJBgw) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 3:20 |
+| 58 | [Glasheen Road](https://open.spotify.com/track/50Y6DDQlOLdVOFHIktJBgw) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Maybe It Was All For This](https://open.spotify.com/album/64nxWU5wIxftHZFIqqb3Ui) | 3:20 |
+| 59 | [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 |
 | 60 | [Ordinary Love](https://open.spotify.com/track/02SGUjIZ98nO02FSoYIHMt) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Ordinary Love](https://open.spotify.com/album/4pXKnSILEa947eFcZBilbB) | 3:40 |
 | 61 | [Fall So Easy](https://open.spotify.com/track/0luP4uMdiFgBaOEBNC8cEl) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elkin](https://open.spotify.com/artist/4emwUTOdG3XWavS57kZhgn) | [Fall So Easy](https://open.spotify.com/album/0URTcjVa6Fdohlq4NaAxMs) | 3:22 |
 | 62 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 63 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AbkPaAAAAAC8n+C7ajoE29Obw3AuqPw6`
+Snapshot ID: `AbkU9AAAAADAz+N19+w9q3KG9/p2U3uH`

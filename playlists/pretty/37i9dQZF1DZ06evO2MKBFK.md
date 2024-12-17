@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,585 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,688 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 34 | [Intro \(Alive\)](https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 0:47 |
 | 35 | [We belong together](https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BigBang First Single](https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K) | 3:58 |
 | 36 | [Always \- Japanese Version](https://open.spotify.com/track/06NMu4JoNGm61R4y2k53hR) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:55 |
-| 37 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
-| 38 | [Top Of The World](https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:00 |
+| 37 | [Top Of The World](https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:00 |
+| 38 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
 | 39 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 40 | [Ms.LIAR](https://open.spotify.com/track/5crgHI4qrCm8ayPms3EGhS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:54 |
 | 41 | [Somebody To Love](https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 50 | [Ego](https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:25 |
 | 51 | [SUPER STAR \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 4:04 |
 
-Snapshot ID: `Z1zKgAAAAAAmNOFI2783zKVbjZcSFTWd`
+Snapshot ID: `Z14cAAAAAACbeBwW260UTZGyrcdhgun2`

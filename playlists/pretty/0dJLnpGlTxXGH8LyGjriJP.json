@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAAD3qaQCClRUbirW0LyGGMzDD4eMePq",
+  "snapshot_id": "AAAD3z/OS+GymyTl/q46PaORgWg6OfMA",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -15379,6 +15379,26 @@
       "duration_ms": 176720,
       "name": "WHO? WHAT!",
       "url": "https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq"
+    },
+    {
+      "added_at": "2024-12-16 23:45:02",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

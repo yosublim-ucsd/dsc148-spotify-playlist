@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-92 songs - 4 hr 47 min
+93 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [tired of california](https://open.spotify.com/track/2SOhUiyKpnlshR3SFh733w) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:10 | 2024-09-17 |  |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2024-09-17 |  |
 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 | 2024-09-17 |  |
+| [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-16 |  |
 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 | 2024-09-17 |  |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2024-09-17 |  |
 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 | 2024-09-17 |  |

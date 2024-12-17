@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 34740,
+  "num_followers": 34822,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABcascq5lTJ2jvZwu+gfsdp",
+  "snapshot_id": "Z14cAAAAAABofyGRcGWhkpeqD1sSwkwV",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
       "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
+      "duration_ms": 93413,
+      "name": "High as Sh!T",
+      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
       "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 93413,
-      "name": "High as Sh!T",
-      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
+      "duration_ms": 178285,
+      "name": "Stunt",
+      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
     },
     {
       "added_at": null,

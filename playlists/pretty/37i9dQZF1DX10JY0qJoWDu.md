@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,045 likes - 128 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,479 likes - 128 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

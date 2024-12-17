@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 1306154,
+  "num_followers": 1306130,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
@@ -271,30 +271,6 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
-        "name": "Somedays",
-        "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 207168,
-      "name": "Somedays",
-      "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2024-12-09 05:35:55",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-12-09 05:35:55",
+      "album": {
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 207168,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
     },
     {
       "added_at": "2024-12-09 05:35:55",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2024-12-09 05:35:55",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -851,22 +871,18 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2024-12-09 05:35:55",
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2024-12-09 05:35:55",
@@ -923,22 +939,6 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2024-12-09 05:35:55",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2024-12-09 05:35:55",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2024-12-09 05:35:55",
+      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
-    },
-    {
-      "added_at": "2024-12-09 05:35:55",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2024-12-09 05:35:55",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2024-12-09 05:35:55",
       "album": {
-        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+        "name": "Starving",
+        "url": "https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I"
       },
       "artists": [
         {
@@ -1260,21 +1260,17 @@
           "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         },
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "WATT",
-          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+      "duration_ms": 181880,
+      "name": "Starving",
+      "url": "https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22"
     },
     {
       "added_at": "2024-12-09 05:35:55",

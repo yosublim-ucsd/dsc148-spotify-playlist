@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 519459,
+  "num_followers": 519503,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/2AjZTnEAqzCv6S9yt8ptwL"
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
       },
       "artists": [
         {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 251306,
-      "name": "If Ever You're in My Arms Again",
-      "url": "https://open.spotify.com/track/6zWSB11sqCRMTAuWYkccCt"
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2023-08-09 10:52:35",

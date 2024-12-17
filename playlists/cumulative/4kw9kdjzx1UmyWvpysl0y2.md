@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-881 songs - 2 day 2 hr 8 min
+882 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Ready Now](https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ary kemler](https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69) | [Ready Now](https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU) | 3:21 | 2024-08-07 | 2024-10-26 |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 | 2024-09-21 |
+| [real 4 me \- VIP](https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:51 | 2024-12-16 |  |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 | 2024-08-22 | 2024-11-14 |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |

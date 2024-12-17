@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415,718 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415,992 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 72 | [Winterdreams](https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 4:52 |
 | 73 | [Forever](https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP) | 3:52 |
 | 74 | [Still Of The Night](https://open.spotify.com/track/4TDpf3g3PUl7fzHXuL2UUY) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Here I Go Again: The Whitesnake Collection](https://open.spotify.com/album/2blYrXKaFgwCjI3PbNCfI6) | 6:40 |
-| 75 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
-| 76 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
+| 75 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
+| 76 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
 | 77 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
 | 78 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
 | 79 | [Oasis](https://open.spotify.com/track/5hGoIsMmOwF3EsDpp4nwws) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [My Winter Storm](https://open.spotify.com/album/7h7xwQXMKVhUvVb36CeVZd) | 5:10 |
 | 80 | [I Still Love You](https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(Remastered Version\)](https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe) | 6:06 |
 | 81 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
-| 82 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
-| 83 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
+| 82 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
+| 83 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
 | 84 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
 | 85 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 | 86 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 88 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
 | 89 | [Miss You](https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [Golgotha](https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q) | 7:41 |
 | 90 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
-| 91 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
-| 92 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
-| 93 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
+| 91 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
+| 92 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
+| 93 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
 | 94 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
 | 95 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
-| 96 | [The Unforgiven](https://open.spotify.com/track/0BAjUM6V9P9g8rK83hVUTJ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH) | 6:26 |
-| 97 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
+| 96 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
+| 97 | [The Unforgiven](https://open.spotify.com/track/0BAjUM6V9P9g8rK83hVUTJ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH) | 6:26 |
 | 98 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
-| 99 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
-| 100 | [House Of Broken Love](https://open.spotify.com/track/0tFscEe2fMwsHflVPsyaAD) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:58 |
+| 99 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 |
+| 100 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
 
 Snapshot ID: `ZmcjJwAAAACaG+PnBEqVOTdwoGYgWfXt`

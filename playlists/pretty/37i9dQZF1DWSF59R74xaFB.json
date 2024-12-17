@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 537899,
+  "num_followers": 537945,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 192760,
       "name": "Eres para M\u00ed (with Anita Tijoux)",
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
+      "duration_ms": 194386,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 194386,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Dios Te Cuide",
-        "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Dios Te Cuide",
-      "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Dios Te Cuide",
+        "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 198947,
+      "name": "Dios Te Cuide",
+      "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
     },
     {
       "added_at": "2024-12-13 06:00:12",

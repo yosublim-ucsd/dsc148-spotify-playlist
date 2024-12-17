@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,238 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,387 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 30 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
 | 31 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 32 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
-| 33 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
-| 34 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 |
+| 33 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 |
+| 34 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 35 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 36 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
 | 37 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
 | 38 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
 | 39 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 40 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
-| 41 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
-| 42 | [Unconditional](https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:09 |
-| 43 | [Pulsar](https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Pulsar](https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB) | 4:13 |
+| 41 | [Pulsar](https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Pulsar](https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB) | 4:13 |
+| 42 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
+| 43 | [Unconditional](https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:09 |
 | 44 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 45 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 |
 | 46 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 71 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 |
 | 72 | [Drifting Out](https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:39 |
 | 73 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 |
-| 74 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
-| 75 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 |
+| 74 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 |
+| 75 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
 | 76 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
 | 77 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 |
 | 78 | [Thin Line](https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Duncan Bellamy](https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:18 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 86 | [Ooh La La](https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ooh La La](https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey) | 3:48 |
 | 87 | [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 |
 | 88 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 |
-| 89 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 |
-| 90 | [Sinking](https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4) | [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Srigala](https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a) | [Sinking](https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ) | 3:12 |
+| 89 | [Sinking](https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4) | [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Srigala](https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a) | [Sinking](https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ) | 3:12 |
+| 90 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 |
 | 91 | [Fast Car](https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Feel The Pain / Fast Car](https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I) | 3:18 |
 | 92 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
 | 93 | [NOBODY WANTS TO BE MY FRIEND](https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM) | [Could Ever](https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck) | [SCARY WORLD](https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek) | 1:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 96 | [Peace](https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 3:41 |
 | 97 | [I Love Vertigo](https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Ludi](https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA) | 2:26 |
 | 98 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 |
-| 99 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 |
-| 100 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 |
+| 99 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 |
+| 100 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 |
 
 Snapshot ID: `ZxqsZwAAAADNBi2wXuMW7PO37vSL21sI`

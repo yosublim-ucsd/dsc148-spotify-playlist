@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,343 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,418 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 36 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
 | 37 | [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
 | 38 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 |
-| 39 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
-| 40 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
+| 39 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
+| 40 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
 | 41 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 42 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
 | 43 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,452 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,932 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
-| 2 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 3 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
+| 2 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
+| 3 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 4 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
 | 5 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 6 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 37 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 |
 | 38 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 39 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
-| 40 | [Somebody Should Kiss You](https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:12 |
-| 41 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 |
+| 40 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 |
+| 41 | [Somebody Should Kiss You](https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:12 |
 | 42 | [What's Going On](https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What's Going On](https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N) | 3:49 |
 | 43 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
 | 44 | [Rivers](https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Rivers](https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 50 | [Night Off](https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Night Off](https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW) | 3:22 |
 | 51 | [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 |
 
-Snapshot ID: `Z1zKgAAAAABdn3t7zBsVXisYbSycBIbh`
+Snapshot ID: `Z14cAAAAAAAdR/DmLMZfOluHX/YujcH/`

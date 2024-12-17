@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 13708,
+  "num_followers": 13721,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "Mondays",
-        "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Mafeni",
-          "url": "https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs"
-        }
-      ],
-      "duration_ms": 134295,
-      "name": "Mondays",
-      "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
         "name": "Wuse II (feat. Odunsi)",
         "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 269552,
       "name": "Wuse II",
       "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
+        "name": "Mondays",
+        "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Mafeni",
+          "url": "https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs"
+        }
+      ],
+      "duration_ms": 134295,
+      "name": "Mondays",
+      "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
     },
     {
       "added_at": "2024-10-04 06:08:12",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
-      },
-      "artists": [
-        {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

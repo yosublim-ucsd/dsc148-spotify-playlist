@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| SoundCloud mix series: Bassline Therapy Radio
 
-460 songs - 1 day 0 hr 5 min
+461 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Feel My Love](https://open.spotify.com/track/4FgNZXXOcT2GY92GrhLRrP) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [Feel My Love](https://open.spotify.com/album/4SU8ZsYK5gOJAlygOrMIPC) | 2:42 | 2024-02-05 | 2024-06-24 |
 | [Feelin' Myself](https://open.spotify.com/track/3OpP6mJJtrLHqAQrgYA672) | [Needs No Sleep](https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Feelin' Myself](https://open.spotify.com/album/5TOsLNc6UqueENDYvsLOMa) | 3:05 | 2024-01-08 | 2024-01-22 |
 | [Feeling High](https://open.spotify.com/track/4TKzWp7YHVVl5VXPovyFuH) | [Nitozzz](https://open.spotify.com/artist/03YgWwiAQsIUPtJXf569bN), [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Feeling High](https://open.spotify.com/album/6S7palTtlVUZCwxx4A5gU9) | 4:36 | 2024-06-23 | 2024-08-20 |
-| [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 | 2024-12-15 |  |
+| [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 | 2024-12-15 | 2024-12-17 |
 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 | 2024-10-12 | 2024-10-29 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-12-31 | 2024-01-16 |
 | [Flashback](https://open.spotify.com/track/2d3vtVLP3W2wXyEAesKzSE) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Flashback](https://open.spotify.com/album/3BXjAdQa6gdl3QM0YK7E2N) | 3:34 | 2024-01-15 | 2024-01-30 |
@@ -267,6 +267,7 @@
 | [MUSIC IS OUR LIFE](https://open.spotify.com/track/0aJ7g4vz8WZfZIwaFsnj0F) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [MUSIC IS OUR LIFE](https://open.spotify.com/album/19CGMQC943jlQemDizvvtm) | 3:39 | 2024-10-05 | 2024-11-19 |
 | [My Mind Goes](https://open.spotify.com/track/0pQH0RAa8jBckVs3Z0TgI3) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc) | [My Mind Goes](https://open.spotify.com/album/28GkMNhR9uL30WSnZUpBOR) | 2:50 | 2024-09-16 | 2024-10-29 |
 | [My Room](https://open.spotify.com/track/4qFjNzANNzqXpgJefFEfXT) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [My Room](https://open.spotify.com/album/0qpGs8a9Y87qeXzj7qLDa4) | 2:29 | 2024-01-21 | 2024-02-06 |
+| [MY TYPE](https://open.spotify.com/track/0NEgkALTriBpIiuCAXWfuS) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [MY TYPE](https://open.spotify.com/album/0QzG8T7TedFy2nt1B2ZNAK) | 2:18 | 2024-12-16 |  |
 | [Nasty](https://open.spotify.com/track/5Nl0ItwBPIHI4veRFJUoZH) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Nasty](https://open.spotify.com/album/49W2Pw7Ar8pu0Gq9g6Jpu6) | 3:19 | 2024-10-19 |  |
 | [NASTY](https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Fya Man](https://open.spotify.com/artist/644ezI82brXn85lO9kI6ab) | [NASTY](https://open.spotify.com/album/6K2vReL8woto0ZMhUF1P0B) | 2:50 | 2024-11-04 |  |
 | [Nasty Sh!T](https://open.spotify.com/track/4YjSVUUgIOim8IDe6IsQyp) | [Curlyheads](https://open.spotify.com/artist/1jPQ8rMD8Yd8tRh48ortFZ) | [Nasty Sh!T](https://open.spotify.com/album/1XUO844eqBCitExHkOJAgk) | 3:37 | 2024-02-05 | 2024-06-24 |

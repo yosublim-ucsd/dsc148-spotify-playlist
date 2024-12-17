@@ -1,6 +1,6 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 105430,
+  "num_followers": 105470,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
         }
       ],
-      "duration_ms": 269600,
-      "name": "Give It Up or Let Me Go - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
       "artists": [
         {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
+      "duration_ms": 269600,
+      "name": "Give It Up or Let Me Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Second Winter",
-        "url": "https://open.spotify.com/album/0OBEzklToS8HeuRBnhVL4J"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/3VwLsRwunJcp66qo9DrUDm"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177026,
       "name": "My Heart Beat Like a Hammer",
       "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Second Winter",
+        "url": "https://open.spotify.com/album/0OBEzklToS8HeuRBnhVL4J"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 307253,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/3VwLsRwunJcp66qo9DrUDm"
     },
     {
       "added_at": "2024-06-04 07:19:26",

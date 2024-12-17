@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,406 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,408 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 41 | [Broken High Heels](https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:48 |
 | 42 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 |
 | 43 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
-| 44 | [No Heart At All](https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:17 |
+| 44 | [Give God The Blues](https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:47 |
 | 45 | [Wine O'Clock](https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:03 |
 | 46 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
 | 47 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
-| 48 | [Give God The Blues](https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:47 |
+| 48 | [No Heart At All](https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:17 |
 | 49 | [Is There Anybody Up There?](https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:44 |
 | 50 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
 
-Snapshot ID: `Z1zKgAAAAADG9FqBMXG6GSWV7xqj9S15`
+Snapshot ID: `Z14cAAAAAADrIndxygHSRBQIY+W8FvfY`

@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 153931,
+  "num_followers": 153941,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "No Fixed Abode",
         "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 74303,
       "name": "you up?",
       "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Don't Wanna Know (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Don't Wanna Know (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/0W0vF3I0amUEMT05E83lmz"
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
       },
       "artists": [
         {
-          "name": "NAKED KOALA",
-          "url": "https://open.spotify.com/artist/5FUdTISe2JvTPPDaUwVqHe"
-        },
-        {
-          "name": "Olaf Blackwood",
-          "url": "https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp"
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
         }
       ],
-      "duration_ms": 173944,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/6PspLxCglJJH7bu14CZf4T"
+      "duration_ms": 236562,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Cali",
-        "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/0W0vF3I0amUEMT05E83lmz"
       },
       "artists": [
         {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+          "name": "NAKED KOALA",
+          "url": "https://open.spotify.com/artist/5FUdTISe2JvTPPDaUwVqHe"
+        },
+        {
+          "name": "Olaf Blackwood",
+          "url": "https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp"
         }
       ],
-      "duration_ms": 236562,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz"
+      "duration_ms": 173944,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6PspLxCglJJH7bu14CZf4T"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Fall Away Into Place",
-        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
-      },
-      "artists": [
-        {
-          "name": "Sille Nilsson",
-          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 174333,
       "name": "Blind You",
       "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Fall Away Into Place",
+        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
+      },
+      "artists": [
+        {
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Stop By Now",
+        "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
+      },
+      "artists": [
+        {
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Stop By Now",
+      "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Lying To Myself",
         "url": "https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 210473,
       "name": "Lying To Myself",
       "url": "https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Make Me Like You",
-        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Make Me Like You",
-      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
     }
   ],
   "unique_name": "ren hygge",

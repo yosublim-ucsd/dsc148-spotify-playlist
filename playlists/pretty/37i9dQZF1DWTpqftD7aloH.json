@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 390379,
+  "num_followers": 390672,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T"
-      },
-      "artists": [
-        {
-          "name": "Incendi\u00e1rios",
-          "url": "https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 471285,
-      "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Algo Novo (feat. Lukas Agustinho) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 408132,
       "name": "Algo Novo (feat. Lukas Agustinho) - Ao Vivo",
       "url": "https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T"
+      },
+      "artists": [
+        {
+          "name": "Incendi\u00e1rios",
+          "url": "https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 471285,
+      "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Grande \u00c9 O Meu Deus",
-        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 325533,
-      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
-      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Escape / Nunca Pare de Lutar",
         "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+        "name": "Grande \u00c9 O Meu Deus",
+        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
         }
       ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
+      "duration_ms": 325533,
+      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
+      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -523,6 +507,22 @@
       "duration_ms": 337840,
       "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "O Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Yeshua (Ao Vivo)",
         "url": "https://open.spotify.com/album/0FwcDAqBcPazI0Y28RHXrc"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 497683,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/3rT4pjQiuQc4TbmffBEecq"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "D\u00e1-Me Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/4xKzv7U3nkzG6JoA3q36NB"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 638561,
       "name": "D\u00e1-Me Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5wD1ENJDK5tDWsjqKZwpYk"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "O Centro \u00c9s Tu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 345041,
+      "name": "O Centro \u00c9s Tu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Eu Tenho um Pai",
         "url": "https://open.spotify.com/album/6vuQGR2TDY2u1pUPQdKSkV"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 279360,
       "name": "Eu Tenho um Pai",
       "url": "https://open.spotify.com/track/0a0h6tLDv7tDUaL4EsQIV4"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "O Centro \u00c9s Tu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 345041,
-      "name": "O Centro \u00c9s Tu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
         "name": "Jesus Em Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 255285,
       "name": "J\u00e1 Venci",
       "url": "https://open.spotify.com/track/0UfVSKatijzq6kluKkfRid"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     },
     {
       "added_at": "2024-12-13 16:42:11",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2024-12-13 16:42:11",
       "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
-    },
-    {
-      "added_at": "2024-12-13 16:42:11",
-      "album": {
         "name": "Gratid\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 357954,
       "name": "Gerado no Altar (Ao Vivo)",
       "url": "https://open.spotify.com/track/5URQ1xSOkuIhyP9jjd4tXk"
+    },
+    {
+      "added_at": "2024-12-13 16:42:11",
+      "album": {
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": "2024-12-13 16:42:11",

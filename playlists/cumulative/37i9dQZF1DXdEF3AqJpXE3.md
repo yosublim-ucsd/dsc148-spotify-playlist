@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: ROSÉ
+> The best tracks from the world of music\. Cover: Regina Song
 
 335 songs - 17 hr 59 min
 

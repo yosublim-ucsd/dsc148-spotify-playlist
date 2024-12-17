@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,280 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,326 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 39 | [Missing My Baby](https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:13 |
 | 40 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
 | 41 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
-| 42 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
-| 43 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
+| 42 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
+| 43 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 44 | [Siempre](https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
 | 45 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [For You](https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH) | 4:13 |
 | 46 | [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 49 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 |
 | 50 | [Dulce Amor](https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
 
-Snapshot ID: `Z1zKgAAAAADb79QGE59y0FqCtKVxYBqW`
+Snapshot ID: `Z14cAAAAAACut5nRNYeCFGLm13uM5Kk6`

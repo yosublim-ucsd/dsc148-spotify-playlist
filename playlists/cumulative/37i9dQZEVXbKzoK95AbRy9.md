@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-341 songs - 17 hr 37 min
+342 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 | 2024-10-18 |  |
 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:55 | 2024-02-02 | 2024-05-25 |
 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 | 2024-01-26 | 2024-03-30 |
-| [Banquinho \- Ao Vivo](https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Banquinho \(Ao Vivo\)](https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl) | 2:38 | 2024-12-13 |  |
+| [Banquinho \- Ao Vivo](https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Banquinho \(Ao Vivo\)](https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl) | 2:38 | 2024-12-13 | 2024-12-17 |
+| [Banquinho \- Ao Vivo](https://open.spotify.com/track/1sZDpNDBC4VUUKiVrJ6lBe) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Sertanejo As Estouradas](https://open.spotify.com/album/7LkQLbECvEVhchNrbWgMFk) | 2:38 | 2024-12-13 |  |
 | [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 | 2024-10-25 |  |
 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 | 2024-01-26 | 2024-08-10 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-12 | 2024-05-18 |

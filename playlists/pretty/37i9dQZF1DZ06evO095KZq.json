@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 438494,
+  "num_followers": 438523,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABA1/nM83q0yyFlh3s2AFlV",
+  "snapshot_id": "Z14cAAAAAAA1dLdnkdattDE7JNEn8RfX",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 168425,
       "name": "En El Camino",
       "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "Gu\u00e1rdame Esta Noche",
-      "url": "https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 198814,
       "name": "El Nano - Versi\u00f3n Estudio",
       "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "Gu\u00e1rdame Esta Noche",
+      "url": "https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chavo",
         "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 226101,
       "name": "El Chavo",
       "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Exitoso",
-        "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 222270,
-      "name": "El Exitoso",
-      "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
     },
     {
       "added_at": null,

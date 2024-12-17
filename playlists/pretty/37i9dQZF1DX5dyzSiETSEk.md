@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,807 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,773 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 3 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
 | 4 | [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 |
 | 5 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
-| 6 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
-| 7 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
+| 6 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
+| 7 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 8 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 9 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
 | 10 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 54 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 55 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 56 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
-| 57 | [Life Is Sweeter](https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB) | [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:38 |
-| 58 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 |
+| 57 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 |
+| 58 | [Life Is Sweeter](https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB) | [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:38 |
 | 59 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 60 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 61 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 |

@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 166285,
       "name": "For My Sake",
       "url": "https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE"
@@ -1792,6 +1792,40 @@
       "duration_ms": 208695,
       "name": "YKTFV (You Know The Fvcking Vibe)",
       "url": "https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf"
+    },
+    {
+      "album": {
+        "name": "Year of the Underdogs",
+        "url": "https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p"
+      },
+      "artists": [
+        {
+          "name": "Cash'N'Out",
+          "url": "https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV"
+        },
+        {
+          "name": "Kabex",
+          "url": "https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU"
+        },
+        {
+          "name": "Idowest",
+          "url": "https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB"
+        },
+        {
+          "name": "TROD",
+          "url": "https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1"
+        },
+        {
+          "name": "DJ OBI",
+          "url": "https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "YOTU Cypher",
+      "url": "https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE"

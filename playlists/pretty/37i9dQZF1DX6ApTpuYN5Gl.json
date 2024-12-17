@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243961,
+  "num_followers": 243952,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 192896,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Summer Someday",
-        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
-      },
-      "artists": [
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -843,22 +843,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "New Fires",
-        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+        "name": "Felt A Little Like",
+        "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
         }
       ],
-      "duration_ms": 251591,
-      "name": "New Fires",
-      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+      "duration_ms": 217036,
+      "name": "Felt A Little Like",
+      "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -883,26 +887,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Felt A Little Like",
-        "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
+        "name": "New Fires",
+        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
       "artists": [
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         },
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 217036,
-      "name": "Felt A Little Like",
-      "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
+      "duration_ms": 251591,
+      "name": "New Fires",
+      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 247730,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Slipstream (feat. Julia Church)",
         "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
@@ -1007,6 +987,30 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "People Help the People",
+        "url": "https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 157298,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12"
     }
   ],
   "unique_name": "melancholia",

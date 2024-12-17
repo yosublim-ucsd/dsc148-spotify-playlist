@@ -1,13 +1,33 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 641707,
+  "num_followers": 641674,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyxqKgAAAADmAlpWb8p6Rb3Yvdvz0iNc",
+  "snapshot_id": "Z2DlwQAAAABVyGBbvRcJjKQaAkD4o00u",
   "tracks": [
+    {
+      "added_at": "2024-12-17 02:45:21",
+      "album": {
+        "name": "Fraktsiya",
+        "url": "https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Fraktsiya",
+      "url": "https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E"
+    },
     {
       "added_at": "2024-11-07 07:20:10",
       "album": {

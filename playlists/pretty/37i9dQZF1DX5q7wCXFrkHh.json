@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 110688,
+  "num_followers": 110766,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 442440,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 442440,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Count 'Em 88",
-        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
+        "name": "The Ellington Suites",
+        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Volga Boatman",
-      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
+      "duration_ms": 244933,
+      "name": "The Single Petal Of A Rose - The Queen's Suite",
+      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Ellington Suites",
-        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+        "name": "Count 'Em 88",
+        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 244933,
-      "name": "The Single Petal Of A Rose - The Queen's Suite",
-      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
+      "duration_ms": 232506,
+      "name": "Volga Boatman",
+      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+        "name": "Dave Brubeck's Greatest Hits",
+        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
         }
       ],
-      "duration_ms": 289226,
-      "name": "You Look Good To Me",
-      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
+      "duration_ms": 179333,
+      "name": "I'm in a Dancing Mood",
+      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Dave Brubeck's Greatest Hits",
-        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 179333,
-      "name": "I'm in a Dancing Mood",
-      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
+      "duration_ms": 289226,
+      "name": "You Look Good To Me",
+      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Trio And Quintet",
-        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
-      },
-      "artists": [
-        {
-          "name": "Elmo Hope Trio",
-          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Trio And Quintet",
+        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
+      },
+      "artists": [
+        {
+          "name": "Elmo Hope Trio",
+          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 378426,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Piano Starts Here",
         "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 147333,
       "name": "Theme From \"Mr. Broadway\"",
       "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 378426,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
-        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
       "artists": [
         {
-          "name": "James P. Johnson",
-          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 238840,
-      "name": "Blue Note Boogie",
-      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
+        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "James P. Johnson",
+          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+      "duration_ms": 238840,
+      "name": "Blue Note Boogie",
+      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 374093,
       "name": "A Blue Time",
       "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Tiger Rag",
-      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 308573,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
     },
     {
       "added_at": "2024-07-08 06:57:40",

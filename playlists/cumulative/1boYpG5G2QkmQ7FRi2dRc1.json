@@ -5728,6 +5728,24 @@
     {
       "album": {
         "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr"
+    },
+    {
+      "album": {
+        "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/78MlmcHVW0a6A8pshOZ3rd"
       },
       "artists": [
@@ -15214,6 +15232,24 @@
       "duration_ms": 343413,
       "name": "Highly Recommended",
       "url": "https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/7zzq5fe5RxidA8L36MuaCy"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6jUdm6vlTbiqEuzCcCkEoq"
     },
     {
       "album": {
@@ -26500,6 +26536,28 @@
       "duration_ms": 215039,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6GWdR96BUJt7g1Y9kJcGfd"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3VY0mErp4L6ZsufkFl9DSw"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Romeo Blanco",
+          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204921,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4LKSa6eS413HVzxnZeJV3P"
     },
     {
       "album": {

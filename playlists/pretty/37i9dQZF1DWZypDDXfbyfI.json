@@ -1,6 +1,6 @@
 {
   "description": "\u00c9xitos de todos los tiempos musicalizan tu cocina.",
-  "num_followers": 261402,
+  "num_followers": 261487,
   "original_name": "Cocina de cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Paint It, Black",
-      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -271,6 +255,22 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Wake Me up When September Ends",
-      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Gorillaz",
         "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 340920,
       "name": "Clint Eastwood",
       "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Comeblack",
         "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 403453,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "All Night Long (All Night) - Single Version",
-      "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
     },
     {
       "added_at": "2024-03-25 14:03:49",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-25 14:03:49",
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
-    },
-    {
-      "added_at": "2024-03-25 14:03:49",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 232666,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+    },
+    {
+      "added_at": "2024-03-25 14:03:49",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
     },
     {
       "added_at": "2024-03-25 14:03:49",

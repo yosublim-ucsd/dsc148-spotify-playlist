@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,567 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,583 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 41 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
 | 42 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 |
 | 43 | [Plegarias](https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:18 |
-| 44 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
-| 45 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
+| 44 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
+| 45 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 46 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 |
 | 47 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 |
 | 48 | [PIRLO](https://open.spotify.com/track/5NXGXxxSsJo2HBZC1brxj4) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:43 |

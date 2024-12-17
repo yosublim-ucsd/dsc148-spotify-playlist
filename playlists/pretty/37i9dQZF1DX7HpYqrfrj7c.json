@@ -1,13 +1,29 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to keep the vibes chill. \n",
-  "num_followers": 22257,
+  "num_followers": 22369,
   "original_name": "Boom Bap Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzTxwwAAAAAeQt7VNAWpmFf9lOGeTKpS",
+  "snapshot_id": "Z2BlYwAAAACpzeKt8vajMVajFSsvTqQR",
   "tracks": [
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "tenacity",
+        "url": "https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx"
+      },
+      "artists": [
+        {
+          "name": "barry straw",
+          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "tenacity",
+      "url": "https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk"
+    },
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
@@ -199,22 +215,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "tenacity",
-        "url": "https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx"
-      },
-      "artists": [
-        {
-          "name": "barry straw",
-          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "tenacity",
-      "url": "https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq"
       },
@@ -399,34 +399,166 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "apple pie",
-        "url": "https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO"
+        "name": "Basement Boom",
+        "url": "https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy"
       },
       "artists": [
         {
-          "name": "wildflower waltz",
-          "url": "https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp"
+          "name": "Beatmaschine",
+          "url": "https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi"
         }
       ],
-      "duration_ms": 76363,
-      "name": "apple pie",
-      "url": "https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU"
+      "duration_ms": 206511,
+      "name": "Underground's My Style",
+      "url": "https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef"
     },
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "Fadi Ammous (Instrumental)",
-        "url": "https://open.spotify.com/album/6p5fIROdQYBdpKM5httoSk"
+        "name": "Ills of the Earth",
+        "url": "https://open.spotify.com/album/7lc43Wd0bsY6agW6UIbDH2"
       },
       "artists": [
         {
-          "name": "Figub Brazlevic",
-          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+          "name": "Peebs The Prophet",
+          "url": "https://open.spotify.com/artist/3orf8fIyCMlFkLUeYK0DCi"
         }
       ],
-      "duration_ms": 183792,
-      "name": "Fadi Ammous - Instrumental",
-      "url": "https://open.spotify.com/track/6Wq4158Y2nsVntQKToQnyG"
+      "duration_ms": 229090,
+      "name": "Ruthles - Instrumental",
+      "url": "https://open.spotify.com/track/5ZaZyV92QlH2wGLWLbLfuK"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/5V4S34m3yD3KGoiTEzrKmu"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 138045,
+      "name": "Meteora",
+      "url": "https://open.spotify.com/track/40TYtRpNh71p9XOZGuZMKG"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "One Man Band",
+        "url": "https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2"
+      },
+      "artists": [
+        {
+          "name": "K-DEF",
+          "url": "https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "Blind Bat",
+      "url": "https://open.spotify.com/track/4ZiN3nmZEfWQhGdKWYZjhn"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Mosaic Mist",
+        "url": "https://open.spotify.com/album/6qjWu9w6N2STNKXvJHPllN"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Muddy Milk Crates",
+      "url": "https://open.spotify.com/track/7kKX5i4VMksreVFcG6BXQH"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The All Boom",
+        "url": "https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0"
+      },
+      "artists": [
+        {
+          "name": "The Cancel",
+          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
+        },
+        {
+          "name": "DJ Shon",
+          "url": "https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY"
+    },
+    {
+      "added_at": "2024-07-04 17:38:47",
+      "album": {
+        "name": "Glasklar",
+        "url": "https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "duration_ms": 101647,
+      "name": "Coolidge - Bonus Instrumental",
+      "url": "https://open.spotify.com/track/5qUuC5Om5JOLAXftkf7VBl"
+    },
+    {
+      "added_at": "2024-11-13 18:36:50",
+      "album": {
+        "name": "Aspas",
+        "url": "https://open.spotify.com/album/1co5kKp9zITSEMIr4sdYHC"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Aspas",
+      "url": "https://open.spotify.com/track/5b2isDzu4jC6Yk1EJxcRGm"
+    },
+    {
+      "added_at": "2024-08-14 17:43:09",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/28v6wAkRaAi0FNOaqsPAzi"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Rather Unique",
+      "url": "https://open.spotify.com/track/3Ot1hQQbfRh4Z6wCJuXo7Q"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/3rJ3Rrldd9soQRiKF4zpGt"
+      },
+      "artists": [
+        {
+          "name": "Avenue Arts",
+          "url": "https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/1MQ7XNkCW4oWgaitHhqNT6"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -451,34 +583,18 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/3rJ3Rrldd9soQRiKF4zpGt"
+        "name": "Fadi Ammous (Instrumental)",
+        "url": "https://open.spotify.com/album/6p5fIROdQYBdpKM5httoSk"
       },
       "artists": [
         {
-          "name": "Avenue Arts",
-          "url": "https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl"
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/1MQ7XNkCW4oWgaitHhqNT6"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "10 Years of Thes One",
-        "url": "https://open.spotify.com/album/623wsoLB2FtwXyV6dWY9R6"
-      },
-      "artists": [
-        {
-          "name": "Thes One",
-          "url": "https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG"
-        }
-      ],
-      "duration_ms": 230922,
-      "name": "San Francisco Knights (Instrumental)",
-      "url": "https://open.spotify.com/track/31xZVD02zeo37iR93FRRGv"
+      "duration_ms": 183792,
+      "name": "Fadi Ammous - Instrumental",
+      "url": "https://open.spotify.com/track/6Wq4158Y2nsVntQKToQnyG"
     },
     {
       "added_at": "2024-06-26 14:46:24",
@@ -515,38 +631,6 @@
       "duration_ms": 196374,
       "name": "Flava for Your Mind",
       "url": "https://open.spotify.com/track/3vcxZojZDMdjBEdeWFDr9h"
-    },
-    {
-      "added_at": "2024-08-14 17:43:09",
-      "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/28v6wAkRaAi0FNOaqsPAzi"
-      },
-      "artists": [
-        {
-          "name": "Matt Large",
-          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Rather Unique",
-      "url": "https://open.spotify.com/track/3Ot1hQQbfRh4Z6wCJuXo7Q"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Bizarre Ride II The Pharcyde (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke"
-      },
-      "artists": [
-        {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
-        }
-      ],
-      "duration_ms": 302453,
-      "name": "Passin' Me By - Instrumental",
-      "url": "https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -587,22 +671,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The Elmatic Instrumentals",
-        "url": "https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo"
-      },
-      "artists": [
-        {
-          "name": "Will Sessions",
-          "url": "https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "RIDING AROUND",
         "url": "https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK"
       },
@@ -615,42 +683,6 @@
       "duration_ms": 128869,
       "name": "Look How Pretty Today Is",
       "url": "https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Do You Believe? EP",
-        "url": "https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak"
-      },
-      "artists": [
-        {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Do You Believe? - Instrumental",
-      "url": "https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Foreign Pedestrians",
-        "url": "https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        },
-        {
-          "name": "Jay Stone",
-          "url": "https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI"
-        }
-      ],
-      "duration_ms": 158091,
-      "name": "Cognac - Instrumental",
-      "url": "https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -703,38 +735,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "Basement Boom",
-        "url": "https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy"
-      },
-      "artists": [
-        {
-          "name": "Beatmaschine",
-          "url": "https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Underground's My Style",
-      "url": "https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Labcabincalifornia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
-      },
-      "artists": [
-        {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Bullshit - Instrumental",
-      "url": "https://open.spotify.com/track/7foxmWRpEa1fiYGz7JbAKH"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Singles Eight",
         "url": "https://open.spotify.com/album/0uNQfrzNbhWEtIdcpM5Qrb"
       },
@@ -779,70 +779,6 @@
       "duration_ms": 141501,
       "name": "On the Fritz",
       "url": "https://open.spotify.com/track/7KSe5EwXawbxoMSYqs4pF7"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "In and of Itself (Instrumental)",
-        "url": "https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        }
-      ],
-      "duration_ms": 179821,
-      "name": "Don't U Kno (Instrumental)",
-      "url": "https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Ills of the Earth",
-        "url": "https://open.spotify.com/album/7lc43Wd0bsY6agW6UIbDH2"
-      },
-      "artists": [
-        {
-          "name": "Peebs The Prophet",
-          "url": "https://open.spotify.com/artist/3orf8fIyCMlFkLUeYK0DCi"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Ruthles - Instrumental",
-      "url": "https://open.spotify.com/track/5ZaZyV92QlH2wGLWLbLfuK"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/5V4S34m3yD3KGoiTEzrKmu"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 138045,
-      "name": "Meteora",
-      "url": "https://open.spotify.com/track/40TYtRpNh71p9XOZGuZMKG"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "The SP1200 Project: A Re-Awakening",
-        "url": "https://open.spotify.com/album/6JsylDwCpnODpmaFacekJK"
-      },
-      "artists": [
-        {
-          "name": "Lord Finesse",
-          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Electric Impression",
-      "url": "https://open.spotify.com/track/4Tw2CWFi6qbBZezMBvpUTN"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -893,6 +829,250 @@
       "url": "https://open.spotify.com/track/4GgFRWzP9vAviZhWbd8ZFp"
     },
     {
+      "added_at": "2024-06-26 17:51:19",
+      "album": {
+        "name": "Glasklar",
+        "url": "https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb"
+      },
+      "artists": [
+        {
+          "name": "Retrogott",
+          "url": "https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "The Honeydipper - Bonus Instrumental",
+      "url": "https://open.spotify.com/track/0RtfemNYgGzKUESWJjayOR"
+    },
+    {
+      "added_at": "2024-08-21 20:05:55",
+      "album": {
+        "name": "Without A Doubt",
+        "url": "https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L"
+      },
+      "artists": [
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Without A Doubt - Salaam's Instrumental",
+      "url": "https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Never Stop Rockin'",
+        "url": "https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5"
+      },
+      "artists": [
+        {
+          "name": "Beamic",
+          "url": "https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Never Stop Rockin'",
+      "url": "https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "In and of Itself (Instrumental)",
+        "url": "https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "duration_ms": 179821,
+      "name": "Don't U Kno (Instrumental)",
+      "url": "https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Overnight Oats",
+        "url": "https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 147042,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Halftime EP",
+        "url": "https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Halftime - Instrumental",
+      "url": "https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY"
+    },
+    {
+      "added_at": "2024-08-14 17:43:09",
+      "album": {
+        "name": "Boat Milk",
+        "url": "https://open.spotify.com/album/3u3N27byTbYbzTCygIneSd"
+      },
+      "artists": [
+        {
+          "name": "Jobii",
+          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
+        }
+      ],
+      "duration_ms": 163710,
+      "name": "Boat Milk",
+      "url": "https://open.spotify.com/track/54yuzll85z9HIliCaVBKUC"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "apple pie",
+        "url": "https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO"
+      },
+      "artists": [
+        {
+          "name": "wildflower waltz",
+          "url": "https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp"
+        }
+      ],
+      "duration_ms": 76363,
+      "name": "apple pie",
+      "url": "https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "10 Years of Thes One",
+        "url": "https://open.spotify.com/album/623wsoLB2FtwXyV6dWY9R6"
+      },
+      "artists": [
+        {
+          "name": "Thes One",
+          "url": "https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG"
+        }
+      ],
+      "duration_ms": 230922,
+      "name": "San Francisco Knights (Instrumental)",
+      "url": "https://open.spotify.com/track/31xZVD02zeo37iR93FRRGv"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "duration_ms": 302453,
+      "name": "Passin' Me By - Instrumental",
+      "url": "https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Elmatic Instrumentals",
+        "url": "https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo"
+      },
+      "artists": [
+        {
+          "name": "Will Sessions",
+          "url": "https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Do You Believe? EP",
+        "url": "https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak"
+      },
+      "artists": [
+        {
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Do You Believe? - Instrumental",
+      "url": "https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Foreign Pedestrians",
+        "url": "https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "Jay Stone",
+          "url": "https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI"
+        }
+      ],
+      "duration_ms": 158091,
+      "name": "Cognac - Instrumental",
+      "url": "https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Labcabincalifornia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Bullshit - Instrumental",
+      "url": "https://open.spotify.com/track/7foxmWRpEa1fiYGz7JbAKH"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The SP1200 Project: A Re-Awakening",
+        "url": "https://open.spotify.com/album/6JsylDwCpnODpmaFacekJK"
+      },
+      "artists": [
+        {
+          "name": "Lord Finesse",
+          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Electric Impression",
+      "url": "https://open.spotify.com/track/4Tw2CWFi6qbBZezMBvpUTN"
+    },
+    {
       "added_at": "2024-06-24 18:43:09",
       "album": {
         "name": "The Original Baby Pa (Instrumentals)",
@@ -915,22 +1095,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "One Man Band",
-        "url": "https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2"
-      },
-      "artists": [
-        {
-          "name": "K-DEF",
-          "url": "https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "Blind Bat",
-      "url": "https://open.spotify.com/track/4ZiN3nmZEfWQhGdKWYZjhn"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "NY's Finest (Instrumentals)",
         "url": "https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr"
       },
@@ -943,38 +1107,6 @@
       "duration_ms": 252120,
       "name": "Made Man - Instrumental",
       "url": "https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Mosaic Mist",
-        "url": "https://open.spotify.com/album/6qjWu9w6N2STNKXvJHPllN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Decks",
-          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Muddy Milk Crates",
-      "url": "https://open.spotify.com/track/7kKX5i4VMksreVFcG6BXQH"
-    },
-    {
-      "added_at": "2024-06-26 17:51:19",
-      "album": {
-        "name": "Glasklar",
-        "url": "https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb"
-      },
-      "artists": [
-        {
-          "name": "Retrogott",
-          "url": "https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "The Honeydipper - Bonus Instrumental",
-      "url": "https://open.spotify.com/track/0RtfemNYgGzKUESWJjayOR"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -993,54 +1125,6 @@
       "url": "https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV"
     },
     {
-      "added_at": "2024-08-21 20:05:55",
-      "album": {
-        "name": "Without A Doubt",
-        "url": "https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L"
-      },
-      "artists": [
-        {
-          "name": "Black Sheep",
-          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Without A Doubt - Salaam's Instrumental",
-      "url": "https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "The Funk Lord Instrumentals",
-        "url": "https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0"
-      },
-      "artists": [
-        {
-          "name": "Erick Sermon",
-          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
-        }
-      ],
-      "duration_ms": 182414,
-      "name": "Tonights Da Night - Instrumental",
-      "url": "https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Overnight Oats",
-        "url": "https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 147042,
-      "name": "Queens",
-      "url": "https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ"
-    },
-    {
       "added_at": "2024-06-24 18:43:09",
       "album": {
         "name": "Fantastic, Vol. 2.10",
@@ -1057,36 +1141,20 @@
       "url": "https://open.spotify.com/track/6phS0dmak9yAw1vhYJAj9T"
     },
     {
-      "added_at": "2024-06-24 18:43:09",
+      "added_at": "2024-12-16 17:37:39",
       "album": {
-        "name": "Never Stop Rockin'",
-        "url": "https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5"
+        "name": "Short Stories #8",
+        "url": "https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky"
       },
       "artists": [
         {
-          "name": "Beamic",
-          "url": "https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1"
+          "name": "Snares",
+          "url": "https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Never Stop Rockin'",
-      "url": "https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK"
-    },
-    {
-      "added_at": "2024-07-04 17:38:47",
-      "album": {
-        "name": "Glasklar",
-        "url": "https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb"
-      },
-      "artists": [
-        {
-          "name": "Knowsum",
-          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
-        }
-      ],
-      "duration_ms": 101647,
-      "name": "Coolidge - Bonus Instrumental",
-      "url": "https://open.spotify.com/track/5qUuC5Om5JOLAXftkf7VBl"
+      "duration_ms": 214336,
+      "name": "Zeckenbiss",
+      "url": "https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg"
     },
     {
       "added_at": "2024-08-14 17:43:09",
@@ -1107,58 +1175,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The All Boom",
-        "url": "https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0"
-      },
-      "artists": [
-        {
-          "name": "The Cancel",
-          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
-        },
-        {
-          "name": "DJ Shon",
-          "url": "https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY"
-    },
-    {
-      "added_at": "2024-11-13 18:36:50",
-      "album": {
-        "name": "Aspas",
-        "url": "https://open.spotify.com/album/1co5kKp9zITSEMIr4sdYHC"
-      },
-      "artists": [
-        {
-          "name": "Flughand",
-          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Aspas",
-      "url": "https://open.spotify.com/track/5b2isDzu4jC6Yk1EJxcRGm"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Halftime EP",
-        "url": "https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Halftime - Instrumental",
-      "url": "https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Fantastic, Vol.2: Vinyl Instrumentals",
         "url": "https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 187547,
       "name": "Fall In Love - Instrumental",
       "url": "https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz"
-    },
-    {
-      "added_at": "2024-08-14 17:43:09",
-      "album": {
-        "name": "Boat Milk",
-        "url": "https://open.spotify.com/album/3u3N27byTbYbzTCygIneSd"
-      },
-      "artists": [
-        {
-          "name": "Jobii",
-          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
-        }
-      ],
-      "duration_ms": 163710,
-      "name": "Boat Milk",
-      "url": "https://open.spotify.com/track/54yuzll85z9HIliCaVBKUC"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -1323,6 +1323,22 @@
       "duration_ms": 180709,
       "name": "Teekup",
       "url": "https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Funk Lord Instrumentals",
+        "url": "https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        }
+      ],
+      "duration_ms": 182414,
+      "name": "Tonights Da Night - Instrumental",
+      "url": "https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26"
     }
   ],
   "unique_name": "Boom Bap Relax",

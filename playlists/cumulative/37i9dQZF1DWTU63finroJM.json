@@ -15891,6 +15891,24 @@
     },
     {
       "album": {
+        "name": "lights on",
+        "url": "https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "lights on",
+      "url": "https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
       },
@@ -19886,7 +19904,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 132328,
       "name": "obvious",
       "url": "https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R"

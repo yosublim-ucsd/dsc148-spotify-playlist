@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,012 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,030 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 51 | [El Kiri](https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:42 |
 | 52 | [El Markitos](https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Markitos](https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc) | 3:03 |
 
-Snapshot ID: `Z1zKgAAAAABsna2nhzddFWI5auD6zqDe`
+Snapshot ID: `Z14cAAAAAABnfbo/VLxdM7i8X0ebnmKd`

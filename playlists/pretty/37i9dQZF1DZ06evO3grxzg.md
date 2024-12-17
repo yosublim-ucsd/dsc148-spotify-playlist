@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,411 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,443 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
 | 50 | [IDIOTA \(Real Magic\)](https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [IDIOTA \(Real Magic\)](https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo) | 3:25 |
 
-Snapshot ID: `Z1zKgAAAAAC6IknzmwACQ2WNfUQV5XLH`
+Snapshot ID: `Z14cAAAAAACypSJeE8LvmLnTU2zhbX1m`

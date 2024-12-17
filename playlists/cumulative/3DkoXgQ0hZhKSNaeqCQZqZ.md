@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-258 songs - 13 hr 46 min
+259 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [GIVE ME STRENGTH](https://open.spotify.com/track/2V7IWA1q0Snstqgr1S58mw) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [GIVE ME STRENGTH](https://open.spotify.com/album/5Rqz15zcTGF5is39GOaZJm) | 4:20 | 2024-08-17 |  |
 | [GLACIER](https://open.spotify.com/track/14GW6MwrKfarr746iDdmfY) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL) | [GLACIER](https://open.spotify.com/album/7CKBGq9tpN1od7hqs2n8oC) | 3:07 | 2024-08-15 |  |
 | [GLACIERS](https://open.spotify.com/track/5mGSP4oEKtNiKoBJcoBqvw) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY), [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [GLACIERS](https://open.spotify.com/album/6hqZ7DTDeZRqWfUd0p7Mkg) | 3:03 | 2024-06-22 |  |
+| [GLITCH](https://open.spotify.com/track/75PzX20N9fJpdCRsYLt4Dq) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [IAN STARR](https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc) | [GLITCH](https://open.spotify.com/album/0z3bDfBUtxr3W6gv67wLPP) | 1:47 | 2024-12-16 |  |
 | [GOING TO PUNCH YOU](https://open.spotify.com/track/3iPdFhPWzJAlyGpafXmnjN) | [Labirhin](https://open.spotify.com/artist/2rYGNtQDYXTIbFHWYUCFqJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [GOING TO PUNCH YOU](https://open.spotify.com/album/597BsHHMigrZANoHToGSCo) | 4:26 | 2024-11-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 |  |

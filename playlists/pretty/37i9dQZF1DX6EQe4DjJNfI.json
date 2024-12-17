@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176109,
+  "num_followers": 176119,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150031,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150031,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -671,6 +651,42 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -727,30 +727,6 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -779,6 +755,30 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        },
-        {
-          "name": "Amanda Magno",
-          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "PORTAIS",
-      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -923,6 +903,26 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
         "name": "Viu!?",
         "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 185499,
       "name": "Viu!?",
       "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -987,26 +1007,6 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
+        "name": "Tudo Que Restou",
+        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Tudo Que Restou",
+      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+    },
+    {
+      "added_at": "2024-12-06 23:35:46",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 168205,
       "name": "Porto Seguro",
       "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
-    },
-    {
-      "added_at": "2024-12-06 23:35:46",
-      "album": {
-        "name": "Tudo Que Restou",
-        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Tudo Que Restou",
-      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Louco inconsequente",
-        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
       "artists": [
         {
-          "name": "Kid Lovi",
-          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 198728,
-      "name": "Louco inconsequente",
-      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-12-06 23:35:46",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-12-06 23:35:46",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+        "name": "Louco inconsequente",
+        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
         }
       ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+      "duration_ms": 198728,
+      "name": "Louco inconsequente",
+      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
     },
     {
       "added_at": "2024-12-06 23:35:46",

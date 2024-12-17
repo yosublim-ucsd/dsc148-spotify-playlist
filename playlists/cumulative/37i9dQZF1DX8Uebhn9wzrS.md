@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,171 songs - 3 day 10 hr 46 min
+2,172 songs - 3 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 | 2024-09-13 |  |
 | [Green](https://open.spotify.com/track/5GN4NROaYPF3B9nctQiqlq) | [Mun$](https://open.spotify.com/artist/3q5IPAzYcyOyLEZecYKILg) | [Green](https://open.spotify.com/album/242fjU9JtLbq3xG7F9jONX) | 1:51 | 2022-04-15 | 2022-05-13 |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
-| [Green Gardens](https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Green Gardens](https://open.spotify.com/album/6wfQnVXDLROkI4OWpNfipD) | 2:34 | 2024-04-26 |  |
+| [Green Gardens](https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Green Gardens](https://open.spotify.com/album/6wfQnVXDLROkI4OWpNfipD) | 2:34 | 2024-04-26 | 2024-12-17 |
 | [green tulips](https://open.spotify.com/track/1OmcgHUcXjXZrjYB7SxIHc) | [when in NY](https://open.spotify.com/artist/1tuOpNoNDZhAJH2nQkm6bh) | [green tulips](https://open.spotify.com/album/4dMvHcCbz0pKYuLzrDaRQC) | 2:07 | 2022-04-15 | 2022-10-01 |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2022-04-15 | 2022-07-08 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 |  |
@@ -1205,7 +1205,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-12-17 |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
@@ -1307,7 +1307,7 @@
 | [Nightfall](https://open.spotify.com/track/2yY11CsJt93GFebi54lJ0K) | [Aesthetic Sounds](https://open.spotify.com/artist/0grE7QiQX0ceIa5n3DIsHS) | [Aesthetic Sounds](https://open.spotify.com/album/6DC86fXRvCGC33CDo8O30C) | 1:53 | 2022-04-22 | 2022-11-12 |
 | [Nightrider](https://open.spotify.com/track/6vNocabqNxmIsiBzrJTaQ0) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Nightrider](https://open.spotify.com/album/09tfyEXrLwwJOuTo8ta0Kf) | 2:03 | 2023-03-01 |  |
 | [nights go by](https://open.spotify.com/track/5TC2wrYzGhhr1wO7BSsGOA) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [nights go by](https://open.spotify.com/album/7bPSnIFDMDlKT2xyW87SMl) | 3:08 | 2024-01-05 | 2024-11-09 |
-| [Nimbus](https://open.spotify.com/track/3ymdJK0qlO6CjQrqVlyblS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Nimbus](https://open.spotify.com/album/0tRDWgL4CQwHhiFQD60iIv) | 2:07 | 2024-09-13 |  |
+| [Nimbus](https://open.spotify.com/track/3ymdJK0qlO6CjQrqVlyblS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Nimbus](https://open.spotify.com/album/0tRDWgL4CQwHhiFQD60iIv) | 2:07 | 2024-09-13 | 2024-12-17 |
 | [No Ice](https://open.spotify.com/track/0Ki80etD1qrDyTHXR9Ufaw) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [No Ice](https://open.spotify.com/album/4z75LOO80h08jNgo4vPuDK) | 2:17 | 2022-04-15 | 2023-03-09 |
 | [No Need To Cry](https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [No Need To Cry](https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C) | 2:23 | 2023-04-03 | 2024-08-02 |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-01-06 |  |
@@ -1527,7 +1527,7 @@
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
 | [raft](https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [raft](https://open.spotify.com/album/3RkwB73fuQQPtX2r6ccjB5) | 2:18 | 2024-05-23 | 2024-09-08 |
-| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 | 2024-08-15 |
+| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 |  |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2022-04-15 | 2022-09-02 |
@@ -1573,7 +1573,7 @@
 | [Reverie](https://open.spotify.com/track/7IOjCUl7RBwXDHSmheWbvK) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Reverie](https://open.spotify.com/album/6TCyI0UIhnvQp4snaZ1gbd) | 2:26 | 2023-07-13 | 2023-09-29 |
 | [Reverse](https://open.spotify.com/track/0gaIq6GppINTID6vCJsel1) | [St\. Vrain](https://open.spotify.com/artist/5JhftUX2nAHcXC5xX7bStW) | [Reverse](https://open.spotify.com/album/0cpqXXjTS0Xc5SBoNJJiBU) | 3:15 | 2022-06-10 | 2022-11-19 |
 | [Rewriting](https://open.spotify.com/track/5qYobHBnHZTeViB6TrIUDx) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [Rewriting](https://open.spotify.com/album/4aVDoHb6lc6GIl20FoGeVQ) | 2:24 | 2023-06-06 |  |
-| [Rich Moon](https://open.spotify.com/track/5hGpUWc68UG2WXvuwQHuhK) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [Rich Moon](https://open.spotify.com/album/2HS55rjaGAOo5oxBpSdqfe) | 2:03 | 2022-12-09 | 2024-11-04 |
+| [Rich Moon](https://open.spotify.com/track/5hGpUWc68UG2WXvuwQHuhK) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [Rich Moon](https://open.spotify.com/album/2HS55rjaGAOo5oxBpSdqfe) | 2:03 | 2022-12-09 |  |
 | [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 | 2022-10-07 | 2022-11-07 |
 | [Rich Soul](https://open.spotify.com/track/5j9DKjQjAUt55yKCTfkZxZ) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/05ZdLcdabRX0nmXalFrMxY) | 1:07 | 2022-10-28 | 2023-01-13 |
 | [Ricochet](https://open.spotify.com/track/3a5cfttZFZ20nfTvzZ462L) | [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Ricochet](https://open.spotify.com/album/6boX8DHQXaCfF1rF1ph4Bz) | 2:44 | 2022-09-16 | 2023-01-07 |
@@ -1717,6 +1717,7 @@
 | [Smooth Keys](https://open.spotify.com/track/3cF3qUwYni6X6hHYljjnHy) | [Jhillazz](https://open.spotify.com/artist/6K5cabsg32lZlLnr6x09CA) | [Smooth Keys](https://open.spotify.com/album/4Pm8Bnvqmz3oR4qHFXtihS) | 2:46 | 2022-09-23 | 2023-01-07 |
 | [smooth skating](https://open.spotify.com/track/5fJYaMNnnKiktBETWKYTmD) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [smooth skating \| no time wasted](https://open.spotify.com/album/0xkHtM4a41RkuAESy1IX9k) | 3:49 | 2022-08-05 | 2022-12-09 |
 | [Smoother Twisting](https://open.spotify.com/track/61gfO1A0vTF6k7KzXdERvp) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Smoother Twisting](https://open.spotify.com/album/4LA15JwXjtayMLZVXYz0Dc) | 2:00 | 2022-11-11 |  |
+| [smoothie thursday](https://open.spotify.com/track/011JEXsItSkGoYo4kDEGbE) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [smoothie thursday](https://open.spotify.com/album/2LUAYJjRSxDH1RHN6bdQAu) | 2:03 | 2024-12-13 |  |
 | [Snacks On The Beach](https://open.spotify.com/track/7I9YFbEsvtYfAnR7MEdSCi) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Snacks On The Beach](https://open.spotify.com/album/4lFuYHK0y9xpPAblxC0A3O) | 2:30 | 2022-04-15 | 2022-10-14 |
 | [Snag It](https://open.spotify.com/track/3c8ARxqGvlucNqj3kDiHES) | [Wolly](https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD) | [Snag It](https://open.spotify.com/album/2EOeiv8NLKhqvuZtaG8YSq) | 1:36 | 2022-12-02 | 2023-02-07 |
 | [Snooze Groove](https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Snooze Groove](https://open.spotify.com/album/5CaL7WVwN9ZBYHbzcXLCL6) | 2:04 | 2024-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the tunes that inspired Michael McDonald + Christopher Cross to celebrate Yacht Rock: A Dockumentary coming to Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,645,664 likes - 153 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,645,592 likes - 153 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

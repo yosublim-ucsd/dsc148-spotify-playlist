@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,796 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,813 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 9 | [En Resumen](https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 2:35 |
 | 10 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 11 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 |
-| 12 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
-| 13 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 |
+| 12 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 |
+| 13 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 14 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
 | 15 | [Cuando Te Entregues A Él](https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 3:07 |
 | 16 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 33 | [Ya Se Fue](https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:12 |
 | 34 | [No Me Prometas](https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [No Me Prometas](https://open.spotify.com/album/6QRykp1loczkZa2ite7dlm) | 2:26 |
 | 35 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
-| 36 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
-| 37 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 |
+| 36 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 |
+| 37 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
 | 38 | [No Volveré](https://open.spotify.com/track/3Ffy2duX1HPhTWpkALZ7br) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Pobre Ranchero](https://open.spotify.com/album/5KHJE3RQfHG15N3RQWayRF) | 2:44 |
 | 39 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 40 | [Una Noche Cualquiera](https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 50 | [Vive La Casa](https://open.spotify.com/track/7jc8tEOZ8MT16uRkLEhUaw) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Fernando Corona](https://open.spotify.com/artist/29YNHs1rF7R6Wtl0pY0sZm) | [Vive La Casa](https://open.spotify.com/album/0GVDraF9ZbeIKLf5tfC1dr) | 3:09 |
 | 51 | [Compañera Mía](https://open.spotify.com/track/5JAk5RVR1xTIJc5mH14sjm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vol\. 6, Adiós Amor](https://open.spotify.com/album/0U05XFJEaeuPMvQgCV0xZK) | 3:26 |
 
-Snapshot ID: `Z1zKgAAAAAD7ecfoQ6U1cohEyK0hvgFU`
+Snapshot ID: `Z14cAAAAAAC4Urm67WLdLieK0jYU0clE`

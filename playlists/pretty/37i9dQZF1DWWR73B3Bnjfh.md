@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,287 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,489 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 11 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 |
 | 12 | [Blue Lester](https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Blue Lester: The Immortal Lester Young](https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt) | 3:25 |
 | 13 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
-| 14 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
-| 15 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 |
+| 14 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 |
+| 15 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
 | 16 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
 | 17 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
 | 18 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 20 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 |
 | 21 | [How Long Has This Been Going On](https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 5:30 |
 | 22 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 |
-| 23 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
-| 24 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 |
+| 23 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 |
+| 24 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
 | 25 | [Lover Man \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 7:53 |
 | 26 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
 | 27 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |

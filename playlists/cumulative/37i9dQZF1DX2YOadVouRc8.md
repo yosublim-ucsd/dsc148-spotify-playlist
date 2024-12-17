@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-557 songs - 1 day 3 hr 14 min
+559 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 | 2024-10-04 |  |
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 | 2024-02-16 |
 | [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 | 2024-08-25 |  |
+| [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE) | 3:25 | 2024-12-16 |  |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 | 2024-11-22 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-08-05 |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-17 | 2024-04-10 |
@@ -409,6 +410,7 @@
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2023-11-03 |
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-09 | 2024-03-29 |
 | [Santorini](https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 3](https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp) | 7:38 | 2023-01-12 | 2023-03-04 |
+| [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 | 2024-12-16 |  |
 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2023-11-03 |
 | [Saudade](https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Saudade](https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr) | 2:11 | 2022-06-09 | 2022-10-14 |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2024-10-04 |  |
@@ -464,7 +466,7 @@
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 |  |
 | [SUPARO \- Remix](https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [SUPARO \(Remix\)](https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx) | 2:41 | 2023-12-08 | 2024-04-05 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-10 |
-| [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 |  |
+| [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-12-17 |
 | [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 | 2024-11-22 |  |
 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 | 2023-11-03 | 2024-04-12 |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2023-11-24 | 2023-12-02 |

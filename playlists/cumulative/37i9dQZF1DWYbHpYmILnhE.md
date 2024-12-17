@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: King Perryy
 
-83 songs - 3 hr 45 min
+84 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Finesse](https://open.spotify.com/track/0AgOkZYwJVoXXNrFvxOd6i) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Finesse](https://open.spotify.com/album/14r71d2X0Faxc3Ia010lNk) | 3:03 | 2024-06-28 |  |
 | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 | 2024-11-08 |  |
 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 | 2024-06-28 |  |
-| [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 | 2024-11-08 |  |
+| [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 | 2024-11-08 | 2024-12-17 |
 | [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 | 2024-10-25 |  |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 |  |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
@@ -91,5 +91,6 @@
 | [Who Dey Jonze](https://open.spotify.com/track/42vLWq6jFlOImVgi4Z3cRo) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [Who Dey Jonze](https://open.spotify.com/album/68BD66Qgrh8IqakriJ38Jx) | 2:04 | 2024-06-28 |  |
 | [Wuse Vigilante](https://open.spotify.com/track/2A9Cdu8AOCh0gAzjQVi4kv) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Double Homicide](https://open.spotify.com/album/2PoPwEzySBGSsH4XmRxQ7O) | 2:36 | 2024-06-28 |  |
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2024-06-28 |  |
+| [YOTU Cypher](https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW) | [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB), [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Year of the Underdogs](https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p) | 3:04 | 2024-12-16 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

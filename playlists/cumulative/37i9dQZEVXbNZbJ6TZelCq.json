@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 115263,
       "name": "Agresiv",
       "url": "https://open.spotify.com/track/2lQCIU7pzDTvs16TT1bHAo"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -3764,7 +3764,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "BIG BEN - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
@@ -7100,7 +7100,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 167865,
       "name": "Complicat",
       "url": "https://open.spotify.com/track/0RMLTuBPTlGE6iYLyO1glA"
@@ -9098,7 +9098,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 237108,
       "name": "Dirty Sprite",
       "url": "https://open.spotify.com/track/1cHi5LM8WtL6T7OzyuAWUY"
@@ -10680,6 +10680,24 @@
       "duration_ms": 253312,
       "name": "EU",
       "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
+    },
+    {
+      "album": {
+        "name": "Nu Dau Inapoi",
+        "url": "https://open.spotify.com/album/0VU7SVC18GaJx7ztJKT5SC"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250775,
+      "name": "Eu Nu Dau Inapoi",
+      "url": "https://open.spotify.com/track/21BgLCEqa7UNo0PgcOZBzX"
     },
     {
       "album": {
@@ -13088,7 +13106,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -13190,7 +13208,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 229842,
       "name": "GIVE ME LOVE - Master Edition",
       "url": "https://open.spotify.com/track/6NOXos5w6dBAdt9BkEic0j"
@@ -27954,7 +27972,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 162461,
       "name": "RUPE-TE MAMI",
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"
@@ -37012,7 +37030,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -37256,7 +37274,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "X6",
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"

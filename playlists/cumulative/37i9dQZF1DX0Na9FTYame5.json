@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 142361,
       "name": "Gott wei\u00df wie",
       "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Weg zu weit",
+        "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "Weg zu weit",
+      "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
+    },
+    {
+      "album": {
         "name": "Wegen Dir",
         "url": "https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl"
       },
@@ -3000,6 +3018,28 @@
       "duration_ms": 184613,
       "name": "Wellness am Scherbenmeer",
       "url": "https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh"
+    },
+    {
+      "album": {
+        "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
+        "url": "https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171690,
+      "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
+      "url": "https://open.spotify.com/track/1SU8huXD15iemDITwALHb3"
     },
     {
       "album": {
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 220597,
       "name": "W\u00c4NDE AUS ZEMENT",
       "url": "https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7"

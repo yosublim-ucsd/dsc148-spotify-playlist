@@ -12036,7 +12036,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 122839,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
@@ -13692,6 +13692,24 @@
       "duration_ms": 226836,
       "name": "Polite",
       "url": "https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv"
+    },
+    {
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
     },
     {
       "album": {

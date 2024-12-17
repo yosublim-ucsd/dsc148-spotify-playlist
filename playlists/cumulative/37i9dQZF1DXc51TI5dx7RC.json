@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
+        "url": "https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
+      "url": "https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -82,6 +108,24 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "album": {
@@ -190,7 +234,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -1156,7 +1200,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 263253,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e32\u0e14\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw"
@@ -1196,6 +1240,24 @@
       "duration_ms": 225882,
       "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e49\u0e32\u0e07 (STILL) - Single",
+        "url": "https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "\u0e04\u0e49\u0e32\u0e07 (STILL)",
+      "url": "https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ"
     },
     {
       "album": {
@@ -1656,7 +1718,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 195500,
       "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
       "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"

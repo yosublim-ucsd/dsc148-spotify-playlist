@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,915 likes - 86 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,977 likes - 86 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

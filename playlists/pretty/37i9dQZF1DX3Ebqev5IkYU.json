@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1964324,
+  "num_followers": 1964245,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -299,30 +299,6 @@
     {
       "added_at": "2024-12-07 07:26:16",
       "album": {
-        "name": "Somedays",
-        "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 207168,
-      "name": "Somedays",
-      "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2024-12-07 07:26:16",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-12-07 07:26:16",
+      "album": {
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 207168,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
     },
     {
       "added_at": "2024-12-07 07:26:16",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-12-07 07:26:16",
       "album": {
-        "name": "Following the Sun",
-        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "NEEKA",
-          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Following the Sun",
-      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2024-12-07 07:26:16",
-      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2024-12-07 07:26:16",
+      "album": {
+        "name": "Following the Sun",
+        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Following the Sun",
+      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
       "added_at": "2024-12-07 07:26:16",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-12-07 07:26:16",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-12-07 07:26:16",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-12-07 07:26:16",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-12-07 07:26:16",

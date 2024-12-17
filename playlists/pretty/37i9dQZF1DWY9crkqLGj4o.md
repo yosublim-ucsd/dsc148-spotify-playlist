@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,010 likes - 75 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,080 likes - 75 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 45 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 |
 | 46 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 47 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
-| 48 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
-| 49 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
+| 48 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
+| 49 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
 | 50 | [Acredito \(We Believe\)](https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Acredito \(We Believe\)](https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC) | 3:49 |
 | 51 | [Sobrevivi](https://open.spotify.com/track/6uiPCZIIdtfVCjuh7NUTiM) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Renovo](https://open.spotify.com/album/7fiWxyJRFR0NIQ1nfFXcbL) | 4:41 |
 | 52 | [Teu Amor Não Falha \- Ao Vivo](https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:05 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 60 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 61 | [Se Não Fosse Ele](https://open.spotify.com/track/49aAR1k1YDjcHPPUaP1GTR) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Se Não Fosse Ele](https://open.spotify.com/album/2F7TQ8zJLPEbmwsbaP3EOp) | 3:56 |
 | 62 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
-| 63 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
-| 64 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 |
+| 63 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 |
+| 64 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
 | 65 | [Que Se Abram os Céus \- Ao Vivo](https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 7:51 |
 | 66 | [Deus do Secreto](https://open.spotify.com/track/6NO0Up4grjlWcprtv4H4dN) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3) | [Deus do Secreto.](https://open.spotify.com/album/0kLoixcEg4soJ5bvXYrKfC) | 6:10 |
 | 67 | [Canção do Apocalipse \- Ao Vivo](https://open.spotify.com/track/0DHpr7eLBrRZvlXa4sNwhd) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aleluia \- Diante do Trono 13 \(Ao Vivo\)](https://open.spotify.com/album/0zjeMVBRY1Urt1TkDJ8qY8) | 7:17 |

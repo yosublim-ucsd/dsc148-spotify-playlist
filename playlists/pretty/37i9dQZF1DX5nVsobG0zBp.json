@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Van Zee, Bispo",
-  "num_followers": 70877,
+  "num_followers": 70894,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
+        "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
         "name": "Oskey",
         "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 198095,
       "name": "Oskey",
       "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
-        "name": "Desconfinamento",
-        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "Desconfinamento",
-      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
     },
     {
       "added_at": "2024-11-08 14:16:58",

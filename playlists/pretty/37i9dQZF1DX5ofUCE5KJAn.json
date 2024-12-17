@@ -1,6 +1,6 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 194785,
+  "num_followers": 194794,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
         }
       ],
-      "duration_ms": 222476,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
         }
       ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+      "duration_ms": 222476,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
     },
     {
       "added_at": "2024-09-20 22:10:22",

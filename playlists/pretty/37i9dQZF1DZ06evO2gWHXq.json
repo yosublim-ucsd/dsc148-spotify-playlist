@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 223052,
+  "num_followers": 223060,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACYeLMXZFFhDou//12/iHEH",
+  "snapshot_id": "Z14cAAAAAAAZF4EoNbfeSNenR6QGIh7Z",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Aunque Ya No Est\u00e9s",
+      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
         "url": "https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon"
       },
@@ -475,38 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Aunque Ya No Est\u00e9s",
-      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Mis Defectos",
-      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 2 (feat. MC Davo) - Single",
         "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Mis Defectos",
+      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 205430,
-      "name": "Ella Es Una Amenaza",
-      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Plaza en Plaza",
         "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222720,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 205430,
+      "name": "Ella Es Una Amenaza",
+      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
     },
     {
       "added_at": null,
@@ -1023,8 +1023,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 4 (feat. C-Kan)",
-        "url": "https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD"
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 240037,
-      "name": "Round 4 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5"
+      "duration_ms": 205568,
+      "name": "Round 3 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
     },
     {
       "added_at": null,
@@ -1063,8 +1063,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+        "name": "Round 4 (feat. C-Kan)",
+        "url": "https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 205568,
-      "name": "Round 3 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+      "duration_ms": 240037,
+      "name": "Round 4 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5"
     },
     {
       "added_at": null,
@@ -1187,22 +1187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cara o cruz, pt. 1",
-        "url": "https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM"
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
       "artists": [
         {
-          "name": "Arsenal de Rimas",
-          "url": "https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL"
-        },
-        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/7GCQmj0nyVwLTDJ7LV6Rdt"
         }
       ],
-      "duration_ms": 272483,
-      "name": "Mi coraz\u00f3n (feat. Mc Davo)",
-      "url": "https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq"
+      "duration_ms": 196235,
+      "name": "WARZONE FREESTYLE",
+      "url": "https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm"
     }
   ],
   "unique_name": "This Is MC Davo",

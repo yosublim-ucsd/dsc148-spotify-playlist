@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Ichika Nito",
-  "num_followers": 291039,
+  "num_followers": 291103,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "Teenage Blue",
-        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 225644,
-      "name": "Teenage Blue",
-      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
         "name": "\u8ab0\u6211\u70ba",
         "url": "https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 269728,
       "name": "\u8ab0\u6211\u70ba",
       "url": "https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
+        "name": "Teenage Blue",
+        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 225644,
+      "name": "Teenage Blue",
+      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
     },
     {
       "added_at": "2024-12-10 15:21:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
-        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
-      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
         "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
         "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
+        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
+        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-12-10 15:21:50",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "\u30e9\u30e0\u30cd",
-        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 222713,
-      "name": "\u30e9\u30e0\u30cd",
-      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
-    },
-    {
-      "added_at": "2024-12-10 15:21:50",
-      "album": {
         "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
         "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
+        "name": "Magic Number",
+        "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "\u30a8\u30de",
+      "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
+    },
+    {
+      "added_at": "2024-12-10 15:21:50",
+      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-12-10 15:21:50",
       "album": {
-        "name": "Magic Number",
-        "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
+        "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
       },
       "artists": [
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
         }
       ],
-      "duration_ms": 207213,
-      "name": "\u30a8\u30de",
-      "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
+      "duration_ms": 222713,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
     },
     {
       "added_at": "2024-12-10 15:21:50",

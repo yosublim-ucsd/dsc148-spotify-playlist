@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Ma Meilleure Ennemie" de Stromae et Pomme est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,713 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,711 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

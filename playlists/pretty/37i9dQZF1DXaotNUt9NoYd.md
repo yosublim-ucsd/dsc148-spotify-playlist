@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,393 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,408 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 44 | [Svadisthana Chakra \- Sacral Chakra Balance Sexual Energy](https://open.spotify.com/track/1M5hjYDnYaA9IBhwv5Dnk7) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [1 Hour Chakra Healing \(Chakra Balancing for Meditation with 432HZ Music and Sounds of Nature\)](https://open.spotify.com/album/0qoeKz2bEZ5B1p0hbJstIo) | 9:03 |
 | 45 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
 | 46 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
-| 47 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
-| 48 | [Parallel Dimension](https://open.spotify.com/track/44QFvGC5DRZmuD1gVln7Py) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Parallel Dimension](https://open.spotify.com/album/6K0Tb9TkswbH1zbCsYibbr) | 3:26 |
+| 47 | [Parallel Dimension](https://open.spotify.com/track/44QFvGC5DRZmuD1gVln7Py) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Parallel Dimension](https://open.spotify.com/album/6K0Tb9TkswbH1zbCsYibbr) | 3:26 |
+| 48 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
 | 49 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
 | 50 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
 | 51 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 69 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
 | 70 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
 | 71 | [Inner Meditation](https://open.spotify.com/track/3R1wr152E0xa8J2vRbIQx2) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Indian Instrumental Music](https://open.spotify.com/album/0liKecmul9RBtdG3HQGSpv) | 3:39 |
-| 72 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
-| 73 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
+| 72 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
+| 73 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 | 74 | [Reiki Bansuri: Recommended Music](https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ) | [Bansuri Flute Collection](https://open.spotify.com/artist/3gOXobsj4Ad7IuEzxe9qVk) | [Reiki Bansuri: Recommended Music for Reiki Treatments and Meditation, Healing Flutes for Massage and Calm Nature for Harmonious and Balanced Life](https://open.spotify.com/album/1xE7uD9HrzurXb3H8D7BQJ) | 4:05 |
 | 75 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
 

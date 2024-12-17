@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,777 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,778 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 37 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 38 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
 | 39 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
-| 40 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
-| 41 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |
+| 40 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |
+| 41 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 42 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 43 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
 | 44 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |

@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udde3",
-  "num_followers": 33995,
+  "num_followers": 34021,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-30 21:36:09",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
-      },
-      "artists": [
-        {
-          "name": "Zea",
-          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
-        }
-      ],
-      "duration_ms": 191090,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
-    },
-    {
-      "added_at": "2024-11-30 21:36:09",
-      "album": {
         "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
         "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 233777,
       "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
       "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
+    },
+    {
+      "added_at": "2024-11-30 21:36:09",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
     },
     {
       "added_at": "2024-11-30 21:36:09",
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-11-30 21:36:09",
       "album": {
-        "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
       },
       "artists": [
         {
-          "name": "Tof",
-          "url": "https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y"
-        },
-        {
-          "name": "\u0411\u0456\u043b\u0438\u0439 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM"
+          "name": "BAH.ROMA",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
         }
       ],
-      "duration_ms": 183529,
-      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2024-11-30 21:36:09",
@@ -691,6 +687,26 @@
     {
       "added_at": "2024-11-30 21:36:09",
       "album": {
+        "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
+      },
+      "artists": [
+        {
+          "name": "Tof",
+          "url": "https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y"
+        },
+        {
+          "name": "\u0411\u0456\u043b\u0438\u0439 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+    },
+    {
+      "added_at": "2024-11-30 21:36:09",
+      "album": {
         "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
         "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 223532,
       "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
-    },
-    {
-      "added_at": "2024-11-30 21:36:09",
-      "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
-      },
-      "artists": [
-        {
-          "name": "BAH.ROMA",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2024-11-30 21:36:09",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-30 21:36:09",
       "album": {
+        "name": "\u0426\u0438\u043a\u043b\u043e\u043d",
+        "url": "https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0"
+      },
+      "artists": [
+        {
+          "name": "GRISANA",
+          "url": "https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "\u0426\u0438\u043a\u043b\u043e\u043d",
+      "url": "https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3"
+    },
+    {
+      "added_at": "2024-11-30 21:36:09",
+      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-11-30 21:36:09",
       "album": {
-        "name": "\u0426\u0438\u043a\u043b\u043e\u043d",
-        "url": "https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0"
-      },
-      "artists": [
-        {
-          "name": "GRISANA",
-          "url": "https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "\u0426\u0438\u043a\u043b\u043e\u043d",
-      "url": "https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3"
-    },
-    {
-      "added_at": "2024-11-30 21:36:09",
-      "album": {
         "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
         "url": "https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 153600,
       "name": "\u041d\u0435\u043f\u043e\u043c\u0456\u0442\u043d\u0438\u0439",
       "url": "https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik"
-    },
-    {
-      "added_at": "2024-11-30 21:36:09",
-      "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2024-11-30 21:36:09",
@@ -979,6 +963,38 @@
       "duration_ms": 175115,
       "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
       "url": "https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah"
+    },
+    {
+      "added_at": "2024-11-30 21:36:09",
+      "album": {
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+    },
+    {
+      "added_at": "2024-11-30 21:36:09",
+      "album": {
+        "name": "\u0411\u043e\u0441\u0456",
+        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
+      },
+      "artists": [
+        {
+          "name": "STASYA",
+          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u0411\u043e\u0441\u0456",
+      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
     },
     {
       "added_at": "2024-11-30 21:36:09",
@@ -1011,22 +1027,6 @@
       "duration_ms": 132705,
       "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
       "url": "https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8"
-    },
-    {
-      "added_at": "2024-11-30 21:36:09",
-      "album": {
-        "name": "\u0411\u043e\u0441\u0456",
-        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
-      },
-      "artists": [
-        {
-          "name": "STASYA",
-          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u0411\u043e\u0441\u0456",
-      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
     }
   ],
   "unique_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

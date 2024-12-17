@@ -3213,6 +3213,28 @@
     },
     {
       "album": {
+        "name": "Country Brasil",
+        "url": "https://open.spotify.com/album/2xerAMTP9g0Xb4JDitakRY"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "MVP Hits",
+          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141983,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/7oBpYS3vkVeJJqGkyaHRTn"
+    },
+    {
+      "album": {
         "name": "7550 Dias (Ao Vivo)",
         "url": "https://open.spotify.com/album/4h8Xr4AE0gZWazLvT2liCn"
       },

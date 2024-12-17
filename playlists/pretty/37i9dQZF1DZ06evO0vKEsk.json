@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAADpRPEAi0gypP2IbizpFCSA",
+  "snapshot_id": "Z14cAAAAAACdDUnYw8eGkZZQpP0h5T5s",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+      "duration_ms": 358376,
+      "name": "Digno \u00e9 o Cordeiro",
+      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 358376,
-      "name": "Digno \u00e9 o Cordeiro",
-      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melhor Amigo",
         "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 335481,
       "name": "Melhor Amigo",
       "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "added_at": null,

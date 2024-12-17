@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 8430,
+  "num_followers": 8468,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
-      },
-      "artists": [
-        {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 123870,
       "name": "Dandelion's Lullaby",
       "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "In Harmony With Nature",
+        "url": "https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK"
+      },
+      "artists": [
+        {
+          "name": "Plant Guy",
+          "url": "https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH"
+        }
+      ],
+      "duration_ms": 128820,
+      "name": "Beyond Imagination",
+      "url": "https://open.spotify.com/track/65WcwboLuUCResbw2zAsov"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Sleeping Soul",
         "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "In Harmony With Nature",
-        "url": "https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK"
-      },
-      "artists": [
-        {
-          "name": "Plant Guy",
-          "url": "https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH"
-        }
-      ],
-      "duration_ms": 128820,
-      "name": "Beyond Imagination",
-      "url": "https://open.spotify.com/track/65WcwboLuUCResbw2zAsov"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 267024,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Stillness in Motion",
-        "url": "https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Silver Lake",
-      "url": "https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 139650,
       "name": "Yakamoz",
       "url": "https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Stillness in Motion",
+        "url": "https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Silver Lake",
+      "url": "https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Autumn in Osaka",
-        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
-      },
-      "artists": [
-        {
-          "name": "Vens Adams",
-          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Autumn in Osaka",
-      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 281739,
       "name": "Torimichi",
       "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Autumn in Osaka",
+        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
+      },
+      "artists": [
+        {
+          "name": "Vens Adams",
+          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Autumn in Osaka",
+      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
-      },
-      "artists": [
-        {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219297,
       "name": "to reach a person",
       "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 208000,
       "name": "Maiko's Hope",
       "url": "https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 175799,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
-      },
-      "artists": [
-        {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
-        }
-      ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Hanagasumi",
-        "url": "https://open.spotify.com/album/3bzrY1T1lJig4rGJOb4HbK"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "Amudo",
-          "url": "https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 113250,
-      "name": "Hanagasumi",
-      "url": "https://open.spotify.com/track/09KW355wewsmvejccEewaE"
+      "duration_ms": 185142,
+      "name": "Answer Love",
+      "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Answer Love",
-      "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Kanash\u012b",
         "url": "https://open.spotify.com/album/7dKJrdXcKzoloyreDTxUDB"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 179437,
       "name": "Kanash\u012b",
       "url": "https://open.spotify.com/track/3C8THEDcmKmddbhzznTUbr"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Hanagasumi",
+        "url": "https://open.spotify.com/album/3bzrY1T1lJig4rGJOb4HbK"
+      },
+      "artists": [
+        {
+          "name": "Amudo",
+          "url": "https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan"
+        }
+      ],
+      "duration_ms": 113250,
+      "name": "Hanagasumi",
+      "url": "https://open.spotify.com/track/09KW355wewsmvejccEewaE"
     },
     {
       "added_at": "2024-07-02 15:06:02",

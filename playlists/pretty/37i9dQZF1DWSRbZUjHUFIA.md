@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 
 > Keep your workout 100 with these Hip Hop motivators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,997 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,022 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 50 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
 | 51 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 52 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
-| 53 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 |
-| 54 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
-| 55 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 |
+| 53 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 |
+| 54 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 |
+| 55 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
 | 56 | [Welcome To The Party](https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:34 |
 | 57 | [Vossi Bop](https://open.spotify.com/track/5DXKtoZLm31msT7tNGNHLG) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:16 |
 | 58 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 |

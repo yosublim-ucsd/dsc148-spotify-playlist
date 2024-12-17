@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 431169,
+  "num_followers": 431128,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
         "name": "Only One Flo (Part 1)",
         "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
         "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
@@ -359,26 +359,6 @@
       "duration_ms": 236001,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
     },
     {
       "added_at": "2024-06-25 10:54:39",
@@ -403,6 +383,26 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2024-06-25 10:54:39",
@@ -455,22 +471,6 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2024-06-25 10:54:39",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
     },
     {
       "added_at": "2024-06-25 10:54:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,556 likes - 47 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,818 likes - 47 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 46 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 |
 | 47 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
 
-Snapshot ID: `Z1zKgAAAAACWu2WQsXmiXSYmYLNF9B8+`
+Snapshot ID: `Z14cAAAAAABsUeJmK5MYEytUTPGqEA6e`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,454 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,455 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,17 +52,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 42 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 43 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
 | 44 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
-| 45 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
-| 46 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
-| 47 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
+| 45 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
+| 46 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
+| 47 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 48 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
 | 49 | [Take Me Over](https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Take Me Over](https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB) | 3:28 |
 | 50 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
 | 51 | [One Summer](https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Edge](https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF) | 3:42 |
 | 52 | [So Beautiful \- Single Version](https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:39 |
 | 53 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
-| 54 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
-| 55 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
+| 54 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
+| 55 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
 | 56 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
 | 57 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
 | 58 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 66 | [Steer](https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On A Clear Night \(Deluxe\)](https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3) | 3:51 |
 | 67 | [Burn](https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Greatest Hits 1994 \- 2004](https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz) | 4:24 |
 | 68 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |
-| 69 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
-| 70 | [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Mousetrap Heart](https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7) | 3:52 |
+| 69 | [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Mousetrap Heart](https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7) | 3:52 |
+| 70 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
 
 Snapshot ID: `ZrBqmgAAAABgzIBbvy83/bgor60f0J36`

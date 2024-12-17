@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1192144,
+  "num_followers": 1192319,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAABbtxfvvXU0nuGN72G599pI",
+  "snapshot_id": "Z14cAAAAAAAYQh36bh8OjUSKyflDbYER",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Victors (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37qzw0lNg3SP6vwwGCHEnr"
+      },
+      "artists": [
+        {
+          "name": "Sol Kaplan",
+          "url": "https://open.spotify.com/artist/0SF29Uv75NwjxkTKCUo3Id"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Have Yourself a Merry Little Christmas (feat. Frank Sinatra)",
+      "url": "https://open.spotify.com/track/703fzperBa4pQsFYAANQZf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Fly With Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 120333,
       "name": "When You're Smiling (The Whole World Smiles With You) - 1999 Remastered",
       "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Victors (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37qzw0lNg3SP6vwwGCHEnr"
-      },
-      "artists": [
-        {
-          "name": "Sol Kaplan",
-          "url": "https://open.spotify.com/artist/0SF29Uv75NwjxkTKCUo3Id"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Have Yourself a Merry Little Christmas (feat. Frank Sinatra)",
-      "url": "https://open.spotify.com/track/703fzperBa4pQsFYAANQZf"
     },
     {
       "added_at": null,

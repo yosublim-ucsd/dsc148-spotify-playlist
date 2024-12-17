@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,540 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,616 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 20 | [Amor Da Minha Vida](https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl) | [Carabao O Furioso Do Marajó](https://open.spotify.com/artist/1JESC6Kt3eyYHGz4TwvOV6) | [Carabao O Furioso Do Marajó](https://open.spotify.com/album/5uHPp4xJTqjUapy4Oac13N) | 2:56 |
 | 21 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
 | 22 | [Me Telefona](https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em São Paulo](https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD) | 3:09 |
-| 23 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
-| 24 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
+| 23 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
+| 24 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
 | 25 | [Sou do Norte](https://open.spotify.com/track/08hHdpaOdOaH8feh4qiRN8) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Sou do Norte](https://open.spotify.com/album/2viFBI4mjhFPScVNybzn6l) | 3:02 |
 | 26 | [Dançar Com Itamaraty](https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:00 |
 | 27 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 29 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 |
 | 30 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
 | 31 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
-| 32 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
-| 33 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
+| 32 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
+| 33 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 34 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |
 | 35 | [Ultra Som](https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 4:13 |
 | 36 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |

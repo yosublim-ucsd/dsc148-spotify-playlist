@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 152530,
+  "num_followers": 152548,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAB9Sm0U6YMGn282c7q8+02N",
+  "snapshot_id": "Z14cAAAAAABp20aAtFpmI4gvzQx5aTd7",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -427,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -471,30 +471,6 @@
       "duration_ms": 509977,
       "name": "Talking To Jesus (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 263833,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": null,
@@ -523,6 +499,30 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": null,
@@ -1127,38 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
-      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
     },
     {
       "added_at": null,

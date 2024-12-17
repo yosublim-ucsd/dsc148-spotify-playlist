@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,034 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,162 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 39 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
 | 40 | [Rhythm of the Night](https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8) | [Rhythm of the Night](https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1) | 3:17 |
 | 41 | [One in a Million \- Alok Remix](https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [One in a Million \(Alok Remix\)](https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o) | 2:22 |
-| 42 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
-| 43 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
+| 42 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
+| 43 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
 | 44 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 45 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
 | 46 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |

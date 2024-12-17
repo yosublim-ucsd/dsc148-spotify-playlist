@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 640658,
+  "num_followers": 640677,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1525,38 +1525,6 @@
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "All My Friends Are Hot",
-        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "All My Friends Are Hot",
-      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Time To Go",
-        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
-    },
-    {
       "added_at": "2024-06-05 04:04:17",
       "album": {
         "name": "Bandit (Club Mix)",
@@ -1575,6 +1543,38 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1809,26 +1809,6 @@
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Break The House Down",
-        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 208730,
-      "name": "Break The House Down",
-      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
-    },
-    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Out Of My Head",
@@ -1847,6 +1827,26 @@
       "duration_ms": 204843,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Break The House Down",
+        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "Break The House Down",
+      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2149,6 +2149,22 @@
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ready For Your Love (Odd Mob Remix)",
@@ -2173,20 +2189,20 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
         }
       ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+      "duration_ms": 155156,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2203,22 +2219,6 @@
       "duration_ms": 215192,
       "name": "Freaky Feed Me",
       "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 155156,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -2397,20 +2397,24 @@
       "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "Sex Sells",
-        "url": "https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ"
+        "name": "Girl In The Club",
+        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Robert Flott",
+          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Sex Sells",
-      "url": "https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs"
+      "duration_ms": 182343,
+      "name": "Girl In The Club",
+      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
     }
   ],
   "unique_name": "Tech House Operator",

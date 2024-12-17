@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 70510,
+  "num_followers": 70547,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAACl98Ewx6z7Mj8gQ3xOJ5of",
+  "snapshot_id": "Z14cAAAAAACIXXQ8hjXfx6wsdbZY6V2a",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimmie A Light",
-        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Gimmie A Light",
-      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dlow Curry",
         "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 174545,
       "name": "Pillsbury Dlow (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
     },
     {
       "added_at": null,

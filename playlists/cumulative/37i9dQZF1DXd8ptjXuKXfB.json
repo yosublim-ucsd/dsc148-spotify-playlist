@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
         "name": "Annyi mindent nem szerettem m\u00e9g",
         "url": "https://open.spotify.com/album/3shn8v1zV4pnYK4RiBnknI"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 194693,
       "name": "Elvon\u00f3",
       "url": "https://open.spotify.com/track/33VzphL9XV0wv8x4kLjNJS"
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 205301,
       "name": "Je t'aime",
       "url": "https://open.spotify.com/track/2kvexDnN2GTTQf5tOlwVu6"
@@ -1730,6 +1748,28 @@
       "duration_ms": 183307,
       "name": "joker a pakliban",
       "url": "https://open.spotify.com/track/4jcyeWrkXGmagcKYTPjWor"
+    },
+    {
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154571,
+      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
+      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
     },
     {
       "album": {
@@ -1954,6 +1994,24 @@
       "duration_ms": 205861,
       "name": "K\u00f6rhinta",
       "url": "https://open.spotify.com/track/3mUt3snLTNt90NCt1LOCbp"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "album": {
@@ -2762,7 +2820,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 144375,
       "name": "ON ME",
       "url": "https://open.spotify.com/track/0ME5qVfZeFcavPt9WzA9V4"
@@ -2907,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137614,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
+    },
+    {
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -2930,6 +3006,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
       "album": {
@@ -3366,7 +3460,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 152941,
       "name": "Sok sz\u00e9p l\u00e1ny - Akusztik",
       "url": "https://open.spotify.com/track/0YFMHK6xmhj0QO5PK8AN4q"
@@ -3883,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Utol\u00e9r",
+        "url": "https://open.spotify.com/album/7Ed9DjNWiZ4Tg915L7YIkU"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165584,
+      "name": "Utol\u00e9r",
+      "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
+    },
+    {
+      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
       },
@@ -3942,6 +4054,36 @@
       "duration_ms": 202666,
       "name": "Veled Akarom",
       "url": "https://open.spotify.com/track/1gt4unN60tRVrCT0a0DRev"
+    },
+    {
+      "album": {
+        "name": "Vengo del Fuego",
+        "url": "https://open.spotify.com/album/49L8ZsuB7jbnkswXRjIEtj"
+      },
+      "artists": [
+        {
+          "name": "4tress",
+          "url": "https://open.spotify.com/artist/2IS6u5jUhxydkCuFZXKE3w"
+        },
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        },
+        {
+          "name": "Essemm",
+          "url": "https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu"
+        },
+        {
+          "name": "Giajjenno",
+          "url": "https://open.spotify.com/artist/0P3Mj1c4IloIfE8GXPQPNr"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197234,
+      "name": "Vengo del Fuego",
+      "url": "https://open.spotify.com/track/3KrX4mMn13Ijog4OC2Q1Hd"
     },
     {
       "album": {
@@ -4022,7 +4164,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -4040,7 +4182,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

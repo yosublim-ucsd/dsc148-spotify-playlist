@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 342621,
+  "num_followers": 342571,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 199946,
       "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
       "url": "https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
     },
     {
       "added_at": "2024-10-11 19:37:59",

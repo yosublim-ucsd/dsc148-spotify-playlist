@@ -4,7 +4,7 @@
 
 > welcome to the underground\. greetings from jasmine.4.t.
 
-173 songs - 10 hr 44 min
+174 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cool Moderator](https://open.spotify.com/track/43kHYRjXpqgaq2e8F6skLf) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Cool Moderator](https://open.spotify.com/album/4K3htxHouNm3YG8jLEF6OR) | 2:19 | 2024-07-26 |  |
 | [Cotton Wool](https://open.spotify.com/track/68nSDMMb2CthOa5GVHGz8g) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Cotton Wool](https://open.spotify.com/album/4CSB8LzAKv9IvQiVhbNZse) | 5:06 | 2024-06-14 | 2024-07-13 |
 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 | 2024-11-22 |  |
+| [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-16 |  |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/album/4er5M8euXXFNtJd5PCXA1W) | 3:50 | 2024-06-14 | 2024-11-23 |
 | [desperate ex gf](https://open.spotify.com/track/4rwe5L1jTRpec5674HHAEn) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [desperate ex gf](https://open.spotify.com/album/206drSFK4GDEqO0Nrpiu2F) | 2:27 | 2024-11-22 |  |
 | [Devil Dressed In Disguise](https://open.spotify.com/track/7yH30g05pfREez9IEhqj6c) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Devil Dressed In Disguise](https://open.spotify.com/album/4dwBXlSXeCdTFDwH0U4dKn) | 3:22 | 2024-08-16 |  |

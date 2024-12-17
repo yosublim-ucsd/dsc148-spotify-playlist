@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,394 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,401 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 92 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
 | 93 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
 | 94 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
-| 95 | [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 |
-| 96 | [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:41 |
+| 95 | [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:41 |
+| 96 | [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 |
 | 97 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
 | 98 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
 | 99 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |

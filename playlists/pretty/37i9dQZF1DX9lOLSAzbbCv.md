@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: YARMAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,842 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,846 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Замкнутий контур](https://open.spotify.com/track/1R9UZQgsL2rZJuBmT3WJrF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [Замкнутий контур](https://open.spotify.com/album/4IOx4Td5EQbHWpSov33foo) | 3:12 |
-| 2 | [Ветерани](https://open.spotify.com/track/0HxClcncftQKpABXo3utOm) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap), [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Ветерани](https://open.spotify.com/album/1tecohDEUs4Nu4fE2d8BJO) | 12:13 |
-| 3 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 |
-| 4 | [Люблю тебе](https://open.spotify.com/track/5DWMGBTBYnY4o2wcpoRJwX) | [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Люблю тебе](https://open.spotify.com/album/42bCXXykxLhAJAsj9j7CSE) | 2:09 |
-| 5 | [Ще один день до зими](https://open.spotify.com/track/3xaEJxLFACn7xNYscqf1NE) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Ще один день до зими](https://open.spotify.com/album/7seTgO1XJbOV7t2EAT7zzA) | 2:53 |
-| 6 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 |
+| 2 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 |
+| 3 | [Спальний](https://open.spotify.com/track/4N1rVhNEDZgojA0FJo2fLw) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [dim.slavyanin](https://open.spotify.com/artist/0AfLEABICJVRqs0NYXgKck), [АрХангел](https://open.spotify.com/artist/7Lkrx8ZHssF4eRu7lSHJxJ) | [Спальний](https://open.spotify.com/album/3uNnCjavL1xVjW7Vy1o6gP) | 2:34 |
+| 4 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 |
+| 5 | [Люблю тебе](https://open.spotify.com/track/5DWMGBTBYnY4o2wcpoRJwX) | [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Люблю тебе](https://open.spotify.com/album/42bCXXykxLhAJAsj9j7CSE) | 2:09 |
+| 6 | [Ще один день до зими](https://open.spotify.com/track/3xaEJxLFACn7xNYscqf1NE) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Ще один день до зими](https://open.spotify.com/album/7seTgO1XJbOV7t2EAT7zzA) | 2:53 |
 | 7 | [Листопад](https://open.spotify.com/track/6mNHoMuMLUh5rIxiyICJG5) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Листопад](https://open.spotify.com/album/53O4pGKQMQ9gscRjc6Bus0) | 2:33 |
 | 8 | [ВАВИЛОН](https://open.spotify.com/track/3wDcA4yVxjU1jVu0havb6D) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [ВАВИЛОН](https://open.spotify.com/album/4nazo4fCYSZdf1oNSKGvI1) | 5:06 |
-| 9 | [Спальний](https://open.spotify.com/track/4N1rVhNEDZgojA0FJo2fLw) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [dim.slavyanin](https://open.spotify.com/artist/0AfLEABICJVRqs0NYXgKck), [АрХангел](https://open.spotify.com/artist/7Lkrx8ZHssF4eRu7lSHJxJ) | [Спальний](https://open.spotify.com/album/3uNnCjavL1xVjW7Vy1o6gP) | 2:34 |
-| 10 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 |
-| 11 | [Майже](https://open.spotify.com/track/5ipbFY6lnzlLZ5aGa83v53) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY), [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y) | [Майже](https://open.spotify.com/album/4Zz7foRbVMhcozAT5HHbqO) | 2:26 |
-| 12 | [Скло](https://open.spotify.com/track/5y0Au3AVRCl39nYhWheASD) | [BOTASHE](https://open.spotify.com/artist/1sKj3mJo5bTjxYbrcXjgtE) | [Скло](https://open.spotify.com/album/3zWoJ0mqmwIUiGv5mRWI9a) | 3:51 |
-| 13 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 |
+| 9 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 |
+| 10 | [Майже](https://open.spotify.com/track/5ipbFY6lnzlLZ5aGa83v53) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY), [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y) | [Майже](https://open.spotify.com/album/4Zz7foRbVMhcozAT5HHbqO) | 2:26 |
+| 11 | [Скло](https://open.spotify.com/track/5y0Au3AVRCl39nYhWheASD) | [BOTASHE](https://open.spotify.com/artist/1sKj3mJo5bTjxYbrcXjgtE) | [Скло](https://open.spotify.com/album/3zWoJ0mqmwIUiGv5mRWI9a) | 3:51 |
+| 12 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 |
+| 13 | [Ветерани](https://open.spotify.com/track/0HxClcncftQKpABXo3utOm) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap), [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Ветерани](https://open.spotify.com/album/1tecohDEUs4Nu4fE2d8BJO) | 12:13 |
 | 14 | [Все сильніше](https://open.spotify.com/track/6M6ExnrZackBHCnHlqcyCY) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Все сильніше](https://open.spotify.com/album/4kqfYbVvSeesRoREGTptoo) | 2:02 |
 | 15 | [Сумую](https://open.spotify.com/track/01sV1rP6ZzESFNrxiYiRiB) | [Шершень](https://open.spotify.com/artist/1cyp9wA0OBU8KiqZdb8Xdc), [ТИША](https://open.spotify.com/artist/3tFAzGuMTXgSd5TpUdaTTi) | [Сумую](https://open.spotify.com/album/1VLHjSCWGeZfXJiFeg0feU) | 3:32 |
 | 16 | [Любов, як осінь](https://open.spotify.com/track/6tGMRSkR0nXPQc4SsIP2Uq) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Любов, як осінь](https://open.spotify.com/album/3EMob24jECMo4UwlCWmEzi) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 49 | [ЯТЛ](https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 2:38 |
 | 50 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 |
 
-Snapshot ID: `Z0jn4AAAAADYkWgnDrW500AlpOAVaWX8`
+Snapshot ID: `Z2BdtQAAAAA/tGotDZgBshMQFBY1Tw+L`

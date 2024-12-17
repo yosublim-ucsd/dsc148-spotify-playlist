@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,411 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,423 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 17 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 |
 | 18 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 |
 | 19 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 |
-| 20 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
+| 20 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 |
 | 21 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
-| 22 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 |
+| 22 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 23 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
 | 24 | [my future](https://open.spotify.com/track/3YUMWmx8EJq0DurfuIwoGh) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 |
 | 25 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
@@ -51,24 +51,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 41 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 |
 | 42 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 |
 | 43 | [Rinse & Repeat](https://open.spotify.com/track/3tRKHCjHvLEo5xdfnuRa0Q) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Rinse & Repeat / See Ya Later](https://open.spotify.com/album/3V0D354PkeylO9fMGy5f37) | 2:32 |
-| 44 | [Eyes Wide](https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Eyes Wide](https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN) | 2:27 |
-| 45 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
+| 44 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
+| 45 | [Eyes Wide](https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Eyes Wide](https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN) | 2:27 |
 | 46 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
 | 47 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 | 48 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 49 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
 | 50 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
-| 51 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
-| 52 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 51 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 52 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 53 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 |
 | 54 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
 | 55 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
 | 56 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
 | 57 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
-| 58 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
-| 59 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 |
-| 60 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
-| 61 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
+| 58 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 |
+| 59 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
+| 60 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
+| 61 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
 | 62 | [Puppy](https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:55 |
 | 63 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
 | 64 | [Don't Look at Me Like That](https://open.spotify.com/track/43ZRaLFZJbssEfd9cjcLc7) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Don't Look at Me Like That](https://open.spotify.com/album/2mq4pktC9b6z1CCCJdcvpZ) | 2:47 |

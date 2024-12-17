@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,632 likes - 95 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429,517 likes - 95 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

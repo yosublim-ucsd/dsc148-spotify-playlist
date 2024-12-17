@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 250108,
+  "num_followers": 250160,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Gunfinger (Salute)",
         "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Still Loud",
-          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "YES B!TCH (feat. Rome Fortune)",
         "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 153569,
       "name": "YES B!TCH (feat. Rome Fortune)",
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Still Loud",
+          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "As The Beat Goes Onnn",
         "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "U Should Not Be Doing That",
-        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Bogeyman",
-        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Bogeyman",
-      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Bogeyman",
+        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Bogeyman",
+      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
     },
     {
       "added_at": "2024-12-13 05:00:16",

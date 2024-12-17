@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 242500,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 205823,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP"
@@ -4378,7 +4378,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 198750,
       "name": "For Ellen",
       "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
@@ -9508,7 +9508,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 187490,
       "name": "Need to rest",
       "url": "https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7"
@@ -10811,6 +10811,24 @@
     },
     {
       "album": {
+        "name": "Relent",
+        "url": "https://open.spotify.com/album/6PD5qUWQuoM1mkGIvzxukM"
+      },
+      "artists": [
+        {
+          "name": "Bill Parker",
+          "url": "https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Relent",
+      "url": "https://open.spotify.com/track/4cSlcjniHag6gEkuDXLYOC"
+    },
+    {
+      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o"
       },
@@ -11366,6 +11384,24 @@
       "duration_ms": 222008,
       "name": "Shadows of Yesterday's Love",
       "url": "https://open.spotify.com/track/7C8S8C0QkRz4uxDsQILZU1"
+    },
+    {
+      "album": {
+        "name": "Shared Moments in Time",
+        "url": "https://open.spotify.com/album/03SqMhzGchueeJFtdWb8Eu"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191124,
+      "name": "Shared Moments in Time",
+      "url": "https://open.spotify.com/track/6tHLeViXF9aF7MWY3Gp3Nr"
     },
     {
       "album": {
@@ -13563,6 +13599,24 @@
     },
     {
       "album": {
+        "name": "The Times We Almost Spoke",
+        "url": "https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249934,
+      "name": "The Times We Almost Spoke",
+      "url": "https://open.spotify.com/track/50XpKvY6g0lmk3RLOV9KzX"
+    },
+    {
+      "album": {
         "name": "The Turning Point",
         "url": "https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP"
       },
@@ -15410,7 +15464,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 221392,
       "name": "Worry and Gossip",
       "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
@@ -15576,6 +15630,24 @@
       "duration_ms": 148754,
       "name": "You Know Its Me",
       "url": "https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8"
+    },
+    {
+      "album": {
+        "name": "You Left Me Wondering",
+        "url": "https://open.spotify.com/album/6nXgWXbNkKpxp43jRki01H"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "You Left Me Wondering",
+      "url": "https://open.spotify.com/track/2uW76FILM6UsLxgLxfWcym"
     },
     {
       "album": {
@@ -15878,7 +15950,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"

@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 203479,
+  "num_followers": 203593,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "En Las Alas Del Amor",
         "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 468529,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Porque \u00c9l Vive",
         "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 259700,
       "name": "Porque \u00c9l Vive",
       "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 288800,
       "name": "Jesucristo basta",
       "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 279858,
-      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
-      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1543,6 +1519,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "25 Concierto Conmemorativo",
+        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305626,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1567,18 +1559,26 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "25 Concierto Conmemorativo",
-        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 305626,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/0uwZ5P5zNmkvJDWjtrTM5Z"
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE"
       },
       "artists": [
         {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 312084,
-      "name": "Mi Cristo Vive",
-      "url": "https://open.spotify.com/track/3r0HrAgIIyDgorXKYtmZE4"
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/0uwZ5P5zNmkvJDWjtrTM5Z"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
+      "duration_ms": 312084,
+      "name": "Mi Cristo Vive",
+      "url": "https://open.spotify.com/track/3r0HrAgIIyDgorXKYtmZE4"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1727,8 +1723,28 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE"
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6ullOdkWQVvxOgI1YyC7iz"
       },
       "artists": [
         {
@@ -1736,9 +1752,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs"
+      "duration_ms": 299546,
+      "name": "Enciende una Luz",
+      "url": "https://open.spotify.com/track/7ubpbwZYoyYMhR9TLeaKhG"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Un Brote De Adoracion 2",
-        "url": "https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
-        }
-      ],
-      "duration_ms": 302386,
-      "name": "Me Entrego a Ti",
-      "url": "https://open.spotify.com/track/1tjfTjSWNV1Fo6ZnDKrQaE"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
       },
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Un Brote De Adoracion 2",
+        "url": "https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+        }
+      ],
+      "duration_ms": 302386,
+      "name": "Me Entrego a Ti",
+      "url": "https://open.spotify.com/track/1tjfTjSWNV1Fo6ZnDKrQaE"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 241933,
       "name": "Me Dice Que Me Ama",
       "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6ullOdkWQVvxOgI1YyC7iz"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Enciende una Luz",
-      "url": "https://open.spotify.com/track/7ubpbwZYoyYMhR9TLeaKhG"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-767 songs - 1 day 10 hr 32 min
+769 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,11 +506,11 @@
 | [one minute story 5](https://open.spotify.com/track/5OEFT0jFbvGfigGViE2U0m) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [one minute story 5](https://open.spotify.com/album/3j7tzKN7HpqIEgjQBybZol) | 1:00 | 2022-02-15 | 2022-07-29 |
 | [one minute story 7](https://open.spotify.com/track/1GUHH9g5rVqtd8uFbopxKZ) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [one minute story 7](https://open.spotify.com/album/0mNAVDX12k5as2DZObwmZO) | 1:00 | 2022-07-21 | 2022-07-28 |
 | [One Summer Day](https://open.spotify.com/track/2HgUWneKOGyF0L0to0vQfc) | [Lively Rhymes](https://open.spotify.com/artist/5uuJ6BtUscRMOJduZM48pz) | [One Summer Day](https://open.spotify.com/album/1yH35IhQifMff0rHNFmX4Z) | 2:45 | 2021-12-23 | 2022-07-22 |
-| [only you](https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5) | [COFFLENO](https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk) | [Organic Lo\-fi Beats](https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ) | 1:43 | 2021-12-23 |  |
+| [only you](https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5) | [COFFLENO](https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk) | [Organic Lo\-fi Beats](https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ) | 1:43 | 2021-12-23 | 2024-12-17 |
 | [Open Mind](https://open.spotify.com/track/1XbsOxEd1r2VdJYcvXe3SA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Open Mind](https://open.spotify.com/album/3xRRbdIjIiedJBxd8Njixd) | 2:25 | 2024-07-26 | 2024-10-07 |
 | [Optimistic](https://open.spotify.com/track/08NC9pF2GyJtrwPJbqMH9I) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.1](https://open.spotify.com/album/2t2bFaHhVRmnrRlqmKVOZN) | 4:11 | 2022-01-13 | 2022-06-23 |
 | [Orange Sunshine](https://open.spotify.com/track/5DZMPcHEc1Hqw07PWUZWaZ) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Orange Sunshine](https://open.spotify.com/album/2mfhkXFnK4y7SDrG24NWFN) | 2:06 | 2022-01-06 | 2022-07-23 |
-| [Ordinary days \- Hajime ver.1](https://open.spotify.com/track/3TXwnZ3gcvwNKasLy0vRvQ) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [1秒先の彼 \(Original Soundtrack\)](https://open.spotify.com/album/1O2FR9wr4khiB0zbW5PQry) | 3:32 | 2024-07-04 |  |
+| [Ordinary days \- Hajime ver.1](https://open.spotify.com/track/3TXwnZ3gcvwNKasLy0vRvQ) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [1秒先の彼 \(Original Soundtrack\)](https://open.spotify.com/album/1O2FR9wr4khiB0zbW5PQry) | 3:32 | 2024-07-04 | 2024-12-17 |
 | [Osaka Dreams](https://open.spotify.com/track/74m8IKdAATRhxHXAp5womb) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Osaka Dreams](https://open.spotify.com/album/4LxcGbI7Skh181KfTjKMWz) | 1:49 | 2022-01-13 | 2022-04-21 |
 | [Osaka Dreams](https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Osaka Dreams](https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS) | 1:49 | 2022-07-28 | 2024-04-19 |
 | [Otsuka](https://open.spotify.com/track/2VCPGV7w4t08wYl0Kx749p) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Throwaway Beats for a Throwaway Year, Vol\. 1](https://open.spotify.com/album/4dTRzSSVoNLRHcmyDfZ1TD) | 1:43 | 2021-12-23 | 2022-01-07 |
@@ -685,6 +685,7 @@
 | [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-25 |  |
 | [timeless](https://open.spotify.com/track/5G0hroWVqRyvYt1vtdc2YU) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [timeless](https://open.spotify.com/album/2jq6cl9x3iATAkHPLQG92K) | 2:52 | 2021-12-23 | 2022-07-25 |
 | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/track/1GpnpwnjedpwMLmpnNx2VE) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/album/3yr3bD3xk9IA8xwDkc7zZ2) | 3:53 | 2021-12-23 | 2022-07-29 |
+| [Tiny Scandal](https://open.spotify.com/track/6MAXEued8tWoNSX9Lc9vG9) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Tiny Scandal](https://open.spotify.com/album/3A1PFu2JMd45A5i7zeRyHx) | 5:13 | 2024-12-14 |  |
 | [Tokyo Lounge](https://open.spotify.com/track/5zGVjMpbSAdMLgvYewOup5) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Babouk](https://open.spotify.com/artist/2DX3vCsOZOQBwXlQPvpSYb) | [Tokyo Lounge](https://open.spotify.com/album/4gjvinjabrTIwxC3kiJv5b) | 3:50 | 2021-12-23 | 2022-02-11 |
 | [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 | 2024-06-12 |
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
@@ -750,6 +751,7 @@
 | [winter sunburn](https://open.spotify.com/track/2F6nw7ztr11cC4sQeE6Kcn) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [winter sunburn](https://open.spotify.com/album/5nHOhbEw2vFByKWNUgD4TF) | 2:24 | 2023-12-21 | 2024-02-02 |
 | [wooden piano](https://open.spotify.com/track/3Q6atcj3iYHcmWSS0ZYV8c) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [wooden piano](https://open.spotify.com/album/2qqqbBh9kX1Q93Zgk9B30Y) | 1:20 | 2021-12-23 | 2022-06-26 |
 | [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 | 2024-03-29 |
+| [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-14 |  |
 | [XO](https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F) | [Botsfuneral](https://open.spotify.com/artist/4p5E4RsC9ZcUkyoK5j2Jx0) | [XO](https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN) | 1:58 | 2021-12-23 | 2022-01-16 |
 | [Yanagi Ni Kaze \- rework](https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG), [m.s.t.](https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G) | [Yanagi Ni Kaze \(rework\)](https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs) | 4:34 | 2023-05-18 | 2024-03-11 |
 | [Yarden](https://open.spotify.com/track/4Y2ks8t6QoaWGQaFVrrlug) | [MADLISK](https://open.spotify.com/artist/2tWCWZuRGn0nAE8l8r4H8h) | [Yarden](https://open.spotify.com/album/31keasWCyoW2vJKMoccCh4) | 2:00 | 2022-01-06 | 2022-07-27 |

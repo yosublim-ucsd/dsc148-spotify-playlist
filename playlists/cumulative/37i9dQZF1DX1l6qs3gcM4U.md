@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Biura
 
-443 songs - 1 day 2 hr 1 min
+444 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Nunca Vou Deixar](https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Nunca Vou Deixar](https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0) | 2:52 | 2023-06-22 | 2023-07-14 |
 | [Não Custa Nada](https://open.spotify.com/track/1JJOK1OQcBfJ3Rmm7QlnbZ) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Não Custa Nada](https://open.spotify.com/album/1LOM2FTOJny66rKn9cxu0y) | 3:23 | 2021-12-10 | 2022-07-29 |
 | [Não Devia \(feat\. Loony Johnson\)](https://open.spotify.com/track/1PW7sj7JWnx2tZVHFQGiXj) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Sentido](https://open.spotify.com/album/28WZuF1LX2Uro8jknHSjZc) | 2:58 | 2023-06-22 | 2023-07-14 |
+| [Não Me Importa](https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP) | [Afro Connexion](https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD), [Tommy Guitar](https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti) | [Não Me Importa](https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE) | 3:15 | 2024-12-13 |  |
 | [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 | 2021-12-10 | 2022-09-23 |
 | [Não Pára](https://open.spotify.com/track/3XXtwKEHyPJsgHurZFMWMt) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não Pára](https://open.spotify.com/album/3uCgWZ3De9XUlmkfQXm4z4) | 3:01 | 2022-01-27 | 2022-05-14 |
 | [Não Quero Mais](https://open.spotify.com/track/64zKbo8TgrcW16NYD7AnzC) | [Shaddy](https://open.spotify.com/artist/0qu004hwOrkcLjrizMySth) | [Não Quero Mais](https://open.spotify.com/album/0guLJZ43mNQPp0aeSmBWam) | 3:21 | 2022-02-18 | 2022-02-25 |
@@ -290,7 +291,7 @@
 | [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 | 2022-08-12 | 2022-12-01 |
 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 | 2022-12-09 | 2024-04-19 |
 | [O Jeito Dela \- Original Mix](https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn) | [Gasso](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 4:45 | 2024-03-08 |  |
-| [O Jeito Dela \- Radio Edit](https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq) | [Gasso](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 3:36 | 2024-04-25 |  |
+| [O Jeito Dela \- Radio Edit](https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq) | [Gasso](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 3:36 | 2024-04-25 | 2024-12-17 |
 | [O Lamento](https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [O Lamento](https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1) | 4:00 | 2024-05-23 |  |
 | [O Nosso Amor](https://open.spotify.com/track/23bemRVqcUNl1ujD87upis) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [O Nosso Amor](https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU) | 4:46 | 2021-12-10 |  |
 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 | 2022-07-01 |  |

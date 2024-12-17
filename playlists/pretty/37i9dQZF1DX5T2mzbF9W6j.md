@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,471 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,478 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 11 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
 | 12 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 13 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
-| 14 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
-| 15 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
+| 14 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
+| 15 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 16 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 17 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 18 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 46 | [KONFETTI](https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [KONFETTI](https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy) | 2:34 |
 | 47 | [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 |
 | 48 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 |
-| 49 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
-| 50 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
+| 49 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
+| 50 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
 | 51 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
 | 52 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 |
 | 53 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |

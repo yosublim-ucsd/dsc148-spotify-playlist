@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlighting the best of EQUAL GSA 2024\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,470 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,479 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Wenn es sich gut anfühlt](https://open.spotify.com/track/4WZDb8H8qoMV83MXMhXC3L) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn es sich gut anfühlt](https://open.spotify.com/album/3saWrjGMn6svJsgW4j4tXR) | 2:34 |
 | 12 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
 | 13 | [Am I Enough](https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Am I Enough](https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8) | 2:47 |
-| 14 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 |
-| 15 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |
+| 14 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |
+| 15 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 |
 | 16 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 | 17 | [Weißes Kleid](https://open.spotify.com/track/0yH2GwGb9tm27HoUpItFaQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:28 |
 | 18 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
 | 36 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
 | 37 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
-| 38 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
-| 39 | [Ruf mich nicht mehr an](https://open.spotify.com/track/3CmEeNWeRSjGImTGzEiWCQ) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ruf mich nicht mehr an](https://open.spotify.com/album/4y3gjV3njXIaxUt5fEG94N) | 2:34 |
+| 38 | [Ruf mich nicht mehr an](https://open.spotify.com/track/3CmEeNWeRSjGImTGzEiWCQ) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ruf mich nicht mehr an](https://open.spotify.com/album/4y3gjV3njXIaxUt5fEG94N) | 2:34 |
+| 39 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
 | 40 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
 | 41 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
 | 42 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 59 | [Rave Luv](https://open.spotify.com/track/7lgdQfRT3013oGywUorbKH) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/4A474towWs0lkhRxQaCTs9) | 4:16 |
 | 60 | [Resilience](https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [LUZ1E](https://open.spotify.com/artist/1uHDi1l9z2tGckArGriA7B) | [Resilience](https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs) | 5:00 |
 | 61 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
-| 62 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
-| 63 | [iinsects](https://open.spotify.com/track/65H6jttHa941XAwv5aMiHX) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Aniimals](https://open.spotify.com/album/1i5HiBnbExgAMddySTQZV9) | 3:07 |
+| 62 | [iinsects](https://open.spotify.com/track/65H6jttHa941XAwv5aMiHX) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Aniimals](https://open.spotify.com/album/1i5HiBnbExgAMddySTQZV9) | 3:07 |
+| 63 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
 | 64 | [Jet Matt Set North](https://open.spotify.com/track/3f8XUvdU9jeG6p1WmLwRID) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Jet Matt Set North](https://open.spotify.com/album/1jIv9cqJ3rgywkaJPhqJdE) | 2:50 |
 | 65 | [Stadt Gespräch](https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Stadt Gespräch](https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI) | 2:10 |
 | 66 | [Club](https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Club](https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs) | 1:51 |
 | 67 | [Lose Somebody](https://open.spotify.com/track/4w6qKOQFW6QgTk3XOL3x22) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [See More Glass](https://open.spotify.com/album/0inybIppQ1YFOXscrIDzEA) | 2:55 |
-| 68 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
-| 69 | [Bigger Picture](https://open.spotify.com/track/04BrgQbbdn1Avy6HYtf5UL) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 2:48 |
-| 70 | [Silver Lining](https://open.spotify.com/track/76abq9vlklPrWx9ywFWlQw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 2:53 |
+| 68 | [Silver Lining](https://open.spotify.com/track/76abq9vlklPrWx9ywFWlQw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 2:53 |
+| 69 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
+| 70 | [Bigger Picture](https://open.spotify.com/track/04BrgQbbdn1Avy6HYtf5UL) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 2:48 |
 | 71 | [Wuz poppin](https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Eine Frau ein Wort](https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f) | 2:27 |
 | 72 | [Just Us Going](https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Just Us Going](https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92) | 3:21 |
 | 73 | [The Ground](https://open.spotify.com/track/0sWDjqsNariwsEZUGeiD9u) | [Willow Parlo](https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa) | [See U Whenever](https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Gabito Ballesteros & the hottest corridos in the U.S.",
-  "num_followers": 283553,
+  "num_followers": 283694,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 307565,
-      "name": "EN MI MUNDO",
-      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
-    },
-    {
-      "added_at": "2024-12-13 20:13:38",
-      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2024-12-13 20:13:38",
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 307565,
+      "name": "EN MI MUNDO",
+      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 188361,
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+    },
+    {
+      "added_at": "2024-12-13 20:13:38",
+      "album": {
         "name": "Ya Vali\u00f3 V Mijo",
         "url": "https://open.spotify.com/album/2s5mmGfRGac9feemnIb3mi"
       },
@@ -1419,38 +1435,18 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
-    },
-    {
-      "added_at": "2024-12-13 20:13:38",
-      "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "CALIFORNIA SUNSET",
-      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1491,22 +1487,6 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
-    },
-    {
-      "added_at": "2024-12-13 20:13:38",
-      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2024-12-13 20:13:38",
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "CALIFORNIA SUNSET",
+      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1543,22 +1543,22 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
         }
       ],
-      "duration_ms": 220530,
-      "name": "GTA II",
-      "url": "https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s"
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 220530,
+      "name": "GTA II",
+      "url": "https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s"
+    },
+    {
+      "added_at": "2024-12-13 20:13:38",
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
-    },
-    {
-      "added_at": "2024-12-13 20:13:38",
-      "album": {
-        "name": "Los Brothers",
-        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Los Brothers",
-      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2024-12-13 20:13:38",
-      "album": {
         "name": "Soy VIP",
         "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 181109,
       "name": "Soy VIP",
       "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
+    },
+    {
+      "added_at": "2024-12-13 20:13:38",
+      "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2024-12-13 20:13:38",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2024-12-13 20:13:38",
       "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
       },
       "artists": [
         {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         }
       ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+      "duration_ms": 175271,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
     }
   ],
   "unique_name": "La Privada",

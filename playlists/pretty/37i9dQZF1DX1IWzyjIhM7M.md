@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,133 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,143 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 54 | [While You Were Sleeping](https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [While You Were Sleeping](https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44) | 3:34 |
 | 55 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 56 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
-| 57 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
-| 58 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
+| 57 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
+| 58 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 59 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 |
 | 60 | [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 |
 | 61 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 79 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
 | 80 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
 | 81 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
-| 82 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
-| 83 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
+| 82 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
+| 83 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 84 | [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 |
 | 85 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 86 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 96 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
 | 97 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 98 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
-| 99 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |
-| 100 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
+| 99 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
+| 100 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |
 
 Snapshot ID: `ZZ7AiwAAAAD3bC4wdXCIRTLBPsEwNFWa`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 10 hr 4 min
+175 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baby](https://open.spotify.com/track/4BbVWoRHYM6xwfGyLyXfYa) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/4VSa49ZHs3TmSlJnbdSB0o) | 3:15 | 2023-12-26 | 2024-02-02 |
 | [back to back](https://open.spotify.com/track/0DZC1MiUFjKMSnylbHlv8R) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:45 | 2022-09-08 |  |
 | [Bad For Me](https://open.spotify.com/track/5FUiL77CbrEv7e7aT2jigi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(Official Music Video\)](https://open.spotify.com/album/6TXHMnDzUEvd1RtLUhlBwY) | 3:33 | 2023-12-13 | 2024-02-02 |
+| [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:33 | 2024-12-16 |  |
 | [Bad Habit](https://open.spotify.com/track/0TiUwSybDflJu4Qe2AUoGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:22 | 2022-09-08 |  |
 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 | 2022-09-08 |  |
 | [Bad Together](https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:45 | 2022-09-08 |  |

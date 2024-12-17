@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. cover: jessica pratt ",
-  "num_followers": 840719,
+  "num_followers": 840726,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Lemon",
-        "url": "https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 230909,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "BETA",
         "url": "https://open.spotify.com/album/5RyDQJIkTOl0QMeFZz8UGe"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 260514,
       "name": "Foolmuse",
       "url": "https://open.spotify.com/track/7ab0HieXGKChMstA42bn69"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "AMAMA",
-        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 194800,
       "name": "These Days",
       "url": "https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "every day is a game",
         "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 249687,
       "name": "every day is a game",
       "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "NEVER AGAIN",
-        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "NEVER AGAIN",
-      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "One Million Love Songs",
         "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 183320,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/15uPQvxN5wjdpO8THuhuNP"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "I Can\u2019t Even Cry",
-        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 221771,
-      "name": "I Can\u2019t Even Cry",
-      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
       },
@@ -1405,20 +1389,20 @@
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
     },
     {
-      "added_at": "2024-11-15 17:05:11",
+      "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s"
+        "name": "I Can\u2019t Even Cry",
+        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
+      "duration_ms": 221771,
+      "name": "I Can\u2019t Even Cry",
+      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
     },
     {
       "added_at": "2024-11-15 17:05:11",
@@ -1435,6 +1419,22 @@
       "duration_ms": 213231,
       "name": "IN FEAR, ETC.",
       "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
+    },
+    {
+      "added_at": "2024-11-15 17:05:11",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Charmed",
         "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
       "added_at": "2024-11-15 17:08:45",
@@ -1607,22 +1607,6 @@
       "duration_ms": 225000,
       "name": "what's true?",
       "url": "https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Songs From A Thousand Frames Of Mind",
-        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 207778,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
     },
     {
       "added_at": "2024-11-15 17:08:45",
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda"
+        "name": "Songs From A Thousand Frames Of Mind",
+        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 205609,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
+      "duration_ms": 207778,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
+    },
+    {
+      "added_at": "2024-11-15 17:05:11",
+      "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
     },
     {
       "added_at": "2024-11-15 17:08:45",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/6OS3VD7oJgqhEKTEkkRB94"
     },
     {
-      "added_at": "2024-11-15 17:05:11",
+      "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda"
       },
       "artists": [
         {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 173825,
-      "name": "Falling Down a Well",
-      "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
+      "duration_ms": 205609,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
     }
   ],
   "unique_name": "Indie Chillout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,337 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,356 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 44 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
 | 45 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
 | 46 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 |
-| 47 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 |
-| 48 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
+| 47 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
+| 48 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 |
 | 49 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 |
 | 50 | [歩道橋](https://open.spotify.com/track/2j0DHd8nwPOkxx9UsccKka) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [歩道橋](https://open.spotify.com/album/6QoUQr1AwzQwKla2iyRjHf) | 5:05 |
 | 51 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 54 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
 | 55 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
 | 56 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 |
-| 57 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
-| 58 | [I want tomorrow to come](https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come](https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ) | 4:13 |
+| 57 | [I want tomorrow to come](https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come](https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ) | 4:13 |
+| 58 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 59 | [SPARK!!](https://open.spotify.com/track/307iThLshjnMdUev0bqlr8) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 4:04 |
 | 60 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 |
 | 61 | [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 79 | [また君に恋をする](https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [また君に恋をする](https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb) | 3:26 |
 | 80 | [Sign](https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sign](https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc) | 4:20 |
 | 81 | [Server Down](https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Server Down](https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq) | 2:21 |
-| 82 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
-| 83 | [シャルロッテ](https://open.spotify.com/track/3Pfy9zJN4PiJ7ZtOkIFzIH) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [シャルロッテ](https://open.spotify.com/album/58nTT4CITrAMzza9lmz6pl) | 3:47 |
+| 82 | [Beyond \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [Beyond \(From "Moana 2"/Japanese Soundtrack Version\)](https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w) | 3:50 |
+| 83 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
 | 84 | [僕らはいきものだから](https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [僕らはいきものだから](https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59) | 4:38 |
 | 85 | [ドラマティックおいでよ](https://open.spotify.com/track/6STSaKAtqIo3ESxNgPoyba) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [ドラマティックおいでよ](https://open.spotify.com/album/1fIFn0zrMwPOPE6PvOnWZj) | 3:49 |
 | 86 | [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 |
-| 87 | [Ginger](https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:22 |
-| 88 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 |
-| 89 | [Beyond \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [Beyond \(From "Moana 2"/Japanese Soundtrack Version\)](https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w) | 3:50 |
+| 87 | [シャルロッテ](https://open.spotify.com/track/3Pfy9zJN4PiJ7ZtOkIFzIH) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [シャルロッテ](https://open.spotify.com/album/58nTT4CITrAMzza9lmz6pl) | 3:47 |
+| 88 | [Ginger](https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:22 |
+| 89 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 |
 | 90 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 91 | [愛楽](https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [愛楽](https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a) | 3:00 |
 | 92 | [まずは今日から](https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [まずは今日から](https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw) | 3:50 |
-| 93 | [We All Lie](https://open.spotify.com/track/6aZdiWyBdyuSq9i50YjZe8) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [We All Lie](https://open.spotify.com/album/49CnHwBiS216An5m4r81qL) | 3:17 |
-| 94 | [Break out of your bubble](https://open.spotify.com/track/1VquaVORRRCldISHOOJg7d) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Break out of your bubble](https://open.spotify.com/album/2B107XMs9iWc611wxsyX5p) | 3:56 |
-| 95 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 |
+| 93 | [Break out of your bubble](https://open.spotify.com/track/1VquaVORRRCldISHOOJg7d) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Break out of your bubble](https://open.spotify.com/album/2B107XMs9iWc611wxsyX5p) | 3:56 |
+| 94 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 |
+| 95 | [We All Lie](https://open.spotify.com/track/6aZdiWyBdyuSq9i50YjZe8) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [We All Lie](https://open.spotify.com/album/49CnHwBiS216An5m4r81qL) | 3:17 |
 | 96 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
-| 97 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 |
+| 97 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 |
 | 98 | [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 |
 | 99 | [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 |
-| 100 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 |
+| 100 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 |
 
 Snapshot ID: `Z1hXcAAAAAC8F3RT9i/xhHdl58vaOJ1/`

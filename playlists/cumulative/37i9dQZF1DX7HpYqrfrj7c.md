@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-80 songs - 4 hr 5 min
+81 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,5 +88,6 @@
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2024-06-24 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |
 | [Without A Doubt \- Salaam's Instrumental](https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [Without A Doubt](https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L) | 4:26 | 2024-08-21 |  |
+| [Zeckenbiss](https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#8](https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky) | 3:34 | 2024-12-16 |  |
 
 \*This playlist was first scraped on 2024-06-29. Prior content cannot be recovered.

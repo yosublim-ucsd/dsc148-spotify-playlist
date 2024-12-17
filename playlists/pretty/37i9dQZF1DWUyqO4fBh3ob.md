@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,894 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,917 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 15 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
 | 16 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 |
 | 17 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
-| 18 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 |
+| 18 | [Ghanni](https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ghanni](https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF) | 3:31 |
 | 19 | [Kellon Annek Sa'alouni](https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy) | [Elias Karam](https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR) | [Bass Elak](https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1) | 6:01 |
 | 20 | [La Ana Bensak](https://open.spotify.com/track/1m1MbKuznjpaJcVBHaRBq0) | [Shadi Jamil](https://open.spotify.com/artist/200BwGs3UAf9kQ6e0dllBp) | [Rann El Kaas](https://open.spotify.com/album/4p2g7EyPh4K6SYsmGXdu50) | 7:19 |
 | 21 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
 | 22 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 |
 | 23 | [Ra7 7ibbak Mn Jdeed](https://open.spotify.com/track/5ZiThWWzFLChqM3ijxPjH3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Ra7 7ibbak Mn Jdeed](https://open.spotify.com/album/1ganulkBkR9PjD288vm2Fj) | 4:05 |
 | 24 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
-| 25 | [Ghanni](https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ghanni](https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF) | 3:31 |
+| 25 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 |
 | 26 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |
 | 27 | [Hakyatik Tarab](https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS) | [Samer Gabro](https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH) | [Hakyatik Tarab](https://open.spotify.com/album/6n2KNufhAMPBX5mALEEUWb) | 3:32 |
 | 28 | [Metwadaa](https://open.spotify.com/track/47i3WNZ59Ch7cZrHXeYFhb) | [George Koubaily](https://open.spotify.com/artist/3J7vlOVLXXZRwex8Qt2nFT) | [Metwadaa](https://open.spotify.com/album/0rpKka1NxgkYEvogBStAj2) | 4:16 |

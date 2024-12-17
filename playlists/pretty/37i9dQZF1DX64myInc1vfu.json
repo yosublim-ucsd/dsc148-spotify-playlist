@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 91646,
+  "num_followers": 91674,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Sindicato Del Ritmo",
-        "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Sindicato Del Ritmo",
+        "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Me Vas a Hacer Falta",
+      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Me Vas a Hacer Falta",
-      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Tambi\u00e9n de dolor se canta",
-        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "Tambi\u00e9n de dolor se canta",
-      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Por ti",
         "url": "https://open.spotify.com/album/0AmRFAG5G4Gv9QIQb3RqqY"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 187500,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/2tqdD7XgrlswALoGNA2vMu"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2024-12-06 05:00:00",

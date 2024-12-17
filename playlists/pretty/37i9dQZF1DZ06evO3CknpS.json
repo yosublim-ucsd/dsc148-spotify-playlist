@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1zKgAAAAAC7y4kuf8WYG8EdMsyASFxy",
+  "snapshot_id": "Z14cAAAAAAD0h9O1su3dOc1GOz25oN9O",
   "tracks": [
     {
       "added_at": null,
@@ -232,17 +232,21 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": null,
@@ -324,21 +328,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -372,8 +372,8 @@
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
+      "duration_ms": 537293,
+      "name": "Sonata for violin and piano: Allegro",
+      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     },
     {
       "added_at": null,
@@ -467,26 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 537293,
-      "name": "Sonata for violin and piano: Allegro",
-      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
+      "duration_ms": 252520,
+      "name": "Berceuse, Op. 72, No. 2",
+      "url": "https://open.spotify.com/track/7N2ym4AZsxlHJH1stPzLpB"
     },
     {
       "added_at": null,
@@ -515,22 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Berceuse, Op. 72, No. 2",
-      "url": "https://open.spotify.com/track/7N2ym4AZsxlHJH1stPzLpB"
+      "duration_ms": 181240,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
       "duration_ms": 127720,
       "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/2yQgxybv78OmXgcHxttdDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "Violin Concerto No, 2, Op. 22 - Romance",
+      "url": "https://open.spotify.com/track/7EnLnjtMenKQS7aylMWP65"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "Habanera",
-      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music In and On The Air",
         "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 68560,
       "name": "Commentary 2",
       "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Habanera",
+      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 256466,
       "name": "Song of Grusia, Op. 4, No. 4",
       "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Henryk Wieniawski",
-          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "Violin Concerto No, 2, Op. 22 - Romance",
-      "url": "https://open.spotify.com/track/7EnLnjtMenKQS7aylMWP65"
     },
     {
       "added_at": null,

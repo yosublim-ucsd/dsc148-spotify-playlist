@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,058 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,072 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 18 | [Little White Chapel](https://open.spotify.com/track/1j4Okp2EWef680zQg9SBvl) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Little White Chapel](https://open.spotify.com/album/2K6ZIQk4tlIKQJOnKyrjY1) | 4:03 |
 | 19 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 |
 | 20 | [Your Dog](https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Your Dog](https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3) | 3:29 |
-| 21 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
+| 21 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
 | 22 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
-| 23 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
-| 24 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
-| 25 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 23 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
+| 24 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 25 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
 | 26 | [martingale](https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [martingale](https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9) | 4:17 |
 | 27 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 28 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 45 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 46 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
 | 47 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
-| 48 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
-| 49 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 48 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 49 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
 | 50 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 51 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 |
 | 52 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 69 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
 | 70 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 |
 | 71 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
-| 72 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
-| 73 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 |
-| 74 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
+| 72 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 |
+| 73 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
+| 74 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 |
 | 75 | [Ocean Breeze](https://open.spotify.com/track/6dAJrQ7NfsKHayPci16l0j) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Ocean Breeze](https://open.spotify.com/album/2brAsWtoiQQosqcPUsNtgs) | 2:29 |
 | 76 | [No One's Gonna Love You Like I Can](https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [No One’s Gonna Love You Like I Can](https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu) | 2:02 |
 | 77 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |

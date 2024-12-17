@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,719,326 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719,724 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 69 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 70 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 71 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
-| 72 | [Demons \(feat\. Denzel Curry\)](https://open.spotify.com/track/6EAOvJREWqTN1r87ZgW30l) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 2:16 |
-| 73 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 |
+| 72 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 |
+| 73 | [Demons \(feat\. Denzel Curry\)](https://open.spotify.com/track/6EAOvJREWqTN1r87ZgW30l) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 2:16 |
 | 74 | [LIKE ME \(feat\. 42 Dugg & Lil Baby\)](https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:12 |
 | 75 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 |
 | 76 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |

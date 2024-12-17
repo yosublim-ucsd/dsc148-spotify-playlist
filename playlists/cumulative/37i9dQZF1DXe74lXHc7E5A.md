@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Skepta
 
-493 songs - 1 day 1 hr 5 min
+494 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 | 2024-01-28 |
 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-05 | 2024-01-21 |
 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 0:47 | 2022-08-26 | 2023-02-06 |
-| [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2023-11-10 |  |
+| [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2023-11-10 | 2024-12-17 |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-16 | 2023-09-19 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-07 |  |
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-12-08 | 2023-12-22 |
@@ -436,6 +436,7 @@
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-05-07 | 2024-12-06 |
 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 | 2023-08-03 |  |
 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-03-08 | 2024-09-10 |
+| [Thank You](https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 2:43 | 2024-12-16 |  |
 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-04 | 2023-06-03 |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-27 | 2023-02-24 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-09 | 2023-10-02 |

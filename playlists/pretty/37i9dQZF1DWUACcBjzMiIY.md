@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a comfortable drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,912 likes - 200 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,021 likes - 200 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 42 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 43 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 44 | [Sea Gets Hotter](https://open.spotify.com/track/5ZK62nSchTamBy8F6HIZov) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:17 |
-| 45 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
-| 46 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 45 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 46 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 47 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 48 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
 | 49 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 |
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 128 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
 | 129 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 |
 | 130 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 |
-| 131 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 132 | [Slow Hands](https://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands](https://open.spotify.com/album/6nkXOiymyczxK1XCZW5HEk) | 3:08 |
+| 131 | [Slow Hands](https://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands](https://open.spotify.com/album/6nkXOiymyczxK1XCZW5HEk) | 3:08 |
+| 132 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
 | 133 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 |
-| 134 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
+| 134 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 135 | [Say Something](https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Say Something](https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5) | 3:49 |
 | 136 | [Next To Me](https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:16 |
 | 137 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 148 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
 | 149 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 |
 | 150 | [Drivin](https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:31 |
-| 151 | [100 Years](https://open.spotify.com/track/0B5KeB25moPkcQUnbDvj3t) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle For Everything](https://open.spotify.com/album/3o03nl4jDQYUDuX9d8lylY) | 4:04 |
-| 152 | [Golden Slumbers](https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Golden Slumbers](https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE) | 2:24 |
+| 151 | [Golden Slumbers](https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Golden Slumbers](https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE) | 2:24 |
+| 152 | [100 Years](https://open.spotify.com/track/0B5KeB25moPkcQUnbDvj3t) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle For Everything](https://open.spotify.com/album/3o03nl4jDQYUDuX9d8lylY) | 4:04 |
 | 153 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 |
 | 154 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
 | 155 | [Stand and Deliver](https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:43 |

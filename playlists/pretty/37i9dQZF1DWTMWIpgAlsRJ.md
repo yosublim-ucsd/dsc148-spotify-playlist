@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,410 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,423 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 39 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 40 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 |
 | 41 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
-| 42 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
-| 43 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
+| 42 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
+| 43 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
 | 44 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
 | 45 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 46 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 88 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
 | 89 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
 | 90 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 |
-| 91 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 |
-| 92 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |
+| 91 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |
+| 92 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 |
 | 93 | [Cocoon](https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay) | 3:56 |
 | 94 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
 | 95 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |

@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with L.S\. Dunes \(pictured\), Superheaven, Footballhead, Flycatcher and more.
+> The shape of noise to come with Teenage Wrist \(pictured\), Superheaven, Footballhead, Flycatcher and more.
 
-754 songs - 1 day 19 hr 1 min
+757 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Hunger In Your Haunt](https://open.spotify.com/track/3SCDUKP0PpE3ePJwNDoCyL) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Myth of The Happily Ever After](https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI) | 3:49 | 2021-12-16 | 2022-04-01 |
 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 | 2024-02-09 | 2024-06-15 |
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-10 | 2023-04-15 |
-| [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-21 |  |
+| [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-21 | 2024-12-17 |
 | [After](https://open.spotify.com/track/0TLoVayT4L0wK8XqSJmcnN) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [Summer23](https://open.spotify.com/album/0bFEzvjsasoFJt9OBJVeC0) | 4:11 | 2023-10-20 | 2024-06-08 |
 | [Ain't Hard To Tell](https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 3:11 | 2023-11-16 | 2024-05-18 |
 | [Airborne Panic Attack](https://open.spotify.com/track/14TdZYBmuK8aKl9yTAQ9ud) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Airborne Panic Attack](https://open.spotify.com/album/5FdmmdyUz9j9B4sE3iRZ1v) | 3:14 | 2021-12-16 | 2022-03-25 |
@@ -154,6 +154,7 @@
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 | 2022-09-07 |
 | [CLOSER THAN YOU KNOW](https://open.spotify.com/track/027JT6Q5U65J3gfGP57O04) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [FREAKING OUT](https://open.spotify.com/album/3fQVuGIMarjBD54MxqMP22) | 4:49 | 2024-06-07 | 2024-10-19 |
 | [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2024-02-16 | 2024-08-03 |
+| [Cold Case \- Kurt Ballou Mix](https://open.spotify.com/track/51DetOrim3PuO2qc8datc2) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:45 | 2024-12-16 |  |
 | [Cold Sweats](https://open.spotify.com/track/12tsMXFxuVQo1eTECMaoSu) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Cold Sweats](https://open.spotify.com/album/3qaP9Ek4EgIhr12uMi36TN) | 3:34 | 2024-01-19 | 2024-01-27 |
 | [Cold Walks To The Liquor Store](https://open.spotify.com/track/0yLiQkBUW3KpIVgbv0v9T3) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Cold Walks To The Liquor Store](https://open.spotify.com/album/3273DDylYFy8ltZLtpCqjK) | 2:56 | 2023-07-28 | 2023-11-11 |
 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-02-02 | 2024-04-19 |
@@ -226,6 +227,7 @@
 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-20 | 2024-11-05 |
 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2021-12-16 | 2022-05-27 |
 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 | 2023-12-14 | 2024-06-29 |
+| [Easy Life](https://open.spotify.com/track/7kQmNtk8PfmjquOzfu8j6r) | [Love As Always](https://open.spotify.com/artist/5W2qYw2mJRmrahG94eSZVp) | [The Grey](https://open.spotify.com/album/2G1ihrwJMHa3m6jNj8rWkc) | 3:30 | 2024-12-16 |  |
 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 | 2022-03-24 | 2022-05-13 |
 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 | 2024-04-05 | 2024-08-24 |
 | [Edin \(feat\. Geoff Rickly and Steve Pedulla\)](https://open.spotify.com/track/0dXWrvc1HFCGvxSlap8rJh) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Steve Pedulla](https://open.spotify.com/artist/6QOfyxeEqs8GfotvSBVF38) | [Edin](https://open.spotify.com/album/1loDJQ76e94PP9mrsYDUTY) | 2:43 | 2024-06-28 | 2024-07-16 |
@@ -509,7 +511,7 @@
 | [Other Side](https://open.spotify.com/track/7c68KmaLiN5hpYrNCDtRPm) | [Stranger Than](https://open.spotify.com/artist/3X8ATpVbe6OOzsXPiaYQ5P) | [Other Side](https://open.spotify.com/album/3z6ltHIKz0S43EyNRM8rk2) | 2:26 | 2024-03-27 | 2024-10-19 |
 | [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 | 2024-04-19 | 2024-09-21 |
 | [Out Of the Dark and into the Light](https://open.spotify.com/track/2M01sUTKph6pqR7J5j79Er) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Out of the Dark and Into the Light](https://open.spotify.com/album/03wqT0b3aui6059tTnSqqs) | 2:59 | 2022-09-30 | 2023-01-14 |
-| [Over & Over](https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Over & Over](https://open.spotify.com/album/22cmhOAfNKARIxF2gUs37T) | 3:14 | 2024-08-16 |  |
+| [Over & Over](https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Over & Over](https://open.spotify.com/album/22cmhOAfNKARIxF2gUs37T) | 3:14 | 2024-08-16 | 2024-12-17 |
 | [Pain of Glass](https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:28 | 2023-02-02 | 2024-06-08 |
 | [Paper Tigers](https://open.spotify.com/track/2iGF5rgKHNsWVJPyKKZEd8) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Paper Tigers](https://open.spotify.com/album/2oCT4kkh0V83604cwYpUbn) | 3:48 | 2024-11-26 |  |
 | [Parallax Error](https://open.spotify.com/track/1ZbV4k4Wmlak6USIovaob2) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Parallax Error // Asymmetry](https://open.spotify.com/album/1OO83l1Zj8DRhRGY51qsGF) | 3:24 | 2023-07-20 | 2023-07-29 |
@@ -548,6 +550,7 @@
 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 | 2024-01-19 | 2024-02-17 |
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 | 2022-09-07 |
 | [Recovery](https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7) | [SPICE](https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM) | [Viv](https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba) | 3:08 | 2022-10-21 | 2023-03-11 |
+| [Reflections](https://open.spotify.com/track/790xizyegqSM8C5eGDR0ob) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Reflections](https://open.spotify.com/album/6NoiFpWHAxvbrazTOq2ndD) | 4:46 | 2024-12-16 |  |
 | [Rejoice](https://open.spotify.com/track/2mnZWMlT3qedh1c5rhbA1t) | [Dull Mourning](https://open.spotify.com/artist/2j8vT8beMEewV4f0lWa2ew) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 2:59 | 2022-09-06 | 2023-02-18 |
 | [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-08-25 | 2024-02-17 |
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 | 2022-10-15 |
@@ -681,7 +684,7 @@
 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 | 2022-03-24 | 2022-09-07 |
 | [There Goes The Dream](https://open.spotify.com/track/7gy7AgYoXeb2NAub6adnq1) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [There Goes The Dream](https://open.spotify.com/album/02EILWdHpBKFmxWAByarQE) | 3:35 | 2024-07-26 | 2024-10-19 |
 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-03-27 | 2024-08-31 |
-| [This Feeling](https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM) | [This Feeling](https://open.spotify.com/album/0GsvF8QKvM13nSwo5l4LRK) | 3:27 | 2024-08-16 |  |
+| [This Feeling](https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM) | [This Feeling](https://open.spotify.com/album/0GsvF8QKvM13nSwo5l4LRK) | 3:27 | 2024-08-16 | 2024-12-17 |
 | [This is All There Is](https://open.spotify.com/track/3yamFr9Mxqozi4fOLFNnTw) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [The Atheist](https://open.spotify.com/album/6TKSQWBrlXifkLPGUrbKW6) | 2:50 | 2022-11-25 | 2022-12-16 |
 | [This Part of Me](https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h), [ZANDV](https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0) | [This Part of Me](https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ) | 3:43 | 2023-02-09 | 2023-07-04 |
 | [Thought You Were Waving](https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Thought You Were Waving](https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv) | 3:02 | 2024-07-15 | 2024-09-14 |

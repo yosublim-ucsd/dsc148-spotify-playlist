@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Winny
 
-691 songs - 1 day 10 hr 13 min
+692 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Coco Marijuana](https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:57 | 2022-01-21 | 2022-02-18 |
 | [Cocoa Butter](https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [Cocoa Butter](https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ) | 1:53 | 2024-10-04 |  |
 | [Cocoa Butter](https://open.spotify.com/track/4nJood9eQoAj6T412JfGvx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9) | [Coco Butter](https://open.spotify.com/album/6XbRSuQaukH0Ywp6z019lU) | 2:46 | 2022-03-03 | 2022-03-05 |
-| [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War \(with FAVE\)](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 | 2024-06-14 |  |
+| [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War \(with FAVE\)](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 | 2024-06-14 | 2024-12-17 |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-25 | 2024-03-01 |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 | 2022-09-23 | 2023-01-27 |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2022-12-18 | 2023-05-13 |
@@ -546,6 +546,7 @@
 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 | 2024-10-25 |  |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-03-29 |  |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-28 |
+| [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 | 2024-12-16 |  |
 | [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 | 2023-01-27 | 2023-02-04 |
 | [Searching](https://open.spotify.com/track/7AKiA7fmXGjBqozZzKhhDu) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Searching](https://open.spotify.com/album/16cdT3kzDu99BEAxrIgTcR) | 3:06 | 2021-10-14 | 2022-03-25 |
 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 | 2023-04-27 | 2023-05-05 |

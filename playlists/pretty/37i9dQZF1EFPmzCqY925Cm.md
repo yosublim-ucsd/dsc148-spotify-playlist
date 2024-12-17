@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 14 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 15 | [What You Want](https://open.spotify.com/track/7hjXgc6eOXtYDEgCNROUMs) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [What You Want](https://open.spotify.com/album/1FmlNS4zMot7O3l0yjT30W) | 2:54 |
 | 16 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 |
-| 17 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
-| 18 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 17 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 18 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
 | 19 | [If You're Gonna Leave](https://open.spotify.com/track/0kWQkRj6pUnZkfYd5vC3uM) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [If You're Gonna Leave](https://open.spotify.com/album/7ClqmH7mHLiaboyJXNpdyb) | 3:05 |
 | 20 | [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 |
 | 21 | [hung up on u](https://open.spotify.com/track/13UOvm8VUEAoyJDaAdiTqV) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [hung up on u](https://open.spotify.com/album/6KZc2DR22wkT60QK8a9Mz8) | 2:48 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 52 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
 | 53 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AbkPaAAAAAByYycOJ33BXMK/FwoifvXJ`
+Snapshot ID: `AbkU9AAAAABlVHV6yBwXn7ECZKg+zvcd`

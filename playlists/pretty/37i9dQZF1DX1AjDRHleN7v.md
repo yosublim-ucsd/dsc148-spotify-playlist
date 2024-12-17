@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,275 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,502 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 44 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
 | 45 | [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 |
 | 46 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
-| 47 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
-| 48 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 47 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 48 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
 | 49 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
 | 50 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
 | 51 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |

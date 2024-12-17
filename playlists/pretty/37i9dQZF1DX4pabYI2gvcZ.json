@@ -1,6 +1,6 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 161356,
+  "num_followers": 161413,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -799,34 +799,18 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -843,6 +827,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     }
   ],
   "unique_name": "Cantando en el Ba\u00f1o",

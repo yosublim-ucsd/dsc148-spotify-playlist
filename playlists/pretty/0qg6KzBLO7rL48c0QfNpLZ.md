@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,389 likes - 156 songs - 6 hr 45 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,373 likes - 160 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 154 | [Magical Days](https://open.spotify.com/track/4Gfg6Ka58w3HkDE8JxHHiq) | [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn) | [Magical Days](https://open.spotify.com/album/3fmK2L6oo2wb9FEzBsxTUM) | 2:16 |
 | 155 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
 | 156 | [Every Breath You Take](https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Luciana Silva](https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF) | [Every Breath You Take](https://open.spotify.com/album/0jjx2pnlETHOiAitNNwkEl) | 2:15 |
+| 157 | [Dreamin'](https://open.spotify.com/track/3FtqkEST8eFWmh8opcCLgB) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Dreamin'](https://open.spotify.com/album/2pizxuZI66qn7vbhOpRa5z) | 2:17 |
+| 158 | [Make Me Feel \(feat\. maybealice\)](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Make Me Feel \(feat\. maybealice\)](https://open.spotify.com/album/5sJRg8uokPWOs9lQfEiuCA) | 2:31 |
+| 159 | [Jewels \(Stuck On You\)](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW) | [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Annahita](https://open.spotify.com/artist/3G64thGPPGf8vQP7ZSuIZs) | [Jewels \(Stuck On You\)](https://open.spotify.com/album/4vSSCM2ELNfd3KjMgGY4U9) | 2:53 |
+| 160 | [We Belong Together \(feat\. Michael Hausted\)](https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Michael Hausted](https://open.spotify.com/artist/0QlmyIn6tbtm2hn8dpljom) | [We Belong Together](https://open.spotify.com/album/4zEe9tBcYeo82snVqlznVh) | 2:21 |
 
-Snapshot ID: `AAAb9irq3s15Efffl6b0R2c0JK3pttWj`
+Snapshot ID: `AAAb+qvA/qAxtT7AUAYAAgCK5vlAFolK`

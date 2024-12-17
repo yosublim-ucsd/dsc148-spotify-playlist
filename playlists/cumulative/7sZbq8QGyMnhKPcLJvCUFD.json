@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "CHEAT CODES",
+        "url": "https://open.spotify.com/album/1qzpCa6E72boKZ3gf7QpTS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "CHEAT CODES",
+      "url": "https://open.spotify.com/track/5yGTjvc0o9OwCtTJ1MzpRy"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR"
       },

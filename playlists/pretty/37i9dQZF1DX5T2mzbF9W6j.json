@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110471,
+  "num_followers": 110478,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
-        "name": "Cyrk",
-        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Cyrk",
-      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
         "name": "The Great Magician",
         "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 183687,
       "name": "The Great Magician",
       "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
+        "name": "Cyrk",
+        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Cyrk",
+      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
     },
     {
       "added_at": "2024-12-09 10:33:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 
 > ¿A vuelta de rueda? Con esta playlist el camino será más ligero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,594 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,738 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 | 72 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
 | 73 | [Supongo Que Lo Sabes](https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:46 |
 | 74 | [Pocos Años Mil Errores](https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Carlos Manjarrez](https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK) | [Pocos Años Mil Errores](https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe) | 3:18 |
-| 75 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
+| 75 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 
 Snapshot ID: `Z0mCJQAAAAB7ji6T9RjYM0MN/hJTQVJ5`

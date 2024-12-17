@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,901 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,249 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 40 | [Jingle Bell Rock](https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Jingle Bell Rock](https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5) | 3:00 |
 | 41 | [Driving Home For Christmas](https://open.spotify.com/track/1R87nOHx4YRvHoiovqZUed) | [Holidayz](https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk) | [Christmas Dance Party Vol\. 1](https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX) | 4:15 |
 | 42 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 |
-| 43 | [Wonderful Dream](https://open.spotify.com/track/1Vu7ESFr1xEIY533Ociud2) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Wonderful Dream](https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz) | 3:22 |
+| 43 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
 | 44 | [Last Christmas](https://open.spotify.com/track/3P7DrnRrt3XLoe2odbmmmy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Last Christmas](https://open.spotify.com/album/7KlROETN0RONIZYAcYUNbV) | 2:29 |
 | 45 | [Lover for the Holidays](https://open.spotify.com/track/0HXAk2NyaZ3Fh3Ij264oiA) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [John Paul Lakes](https://open.spotify.com/artist/3Ke9ubVapReZsiJUiZ51sJ) | [Lover for the Holidays](https://open.spotify.com/album/61iHgtVbmea15my3kYySej) | 3:44 |
-| 46 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
+| 46 | [Wonderful Dream](https://open.spotify.com/track/1Vu7ESFr1xEIY533Ociud2) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Wonderful Dream](https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz) | 3:22 |
 | 47 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 48 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
 | 49 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |

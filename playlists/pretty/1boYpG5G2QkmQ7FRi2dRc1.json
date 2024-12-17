@@ -1,12 +1,12 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 290244,
+  "num_followers": 290230,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAILoRakKHH6VJxhQwLxu5yUg4sROPd",
+  "snapshot_id": "AAAILypzcuhhuBfhEa1QeDSmT9a+NnKX",
   "tracks": [
     {
       "added_at": "2024-11-30 11:26:30",
@@ -27,6 +27,58 @@
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "added_at": "2024-12-16 12:01:26",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/7zzq5fe5RxidA8L36MuaCy"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "duration_ms": 183488,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6jUdm6vlTbiqEuzCcCkEoq"
+    },
+    {
+      "added_at": "2024-12-16 12:01:26",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr"
+    },
+    {
+      "added_at": "2024-12-16 12:01:26",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3VY0mErp4L6ZsufkFl9DSw"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Romeo Blanco",
+          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
+        }
+      ],
+      "duration_ms": 204921,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4LKSa6eS413HVzxnZeJV3P"
     },
     {
       "added_at": "2024-11-30 11:26:30",

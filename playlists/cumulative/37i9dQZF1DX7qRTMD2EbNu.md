@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Skyface SDW
+> Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-657 songs - 1 day 9 hr 2 min
+658 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [No Off Days](https://open.spotify.com/track/1e3fEe1Aiqs6pLWQSDrtkj) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP), [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Playground](https://open.spotify.com/album/3F7wS0f5KYELc3QPhf6OU6) | 3:20 | 2023-06-22 | 2023-07-14 |
 | [No Opps](https://open.spotify.com/track/5wjVcdwx3j9REM2GPDuXRN) | [REMY DAVID](https://open.spotify.com/artist/4PSyQ3KVA4gYKKNMiXEjAV) | [Pain on Sound](https://open.spotify.com/album/1ZsJwPvltPI79MbYCmYSJP) | 2:33 | 2023-06-16 | 2023-08-11 |
 | [No Shiver](https://open.spotify.com/track/4jZ2dPpgMBEgcEJENkVKqE) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [No Shiver](https://open.spotify.com/album/5ewDJQwt5nogMjjX240T5R) | 3:24 | 2024-08-02 | 2024-08-30 |
+| [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 | 2024-12-16 |  |
 | [No Stress](https://open.spotify.com/track/6wehEcOgdc1ODpxWrJqEQ9) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [G.I.N.A](https://open.spotify.com/album/5FP1OJulMa7Y7siPhErW2F) | 4:39 | 2022-10-28 | 2022-11-16 |
 | [No Warning](https://open.spotify.com/track/7h7DxskWu6P3aFCrlw7xqe) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y) | [No Warning](https://open.spotify.com/album/5515FyYn7WI1F07lNonAni) | 3:53 | 2023-06-02 | 2023-06-17 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-06-24 | 2024-02-03 |

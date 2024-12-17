@@ -4,7 +4,7 @@
 
 > Detty December 2025!
 
-454 songs - 1 day 1 hr 58 min
+455 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-01-07 | 2022-12-20 |
 | [NOSTALGIA](https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 2:05 | 2023-12-20 | 2023-12-30 |
 | [Obaa Hemaa](https://open.spotify.com/track/7aE7Icgz0lehLspnBk071W) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/4bRPGKSqY2BPd3WZu9Ilam) | 3:04 | 2023-12-13 | 2024-12-14 |
+| [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 | 2024-12-16 |  |
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-12-13 |  |
 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2023-12-13 | 2024-12-14 |
 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6) | 3:25 | 2024-12-13 |  |
@@ -442,7 +443,7 @@
 | [Welcome Home](https://open.spotify.com/track/1PD61j8mLKgSd6ww1rzJ1J) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 4:15 | 2024-03-29 | 2024-12-14 |
 | [Welcome Home](https://open.spotify.com/track/6z8l5owiiRdfybVXEOCjBw) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Welcome Home](https://open.spotify.com/album/3v35TFoVt7VKIeorNPrXfO) | 4:16 | 2023-12-13 | 2024-04-19 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-12-20 | 2023-12-30 |
-| [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2024-12-13 |  |
+| [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2024-12-13 | 2024-12-17 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2024-01-03 | 2024-03-30 |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2021-12-31 | 2022-01-08 |
 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 | 2021-12-31 | 2022-01-08 |

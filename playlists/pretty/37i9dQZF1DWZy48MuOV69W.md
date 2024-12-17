@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,076 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,064 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 23 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |
 | 24 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
 | 25 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
-| 26 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
-| 27 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
+| 26 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
+| 27 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
 | 28 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |
 | 29 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 |
 | 30 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 3:26 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 36 | [O Come All Ye Faithful](https://open.spotify.com/track/6LWdAiqeXcgKp5tSq13o0y) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:14 |
 | 37 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
 | 38 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ホセ・ジェイムズのクリスマス・タイム](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 |
-| 39 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
-| 40 | [Christmas Time Is Here](https://open.spotify.com/track/5yw9rlqduH5MoLCfGqTGgD) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Christmas Time Is Here](https://open.spotify.com/album/6PPcQRmwhQ4Uo6n2zhPdOT) | 2:44 |
+| 39 | [Christmas Time Is Here](https://open.spotify.com/track/5yw9rlqduH5MoLCfGqTGgD) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Christmas Time Is Here](https://open.spotify.com/album/6PPcQRmwhQ4Uo6n2zhPdOT) | 2:44 |
+| 40 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 | 41 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 |
 | 42 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 | 43 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |

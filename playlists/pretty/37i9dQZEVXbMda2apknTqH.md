@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,174 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,179 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 29 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
 | 30 | [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 |
 | 31 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
-| 32 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
+| 32 | [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 |
 | 33 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 34 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
 | 35 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 43 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [The Classic Christmas Album](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) | 2:35 |
 | 44 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 |
 | 45 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 46 | [Too Sweet](https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 4:11 |
+| 46 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 |
 | 47 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 48 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 49 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 |
 | 50 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
 
-Snapshot ID: `LvJIeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvOXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

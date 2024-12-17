@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,843 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,862 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 23 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 24 | [Pude](https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Pude](https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI) | 3:30 |
 | 25 | [¿Desde Cuándo No Me Quieres?](https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 3:24 |
-| 26 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
-| 27 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
+| 26 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
+| 27 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
 | 28 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
 | 29 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
 | 30 | [En Qué Cabeza Cabe](https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 50 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
 | 51 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 |
 
-Snapshot ID: `Z1zKgAAAAAA1Englhc3Jq5YqZB92mokb`
+Snapshot ID: `Z14cAAAAAABef8PFt+fjO8F0NKPfSwMk`

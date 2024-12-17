@@ -4,13 +4,13 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Vela Puerca
 
-349 songs - 1 day 2 hr 24 min
+350 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Estrellas \- Acústico En Vivo](https://open.spotify.com/track/4Xq5AFbztTVLbJDJngtSPv) | [Charlie 3](https://open.spotify.com/artist/3RwrtPalOirm2bzT7B1NPS) | [1000 Estrellas \(Acústico en Vivo\)](https://open.spotify.com/album/7zXVYqRBXFUDyPmw8cXgi7) | 3:38 | 2022-04-01 | 2022-06-04 |
 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 | 2022-04-01 |  |
-| [14 de Julio \- En Vivo](https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk), [Gabriel Peluffo](https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6) | [14 de Julio \(En Vivo\)](https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn) | 3:37 | 2024-07-12 |  |
+| [14 de Julio \- En Vivo](https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk), [Gabriel Peluffo](https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6) | [14 de Julio \(En Vivo\)](https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn) | 3:37 | 2024-07-12 | 2024-12-17 |
 | [192 Manga \- En Vivo \- Medellín](https://open.spotify.com/track/4dnqnS5f8Fkfdxlx9qmgkO) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [192 Manga \(En Vivo \- Medellín\)](https://open.spotify.com/album/4SG9MURY6LHYaqf74Yk9oR) | 3:21 | 2022-04-01 | 2022-07-28 |
 | [1986 \- En Vivo](https://open.spotify.com/track/0fJsvCUqUN01VS5IpSoaNs) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [El Rostro y la Luna \(En Vivo\)](https://open.spotify.com/album/7jXg6Wue65xKLUyEM2wZEB) | 4:41 | 2024-09-12 |  |
 | [A Dónde Vas \- Acústico en Vivo](https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 3:47 | 2022-04-01 |  |
@@ -94,6 +94,7 @@
 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 | 2022-04-01 |  |
 | [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 | 2022-04-01 |  |
 | [Desaparecer \- Vivo en Luna Park](https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Vivo Luna Park, Pt\. 1](https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4) | 4:23 | 2024-10-10 |  |
+| [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 | 2024-12-16 |  |
 | [Desconfío de la Vida \- En Vivo Cosquín Rock](https://open.spotify.com/track/2nbUX5PBic49CsgLmV2X4O) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 6:46 | 2022-04-01 | 2023-10-07 |
 | [Desde Lejos No Se Ve](https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:07 | 2022-06-24 | 2024-04-19 |
 | [Desde Lejos No Se Ve \(En Vivo en River 2018\)](https://open.spotify.com/track/2PqLEZXgV4DVuZSRTBooOY) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:07 | 2022-04-01 | 2022-07-27 |

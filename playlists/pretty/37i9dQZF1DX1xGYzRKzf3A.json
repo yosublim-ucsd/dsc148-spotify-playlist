@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 148809,
+  "num_followers": 148844,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -179,8 +179,8 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "15 Super Exitos",
-        "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
+        "name": "Cumbia Embajadora",
+        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 236538,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
+      "duration_ms": 218337,
+      "name": "Cumbia de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Cumbia Embajadora",
-        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 218337,
-      "name": "Cumbia de Nuevo Le\u00f3n",
-      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "15 Super Exitos",
+        "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 236538,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
-        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
-      },
-      "artists": [
-        {
-          "name": "Paco Silva y su Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "20 a\u00f1os",
-      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "La Pura Crema",
         "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 227674,
       "name": "Que Me Toque Una Cumbita (La Cumbita)",
       "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
+      },
+      "artists": [
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "20 a\u00f1os",
+      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Cumbia Explosiva",
         "url": "https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 276240,
       "name": "Cumbia Explosiva",
       "url": "https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1859,38 +1859,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "La Fiesta de Maria Dolores",
-        "url": "https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl"
-      },
-      "artists": [
-        {
-          "name": "Los Primeritos de Colombia",
-          "url": "https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8"
-        }
-      ],
-      "duration_ms": 204355,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "La Cervecita",
-      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Chimenea (En Vivo)",
         "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
       },
@@ -1919,6 +1887,38 @@
       "duration_ms": 219509,
       "name": "Eras",
       "url": "https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "La Cervecita",
+      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "La Fiesta de Maria Dolores",
+        "url": "https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl"
+      },
+      "artists": [
+        {
+          "name": "Los Primeritos de Colombia",
+          "url": "https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W"
     },
     {
       "added_at": "2024-07-15 22:48:03",

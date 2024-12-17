@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 20866,
+  "num_followers": 20874,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u3082\u3046\u4e00\u5ea6",
-        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "duration_ms": 250766,
-      "name": "\u3082\u3046\u4e00\u5ea6",
-      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
+        "name": "\u3082\u3046\u4e00\u5ea6",
+        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 250766,
+      "name": "\u3082\u3046\u4e00\u5ea6",
+      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 201973,
       "name": "\u672c\u5f53\u306f\u306d\u3001",
       "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
+        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "\u2661\u4eba\u751f\u2661",
+      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -427,22 +443,6 @@
       "duration_ms": 249600,
       "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
-        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
-        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "\u2661\u4eba\u751f\u2661",
-      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u544a\u767d",
-        "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "I'm a mess",
-      "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 193226,
       "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
       "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "\u544a\u767d",
+        "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "I'm a mess",
+      "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
+        "name": "Mouiiyo",
+        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 177959,
+      "name": "Mouiiyo",
+      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
         "name": "\u30b5\u30cb\u30fc\u30dc\u30c8\u30eb",
         "url": "https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 194344,
       "name": "\u306a\u3041",
       "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
-        "name": "Mouiiyo",
-        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 177959,
-      "name": "Mouiiyo",
-      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
     },
     {
       "added_at": "2024-12-03 15:00:00",

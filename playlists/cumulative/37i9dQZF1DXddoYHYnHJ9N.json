@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Feh\u00e9r Kriszti\u00e1n\n",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: BSW",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Kettesben",
+        "url": "https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Kettesben",
+      "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
+    },
+    {
+      "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
       },
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 126930,
       "name": "Osztriga",
       "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
@@ -1172,6 +1190,24 @@
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
+    },
+    {
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137614,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
     },
     {
       "album": {
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 139014,
       "name": "seholse",
       "url": "https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc"
@@ -1543,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -1670,7 +1724,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-17",
       "duration_ms": 123125,
       "name": "\u00d6rd\u00f6g N\u00f3rika",
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"

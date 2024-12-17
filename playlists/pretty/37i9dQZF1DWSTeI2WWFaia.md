@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Roc Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,581 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,598 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 44 | [Ecstasy \(Freestyle\)](https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Ecstasy \(Freestyle\)](https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X) | 1:57 |
 | 45 | [Harvey Grant](https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 2:27 |
 | 46 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 |
-| 47 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
-| 48 | [Underground King](https://open.spotify.com/track/1Eaqj8WSG79blDjoHcST3r) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Westside Pootie](https://open.spotify.com/artist/14P6nG9Uxzwzt7L8GoqMwL), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Still Praying](https://open.spotify.com/album/0rVlityTu3N2PTYD7eqL8G) | 3:47 |
-| 49 | [DENiM](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
-| 50 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 |
+| 47 | [Cryotherapy](https://open.spotify.com/track/0A83vW4q1Gzb23gg5QuHy6) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Skeleton Key](https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52) | 3:01 |
+| 48 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
+| 49 | [Underground King](https://open.spotify.com/track/1Eaqj8WSG79blDjoHcST3r) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Westside Pootie](https://open.spotify.com/artist/14P6nG9Uxzwzt7L8GoqMwL), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Still Praying](https://open.spotify.com/album/0rVlityTu3N2PTYD7eqL8G) | 3:47 |
+| 50 | [DENiM](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 
 Snapshot ID: `Z1uxXwAAAABBpyQfTYcw3bkskeet2ZG/`

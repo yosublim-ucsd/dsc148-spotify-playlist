@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,145 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,155 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 15 | [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 |
 | 16 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 17 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 18 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
-| 19 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
-| 20 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
+| 18 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
+| 19 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 20 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 21 | [SignaL](https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [SignaL](https://open.spotify.com/album/5wcdh9GwhmHAdyQmbpwmkd) | 3:37 |
 | 22 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 23 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |

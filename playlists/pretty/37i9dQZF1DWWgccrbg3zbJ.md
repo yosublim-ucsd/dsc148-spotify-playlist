@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,906 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,265 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
